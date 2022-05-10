@@ -1,16 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500&display=swap');
 
 body {
-    width: 50%;
-    margin: auto;
-    display: block;
     font-family: 'Source Code Pro', monospace;
 }
 
 .logo {
     display: block;
-    margin: auto;
-    width: 256px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 256px;
 }
 
 .title {
