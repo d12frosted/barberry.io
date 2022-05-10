@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500&display=swap');
+
+body {
+    width: 50%;
+    margin: auto;
+    display: block;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 256px;
+}
+
+.title {
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: #ECEFF1;
+    color: #37474F;
+    font-weight: 500;
+}
+
+.comment p {
+    text-align: center;
+    color: #B0BEC5;
+    font-weight: 300;
+}
+
+.comment a {
+    text-decoration: none;
+    color: #FFAB91;
+    font-weight: 300;
+}
