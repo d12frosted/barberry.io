@@ -13,6 +13,10 @@ main = hakyll $ do
     route idRoute
     compile compressCssCompiler
 
+  match "assets/favicon/*" $ do
+    route $ gsubRoute "assets/favicon/" (const "")
+    compile copyFileCompiler
+
   match "index.html" $ do
     route idRoute
     compile $ do
