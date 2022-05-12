@@ -2,3 +2,5 @@ _cache/
 _site
 public/
 dist-newstyle/
+.stack-work
+.DS_Store
