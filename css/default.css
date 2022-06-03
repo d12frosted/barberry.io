@@ -1,33 +1,225 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500&family=Source+Serif+Pro:wght@300;400&display=swap');
+
+:root {
+  --foreground: #37474F;
+  --background: #FFFFFF;
+  --subtle: #ECEFF1;
+  --subtle-i: #ECEFF1;
+  --faded: #ADADAD;
+  --faded-i: #E7ECEE;
+  --salient: #7880B5;
+  --salient-i: #E2E5F3;
+  --strong: #263238;
+  --strong-i #263238;
+  --popout: #FDA521;
+  --popout-i: #FED18C;
+  --critical: #C8553D;
+  --critical-i: #C8553D;
+  --successful: #74AC48;
+  --successful-i: #E9F7DF;
+  --highlight-default: #F5F5F5;
+  --highlight-successful: #E9F7DF;
+  --highlight-salient: #F7FCE3;
+  --highlight-critical: #EFC6BE;
+}
+
+html {
+  font-size: 62.5%;
+}
 
 body {
-    font-family: 'Source Code Pro', monospace;
+  font-family: 'Source Code Pro', monospace;
+  color: var(--foreground);
+  font-size: 1.6rem;
 }
 
-.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-    max-width: 256px;
+a {
+  text-decoration: none;
+  color: var(--salient);
 }
+
+a:hover {
+  text-decoration: underline;
+}
+
+img.bg-logo {
+  display: block;
+  float: left;
+  margin-right: 1em;
+  max-width: 128px;
+}
+
+@media (max-width: 1024px) {
+  img.bg-logo {
+    width: 50%;
+    max-width: 256px;
+    display: block;
+    float: none;
+    margin: auto;
+  }
+}
+
 
 .title {
-    text-align: center;
-    text-decoration: overline;
-    text-decoration-color: #ECEFF1;
-    color: #37474F;
-    font-weight: 500;
+  text-align: center;
+  text-decoration: overline;
+  text-decoration-color: var(--subtle);
+  color: var(--foreground);
+  font-weight: 500;
 }
 
-.comment p {
-    text-align: center;
-    color: #B0BEC5;
-    font-weight: 300;
+header {
+  border-bottom: 0.2rem solid var(--foreground);
 }
 
-.comment a {
-    text-decoration: none;
-    color: #FFAB91;
-    font-weight: 300;
+nav {
+  text-align: right;
+}
+
+nav a {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--foreground);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 1.2rem 0;
+  border-top: 0.2rem solid var(--foreground);
+  font-size: 1.2rem;
+  color: var(--faded);
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+article {
+  font-family: 'Source Serif Pro', serif;
+}
+
+article p {
+  text-align: justify;
+}
+
+article .header {
+  font-size: 1.4rem;
+  color: var(--faded);
+}
+
+article img {
+  max-width: 100%;
+  margin-block-start: 1em;
+}
+
+article p {
+  max-width: 100%;
+  margin-block-start: 1em;
+}
+
+article table {
+  width: 120%;
+  font-size: 1.2rem;
+  margin-left: -10%;
+}
+
+.logo a {
+  font-weight: bold;
+  color: var(--foreground);
+  text-decoration: none;
+}
+
+@media (max-width: 319px) {
+  body {
+    width: 90%;
+    margin: 0;
+    padding: 0 5%;
+  }
+  header {
+    margin: 4.2rem 0;
+  }
+  nav {
+    margin: 0 auto 3rem;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+  }
+  .logo {
+    text-align: center;
+    margin: 1rem auto 3rem;
+  }
+  .logo a {
+    font-size: 2.4rem;
+  }
+  nav a {
+    display: block;
+    line-height: 1.6;
+  }
+}
+
+@media (min-width: 320px) {
+  body {
+    width: 90%;
+    margin: 0;
+    padding: 0 5%;
+  }
+  header {
+    margin: 4.2rem 0;
+  }
+  nav {
+    margin: 0 auto 3rem;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+  }
+  .logo {
+    text-align: center;
+    margin: 1rem auto 3rem;
+  }
+  .logo a {
+    font-size: 2.4rem;
+  }
+  nav a {
+    display: inline;
+    margin: 0 0.6rem;
+  }
+}
+
+@media (min-width: 640px) {
+  body {
+    width: 60rem;
+    margin: 0 auto;
+    padding: 0;
+  }
+  header {
+    margin: 0 0 3rem;
+    padding: 1.2rem 0;
+  }
+  nav {
+    margin: 0;
+    text-align: right;
+  }
+  nav a {
+    margin: 0 0 0 1.2rem;
+    display: inline;
+  }
+  footer {
+    text-align: right;
+  }
+  .logo {
+    margin: 0;
+    text-align: left;
+  }
+  .logo a {
+    float: left;
+    font-size: 1.8rem;
+  }
 }

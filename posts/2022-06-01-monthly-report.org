@@ -1,0 +1,496 @@
+---
+title: Monthly report - May 2022
+author: Boris
+---
+
+#+BEGIN_EXPORT html
+<img src="/images/2022-06-01-dugat-py.jpeg" />
+#+END_EXPORT
+
+Little by little I am getting back to mindful wine consumption. Ratio of total wines rated to total wines consumed is also getting back to normal - 59%. So according to my notes, this month I consumed 49 bottles and rated 29 of them. And all ratings are unique (e.g. no wine was rated twice).
+
+#+begin_export html
+<canvas id="countries" width="400" height="120"></canvas>
+<script>
+new Chart(document.getElementById('countries').getContext('2d'), {
+  plugins: [ChartDataLabels],
+  type: 'bar',
+  data: {
+    labels: ['Italy', 'France', 'Chile', 'New Zealand', 'Australia', 'Austria', 'Spain', 'Ukraine'],
+    datasets: [{
+      label: '# of ratings',
+      data: [9, 6, 5, 4, 2, 1, 1, 1],
+      backgroundColor: [
+        'rgba(255, 99, 132, 0.2)',
+        'rgba(54, 162, 235, 0.2)',
+        'rgba(255, 206, 86, 0.2)',
+        'rgba(75, 192, 192, 0.2)',
+        'rgba(153, 102, 255, 0.2)',
+        'rgba(255, 159, 64, 0.2)'
+      ],
+      borderColor: [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)',
+        'rgba(75, 192, 192, 1)',
+        'rgba(153, 102, 255, 1)',
+        'rgba(255, 159, 64, 1)'
+      ],
+      borderWidth: 1
+    }]
+  },
+  options: {
+    scales: {
+      y: {
+        beginAtZero: true
+      }
+    },
+    plugins: {
+      legend: {
+        display: false
+      },
+      datalabels: {
+        anchor: 'end',
+        align: 'start'
+      }
+    }
+  }
+});
+</script>
+#+end_export
+
+Country-wise, this month wasn't that fruitful, only 8 countries are present in my ratings. But there are several interesting points. Somehow Italy got to the first place with 9 wines rated. And despite the fact that during the last 3 months I've been drinking absurdly huge amount of Ukrainian wines, only one was rated, but what a wine - [[https://www.vivino.com/users/boris.un/reviews/245335203][Vinoman BLU Pinot Noir 2019]]! And what amazes me the most, Chile is on the 3rd place with 5 wines rated. Look, I have nothing against Chile, but my last Chile wine rating was made on 2021-11-20 and before that on 2021-06-17. So not a common guest in my glass. And I must confess, this month I enjoyed some of the Sauvignon Blancs from there.
+
+#+begin_export html
+<canvas id="vintages" width="400" height="120"></canvas>
+<script>
+new Chart(document.getElementById('vintages').getContext('2d'), {
+  plugins: [ChartDataLabels],
+  type: 'bar',
+  data: {
+    labels: ['2020', '2019', '2018', '2016', '2014', '2013', 'NV'],
+    datasets: [{
+      label: '# of ratings',
+      data: [8, 8, 3, 1, 1, 1, 7],
+      backgroundColor: [
+        'rgba(255, 99, 132, 0.2)',
+        'rgba(54, 162, 235, 0.2)',
+        'rgba(255, 206, 86, 0.2)',
+        'rgba(75, 192, 192, 0.2)',
+        'rgba(153, 102, 255, 0.2)',
+        'rgba(255, 159, 64, 0.2)'
+      ],
+      borderColor: [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)',
+        'rgba(75, 192, 192, 1)',
+        'rgba(153, 102, 255, 1)',
+        'rgba(255, 159, 64, 1)'
+      ],
+      borderWidth: 1,
+    }]
+  },
+  options: {
+    scales: {
+      y: {
+        beginAtZero: true
+      }
+    },
+    plugins: {
+      legend: {
+        display: false
+      },
+      datalabels: {
+        anchor: 'end',
+        align: 'start'
+      }
+    }
+  }
+});
+</script>
+#+end_export
+
+The youngest vintage rated is 2020 and it was rated 8 times, it's the same amount of ratings 2019 got. The oldest vintage rated is 2013, and I am happy that it was Champagne - [[https://www.vivino.com/users/boris.un/reviews/244609723][Lamiable Cuvee Pheerie 2013]].
+
+In terms of color and carbonation distribution it's quite boring, but since I have this data, let me share it. This month I rated 14 white, 13 red and 2 rosé wines. 21 of all rated wines are still and 8 sparkling.
+
+Now to the most interesting part. My top list of the month.
+
+1. 8.5 [[https://www.vivino.com/users/boris.un/reviews/244609723][Lamiable Cuvee Pheerie 2013]]- almost 9 years old Champagne for 1377 UAH (~$46), that's amazing QPR. Drink now.
+2. 8.5 [[https://www.vivino.com/users/boris.un/reviews/244543747][Jacquesson Cuvée 744 Grand Vin (2016) NV]] - it's still too young, and seems like it has amazing potential. Buy while it's in stocks and store it for few years..
+3. 8.0 Weingut Bründlmayer Brut Rosé NV - one of my favourite sparkling rosé wines, consistently delivers for a good price.
+4. 8.0 Bertolotto Brut NV - discovery of the month. Traditional sparkling from Piedmont that is almost 13 years old. And I found it by accident, it was hidden on a shelf behind some mainstream Champagne labels. Happy that I did!
+5. 8.0 Craggy Range Gimblett Gravels Syrah 2018 - my first Syrah from New Zealand and definitely not the last. I absolutely love the delicacy and complexity of this wine. Having its potential in mind I can only wonder how it evolve in few years.
+
+So despite having rated only 8 sparkling wines, 4 of them are at the top. Who would expect that? And there are other interesting wines I rated this month, but now let's take a look at the worst wines.
+
+1. 4.5 Cantina la Salute Sauvignon - it is not bad, just... well, at least buy it for adequate price.
+2. 5.0 [[https://www.vivino.com/users/boris.un/reviews/245399829][Barton & Guestier Chardonnay Réserve 2019]] - mediocre Chardonnay for those who want to feel oak pieces in their glass.
+3. 5.2 [[https://www.vivino.com/users/boris.un/reviews/245399863][Sizarini Pinot Grigio 2020]] - this one must be chilled as much as possible and enjoyed in a hot summer day. Add a nice view, and... ah wine! This one is for background.
+
+Nothing that critical, just mediocre wines. So no witch hunting this month.
+
+#+begin_export html
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">date</th>
+<th scope="col" class="org-left">country</th>
+<th scope="col" class="org-left">producer</th>
+<th scope="col" class="org-left">name</th>
+<th scope="col" class="org-right">year</th>
+<th scope="col" class="org-left">price</th>
+<th scope="col" class="org-right">rate</th>
+<th scope="col" class="org-right">QPR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">2022-05-04</td>
+<td class="org-left">Italy</td>
+<td class="org-left">San Leonardo</td>
+<td class="org-left">Terre di San Leonardo</td>
+<td class="org-right">2014</td>
+<td class="org-left">706.00 UAH</td>
+<td class="org-right">7.75</td>
+<td class="org-right">2.8210</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-04</td>
+<td class="org-left">New Zealand</td>
+<td class="org-left">Mud House</td>
+<td class="org-left">Pinot Noir Central Otago</td>
+<td class="org-right">2020</td>
+<td class="org-left">490.00 UAH</td>
+<td class="org-right">7.00</td>
+<td class="org-right">2.3738</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-04</td>
+<td class="org-left">France</td>
+<td class="org-left">Paul Benoit et Fils</td>
+<td class="org-left">Pinot Arbois</td>
+<td class="org-right">2018</td>
+<td class="org-left">693.00 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">2.3934</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-08</td>
+<td class="org-left">Australia</td>
+<td class="org-left">Two Hands</td>
+<td class="org-left">Sexy Beast</td>
+<td class="org-right">2019</td>
+<td class="org-left">697.78 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">2.3770</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-10</td>
+<td class="org-left">France</td>
+<td class="org-left">Patrice Beguet</td>
+<td class="org-left">Big Bunch Theory Fresh Impression Red</td>
+<td class="org-right">2020</td>
+<td class="org-left">620.00 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">2.6752</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-11</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Cascina Tavijn</td>
+<td class="org-left">Bandita</td>
+<td class="org-right">2019</td>
+<td class="org-left">514.17 UAH</td>
+<td class="org-right">7.75</td>
+<td class="org-right">3.8735</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-14</td>
+<td class="org-left">France</td>
+<td class="org-left">Jacquesson</td>
+<td class="org-left">Cuvée 744 Grand Vin (2016)</td>
+<td class="org-right">NV</td>
+<td class="org-left">2 054.00 UAH</td>
+<td class="org-right">8.50</td>
+<td class="org-right">1.7143</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-15</td>
+<td class="org-left">New Zealand</td>
+<td class="org-left">Fernway</td>
+<td class="org-left">Sauvignon Blanc</td>
+<td class="org-right">2019</td>
+<td class="org-left">750.00 UAH</td>
+<td class="org-right">7.00</td>
+<td class="org-right">1.5509</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-16</td>
+<td class="org-left">Austria</td>
+<td class="org-left">Weingut Bründlmayer</td>
+<td class="org-left">Brut Rosé</td>
+<td class="org-right">NV</td>
+<td class="org-left">943.17 UAH</td>
+<td class="org-right">8.00</td>
+<td class="org-right">2.5446</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-17</td>
+<td class="org-left">France</td>
+<td class="org-left">Lamiable</td>
+<td class="org-left">Cuvee Pheerie</td>
+<td class="org-right">2013</td>
+<td class="org-left">1 377.00 UAH</td>
+<td class="org-right">8.50</td>
+<td class="org-right">2.5571</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-17</td>
+<td class="org-left">Chile</td>
+<td class="org-left">Concha y Toro</td>
+<td class="org-left">Casillero del Diablo Carmenere Reserva</td>
+<td class="org-right">2019</td>
+<td class="org-left">450.00 UAH</td>
+<td class="org-right">5.75</td>
+<td class="org-right">1.1421</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-18</td>
+<td class="org-left">Chile</td>
+<td class="org-left">San Pedro</td>
+<td class="org-left">Gato Negro Merlot</td>
+<td class="org-right">2020</td>
+<td class="org-left">240.00 UAH</td>
+<td class="org-right">6.00</td>
+<td class="org-right">2.5000</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-19</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Sizarini</td>
+<td class="org-left">Pinot Grigio</td>
+<td class="org-right">2020</td>
+<td class="org-left">275.00 UAH</td>
+<td class="org-right">5.25</td>
+<td class="org-right">1.3907</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-20</td>
+<td class="org-left">France</td>
+<td class="org-left">Barton &amp; Guestier</td>
+<td class="org-left">Chardonnay Réserve</td>
+<td class="org-right">2019</td>
+<td class="org-left">460.00 UAH</td>
+<td class="org-right">5.00</td>
+<td class="org-right">0.7225</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-21</td>
+<td class="org-left">Chile</td>
+<td class="org-left">Luis Felipe Edwards</td>
+<td class="org-left">Sauvignon Blanc</td>
+<td class="org-right">2020</td>
+<td class="org-left">340.00 UAH</td>
+<td class="org-right">6.50</td>
+<td class="org-right">2.4368</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-21</td>
+<td class="org-left">Chile</td>
+<td class="org-left">Luis Felipe Edwards</td>
+<td class="org-left">Sauvignon Blanc Reserva</td>
+<td class="org-right">2019</td>
+<td class="org-left">490.00 UAH</td>
+<td class="org-right">7.25</td>
+<td class="org-right">2.8293</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-23</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Villa Puccini</td>
+<td class="org-left">Chianti Riserva</td>
+<td class="org-right">2016</td>
+<td class="org-left">395.00 UAH</td>
+<td class="org-right">6.50</td>
+<td class="org-right">2.0975</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-24</td>
+<td class="org-left">Chile</td>
+<td class="org-left">Concha y Toro</td>
+<td class="org-left">Casillero del Diablo Sauvignon Blanc</td>
+<td class="org-right">2020</td>
+<td class="org-left">440.00 UAH</td>
+<td class="org-right">7.25</td>
+<td class="org-right">3.1508</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-25</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Cantina la Salute</td>
+<td class="org-left">Sauvignon</td>
+<td class="org-right">NV</td>
+<td class="org-left">450.00 UAH</td>
+<td class="org-right">4.50</td>
+<td class="org-right">0.5665</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-25</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Savella</td>
+<td class="org-left">Pinot Grigio</td>
+<td class="org-right">2020</td>
+<td class="org-left">300.00 UAH</td>
+<td class="org-right">6.50</td>
+<td class="org-right">2.7617</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-27</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Borgo Solè</td>
+<td class="org-left">Prosecco Brut</td>
+<td class="org-right">NV</td>
+<td class="org-left">400.00 UAH</td>
+<td class="org-right">6.50</td>
+<td class="org-right">2.0713</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-27</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Terra Fresca</td>
+<td class="org-left">frizzante</td>
+<td class="org-right">NV</td>
+<td class="org-left">500.00 UAH</td>
+<td class="org-right">6.50</td>
+<td class="org-right">1.6570</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-29</td>
+<td class="org-left">France</td>
+<td class="org-left">Francois Montand</td>
+<td class="org-left">Méthode Traditionnelle Brut Rosé</td>
+<td class="org-right">NV</td>
+<td class="org-left">238.59 UAH</td>
+<td class="org-right">7.00</td>
+<td class="org-right">4.8752</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-29</td>
+<td class="org-left">Spain</td>
+<td class="org-left">Raventós i Blanc</td>
+<td class="org-left">Blanc de Blancs Extra Brut</td>
+<td class="org-right">2018</td>
+<td class="org-left">1 700.00 UAH</td>
+<td class="org-right">7.75</td>
+<td class="org-right">1.1715</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-29</td>
+<td class="org-left">New Zealand</td>
+<td class="org-left">Saint Clair</td>
+<td class="org-left">Origin Pinot Noir Marlborough</td>
+<td class="org-right">2019</td>
+<td class="org-left">546.00 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">3.0378</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-30</td>
+<td class="org-left">Italy</td>
+<td class="org-left">Bertolotto</td>
+<td class="org-left">Brut</td>
+<td class="org-right">NV</td>
+<td class="org-left">900.00 UAH</td>
+<td class="org-right">8.00</td>
+<td class="org-right">2.6667</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-31</td>
+<td class="org-left">Ukraine</td>
+<td class="org-left">Vinoman</td>
+<td class="org-left">BLU Pinot Noir</td>
+<td class="org-right">2019</td>
+<td class="org-left">1 100.00 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">1.5078</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-31</td>
+<td class="org-left">Australia</td>
+<td class="org-left">Lucy Margaux</td>
+<td class="org-left">Vino Rosso</td>
+<td class="org-right">2020</td>
+<td class="org-left">774.00 UAH</td>
+<td class="org-right">7.50</td>
+<td class="org-right">2.1429</td>
+</tr>
+
+<tr>
+<td class="org-right">2022-05-31</td>
+<td class="org-left">New Zealand</td>
+<td class="org-left">Craggy Range</td>
+<td class="org-left">Gimblett Gravels Syrah</td>
+<td class="org-right">2018</td>
+<td class="org-left">901.00 UAH</td>
+<td class="org-right">8.00</td>
+<td class="org-right">2.6637</td>
+</tr>
+</tbody>
+</table>
+#+end_export
+
+And I want to finish my report with one special mention. As you might know, Goodwine storage was destroyed at the beginning of the war. Estimated loss is 15 billion euros. Some wines survived physically, though they are completely spoiled. On the last day of May I had an opportunity to taste Gevrey-Chambertin Cuvée Cœur de Roy 2014 by famous Bernard Dugat-Py. This bottle 'survived' is the fires, though the label was completely ruined and we figured out what wine we opened only thanks to the writings on the cork.
+
+I must note that I don't really like Dugat-Py style. It's powerful, expressive and stands out from other producers, but I find nothing sexy in this style. For example, there is Jean Grivot with expressive and unique style, but his wines are delicate and beautiful. Someone joked that Dugat-Py is Bourgogne for Bordeaux fans.
+
+Nevertheless, I tasted this dead wine and in the flavours of burnt tires and paper, in this disintegrated and broken body I found solace. And I found comfort. It's too early to extract feelings into words, but at least I know that my small world can carry on. Not by inertia, but at will.
+
+Save travels!
