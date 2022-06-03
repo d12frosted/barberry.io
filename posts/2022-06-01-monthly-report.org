@@ -133,6 +133,7 @@ So despite having rated only 8 sparkling wines, 4 of them are at the top. Who wo
 Nothing that critical, just mediocre wines. So no witch hunting this month.
 
 #+begin_export html
+<div style="overflow: auto">
 <table cellspacing="0" cellpadding="6" rules="groups">
 
 <thead>
@@ -468,6 +469,7 @@ Nothing that critical, just mediocre wines. So no witch hunting this month.
 </tr>
 </tbody>
 </table>
+</div>
 #+end_export
 
 And I want to finish my report with one special mention. As you might know, Goodwine storage was destroyed at the beginning of the war. Estimated loss is 15 billion euros. Some wines survived physically, though they are completely spoiled. On the last day of May I had an opportunity to taste Gevrey-Chambertin Cuvée Cœur de Roy 2014 by famous Bernard Dugat-Py. This bottle 'survived' is the fires, though the label was completely ruined and we figured out what wine we opened only thanks to the writings on the cork.
