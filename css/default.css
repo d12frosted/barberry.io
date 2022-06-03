@@ -43,22 +43,12 @@ a:hover {
 }
 
 img.bg-logo {
+  width: 50%;
+  max-width: 256px;
   display: block;
-  float: left;
-  margin-right: 1em;
-  max-width: 128px;
+  float: none;
+  margin: auto;
 }
-
-@media (max-width: 1024px) {
-  img.bg-logo {
-    width: 50%;
-    max-width: 256px;
-    display: block;
-    float: none;
-    margin: auto;
-  }
-}
-
 
 .title {
   text-align: center;
@@ -124,9 +114,9 @@ article p {
 }
 
 article table {
-  width: 120%;
   font-size: 1.2rem;
-  margin-left: -10%;
+  overflow-x: auto;
+  display: block;
 }
 
 .logo a {
@@ -193,7 +183,7 @@ article table {
   }
 }
 
-@media (min-width: 640px) {
+@media (min-width: 800px) {
   body {
     width: 60rem;
     margin: 0 auto;
@@ -221,5 +211,15 @@ article table {
   .logo a {
     float: left;
     font-size: 1.8rem;
+  }
+  img.bg-logo {
+    display: block;
+    float: left;
+    margin-right: 1em;
+    max-width: 128px;
+  }
+  article table {
+    width: 120%;
+    margin-left: -10%;
   }
 }
