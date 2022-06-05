@@ -4,7 +4,8 @@ build-type:         Simple
 cabal-version:      >= 1.10
 
 executable site
-  main-is:          site.hs
+  main-is:          Main.hs
+  hs-source-dirs:   app
   build-depends:    base == 4.*
                   , hakyll == 4.15.*
   ghc-options:      -threaded -rtsopts -with-rtsopts=-N

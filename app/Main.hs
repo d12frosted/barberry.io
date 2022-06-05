@@ -16,12 +16,12 @@ main = hakyll $ do
     route $ gsubRoute "assets/favicon/" (const "")
     compile copyFileCompiler
 
-  match "intro.org" $ do
-    route $ setExtension "html"
+  match "pages/intro.org" $ do
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile pandocCompiler
 
-  -- match (fromList ["about.org", "contact.markdown"]) $ do
-  --   route $ setExtension "html"
+  -- match (fromList ["pages/about.org", "pages/contact.markdown"]) $ do
+  --   route $ gsubRoute "pages/" (const "") <> setExtension "html"
   --   compile $
   --     pandocCompiler
   --       >>= loadAndApplyTemplate "templates/default.html" defaultContext
@@ -49,11 +49,11 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
         >>= relativizeUrls
 
-  match "index.html" $ do
-    route idRoute
+  match "pages/index.html" $ do
+    route $ gsubRoute "pages/" (const "")
     compile $ do
       posts <- recentFirst =<< loadAll "posts/*"
-      intro <- load "intro.org"
+      intro <- load "pages/intro.org"
       let indexCtx =
             listField "posts" postCtx (return posts)
               <> field "intro" (const . return . itemBody $ intro)
