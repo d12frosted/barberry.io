@@ -1,3 +1,4 @@
+{-# LANGUAGE LambdaCase #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TupleSections #-}
 
@@ -45,6 +46,7 @@ main = hakyll $ do
       pandocCompiler
         >>= loadAndApplyTemplate "templates/post.html" postCtx
         >>= loadAndApplyTemplate "templates/default.html" postCtx
+        >>= fixUrls
         >>= relativizeUrls
 
   create ["posts.html"] $ do
@@ -59,6 +61,7 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/posts.html" archiveCtx
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+        >>= fixUrls
         >>= relativizeUrls
 
   match "wines/*.org" $ do
@@ -67,6 +70,7 @@ main = hakyll $ do
       pandocCompiler
         >>= loadAndApplyTemplate "templates/wine.html" wineCtx
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
+        >>= fixUrls
         >>= relativizeUrls
 
   create ["wines.html"] $ do
@@ -81,6 +85,7 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/wines.html" archiveCtx
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+        >>= fixUrls
         >>= relativizeUrls
 
   create ["reviews.html"] $ do
@@ -95,6 +100,7 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/reviews.html" ctx
         >>= loadAndApplyTemplate "templates/default.html" ctx
+        >>= fixUrls
         >>= relativizeUrls
 
   match "pages/index.html" $ do
@@ -112,6 +118,7 @@ main = hakyll $ do
       getResourceBody
         >>= applyAsTemplate indexCtx
         >>= loadAndApplyTemplate "templates/default.html" indexCtx
+        >>= fixUrls
         >>= relativizeUrls
 
   match "templates/*" $ compile templateBodyCompiler
@@ -140,7 +147,15 @@ titleOrdered = sortByM $ getTitle . itemIdentifier
 
     sortByM :: (Monad m, Ord k) => (a -> m k) -> [a] -> m [a]
     sortByM f xs =
-      liftM (map fst . sortBy (comparing snd)) $
-        mapM (\x -> liftM (x,) (f x)) xs
+      map fst . sortBy (comparing snd)
+        <$> mapM (\x -> fmap (x,) (f x)) xs
+
+--------------------------------------------------------------------------------
+
+fixUrls :: Item String -> Compiler (Item String)
+fixUrls = pure . fmap (withUrls fix)
+  where
+    fix x = maybe x wrap (stripPrefix "barberry:" x)
+    wrap x = x <> ".html"
 
 --------------------------------------------------------------------------------
