@@ -24,6 +24,10 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile pandocCompiler
 
+  match "pages/latest-reviews.org" $ do
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
+    compile pandocCompiler
+
   -- match (fromList ["pages/about.org", "pages/contact.markdown"]) $ do
   --   route $ gsubRoute "pages/" (const "") <> setExtension "html"
   --   compile $
@@ -80,9 +84,11 @@ main = hakyll $ do
     compile $ do
       posts <- recentFirst =<< loadAll "posts/*"
       intro <- load "pages/intro.org"
+      reviews <- load "pages/latest-reviews.org"
       let indexCtx =
             listField "posts" postCtx (return posts)
               <> field "intro" (const . return . itemBody $ intro)
+              <> field "latest-reviews" (const . return . itemBody $ reviews)
               <> defaultContext
 
       getResourceBody
