@@ -24,7 +24,11 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile pandocCompiler
 
-  match "pages/latest-reviews.org" $ do
+  match "pages/reviews-latest.org" $ do
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
+    compile pandocCompiler
+
+  match "pages/reviews.org" $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile pandocCompiler
 
@@ -79,12 +83,26 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
         >>= relativizeUrls
 
+  create ["reviews.html"] $ do
+    route idRoute
+    compile $ do
+      reviews <- load "pages/reviews.org"
+      let ctx =
+            field "reviews" (const . return . itemBody $ reviews)
+              `mappend` constField "title" "Reviews"
+              `mappend` defaultContext
+
+      makeItem ""
+        >>= loadAndApplyTemplate "templates/reviews.html" ctx
+        >>= loadAndApplyTemplate "templates/default.html" ctx
+        >>= relativizeUrls
+
   match "pages/index.html" $ do
     route $ gsubRoute "pages/" (const "")
     compile $ do
       posts <- recentFirst =<< loadAll "posts/*"
       intro <- load "pages/intro.org"
-      reviews <- load "pages/latest-reviews.org"
+      reviews <- load "pages/reviews-latest.org"
       let indexCtx =
             listField "posts" postCtx (return posts)
               <> field "intro" (const . return . itemBody $ intro)
