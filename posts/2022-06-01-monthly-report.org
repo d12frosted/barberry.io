@@ -60,7 +60,7 @@ new Chart(document.getElementById('countries').getContext('2d'), {
 </script>
 #+end_export
 
-Country-wise, this month wasn't that fruitful, only 8 countries are present in my ratings. But there are several interesting points. Somehow Italy got to the first place with 9 wines rated. And despite the fact that during the last 3 months I've been drinking absurdly huge amount of Ukrainian wines, only one was rated, but what a wine - [[https://www.vivino.com/users/boris.un/reviews/245335203][Vinoman BLU Pinot Noir 2019]]! And what amazes me the most, Chile is on the 3rd place with 5 wines rated. Look, I have nothing against Chile, but my last Chile wine rating was made on 2021-11-20 and before that on 2021-06-17. So not a common guest in my glass. And I must confess, this month I enjoyed some of the Sauvignon Blancs from there.
+Country-wise, this month wasn't that fruitful, only 8 countries are present in my ratings. But there are several interesting points. Somehow Italy got to the first place with 9 wines rated. And despite the fact that during the last 3 months I've been drinking absurdly huge amount of Ukrainian wines, only one was rated, but what a wine - [[https://barberry.io/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html][Vinoman BLU Pinot Noir 2019]]! And what amazes me the most, Chile is on the 3rd place with 5 wines rated. Look, I have nothing against Chile, but my last Chile wine rating was made on 2021-11-20 and before that on 2021-06-17. So not a common guest in my glass. And I must confess, this month I enjoyed some of the Sauvignon Blancs from there.
 
 #+begin_export html
 <canvas id="vintages" width="400" height="120"></canvas>
@@ -112,25 +112,25 @@ new Chart(document.getElementById('vintages').getContext('2d'), {
 </script>
 #+end_export
 
-The youngest vintage rated is 2020 and it was rated 8 times, it's the same amount of ratings 2019 got. The oldest vintage rated is 2013, and I am happy that it was Champagne - [[https://www.vivino.com/users/boris.un/reviews/244609723][Lamiable Cuvee Pheerie 2013]].
+The youngest vintage rated is 2020 and it was rated 8 times, it's the same amount of ratings 2019 got. The oldest vintage rated is 2013, and I am happy that it was Champagne - [[id:d42317ae-b258-4c87-9fe0-5d94ad9bfaf6][Lamiable Cuvee Pheerie 2013]].
 
 In terms of color and carbonation distribution it's quite boring, but since I have this data, let me share it. This month I rated 14 white, 13 red and 2 rosé wines. 21 of all rated wines are still and 8 sparkling.
 
-On the other hand, this month is fruitful in terms of grapes (pun intended). In total, I've rated 26 distinct grapes. And this is considering I've rated 29 wines in total! Top three are Pinot Noir (8), Sauvignon Blanc (5) and Chardonnay (4). But most importantly, this month I've tasted and rated Malvasía de Sitges for the first time in my memory (e.g. my system memory) - it was part of the blend in [[https://www.vivino.com/users/boris.un/reviews/245200638][Raventós i Blanc Blanc de Blancs Extra Brut 2018]].
+On the other hand, this month is fruitful in terms of grapes (pun intended). In total, I've rated 26 distinct grapes. And this is considering I've rated 29 wines in total! Top three are Pinot Noir (8), Sauvignon Blanc (5) and Chardonnay (4). But most importantly, this month I've tasted and rated Malvasía de Sitges for the first time in my memory (e.g. my system memory) - it was part of the blend in [[https://barberry.io/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html][Raventós i Blanc Blanc de Blancs Extra Brut 2018]].
 
 Now to the most interesting part. My top list of the month.
 
-1. 8.5 [[https://www.vivino.com/users/boris.un/reviews/244609723][Lamiable Cuvee Pheerie 2013]] - almost 9 years old Champagne for 1377 UAH (~$46), that's amazing QPR. Drink now.
-2. 8.5 [[https://www.vivino.com/users/boris.un/reviews/244543747][Jacquesson Cuvée 744 Grand Vin (2016) NV]] - it's still too young, and seems like it has amazing potential. Buy while it's in stocks and store it for few years..
-3. 8.0 [[https://www.vivino.com/users/boris.un/reviews/245587637][Weingut Bründlmayer Brut Rosé NV]] - one of my favourite sparkling rosé wines, consistently delivers for a good price.
-4. 8.0 [[https://www.vivino.com/users/boris.un/reviews/245724401][Bertolotto Brut NV]] - discovery of the month. Traditional sparkling from Piedmont that is almost 13 years old. And I found it by accident, it was hidden on a shelf behind some mainstream Champagne labels. Happy that I did!
-5. 8.0 [[https://www.vivino.com/users/boris.un/reviews/245724498][Craggy Range Gimblett Gravels Syrah 2018]] - my first Syrah from New Zealand and definitely not the last. I absolutely love the delicacy and complexity of this wine. Having its potential in mind I can only wonder how it evolve in few years.
+1. 8.5 [[https://barberry.io/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html][Lamiable Cuvee Pheerie 2013]] - almost 9 years old Champagne for 1377 UAH (~$46), that's amazing QPR. Drink now.
+2. 8.5 [[https://barberry.io/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html][Jacquesson Cuvée 744 Grand Vin (2016) NV]] - it's still too young, and seems like it has amazing potential. Buy while it's in stocks and store it for few years..
+3. 8.0 [[https://barberry.io/wines/9e046e12-6366-4d23-8657-ee421ad00794.html][Weingut Bründlmayer Brut Rosé NV]] - one of my favourite sparkling rosé wines, consistently delivers for a good price.
+4. 8.0 [[https://barberry.io/wines/baf18c42-2e67-4108-967a-d540bc105779.html][Bertolotto Brut NV]] - discovery of the month. Traditional sparkling from Piedmont that is almost 13 years old. And I found it by accident, it was hidden on a shelf behind some mainstream Champagne labels. Happy that I did!
+5. 8.0 [[https://barberry.io/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html][Craggy Range Gimblett Gravels Syrah 2018]] - my first Syrah from New Zealand and definitely not the last. I absolutely love the delicacy and complexity of this wine. Having its potential in mind I can only wonder how it evolve in few years.
 
 So despite having rated only 8 sparkling wines, 4 of them are at the top. Who would expect that? And there are other interesting wines I rated this month, but now let's take a look at the worst wines.
 
-1. 4.5 Cantina la Salute Sauvignon - it is not bad, just... well, at least buy it for adequate price.
-2. 5.0 [[https://www.vivino.com/users/boris.un/reviews/245399829][Barton & Guestier Chardonnay Réserve 2019]] - mediocre Chardonnay for those who want to feel oak pieces in their glass.
-3. 5.2 [[https://www.vivino.com/users/boris.un/reviews/245399863][Sizarini Pinot Grigio 2020]] - this one must be chilled as much as possible and enjoyed in a hot summer day. Add a nice view, and... ah wine! This one is for background.
+1. 4.5 [[https://barberry.io/wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html][Cantina la Salute Sauvignon]] - it is not bad, just... well, at least buy it for adequate price.
+2. 5.0 [[https://barberry.io/wines/1158f9e0-3925-40bc-976a-91337cfd8031.html][Barton & Guestier Chardonnay Réserve 2019]] - mediocre Chardonnay for those who want to feel oak pieces in their glass.
+3. 5.2 [[https://barberry.io/wines/ea476527-6fc9-4400-9827-dbf63cc3299a.html][Sizarini Pinot Grigio 2020]] - this one must be chilled as much as possible and enjoyed in a hot summer day. Add a nice view, and... ah wine! This one is for background.
 
 Nothing that critical, just mediocre wines. So no witch hunting this month.
 
