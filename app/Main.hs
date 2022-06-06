@@ -1,5 +1,9 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE TupleSections #-}
 
+import Control.Monad
+import Data.List
+import Data.Ord
 import Hakyll
 
 main :: IO ()
@@ -35,7 +39,7 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" postCtx
         >>= relativizeUrls
 
-  create ["archive.html"] $ do
+  create ["posts.html"] $ do
     route idRoute
     compile $ do
       posts <- recentFirst =<< loadAll "posts/*"
@@ -45,7 +49,29 @@ main = hakyll $ do
               `mappend` defaultContext
 
       makeItem ""
-        >>= loadAndApplyTemplate "templates/post-archive.html" archiveCtx
+        >>= loadAndApplyTemplate "templates/posts.html" archiveCtx
+        >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+        >>= relativizeUrls
+
+  match "wines/*.org" $ do
+    route $ setExtension "html"
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/wine.html" wineCtx
+        >>= loadAndApplyTemplate "templates/default.html" wineCtx
+        >>= relativizeUrls
+
+  create ["wines.html"] $ do
+    route idRoute
+    compile $ do
+      wines <- titleOrdered =<< loadAll "wines/*.org"
+      let archiveCtx =
+            listField "wines" wineCtx (return wines)
+              `mappend` constField "title" "Wines"
+              `mappend` defaultContext
+
+      makeItem ""
+        >>= loadAndApplyTemplate "templates/wines.html" archiveCtx
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
         >>= relativizeUrls
 
@@ -67,7 +93,30 @@ main = hakyll $ do
   match "templates/*" $ compile templateBodyCompiler
 
 --------------------------------------------------------------------------------
+
 postCtx :: Context String
 postCtx =
   dateField "date" "%B %e, %Y"
     `mappend` defaultContext
+
+wineCtx :: Context String
+wineCtx = defaultContext
+
+--------------------------------------------------------------------------------
+
+titleOrdered :: (MonadMetadata m, MonadFail m) => [Item a] -> m [Item a]
+titleOrdered = sortByM $ getTitle . itemIdentifier
+  where
+    getTitle :: (MonadMetadata m, MonadFail m) => Identifier -> m String
+    getTitle i = do
+      producer <- getMetadataField' i "producer"
+      name <- getMetadataField' i "name"
+      vintage <- getMetadataField' i "vintage"
+      return $ producer <> " " <> name <> " " <> vintage
+
+    sortByM :: (Monad m, Ord k) => (a -> m k) -> [a] -> m [a]
+    sortByM f xs =
+      liftM (map fst . sortBy (comparing snd)) $
+        mapM (\x -> liftM (x,) (f x)) xs
+
+--------------------------------------------------------------------------------
