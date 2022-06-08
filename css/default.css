@@ -172,7 +172,15 @@ article dt::after {
 article dd {
   float: left;
   padding: 0;
-  margin: 0
+  margin: 0;
+}
+
+.favourite {
+  background: var(--highlight-successful);
+}
+
+.outcast {
+  background: var(--highlight-critical);
 }
 
 .bottle-right {

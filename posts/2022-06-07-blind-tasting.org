@@ -1,0 +1,137 @@
+---
+title: Blind tasting report
+author: Boris
+language: UA
+---
+
+#+BEGIN_EXPORT html
+<img src="/images/2022-06-07-wines.jpeg" />
+#+END_EXPORT
+
+Приємно бачити, що Київ оживає. Кожен день все більше і більше людей повертаються додому, тягнучи за собою свої страхи та надії. Людей стало більше на вулиці, в магазинах та в ресторанах. Навіть затори повертаються попри проблеми з бензином. Але найголовніше, повернулися неочікувані і приємні зустрічі.
+
+А там, де люди, там завжди знаходиться місце і радощам. Так от пан Василь Калініченко повернувся до Києва разом з цікавими пляшчинами та твердим наміром продовжити організовувати дегустації. І от 7-ого червня у Барі 101 він зібрав невеличку компанію для того, щоб у сліпу продегустувати наступні вина.
+
+1. [[https://barberry.io/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html][Lenkey Pinceszet Betsek Korposd Furmint 2011]]
+2. [[https://barberry.io/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html][Viña Tondonia Blanco Reserva 2009]]
+3. [[https://barberry.io/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html][Simon Bize et Fils Bourgogne Les Perrières 2017]]
+4. [[https://barberry.io/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html][J.M Dreyer Elios Pinot Noir 2020]]
+5. [[https://barberry.io/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html][COZs vn-c2 bg 2017]]
+
+Заманив він, звісно, самим фактом події. Але ще й заспойлерив дві пляшчини, що він привіз з Європи - старий Фурмінт з Угорщини та білою Тондонією. А далі, мовляв, без подробиць.
+
+Формат цих зустрічей простий. Збираємося, куштуємо по вину, обговорюємо по черзі та ставимо оцінки від 1 до 5 з десятими. В розмовах ділимося враженнями, аналізуємо вино і намагаємося вгадати сортовий склад, походження, вінтаж та виробника. Найголовніше, ніхто окрім організатора не знає, що то за вино ми куштуємо (інколи навіть організатор не знає, дякуючи хлопцям з бару). А в кінці обираємо своїх фаворитів та аутсайдерів. А далі нарешті спокійно їмо та допиваємо недопите.
+
+І от результати з цієї зустрічі. Мусю зізнатися, дуже цікаві!
+
+#+begin_export html
+<div style="overflow: auto">
+<table cellspacing="0" cellpadding="6" rules="groups">
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-right">Wine #1</th>
+<th scope="col" class="org-right">Wine #2</th>
+<th scope="col" class="org-right">Wine #3</th>
+<th scope="col" class="org-right">Wine #4</th>
+<th scope="col" class="org-right">Wine #5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Ельвіра</td>
+<td class="org-right favourite">4.3</td>
+<td class="org-right">4.5</td>
+<td class="org-right outcast">3.7</td>
+<td class="org-right">4.0</td>
+<td class="org-right">3.8</td>
+</tr>
+
+<tr>
+<td class="org-left">Саша</td>
+<td class="org-right">3.6</td>
+<td class="org-right">4.0</td>
+<td class="org-right outcast">3.5</td>
+<td class="org-right favourite">4.2</td>
+<td class="org-right">3.8</td>
+</tr>
+
+<tr>
+<td class="org-left">Андрій</td>
+<td class="org-right">4.1</td>
+<td class="org-right favourite">4.5</td>
+<td class="org-right outcast">3.2</td>
+<td class="org-right">4.6</td>
+<td class="org-right">3.6</td>
+</tr>
+
+<tr>
+<td class="org-left">Вікторія</td>
+<td class="org-right">4.3</td>
+<td class="org-right favourite">4.6</td>
+<td class="org-right outcast">4.1</td>
+<td class="org-right">4.6</td>
+<td class="org-right">4.0</td>
+</tr>
+
+<tr>
+<td class="org-left">Антон</td>
+<td class="org-right favourite">4.3</td>
+<td class="org-right">4.5</td>
+<td class="org-right">4.0</td>
+<td class="org-right">4.8</td>
+<td class="org-right outcast">3.5</td>
+</tr>
+
+<tr>
+<td class="org-left">Яна</td>
+<td class="org-right">4.4</td>
+<td class="org-right">3.8</td>
+<td class="org-right">4.2</td>
+<td class="org-right favourite">4.8</td>
+<td class="org-right outcast">3.7</td>
+</tr>
+
+<tr>
+<td class="org-left">Вася</td>
+<td class="org-right favourite">4.5</td>
+<td class="org-right">4.6</td>
+<td class="org-right">4.3</td>
+<td class="org-right">4.3</td>
+<td class="org-right outcast">3.8</td>
+</tr>
+
+<tr>
+<td class="org-left">Боря</td>
+<td class="org-right">4.0</td>
+<td class="org-right">4.5</td>
+<td class="org-right favourite">4.0</td>
+<td class="org-right">3.9</td>
+<td class="org-right outcast">3.6</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">33.5</td>
+<td class="org-right">35.</td>
+<td class="org-right">31.</td>
+<td class="org-right favourite">35.2</td>
+<td class="org-right outcast">29.8</td>
+</tr>
+</tbody>
+</table>
+</div>
+#+end_export
+
+З очікуваного, закрита Бургундія (позиця #3) зайшла далеко не всім, і розділила титул найменш улюбленного разом з 5-им вином. І весело, що я єдиний, хто назвав його своїм улюбленцем вечора. Варто зазначити, що і для мене, і для Васі Тондонія була поза конкурсом.
+
+Але найцікавішим виявився топ цього вечора. По-перше, найбільшим фаворитом стало перше вино, хоча за оцінкою воно на третьому місці. Це зайвий раз нагадує про різницю між оцінкою і фаворитом. По-друге, Тондонія опинилася на другому місці, її випередив Піно Нуар з Ельзасу! На перше місце за оцінкою вирвалося вино з шикарним балансом між фанковістю, питкістю та зрозумілістю. По-третє, 3 вина так сильно проявили себе, що людям було дійсно складно обрати. А це вже говорить про крутий вибір вин. Вася молодець! Хтось же мав це сказати.
+
+А щодо вгадувань, то це теж було цікаво. Оскільки білі вина певною мірою заспойлерили, то приємно було бачити, що більшість людей легко зрозуміли, хто є хто. Моїх особистих досягнень у вгадуванні було не багато: вгадав, що Тондонія є саме резрвою; а також вгадав, що третє вино є Піно Нуаром з Бургундії якогось дуже сильно традиційного винороба. Далі все пішло шкереберть. Але фан свій я отримав.
+
+Завершили вечір неймовірним Сенсо від одного з мого улюблених виноробів - [[https://barberry.io/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html][Sadie Family Pofadder 2020]].
+
+Велика подяка Васі, всім хто долучився та рєбятам з Бару 101. Як завжди цікаво, смачно та затишно. Доєднуйтеся до нас наступного разу!
+
+P.S. У Васі є [[https://t.me/BasylSomm0][телеграм канал]], долучайтеся.
