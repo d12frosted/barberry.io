@@ -1,7 +1,12 @@
 <ul>
   $for(wines)$
-    <li>
-      ($rating$) <a href="$url$">$producer$ $name$ $vintage$</a>
-    </li>
+  <li>
+    $if(rating)$
+    ($rating$)
+    $else$
+    (-.--)
+    $endif$
+    <a href="$url$">$producer$ $name$ $vintage$</a>
+  </li>
   $endfor$
 </ul>
