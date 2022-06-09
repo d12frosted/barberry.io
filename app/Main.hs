@@ -40,7 +40,7 @@ main = hakyll $ do
   --       >>= loadAndApplyTemplate "templates/default.html" defaultContext
   --       >>= relativizeUrls
 
-  match "posts/*" $ do
+  match "posts/*.org" $ do
     route $ setExtension "html"
     compile $
       pandocCompiler
@@ -52,7 +52,7 @@ main = hakyll $ do
   create ["posts.html"] $ do
     route idRoute
     compile $ do
-      posts <- recentFirst =<< loadAll "posts/*"
+      posts <- recentFirst =<< loadAll "posts/*.org"
       let archiveCtx =
             listField "posts" postCtx (return posts)
               `mappend` constField "title" "Archives"
@@ -106,7 +106,7 @@ main = hakyll $ do
   match "pages/index.html" $ do
     route $ gsubRoute "pages/" (const "")
     compile $ do
-      posts <- recentFirst =<< loadAll "posts/*"
+      posts <- recentFirst =<< loadAll "posts/*.org"
       intro <- load "pages/intro.org"
       reviews <- load "pages/reviews-latest.org"
       let indexCtx =
