@@ -1,5 +1,5 @@
 notes:
-	emacs --batch --load ${HOME}/.config/emacs/init.el --load lisp/publicatorg.el
+	emacs --batch --load ${HOME}/.config/emacs/init.el --load lisp/publicatorg.el --eval '(main :root "$(CURDIR)/")'
 
 build:
 	stack build
