@@ -1,3 +1,6 @@
+notes:
+	emacs --batch --load ${HOME}/.config/emacs/init.el --load lisp/publicatorg.el
+
 build:
 	stack build
 	stack run site -- clean
