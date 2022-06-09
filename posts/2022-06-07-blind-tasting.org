@@ -1,22 +1,17 @@
----
-title: Blind tasting report
-author: Boris
-language: UA
----
+#+begin_export html
+<img src="/images/2022-06-07-blind-tasting/wines.jpeg" />
+#+end_export
 
-#+BEGIN_EXPORT html
-<img src="/images/2022-06-07-wines.jpeg" />
-#+END_EXPORT
 
 Приємно бачити, що Київ оживає. Кожен день все більше і більше людей повертаються додому, тягнучи за собою свої страхи та надії. Людей стало більше на вулиці, в магазинах та в ресторанах. Навіть затори повертаються попри проблеми з бензином. Але найголовніше, повернулися неочікувані і приємні зустрічі.
 
 А там, де люди, там завжди знаходиться місце і радощам. Так от пан Василь Калініченко повернувся до Києва разом з цікавими пляшчинами та твердим наміром продовжити організовувати дегустації. І от 7-ого червня у Барі 101 він зібрав невеличку компанію для того, щоб у сліпу продегустувати наступні вина.
 
-1. [[https://barberry.io/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html][Lenkey Pinceszet Betsek Korposd Furmint 2011]]
-2. [[https://barberry.io/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html][Viña Tondonia Blanco Reserva 2009]]
-3. [[https://barberry.io/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html][Simon Bize et Fils Bourgogne Les Perrières 2017]]
-4. [[https://barberry.io/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html][J.M Dreyer Elios Pinot Noir 2020]]
-5. [[https://barberry.io/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html][COZs vn-c2 bg 2017]]
+1. [[barberry:/wines/4a169cba-26aa-4d74-a03a-07a7bea905db][Lenkey Pinceszet Betsek Korposd Furmint 2011]]
+2. [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Viña Tondonia Blanco Reserva 2009]]
+3. [[barberry:/wines/9e880b48-e667-429f-a5d8-222f6190cb3a][Simon Bize et Fils Bourgogne Les Perrières 2017]]
+4. [[barberry:/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592][J.M Dreyer Elios Pinot Noir 2020]]
+5. [[barberry:/wines/224602d5-c307-4bfc-b84a-bfeede982fc0][COZs vn-c2 bg 2017]]
 
 Заманив він, звісно, самим фактом події. Але ще й заспойлерив дві пляшчини, що він привіз з Європи - старий Фурмінт з Угорщини та білою Тондонією. А далі, мовляв, без подробиць.
 
