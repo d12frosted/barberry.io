@@ -6,6 +6,7 @@ import Control.Monad
 import Data.List
 import Data.Ord
 import Hakyll
+import qualified Text.HTML.TagSoup as TS
 
 main :: IO ()
 main = hakyll $ do
@@ -50,6 +51,7 @@ main = hakyll $ do
       pandocCompiler
         >>= loadAndApplyTemplate "templates/post.html" postCtx
         >>= loadAndApplyTemplate "templates/default.html" postCtx
+        >>= adaptTables
         >>= fixUrls
         >>= relativizeUrls
 
@@ -161,5 +163,32 @@ fixUrls = pure . fmap (withUrls fix)
   where
     fix x = maybe x wrap (stripPrefix "barberry:" x)
     wrap x = x <> ".html"
+
+--------------------------------------------------------------------------------
+
+adaptTables :: Item String -> Compiler (Item String)
+adaptTables = pure . fmap (withTagList f)
+  where
+    f ((TS.TagOpen "table" as) : ts) =
+      [TS.TagOpen "div" divAttrs, TS.TagOpen "table" (as <> tblAttrs)] <> f ts
+    f ((TS.TagClose "table") : ts) =
+      [TS.TagClose "table", TS.TagClose "div"] <> f ts
+    f ((TS.TagOpen "td" tdAttrs) : (TS.TagOpen "strong" _) : ts) =
+      [TS.TagOpen "td" (tdAttrs <> [("class", "highlight-successful")])] <> f ts
+    f ((TS.TagClose "strong") : (TS.TagClose "td") : ts) =
+      [TS.TagClose "td"] <> f ts
+    f ((TS.TagOpen "td" tdAttrs) : (TS.TagOpen "del" _) : ts) =
+      [TS.TagOpen "td" (tdAttrs <> [("class", "highlight-critical")])] <> f ts
+    f ((TS.TagClose "del") : (TS.TagClose "td") : ts) =
+      [TS.TagClose "td"] <> f ts
+    f (t : ts) = t : f ts
+    f [] = []
+
+    tblAttrs =
+      [ ("rules", "groups"),
+        ("cellspacing", "0"),
+        ("cellpadding", "6")
+      ]
+    divAttrs = [("class", "table-container")]
 
 --------------------------------------------------------------------------------

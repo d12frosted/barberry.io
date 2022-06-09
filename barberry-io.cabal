@@ -12,5 +12,6 @@ executable site
                   , pandoc-types == 1.*
                   , text == 1.*
                   , containers == 0.6.*
+                  , tagsoup == 0.14.*
   ghc-options:      -threaded -rtsopts -with-rtsopts=-N
   default-language: Haskell2010

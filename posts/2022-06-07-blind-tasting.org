@@ -1,7 +1,4 @@
-#+begin_export html
-<img src="/images/2022-06-07-blind-tasting/wines.jpeg" />
-#+end_export
-
+[[file:/images/2022-06-07-blind-tasting/wines.jpeg]]
 
 Приємно бачити, що Київ оживає. Кожен день все більше і більше людей повертаються додому, тягнучи за собою свої страхи та надії. Людей стало більше на вулиці, в магазинах та в ресторанах. Навіть затори повертаються попри проблеми з бензином. Але найголовніше, повернулися неочікувані і приємні зустрічі.
 
@@ -19,105 +16,28 @@
 
 І от результати з цієї зустрічі. Мусю зізнатися, дуже цікаві!
 
-#+begin_export html
-<div style="overflow: auto">
-<table cellspacing="0" cellpadding="6" rules="groups">
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-right">Wine #1</th>
-<th scope="col" class="org-right">Wine #2</th>
-<th scope="col" class="org-right">Wine #3</th>
-<th scope="col" class="org-right">Wine #4</th>
-<th scope="col" class="org-right">Wine #5</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Ельвіра</td>
-<td class="org-right favourite">4.3</td>
-<td class="org-right">4.5</td>
-<td class="org-right outcast">3.7</td>
-<td class="org-right">4.0</td>
-<td class="org-right">3.8</td>
-</tr>
+#+caption: Оцінки учасників
+#+results: scores
+|          | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|----------+---------+---------+---------+---------+---------|
+| Ельвіра  |  *4.30* |    4.50 |  +3.70+ |    4.00 |    3.80 |
+| Саша     |    3.60 |    4.00 |  +3.50+ |  *4.20* |    3.80 |
+| Андрій   |    4.10 |  *4.50* |  +3.20+ |    4.60 |    3.60 |
+| Вікторія |    4.30 |  *4.60* |  +4.10+ |    4.60 |    4.00 |
+| Антон    |  *4.30* |    4.50 |    4.00 |    4.80 |  +3.50+ |
+| Яна      |    4.40 |    3.80 |    4.20 |  *4.80* |  +3.70+ |
+| Вася     |  *4.50* |    4.60 |    4.30 |    4.30 |  +3.80+ |
+| Боря     |    4.00 |    4.50 |  *4.00* |    3.90 |  +3.60+ |
 
-<tr>
-<td class="org-left">Саша</td>
-<td class="org-right">3.6</td>
-<td class="org-right">4.0</td>
-<td class="org-right outcast">3.5</td>
-<td class="org-right favourite">4.2</td>
-<td class="org-right">3.8</td>
-</tr>
-
-<tr>
-<td class="org-left">Андрій</td>
-<td class="org-right">4.1</td>
-<td class="org-right favourite">4.5</td>
-<td class="org-right outcast">3.2</td>
-<td class="org-right">4.6</td>
-<td class="org-right">3.6</td>
-</tr>
-
-<tr>
-<td class="org-left">Вікторія</td>
-<td class="org-right">4.3</td>
-<td class="org-right favourite">4.6</td>
-<td class="org-right outcast">4.1</td>
-<td class="org-right">4.6</td>
-<td class="org-right">4.0</td>
-</tr>
-
-<tr>
-<td class="org-left">Антон</td>
-<td class="org-right favourite">4.3</td>
-<td class="org-right">4.5</td>
-<td class="org-right">4.0</td>
-<td class="org-right">4.8</td>
-<td class="org-right outcast">3.5</td>
-</tr>
-
-<tr>
-<td class="org-left">Яна</td>
-<td class="org-right">4.4</td>
-<td class="org-right">3.8</td>
-<td class="org-right">4.2</td>
-<td class="org-right favourite">4.8</td>
-<td class="org-right outcast">3.7</td>
-</tr>
-
-<tr>
-<td class="org-left">Вася</td>
-<td class="org-right favourite">4.5</td>
-<td class="org-right">4.6</td>
-<td class="org-right">4.3</td>
-<td class="org-right">4.3</td>
-<td class="org-right outcast">3.8</td>
-</tr>
-
-<tr>
-<td class="org-left">Боря</td>
-<td class="org-right">4.0</td>
-<td class="org-right">4.5</td>
-<td class="org-right favourite">4.0</td>
-<td class="org-right">3.9</td>
-<td class="org-right outcast">3.6</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">33.5</td>
-<td class="org-right">35.</td>
-<td class="org-right">31.</td>
-<td class="org-right favourite">35.2</td>
-<td class="org-right outcast">29.8</td>
-</tr>
-</tbody>
-</table>
-</div>
-#+end_export
+#+caption: Результат
+#+results: summary
+|   |   total |   sdev | favourite | outcast |   price |      QPR |
+|---+---------+--------+-----------+---------+---------+----------|
+| 1 |   33.50 | 0.0711 |    *3.00* |    0.00 | 1000.00 |   3.1954 |
+| 2 |   35.00 | 0.0794 |      2.00 |    0.00 | 2000.00 |   2.1431 |
+| 3 |   31.00 | 0.1244 |      1.00 |  +4.00+ | 1150.00 |   1.7318 |
+| 4 | *35.20* | 0.1075 |      2.00 |    0.00 |  890.00 | *5.0111* |
+| 5 |   29.80 | 0.0219 |      0.00 |  +4.00+ | 1002.00 |   1.5965 |
 
 З очікуваного, закрита Бургундія (позиця #3) зайшла далеко не всім, і розділила титул найменш улюбленого разом з 5-им вином. І весело, що я єдиний, хто назвав його своїм улюбленцем вечора. Варто зазначити, що і для мене, і для Васі Тондонія була поза конкурсом.
 
@@ -130,3 +50,4 @@
 Велика подяка Васі, всім хто долучився та рєбятам з Бару 101. Як завжди цікаво, смачно та затишно. Доєднуйтеся до нас наступного разу!
 
 P.S. У Васі є [[https://t.me/BasylSomm0][телеграм канал]], долучайтеся.
+

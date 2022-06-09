@@ -33,10 +33,6 @@ body {
   font-size: 1.6rem;
 }
 
-code {
-  font-family: 'Source Code Pro', monospace;
-}
-
 a {
   text-decoration: none;
   color: var(--salient);
@@ -102,14 +98,21 @@ article p {
   text-align: justify;
 }
 
-article .header {
+article .subtitle {
   font-size: 1.4rem;
   color: var(--faded);
 }
 
+article .highlight-successful {
+  background: var(--highlight-successful);
+}
+
+article .highlight-critical {
+  background: var(--highlight-critical);
+}
+
 article img {
   max-width: 100%;
-  margin-block-start: 1em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -117,11 +120,6 @@ article img {
 article p {
   max-width: 100%;
   margin-block-start: 1em;
-}
-
-article table {
-  font-size: 1.2rem;
-  margin: 0 auto;
 }
 
 article blockquote {
@@ -150,6 +148,25 @@ article .wine-rating {
   font-weight: bolder;
   margin-block-start: 0.2em;
   margin-block-end: 0.2em;
+}
+
+article code {
+  font-family: 'Source Code Pro', monospace;
+}
+
+article table {
+  font-size: 1.2rem;
+  margin: 0 auto;
+}
+
+article caption {
+  font-size: 1.6rem;
+  color: var(--faded);
+}
+
+article .table-container {
+  overflow: auto;
+  margin-block-end: 1em;
 }
 
 article dl {
