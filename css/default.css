@@ -33,6 +33,10 @@ body {
   font-size: 1.6rem;
 }
 
+code {
+  font-family: 'Source Code Pro', monospace;
+}
+
 a {
   text-decoration: none;
   color: var(--salient);
