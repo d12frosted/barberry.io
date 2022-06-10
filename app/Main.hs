@@ -134,7 +134,8 @@ main = hakyll $ do
 postCtx :: Context String
 postCtx =
   dateField "date" "%B %e, %Y"
-    `mappend` defaultContext
+    <> modificationTimeField "update" "%B %e, %Y"
+    <> defaultContext
 
 wineCtx :: Context String
 wineCtx = defaultContext
