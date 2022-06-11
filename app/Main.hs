@@ -1,3 +1,4 @@
+{-# LANGUAGE ApplicativeDo #-}
 {-# LANGUAGE LambdaCase #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TupleSections #-}
@@ -5,14 +6,16 @@
 module Main (main) where
 
 import Data.List
-import Data.Maybe (fromMaybe, listToMaybe)
+import Data.Maybe (fromMaybe, isJust, listToMaybe)
 import Data.Ord
 import Data.Text (Text)
+import qualified Data.Text as T
 import Hakyll hiding (fromList)
 import Site.ChartJS.Parse
 import Site.ChartJS.Render
 import qualified Text.HTML.TagSoup as TS
 import Text.Pandoc
+import Text.Pandoc.Shared (stringify)
 import Text.Pandoc.Walk
 
 main :: IO ()
@@ -52,7 +55,6 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/post.html" postCtx
         >>= loadAndApplyTemplate "templates/default.html" postCtx
         >>= adaptTables
-        >>= fixUrls
         >>= relativizeUrls
 
   create ["posts.html"] $ do
@@ -67,7 +69,6 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/posts.html" archiveCtx
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-        >>= fixUrls
         >>= relativizeUrls
 
   match "wines/*.org" $ do
@@ -76,7 +77,6 @@ main = hakyll $ do
       customPandocCompiler
         >>= loadAndApplyTemplate "templates/wine.html" wineCtx
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
-        >>= fixUrls
         >>= relativizeUrls
 
   create ["wines.html"] $ do
@@ -91,7 +91,6 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/wines.html" archiveCtx
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-        >>= fixUrls
         >>= relativizeUrls
 
   create ["reviews.html"] $ do
@@ -106,7 +105,6 @@ main = hakyll $ do
       makeItem ""
         >>= loadAndApplyTemplate "templates/reviews.html" ctx
         >>= loadAndApplyTemplate "templates/default.html" ctx
-        >>= fixUrls
         >>= relativizeUrls
 
   match "pages/index.html" $ do
@@ -124,7 +122,6 @@ main = hakyll $ do
       getResourceBody
         >>= applyAsTemplate indexCtx
         >>= loadAndApplyTemplate "templates/default.html" indexCtx
-        >>= fixUrls
         >>= relativizeUrls
 
   match "templates/*" $ compile templateBodyCompiler
@@ -159,14 +156,6 @@ titleOrdered = sortByM $ getTitle . itemIdentifier
 
 --------------------------------------------------------------------------------
 
-fixUrls :: Item String -> Compiler (Item String)
-fixUrls = pure . fmap (withUrls fix)
-  where
-    fix x = maybe x wrap (stripPrefix "barberry:" x)
-    wrap x = x <> ".html"
-
---------------------------------------------------------------------------------
-
 adaptTables :: Item String -> Compiler (Item String)
 adaptTables = pure . fmap (withTagList f)
   where
@@ -195,11 +184,11 @@ adaptTables = pure . fmap (withTagList f)
 --------------------------------------------------------------------------------
 
 customPandocCompiler :: Compiler (Item String)
-customPandocCompiler = pandocCompilerWithTransform readerOptions writerOptions transform
+customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions transform
   where
     readerOptions = defaultHakyllReaderOptions
     writerOptions = defaultHakyllWriterOptions
-    transform = embedChartJS
+    transform = convertBarberryLinks . embedChartJS
 
 embedChartJS :: Pandoc -> Pandoc
 embedChartJS pandoc = walk (go []) pandoc
@@ -220,5 +209,15 @@ embedChartJS pandoc = walk (go []) pandoc
         pure $ chartHtml : go (dataName : names) bs
       _ -> b : go names bs
     go _ _ = []
+
+convertBarberryLinks :: Pandoc -> Compiler Pandoc
+convertBarberryLinks = walkM $ \case
+  link@(Link a is (url, title)) -> case T.stripPrefix "barberry:" url of
+    Nothing -> pure link
+    Just url' -> do
+      let i = fromFilePath . T.unpack . (<> ".org") . fromMaybe url' . T.stripPrefix "/" $ url'
+      exists <- isJust <$> getRoute i
+      pure $ if exists then Link a is (url' <> ".html", title) else Str (stringify is)
+  i -> pure i
 
 --------------------------------------------------------------------------------
