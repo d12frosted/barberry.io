@@ -2,11 +2,18 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TupleSections #-}
 
-import Control.Monad
+module Main (main) where
+
 import Data.List
+import Data.Maybe (fromMaybe, listToMaybe)
 import Data.Ord
-import Hakyll
+import Data.Text (Text)
+import Hakyll hiding (fromList)
+import Site.ChartJS.Parse
+import Site.ChartJS.Render
 import qualified Text.HTML.TagSoup as TS
+import Text.Pandoc
+import Text.Pandoc.Walk
 
 main :: IO ()
 main = hakyll $ do
@@ -28,27 +35,20 @@ main = hakyll $ do
 
   match "pages/intro.org" $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
-    compile pandocCompiler
+    compile customPandocCompiler
 
   match "pages/reviews-latest.org" $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
-    compile pandocCompiler
+    compile customPandocCompiler
 
   match "pages/reviews.org" $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
-    compile pandocCompiler
-
-  -- match (fromList ["pages/about.org", "pages/contact.markdown"]) $ do
-  --   route $ gsubRoute "pages/" (const "") <> setExtension "html"
-  --   compile $
-  --     pandocCompiler
-  --       >>= loadAndApplyTemplate "templates/default.html" defaultContext
-  --       >>= relativizeUrls
+    compile customPandocCompiler
 
   match "posts/*.org" $ do
     route $ setExtension "html"
     compile $
-      pandocCompiler
+      customPandocCompiler
         >>= loadAndApplyTemplate "templates/post.html" postCtx
         >>= loadAndApplyTemplate "templates/default.html" postCtx
         >>= adaptTables
@@ -61,8 +61,8 @@ main = hakyll $ do
       posts <- recentFirst =<< loadAll "posts/*.org"
       let archiveCtx =
             listField "posts" postCtx (return posts)
-              `mappend` constField "title" "Archives"
-              `mappend` defaultContext
+              <> constField "title" "Archives"
+              <> defaultContext
 
       makeItem ""
         >>= loadAndApplyTemplate "templates/posts.html" archiveCtx
@@ -73,7 +73,7 @@ main = hakyll $ do
   match "wines/*.org" $ do
     route $ setExtension "html"
     compile $
-      pandocCompiler
+      customPandocCompiler
         >>= loadAndApplyTemplate "templates/wine.html" wineCtx
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
         >>= fixUrls
@@ -191,5 +191,34 @@ adaptTables = pure . fmap (withTagList f)
         ("cellpadding", "6")
       ]
     divAttrs = [("class", "table-container")]
+
+--------------------------------------------------------------------------------
+
+customPandocCompiler :: Compiler (Item String)
+customPandocCompiler = pandocCompilerWithTransform readerOptions writerOptions transform
+  where
+    readerOptions = defaultHakyllReaderOptions
+    writerOptions = defaultHakyllWriterOptions
+    transform = embedChartJS
+
+embedChartJS :: Pandoc -> Pandoc
+embedChartJS pandoc = walk (go []) pandoc
+  where
+    queryNamed :: Text -> Pandoc -> Maybe Block
+    queryNamed name aPandoc = listToMaybe . flip query aPandoc $ \case
+      Div (n, _, _) bs | n == name -> bs
+      _ -> []
+
+    go names (b : bs) = case b of
+      Div (name, _, _) _ | name `elem` names -> go names bs
+      Div (name, cs, kvs) _ | "chartjs" `elem` cs -> fromMaybe (b : go names bs) $ do
+        dataName <- lookup "data" kvs
+        dataBlock <- queryNamed dataName pandoc
+        tableData <- parseTableData dataBlock
+        chart <- parseChart name kvs tableData
+        let chartHtml = RawBlock "html" $ renderToText chart
+        pure $ chartHtml : go (dataName : names) bs
+      _ -> b : go names bs
+    go _ _ = []
 
 --------------------------------------------------------------------------------
