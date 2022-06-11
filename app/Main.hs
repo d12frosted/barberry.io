@@ -13,6 +13,7 @@ import qualified Data.Text as T
 import Hakyll hiding (fromList)
 import Site.ChartJS.Parse
 import Site.ChartJS.Render
+import Site.Web.Template.Context (modificationDateField)
 import qualified Text.HTML.TagSoup as TS
 import Text.Pandoc
 import Text.Pandoc.Shared (stringify)
@@ -131,7 +132,7 @@ main = hakyll $ do
 postCtx :: Context String
 postCtx =
   dateField "date" "%B %e, %Y"
-    <> modificationTimeField "update" "%B %e, %Y"
+    <> modificationDateField "update" "%B %e, %Y"
     <> defaultContext
 
 wineCtx :: Context String
