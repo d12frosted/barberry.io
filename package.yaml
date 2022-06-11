@@ -1,0 +1,44 @@
+name: barberry-io
+version: '0.1.0.0'
+author: Boris Buliga
+maintainer: Boris Buliga
+github: d12frosted/barberry.io
+
+executables:
+  site:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+      - -Wall
+      - -Werror
+      - -fwarn-incomplete-uni-patterns
+    dependencies:
+      - aeson
+      - base >= 4.7 && < 5
+      - binary
+      - blaze-html
+      - blaze-markup
+      - bytestring
+      - containers
+      - env-extra
+      - filepath
+      - hakyll
+      - hashable
+      - http-conduit
+      - lens
+      - lens-aeson
+      - mtl
+      - ordered-containers
+      - pandoc
+      - pandoc-types
+      - path
+      - regex-base
+      - regex-tdfa
+      - scientific
+      - shakespeare
+      - shakespeare
+      - tagsoup
+      - text
+      - time
+      - time-locale-compat
+      - unordered-containers
