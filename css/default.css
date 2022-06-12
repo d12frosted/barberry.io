@@ -141,7 +141,7 @@ img.bg-logo {
 }
 
 header {
-  border-bottom: 0.2rem solid var(--foreground);
+  border-bottom: 0.2rem solid var(--subtle);
 }
 
 nav {
@@ -159,7 +159,7 @@ nav a {
 footer {
   margin-top: 3rem;
   padding: 1.2rem 0;
-  border-top: 0.2rem solid var(--foreground);
+  border-top: 0.2rem solid var(--subtle);
   font-size: 1.2rem;
   color: var(--faded);
   clear: both;
