@@ -80,6 +80,7 @@ footer {
   border-top: 0.2rem solid var(--foreground);
   font-size: 1.2rem;
   color: var(--faded);
+  clear: right;
 }
 
 h1 {
@@ -171,7 +172,7 @@ article .table-container {
 
 article dl {
   overflow: hidden;
-  width: 100%;
+  /* width: 100%; */
   padding: 0;
   margin: 0
 }
@@ -216,6 +217,14 @@ article dd {
   font-weight: bold;
   color: var(--foreground);
   text-decoration: none;
+}
+
+.wine-main-image {
+  width: 180px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 @media (max-width: 319px) {
@@ -315,5 +324,10 @@ article dd {
     float: right;
     margin-right: 2rem;
     margin-left: 2rem;
-}
+  }
+  .wine-main-image {
+    float: right;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+  }
 }
