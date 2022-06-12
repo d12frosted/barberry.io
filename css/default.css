@@ -439,3 +439,7 @@ article dd {
     margin-bottom: 2rem;
   }
 }
+
+ul.wine-list {
+  list-style: none;
+}
