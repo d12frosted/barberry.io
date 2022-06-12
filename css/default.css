@@ -279,6 +279,21 @@ article .table-container {
   margin-block-end: 1.2em;
 }
 
+main dt {
+  font-size: 2.0rem;
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+main dd {
+  padding: 0;
+  margin: 0;
+}
+
+main dd ul {
+  list-style: none;
+}
+
 article dl {
   overflow: hidden;
   /* width: 100%; */
@@ -287,6 +302,7 @@ article dl {
 }
 
 article dt {
+  font-size: 1.6rem;
   color: var(--faded);
   float: left;
   clear: left;
@@ -441,5 +457,9 @@ article dd {
 }
 
 ul.wine-list {
+  list-style: none;
+}
+
+ul.rating-list {
   list-style: none;
 }
