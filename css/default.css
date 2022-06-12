@@ -194,6 +194,37 @@ article img {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
+  display: block;
+}
+
+article .img-half {
+  max-width: calc(50% - 0.6rem);
+}
+
+article .img-float-left {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 800px) {
+  article .img-float-left {
+    float: left;
+    padding-right: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
+}
+
+article .img-float-right {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 800px) {
+  article .img-float-right {
+    float: right;
+    padding-left: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
 }
 
 article p {
