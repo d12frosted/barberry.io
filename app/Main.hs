@@ -5,22 +5,27 @@
 
 module Main (main) where
 
+import Control.Monad (filterM)
 import Data.List
 import Data.Maybe (fromMaybe, isJust, listToMaybe)
 import Data.Ord
 import Data.Text (Text)
 import qualified Data.Text as T
+import Data.Time (UTCTime, getCurrentTime)
+import Data.Time.Locale.Compat (defaultTimeLocale)
 import Hakyll hiding (fromList)
 import Site.ChartJS.Parse
 import Site.ChartJS.Render
 import Site.Web.Template.Context (modificationDateField)
 import qualified Text.HTML.TagSoup as TS
-import Text.Pandoc
+import Text.Pandoc (Block (..), Inline (..), Pandoc)
 import Text.Pandoc.Shared (stringify)
 import Text.Pandoc.Walk
 
 main :: IO ()
 main = hakyll $ do
+  now <- preprocess getCurrentTime
+
   match "images/**/*" $ do
     route idRoute
     compile copyFileCompiler
@@ -49,7 +54,7 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile customPandocCompiler
 
-  match "posts/*.org" $ do
+  match postsPattern $ do
     route $ setExtension "html"
     compile $
       customPandocCompiler
@@ -61,7 +66,7 @@ main = hakyll $ do
   create ["posts.html"] $ do
     route idRoute
     compile $ do
-      posts <- recentFirst =<< loadAll "posts/*.org"
+      posts <- recentFirst =<< loadAllPosts now
       let archiveCtx =
             listField "posts" postCtx (return posts)
               <> constField "title" "Archives"
@@ -111,7 +116,7 @@ main = hakyll $ do
   match "pages/index.html" $ do
     route $ gsubRoute "pages/" (const "")
     compile $ do
-      posts <- recentFirst =<< loadAll "posts/*.org"
+      posts <- recentFirst =<< loadAllPosts now
       intro <- load "pages/intro.org"
       reviews <- load "pages/reviews-latest.org"
       let indexCtx =
@@ -220,5 +225,36 @@ convertBarberryLinks = walkM $ \case
       exists <- isJust <$> getRoute i
       pure $ if exists then Link a is (url' <> ".html", title) else Str (stringify is)
   i -> pure i
+
+--------------------------------------------------------------------------------
+
+postsPattern :: Pattern
+postsPattern = "posts/*.org"
+
+loadAllPosts :: UTCTime -> Compiler [Item String]
+loadAllPosts = loadPosts postsPattern
+
+loadPosts :: Pattern -> UTCTime -> Compiler [Item String]
+loadPosts pat now =
+  skipDrafts
+    =<< skipAfter now
+    =<< recentFirst
+    =<< loadAll pat
+
+skipAfter :: (MonadFail m, MonadMetadata m) => UTCTime -> [Item a] -> m [Item a]
+skipAfter now =
+  filterM $
+    fmap (now >)
+      . getItemUTC defaultTimeLocale
+      . itemIdentifier
+
+skipDrafts :: (MonadMetadata m) => [Item a] -> m [Item a]
+skipDrafts = filterM publish
+  where
+    publish i =
+      maybe True asFlag
+        <$> getMetadataField (itemIdentifier i) "publish"
+    asFlag "true" = True
+    asFlag _ = False
 
 --------------------------------------------------------------------------------
