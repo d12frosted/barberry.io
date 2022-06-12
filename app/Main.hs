@@ -194,7 +194,7 @@ customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions 
   where
     readerOptions = defaultHakyllReaderOptions
     writerOptions = defaultHakyllWriterOptions
-    transform = convertBarberryLinks . embedChartJS
+    transform = convertBarberryLinks . standartizeStars . embedChartJS
 
 embedChartJS :: Pandoc -> Pandoc
 embedChartJS pandoc = walk (go []) pandoc
@@ -215,6 +215,14 @@ embedChartJS pandoc = walk (go []) pandoc
         pure $ chartHtml : go (dataName : names) bs
       _ -> b : go names bs
     go _ _ = []
+
+standartizeStars :: Pandoc -> Pandoc
+standartizeStars = walk $ \case
+  Str "\9733" -> star
+  Str "\9734" -> star
+  i -> i
+  where
+    star = Span ("", ["material-symbols-outlined", "material-symbols-inline"], []) [Str "star"]
 
 convertBarberryLinks :: Pandoc -> Compiler Pandoc
 convertBarberryLinks = walkM $ \case

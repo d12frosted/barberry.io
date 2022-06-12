@@ -75,6 +75,19 @@ pre {
   font-family: "Source Code Pro", monospace;
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 300,
+  'GRAD' 0,
+  'opsz' 20
+}
+
+.material-symbols-inline {
+  font-size: 1.6rem !important;
+  vertical-align: bottom;
+}
+
 :root {
   --foreground: #37474F;
   --background: #FFFFFF;
