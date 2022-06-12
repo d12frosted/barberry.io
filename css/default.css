@@ -85,12 +85,12 @@ pre {
 
 .material-symbols-inline {
   font-size: 1.6rem !important;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 .material-symbols-big {
   font-size: 1.8rem !important;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 :root {
