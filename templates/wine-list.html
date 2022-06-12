@@ -1,13 +1,13 @@
 <ul class="wine-list">
   $for(wines)$
   <li>
-    <span class="material-symbols-outlined material-symbols-big">star</span>
+    <span class="material-symbols-outlined material-symbols-inline">star</span>
     $if(rating)$
     $rating$
     $else$
     N/A
     $endif$
-    -
+    - 
     <a href="$url$">$producer$ $name$ $vintage$</a>
   </li>
   $endfor$
