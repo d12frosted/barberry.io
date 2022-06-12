@@ -1,6 +1,5 @@
-#+begin_export html
-<img src="/images/vino-logo.png" class="bg-logo" />
-#+end_export
+#+attr_html: :class bg-logo
+[[file:/images/vino-logo-256.webp]]
 
 Welcome to *Barberry Garden*, a place where we drink wine and talk about wine.
 
