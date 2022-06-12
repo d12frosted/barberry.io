@@ -80,7 +80,7 @@ footer {
   border-top: 0.2rem solid var(--foreground);
   font-size: 1.2rem;
   color: var(--faded);
-  clear: right;
+  clear: both;
 }
 
 h1 {
@@ -120,35 +120,30 @@ article img {
 
 article p {
   max-width: 100%;
-  margin-block-start: 1em;
+  margin-block-start: 1.2em;
 }
 
 article blockquote {
   border-left-style: solid;
   border-left-color: var(--foreground);
   border-left-width: thick;
-  padding-left: 1rem;
+  padding-left: 1.2rem;
+  margin: 0;
 }
 
 article .wine-producer {
   font-size: 2.2rem;
   font-weight: lighter;
-  margin-block-start: 0.2em;
-  margin-block-end: 0.2em;
 }
 
 article .wine-title {
   font-size: 2.4rem;
   font-weight: bolder;
-  margin-block-start: 0.2em;
-  margin-block-end: 0.2em;
 }
 
 article .wine-rating {
   font-size: 1.8rem;
   font-weight: bolder;
-  margin-block-start: 0.2em;
-  margin-block-end: 0.2em;
 }
 
 article code {
@@ -167,7 +162,7 @@ article caption {
 
 article .table-container {
   overflow: auto;
-  margin-block-end: 1em;
+  margin-block-end: 1.2em;
 }
 
 article dl {
@@ -178,7 +173,6 @@ article dl {
 }
 
 article dt {
-  margin-block-start: 1em;
   color: var(--faded);
   float: left;
   clear: left;
