@@ -88,6 +88,11 @@ pre {
   vertical-align: bottom;
 }
 
+.material-symbols-big {
+  font-size: 1.8rem !important;
+  vertical-align: bottom;
+}
+
 :root {
   --foreground: #37474F;
   --background: #FFFFFF;
