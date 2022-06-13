@@ -1,3 +1,42 @@
 <h1>$title$</h1>
-Here you can find all published wines in alphabetical order:
-$partial("templates/wine-list.html")$
+
+<script type="text/javascript" src="/library/jquery/dist/jquery.slim.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/library/datatables.net-dt/css/jquery.dataTables.min.css"/>
+<script type="text/javascript" src="/library/datatables.net/js/jquery.dataTables.min.js"></script>
+
+<div class="table-container">
+  <table id="wines-table" class="stripe compact hover order-column">
+    <thead>
+      <tr>
+        <th>Producer</th>
+        <th>Name</th>
+        <th>Vintage</th>
+        <th>Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      $for(wines)$
+      <tr>
+        <td>$producer$</td>
+        <td><a href="$url$">$name$</a></td>
+        <td>$vintage$</td>
+        <td>
+          $if(rating)$
+          $rating$
+          $else$
+          -
+          $endif$
+        </td>
+      </tr>
+      $endfor$
+    </tbody>
+  </table>
+</div>
+
+<script>
+  $$(document).ready( function () {
+    new DataTable("#wines-table", {
+      paging: false
+    });
+  } );
+</script>
