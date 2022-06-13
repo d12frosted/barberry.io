@@ -4,6 +4,16 @@
 <link rel="stylesheet" type="text/css" href="/library/datatables.net-dt/css/jquery.dataTables.min.css"/>
 <script type="text/javascript" src="/library/datatables.net/js/jquery.dataTables.min.js"></script>
 
+<div>
+  Toggle column:
+  <a class="toggle-vis column-hidden" data-column="0">Country</a> -
+  <a class="toggle-vis column-visible" data-column="1">Producer</a> -
+  <a class="toggle-vis column-visible" data-column="2">Name</a> -
+  <a class="toggle-vis column-visible" data-column="3">Vintage</a> -
+  <a class="toggle-vis column-hidden" data-column="4">Grapes</a> -
+  <a class="toggle-vis column-visible" data-column="5">Rating</a>
+</div>
+
 <div class="table-container">
   <table id="wines-table" class="stripe compact hover order-column">
     <thead>
@@ -12,6 +22,7 @@
         <th>Producer</th>
         <th>Name</th>
         <th>Vintage</th>
+        <th>Grapes</th>
         <th>Rating</th>
       </tr>
     </thead>
@@ -22,6 +33,7 @@
         <td>$producer$</td>
         <td><a href="$url$">$name$</a></td>
         <td>$vintage$</td>
+        <td>$grapes$</td>
         <td>
           $if(rating)$
           $rating$
@@ -36,11 +48,33 @@
 </div>
 
 <script>
-  $$(document).ready( function () {
-    new DataTable("#wines-table", {
+  $$(document).ready(function () {
+    var table = new DataTable("#wines-table", {
       paging: false,
       order: [[1, 'asc']],
-      autoWidth: false
+      autoWidth: false,
+      columnDefs: [
+        { visible: false, targets: [0, 4] }
+      ]
     });
-  } );
+
+    function toggle(obj) {
+      const name = obj.attr('data-column');
+      const column = table.column(name);
+      const state = column.visible();
+      column.visible(!state);
+      if (state) {
+        obj.removeClass('column-visible');
+        obj.addClass('column-hidden');
+      } else {
+        obj.addClass('column-visible');
+        obj.removeClass('column-hidden');
+      }
+    }
+
+    $$('a.toggle-vis').on('click', function (e) {
+      e.preventDefault();
+      toggle($$(this));
+    });
+  });
 </script>
