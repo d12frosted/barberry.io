@@ -5,7 +5,6 @@
 module Site.ChartJS.Types where
 
 import Data.Aeson as Aeson hiding (Options)
-import Data.Maybe (maybeToList)
 import Data.String (IsString)
 import Data.Text (Text)
 import GHC.Generics
@@ -163,10 +162,9 @@ data Scales = Scales
 
 instance ToJSON Scales where
   toJSON Scales {..} =
-    Aeson.object
-      [ "x" .= toJSON (maybeToList scalesAxisX),
-        "y" .= toJSON (maybeToList scalesAxisY)
-      ]
+    Aeson.object $
+      maybe [] (\o -> ["x" .= o]) scalesAxisX
+        <> maybe [] (\o -> ["y" .= o]) scalesAxisY
 
 data AxisOptions = AxisOptions
   { axisType :: Text,
@@ -178,10 +176,7 @@ instance ToJSON AxisOptions where
   toJSON AxisOptions {..} =
     Aeson.object
       [ "type" .= axisType,
-        "ticks"
-          .= Aeson.object
-            [ "beginAtZero" .= axisBeginAtZero
-            ]
+        "beginAtZero" .= axisBeginAtZero
       ]
 
 --------------------------------------------------------------------------------
