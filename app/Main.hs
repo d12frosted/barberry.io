@@ -199,16 +199,17 @@ customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions 
 embedChartJS :: Pandoc -> Pandoc
 embedChartJS pandoc = walk (go []) pandoc
   where
-    queryNamed :: Text -> Pandoc -> Maybe Block
-    queryNamed name aPandoc = listToMaybe . flip query aPandoc $ \case
-      Div (n, _, _) bs | n == name -> bs
+    queryTable :: Text -> Maybe Block
+    queryTable name = listToMaybe . flip query pandoc $ \case
+      t@(Table (n, _, _) _ _ _ _ _) | n == name -> [t]
       _ -> []
 
     go names (b : bs) = case b of
       Div (name, _, _) _ | name `elem` names -> go names bs
-      Div (name, cs, kvs) _ | "chartjs" `elem` cs -> fromMaybe (b : go names bs) $ do
+      Table (name, _, _) _ _ _ _ _ | name `elem` names -> go names bs
+      Div (name, cs, kvs) _ | "chartjs" `elem` cs -> fromMaybe [] $ do
         dataName <- lookup "data" kvs
-        dataBlock <- queryNamed dataName pandoc
+        dataBlock <- queryTable dataName
         tableData <- parseTableData dataBlock
         chart <- parseChart name kvs tableData
         let chartHtml = RawBlock "html" $ renderToText chart
