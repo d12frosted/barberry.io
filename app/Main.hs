@@ -32,11 +32,7 @@ main = hakyll $ do
     route (gsubRoute "node_modules" (const "library"))
     compile copyFileCompiler
 
-  match "images/**/*" $ do
-    route idRoute
-    compile copyFileCompiler
-
-  match "images/*" $ do
+  match ("images/*" .||. "images/**/*") $ do
     route idRoute
     compile copyFileCompiler
 
@@ -46,6 +42,10 @@ main = hakyll $ do
 
   match "assets/favicon/*" $ do
     route $ gsubRoute "assets/favicon/" (const "")
+    compile copyFileCompiler
+
+  match "assets/fonts/*" $ do
+    route $ gsubRoute "assets/" (const "")
     compile copyFileCompiler
 
   match "pages/intro.org" $ do
@@ -239,7 +239,7 @@ standartizeStars = walk $ \case
   Str "\9734" -> star
   i -> i
   where
-    star = Span ("", ["material-symbols-outlined", "material-symbols-inline"], []) [Str "star"]
+    star = Span ("", ["material-symbols-outlined"], []) [RawInline "html" "&#xE838;"]
 
 convertBarberryLinks :: Pandoc -> Compiler Pandoc
 convertBarberryLinks = walkM $ \case
