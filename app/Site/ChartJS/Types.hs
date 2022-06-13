@@ -119,7 +119,7 @@ data PieOptions = PieOptions
 instance ToJSON PieOptions where
   toJSON PieOptions {..} =
     Aeson.object
-      [ "indexrotation" .= pieRotation,
+      [ "rotation" .= pieRotation,
         "plugins" .= pluginsToJSON piePlugins
       ]
 

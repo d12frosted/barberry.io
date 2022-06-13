@@ -35,7 +35,11 @@ parseChart name kvs (TableData _ values) = do
     Just "pie" -> pure Pie
     Just n -> note name $ "unsupported chart type " <> n
     _ -> note name "missing 'type'"
-  let scales = parseScales kvs
+  indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
+    "x" -> pure X
+    "y" -> pure Y
+    n -> note name $ "unsupported index-axis " <> n
+  let scales = parseScales indexAxis kvs
   let backgroundColors =
         [ "rgba(255, 99, 132, 0.2)",
           "rgba(54, 162, 235, 0.2)",
@@ -52,10 +56,6 @@ parseChart name kvs (TableData _ values) = do
           "rgba(153, 102, 255, 1)",
           "rgba(255, 159, 64, 1)"
         ]
-  indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
-    "x" -> pure X
-    "y" -> pure Y
-    n -> note name $ "unsupported index-axis " <> n
   let legend = fromMaybe False $ lookupFlag "legend" kvs
   let plugins = [LegendPlugin legend, DataLabelsPlugin]
   let options = case chartType of
@@ -101,17 +101,22 @@ parseChart name kvs (TableData _ values) = do
             }
       }
 
-parseScales :: [(Text, Text)] -> Scales
-parseScales kvs =
-  Scales
-    { scalesAxisX = Nothing,
-      scalesAxisY =
-        Just $
-          AxisOptions
-            { axisType = fromMaybe "linear" $ lookup "yAxisType" kvs,
-              axisBeginAtZero = fromMaybe True $ lookupFlag "yAxisBeginAtZero" kvs
-            }
+parseScales :: Axis -> [(Text, Text)] -> Scales
+parseScales X kvs = Scales {scalesAxisX = Nothing, scalesAxisY = Just $ parseAxisOptions Y kvs}
+parseScales Y kvs = Scales {scalesAxisX = Just $ parseAxisOptions X kvs, scalesAxisY = Nothing}
+
+parseAxisOptions :: Axis -> [(Text, Text)] -> AxisOptions
+parseAxisOptions axis kvs =
+  AxisOptions
+    { axisType = fromMaybe "linear" $ lookup axisTypeKey kvs,
+      axisBeginAtZero = fromMaybe True $ lookupFlag axisBeginAtZeroKey kvs
     }
+  where
+    prefix = case axis of
+      X -> "x"
+      Y -> "y"
+    axisTypeKey = prefix <> "AxisType"
+    axisBeginAtZeroKey = prefix <> "AxisBeginAtZero"
 
 lookupFlag :: Text -> [(Text, Text)] -> Maybe Bool
 lookupFlag key kvs = case lookup key kvs of
