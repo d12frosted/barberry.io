@@ -4,14 +4,15 @@
 <link rel="stylesheet" type="text/css" href="/library/datatables.net-dt/css/jquery.dataTables.min.css"/>
 <script type="text/javascript" src="/library/datatables.net/js/jquery.dataTables.min.js"></script>
 
-<div>
-  Toggle column:
-  <a class="toggle-vis column-hidden" data-column="0">Country</a> -
-  <a class="toggle-vis column-visible" data-column="1">Producer</a> -
-  <a class="toggle-vis column-visible" data-column="2">Name</a> -
-  <a class="toggle-vis column-visible" data-column="3">Vintage</a> -
-  <a class="toggle-vis column-hidden" data-column="4">Grapes</a> -
-  <a class="toggle-vis column-visible" data-column="5">Rating</a>
+<div id="table-visibility-control">
+  Toggle
+  <input type="checkbox" class="hide_show"><span>country</span>
+  <input type="checkbox" class="hide_show" checked><span>producer</span>
+  <input type="checkbox" class="hide_show" checked><span>name</span>
+  <input type="checkbox" class="hide_show" checked><span>vintage</span>
+  <input type="checkbox" class="hide_show"><span>grapes</span>
+  <input type="checkbox" class="hide_show" checked><span>rating</span>
+  <input type="checkbox" id="hide_show_all"><span>all</span>
 </div>
 
 <div class="table-container">
@@ -49,32 +50,62 @@
 
 <script>
   $$(document).ready(function () {
-    var table = new DataTable("#wines-table", {
+    $$("#wines-table").on('draw.dt', function() {
+      $$('.hide_show').each(function() {
+        const visible = $$(this).is(":checked");
+        const ti = $$(this).index(".hide_show");
+        $$('#wines-table tr').each(function() {
+	        if (visible) {
+		        $$('td:eq(' + ti + ')',this).show(100);
+		        $$('th:eq(' + ti + ')',this).show(100);
+	        } else {
+		        $$('td:eq(' + ti + ')',this).hide(100);
+		        $$('th:eq(' + ti + ')',this).hide(100);
+	        }
+        });
+      });
+      const all_ch = $$(".hide_show:checked").length == $$(".hide_show").length;
+      $$("#hide_show_all").prop("checked", all_ch);
+    });
+
+    const table = new DataTable("#wines-table", {
       paging: false,
       order: [[1, 'asc']],
       autoWidth: false,
-      columnDefs: [
-        { visible: false, targets: [0, 4] }
-      ]
     });
 
-    function toggle(obj) {
-      const name = obj.attr('data-column');
-      const column = table.column(name);
-      const state = column.visible();
-      column.visible(!state);
-      if (state) {
-        obj.removeClass('column-visible');
-        obj.addClass('column-hidden');
-      } else {
-        obj.addClass('column-visible');
-        obj.removeClass('column-hidden');
-      }
-    }
+    $$("#hide_show_all").on("change", function(){
+	    const visible = $$(this).is(":checked");
+	    $$(".hide_show").prop("checked", visible);
 
-    $$('a.toggle-vis').on('click', function (e) {
-      e.preventDefault();
-      toggle($$(this));
+	    if (visible) {
+		    $$('#wines-table tr th').show(100);
+		    $$('#wines-table tr td').show(100);
+	    } else {
+		    $$('#mine tr th').hide(100);
+		    $$('#wines-table tr td').hide(100);
+	    }
+    });
+    
+    $$(".hide_show").on("change", function() {
+	    const visible = $$(this).is(":checked");
+	    
+	    const all_ch = $$(".hide_show:checked").length == $$(".hide_show").length;
+
+	    $$("#hide_show_all").prop("checked", all_ch);
+	    
+	    const ti = $$(this).index(".hide_show");
+	    
+      $$('#wines-table tr').each(function() {
+	      if (visible) {
+		      $$('td:eq(' + ti + ')',this).show(100);
+		      $$('th:eq(' + ti + ')',this).show(100);
+	      } else {
+		      $$('td:eq(' + ti + ')',this).hide(100);
+		      $$('th:eq(' + ti + ')',this).hide(100);
+	      }
+      });
+
     });
   });
 </script>
