@@ -8,6 +8,7 @@
   <table id="wines-table" class="stripe compact hover order-column">
     <thead>
       <tr>
+        <th>Country</th>
         <th>Producer</th>
         <th>Name</th>
         <th>Vintage</th>
@@ -17,6 +18,7 @@
     <tbody>
       $for(wines)$
       <tr>
+        <td>$country$</td>
         <td>$producer$</td>
         <td><a href="$url$">$name$</a></td>
         <td>$vintage$</td>
@@ -36,7 +38,9 @@
 <script>
   $$(document).ready( function () {
     new DataTable("#wines-table", {
-      paging: false
+      paging: false,
+      order: [[1, 'asc']],
+      autoWidth: false
     });
   } );
 </script>
