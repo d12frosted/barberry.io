@@ -4,3 +4,4 @@ public/
 dist-newstyle/
 .stack-work
 .DS_Store
+node_modules/

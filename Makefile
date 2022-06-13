@@ -2,6 +2,7 @@ notes:
 	emacs --batch --load ${HOME}/.config/emacs/init.el --eval '(brb-publish "$(CURDIR)/")'
 
 build:
+	yarn install
 	stack build
 	stack run site -- clean
 	stack run site -- build

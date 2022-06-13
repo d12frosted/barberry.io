@@ -4,7 +4,7 @@
 {-# LANGUAGE RecordWildCards #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
-module Site.ChartJS.Render (renderToText) where
+module Site.ChartJS.Render (render, importStatement) where
 
 import Data.Aeson as Aeson
 import Data.String (IsString, fromString)
@@ -20,10 +20,16 @@ import qualified Text.Julius as J
 
 --------------------------------------------------------------------------------
 
-renderToText :: (ToJSON a, IsString b) => Chart a -> b
-renderToText = fromString . renderHtml . renderToHtml
+importStatement :: (IsString a) => a
+importStatement = fromString . renderHtml $ importChartJS <> importPlugin
+  where
+    importChartJS = H.script mempty ! A.src "/library/chart.js/dist/Chart.min.js"
+    importPlugin = H.script mempty ! A.src "/library/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js"
 
 --------------------------------------------------------------------------------
+
+render :: (ToJSON a, IsString b) => Chart a -> b
+render = fromString . renderHtml . renderToHtml
 
 renderToHtml :: (ToJSON a) => Chart a -> Html
 renderToHtml chart@(Chart {..}) = aDiv $ canvas <> script

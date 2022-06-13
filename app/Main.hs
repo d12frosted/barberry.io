@@ -9,6 +9,7 @@ import Control.Monad (filterM, (<=<))
 import Control.Monad.Error.Class (liftEither)
 import Data.List
 import Data.Maybe (fromMaybe, isJust, listToMaybe)
+import Data.Monoid (Any (..), getAny)
 import Data.Ord
 import Data.Text (Text)
 import qualified Data.Text as T
@@ -19,13 +20,17 @@ import Site.ChartJS.Parse
 import Site.ChartJS.Render
 import Site.Web.Template.Context (modificationDateField)
 import qualified Text.HTML.TagSoup as TS
-import Text.Pandoc (Block (..), Inline (..), Pandoc)
+import Text.Pandoc (Block (..), Inline (..), Pandoc (..))
 import Text.Pandoc.Shared (mapLeft, stringify)
 import Text.Pandoc.Walk
 
 main :: IO ()
 main = hakyll $ do
   now <- preprocess getCurrentTime
+
+  match "node_modules/**" $ do
+    route (gsubRoute "node_modules" (const "library"))
+    compile copyFileCompiler
 
   match "images/**/*" $ do
     route idRoute
@@ -198,13 +203,23 @@ customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions 
     transform = convertBarberryLinks <=< embedChartJS . standartizeStars
 
 embedChartJS :: Pandoc -> Compiler Pandoc
-embedChartJS pandoc = walkM (liftEither . mapLeft (\e -> [T.unpack e]) . go []) pandoc
+embedChartJS pandoc = walkM embedChart . embedImport $ pandoc
   where
     queryTable :: Text -> Maybe Block
     queryTable name = listToMaybe . flip query pandoc $ \case
       t@(Table (n, _, _) _ _ _ _ _) | n == name -> [t]
       _ -> []
 
+    hasChartJS = query $ \case
+      Div (_, cs, _) _ | "chartjs" `elem` cs -> Any True
+      _ -> mempty
+
+    embedImport p@(Pandoc meta bs) =
+      if getAny $ hasChartJS p
+        then Pandoc meta (RawBlock "html" importStatement : bs)
+        else p
+
+    embedChart = liftEither . mapLeft (\e -> [T.unpack e]) . go []
     go names (b : bs) = case b of
       Div (name, _, _) _ | name `elem` names -> go names bs
       Table (name, _, _) _ _ _ _ _ | name `elem` names -> go names bs
@@ -213,7 +228,7 @@ embedChartJS pandoc = walkM (liftEither . mapLeft (\e -> [T.unpack e]) . go []) 
         dataBlock <- noteMaybe name ("missing table named " <> dataName) $ queryTable dataName
         tableData <- parseTableData name dataBlock
         chart <- parseChart name kvs tableData
-        let chartHtml = RawBlock "html" $ renderToText chart
+        let chartHtml = RawBlock "html" $ render chart
         (chartHtml :) <$> go (dataName : names) bs
       _ -> (b :) <$> go names bs
     go _ [] = pure []
