@@ -5,7 +5,8 @@
 
 module Main (main) where
 
-import Control.Monad (filterM)
+import Control.Monad (filterM, (<=<))
+import Control.Monad.Error.Class (liftEither)
 import Data.List
 import Data.Maybe (fromMaybe, isJust, listToMaybe)
 import Data.Ord
@@ -19,7 +20,7 @@ import Site.ChartJS.Render
 import Site.Web.Template.Context (modificationDateField)
 import qualified Text.HTML.TagSoup as TS
 import Text.Pandoc (Block (..), Inline (..), Pandoc)
-import Text.Pandoc.Shared (stringify)
+import Text.Pandoc.Shared (mapLeft, stringify)
 import Text.Pandoc.Walk
 
 main :: IO ()
@@ -194,10 +195,10 @@ customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions 
   where
     readerOptions = defaultHakyllReaderOptions
     writerOptions = defaultHakyllWriterOptions
-    transform = convertBarberryLinks . standartizeStars . embedChartJS
+    transform = convertBarberryLinks <=< embedChartJS . standartizeStars
 
-embedChartJS :: Pandoc -> Pandoc
-embedChartJS pandoc = walk (go []) pandoc
+embedChartJS :: Pandoc -> Compiler Pandoc
+embedChartJS pandoc = walkM (liftEither . mapLeft (\e -> [T.unpack e]) . go []) pandoc
   where
     queryTable :: Text -> Maybe Block
     queryTable name = listToMaybe . flip query pandoc $ \case
@@ -207,15 +208,15 @@ embedChartJS pandoc = walk (go []) pandoc
     go names (b : bs) = case b of
       Div (name, _, _) _ | name `elem` names -> go names bs
       Table (name, _, _) _ _ _ _ _ | name `elem` names -> go names bs
-      Div (name, cs, kvs) _ | "chartjs" `elem` cs -> fromMaybe [] $ do
-        dataName <- lookup "data" kvs
-        dataBlock <- queryTable dataName
-        tableData <- parseTableData dataBlock
+      Div (name, cs, kvs) _ | "chartjs" `elem` cs -> do
+        dataName <- noteMaybe name "missing 'data'" $ lookup "data" kvs
+        dataBlock <- noteMaybe name ("missing table named " <> dataName) $ queryTable dataName
+        tableData <- parseTableData name dataBlock
         chart <- parseChart name kvs tableData
         let chartHtml = RawBlock "html" $ renderToText chart
-        pure $ chartHtml : go (dataName : names) bs
-      _ -> b : go names bs
-    go _ _ = []
+        (chartHtml :) <$> go (dataName : names) bs
+      _ -> (b :) <$> go names bs
+    go _ [] = pure []
 
 standartizeStars :: Pandoc -> Pandoc
 standartizeStars = walk $ \case

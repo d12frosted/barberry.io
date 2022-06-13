@@ -1,8 +1,10 @@
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE LambdaCase #-}
 {-# LANGUAGE OverloadedStrings #-}
 
-module Site.ChartJS.Parse (parseTableData, parseChart) where
+module Site.ChartJS.Parse (parseTableData, parseChart, noteMaybe, note) where
 
+import Control.Monad.Error.Class (throwError)
 import Data.Maybe (fromMaybe, mapMaybe)
 import Data.Text as T (Text, unpack)
 import Site.ChartJS.Types
@@ -12,8 +14,8 @@ import Text.Pandoc.Walk
 
 --------------------------------------------------------------------------------
 
-parseTableData :: Block -> Maybe TableData
-parseTableData (Table _ _ _ th [tb] _) = Just $ TableData aHeader (toValues tb)
+parseTableData :: Text -> Block -> Either Text TableData
+parseTableData _ (Table _ _ _ th [tb] _) = pure $ TableData aHeader (toValues tb)
   where
     aHeader = toHeader th
     toHeader = queryTableHead $ \case
@@ -21,17 +23,18 @@ parseTableData (Table _ _ _ th [tb] _) = Just $ TableData aHeader (toValues tb)
       _ -> []
     toValues (TableBody _ _ _ rows) = zip aHeader . fmap stringify . getCells <$> rows
     getCells (Row _ cells) = cells
-parseTableData _ = Nothing
+parseTableData name _ = note name "table data can be parsed only from Table block"
 
-parseChart :: Text -> [(Text, Text)] -> TableData -> Maybe (Chart Text)
+parseChart :: Text -> [(Text, Text)] -> TableData -> Either Text (Chart Text)
 parseChart name kvs (TableData _ values) = do
-  labelKey <- lookup "labels" kvs
-  valueKey <- lookup "values" kvs
+  labelKey <- noteMaybe name "missing 'labels'" $ lookup "labels" kvs
+  valueKey <- noteMaybe name "missing 'values'" $ lookup "values" kvs
   chartType <- case lookup "type" kvs of
-    Just "bar" -> Just Bar
-    Just "line" -> Just Line
-    Just "pie" -> Just Pie
-    _ -> Nothing
+    Just "bar" -> pure Bar
+    Just "line" -> pure Line
+    Just "pie" -> pure Pie
+    Just n -> note name $ "unsupported chart type " <> n
+    _ -> note name "missing 'type'"
   let scales = parseScales kvs
   let backgroundColors =
         [ "rgba(255, 99, 132, 0.2)",
@@ -50,21 +53,32 @@ parseChart name kvs (TableData _ values) = do
           "rgba(255, 159, 64, 1)"
         ]
   indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
-    "x" -> Just X
-    "y" -> Just Y
-    _ -> Nothing
+    "x" -> pure X
+    "y" -> pure Y
+    n -> note name $ "unsupported index-axis " <> n
   let legend = fromMaybe False $ lookupFlag "legend" kvs
   let plugins = [LegendPlugin legend, DataLabelsPlugin]
-  options <- case chartType of
-    Bar ->
-      Just . OBar $
-        BarOptions
-          { barIndexAxis = indexAxis,
-            barSkipNull = False,
-            barScales = scales,
-            barPlugins = plugins
-          }
-    _ -> Nothing
+  let options = case chartType of
+        Bar ->
+          OBar $
+            BarOptions
+              { barIndexAxis = indexAxis,
+                barSkipNull = False,
+                barScales = scales,
+                barPlugins = plugins
+              }
+        Line ->
+          OLine $
+            LineOptions
+              { lineIndexAxis = indexAxis,
+                linePlugins = plugins
+              }
+        Pie ->
+          OPie $
+            PieOptions
+              { pieRotation = 0,
+                piePlugins = plugins
+              }
   pure $
     Chart
       { chartName = name,
@@ -105,3 +119,10 @@ lookupFlag key kvs = case lookup key kvs of
   Just "true" -> Just True
   Just "false" -> Just False
   _ -> Nothing
+
+noteMaybe :: Text -> Text -> Maybe a -> Either Text a
+noteMaybe _ _ (Just a) = pure a
+noteMaybe name msg _ = note name msg
+
+note :: Text -> Text -> Either Text a
+note name msg = throwError $ "chartjs" <> "." <> name <> ": " <> msg
