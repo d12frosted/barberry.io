@@ -7,7 +7,6 @@
 module Site.ChartJS.Render (renderToText) where
 
 import Data.Aeson as Aeson
-import Data.Maybe (fromMaybe, isJust)
 import Data.String (IsString, fromString)
 import Data.Text (Text)
 import qualified Data.Text as T
@@ -26,49 +25,38 @@ renderToText = fromString . renderHtml . renderToHtml
 
 --------------------------------------------------------------------------------
 
-renderToHtml :: ToJSON a => Chart a -> Html
+renderToHtml :: (ToJSON a) => Chart a -> Html
 renderToHtml chart@(Chart {..}) = aDiv $ canvas <> script
   where
     canvas =
       H.canvas mempty
-        ! A.id (fromText cName)
-        ! maybe mempty (height . fromText) cHeight
-        ! maybe mempty (width . fromText) cWidth
+        ! A.id (fromText chartName)
+        ! maybe mempty (height . fromString . show) chartHeight
+        ! maybe mempty (width . fromString . show) chartWidth
     script = H.script . H.toHtml . chartJs $ chart
     aDiv = H.div ! A.class_ "chartjs"
 
 --------------------------------------------------------------------------------
 
-chartJs :: ToJSON a => Chart a -> LT.Text
+chartJs :: (ToJSON a) => Chart a -> LT.Text
 chartJs Chart {..} =
-  let labels = toJSON $ cdLabels cData
-      dataSets = toJSON $ cdDataSets cData
+  let labels = toJSON $ dataLabels chartData
+      sets = toJSON $ dataSets chartData
+      options = toJSON chartOptions
+      chartType = case chartOptions of
+        OBar _ -> Bar
+        OLine _ -> Line
+        OPie _ -> Pie
    in J.renderJavascript $
         [J.julius|
-      new Chart(document.getElementById(#{cName}).getContext('2d'), {
+      new Chart(document.getElementById(#{chartName}).getContext('2d'), {
         plugins: [ChartDataLabels],
-        type: #{cType},
+        type: #{toJSON chartType},
         data: {
           labels: #{labels},
-          datasets: #{dataSets}
+          datasets: #{sets}
         },
-        options: {
-          // maintainAspectRatio: false,
-          title: {
-            display: #{isJust cTitle},
-            text: #{fromMaybe "" cTitle}
-          },
-          scales: #{toJSON cScales},
-          plugins: {
-            legend: {
-              display: #{cDisplayLegend}
-            },
-            datalabels: {
-              anchor: 'end',
-              align: 'start'
-            }
-          }
-        }
+        options: #{options}
       });
       |]
           undefined

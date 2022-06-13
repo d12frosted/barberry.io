@@ -4,7 +4,7 @@
 module Site.ChartJS.Parse (parseTableData, parseChart) where
 
 import Data.Maybe (fromMaybe, mapMaybe)
-import Data.Text (Text)
+import Data.Text as T (Text, unpack)
 import Site.ChartJS.Types
 import Text.Pandoc
 import Text.Pandoc.Shared (stringify)
@@ -27,8 +27,12 @@ parseChart :: Text -> [(Text, Text)] -> TableData -> Maybe (Chart Text)
 parseChart name kvs (TableData _ values) = do
   labelKey <- lookup "labels" kvs
   valueKey <- lookup "values" kvs
-  let chartType = fromMaybe "line" $ lookup "type" kvs
-  let scales = parseScales chartType kvs
+  chartType <- case lookup "type" kvs of
+    Just "bar" -> Just Bar
+    Just "line" -> Just Line
+    Just "pie" -> Just Pie
+    _ -> Nothing
+  let scales = parseScales kvs
   let backgroundColors =
         [ "rgba(255, 99, 132, 0.2)",
           "rgba(54, 162, 235, 0.2)",
@@ -45,50 +49,53 @@ parseChart name kvs (TableData _ values) = do
           "rgba(153, 102, 255, 1)",
           "rgba(255, 159, 64, 1)"
         ]
+  indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
+    "x" -> Just X
+    "y" -> Just Y
+    _ -> Nothing
+  let legend = fromMaybe False $ lookupFlag "legend" kvs
+  let plugins = [LegendPlugin legend, DataLabelsPlugin]
+  options <- case chartType of
+    Bar ->
+      Just . OBar $
+        BarOptions
+          { barIndexAxis = indexAxis,
+            barSkipNull = False,
+            barScales = scales,
+            barPlugins = plugins
+          }
+    _ -> Nothing
   pure $
     Chart
-      { cName = name,
-        cTitle = lookup "title" kvs,
-        cHeight = lookup "height" kvs,
-        cWidth = lookup "width" kvs,
-        cType = chartType,
-        cDisplayLegend = fromMaybe False $ lookupFlag "legend" kvs,
-        cScales = scales,
-        cData =
+      { chartName = name,
+        chartHeight = read . T.unpack <$> lookup "height" kvs,
+        chartWidth = read . T.unpack <$> lookup "width" kvs,
+        chartOptions = options,
+        chartData =
           ChartData
-            { cdLabels = mapMaybe (lookup labelKey) values,
-              cdDataSets =
-                [ ChartDataSet
-                    { cdsData = map (lookup valueKey) values,
-                      cdsLabel = fromMaybe valueKey $ lookup "label" kvs,
-                      cdsBorderColors = borderColors,
-                      cdsBackgroundColors = backgroundColors,
-                      cdsBorderWidth = 1,
-                      cdsFill = False
+            { dataLabels = mapMaybe (lookup labelKey) values,
+              dataSets =
+                [ DataSet
+                    { dataSetValues = map (lookup valueKey) values,
+                      dataSetLabel = fromMaybe valueKey $ lookup "label" kvs,
+                      dataSetBorderColors = borderColors,
+                      dataSetBackgroundColors = backgroundColors,
+                      dataSetBorderWidth = 1,
+                      dataSetFill = False
                     }
                 ]
             }
       }
 
-parseScales :: Text -> [(Text, Text)] -> ChartScales
-parseScales "horizontalBar" kvs =
-  ChartScales
-    { csAxisX =
+parseScales :: [(Text, Text)] -> Scales
+parseScales kvs =
+  Scales
+    { scalesAxisX = Nothing,
+      scalesAxisY =
         Just $
-          ChartAxis
-            { caType = fromMaybe "linear" $ lookup "xAxisType" kvs,
-              caBeginAtZero = fromMaybe True $ lookupFlag "xAxisBeginAtZero" kvs
-            },
-      csAxisY = Nothing
-    }
-parseScales _ kvs =
-  ChartScales
-    { csAxisX = Nothing,
-      csAxisY =
-        Just $
-          ChartAxis
-            { caType = fromMaybe "linear" $ lookup "yAxisType" kvs,
-              caBeginAtZero = fromMaybe True $ lookupFlag "yAxisBeginAtZero" kvs
+          AxisOptions
+            { axisType = fromMaybe "linear" $ lookup "yAxisType" kvs,
+              axisBeginAtZero = fromMaybe True $ lookupFlag "yAxisBeginAtZero" kvs
             }
     }
 
