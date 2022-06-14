@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+bootstrap-table@^1.20.2:
+  version "1.20.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-table/-/bootstrap-table-1.20.2.tgz#187fcd1812fa3422f964e3b32e3fc3d266108a83"
+  integrity sha512-6j9zfjjK6VZyJj8KsH+LnGczqglmMvMctGAoEAKDvrQ92ExQbA3mHGYPQr9iPrzoyeGL8+6Dyx6LqJbWmWmBoA==
+
 chart.js@^3.8.0:
   version "3.8.0"
   resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-3.8.0.tgz#c6c14c457b9dc3ce7f1514a59e9b262afd6f1a94"
@@ -12,22 +17,7 @@ chartjs-plugin-datalabels@^2.0.0:
   resolved "https://registry.yarnpkg.com/chartjs-plugin-datalabels/-/chartjs-plugin-datalabels-2.0.0.tgz#caacefb26803d968785071eab012dde8746c5939"
   integrity sha512-WBsWihphzM0Y8fmQVm89+iy99mmgejmj5/jcsYqwxSioLRL/zqJ4Scv/eXq5ZqvG3TpojlGzZLeaOaSvDm7fwA==
 
-datatables.net-dt@^1.12.1:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/datatables.net-dt/-/datatables.net-dt-1.12.1.tgz#43aa00adb1ea9a3adbffae4a0b6baf56ec74ccd9"
-  integrity sha512-HYsHbSYqOqlgsgjKMH/kkCB5455t51GmmtXRxgnDMRbjPLEIKo5CZmAlUe5mdD/RVPRtAUaj5K3SDlkEZ1bUmw==
-  dependencies:
-    datatables.net ">=1.11.3"
-    jquery ">=1.7"
-
-datatables.net@>=1.11.3, datatables.net@^1.12.1:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.12.1.tgz#3e625e49a3341f605b0efb519fae94e37b278f24"
-  integrity sha512-e6XAMUoV41JdQPS/r9YRfRcmTPcCVvyZbWI+xog1Zg+kjVliMQbEkvWK5XFItmi64Cvwg+IqsZbTUJ1KSY3umA==
-  dependencies:
-    jquery ">=1.7"
-
-jquery@>=1.7, jquery@^3.6.0:
+jquery@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
   integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==

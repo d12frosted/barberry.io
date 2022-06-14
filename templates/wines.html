@@ -1,30 +1,21 @@
 <h1>$title$</h1>
 
-<script type="text/javascript" src="/library/jquery/dist/jquery.slim.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/library/datatables.net-dt/css/jquery.dataTables.min.css"/>
-<script type="text/javascript" src="/library/datatables.net/js/jquery.dataTables.min.js"></script>
-
-<div id="table-visibility-control">
-  Toggle
-  <input type="checkbox" class="hide_show"><span>country</span>
-  <input type="checkbox" class="hide_show" checked><span>producer</span>
-  <input type="checkbox" class="hide_show" checked><span>name</span>
-  <input type="checkbox" class="hide_show" checked><span>vintage</span>
-  <input type="checkbox" class="hide_show"><span>grapes</span>
-  <input type="checkbox" class="hide_show" checked><span>rating</span>
-  <input type="checkbox" id="hide_show_all"><span>all</span>
-</div>
+<link rel="stylesheet" href="/library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css">
 
 <div class="table-container">
-  <table id="wines-table" class="stripe compact hover order-column">
+  <table id="wines-table"
+         data-toggle="table"
+         data-search="true"
+         data-show-columns="true"
+         data-pagination="false">
     <thead>
       <tr>
-        <th>Country</th>
-        <th>Producer</th>
-        <th>Name</th>
-        <th>Vintage</th>
-        <th>Grapes</th>
-        <th>Rating</th>
+        <th data-sortable="true" data-field="country">Country</th>
+        <th data-sortable="true" data-field="producer">Producer</th>
+        <th data-sortable="true" data-field="name">Name</th>
+        <th data-sortable="true" data-field="vintage">Vintage</th>
+        <th data-sortable="true" data-field="grapes">Grapes</th>
+        <th data-sortable="true" data-field="rating" data-sorter="ratingSorter">Rating</th>
       </tr>
     </thead>
     <tbody>
@@ -49,63 +40,13 @@
 </div>
 
 <script>
-  $$(document).ready(function () {
-    $$("#wines-table").on('draw.dt', function() {
-      $$('.hide_show').each(function() {
-        const visible = $$(this).is(":checked");
-        const ti = $$(this).index(".hide_show");
-        $$('#wines-table tr').each(function() {
-	        if (visible) {
-		        $$('td:eq(' + ti + ')',this).show(100);
-		        $$('th:eq(' + ti + ')',this).show(100);
-	        } else {
-		        $$('td:eq(' + ti + ')',this).hide(100);
-		        $$('th:eq(' + ti + ')',this).hide(100);
-	        }
-        });
-      });
-      const all_ch = $$(".hide_show:checked").length == $$(".hide_show").length;
-      $$("#hide_show_all").prop("checked", all_ch);
-    });
-
-    const table = new DataTable("#wines-table", {
-      paging: false,
-      order: [[1, 'asc']],
-      autoWidth: false,
-    });
-
-    $$("#hide_show_all").on("change", function(){
-	    const visible = $$(this).is(":checked");
-	    $$(".hide_show").prop("checked", visible);
-
-	    if (visible) {
-		    $$('#wines-table tr th').show(100);
-		    $$('#wines-table tr td').show(100);
-	    } else {
-		    $$('#mine tr th').hide(100);
-		    $$('#wines-table tr td').hide(100);
-	    }
-    });
-    
-    $$(".hide_show").on("change", function() {
-	    const visible = $$(this).is(":checked");
-	    
-	    const all_ch = $$(".hide_show:checked").length == $$(".hide_show").length;
-
-	    $$("#hide_show_all").prop("checked", all_ch);
-	    
-	    const ti = $$(this).index(".hide_show");
-	    
-      $$('#wines-table tr').each(function() {
-	      if (visible) {
-		      $$('td:eq(' + ti + ')',this).show(100);
-		      $$('th:eq(' + ti + ')',this).show(100);
-	      } else {
-		      $$('td:eq(' + ti + ')',this).hide(100);
-		      $$('th:eq(' + ti + ')',this).hide(100);
-	      }
-      });
-
-    });
-  });
+  function ratingSorter(a, b) {
+    const aa = a == '-' ? 0 : parseFloat(a);
+    const bb = b == '-' ? 0 : parseFloat(b);
+    return aa - bb
+  }
 </script>
+
+<script src="/library/jquery/dist/jquery.min.js"></script>
+<script src="/library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="/library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
