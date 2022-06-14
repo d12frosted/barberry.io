@@ -492,3 +492,11 @@ ul.rating-list {
 .bootstrap-table table.table-hover tbody tr:hover {
   background: var(--highlight-default) !important;
 }
+
+.bootstrap-table .btn, .bootstrap-table input.form-control, .bootstrap-table select.form-control {
+  border: 1px solid var(--subtle) !important;
+}
+
+.bootstrap-table table.table-bordered tbody tr td, .bootstrap-table table.table-bordered thead tr th {
+  border: 1px solid var(--subtle) !important;
+}
