@@ -61,37 +61,37 @@ So despite having rated only 8 sparkling wines, 4 of them are at the top. Who wo
 
 Nothing that critical, just mediocre wines. So no witch hunting this month.
 
-|       date | country     | producer            | name                                   | year | price        | rate |    QPR |
-|------------+-------------+---------------------+----------------------------------------+------+--------------+------+--------|
-| 2022-05-04 | Italy       | San Leonardo        | Terre di San Leonardo                  | 2014 | 706.00 UAH   | 7.75 | 2.8210 |
-| 2022-05-04 | New Zealand | Mud House           | Pinot Noir Central Otago               | 2020 | 490.00 UAH   | 7.00 | 2.3738 |
-| 2022-05-04 | France      | Paul Benoit et Fils | Pinot Arbois                           | 2018 | 693.00 UAH   | 7.50 | 2.3934 |
-| 2022-05-08 | Australia   | Two Hands           | Sexy Beast                             | 2019 | 697.78 UAH   | 7.50 | 2.3770 |
-| 2022-05-10 | France      | Patrice Beguet      | Big Bunch Theory Fresh Impression Red  | 2020 | 620.00 UAH   | 7.50 | 2.6752 |
-| 2022-05-11 | Italy       | Cascina Tavijn      | Bandita                                | 2019 | 514.17 UAH   | 7.75 | 3.8735 |
-| 2022-05-14 | France      | Jacquesson          | Cuvée 744 Grand Vin (2016)             |   NV | 2 054.00 UAH | 8.50 | 1.7143 |
-| 2022-05-15 | New Zealand | Fernway             | Sauvignon Blanc                        | 2019 | 750.00 UAH   | 7.00 | 1.5509 |
-| 2022-05-16 | Austria     | Weingut Bründlmayer | Brut Rosé                              |   NV | 943.17 UAH   | 8.00 | 2.5446 |
-| 2022-05-17 | France      | Lamiable            | Cuvee Pheerie                          | 2013 | 1 377.00 UAH | 8.50 | 2.5571 |
-| 2022-05-17 | Chile       | Concha y Toro       | Casillero del Diablo Carmenere Reserva | 2019 | 450.00 UAH   | 5.75 | 1.1421 |
-| 2022-05-18 | Chile       | San Pedro           | Gato Negro Merlot                      | 2020 | 240.00 UAH   | 6.00 | 2.5000 |
-| 2022-05-19 | Italy       | Sizarini            | Pinot Grigio                           | 2020 | 275.00 UAH   | 5.25 | 1.3907 |
-| 2022-05-20 | France      | Barton & Guestier   | Chardonnay Réserve                     | 2019 | 460.00 UAH   | 5.00 | 0.7225 |
-| 2022-05-21 | Chile       | Luis Felipe Edwards | Sauvignon Blanc                        | 2020 | 340.00 UAH   | 6.50 | 2.4368 |
-| 2022-05-21 | Chile       | Luis Felipe Edwards | Sauvignon Blanc Reserva                | 2019 | 490.00 UAH   | 7.25 | 2.8293 |
-| 2022-05-23 | Italy       | Villa Puccini       | Chianti Riserva                        | 2016 | 395.00 UAH   | 6.50 | 2.0975 |
-| 2022-05-24 | Chile       | Concha y Toro       | Casillero del Diablo Sauvignon Blanc   | 2020 | 440.00 UAH   | 7.25 | 3.1508 |
-| 2022-05-25 | Italy       | Savella             | Pinot Grigio                           | 2020 | 300.00 UAH   | 6.50 | 2.7617 |
-| 2022-05-25 | Italy       | Cantina la Salute   | Sauvignon                              |   NV | 450.00 UAH   | 4.50 | 0.5665 |
-| 2022-05-27 | Italy       | Borgo Solè          | Prosecco Brut                          |   NV | 400.00 UAH   | 6.50 | 2.0713 |
-| 2022-05-27 | Italy       | Terra Fresca        | frizzante                              |   NV | 500.00 UAH   | 6.50 | 1.6570 |
-| 2022-05-29 | Spain       | Raventós i Blanc    | Blanc de Blancs Extra Brut             | 2018 | 1 700.00 UAH | 7.75 | 1.1715 |
-| 2022-05-29 | New Zealand | Saint Clair         | Origin Pinot Noir Marlborough          | 2019 | 546.00 UAH   | 7.50 | 3.0378 |
-| 2022-05-29 | France      | Francois Montand    | Méthode Traditionnelle Brut Rosé       |   NV | 238.59 UAH   | 7.00 | 4.8752 |
-| 2022-05-30 | Italy       | Bertolotto          | Brut                                   |   NV | 900.00 UAH   | 8.00 | 2.6667 |
-| 2022-05-31 | Ukraine     | Vinoman             | BLU Pinot Noir                         | 2019 | 1 100.00 UAH | 7.50 | 1.5078 |
-| 2022-05-31 | Australia   | Lucy Margaux        | Vino Rosso                             | 2020 | 774.00 UAH   | 7.50 | 2.1429 |
-| 2022-05-31 | New Zealand | Craggy Range        | Gimblett Gravels Syrah                 | 2018 | 901.00 UAH   | 8.00 | 2.6637 |
+|       date | country     | producer            | name                                   | year | rate |    QPR |
+|------------+-------------+---------------------+----------------------------------------+------+------+--------|
+| 2022-05-04 | Italy       | San Leonardo        | Terre di San Leonardo                  | 2014 | 7.75 | 2.8210 |
+| 2022-05-04 | New Zealand | Mud House           | Pinot Noir Central Otago               | 2020 | 7.00 | 2.3738 |
+| 2022-05-04 | France      | Paul Benoit et Fils | Pinot Arbois                           | 2018 | 7.50 | 2.3934 |
+| 2022-05-08 | Australia   | Two Hands           | Sexy Beast                             | 2019 | 7.50 | 2.3770 |
+| 2022-05-10 | France      | Patrice Beguet      | Big Bunch Theory Fresh Impression Red  | 2020 | 7.50 | 2.6752 |
+| 2022-05-11 | Italy       | Cascina Tavijn      | Bandita                                | 2019 | 7.75 | 3.8735 |
+| 2022-05-14 | France      | Jacquesson          | Cuvée 744 Grand Vin (2016)             |   NV | 8.50 | 1.7143 |
+| 2022-05-15 | New Zealand | Fernway             | Sauvignon Blanc                        | 2019 | 7.00 | 1.5509 |
+| 2022-05-16 | Austria     | Weingut Bründlmayer | Brut Rosé                              |   NV | 8.00 | 2.5446 |
+| 2022-05-17 | France      | Lamiable            | Cuvee Pheerie                          | 2013 | 8.50 | 2.5571 |
+| 2022-05-17 | Chile       | Concha y Toro       | Casillero del Diablo Carmenere Reserva | 2019 | 5.75 | 1.1421 |
+| 2022-05-18 | Chile       | San Pedro           | Gato Negro Merlot                      | 2020 | 6.00 | 2.5000 |
+| 2022-05-19 | Italy       | Sizarini            | Pinot Grigio                           | 2020 | 5.25 | 1.3907 |
+| 2022-05-20 | France      | Barton & Guestier   | Chardonnay Réserve                     | 2019 | 5.00 | 0.7225 |
+| 2022-05-21 | Chile       | Luis Felipe Edwards | Sauvignon Blanc                        | 2020 | 6.50 | 2.4368 |
+| 2022-05-21 | Chile       | Luis Felipe Edwards | Sauvignon Blanc Reserva                | 2019 | 7.25 | 2.8293 |
+| 2022-05-23 | Italy       | Villa Puccini       | Chianti Riserva                        | 2016 | 6.50 | 2.0975 |
+| 2022-05-24 | Chile       | Concha y Toro       | Casillero del Diablo Sauvignon Blanc   | 2020 | 7.25 | 3.1508 |
+| 2022-05-25 | Italy       | Savella             | Pinot Grigio                           | 2020 | 6.50 | 2.7617 |
+| 2022-05-25 | Italy       | Cantina la Salute   | Sauvignon                              |   NV | 4.50 | 0.5665 |
+| 2022-05-27 | Italy       | Borgo Solè          | Prosecco Brut                          |   NV | 6.50 | 2.0713 |
+| 2022-05-27 | Italy       | Terra Fresca        | frizzante                              |   NV | 6.50 | 1.6570 |
+| 2022-05-29 | Spain       | Raventós i Blanc    | Blanc de Blancs Extra Brut             | 2018 | 7.75 | 1.1715 |
+| 2022-05-29 | New Zealand | Saint Clair         | Origin Pinot Noir Marlborough          | 2019 | 7.50 | 3.0378 |
+| 2022-05-29 | France      | Francois Montand    | Méthode Traditionnelle Brut Rosé       |   NV | 7.00 | 4.8752 |
+| 2022-05-30 | Italy       | Bertolotto          | Brut                                   |   NV | 8.00 | 2.6667 |
+| 2022-05-31 | Ukraine     | Vinoman             | BLU Pinot Noir                         | 2019 | 7.50 | 1.5078 |
+| 2022-05-31 | Australia   | Lucy Margaux        | Vino Rosso                             | 2020 | 7.50 | 2.1429 |
+| 2022-05-31 | New Zealand | Craggy Range        | Gimblett Gravels Syrah                 | 2018 | 8.00 | 2.6637 |
 
 And I want to finish my report with one special mention. As you might know, Goodwine storage was destroyed at the beginning of the war. Estimated loss is 15 billion euros. Some wines survived physically, though they are completely spoiled. On the last day of May I had an opportunity to taste Gevrey-Chambertin Cuvée Cœur de Roy 2014 by famous Bernard Dugat-Py. This bottle 'survived' is the fires, though the label was completely ruined and we figured out what wine we opened only thanks to the writings on the cork.
 
@@ -99,4 +99,4 @@ I must note that I don't really like Dugat-Py style. It's powerful, expressive a
 
 Nevertheless, I tasted this dead wine and in the flavours of burnt tires and paper, in this disintegrated and broken body I found solace. And I found comfort. It's too early to extract feelings into words, but at least I know that my small world can carry on. Not by inertia, but at will.
 
-Save travels!
+Safe travels!
