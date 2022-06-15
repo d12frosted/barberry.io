@@ -387,6 +387,18 @@ article caption {
   margin-block-end: 1.2em;
 }
 
+table.tasting-scores {
+  border-spacing: 0rem;
+}
+
+table.tasting-scores thead tr th {
+  border-bottom: 0.2rem solid var(--subtle);
+}
+
+table.tasting-scores td, th {
+  padding: 0.6rem;
+}
+
 main dt {
   font-size: var(--h3-size);
   font-family: var(--header-font);

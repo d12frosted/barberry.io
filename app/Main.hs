@@ -19,8 +19,8 @@ import Hakyll hiding (fromList)
 import Site.ChartJS.Parse
 import Site.ChartJS.Render
 import Site.Web.Template.Context (modificationDateField)
-import qualified Text.HTML.TagSoup as TS
-import Text.Pandoc (Block (..), Inline (..), Pandoc (..))
+import qualified Site.WinesTable as WinesTable
+import Text.Pandoc (Block (..), Cell (..), Inline (..), Pandoc (..), Row (..), TableBody (..))
 import Text.Pandoc.Shared (mapLeft, stringify)
 import Text.Pandoc.Walk
 
@@ -66,7 +66,6 @@ main = hakyll $ do
       customPandocCompiler
         >>= loadAndApplyTemplate "templates/post.html" postCtx
         >>= loadAndApplyTemplate "templates/default.html" postCtx
-        >>= adaptTables
         >>= relativizeUrls
 
   create ["posts.html"] $ do
@@ -92,7 +91,7 @@ main = hakyll $ do
         >>= relativizeUrls
 
   create ["wines.html"] $ do
-    route idRoute
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile $ do
       wines <- titleOrdered =<< loadAll "wines/*.org"
       let archiveCtx =
@@ -168,39 +167,15 @@ titleOrdered = sortByM $ getTitle . itemIdentifier
 
 --------------------------------------------------------------------------------
 
-adaptTables :: Item String -> Compiler (Item String)
-adaptTables = pure . fmap (withTagList f)
-  where
-    f ((TS.TagOpen "table" as) : ts) =
-      [TS.TagOpen "div" divAttrs, TS.TagOpen "table" (as <> tblAttrs)] <> f ts
-    f ((TS.TagClose "table") : ts) =
-      [TS.TagClose "table", TS.TagClose "div"] <> f ts
-    f ((TS.TagOpen "td" tdAttrs) : (TS.TagOpen "strong" _) : ts) =
-      [TS.TagOpen "td" (tdAttrs <> [("class", "highlight-successful")])] <> f ts
-    f ((TS.TagClose "strong") : (TS.TagClose "td") : ts) =
-      [TS.TagClose "td"] <> f ts
-    f ((TS.TagOpen "td" tdAttrs) : (TS.TagOpen "del" _) : ts) =
-      [TS.TagOpen "td" (tdAttrs <> [("class", "highlight-critical")])] <> f ts
-    f ((TS.TagClose "del") : (TS.TagClose "td") : ts) =
-      [TS.TagClose "td"] <> f ts
-    f (t : ts) = t : f ts
-    f [] = []
-
-    tblAttrs =
-      [ ("rules", "groups"),
-        ("cellspacing", "0"),
-        ("cellpadding", "6")
-      ]
-    divAttrs = [("class", "table-container")]
-
---------------------------------------------------------------------------------
-
 customPandocCompiler :: Compiler (Item String)
 customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions transform
   where
     readerOptions = defaultHakyllReaderOptions
     writerOptions = defaultHakyllWriterOptions
-    transform = convertBarberryLinks <=< embedChartJS . standartizeStars
+    transform =
+      convertBarberryLinks
+        <=< (pure . wrapTables . processTastingScores . WinesTable.convert)
+        <=< embedChartJS . standartizeStars
 
 embedChartJS :: Pandoc -> Compiler Pandoc
 embedChartJS pandoc = walkM embedChart . embedImport $ pandoc
@@ -250,6 +225,41 @@ convertBarberryLinks = walkM $ \case
       exists <- isJust <$> getRoute i
       pure $ if exists then Link a is (url' <> ".html", title) else Str (stringify is)
   i -> pure i
+
+wrapTables :: Pandoc -> Pandoc
+wrapTables = walk go
+  where
+    go [] = []
+    go (b : bs) = case b of
+      Table {} -> Div ("", ["table-cotainer"], []) [b] : go bs
+      _ -> b : go bs
+
+processTastingScores :: Pandoc -> Pandoc
+processTastingScores = walk $ \case
+  Table (i, classes, kvs) caption colSpecs th tb tf
+    | ("class", "tasting-scores") `elem` kvs ->
+      Table (i, classes, kvs) caption colSpecs th (map goTB tb) tf
+    where
+      goTB (TableBody tba tbh rs1 rs2) = TableBody tba tbh (map goRow rs1) (map goRow rs2)
+      goRow (Row ra cells) = Row ra $ map goCell cells
+      goCell (Cell (ci, cc, ckvs) alignment rowSpan colSpan bs) =
+        Cell (ci, cc', ckvs) alignment rowSpan colSpan (clean bs)
+        where
+          cc' =
+            ["highlight-successful" | getAny $ hasStrong bs]
+              <> ["highlight-critical" | getAny $ hasStrikeout bs]
+              <> cc
+          clean = walk $ \case
+            Strong is -> Str . stringify $ is
+            Strikeout is -> Str . stringify $ is
+            inline -> inline
+          hasStrong = query $ \case
+            Strong _ -> Any True
+            _ -> mempty
+          hasStrikeout = query $ \case
+            Strikeout _ -> Any True
+            _ -> mempty
+  b -> b
 
 --------------------------------------------------------------------------------
 

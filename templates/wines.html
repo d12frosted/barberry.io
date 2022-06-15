@@ -2,8 +2,20 @@
 
 <link rel="stylesheet" href="/library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css">
 
-<div class="table-container wines-table">
-  <table id="wines-table"
+<script src="/library/jquery/dist/jquery.min.js"></script>
+<script src="/library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="/library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
+
+<script>
+  function ratingSorter(a, b) {
+    const aa = a == '-' ? 0 : parseFloat(a);
+    const bb = b == '-' ? 0 : parseFloat(b);
+    return aa - bb
+  }
+</script>
+
+<div class="table-container">
+  <table class="wines-table"
          data-toggle="table"
          data-search="true"
          data-show-columns="true"
@@ -38,15 +50,3 @@
     </tbody>
   </table>
 </div>
-
-<script>
-  function ratingSorter(a, b) {
-    const aa = a == '-' ? 0 : parseFloat(a);
-    const bb = b == '-' ? 0 : parseFloat(b);
-    return aa - bb
-  }
-</script>
-
-<script src="/library/jquery/dist/jquery.min.js"></script>
-<script src="/library/bootstrap-table/dist/bootstrap-table.min.js"></script>
-<script src="/library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>

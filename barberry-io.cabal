@@ -23,6 +23,7 @@ executable site
       Site.ChartJS.Render
       Site.ChartJS.Types
       Site.Web.Template.Context
+      Site.WinesTable
       Paths_barberry_io
   hs-source-dirs:
       app

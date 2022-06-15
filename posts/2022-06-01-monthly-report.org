@@ -79,7 +79,7 @@ So despite having rated only 8 sparkling wines, 4 of them are at the top. Who wo
 
 Nothing that critical, just mediocre wines. So no witch hunting this month.
 
-
+#+attr_html: :class wines-table
 #+name: ratings-data
 #+results: ratings-data
 |       date | country        | producer               | name                                                          | vintage | rate |    QPR |

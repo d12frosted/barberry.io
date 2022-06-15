@@ -16,6 +16,7 @@
 
 І от результати з цієї зустрічі. Мусю зізнатися, дуже цікаві!
 
+#+attr_html: :class tasting-scores
 #+caption: Оцінки учасників
 #+results: scores
 |          | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
@@ -29,6 +30,7 @@
 | Вася     |  *4.50* |    4.60 |    4.30 |    4.30 |  +3.80+ |
 | Боря     |    4.00 |    4.50 |  *4.00* |    3.90 |  +3.60+ |
 
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Результат
 #+results: summary
 |   |   total |   sdev | favourite | outcast |   price |      QPR |
