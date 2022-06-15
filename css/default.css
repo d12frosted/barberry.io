@@ -581,6 +581,7 @@ ul.rating-list {
   border: 1px solid var(--subtle) !important;
 }
 
-.bootstrap-table {
-  font-size: 1.6rem;
+.wines-table {
+  font-size: 1.4rem;
+  font-family: var(--header-font);
 }
