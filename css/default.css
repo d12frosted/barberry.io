@@ -384,11 +384,11 @@ article caption {
 
 .table-container {
   overflow: auto;
-  margin-block-end: 1.2em;
 }
 
 table.tasting-scores {
   border-spacing: 0rem;
+  margin-block-start: 1.2rem;
 }
 
 table.tasting-scores thead tr th {
