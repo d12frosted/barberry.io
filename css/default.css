@@ -1,3 +1,37 @@
+:root {
+  --foreground: #37474F;
+  --background: #FFFFFF;
+  --subtle: #ECEFF1;
+  --subtle-i: #ECEFF1;
+  --faded: #ADADAD;
+  --faded-i: #E7ECEE;
+  --salient: #7880B5;
+  --salient-i: #E2E5F3;
+  --strong: #263238;
+  --strong-i #263238;
+  --popout: #FDA521;
+  --popout-i: #FED18C;
+  --critical: #C8553D;
+  --critical-i: #C8553D;
+  --successful: #74AC48;
+  --successful-i: #E9F7DF;
+  --highlight-default: #F5F5F5;
+  --highlight-successful: #E9F7DF;
+  --highlight-salient: #F7FCE3;
+  --highlight-critical: #EFC6BE;
+
+  --h1-size: 2.8rem;
+  --h2-size: 2.4rem;
+  --h3-size: 2.0rem;
+  --code-size: 1.4rem;
+  --default-size: 1.6rem;
+
+
+  --header-font: "Alegreya Sans", sans-serif;
+  --code-font: "Source Code Pro", monospace;
+  --default-font: "Cormorant Garamond", serif;
+}
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Cormorant Garamond';
@@ -34,6 +68,71 @@
   src: local('Cormorant Garamond Regular'), local('CormorantGaramond-Regular'), url(https://fonts.gstatic.com/s/cormorantgaramond/v6/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VdtvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7V5tvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VZtvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VltvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VVtvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VRtvWdUhm97sg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VptvWdUhm8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 /* latin-ext */
 @font-face {
   font-family: 'Source Code Pro';
@@ -52,15 +151,7 @@
   src: local('Source Code Pro'), local('SourceCodePro-Regular'), url(https://fonts.gstatic.com/s/sourcecodepro/v9/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-/* latin */
-@font-face {
-  font-family: 'Junge';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('Junge'), local('Junge-Regular'), url(https://fonts.gstatic.com/s/junge/v6/gokgH670Gl1lUpAatBE.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
+
 @font-face {
   font-family: 'Material Symbols Outlined';
   font-style: normal;
@@ -69,55 +160,31 @@
   src: url(/fonts/MaterialSymbols.woff) format('woff');
 }
 
-
 html {
   font-size: 62.5%;
 }
 
 body {
-  font-family: "Cormorant Garamond", serif;
-  font-size: 1.6rem;
+  font-family: var(--default-font);
+  font-size: var(--default-size);
 }
 
 header {
-  font-family: "Junge", sans-serif;
+  font-family: var(--header-font);
 }
 
 h1, h2, h3, h4 {
-  font-family: "Junge", sans-serif;
+  font-family: var(--header-font);
 }
 
 code {
-  font-family: "Source Code Pro", monospace;
-  font-size: 1.4rem;
+  font-family: var(--code-font);
+  font-size: var(--code-size);
 }
 
 pre {
-  font-family: "Source Code Pro", monospace;
-  font-size: 1.4rem;
-}
-
-:root {
-  --foreground: #37474F;
-  --background: #FFFFFF;
-  --subtle: #ECEFF1;
-  --subtle-i: #ECEFF1;
-  --faded: #ADADAD;
-  --faded-i: #E7ECEE;
-  --salient: #7880B5;
-  --salient-i: #E2E5F3;
-  --strong: #263238;
-  --strong-i #263238;
-  --popout: #FDA521;
-  --popout-i: #FED18C;
-  --critical: #C8553D;
-  --critical-i: #C8553D;
-  --successful: #74AC48;
-  --successful-i: #E9F7DF;
-  --highlight-default: #F5F5F5;
-  --highlight-successful: #E9F7DF;
-  --highlight-salient: #F7FCE3;
-  --highlight-critical: #EFC6BE;
+  font-family: var(--code-font);
+  font-size: var(--code-size);
 }
 
 body {
@@ -175,19 +242,22 @@ footer {
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: var(--h1-size);
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: var(--h2-size);
 }
 
+h3 {
+  font-size: var(--h3-size);
+}
 
 .material-symbols-outlined {
   font-family: 'Material Symbols Outlined';
   font-weight: normal;
   font-style: normal;
-  font-size: 1.6rem;
+  font-size: var(--default-size);
   line-height: 1;
   letter-spacing: normal;
   text-transform: none;
@@ -200,12 +270,16 @@ h2 {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1 span.material-symbols-outlined {
+  font-size: var(--h1-size) !important;
+}
+
 h2 span.material-symbols-outlined {
-  font-size: 2.0rem !important;
+  font-size: var(--h2-size) !important;
 }
 
 h3 span.material-symbols-outlined {
-  font-size: 2.2rem !important;
+  font-size: var(--h3-size) !important;
 }
 
 article p {
@@ -276,17 +350,22 @@ article blockquote {
 }
 
 article .wine-producer {
-  font-size: 2.2rem;
+  font-size: var(--h2-size);
+  font-family: var(--header-font);
   font-weight: lighter;
 }
 
 article .wine-title {
-  font-size: 2.4rem;
+  font-size: var(--h1-size);
+  font-family: var(--header-font);
   font-weight: bolder;
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
 }
 
 article .wine-rating {
-  font-size: 1.8rem;
+  font-size: var(--h3-size);
+  font-family: var(--header-font);
 }
 
 article table {
@@ -295,7 +374,7 @@ article table {
 }
 
 article caption {
-  font-size: 1.6rem;
+  font-size: var(--default-size);
   color: var(--faded);
 }
 
@@ -305,7 +384,8 @@ article caption {
 }
 
 main dt {
-  font-size: 2.0rem;
+  font-size: var(--h3-size);
+  font-family: var(--header-font);
   margin-top: 1.2rem;
   margin-bottom: 1.2rem;
 }
@@ -327,7 +407,7 @@ article dl {
 }
 
 article dt {
-  font-size: 1.6rem;
+  font-size: var(--default-size);
   color: var(--faded);
   float: left;
   clear: left;
@@ -499,4 +579,8 @@ ul.rating-list {
 
 .bootstrap-table table.table-bordered tbody tr td, .bootstrap-table table.table-bordered thead tr th {
   border: 1px solid var(--subtle) !important;
+}
+
+.bootstrap-table {
+  font-size: 1.6rem;
 }
