@@ -253,6 +253,10 @@ h3 {
   font-size: var(--h3-size);
 }
 
+hr {
+  border: 0.1rem solid var(--subtle);
+}
+
 .material-symbols-outlined {
   font-family: 'Material Symbols Outlined';
   font-weight: normal;
