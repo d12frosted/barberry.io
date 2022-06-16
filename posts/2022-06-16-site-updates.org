@@ -1,0 +1,39 @@
+This site is still in active development, but over the last two weeks, many things were implemented. So I thought it would be nice to emphasize some of the delivered goodies. And know that I would gladly hear your opinion on each and every aspect, so share your feedback!
+
+Let's start with visual stuff. And the most apparent change in this regard is the set of used fonts. While in Emacs, I use [[https://github.com/adobe-fonts/source-code-pro][Source Code Pro]] exclusively, it’s not that good for reading texts. So instead, this site is using a combination of 3 fonts - [[https://fonts.google.com/specimen/Cormorant+Garamond?query=Cormorant+Garamond][Cormorant Garamond]] as the main serif font, [[https://fonts.google.com/specimen/Alegreya+Sans?query=Alegreya+Sans][Alegreya Sans]] as sans-serif for headers and alike, and [[https://github.com/adobe-fonts/source-code-pro][Source Code Pro]] for code sections (which are not popular here).
+
+Another thing that changed is how wines and reviews are listed. The list of reviews acts as a log, so I decided to group it by date. This results in less clutter and better readbility of reviews log. Just take a look!
+
+#+attr_html: :class img-half img-float-left :alt before
+[[file:/images/2022-06-16-site-updates/2022-06-15-15-50-29-Screenshot 2022-06-15 at 15.48.29.webp]]
+
+#+attr_html: :class img-half img-float-right :alt after
+[[file:/images/2022-06-16-site-updates/2022-06-15-15-50-41-Screenshot 2022-06-15 at 15.49.42.webp]]
+
+#+begin_export html
+<br class="clear-both">
+#+end_export
+
+The list of wines got even more love. Since it tends to grow big[fn:1] and I also want to expose more and more information about each wine, the list quickly became not good enough for this role. So instead, wines are listed in a table, which you can filter and sort. You can even toggle column visibility! Simple, yet powerful enough for the time being. The good part that it's also used in monthly reports.
+
+#+attr_html: :class img-half img-float-left :alt before
+[[file:/images/2022-06-16-site-updates/2022-06-15-15-55-46-Screenshot 2022-06-15 at 15.48.54.webp]]
+
+#+attr_html: :class img-half img-float-right :alt after
+[[file:/images/2022-06-16-site-updates/2022-06-15-15-55-46-Screenshot 2022-06-15 at 15.49.59.webp]]
+
+#+begin_export html
+<br class="clear-both">
+#+end_export
+
+There are some things visible to readers, but you could easily miss them. Let me just lazily list them in no particular order.
+
+- There are images on wine pages now.
+- Spacing was tuned a lot to be consistent and pleasant for reading.
+- the color scheme was changed to match my custom theme for Emacs, which is called… barberry! Who would guess? On the other hand, this is plain text, so you are unlikely to notice it too much.
+
+And last, but probably the most important thing. The process of publication is more or less settled up. I know, it's invisible to readers, but this site is being built from a subset of private notes that I manage using [[https://github.com/d12frosted/vulpea][Vulpea]] and [[https://github.com/d12frosted/Vino][Vino]]. So I can keep my writing flow without changes, I just mark some notes as public and the build system picks them up. I will describe this flow in a separate post, potentially on [[https://d12frosted.io/][d12frosted.io]] (my technical blog). But just pause for a moment and think about all the tables with custom formatting, graphs, images, and private content (that has not leaked yet). My public notes are accessible both in Emacs and in a browser. This all makes me happy because I could combine three things I am passionate about - software engineering, wine and note-taking in Emacs.
+
+I hope you enjoy these little updates. Safe travels!
+
+[fn:1] This list grows not only because I am drinking more wine, but also because I have lots of unpublished notes. At this point of time, I've published around 10% of what I have in my private notes.

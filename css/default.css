@@ -321,6 +321,7 @@ article .img-float-left {
 
 @media (min-width: 800px) {
   article .img-float-left {
+    max-width: calc(50% - 1.2rem);
     float: left;
     padding-right: 1.2rem;
     padding-bottom: 1.2rem;
@@ -334,10 +335,15 @@ article .img-float-right {
 
 @media (min-width: 800px) {
   article .img-float-right {
+    max-width: calc(50% - 1.2rem);
     float: right;
     padding-left: 1.2rem;
     padding-bottom: 1.2rem;
   }
+}
+
+.clear-both {
+  clear: both;
 }
 
 article p {
