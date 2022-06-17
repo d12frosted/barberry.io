@@ -14,7 +14,7 @@ For this little event I've picked 6 wines - 1 sparkling, 2 whites and 3 reds. Th
 :ID:                     ca64a2d0-5864-40be-a35d-880dcb300a64
 :END:
 
-#+caption: Summary
+#+attr_html: :class tasting-scores
 #+results: summary
 |   |  amean |    rms |   sdev | favourite |  price |      QPR |
 |---+--------+--------+--------+-----------+--------+----------|

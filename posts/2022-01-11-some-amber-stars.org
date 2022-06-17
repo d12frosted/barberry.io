@@ -13,6 +13,7 @@ When life gives you a bottle of Gravner Ribolla Anfora 2004, and a bottle of Rad
 :ID:                     d21617da-60b2-4b3b-8d7e-6dc4f4b5f7ae
 :END:
 
+#+attr_html: :class tasting-scores
 #+results: summary
 |   |  amean |    rms |   sdev | favourite |   price |      QPR |
 |---+--------+--------+--------+-----------+---------+----------|
