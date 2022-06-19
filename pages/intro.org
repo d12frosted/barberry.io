@@ -3,12 +3,16 @@
 
 Welcome to *Barberry Garden*, a place where we drink wine and talk about wine.
 
-At the moment this site is under development, so most of the planned features are not available yet. But it already contains some information you might find interesting. For example, tasting reports and wine database with my ratings and tasting notes.
+Expect tasting reports from various events I attend or organise, wine-related articles and personal reviews (at this moment around 10% of notes are public). Most of the content is in English, but sometimes I write in Ukrainian. There are no plans to provide translations.
+
+Keep in mind that I am no sommelier and I am not affiliated with any wine importer or store. I am just a casual who loves to drink, to take notes and to tinker with Emacs.
+
+At the moment this site is under development, so most of the planned features are not available yet. Checkout the latest [[file:/posts/2022-06-16-site-updates.html][Site Updates]] article to learn about development process.
 
 ** Contact
 
 I love receiving mails. So if you wish to talk about wine or report something on this site, just send me an email to [[mailto:boris@barberry.io][boris@barberry.io]].
 
-Join [[https://t.me/barberrygarden][Telegram]] channel (UA) to get updates about upcoming tasting events I organise.
-
-And also follow me on [[https://www.vivino.com/users/boris.un][Vivino]].
+- Join [[https://t.me/barberrygarden][Telegram]] channel (UA) to get updates about upcoming tasting events I organise in Kyiv.
+- Subscribe (not implemented yet) to get a notification whenever new article is posted.
+- Follow me on [[https://www.vivino.com/users/boris.un][Vivino]].
