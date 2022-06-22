@@ -13,6 +13,10 @@ At the moment this site is under development, so most of the planned features ar
 
 I love receiving mails. So if you wish to talk about wine or report something on this site, just send me an email to [[mailto:boris@barberry.io][boris@barberry.io]].
 
-- Join [[https://t.me/barberrygarden][Telegram]] channel (UA) to get updates about upcoming tasting events I organise in Kyiv.
-- Subscribe (not implemented yet) to get a notification whenever new article is posted.
-- Follow me on [[https://www.vivino.com/users/boris.un][Vivino]].
+#+begin_export html
+<ul>
+<li>Join <a href="https://t.me/barberrygarden">Telegram</a> channel (UA) to get updates about upcoming tasting events I organise in Kyiv.</li>
+<li><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'NfhrlI', true)">Susbcribe</a> to get a notification whenever new article is posted.</li>
+<li>Follow me on <a href="https://www.vivino.com/users/boris.un">Vivino</a>.</li>
+</ul>
+#+end_export
