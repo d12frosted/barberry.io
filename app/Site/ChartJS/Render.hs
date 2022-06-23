@@ -23,7 +23,7 @@ import qualified Text.Julius as J
 importStatement :: (IsString a) => a
 importStatement = fromString . renderHtml $ importChartJS <> importPlugin
   where
-    importChartJS = H.script mempty ! A.src "/library/chart.js/dist/Chart.min.js"
+    importChartJS = H.script mempty ! A.src "/library/chart.js/dist/chart.min.js"
     importPlugin = H.script mempty ! A.src "/library/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js"
 
 --------------------------------------------------------------------------------
