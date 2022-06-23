@@ -47,8 +47,8 @@
  :input
  (lambda ()
    (--filter
-    (and (= 0 (vulpea-note-level it))
-         (null (vulpea-note-primary-title it)))
+    (and (null (vulpea-note-primary-title it))
+         (= 0 (vulpea-note-level it)))
     (vulpea-db-query-by-tags-every '("barberry/public"))))
  :describe
  (lambda (note)
