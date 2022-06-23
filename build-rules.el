@@ -70,10 +70,10 @@
   :name "wines"
   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
   :dependencies (lambda (note)
-                  ;; TODO: attachments as well
                   (-concat
                    (list (vulpea-note-meta-get note "producer" 'note))
-                   (vulpea-note-meta-get-list note "ratings" 'note)))
+                   (vulpea-note-meta-get-list note "ratings" 'note)
+                   (brb-attached-dependencies note)))
   :target (lambda (note)
             (expand-file-name
              (concat "wines/" (vulpea-note-id note) ".org")))
@@ -85,7 +85,7 @@
       (porg-copy-note note target :copy-fn #'brb-copy-wine)
 
       ;; 2. copy images
-      (brb-copy-images note target)
+      (brb-copy-images note target cache)
 
       ;; 3. remove private parts
       (porg-clean-noexport-headings target)
@@ -139,7 +139,8 @@
  (porg-rule
   :name "posts"
   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
-  :dependencies nil ;; 'links
+  :dependencies (lambda (note)
+                  (brb-attached-dependencies note))
   :target (lambda (note)
             (expand-file-name
              (concat
@@ -159,7 +160,7 @@
       (porg-copy-note note target :copy-fn #'brb-copy-post)
 
       ;; 2. copy images
-      (brb-copy-images note target)
+      (brb-copy-images note target cache)
 
       ;; 3. remove private parts
       (porg-clean-noexport-headings target)
@@ -438,9 +439,12 @@ be exceeded."
 
 
 
-(cl-defun brb-copy-images (note path)
-  "Copy images of a NOTE that is being built to PATH."
-  (let ((supported '("jpeg" "png" "jpg" "heic" "webp")))
+(cl-defun brb-copy-images (note path cache)
+  "Copy images of a NOTE that is being built to PATH.
+
+CACHE is used to avoid processing images that have not changed."
+  (let ((supported '("jpeg" "png" "jpg" "heic" "webp"))
+        (deps (porg-cache-get (vulpea-note-id note) :deps cache)))
     (porg-copy-attachments
      note
      :dest-fn
@@ -454,16 +458,21 @@ be exceeded."
      (lambda (file) (seq-contains-p supported (s-downcase (file-name-extension file))))
      :copy-fn
      (lambda (file newname &rest _)
-       (let* ((newname (file-name-fix-attachment newname))
+       (let* ((dep (-find
+                    (lambda (d)
+                      (string-equal (file-name-nondirectory file)
+                                    (plist-get d :id)))
+                    deps))
+              (newname (file-name-fix-attachment newname))
               (max-width 960)
               (width (string-to-number
                       (shell-command-to-string
                        (format "identify -format %%W '%s'" file))))
-              ;; TODO: actually compare hash of FILE and hash of the same FILE from the CACHE.
-              (hash-old (porg-sha1sum file))
-              (hash-new (when (file-exists-p newname)
-                          (porg-sha1sum newname))))
-         (unless (string-equal hash-old hash-new)
+              ;; if file exists and hash of the source is equal to the cached hash, then we have nothing to do
+              (hash-source (porg-sha1sum file))
+              (hash-cached (when (and (file-exists-p newname) dep)
+                             (plist-get dep :hash))))
+         (unless (string-equal hash-source hash-cached)
            (if (> width max-width)
                (shell-command-to-string
                 (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'" file max-width newname))
@@ -485,6 +494,15 @@ be exceeded."
     (org-ml-from-string
      'plain-text
      (concat (nth 2 link) (s-repeat (or (org-ml-get-property :post-blank link) 0) " ")))))
+
+(cl-defun brb-attached-dependencies (note)
+  "Get attached dependencies from NOTE."
+  (vulpea-utils-with-note note
+    (let ((root (org-attach-dir)))
+      (->> (org-element-map (org-element-parse-buffer) 'link #'identity)
+           (--filter
+            (string-equal "attachment" (or (org-ml-get-property :type it) "not-attachment")))
+           (--map (expand-file-name (org-ml-get-property :path it) root))))))
 
 
 
