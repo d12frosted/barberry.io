@@ -34,8 +34,9 @@
 (require 'dash)
 (require 'vulpea)
 
-(require 'lib-publicatorg)
 (require 'lib-string)
+(require 'lib-publicatorg)
+(require 'lib-fun)
 
 (org-link-set-parameters "barberry" :follow #'org-roam-link-follow-link)
 
@@ -346,7 +347,8 @@
       (goto-char it)
       (let ((org-confirm-babel-evaluate nil))
         (save-excursion
-          (org-babel-execute-src-block))))
+          (silenzio
+           (org-babel-execute-src-block)))))
     (save-buffer))
   (with-current-buffer (find-file-noselect path)
     (delete-region (point-min) (point-max))
