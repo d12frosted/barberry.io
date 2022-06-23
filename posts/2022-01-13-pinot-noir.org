@@ -1,0 +1,137 @@
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-23-49-2022-06-23 20.19.39.webp]]
+
+It's not a secret that Vasyl Kalinichenko loves Pinot Noir. So there is little wonder he organised a blind tasting event dedicated to this grape in [[https://www.instagram.com/garage.kyiv/][Garage]]. The choice of wine is intriguing. We start with non-mainstream Champagne and white Pinot Noir by Hungarian IT guy. Then we continue with red from Oregon, Germany and Switzerland. Most of us would expect at least one bottle of Burgundy, but no… Special events crave for special wines!
+
+1. [[barberry:/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7][Roses De Jeanne Presle Millesime BdN 2016]]
+2. [[barberry:/wines/a148cf28-b949-4fd1-80c2-98f03dde6191][Bencze Virgo 2019]]
+3. [[barberry:/wines/1588f9ec-1616-449b-aaac-9d7a0de06655][Kelley Fox Wines Mirabai Pinot Noir 2017]]
+4. [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Enderle&Moll Buntsandstein 2018]]
+5. [[barberry:/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0][Weinbau Markus Ruch Klettgau Pinot Noir 2018]]
+
+It always makes me happy when Champagne praised so highly. Especially when it's not something mainstream. On the other hand, I was amazed that in terms of favoritism, Pinot Noir from Oregon is sharing first place with Champagne. The white one was received not so well, but no wonder due to the crazy low intervention style.
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|        | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------+---------+---------+---------+---------+---------|
+| Julia  | *4.50*  |    4.10 | 3.80    |    3.80 |    3.50 |
+| Vlad   | *4.30*  |    3.50 | 4.00    |    3.80 |    3.40 |
+| Elvira | *4.20*  |    3.50 | 4.10    |    3.50 |    3.90 |
+| Sasha  | 3.50    |    3.30 | *3.80*  |    3.40 |    3.70 |
+| Boris  | 4.20    |    3.90 | *4.00*  |    3.80 |    4.00 |
+| Vasyl  | 4.00    |    3.50 | *4.40*  |    3.90 |    3.50 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |   total |  amean |   sdev | favourite |   price |      QPR |
+|---+---------+--------+--------+-----------+---------+----------|
+| 1 | *24.70* | *4.12* | 0.0981 |    *3.00* | 3300.00 |   0.8683 |
+| 2 |   21.80 |   3.63 | 0.0756 |      0.00 |  726.00 | *1.9323* |
+| 3 |   24.10 |   4.02 | 0.0414 |    *3.00* | 1500.00 |   1.6407 |
+| 4 |   22.20 |   3.70 | 0.0333 |      0.00 | 1186.00 |   1.3011 |
+| 5 |   22.00 |   3.67 | 0.0489 |      0.00 | 1002.00 |   1.4682 |
+
+How to read this table:
+
+- =total= is just sum of all scores.
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Roses De Jeanne Presle Millesime 2016
+:PROPERTIES:
+:ID:                     910aed4a-435d-45e2-8ec1-374ca21d075a
+:END:
+
+#+attr_latex: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-10-18-2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp]]
+
+
+- producer: Roses De Jeanne
+- name: Presle Millesime
+- vintage: 2016
+- grapes: Pinot Noir
+- degorgee: 2020
+- sur lie: 42 months
+- location: Champagne AOC, France
+- price: 3300 UAH
+
+Great and expressive BdN (100% Pinot Noir). Notes of oxidation, yellow apple, crème brûlée, brioche, cider, baked apple. Wonderful acidity, well balanced and quite delicate on the palate despite being almost full-bodied. Flavourful and long aftertaste with lots of cider in the taste. Opens up in the glass, good to drink in a small company (or alone haha) to enjoy its evolution.
+
+* Bencze Virgo 2019
+:PROPERTIES:
+:ID:                     15f6a340-a649-4c34-8f2a-f83bcd513020
+:END:
+
+#+attr_latex: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-11-07-2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp]]
+
+- producer: Bencze
+- name: Virgo
+- vintage: 2016
+- grapes: Pinot Noir
+- location: Balatonfelvidék OFJ, Hungary
+- price: 726 UAH
+
+I didn't guess. I literally had no ideas. It turned out to be **white** Pinot Noir. Crazy reductive bouquet with salty pickles, rotting mandarin and ginger. High tart acidity that beautifully evolves in the mouth. Interesting finish with notes of lemon, mandarin, pickles and wet sea rocks. Not my style, but somehow I enjoyed it. One of this wines that are complex in a bad way - hard to enjoy without putting too much effort into it. Score is mostly for interesting taste.
+
+* Kelley Fox Wines Mirabai Pinot Noir 2017
+:PROPERTIES:
+:ID:                     23eddaa1-4f35-4be4-bab5-51065b9140f3
+:END:
+
+#+attr_latex: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-12-04-2022-01-16-12-25-14-66975C43-3FDC-4319-891F-AEE7707C3315-1-105-c.webp]]
+
+- producer: Kelley Fox Wines
+- name: Mirabai Pinot Noir
+- vintage: 2017
+- grapes: Pinot Noir
+- location: Willamette Valley AVA, Oregon, USA
+- price: 1500 UAH
+
+This is where my luck returned to me. I guessed that it's from Oregon. Pale, restrained with pretty classic notes. Cherry, red flowers, pine nuts, and gouache. Crisp, medium-light body with round tannin, long oily aftertaste. Interesting Pinot Noir and my first one from Oregon.
+
+* Enderle&Moll Buntsandstein 2018
+:PROPERTIES:
+:ID:                     1e71a666-3c94-43f6-8b6d-d72018853d04
+:END:
+
+#+attr_latex: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-13-08-2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp]]
+
+- producer: Enderle&Moll
+- name: Buntsandstein
+- vintage: 2018
+- grapes: Pinot Noir
+- location: Landwein Oberrhein, Germany
+- price: 1186 UAH
+
+Again! Luck is on my side! I guessed producer. Since it is my first time tasting this particular wine, I didn't guess the name (at least guessed that it's not Liaison). Aromatic bouquet with typical low intervention style notes. Acetone, red flowers, salami, and truffles. While it has a beautiful and complex bouquet, it doesn't deliver in the taste. Lacks balance, the finish is too bitter, the tannin is too powerful, aftertaste is too short. Could be better with time though.
+
+* Weinbau Markus Ruch Klettgau Pinot Noir 2018
+:PROPERTIES:
+:ID:                     e319e715-2ee1-4e4b-81fc-50e64394161b
+:END:
+
+#+attr_latex: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2022-01-13-pinot-noir/2022-06-23-20-13-42-2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp]]
+
+- producer: Weinbau Markus Ruch
+- name: Klettgau Pinot Noir
+- vintage: 2018
+- grapes: Pinot Noir
+- location: Neunkirch, Switzerland
+- price: 1002 UAH
+
+And again, luck is on my side. I guessed country, but not producer. Clean, expressive Pinot Noir with interesting bouquet of raspberry, cherry, violets, earth, graphite and raw meat. Good acidity, medium-high dry tannin. Very young, has potential. Tasty.
+
