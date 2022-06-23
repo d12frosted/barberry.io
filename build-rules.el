@@ -72,8 +72,7 @@
   :dependencies (lambda (note)
                   (-concat
                    (list (vulpea-note-meta-get note "producer" 'note))
-                   (vulpea-note-meta-get-list note "ratings" 'note)
-                   (brb-attached-dependencies note)))
+                   (vulpea-note-meta-get-list note "ratings" 'note)))
   :target (lambda (note)
             (expand-file-name
              (concat "wines/" (vulpea-note-id note) ".org")))
@@ -135,8 +134,7 @@
  (porg-rule
   :name "posts"
   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
-  :dependencies (lambda (note)
-                  (brb-attached-dependencies note))
+  :dependencies nil
   :target (lambda (note)
             (expand-file-name
              (concat
