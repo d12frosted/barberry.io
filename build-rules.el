@@ -85,7 +85,7 @@
       (porg-copy-note note target :copy-fn #'brb-copy-wine)
 
       ;; 2. copy images
-      (brb-copy-images note target cache)
+      (brb-copy-images piece cache)
 
       ;; 3. remove private parts
       (porg-clean-noexport-headings target)
@@ -96,11 +96,6 @@
          :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
          :sanitize-attachment-fn
          (lambda (link)
-           ;; (org-ml-build-export-block
-           ;;  "html"
-           ;;  (format "<img src=\"/images/%s/%s\" />\n"
-           ;;          (plist-get data :name)
-           ;;          (org-ml-get-property :path link)))
            (let* ((path (org-ml-get-property :path link))
                   (path (file-name-fix-attachment path))
                   (dir (directory-from-uuid (file-name-base target))))
@@ -126,7 +121,8 @@
                            "country"
                            'note)
                 "grapes" (mapconcat #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
-          (when rating (list "rating" (format "%.2f" rating)))))))))
+          (when rating (list "rating" (format "%.2f" rating))))))))
+  :clean #'brb-delete)
 
  ;; producers are not being built directly for now, but they are included in cellar notes
  (porg-rule
@@ -160,7 +156,7 @@
       (porg-copy-note note target :copy-fn #'brb-copy-post)
 
       ;; 2. copy images
-      (brb-copy-images note target cache)
+      (brb-copy-images piece cache)
 
       ;; 3. remove private parts
       (porg-clean-noexport-headings target)
@@ -203,7 +199,8 @@
                       (concat "images/" (file-name-base target)))
                      (file-name-fix-attachment image))))
             (when description
-              (list "description" description)))))))))
+              (list "description" description))))))))
+  :clean #'brb-delete)
 
  (porg-batch-rule
   :name "reviews"
@@ -439,45 +436,50 @@ be exceeded."
 
 
 
-(cl-defun brb-copy-images (note path cache)
-  "Copy images of a NOTE that is being built to PATH.
+(cl-defun brb-copy-images (piece cache)
+  "Copy images of a PIECE that is being built to PATH.
 
 CACHE is used to avoid processing images that have not changed."
-  (let ((supported '("jpeg" "png" "jpg" "heic" "webp"))
-        (deps (porg-cache-get (vulpea-note-id note) :deps cache)))
-    (porg-copy-attachments
-     note
-     :dest-fn
-     (lambda (file)
-       (cond
-        ((seq-contains-p supported (s-downcase (file-name-extension file)))
-         (let ((name (directory-from-uuid (file-name-base path))))
-           (expand-file-name
-            (concat "images/" name))))))
-     :filter-fn
-     (lambda (file) (seq-contains-p supported (s-downcase (file-name-extension file))))
-     :copy-fn
-     (lambda (file newname &rest _)
-       (let* ((dep (-find
-                    (lambda (d)
-                      (string-equal (file-name-nondirectory file)
-                                    (plist-get d :id)))
-                    deps))
-              (newname (file-name-fix-attachment newname))
-              (max-width 960)
-              (width (string-to-number
-                      (shell-command-to-string
-                       (format "identify -format %%W '%s'" file))))
-              ;; if file exists and hash of the source is equal to the cached hash, then we have nothing to do
-              (hash-source (porg-sha1sum file))
-              (hash-cached (when (and (file-exists-p newname) dep)
-                             (plist-get dep :hash))))
-         (unless (string-equal hash-source hash-cached)
-           (if (> width max-width)
-               (shell-command-to-string
-                (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'" file max-width newname))
-             (shell-command-to-string
-              (format "convert '%s' -strip -auto-orient '%s'" file newname)))))))))
+  (let* ((supported '("jpeg" "png" "jpg" "heic" "webp"))
+         (note (plist-get piece :note))
+         (deps (porg-cache-get (vulpea-note-id note) :deps cache))
+         (path (plist-get piece :target))
+         (root (s-chop-suffix (plist-get piece :target-rel) path))
+         (dest (let ((name (directory-from-uuid (file-name-base path))))
+                 (expand-file-name (concat "images/" name) root)))
+         (copied
+          (porg-copy-attachments
+           note
+           :dest-fn dest
+           :filter-fn
+           (lambda (file) (seq-contains-p supported (s-downcase (file-name-extension file))))
+           :copy-fn
+           (lambda (file newname &rest _)
+             (let* ((dep (-find
+                          (lambda (d)
+                            (string-equal (file-name-nondirectory file)
+                                          (plist-get d :id)))
+                          deps))
+                    (newname (file-name-fix-attachment newname))
+                    (max-width 960)
+                    (width (string-to-number
+                            (shell-command-to-string
+                             (format "identify -format %%W '%s'" file))))
+                    ;; if file exists and hash of the source is equal to the cached hash, then we have nothing to do
+                    (hash-source (porg-sha1sum file))
+                    (hash-cached (when (and (file-exists-p newname) dep)
+                                   (plist-get dep :hash))))
+               (unless (string-equal hash-source hash-cached)
+                 (if (> width max-width)
+                     (shell-command-to-string
+                      (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'" file max-width newname))
+                   (shell-command-to-string
+                    (format "convert '%s' -strip -auto-orient '%s'" file newname))))
+               newname)))))
+    (when (file-exists-p dest)
+      (->> (directory-files dest 'full "[^.]")
+           (--remove (-contains-p copied it))
+           (--map (delete-file it 'trash))))))
 
 
 
@@ -503,6 +505,23 @@ CACHE is used to avoid processing images that have not changed."
            (--filter
             (string-equal "attachment" (or (org-ml-get-property :type it) "not-attachment")))
            (--map (expand-file-name (org-ml-get-property :path it) root))))))
+
+
+
+(cl-defun brb-delete (id cache root)
+  "Delete item with ID located somewhere in the ROOT.
+
+Hopefully CACHE is useful."
+  (let* ((data (gethash id cache))
+         (path (plist-get data :target-rel))
+         (file (expand-file-name path root))
+         (meta (expand-file-name (concat path ".metadata") root))
+         (imgs (expand-file-name
+                (concat "images/" (directory-from-uuid (file-name-base path)))
+                root)))
+    (delete-file file)
+    (delete-file meta)
+    (delete-directory imgs 'recursive)))
 
 
 
