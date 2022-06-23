@@ -1,5 +1,5 @@
 notes:
-	emacs --batch --load ${HOME}/.config/emacs/init.el --eval '(brb-publish "$(CURDIR)/")'
+	emacs --batch --load ${HOME}/.config/emacs/init.el --load build-rules.el --eval '(porg-run "barberry.io")'
 
 build:
 	yarn install
