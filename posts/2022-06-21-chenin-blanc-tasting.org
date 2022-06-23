@@ -31,14 +31,23 @@ And you know, our goal is modest. We are here to discover our own opinion by tas
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|   |  amean |   sdev | favourite | outcast |   price |      QPR |
-|---+--------+--------+-----------+---------+---------+----------|
-| 1 | *4.33* | 0.1911 |    *3.00* |    2.00 |  820.00 | *4.8938* |
-| 2 |   3.47 | 0.1111 |      1.00 |    0.00 |  730.00 |   1.5215 |
-| 3 |   3.98 | 0.1951 |    *3.00* |    1.00 | 1490.00 |   1.5578 |
-| 4 |   3.48 | 0.5395 |      2.00 |    0.00 | 1490.00 |   0.7570 |
-| 5 |   2.13 | 0.7156 |      0.00 |  +5.00+ |  745.00 |   0.3047 |
-| 6 |   3.63 | 0.2133 |      0.00 |    1.00 | 1150.00 |   1.2199 |
+|   |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
+|---+--------+--------+--------+-----------+---------+---------+----------|
+| 1 | *4.33* | *4.36* | 0.1911 |    *3.00* |    2.00 |  820.00 | *4.8938* |
+| 2 |   3.47 |   3.48 | 0.1111 |      1.00 |    0.00 |  730.00 |   1.5215 |
+| 3 |   3.98 |   4.00 | 0.1951 |    *3.00* |    1.00 | 1490.00 |   1.5578 |
+| 4 |   3.48 |   3.55 | 0.5395 |      2.00 |    0.00 | 1490.00 |   0.7570 |
+| 5 |   2.13 |   2.29 | 0.7156 |      0.00 |  +5.00+ |  745.00 |   0.3047 |
+| 6 |   3.63 |   3.66 | 0.2133 |      0.00 |    1.00 | 1150.00 |   1.2199 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =loved= is amount of people who marked this wine as favourite.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
 * Testalonga El Bandito I Wish I was a Ninja 2021
 :PROPERTIES:
