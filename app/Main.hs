@@ -228,12 +228,13 @@ standartizeStars = walk $ \case
 
 convertBarberryLinks :: Pandoc -> Compiler Pandoc
 convertBarberryLinks = walkM $ \case
-  link@(Link a is (url, title)) -> case T.stripPrefix "barberry:" url of
+  link@(Link a is (urlRaw, title)) -> case T.stripPrefix "barberry:" urlRaw of
     Nothing -> pure link
     Just url' -> do
-      let i = fromFilePath . T.unpack . (<> ".org") . fromMaybe url' . T.stripPrefix "/" $ url'
+      let url = fromMaybe url' $ T.stripSuffix ".html" url'
+      let i = fromFilePath . T.unpack . (<> ".org") . fromMaybe url . T.stripPrefix "/" $ url
       exists <- isJust <$> getRoute i
-      pure $ if exists then Link a is (url' <> ".html", title) else Str (stringify is)
+      pure $ if exists then Link a is (url <> ".html", title) else Str (stringify is)
   i -> pure i
 
 wrapTables :: Pandoc -> Pandoc

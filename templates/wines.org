@@ -3,5 +3,5 @@
 #+attr_html: :class wines-table
 | country | producer | name | vintage | grapes | rate   |
 |---------+----------+------+---------+--------+--------|
-$for(wines)$| $country$ | $producer$ | [[$url$][$name$]] | $vintage$ | $grapes$ | $if(rating)$$rating$$else$-$endif$ |
+$for(wines)$| $country$ | $producer$ | [[barberry:$url$][$name$]] | $vintage$ | $grapes$ | $if(rating)$$rating$$else$-$endif$ |
 $endfor$
