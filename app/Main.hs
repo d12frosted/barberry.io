@@ -90,18 +90,18 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
         >>= relativizeUrls
 
-  create ["wines.html"] $ do
-    route $ gsubRoute "pages/" (const "") <> setExtension "html"
+  create ["wines.org"] $ do
+    route $ setExtension "html"
     compile $ do
       wines <- titleOrdered =<< loadAll "wines/*.org"
-      let archiveCtx =
+      let ctx =
             listField "wines" wineCtx (return wines)
-              `mappend` constField "title" "Wines"
-              `mappend` defaultContext
-
+              <> constField "title" "Wines"
+              <> defaultContext
       makeItem ""
-        >>= loadAndApplyTemplate "templates/wines.html" archiveCtx
-        >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+        >>= loadAndApplyTemplate "templates/wines.org" ctx
+        >>= customRenderPandoc
+        >>= loadAndApplyTemplate "templates/default.html" ctx
         >>= relativizeUrls
 
   create ["reviews.html"] $ do
@@ -167,15 +167,25 @@ titleOrdered = sortByM $ getTitle . itemIdentifier
 
 --------------------------------------------------------------------------------
 
+pandoncTrasnformM :: Pandoc -> Compiler Pandoc
+pandoncTrasnformM =
+  convertBarberryLinks
+    <=< (pure . wrapTables . processTastingScores . WinesTable.convert)
+    <=< embedChartJS . standartizeStars
+
+customRenderPandoc :: Item String -> Compiler (Item String)
+customRenderPandoc = renderPandocWithTransformM readerOptions writerOptions transform
+  where
+    readerOptions = defaultHakyllReaderOptions
+    writerOptions = defaultHakyllWriterOptions
+    transform = pandoncTrasnformM
+
 customPandocCompiler :: Compiler (Item String)
 customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions transform
   where
     readerOptions = defaultHakyllReaderOptions
     writerOptions = defaultHakyllWriterOptions
-    transform =
-      convertBarberryLinks
-        <=< (pure . wrapTables . processTastingScores . WinesTable.convert)
-        <=< embedChartJS . standartizeStars
+    transform = pandoncTrasnformM
 
 embedChartJS :: Pandoc -> Compiler Pandoc
 embedChartJS pandoc = walkM embedChart . embedImport $ pandoc
