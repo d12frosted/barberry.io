@@ -413,6 +413,10 @@ table.tasting-scores td, th {
   padding: 0.6rem;
 }
 
+ul {
+  text-align: justify;
+}
+
 main dt {
   font-size: var(--h3-size);
   font-family: var(--header-font);
