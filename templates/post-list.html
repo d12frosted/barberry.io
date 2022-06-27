@@ -1,7 +1,10 @@
 <ul>
   $for(posts)$
     <li>
-      ($language$) <a href="$url$">$title$</a> - $date$
+      <span class="text-faded">($language$)</span>
+      <a href="$url$">$title$</a>
+      - $date$
+      $if(tags)$<span class="text-faded">#$tags$</span>$endif$
     </li>
   $endfor$
 </ul>

@@ -286,6 +286,14 @@ h3 span.material-symbols-outlined {
   font-size: var(--h3-size) !important;
 }
 
+.text-subtle {
+  color: var(--subtle);
+}
+
+.text-faded {
+  color: var(--faded);
+}
+
 article p {
   text-align: justify;
 }

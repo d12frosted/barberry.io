@@ -182,7 +182,8 @@
                (language (vulpea-buffer-prop-get "language"))
                (author (vulpea-buffer-prop-get "author"))
                (image (vulpea-buffer-prop-get "image"))
-               (description (vulpea-buffer-prop-get "description")))
+               (description (vulpea-buffer-prop-get "description"))
+               (tags (vulpea-buffer-prop-get-list "tags")))
            (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
            (unless language (user-error "Post '%s' is missing language" (vulpea-note-title note)))
            (unless author (user-error "Post '%s' is missing author" (vulpea-note-title note)))
@@ -197,7 +198,9 @@
                       (concat "images/" (file-name-base target)))
                      (file-name-fix-attachment image))))
             (when description
-              (list "description" description))))))))
+              (list "description" description))
+            (when tags
+              (list "tags" (string-join tags ", ")))))))))
   :clean #'brb-delete)
 
  (porg-batch-rule
