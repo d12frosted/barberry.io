@@ -31,5 +31,10 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Argentino - 2017</section>
+  </a>
+
 </div>
 #+end_export
