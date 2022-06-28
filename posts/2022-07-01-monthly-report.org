@@ -1,9 +1,12 @@
-#+attr_html: :class img-half
-[[file:/images/2022-07-01-monthly-report/2022-06-12-12-03-41-EA0269C5-7469-4D06-8C6F-B6C35742FAFE-1-105-c.webp]]
+Every rain is praised as a divine gift during these hot days in Kyiv. But as human beings we crave for solution we can predict and replicate on a whim. Luckily, we have wine and a technology to chill it. With this melting weather there is little wonder that 75% of wines I consumed this month are white!
 
-Every rain is praised as a divine gift during these hot days in Kyiv. Luckily, we have another divine gift - chilled white wines. Some of them fill glasses with acacia blossoms that already faded on our streets. And even though strawberries that I planted are only sprouting, this month was fruitful in terms of wines tasted and this site construction. The latter is slightly described in a [[barberry:/posts/2022-06-16-site-updates][Site Updates]].
+#+begin_quote
+Wait, what? Do you count wines you drink?
+#+end_quote
 
-This month has started with a beautiful [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]], which I haven't tasted for almost a year. At this point of time I consider it one of my favourite light rosé wines despite confusingly mediocre impression when I tasted it for the first time - ☆ 7.25 vs ☆ 8.5!
+Haha, of course I don't. But I do track every consumed wine in [[https://github.com/d12frosted/vino][a program]] that I've created for this purpose. And now that I have data and Application Programming Interface (API) provided by Vino, I can easily [[https://github.com/d12frosted/environment/tree/master/emacs#vino-stats][calculate various statistics]] related to my wine consumption. I plan to share these kind of reports on a monthly and yearly basis. Expect boring stats like amount of rated wines per country, grape, vintage, etc. But also expect full table of tasted wines along with the list of my favourites and outcasts of the month. Hope you find something interesting here. If you have something you would love to see here, just mail me.
+
+So this month has started with a beautiful [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]], which I haven't tasted for almost a year. At this point of time I consider it one of my favourite light rosé wines despite confusingly mediocre impression when I tasted it for the first time - ☆ 7.25 vs ☆ 8.5!
 
 The world of wine is big, and there is always something new to explore. So this month I have several personal novelties.
 
@@ -13,9 +16,9 @@ The world of wine is big, and there is always something new to explore. So this 
 4. I tasted Auxerrois blanc for the first time in my life - [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]].
 5. [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Lucy Margaux Le Sauvignon Sensuel 2020]] is my first Sauvignon Blanc from Australia.
 
-For the first half of the month, I rated every wine consumed, meaning that I didn't taste any wine more than once during this period. But then I picked a few favourites for this month's table, and the ratio of rated to consumed became more normal - 71%. So, according to my notes, I consumed 71 bottles and rated 51 of them. Only one of the wines was rated twice - [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]], I just had too many bottles of this wine and wanted to share confirmation that it worth it.
+For the first half of the month, I rated every wine consumed, and I didn't taste any wine more than once during this period. But then I picked a few favourites for this month's table, and the ratio of rated to consumed normalised - 71%. So, according to my notes, I consumed *71* bottles and rated *51* of them. Only one of the wines was rated twice - [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]], I just had too many bottles of this wine and wanted to share confirmation that it worth it.
 
-Compared to previous month, it's a 75% of growth in terms of wines rated. Someone would think that it was a tough month for me, but I'd argue that I am just getting back to my normal numbers. Besides, this month I participated in a [[barberry:/posts/2022-06-07-blind-tasting][blind tasting event]] and [[barberry:/posts/2022-06-21-chenin-blanc-tasting][organised one myself]]. So this kind of explains the growth.
+Compared to previous month, it's a 75% of growth in terms of wines rated. Someone would think that it was a tough month for me, but I'd argue that I am just getting back to my normal numbers. Just take a look at the graph (first months of the war are excluded). Besides, this month I participated in a [[barberry:/posts/2022-06-07-blind-tasting][blind tasting event]] and [[barberry:/posts/2022-06-21-chenin-blanc-tasting][organised one myself]]. So this kind of explains the growth.
 
 #+attr_html: :id monthly-ratings :width 400 :height 80
 #+attr_html: :data monthly-ratings-data
@@ -156,7 +159,7 @@ In total, I rated wines made of 37 distinct grapes. I am happy that this list in
     :columns '("grape" "count" "p avg" "r rms" "qpr"))
 #+end_src
 
-And now to the most fascinating part - the favourites and outcasts of the month. Usually, this list matches the list of the best-rated/worst-rated wines, but sometimes I want to emphasise on a label or two. So my favourites are:
+And now the most fascinating part - the favourites and outcasts of the month. Usually, this list matches the list of the best-rated/worst-rated wines, but sometimes I want to emphasise on a label or two. In June my favourites are:
 
 - ★ 9.0 [[barberry:/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e][Francoise Bedel L'Âme de la Terre Millésime 2006]] - truly amazing Champagne that displays effects of the long ageing on lees. The best sparkling wine of the month. Francoise Bedel is definitely one of my favourite producers, even her basic wines are delicious and worth buying.
 - ★ 8.5 [[barberry:/wines/42dc355d-a934-4cb0-9592-cf1d474bec57][Sadie Family Pofadder 2020]] - the best red wine of the month, delicate, juicy and sophisticated. If only the price was lower!
@@ -166,7 +169,7 @@ And now to the most fascinating part - the favourites and outcasts of the month.
 - ★ 8.5 [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Sadie Family Skurfberg 2020]] - approachable and friendly yet complex and multilayered Chenin Blanc by skillful winemaker.
 - ★ 7.5 [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]] - my favourite table wine of the month. The price tag is not ideal, but the real value of UAH is yet to be discovered.
 
-The outcasts of this month are those that disappointed me.
+The outcasts of this month are those that disappointed me. I mean, there are wines that I rated lower, but that was totally fine and expected. But these labels...
 
 - ★ 6.5 [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Costador Metamorphika Chenin Blanc 2017]] - might be a faulty bottle or serving issue, but still I have not expected it to has so many issues. I tried this wine on the second day, experience was slightly better, but still disappointing.
 - ★ 7.0 [[barberry:/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d][Chandon Argentina Brut NV]] - despite being my first traditional sparkling from Argentina, experience was not fascinating. Mediocre crowd pleaser with high price tag. Not for me, not for you, believe me.
@@ -240,3 +243,5 @@ And by the way, this month was not that bad if we consider the fact that the low
    :range '("2022-06-01" "2022-07-01")
    :columns '("date" "country" "producer" "name" "vintage" "rate" "QPR"))
 #+end_src
+
+Thanks for reading!
