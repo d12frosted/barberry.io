@@ -77,6 +77,9 @@ There are basically 3 ranges of wines made by Radikon:
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                 name | vintage |         grapes |             region | rating |
-|------------------------------------------------------+---------+----------------+--------------------+--------|
-| [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Ribolla]] |    2007 | Ribolla Gialla | IGP Venezia Giulia |   9.00 |
+|                                                 name | vintage |                     grapes |             region | rating |
+|------------------------------------------------------+---------+----------------------------+--------------------+--------|
+| [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Ribolla]] |    2007 |             Ribolla Gialla | IGP Venezia Giulia |   9.00 |
+|   [[barberry:/wines/bb8ae1e3-0415-4012-ab06-55937df3cc10][Jakot]] |    2013 |             Tocai Friulano | IGP Venezia Giulia |   8.50 |
+| [[barberry:/wines/e5c2e4c9-4027-410f-8a20-e14079d83416][Slatnik]] |    2017 |                 Chardonnay | IGP Venezia Giulia |   8.00 |
+| [[barberry:/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e][Slatnik]] |    2018 | Chardonnay, Tocai Friulano | IGP Venezia Giulia |   8.00 |
