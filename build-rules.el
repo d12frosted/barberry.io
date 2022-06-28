@@ -70,10 +70,11 @@
   :name "wines"
   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
   :dependencies (lambda (note)
-                  (-concat
-                   (list (vulpea-note-meta-get note "producer" 'note))
-                   (vulpea-note-meta-get-list note "ratings" 'note)
-                   (vulpea-db-query-by-ids (brb-related-wines note))))
+                  (list (vulpea-note-meta-get note "producer" 'note)))
+  :soft-dependencies (lambda (note)
+                       (-concat
+                        (vulpea-note-meta-get-list note "ratings" 'note)
+                        (brb-related-wines note)))
   :target (lambda (note)
             (expand-file-name
              (concat "wines/" (vulpea-note-id note) ".org")))
@@ -128,14 +129,44 @@
  (porg-rule
   :name "producers"
   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
-  :dependencies nil
-  :target nil
-  :publish nil)
+  :soft-dependencies (lambda (note) (brb-wines-by-producer note))
+  :target (lambda (note)
+            (expand-file-name
+             (concat "producers/" (vulpea-note-id note) ".org")))
+  :publish
+  (lambda (piece input cache)
+    (let ((note (plist-get piece :note))
+          (target (plist-get piece :target)))
+      ;; 1. copy file
+      (porg-copy-note note target :copy-fn (-partial #'brb-copy-producer input))
+
+      ;; 2. copy images
+      (brb-copy-images piece cache)
+
+      ;; 3. remove private parts
+      (porg-clean-noexport-headings target)
+
+      ;; 4. cleanup and transform links
+      (with-current-buffer (find-file-noselect target)
+        (porg-clean-links-in-buffer
+         :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
+         :sanitize-attachment-fn
+         (lambda (link)
+           (let* ((path (org-ml-get-property :path link))
+                  (path (file-name-fix-attachment path))
+                  (dir (directory-from-uuid (file-name-base target))))
+             (->> link
+                  (org-ml-set-property :path (format "/images/%s/%s" dir path))
+                  (org-ml-set-property :type "file")
+                  (org-ml-set-children nil)))))
+        (save-buffer))
+
+      ;; 5. generate metadata
+      (brb-make-meta-file piece target cache nil))))
 
  (porg-rule
   :name "posts"
   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
-  :dependencies nil
   :target (lambda (note)
             (expand-file-name
              (concat
@@ -238,7 +269,7 @@ Access to full INPUT for related wines."
            (prices (vulpea-note-meta-get-list note "price"))
            (available (vulpea-note-meta-get note "available" 'number))
            (ratings (vulpea-note-meta-get-list note "ratings" 'note))
-           (related (brb-related-wines-from note input))
+           (related (brb-public-notes (brb-related-wines note) input))
            (images (vulpea-note-meta-get-list note "images")))
       (insert
        (if images
@@ -255,7 +286,7 @@ Access to full INPUT for related wines."
        (s-capitalize (s-replace "-" " " sweetness))
        "\n"
 
-       "- Producer :: " (vulpea-note-title producer) "\n"
+       "- Producer :: " (vulpea-utils-link-make-string producer) "\n"
        "- Vintage :: " vintage "\n"
 
        "- Location :: "
@@ -288,25 +319,37 @@ Access to full INPUT for related wines."
             (point-max))))
        "\n")
 
-      (when (seq-contains-p (vulpea-note-tags producer) "barberry/public")
-        (insert "* Producer\n\n"
-                (vulpea-utils-with-note producer
-                  (let* ((meta (vulpea-buffer-meta))
-                         (pl (plist-get meta :pl)))
-                    (buffer-substring-no-properties
-                     (if pl
-                         (org-element-property :end pl)
-                       (save-excursion
-                         (goto-char (point-min))
-                         (while (looking-at org-property-re)
-                           (forward-line 1))
-                         (while (looking-at "^#\\+.+$")
-                           (forward-line 1))
-                         (while (looking-at "^ *$")
-                           (forward-line 1))
-                         (point)))
-                     (point-max))))
-                "\n"))
+      (let* ((full)
+             (content
+              (vulpea-utils-with-note producer
+                (let* ((meta (vulpea-buffer-meta))
+                       (pl (plist-get meta :pl))
+                       (p0 (if pl
+                               (org-element-property :end pl)
+                             (save-excursion
+                               (goto-char (point-min))
+                               (while (looking-at org-property-re)
+                                 (forward-line 1))
+                               (while (looking-at "^#\\+.+$")
+                                 (forward-line 1))
+                               (while (and (not (eobp)) (looking-at "^ *$"))
+                                 (forward-line 1))
+                               (point))))
+                       (p1 (or
+                            (org-element-map (org-element-parse-buffer 'headline)
+                                'headline
+                              (lambda (hl)
+                                (org-element-property :begin hl))
+                              nil 'first-match)
+                            (point-max))))
+                  (setq full (= p1 (point-max)))
+                  (buffer-substring-no-properties p0 p1)))))
+        (unless (string-empty-p (s-trim content))
+          (insert "* Producer\n\n"  content "\n")
+          (unless full
+            (insert (org-link-make-string (concat "id:" (vulpea-note-id producer))
+                                          "Read more...")
+                    "\n\n"))))
 
       (insert "* Ratings\n\n")
       (if ratings
@@ -326,8 +369,6 @@ Access to full INPUT for related wines."
            ratings)
         (insert "There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!\n\n"))
 
-      (message "found %s related wines" (seq-length related))
-      (message "%s" (car related))
       (when related
         (insert "* Related\n\n")
         (insert
@@ -362,6 +403,77 @@ Access to full INPUT for related wines."
       (while (re-search-forward "\n\\{3,\\}" nil 'noerror)
         (replace-match "\n\n")))
     (save-buffer)))
+
+
+
+(cl-defun brb-copy-producer (input note path)
+  "Copy producer NOTE to PATH.
+
+Access to full INPUT for related wines."
+  (let ((wines (brb-public-notes (brb-wines-by-producer note) input)))
+    (with-current-buffer (find-file-noselect path)
+      (delete-region (point-min) (point-max))
+      (insert
+       (vulpea-utils-with-note note
+         (let* ((meta (vulpea-buffer-meta))
+                (pl (plist-get meta :pl)))
+           (buffer-substring-no-properties
+            (if pl
+                (org-element-property :end pl)
+              (save-excursion
+                (goto-char (point-min))
+                (while (looking-at org-property-re)
+                  (forward-line 1))
+                (while (looking-at "^#\\+.+$")
+                  (forward-line 1))
+                (while (and (not (eobp)) (looking-at "^ *$"))
+                  (forward-line 1))
+                (point)))
+            (point-max))))
+       "\n"
+       "* Wines\n\n")
+      (if wines
+          (insert
+           "#+attr_html: :class wines-table\n"
+           (string-table
+            :header '("name" "vintage" "grapes" "region" "rating")
+            :header-sep "-"
+            :header-sep-start "|-"
+            :header-sep-conj "-+-"
+            :header-sep-end "-|"
+            :row-start "| "
+            :row-end " |"
+            :sep " | "
+            :data
+            (--map
+             (let* ((note (plist-get it :note))
+                    (roa (or (vulpea-note-meta-get note "region" 'note)
+                             (vulpea-note-meta-get note "appellation" 'note))))
+               (list (org-link-make-string
+                      (concat "id:" (vulpea-note-id note))
+                      (vulpea-note-meta-get note "name"))
+                     (or (vulpea-note-meta-get note "vintage") "NV")
+                     (mapconcat #'vulpea-note-title
+                                (vulpea-note-meta-get-list note "grapes" 'note)
+                                ", ")
+                     (vulpea-note-title roa)
+                     (if (vulpea-note-meta-get note "ratings")
+                         (format "%.2f" (vulpea-note-meta-get note "rating" 'number))
+                       "-")))
+             wines))
+           "\n")
+        (insert "No wines of this producer are present on this site. How did you find this page?"))
+
+      (goto-char (point-min))
+      (while (re-search-forward "\\(\\*\\{1,\\}\\)" nil 'noerror)
+        (replace-match "*\\1"))
+      (goto-char (point-max))
+
+      (goto-char (point-min))
+      (while (re-search-forward "\n\\{3,\\}" nil 'noerror)
+        (replace-match "\n\n"))
+
+      (save-buffer))))
 
 
 
@@ -572,12 +684,13 @@ Hopefully CACHE is useful."
 
 
 
-(defun brb-related-wines (note)
-  "List wines related to wine NOTE.
+(defun brb-wines-by-producer (producer)
+  "List wines by PRODUCER.
 
-Return list of ids."
-  (--> note
-       (vulpea-note-meta-get it "producer" 'note)
+PRODUCER is a `vulpea-note'.
+
+Returns list of notes."
+  (--> producer
        (vulpea-note-id it)
        (vino-db-query
         [:select [id]
@@ -585,14 +698,23 @@ Return list of ids."
          :where (= producer $s1)]
         it)
        (-map #'car it)
-       (--remove (string-equal it (vulpea-note-id note)) it)))
+       (vulpea-db-query-by-ids it)))
 
-(defun brb-related-wines-from (note input)
-  "List wines related to wine NOTE that are part of INPUT.
+(defun brb-related-wines (note)
+  "List wines related to wine NOTE.
 
-Return pieces of input as a list."
-  (->> (brb-related-wines note)
-       (--map (gethash it input))
+Return list of notes."
+  (--> note
+       (vulpea-note-meta-get it "producer" 'note)
+       (brb-wines-by-producer it)
+       (--remove (string-equal (vulpea-note-id it) (vulpea-note-id note)) it)))
+
+(defun brb-public-notes (notes input)
+  "Exchange list of NOTES to list of pieces based on INPUT.
+
+Basically, keep only public notes."
+  (->> notes
+       (--map (gethash (vulpea-note-id it) input))
        (-filter #'identity)))
 
 

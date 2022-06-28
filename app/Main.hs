@@ -82,6 +82,14 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" archiveCtx
         >>= relativizeUrls
 
+  match "producers/*.org" $ do
+    route $ setExtension "html"
+    compile $
+      customPandocCompiler
+        >>= loadAndApplyTemplate "templates/producer.html" wineCtx
+        >>= loadAndApplyTemplate "templates/default.html" wineCtx
+        >>= relativizeUrls
+
   match "wines/*.org" $ do
     route $ setExtension "html"
     compile $
