@@ -16,3 +16,20 @@ This Chardonnay spent 9 months in oak barrels.
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Catena Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

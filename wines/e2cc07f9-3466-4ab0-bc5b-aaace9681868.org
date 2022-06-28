@@ -17,3 +17,19 @@
 
 Up to expectations, easy going and friendly Chardonnay that is approachable yet has something interesting to offer. Lots of butter with dry caramel, white stone fruits, overripe lemon, pineapple, vanilla, green apricot and flowers. It sounds more complicated than reality. It is well balanced, and it feels more interesting thanks to good acidity. Nice.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/25222939-23da-4fee-99de-28482c8f24e6.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation Tupungato Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

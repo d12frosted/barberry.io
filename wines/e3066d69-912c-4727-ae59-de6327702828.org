@@ -17,3 +17,19 @@
 
 More simple and friendly than Bullswamp, but still very attractive. Bouquet full of yellow stone fruits, yellow apple, melon, apple flowers and hints of nuts. Fresh and evolving palate that starts with apple hints and transforms into bakery and nuts. The taste is more interesting than aroma with long and pleasant aftertaste. Neat.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Rain Field Blend - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Bullswamp - 2019</section>
+  </a>
+
+</div>
+#+end_export

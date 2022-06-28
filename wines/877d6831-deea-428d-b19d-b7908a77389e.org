@@ -11,3 +11,25 @@
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Mount Hermon White - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -17,3 +17,19 @@
 
 Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy and easy going thanks to 12.5 abv.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

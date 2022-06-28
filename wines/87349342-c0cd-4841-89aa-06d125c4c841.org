@@ -21,3 +21,24 @@ Alright, take some cactus, wrap it with pear candy, smear with honey and sprinkl
 
 Tasting again in two months and it makes a difference. Yellow fruits and bread, yeast and nuts, hints of cactus soaked in acacia honey. You bet, it is aromatic! Acidity is aggressive, but very short. A little bit fizzy at first. Flavours of almonds and peach.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Vin Blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">La Petit Buisson - 2020</section>
+  </a>
+
+</div>
+#+end_export

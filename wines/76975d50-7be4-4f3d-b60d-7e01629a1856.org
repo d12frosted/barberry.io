@@ -21,3 +21,54 @@ They say Marco de Bartoli has moved the reputation of Marsala. I am not the pers
 
 Marco de Bartoli has conquered my hearth with his dry whites. Now little by little I surrender to his Marsala. I guess the next step would be something from Pantelleria (love this place thanks to Ben Rye). But right now I have pretty young and simple Marsala. But don't be fooled, it's delicious. It is not as deep as I would love it to be, but expect lemon curd, nuts, dried date fruit. Refreshing and tasty. Definitely want to explore more.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Grillo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Lucido - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Zibibbo - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Rosso di Marco - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Zibibbo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2019</section>
+  </a>
+
+</div>
+#+end_export

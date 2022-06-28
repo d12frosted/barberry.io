@@ -38,3 +38,14 @@ traditional brut for the right price.
 
 Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price. Little by little finishing those cases of this wine I bought before the war. Red berries, peaches and red apples. Lacks delicacy, but there is something good in this energetic and rough profile with long aftertaste.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+    <section class="h text-small text-lighter">Francois Montand</section>
+    <section class="h text-bolder">Brut Blanc de Blancs - NV</section>
+  </a>
+
+</div>
+#+end_export

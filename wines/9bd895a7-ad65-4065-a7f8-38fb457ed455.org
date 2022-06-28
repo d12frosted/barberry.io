@@ -28,3 +28,14 @@ bit Bandita!
 notes, humidor. It has small reductive hint, but it does not ruin experience. Good balance, jammy,
 you can almost chew it. It's really tasty.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">
+    <section class="h text-small text-lighter">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -17,3 +17,24 @@
 
 The Soul of the Earth. 16 years old cuvée that spent 13 years on lees. Result? Amazing! Expressive oxidative bouquet full of baked apples, bruised apples, honey, nuts and Jerez. Soft, almost perfectly balanced, multilayered with good volume and long evolving aftertaste. Delicious.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+</div>
+#+end_export

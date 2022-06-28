@@ -67,3 +67,19 @@ currant flavours.
 
 Constantly delivers. One of my favourite rosé sparkling wines. Nice combination of red berries like red currant and toasty notes. Sharp, refreshing, well balanced with long aftertaste.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Hauswein Grüner Veltliner - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -19,3 +19,29 @@ Wonderful as always. Sophisticated and expressive bouquet: citrus,
 black currant leaves, pepper, cheese, green grass and flint. Fresh,
 crisp and delicious Sauvignon Blanc with long and flavourful finish.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Temento Green - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Blanc - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Temento Green - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Blanc Reserve - 2017</section>
+  </a>
+
+</div>
+#+end_export

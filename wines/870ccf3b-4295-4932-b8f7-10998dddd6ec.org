@@ -25,3 +25,29 @@ apple seeds, honey, ripe red apple with Jerez notes. Well balanced and
 delicious. It is young and for sure has potential. Unfortunately,
 fades away over the evening and leaves little traces of its beauty.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/50353325-007d-429d-b70b-f9d40206fe8d.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Roises Blanc de Blancs Extra Brut (2015) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Enfers Blanc des Blancs Extra Brut (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
+  </a>
+
+</div>
+#+end_export

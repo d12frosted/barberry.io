@@ -23,3 +23,24 @@ Lovely expressive and oxidative Bedel-style. Baked apples with honey, toast, pea
 
 Tasted as part of Divych Vechir event.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+</div>
+#+end_export

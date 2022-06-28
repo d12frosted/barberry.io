@@ -14,3 +14,20 @@
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Rosso di Montalcino - 2014</section>
+  </a>
+
+</div>
+#+end_export

@@ -18,3 +18,15 @@ Descendant of wine makers, Francois Montand was raised in Champagne. But during 
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <section class="h text-small text-lighter">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
+  </a>
+
+</div>
+#+end_export

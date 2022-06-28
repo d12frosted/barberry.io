@@ -17,3 +17,19 @@
 
 Good Merlot-based field blend. Nose full of overripe even slightly rotten cherry, anchovies and raw dough. Not complex, funny and fruity. Dizzy, but nobody's perfect. Flavours of cherry. Dark chocolate and soy sauce.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vin de Soif - 2020</section>
+  </a>
+
+</div>
+#+end_export

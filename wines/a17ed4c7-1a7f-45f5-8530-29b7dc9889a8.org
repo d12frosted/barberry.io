@@ -14,3 +14,14 @@
 
 Unexpected beauty. Fresh, quaffable and delicate. White fruits, mandarins and white flowers. Well balanced, juicy with citrus finish. Simple and well made, perfect to chill.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">
+    <section class="h text-small text-lighter">Ktima Papaioannou</section>
+    <section class="h text-bolder">Malagouzia - 2020</section>
+  </a>
+
+</div>
+#+end_export

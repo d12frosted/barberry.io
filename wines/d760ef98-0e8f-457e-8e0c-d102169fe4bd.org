@@ -44,3 +44,19 @@ herbs, apricot jam, bergamot and orange peel. Sophisticated, powerful
 and delicious wine. It still has potential to become more deep and
 interesting, so going to taste it again in the future.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+</div>
+#+end_export

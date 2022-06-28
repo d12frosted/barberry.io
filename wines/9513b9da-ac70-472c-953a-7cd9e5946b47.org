@@ -31,3 +31,19 @@ Incredible multilayered Chenin Blanc that despite its complexity stays friendly 
 
 Wine #4 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin Blanc]] event.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2018</section>
+  </a>
+
+</div>
+#+end_export

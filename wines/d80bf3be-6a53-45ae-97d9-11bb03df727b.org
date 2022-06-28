@@ -21,3 +21,24 @@ Tasting multiple whites from R. Lopez de Heredia reminds me that I haven't teste
 
 P. S. It's funny that I have a photo of this wine from my last tasting, but no tasting notes. And I have these tasting notes, but forgot to make a photo of this bottle that spent several months in my 'cellar'.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+</div>
+#+end_export

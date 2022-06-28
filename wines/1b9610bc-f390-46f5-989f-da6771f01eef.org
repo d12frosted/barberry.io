@@ -17,3 +17,14 @@
 
 Simple and somehow tired bouquet. Or was it me who was tired? Yellow apples, stone fruits, vanilla and melon. Slightly oily structure, medium acidity, long finish. Nice 5 years old table wine.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">
+    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
+  </a>
+
+</div>
+#+end_export

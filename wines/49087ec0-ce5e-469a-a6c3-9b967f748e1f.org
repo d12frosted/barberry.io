@@ -17,3 +17,14 @@
 
 More than a year ago on a blind tasting party I've tried Chablis by Raoul Clerget. And based on impression from [[barberry:/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4][Raoul Clerget Chablis 2018]], my expectation were not big. Crowd-pleasing Crémant, easy going and tasty. It's full of dark bread croutons, cream and stone fruits. Well balanced, though sweetness is too high for me. On the other hand, I like croutons made of dark bread.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
+    <section class="h text-small text-lighter">Raoul Clerget</section>
+    <section class="h text-bolder">Chablis - 2018</section>
+  </a>
+
+</div>
+#+end_export

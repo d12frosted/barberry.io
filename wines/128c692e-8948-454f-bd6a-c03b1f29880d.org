@@ -14,3 +14,20 @@
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+</div>
+#+end_export

@@ -20,3 +20,19 @@ mulberry jam, flowers, cured meat and nut husk. Well balanced,
 friendly and easy going. Long evolving fruit-forward aftertaste with
 fig and musk finish.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1409c807-4b30-47c0-b0c3-8562d97ba541.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Bourgougne Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Bourgougne Pinot Noir - 2016</section>
+  </a>
+
+</div>
+#+end_export

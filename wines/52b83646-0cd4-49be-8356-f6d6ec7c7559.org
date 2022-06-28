@@ -17,3 +17,19 @@
 
 Elegant and sophisticated wine. Yellow fruits, nuts, quince jam, benzene notes and tilia with some bakery hints. High electric acidity, well balanced, has lots of power and potential. It's almost ready to kick me in the face. Long aftertaste with flavours of tilia honey and green apricot. Young yet delicious!
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+    <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+    <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
+  </a>
+
+</div>
+#+end_export

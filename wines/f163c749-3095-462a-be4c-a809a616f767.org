@@ -20,3 +20,19 @@ cats pee and gooseberry aromas. Tropical fruits, pineapple, lychee,
 green apple, lime, cats pee, gooseberry. Medium-high acidity, fresh
 and tasty. Liked for balanced and acidity.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Letter Series T Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

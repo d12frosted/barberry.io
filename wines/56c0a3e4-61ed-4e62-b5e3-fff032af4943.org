@@ -14,3 +14,14 @@
 
 Simple wine with pleasant white floral notes, acacia and pear.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b.html">
+    <section class="h text-small text-lighter">Zeni</section>
+    <section class="h text-bolder">Garganega Veronesse Vigne Alte - 2020</section>
+  </a>
+
+</div>
+#+end_export

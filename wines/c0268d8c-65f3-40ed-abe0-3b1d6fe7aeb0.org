@@ -32,3 +32,19 @@ strawberry, truffles and nut husk. Perfectly balanced and silky. Good
 volume and persistent aftertaste. Turns out only around 300 bottles of
 this wine is produced every 3 years.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Rosso di Montalcino - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Rosso di Montalcino - 2016</section>
+  </a>
+
+</div>
+#+end_export

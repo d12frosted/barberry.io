@@ -50,3 +50,19 @@ thing you notice when you taste it. Apricot jam in a liquid state. But then a
 powerful wave of rough tannins washes away sweetness, leaving you on a
 flavourful dry land. Nice, relatively young, easy to drink.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+</div>
+#+end_export

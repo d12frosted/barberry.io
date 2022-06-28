@@ -25,3 +25,19 @@ Tasted in Carpathian Mountains from basic Spigelau glassware.
 
 Even after 8 months since my last tasting, Cuvée 744 still seem too young. All those beautiful notes of citrus, white flowers, chalk, apple seeds and crème brûlée, but it lacks in the volume and persistence. So let's wait and see how it evolves.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
+  </a>
+
+</div>
+#+end_export

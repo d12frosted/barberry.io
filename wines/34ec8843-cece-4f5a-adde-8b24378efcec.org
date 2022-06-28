@@ -17,3 +17,24 @@
 
 This is the third vintage that I taste and I consistently enjoy this wine. It changes every year, which is expected with low intervention style that Puzelat brothers use. Approachable bouquet with notes of citrus, pickles, kombucha, stone fruits and honey. Lifted acidity, long aftertaste that evolves from spicy ginger to lime and honey flavours. Not an easy wine, but worth sharing with people around.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Vin Blanc - 2019</section>
+  </a>
+
+</div>
+#+end_export

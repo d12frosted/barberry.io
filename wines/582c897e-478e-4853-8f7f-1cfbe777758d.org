@@ -17,3 +17,24 @@
 
 Skin Party #4. Typical crazy natural wine. Iced bergamot tea with peach, citrus, pickled lilac, cider, kvass and juniper. Volatile, unfocused and lacks balance.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Cremant d'Alsace - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+</div>
+#+end_export

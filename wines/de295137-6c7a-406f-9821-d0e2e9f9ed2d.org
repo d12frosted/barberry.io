@@ -21,3 +21,19 @@ fruit-forward. And overall I think this wine should be consumed young,
 it already feels like it's falling apart. But still enjoyable.
 Medium-light body, friendly palate.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Letter Series T Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

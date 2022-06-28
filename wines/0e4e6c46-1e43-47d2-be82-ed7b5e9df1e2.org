@@ -19,3 +19,24 @@
 
 Super pleasant, clean and fresh wine. On the background of yeast, there are ripe, almost baked apples, quince and citrus. Bright, juicy, long and evolving aftertaste. Flavours of apple gum and ascorbic acid. Great wine to open an evening.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Vin Blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">La Petit Buisson - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -29,3 +29,29 @@ currant, jam, vanilla, chocolate. Not simple, juicy and delicious. Wonderful val
 
 One of the best QPR when it comes to aged bottles. Deep garnet colour, powerful and mature bouquet showing its age: jam, sweet tobacco and berries. Full-bodied with almost soft tannin, fresh and well balanced. Complex and delicious wine.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Merlot - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
+  </a>
+
+</div>
+#+end_export

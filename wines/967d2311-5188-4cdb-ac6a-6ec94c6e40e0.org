@@ -36,3 +36,19 @@ intense and meaty, with high acidity (which amazes me). Really want to
 see what will become with this wine in few years, seems like there is
 huge potential.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

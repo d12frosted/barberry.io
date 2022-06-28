@@ -17,3 +17,19 @@
 
 Very charming Cinsault from 40+ years old vineyards. Barberry candy wrapped into leather sack. Cranberry, red apple, flint. Not profound, but multilayered. Well balanced, but still very young. Would love to taste it again in few years.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Skurfberg - 2020</section>
+  </a>
+
+</div>
+#+end_export

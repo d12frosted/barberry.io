@@ -20,3 +20,30 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Merlot - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+</div>
+#+end_export

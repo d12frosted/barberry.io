@@ -17,3 +17,14 @@
 
 Simple yet enjoyable wine full of stone fruits, acacia flowers and buxus. Fresh, not demanding.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
+    <section class="h text-small text-lighter">Zeni</section>
+    <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
+  </a>
+
+</div>
+#+end_export

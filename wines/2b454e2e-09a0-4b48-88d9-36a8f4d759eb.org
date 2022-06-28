@@ -17,3 +17,24 @@
 
 Very good Sauvignon Blanc in a slightly oxidative style. Expressive bouquet of gooseberry, grapefruit, baked pear and honey. It's fresh, even crunchy, with right amount of volume, good balance and long aftertaste. So overall you get non-mainstream SB that helps in on a hot summer day despite the volume and body.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">La Petit Buisson - 2020</section>
+  </a>
+
+</div>
+#+end_export

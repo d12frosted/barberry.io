@@ -25,3 +25,14 @@ Beautiful and rich Madeira. Perfectly balanced.
 
 Wonderful Madeira that easily makes you fall in love with this style. Deep dark amber colour. Intense bouquet with classical notes: raisins, date fruit, maple syrup and spices. Friendly with nice freshness and good balance, very long and flavourful aftertaste - date fruit, walnut and maple syrup.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/54468301-969e-41f6-a3f1-404cc7608364.html">
+    <section class="h text-small text-lighter">Henriques & Henriques</section>
+    <section class="h text-bolder">Malvasia 15y - NV</section>
+  </a>
+
+</div>
+#+end_export

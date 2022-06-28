@@ -45,3 +45,19 @@ Tasted on an event organised by Vasyl Kalinichenko.
 
 Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess because it was the most developed and combined traits of new and old worlds. Excellent ripe bouquet of jammy strawberry, forest floor, red flowers and mushrooms. Almost perfectly balanced, good acidity level, silky and simply delicious.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

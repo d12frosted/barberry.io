@@ -28,3 +28,15 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/55d3286d-d7ce-4659-abca-b0bee73944a9.html">
+    <section class="h text-small text-lighter">Sous Le Végétal</section>
+    <section class="h text-bolder">Octave - 2018</section>
+  </a>
+
+</div>
+#+end_export

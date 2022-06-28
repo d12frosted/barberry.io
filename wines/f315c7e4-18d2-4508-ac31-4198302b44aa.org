@@ -18,3 +18,20 @@ Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct 
 ** Ratings
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Jgia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Mtsvane - 2018</section>
+  </a>
+
+</div>
+#+end_export

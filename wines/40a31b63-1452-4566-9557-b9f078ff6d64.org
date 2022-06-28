@@ -17,3 +17,24 @@
 
 One of my favourite producers from Champagne. Entre Ciel & Terre is more delicate than, say, Origenelle, showing less oxidation. And 2014-based Entre Ciel is also more delicate than 2013-based. Pale yellow colour. Powerful bouquet showing age (hey 48 sur lies): baked apple, toast, oil, lemon tart, Jerez, brioche, field flowers. Medium-full bodied, intense, complex and delicious.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+</div>
+#+end_export

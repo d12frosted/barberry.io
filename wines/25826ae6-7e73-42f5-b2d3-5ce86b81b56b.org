@@ -17,3 +17,19 @@
 
 Very good Sauvignon Blanc that mixes tropical features with yeasty funky stuff. As they say, entry-level 'natural' wine. So expect mango, passion fruit, bakery and pear cidre. Fresh and pretty focused. It's slightly dizzy and in addition to flavours of pear it only magnifies impression of pear cidre. Add some salty lemon notes and hear my conclusion - niiiiice.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vino Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vin de Soif - 2020</section>
+  </a>
+
+</div>
+#+end_export

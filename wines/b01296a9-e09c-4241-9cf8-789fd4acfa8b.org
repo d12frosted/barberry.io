@@ -26,3 +26,19 @@ and pickled tomato. It's thick, tannic and full-bodied. Rating is
 mostly because of the aroma, because the palate is one-dimensional and
 14.5 abv are not well balanced here. Still, wonderful wine!
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Jgia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
+  </a>
+
+</div>
+#+end_export

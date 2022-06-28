@@ -27,3 +27,24 @@ Wonderful Bedel-style. Oxidative, but more delicate that Origin'elle. Baked appl
 
 Tasted after Divych Vechir event.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+</div>
+#+end_export

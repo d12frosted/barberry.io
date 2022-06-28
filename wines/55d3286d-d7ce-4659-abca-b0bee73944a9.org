@@ -36,3 +36,14 @@ acacia, ripe and almost baked apple with some animal notes. Well
 structured and well balanced, with long mineral finish. Sophisticated
 and delicious.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
+    <section class="h text-small text-lighter">Sous Le Végétal</section>
+    <section class="h text-bolder">Palli et Genesia - 2018</section>
+  </a>
+
+</div>
+#+end_export

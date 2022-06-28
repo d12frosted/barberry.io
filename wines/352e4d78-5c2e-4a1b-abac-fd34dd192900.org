@@ -19,3 +19,24 @@
 rose petals, white pepper, and orange jam. Lacks structure, very
 straightforward.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Ruby - 2020</section>
+  </a>
+
+</div>
+#+end_export

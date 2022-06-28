@@ -23,3 +23,24 @@ Don't get me wrong, this wine is simple, approachable with charming herbal/fruit
 
 Tasted already multiple bottles, and confirm that this is a discovery. Again, it's not complex, but it still offers a wide set of distinct aromas together with an interesting palate. White cherry, green apricot, yellow apple, tarragon and white flowers. Fresh, well balanced, slightly oily with long aftertaste and nice bitter finish. Flavourful: white cherry, herbs, citrus. Nice value.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Viognier Yarden - 2017</section>
+  </a>
+
+</div>
+#+end_export

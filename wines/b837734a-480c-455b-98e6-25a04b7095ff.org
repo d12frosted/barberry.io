@@ -37,3 +37,19 @@ Interestingly, before Hennes Storm started his own project, he worked as a winem
 
 Opened too soon. Yet beautiful bouquet of red flowers, strawberries turning into jam and forest floor. Almost perfectly balanced, silky and delicious with long evolving aftertaste. Want to check it every year. One of my favourite producers of South Africa.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

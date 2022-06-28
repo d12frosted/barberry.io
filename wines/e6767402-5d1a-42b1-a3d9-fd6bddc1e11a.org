@@ -17,3 +17,29 @@
 
 I was sitting there, all alone with a glass asking myself, where did I hear this aroma? But then I realised, rich vegetable soup where 50% of content are various spices. The taste is different though, completely rotten apricots. Well, Pheasant's Tears is a crazy producer after all.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Poliphonia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Mtsvane - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Rkatsiteli - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Rkatsiteli - 2012</section>
+  </a>
+
+</div>
+#+end_export

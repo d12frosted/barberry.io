@@ -21,3 +21,19 @@ raspberry, and hints of wet forest floor with spices. Medium body,
 well balanced, tannins are a little bit harsh. Not complex, but so
 enjoyable! Would gladly drink this beauty every lunch.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <section class="h text-small text-lighter">Fedellos do Couto</section>
+    <section class="h text-bolder">Conasbrancas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
+    <section class="h text-small text-lighter">Fedellos do Couto</section>
+    <section class="h text-bolder">Conasbrancas - 2018</section>
+  </a>
+
+</div>
+#+end_export

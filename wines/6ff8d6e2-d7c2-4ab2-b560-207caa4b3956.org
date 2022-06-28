@@ -19,3 +19,24 @@ This blend of Pinot Blanc and Pinot Gris spend 12 months sur lie. No added sulph
 
 It is hard to stay objective when it comes to iconic producers, especially when you don't like them haha. I had several disappointing experiences with Frick wines, but somehow decided to give his sparkling a try. And I am happy because it turned out to be an expressive, deep and sophisticated Cremant with honey, grass, dough, almond, dried yellow fruits and subtle hints of pickles. Well balanced, tasty and interesting. Sky rocket QPR.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Rot-Murlé Riesling Pur Vin Macération - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -25,3 +25,19 @@ Delicate and perfectly balanced wine. Tasting again in 6 months and I must say, 
 
 I've been tasting this wine periodically and now it become gorgeous. Oxidative style, Jerez, baked apple with honey, brioche, oil, chalk and sea breeze (hey iodine) and fried popcorn. Aroma matches the palate. Almost perfectly balanced, almost full bodied. Flavourful, fresh and delicious wine with very long aftertaste. Sky rocket QPR.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
+  </a>
+
+</div>
+#+end_export

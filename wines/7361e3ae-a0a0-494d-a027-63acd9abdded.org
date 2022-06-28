@@ -19,3 +19,19 @@ The blend is 59% Pinot Noir and Meunier (from Aÿ, Dizy and Hautvillers) and 41%
 
 It was a pure joy and a surprise to find Cuvee 742 as I already gave up few months ago. Definitely a milestone for me. Cuvee 742 is complex multilayered wine. Baked apple, sunflower oil, pumpkin seeds, yeast, raw dough, butter, creme brulee and notes of plastic. Perfectly balanced, structured, evolving with very long finish with flavours of cider, burnt plastic and candy.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
+  </a>
+
+</div>
+#+end_export

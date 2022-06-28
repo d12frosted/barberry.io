@@ -61,3 +61,14 @@ and evolving finish. While I enjoyed this wine, it felt a little bit
 too polished, maybe even sterile? QPR is questionable, though I am
 happy to taste this iconic wine.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <section class="h text-small text-lighter">Gravner</section>
+    <section class="h text-bolder">Ribolla Anfora - 2004</section>
+  </a>
+
+</div>
+#+end_export

@@ -34,3 +34,19 @@ leather hints. Juicy, mineral and tasty on the palate. Still has its
 raw power but shows delicacy at the same time. Unique gem with
 wonderful QPR.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Mtsvane - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
+  </a>
+
+</div>
+#+end_export

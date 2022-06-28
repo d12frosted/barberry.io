@@ -22,3 +22,19 @@ wine, with long jerez-like evolving taste, flavours of green almond
 and yellow fruits with benzene. Great wine, wonderful QPR, shame it's
 not available anymore.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
+    <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis Sur Loire Clos Michet - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+    <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
+  </a>
+
+</div>
+#+end_export

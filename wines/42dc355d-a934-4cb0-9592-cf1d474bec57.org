@@ -17,3 +17,19 @@
 
 Amazing wine, one of my favourite producers. Barberry candy, blood, leather, cranberry and flint. Complex, precise with good minerality. It's not profound, but rather delicate and multilayered. I would drink it every morning and every evening. Alone, without sharing it with anyone :)
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Skurfberg - 2020</section>
+  </a>
+
+</div>
+#+end_export

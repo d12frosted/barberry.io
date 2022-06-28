@@ -21,3 +21,29 @@ Tasted as a part of Ulysse Collin dinner in 101 Bar.
 
 Based on 2014, it spent 60 months on lees. The most friendly and quaffable wine of the evening, in a very good sense. Multilayered bouquet: you have salty cheese, cream soda, toast, apple seeds and pear. Everything is well combined and creates wonderful volume. Complex, perfectly balanced, evolving, elegant and delicious. Again, it is subjectively, but I loved this wine.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/50353325-007d-429d-b70b-f9d40206fe8d.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Roises Blanc de Blancs Extra Brut (2015) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/870ccf3b-4295-4932-b8f7-10998dddd6ec.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
+  </a>
+
+</div>
+#+end_export
