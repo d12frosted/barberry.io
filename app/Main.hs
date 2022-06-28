@@ -242,7 +242,7 @@ wrapTables = walk go
   where
     go [] = []
     go (b : bs) = case b of
-      Table {} -> Div ("", ["table-cotainer"], []) [b] : go bs
+      Table {} -> Div ("", ["table-container"], []) [b] : go bs
       _ -> b : go bs
 
 processTastingScores :: Pandoc -> Pandoc
