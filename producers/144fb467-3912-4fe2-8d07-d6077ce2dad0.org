@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                 name | vintage |                                 grapes |     region | rating |
+|------------------------------------------------------+---------+----------------------------------------+------------+--------|
+| [[barberry:/wines/deba8d55-585b-464c-8b45-e2b97702d33f][Foresco]] |    2019 | Sangiovese, Merlot, Cabernet Sauvignon | IGP Umbria |   7.25 |

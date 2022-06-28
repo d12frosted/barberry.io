@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                    name | vintage |     grapes |               region | rating |
+|---------------------------------------------------------+---------+------------+----------------------+--------|
+| [[barberry:/wines/71690b8e-81d4-44ef-84ed-e13a8fea23ac][Sangiovese]] |    2017 | Sangiovese | IGP Terre degli Osci |      - |

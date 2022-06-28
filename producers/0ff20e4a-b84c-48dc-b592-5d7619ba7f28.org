@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                   name | vintage |                           grapes |           region | rating |
+|--------------------------------------------------------+---------+----------------------------------+------------------+--------|
+| [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Costalupo]] |    2021 | Chardonnay, Trebbiano, Passerina | Controguerra DOC |      - |

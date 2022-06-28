@@ -1,0 +1,8 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                       name | vintage |    grapes |     region | rating |
+|----------------------------------------------------------------------------+---------+-----------+------------+--------|
+| [[barberry:/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1][Arbois Vin Jaune Les Bruyeres]] |    2012 |  Savagnin | Arbois AOC |   8.50 |
+|           [[barberry:/wines/f201f266-399a-4818-be01-3987e9280388][Singulier Trousseau]] |    2017 | Trousseau | Arbois AOC |   7.25 |

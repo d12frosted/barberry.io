@@ -1,0 +1,10 @@
+Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct Jgia. All wines are hand made. Uses qvevri, of course. Annual production is less than 5000 bottles.
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                           name | vintage |              grapes |   region | rating |
+|----------------------------------------------------------------+---------+---------------------+----------+--------|
+|              [[barberry:/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614][Jgia]] |    2018 |                Jgia | Kakhetia |   8.50 |
+|           [[barberry:/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b][Mtsvane]] |    2018 | Mtsvane, Rkatsiteli | Kakhetia |   7.75 |
+| [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Alvani Rkatsiteli]] |    2018 |          Rkatsiteli | Kakhetia |      - |

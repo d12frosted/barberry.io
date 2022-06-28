@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                               name | vintage |                     grapes |      region | rating |
+|--------------------------------------------------------------------+---------+----------------------------+-------------+--------|
+| [[barberry:/wines/abe4809a-958e-46f3-8b58-5575332beb1e][Margaux Cru Bourgeois]] |    2016 | Cabernet Sauvignon, Merlot | Margaux AOC |   7.50 |

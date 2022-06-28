@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                   name | vintage |     grapes |        region | rating |
+|--------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9][Échezeaux]] |    2013 | Pinot Noir | Échezeaux AOC |   8.50 |

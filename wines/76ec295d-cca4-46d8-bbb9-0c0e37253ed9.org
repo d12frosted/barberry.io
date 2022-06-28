@@ -2,7 +2,7 @@
 [[file:/images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Marco de Bartoli
+- Producer :: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco de Bartoli]]
 - Vintage :: 2017
 - Location :: Italy, IGP Terre Siciliane
 - Grapes :: Perricone
@@ -27,9 +27,9 @@ Medium intensity, vanilla, black and red berries, hints of leather (in a funky w
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Integer Grillo - 2018</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
@@ -37,14 +37,24 @@ Medium intensity, vanilla, black and red berries, hints of leather (in a funky w
     <section class="h text-bolder">Lucido - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Grillo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Zibibbo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+  <a class="flex-item flex-item-right" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Terzavia - 2018</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
@@ -57,19 +67,9 @@ Medium intensity, vanilla, black and red berries, hints of leather (in a funky w
     <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
-    <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Grappoli del Grillo - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
-    <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
 </div>

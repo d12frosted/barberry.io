@@ -1,0 +1,6 @@
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                name | vintage | grapes |      region | rating |
+|---------------------------------------------------------------------+---------+--------+-------------+--------|
+| [[barberry:/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c][Gimblett Gravels Syrah]] |    2018 |  Syrah | Hawke's Bay |   8.00 |

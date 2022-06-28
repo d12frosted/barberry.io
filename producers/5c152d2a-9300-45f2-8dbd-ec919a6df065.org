@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                               name | vintage |  grapes |        region | rating |
+|----------------------------------------------------+---------+---------+---------------+--------|
+| [[barberry:/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac][Louro]] |    2020 | Godello | Valdeorras DO |   8.00 |

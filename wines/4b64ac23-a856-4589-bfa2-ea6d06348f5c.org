@@ -2,7 +2,7 @@
 [[file:/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Pierre Frick
+- Producer :: [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]
 - Vintage :: 2017
 - Location :: France, Alsace Grand Cru AOC
 - Grapes :: Gewürztraminer
@@ -21,14 +21,14 @@ Up to expectations, interesting macerated Gewürztraminer from Alsace. Baked app
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
-    <section class="h text-small text-lighter">Pierre Frick</section>
-    <section class="h text-bolder">Cremant d'Alsace - 2017</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
+  <a class="flex-item flex-item-left" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Rot-Murlé Riesling Pur Vin Macération - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">

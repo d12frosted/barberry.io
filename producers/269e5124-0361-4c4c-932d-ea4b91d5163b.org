@@ -1,0 +1,8 @@
+It's actually one of the projects of [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]].
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                         name | vintage |          grapes |      region | rating |
+|--------------------------------------------------------------+---------+-----------------+-------------+--------|
+| [[barberry:/wines/b17345a2-36ee-4fdf-b083-fc6019941931][Sauvignon Blanc]] |    2020 | Sauvignon Blanc | Marlborough |   7.25 |

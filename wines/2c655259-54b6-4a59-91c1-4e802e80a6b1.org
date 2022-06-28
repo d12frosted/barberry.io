@@ -1,5 +1,5 @@
 - Type :: White Still, Dry
-- Producer :: Andre et Mireille Tissot
+- Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
 - Vintage :: 2012
 - Location :: France, Arbois AOC
 - Grapes :: Savagnin
@@ -16,3 +16,14 @@ Wonderful Savagnin that spent quite amount of time under flor. Intense Jerez-lik
 
 Tasted on an event organised by Vasyl Kalinichenko.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+    <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Singulier Trousseau - 2017</section>
+  </a>
+
+</div>
+#+end_export

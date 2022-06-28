@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |                      grapes |                region | rating |
+|--------------------------------------------------------------------------+---------+-----------------------------+-----------------------+--------|
+| [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Refosco dal Peduncolo Rosso]] |    2019 | Refosco dal Peduncolo Rosso | Isonzo del Friuli DOC |      - |

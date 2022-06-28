@@ -2,7 +2,7 @@
 [[file:/images/25/222939-23da-4fee-99de-28482c8f24e6/2021-09-18-10-32-46-33786B15-4A07-4E66-9C26-6C679D724F40-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Bodega Catena Zapata
+- Producer :: [[barberry:/producers/4547425b-4629-45d5-886b-581416693d89][Bodega Catena Zapata]]
 - Vintage :: 2019
 - Location :: Argentina, Tupungato
 - Grapes :: Chardonnay
@@ -12,6 +12,10 @@
 - Cellar :: N/A
 
 This Chardonnay spent 9 months in oak barrels.
+
+** Producer
+
+Famous producer from Argentina. They say that Catena family has resurrected Malbec.
 
 ** Ratings
 
@@ -26,14 +30,14 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
-    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
-    <section class="h text-bolder">Catena Chardonnay - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
+  <a class="flex-item flex-item-right" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Argentino - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>
 
 </div>

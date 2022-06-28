@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                              name | vintage |     grapes |                region | rating |
+|-----------------------------------------------------------------------------------+---------+------------+-----------------------+--------|
+| [[barberry:/wines/37a1355b-9237-4529-8e7b-a158db929006][Gevrey-Chambertin 1er Cru Craipillot]] |    2015 | Pinot Noir | Gevrey-Chambertin AOC |      - |

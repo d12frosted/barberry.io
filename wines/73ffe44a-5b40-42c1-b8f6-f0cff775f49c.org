@@ -2,7 +2,7 @@
 [[file:/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Golan Heights Winery
+- Producer :: [[barberry:/producers/6af33cac-4d40-4a63-9799-597578b5cb1c][Golan Heights Winery]]
 - Vintage :: 2019
 - Location :: Israel, Golan Heights
 - Grapes :: Chardonnay
@@ -29,19 +29,19 @@ One of my favourite Israeli wines. Easy to understand, yet has multiple layers t
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Mount Hermon White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
+  <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Viognier Yarden - 2017</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
-    <section class="h text-small text-lighter">Golan Heights Winery</section>
-    <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
 </div>

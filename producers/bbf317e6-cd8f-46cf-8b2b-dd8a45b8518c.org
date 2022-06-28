@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                   name | vintage |          grapes |      region | rating |
+|------------------------------------------------------------------------+---------+-----------------+-------------+--------|
+| [[barberry:/wines/7652700d-3edc-46fa-8e74-624826b23830][Satellite Sauvignon Blanc]] |    2021 | Sauvignon Blanc | Marlborough |   6.50 |

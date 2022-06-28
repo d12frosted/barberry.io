@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                  name | vintage |                      grapes |             region | rating |
+|-----------------------------------------------------------------------+---------+-----------------------------+--------------------+--------|
+| [[barberry:/wines/2e0fea48-5584-476d-b65d-4fe8e1b5f79c][Domaine Grosset Cairanne]] |    2019 | Syrah, Monastrell, Grenache | Côtes du Rhône AOC |      - |

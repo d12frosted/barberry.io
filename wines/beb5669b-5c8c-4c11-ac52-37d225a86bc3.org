@@ -1,5 +1,5 @@
 - Type :: Red Still, Dry
-- Producer :: Matassa
+- Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
 - Vintage :: 2019
 - Location :: France, Vin de Table (France)
 - Grapes :: Monastrell, Cariñena
@@ -21,9 +21,29 @@ cherry and barn. Good, almost clean style.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
+  <a class="flex-item flex-item-left" href="/wines/22085dbc-44c2-4b02-bb15-625d0395c818.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Cuvée Alexandria - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Mambo Sun - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/370e2f0f-46c0-464f-a27b-49894634e4c2.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Rollaball - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Brutal Orange - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4f6d8434-a726-4e9a-955a-745813fdd7d1.html">
@@ -31,39 +51,19 @@ cherry and barn. Good, almost clean style.
     <section class="h text-bolder">Cuvée Marguerite - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
-    <section class="h text-small text-lighter">Matassa</section>
-    <section class="h text-bolder">Mambo Sun - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/370e2f0f-46c0-464f-a27b-49894634e4c2.html">
-    <section class="h text-small text-lighter">Matassa</section>
-    <section class="h text-bolder">Rollaball - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/bb9c19ad-0571-4346-9bda-088dfaa9a658.html">
-    <section class="h text-small text-lighter">Matassa</section>
-    <section class="h text-bolder">El Carner - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/6c45e619-c75e-43d1-9f11-2896fd46994b.html">
+  <a class="flex-item flex-item-left" href="/wines/6c45e619-c75e-43d1-9f11-2896fd46994b.html">
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Olla Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb9c19ad-0571-4346-9bda-088dfaa9a658.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">El Carner - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
-    <section class="h text-small text-lighter">Matassa</section>
-    <section class="h text-bolder">Brutal Orange - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/22085dbc-44c2-4b02-bb15-625d0395c818.html">
-    <section class="h text-small text-lighter">Matassa</section>
-    <section class="h text-bolder">Cuvée Alexandria - 2020</section>
   </a>
 
 </div>

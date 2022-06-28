@@ -1,0 +1,10 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                                              name | vintage |                  grapes |               region | rating |
+|---------------------------------------------------------------------------------------------------+---------+-------------------------+----------------------+--------|
+| [[barberry:/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c][Gewurztraminer Grand Cru Steinert Macération Pur Vin]] |    2017 |          Gewürztraminer | Alsace Grand Cru AOC |   7.75 |
+|                [[barberry:/wines/582c897e-478e-4853-8f7f-1cfbe777758d][Rot-Murlé Riesling Pur Vin Macération]] |    2018 |                Riesling |           Alsace AOC |   6.75 |
+|                                     [[barberry:/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956][Cremant d'Alsace]] |    2017 | Pinot Blanc, Pinot Gris | Crémant d'Alsace AOC |   8.00 |
+|                                     [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Crémant d'Alsace]] |    2018 |         Auxerrois blanc | Crémant d'Alsace AOC |   8.00 |

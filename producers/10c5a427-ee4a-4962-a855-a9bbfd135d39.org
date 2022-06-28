@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                        name | vintage |                 grapes |    region | rating |
+|-----------------------------------------------------------------------------+---------+------------------------+-----------+--------|
+| [[barberry:/wines/bf77c1a9-c3da-424d-8306-f94769b95a65][Sospiri Brut Riserva Pas Operé]] |    2011 | Chardonnay, Pinot Noir | Vino (IT) |      - |

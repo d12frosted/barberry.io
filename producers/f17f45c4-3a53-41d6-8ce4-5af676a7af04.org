@@ -1,0 +1,8 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                    name | vintage |     grapes |        region | rating |
+|---------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79][Malagouzia]] |    2020 | Malagousia | PGI Corinthia |   7.25 |
+| [[barberry:/wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8][Malagouzia]] |    2019 | Malagousia | PGI Corinthia |   7.40 |

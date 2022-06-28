@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                               name | vintage |     grapes |              region | rating |
+|--------------------------------------------------------------------+---------+------------+---------------------+--------|
+| [[barberry:/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5][Bourgougne Pinot Noir]] |    2016 | Pinot Noir |       Bourgogne AOC |   8.00 |
+| [[barberry:/wines/1409c807-4b30-47c0-b0c3-8562d97ba541][Bourgougne Pinot Noir]] |    2017 | Pinot Noir |       Bourgogne AOC |      - |
+|       [[barberry:/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801][Clos de Vougeot]] |    2014 | Pinot Noir | Clos de Vougeot AOC |   9.00 |

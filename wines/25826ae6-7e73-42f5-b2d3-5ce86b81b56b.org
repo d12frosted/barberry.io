@@ -2,7 +2,7 @@
 [[file:/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Lucy Margaux
+- Producer :: [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]
 - Vintage :: 2020
 - Location :: Australia
 - Grapes :: Sauvignon Blanc
@@ -21,14 +21,14 @@ Very good Sauvignon Blanc that mixes tropical features with yeasty funky stuff. 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
-    <section class="h text-small text-lighter">Lucy Margaux</section>
-    <section class="h text-bolder">Vino Rosso - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+  <a class="flex-item flex-item-left" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vino Rosso - 2020</section>
   </a>
 
 </div>

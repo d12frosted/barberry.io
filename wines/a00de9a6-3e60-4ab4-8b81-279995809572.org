@@ -2,7 +2,7 @@
 [[file:/images/a0/0de9a6-3e60-4ab4-8b81-279995809572/2022-06-21-14-29-45-EB85A16C-F636-4B32-A6DE-208899B4AA1C-1-102-o.webp]]
 
 - Type :: White Sparkling, Brut nature
-- Producer :: Testalonga
+- Producer :: [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]
 - Vintage :: 2021
 - Location :: South Africa, WO Swartland
 - Grapes :: Colombard
@@ -13,7 +13,7 @@
 
 ** Producer
 
-Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like Matassa and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
+Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
 
 In the 2015 they bough Bandits Kloof farm in the northern mountains of Swartland. Climate is similar to Sicilian, so they planted Frappato, Macabeo, Carignan, Mataro, Grenache and Garnacha Blanca.
 
@@ -31,19 +31,19 @@ Wine #1 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4.html">
-    <section class="h text-small text-lighter">Testalonga</section>
-    <section class="h text-bolder">Baby Bandito Chin Up - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
+  <a class="flex-item flex-item-left" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
+  <a class="flex-item flex-item-right" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Chin Up - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">

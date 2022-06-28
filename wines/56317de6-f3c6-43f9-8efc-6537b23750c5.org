@@ -2,7 +2,7 @@
 [[file:/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Viña Tondonia
+- Producer :: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][Viña Tondonia]]
 - Vintage :: 2009
 - Location :: Spain, Rioja DOC
 - Grapes :: Macabeo, Malvasia di Candia Aromatica
@@ -28,19 +28,19 @@ Wine #2 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] b
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
-    <section class="h text-small text-lighter">Viña Tondonia</section>
-    <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">
+  <a class="flex-item flex-item-left" href="/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+  <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>
 
 </div>

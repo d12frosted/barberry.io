@@ -2,7 +2,7 @@
 [[file:/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Krasna Hora
+- Producer :: [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]
 - Vintage :: 2020
 - Location :: Czech Republic, Moravia
 - Grapes :: Zweigelt, Pinot Noir, Saint-Laurent, Merlot, Cabernet Sauvignon
@@ -10,6 +10,10 @@
 - Sugar :: 0.65
 - Price :: 413 UAH
 - Cellar :: 1 bottle
+
+** Producer
+
+Small wine producer from Czech Republic.
 
 ** Ratings
 
@@ -19,19 +23,19 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+  <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Herr Gewürtz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
-    <section class="h text-small text-lighter">Krasna Hora</section>
-    <section class="h text-bolder">Herr Gewürtz - 2019</section>
   </a>
 
 </div>

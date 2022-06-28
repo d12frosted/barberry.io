@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |                                     grapes |            region | rating |
+|--------------------------------------------------------------------------+---------+--------------------------------------------+-------------------+--------|
+| [[barberry:/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd][Saint-Estephe Cru Bourgeois]] |    2016 | Cabernet Sauvignon, Merlot, Cabernet Franc | Saint-Estephe AOC |   7.50 |

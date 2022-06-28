@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                              name | vintage |                 grapes |    region | rating |
+|---------------------------------------------------+---------+------------------------+-----------+--------|
+| [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Brut]] |      NV | Pinot Noir, Chardonnay | Vino (IT) |   8.00 |

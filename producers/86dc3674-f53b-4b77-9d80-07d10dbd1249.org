@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                         name | vintage |          grapes |      region | rating |
+|--------------------------------------------------------------+---------+-----------------+-------------+--------|
+| [[barberry:/wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf][Sauvignon Blanc]] |    2019 | Sauvignon Blanc | Marlborough |   7.00 |

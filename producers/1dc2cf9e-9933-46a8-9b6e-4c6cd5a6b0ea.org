@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                           name | vintage | grapes | region | rating |
+|----------------------------------------------------------------+---------+--------+--------+--------|
+| [[barberry:/wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4][Gato Negro Merlot]] |    2020 | Merlot |  Chile |   6.00 |

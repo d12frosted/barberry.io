@@ -1,0 +1,8 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                             name | vintage |        grapes |      region | rating |
+|------------------------------------------------------------------+---------+---------------+-------------+--------|
+|        [[barberry:/wines/54468301-969e-41f6-a3f1-404cc7608364][Malvasia 15y]] |      NV | Malvasia Fina | Madeira DOC |      - |
+| [[barberry:/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038][Boal Single Harvest]] |    2000 |          Boal | Madeira DOC |   8.67 |

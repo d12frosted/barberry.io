@@ -2,7 +2,7 @@
 [[file:/images/3f/4758f2-4bf9-4d99-96c3-dd2f85517d8c/2020-10-28-09-14-24-65F97BB7-C578-4F0B-A691-E3B5CE63E570-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Stella di Campalto
+- Producer :: [[barberry:/producers/62aaead8-0c95-4b5e-867f-9e8f8e4e5832][Stella di Campalto]]
 - Vintage :: 2014
 - Location :: Italy, Rosso di Montalcino DOC
 - Grapes :: Sangiovese
@@ -23,14 +23,14 @@ The first magnum in my life. And what a wine! Since 2014 was not simple year, St
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
-    <section class="h text-small text-lighter">Stella di Campalto</section>
-    <section class="h text-bolder">Choltempo Fiorello - NV</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
+  <a class="flex-item flex-item-left" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Rosso di Montalcino - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
 </div>

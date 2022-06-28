@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                  name | vintage |     grapes |        region | rating |
+|-----------------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef][Pinot Noir Central Otago]] |    2020 | Pinot Noir | Central Otago |   7.00 |

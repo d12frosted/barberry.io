@@ -2,7 +2,7 @@
 [[file:/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: La Stoppa
+- Producer :: [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]
 - Vintage :: 2015
 - Location :: Italy, IGP Emilia
 - Grapes :: Malvasia di Candia Aromatica, Ortrugo, Trebbiano
@@ -22,6 +22,10 @@ This wine is named after the founder of La Stoppa, lawyer Ageno, who was the fir
 - Vinification: 4 months maceration on skins in stainless steel and/or cement tanks
 - Fermentation and aging: Spontaneous fermentation with indigenous yeasts, aged in 40 hectolitre wooden tanks and in bottle for a time necessary, no filtration or sulphites added
 - Average production: 15 000 bottles
+
+** Producer
+
+La Stoppa is a legendary historic estate that was founded in 19th century by a lawyer named Giancarlo Ageno. Initially focused on Bordeaux varieties, nowadays its vineyards are occupied by local Barbera, Bonarda and Malvasia. Elena Pantaleoni, current owner of the estate, works closely with famous enologist Giulio Armani (that has his own side project called Denavolo) to craft wines expressive of place and grape. They are advocates of minimal intervention along with usage of huge Slavonian oak botti and used French barriques. Also they are farming organically since 1990's and in 2008 they even acquired proper certification.
 
 ** Ratings
 
@@ -53,14 +57,14 @@ Unfortunately, this is my last bottle of Ageno 2015. Since my last tasting almos
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
-    <section class="h text-small text-lighter">La Stoppa</section>
-    <section class="h text-bolder">Ageno - 2017</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
 </div>

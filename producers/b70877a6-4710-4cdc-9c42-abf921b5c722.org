@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                name | vintage |   grapes |      region | rating |
+|-----------------------------------------------------+---------+----------+-------------+--------|
+| [[barberry:/wines/6edeac40-1d7c-40d4-b5c3-bf82058a6baf][Barolo]] |    2010 | Nebbiolo | Barolo DOCG |      - |

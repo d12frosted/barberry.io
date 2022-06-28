@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                       name | vintage |     grapes |        region | rating |
+|------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6][Cuvee Pheerie]] |    2013 | Chardonnay | Champagne AOC |   8.38 |

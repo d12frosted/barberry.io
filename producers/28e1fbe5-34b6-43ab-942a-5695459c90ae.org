@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                  name | vintage |     grapes |                region | rating |
+|-----------------------------------------------------------------------+---------+------------+-----------------------+--------|
+| [[barberry:/wines/8cbe57db-77d3-4d08-9332-86f4635e118d][Gevrey-Chambertin Ostrea]] |    2012 | Pinot Noir | Gevrey-Chambertin AOC |   8.20 |

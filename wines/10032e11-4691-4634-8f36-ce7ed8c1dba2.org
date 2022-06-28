@@ -2,7 +2,7 @@
 [[file:/images/10/032e11-4691-4634-8f36-ce7ed8c1dba2/2022-06-12-17-28-38-D9712012-722A-4AA8-9D81-D45EC3171A7E.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Weingut Tement
+- Producer :: [[barberry:/producers/10ab4cea-5852-45b1-94bc-97e93fe33956][Weingut Tement]]
 - Vintage :: 2020
 - Location :: Austria, Steiermark
 - Grapes :: Sauvignon Blanc, Welschriesling
@@ -21,9 +21,9 @@ Easy going, light and well made wine. In the nose it's full of melon, gooseberry
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
+  <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
     <section class="h text-small text-lighter">Weingut Tement</section>
-    <section class="h text-bolder">Blanc - 2020</section>
+    <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0.html">
@@ -31,14 +31,14 @@ Easy going, light and well made wine. In the nose it's full of melon, gooseberry
     <section class="h text-bolder">Temento Green - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
-    <section class="h text-small text-lighter">Weingut Tement</section>
-    <section class="h text-bolder">Blanc Reserve - 2017</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
+  <a class="flex-item flex-item-left" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Blanc - 2020</section>
   </a>
 
 </div>

@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                      name | vintage |     grapes |     region | rating |
+|-----------------------------------------------------------+---------+------------+------------+--------|
+| [[barberry:/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7][Pinot Arbois]] |    2018 | Pinot Noir | Arbois AOC |   7.50 |

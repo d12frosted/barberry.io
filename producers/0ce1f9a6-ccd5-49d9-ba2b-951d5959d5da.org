@@ -1,0 +1,17 @@
+Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
+
+- Tenuta Regaleali
+- Tenuta Capofaro
+- Tenuta Tascante
+- Fondazione Whitaker
+- Tenuta Sallier de La Tour
+
+[[file:/images/0c/e1f9a6-ccd5-49d9-ba2b-951d5959d5da/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                      name | vintage |                   grapes |      region | rating |
+|---------------------------------------------------------------------------+---------+--------------------------+-------------+--------|
+|      [[barberry:/wines/dd1de12a-14c9-4d62-b429-e71259293d77][Tenuta Tascante Buonora]] |    2019 |               Carricante |    Etna DOC |   7.50 |
+| [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tenuta Regaleali Nozze d'Oro]] |    2018 | Sauvignon Blanc, Inzolia | Sicilia DOC |   7.75 |

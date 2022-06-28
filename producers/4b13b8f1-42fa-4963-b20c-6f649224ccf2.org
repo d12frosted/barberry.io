@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                              name | vintage |                              grapes |     region | rating |
+|---------------------------------------------------+---------+-------------------------------------+------------+--------|
+| [[barberry:/wines/3b659800-7834-4b86-89ff-76dba23dacd2][Laya]] |    2020 | Alicante Henri Bouschet, Monastrell | Almansa DO |   5.50 |

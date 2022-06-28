@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                   name | vintage |     grapes |              region | rating |
+|------------------------------------------------------------------------+---------+------------+---------------------+--------|
+| [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Crémant du Jura Millésimé]] |    2018 | Chardonnay | Crémant du Jura AOC |   7.75 |

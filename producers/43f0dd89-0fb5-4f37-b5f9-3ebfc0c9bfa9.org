@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                        name | vintage |                 grapes |    region | rating |
+|-------------------------------------------------------------+---------+------------------------+-----------+--------|
+| [[barberry:/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d][Argentina Brut]] |      NV | Chardonnay, Pinot Noir | Argentina |   7.00 |

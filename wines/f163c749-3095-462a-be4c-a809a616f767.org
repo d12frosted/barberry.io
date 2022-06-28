@@ -2,7 +2,7 @@
 [[file:/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Brancott Estate
+- Producer :: [[barberry:/producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1][Brancott Estate]]
 - Vintage :: 2018
 - Location :: New Zealand, Marlborough
 - Grapes :: Sauvignon Blanc
@@ -24,14 +24,14 @@ and tasty. Liked for balanced and acidity.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
-    <section class="h text-small text-lighter">Brancott Estate</section>
-    <section class="h text-bolder">Pinot Noir - 2016</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
+  <a class="flex-item flex-item-left" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Letter Series T Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2016</section>
   </a>
 
 </div>

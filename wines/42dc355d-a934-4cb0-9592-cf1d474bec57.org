@@ -2,7 +2,7 @@
 [[file:/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Sadie Family
+- Producer :: [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]]
 - Vintage :: 2020
 - Location :: South Africa, WO Swartland
 - Grapes :: Cinsault
@@ -21,14 +21,14 @@ Amazing wine, one of my favourite producers. Barberry candy, blood, leather, cra
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
-    <section class="h text-small text-lighter">Sadie Family</section>
-    <section class="h text-bolder">Pofadder - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+  <a class="flex-item flex-item-left" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Skurfberg - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2018</section>
   </a>
 
 </div>

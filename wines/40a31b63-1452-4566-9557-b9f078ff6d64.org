@@ -2,7 +2,7 @@
 [[file:/images/40/a31b63-1452-4566-9557-b9f078ff6d64/2021-12-23-09-07-40-C159EEC7-7228-4B4D-9C1A-899C697A1349-1-105-c.webp]]
 
 - Type :: White Sparkling, Extra brut
-- Producer :: Francoise Bedel
+- Producer :: [[barberry:/producers/95f34fc8-044c-453a-bca7-62e7128ff998][Francoise Bedel]]
 - Vintage :: NV
 - Location :: France, Champagne AOC
 - Grapes :: Pinot Meunier, Pinot Noir, Chardonnay
@@ -10,6 +10,20 @@
 - Sugar :: 1.65
 - Price :: 2150 UAH
 - Cellar :: N/A
+
+** Producer
+
+Wonderful winemaker from Champagne.
+
+According to her interview with Goodwine, she believes that wine making requires intervention from people. There is critical difference between Low Intervention and no intervention at all.
+
+#+begin_quote
+На мой взгляд, совсем не вмешиваться в процесс производства опасно. Человек необходим, чтобы вино не стало уксусом. Я никогда не добавлю сульфитов больше, чем нужео, или не стану добавлять из вовсе, если ввинтаж мне это позволит. Вино должно быть понятным в плане чистоты вкуса, внешнего вида и ароматов. Я говорю сейчас о Шампани. Не знаю, как в других регионах, а у нас погодные условия таковы, что здесь не получится не прикасаться к вину, если вы хотите сделать что-то хорошее. К тому же, я глубоко убеждена, что лозы находяться в энергетической взаимосвязи с тем, кто за ними смаотрит, поэтому нет ничего страшного в том, что человек вмешивается в процесс производства. Даже наоборот.
+
+Один мой импортер из северных страх однажды сказа мне, что предпочитает продавать только натуральные вина. Вечеорм мы пошли в ресторан, сделали заказ и выбрали натуральное вино. Нам принесли напиток коричневого цвета, с очень странным и неприятным запахом. Если натурально вино такое, я не хочу быть натуралистом. Во время сбора урожая я ставлю боказ с виноградным соком на бочку и смотрю каждый час, как меняется цвет. Если сок остается светлым, мы добавим меньше сульфитов, если начнет темнеть - добавим больше. Я не отношусь к виноделам-экстремистам, которые ничего не делают.
+
+Guilde to Goodwine #38
+#+end_quote
 
 ** Ratings
 
@@ -21,19 +35,19 @@ One of my favourite producers from Champagne. Entre Ciel & Terre is more delicat
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
-    <section class="h text-small text-lighter">Francoise Bedel</section>
-    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
 
 </div>

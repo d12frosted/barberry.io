@@ -2,7 +2,7 @@
 [[file:/images/f7/2778c8-5571-403e-a386-20cffdbf1459/2020-10-13-08-41-17-A9F57A48-9501-45C1-A0ED-6F37E305B38C-1-105-c.webp]]
 
 - Type :: White Still, Semy dry
-- Producer :: La Stoppa
+- Producer :: [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]
 - Vintage :: 2017
 - Location :: Italy, Vino (IT)
 - Grapes :: Malvasia di Candia Aromatica, Ortrugo, Trebbiano
@@ -39,6 +39,10 @@ name "Ageno" is in homage to the original owner of the estate, Giancarlo Ageno.
 Bowlerwine
 #+end_quote
 
+** Producer
+
+La Stoppa is a legendary historic estate that was founded in 19th century by a lawyer named Giancarlo Ageno. Initially focused on Bordeaux varieties, nowadays its vineyards are occupied by local Barbera, Bonarda and Malvasia. Elena Pantaleoni, current owner of the estate, works closely with famous enologist Giulio Armani (that has his own side project called Denavolo) to craft wines expressive of place and grape. They are advocates of minimal intervention along with usage of huge Slavonian oak botti and used French barriques. Also they are farming organically since 1990's and in 2008 they even acquired proper certification.
+
 ** Ratings
 
 *** 2020-10-12 - ☆ 8.00
@@ -54,14 +58,14 @@ flavourful dry land. Nice, relatively young, easy to drink.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
-    <section class="h text-small text-lighter">La Stoppa</section>
-    <section class="h text-bolder">Ageno - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+  <a class="flex-item flex-item-left" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
 </div>

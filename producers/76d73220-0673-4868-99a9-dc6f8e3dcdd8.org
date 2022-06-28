@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                   name | vintage |  grapes |    region | rating |
+|--------------------------------------------------------+---------+---------+-----------+--------|
+| [[barberry:/wines/4e6b1890-7360-4d61-af6a-e7a6ac427f98][frizzante]] |      NV | Unknown | Vino (IT) |   6.50 |

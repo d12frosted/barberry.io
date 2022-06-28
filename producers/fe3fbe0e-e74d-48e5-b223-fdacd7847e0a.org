@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                              name | vintage |             grapes |      region | rating |
+|-------------------------------------------------------------------+---------+--------------------+-------------+--------|
+| [[barberry:/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195][Villányi Portugieser]] |    2020 | Blauer Portugieser | Villány DHC |      - |

@@ -2,7 +2,7 @@
 [[file:/images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Pheasant's Tears
+- Producer :: [[barberry:/producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad][Pheasant's Tears]]
 - Vintage :: 2012
 - Location :: Georgia, Kakhetia
 - Grapes :: Mtsvane
@@ -21,19 +21,19 @@ VA attack, the only option is to surrender. My first though was about La Sorga, 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
-    <section class="h text-small text-lighter">Pheasant's Tears</section>
-    <section class="h text-bolder">Poliphonia - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
+  <a class="flex-item flex-item-left" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Rkatsiteli - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
+  <a class="flex-item flex-item-right" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Rkatsiteli - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Poliphonia - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">

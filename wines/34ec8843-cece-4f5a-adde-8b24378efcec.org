@@ -2,7 +2,7 @@
 [[file:/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Clos du Tue-Boeuf
+- Producer :: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
 - Vintage :: 2020
 - Location :: France, Vin de Table (France)
 - Grapes :: Sauvignon Blanc
@@ -10,6 +10,10 @@
 - Sugar :: 2.04
 - Price :: 581 UAH, 570 UAH
 - Cellar :: N/A
+
+** Producer
+
+Run by Jean-Marie and Thierry Puzelat.
 
 ** Ratings
 
@@ -26,14 +30,14 @@ This is the third vintage that I taste and I consistently enjoy this wine. It ch
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
-    <section class="h text-bolder">Le Petit Buisson - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+  <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
 </div>

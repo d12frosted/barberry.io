@@ -1,0 +1,8 @@
+Producer from Bourgogne.
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                              name | vintage |     grapes |        region | rating |
+|-------------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/61c7931d-0fce-40c1-9569-934fe0059dc1][Bourgogne Pinot Noir]] |    2019 | Pinot Noir | Bourgogne AOC |      - |

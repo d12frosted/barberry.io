@@ -1,5 +1,5 @@
 - Type :: Red Still, Dry
-- Producer :: Storm
+- Producer :: [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]
 - Vintage :: 2017
 - Location :: South Africa, WO Hemel-en-Aarde Valley
 - Grapes :: Pinot Noir
@@ -40,14 +40,14 @@ huge potential.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
-    <section class="h text-small text-lighter">Storm</section>
-    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+  <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
 </div>

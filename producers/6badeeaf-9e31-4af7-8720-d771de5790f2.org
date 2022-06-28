@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                 name | vintage |     grapes |        region | rating |
+|----------------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/9e880b48-e667-429f-a5d8-222f6190cb3a][Bourgogne Les Perrières]] |    2017 | Pinot Noir | Bourgogne AOC |   8.00 |

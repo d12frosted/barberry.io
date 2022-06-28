@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                        name | vintage |     grapes |        region | rating |
+|-----------------------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/52d2c074-e418-43d0-9d99-d0dbeb1e0562][La Vignée Bourgogne Chardonnay]] |    2019 | Chardonnay | Bourgogne AOC |   7.00 |

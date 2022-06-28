@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |     grapes |        region | rating |
+|--------------------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/ea15e397-8149-405d-992d-63878cb0cebf][Les Grands Blancs Grand Cru]] |      NV | Chardonnay | Champagne AOC |   8.00 |

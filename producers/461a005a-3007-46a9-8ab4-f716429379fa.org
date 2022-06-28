@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                                    name | vintage |       grapes |                region | rating |
+|-----------------------------------------------------------------------------------------+---------+--------------+-----------------------+--------|
+|            [[barberry:/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559][Montlouis Sur Loire Clos Michet]] |    2017 | Chenin Blanc |         Montlouis AOC |   8.00 |
+| [[barberry:/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0][Montlouis sur Loire Clos de Mosny Monopole]] |    2015 | Chenin Blanc |         Montlouis AOC |   8.50 |
+|     [[barberry:/wines/83d90838-5e63-43af-abc5-f5fb482bc36f][Bretonniere Cuvée Parcellaire Monopole]] |    2017 | Chenin Blanc | Vin de Table (France) |   8.50 |

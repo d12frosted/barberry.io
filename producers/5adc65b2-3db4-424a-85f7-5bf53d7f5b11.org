@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                       name | vintage |     grapes |      region | rating |
+|----------------------------------------------------------------------------+---------+------------+-------------+--------|
+| [[barberry:/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4][Origin Pinot Noir Marlborough]] |    2019 | Pinot Noir | Marlborough |   7.50 |

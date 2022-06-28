@@ -2,7 +2,7 @@
 [[file:/images/fa/32e9d0-b448-4094-9c58-3a371d9dfe33/2021-09-07-11-24-22-5CFCE1EF-DB19-4940-A6C3-B45320280A75-1-105-c.webp]]
 
 - Type :: White Sparkling, Extra brut
-- Producer :: Ulysse Collin
+- Producer :: [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]]
 - Vintage :: NV
 - Location :: France, Champagne AOC
 - Grapes :: Chardonnay
@@ -13,11 +13,36 @@
 
 45-year-old Chardonnay have eastern exposure and are planted on clay and silex topsoils over limestone. The fruit is hand-harvested, the clusters destemmed and the grapes gently pressed; the juice is fermented spontaneously and slowly (up to six months) with natural yeasts in mainly-used Burgundy barrels. Reserve wines are held in foudres and tonneaux. The wine is bottled without fining or filtering and aged for 48 months.
 
+** Producer
+
+Ulysse Collin is a legendary Champagne producer based in Congy. Owned by the family that actively growth vines since 1812 in Coteaux du Petit Morin (located in Marne but south of the Grand Crus in the Côte des Blancs). These days Olivier stands behind the name.
+
+In 1987 Oliver's father stopped independent production of wines and started renting family's vines to big Champagne houses. As young student, Oliver took a trip to Burgundy, where he was amazed by wines from Côte de Beaune, especially by singularity of the various climats. So he decided to reclaim vieyards back from big négociant.
+
+In 2003 recovered 4.5 hectares and started working on restoring the soils and vines. The year was tough, so he didn't produce any wine that year and simply sold everything. But in 2004 he started his production from Chardonnay which resulted in 5400 bottles released in the future.
+
+In 2005 Olivier got back an additional 4.2 hectares of vines. And the second Champagne was made in 2006, this time a Blanc de Noirs.
+
+Plots:
+
+- Les Pierrières, 1.2 hectares, 40 years old vines. Shallow, poor topsoil 10 to cm deep over the rocky subsoil of soft chalk with carbonated silex or Onyx.
+- Les Maillons, 2 hectares, near the town of Sézanne in the coteaux du Sézannais. Clays rich in iron.
+- Les Enfers.
+
+So far produces 6 distinct wines (each one from a singe vineyard):
+
+- Blanc de Blancs Les Pierrières (first vintage is 2004)
+- Blanc de Blancs Les Roises (first vintage is 2008)
+- Blanc de Blancs Les Enfers (first vintage is 2010)
+- Blanc de Noirs Les Maillons (first vintage is 2006)
+- Rose Les Maillons (first vintage is 2011)
+- Jardin d’Ulysse (first vintage is 015)
+
 ** Ratings
 
 *** 2021-09-06 - ☆ 10.00
 
-Tasted as a part of Ulysse Collin dinner in 101 Bar.
+Tasted as a part of [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]] dinner in 101 Bar.
 
 Based on 2014, it spent 60 months on lees. The most friendly and quaffable wine of the evening, in a very good sense. Multilayered bouquet: you have salty cheese, cream soda, toast, apple seeds and pear. Everything is well combined and creates wonderful volume. Complex, perfectly balanced, evolving, elegant and delicious. Again, it is subjectively, but I loved this wine.
 
@@ -25,9 +50,9 @@ Based on 2014, it spent 60 months on lees. The most friendly and quaffable wine 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
+  <a class="flex-item flex-item-left" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
     <section class="h text-small text-lighter">Ulysse Collin</section>
-    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/50353325-007d-429d-b70b-f9d40206fe8d.html">
@@ -40,9 +65,9 @@ Based on 2014, it spent 60 months on lees. The most friendly and quaffable wine 
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2016) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
+  <a class="flex-item flex-item-right" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
     <section class="h text-small text-lighter">Ulysse Collin</section>
-    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
   </a>
 
 </div>

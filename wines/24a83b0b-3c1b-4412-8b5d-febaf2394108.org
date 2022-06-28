@@ -2,7 +2,7 @@
 [[file:/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Weinert
+- Producer :: [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]
 - Vintage :: 2009
 - Location :: Argentina, Mendoza
 - Grapes :: Cabernet Sauvignon, Malbec, Merlot
@@ -31,24 +31,24 @@ Great value.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
-    <section class="h text-small text-lighter">Weinert</section>
-    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+  <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Merlot - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+  <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
     <section class="h text-small text-lighter">Weinert</section>
-    <section class="h text-bolder">Montfleury - 2020</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+  <a class="flex-item flex-item-left" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
 </div>

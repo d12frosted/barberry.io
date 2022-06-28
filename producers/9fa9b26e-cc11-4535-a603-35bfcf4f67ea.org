@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                      name | vintage |       grapes |            region | rating |
+|-----------------------------------------------------------+---------+--------------+-------------------+--------|
+| [[barberry:/wines/52d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b][Pinot Grigio]] |    2020 | Pinot Grigio | Delle Venezie DOC |   6.50 |

@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                   name | vintage |                              grapes |                  region | rating |
+|------------------------------------------------------------------------+---------+-------------------------------------+-------------------------+--------|
+| [[barberry:/wines/128c692e-8948-454f-bd6a-c03b1f29880d][Hauswein Grüner Veltliner]] |    2021 |                    Grüner Veltliner | Landwein aus Österreich |      - |
+|                 [[barberry:/wines/9e046e12-6366-4d23-8657-ee421ad00794][Brut Rosé]] |      NV | Pinot Noir, Saint-Laurent, Zweigelt |        Niederösterreich |   8.00 |
+|                  [[barberry:/wines/cdd63749-d893-457a-b852-06a407e52c84][Zweigelt]] |    2015 |                            Zweigelt |                 Kamptal |   7.50 |

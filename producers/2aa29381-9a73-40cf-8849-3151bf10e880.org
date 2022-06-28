@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                            name | vintage |     grapes |        region | rating |
+|-----------------------------------------------------------------+---------+------------+---------------+--------|
+| [[barberry:/wines/0d10ef94-c415-4d5d-92d8-635503f5460b][Echezaux Grand Cru]] |    2008 | Pinot Noir | Échezeaux AOC |   9.00 |

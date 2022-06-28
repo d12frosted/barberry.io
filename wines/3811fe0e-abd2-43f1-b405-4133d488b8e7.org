@@ -2,7 +2,7 @@
 [[file:/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp]]
 
 - Type :: White Sparkling, Extra brut
-- Producer :: Marco de Bartoli
+- Producer :: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco de Bartoli]]
 - Vintage :: 2018
 - Location :: Italy, Sicilia DOC
 - Grapes :: Grillo
@@ -23,14 +23,24 @@ Excellent Sicilian metodo Classico. All the good stuff mixed in one bottle - bub
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+  <a class="flex-item flex-item-left" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Lucido - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Lucido - 2019</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Rosso di Marco - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
@@ -38,14 +48,14 @@ Excellent Sicilian metodo Classico. All the good stuff mixed in one bottle - bub
     <section class="h text-bolder">Zibibbo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+  <a class="flex-item flex-item-right" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Pietra Nera - 2018</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Rosso di Marco - 2017</section>
+    <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">
@@ -53,19 +63,9 @@ Excellent Sicilian metodo Classico. All the good stuff mixed in one bottle - bub
     <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
-    <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Grappoli del Grillo - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
-    <section class="h text-small text-lighter">Marco de Bartoli</section>
-    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
 </div>

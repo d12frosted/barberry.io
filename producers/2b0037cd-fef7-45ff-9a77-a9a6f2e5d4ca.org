@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |                                grapes |        region | rating |
+|--------------------------------------------------------------------------+---------+---------------------------------------+---------------+--------|
+|  [[barberry:/wines/3d289f72-4a84-4d3e-9598-4865b952b023][Cuvée 744 Grand Vin (2016)]] |      NV | Pinot Meunier, Chardonnay, Pinot Noir | Champagne AOC |   8.50 |
+| [[barberry:/wines/7361e3ae-a0a0-494d-a027-63acd9abdded][Cuvée 742 Extra Brut (2014)]] |      NV | Pinot Noir, Pinot Meunier, Chardonnay | Champagne AOC |  10.00 |
+|         [[barberry:/wines/e6963fbd-e081-4322-9113-81f73d7110fe][Cuvee 743 Grand Vin]] |      NV | Chardonnay, Pinot Noir, Pinot Meunier | Champagne AOC |   8.58 |

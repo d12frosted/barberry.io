@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                         name | vintage |     grapes |              region | rating |
+|--------------------------------------------------------------+---------+------------+---------------------+--------|
+| [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Crémant du Jura]] |      NV | Chardonnay | Crémant du Jura AOC |   7.20 |

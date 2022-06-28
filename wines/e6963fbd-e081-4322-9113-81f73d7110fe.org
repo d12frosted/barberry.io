@@ -2,7 +2,7 @@
 [[file:/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c.webp]]
 
 - Type :: White Sparkling, Extra brut
-- Producer :: Jacquesson
+- Producer :: [[barberry:/producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca][Jacquesson]]
 - Vintage :: NV
 - Location :: France, Champagne AOC
 - Grapes :: Chardonnay, Pinot Noir, Pinot Meunier
@@ -29,14 +29,14 @@ I've been tasting this wine periodically and now it become gorgeous. Oxidative s
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
-    <section class="h text-small text-lighter">Jacquesson</section>
-    <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+  <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
   </a>
 
 </div>

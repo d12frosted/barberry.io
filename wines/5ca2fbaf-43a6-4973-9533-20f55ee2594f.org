@@ -2,7 +2,7 @@
 [[file:/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp]]
 
 - Type :: Red Still, Dry
-- Producer :: Storm
+- Producer :: [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]
 - Vintage :: 2017
 - Location :: South Africa, WO Hemel-en-Aarde Valley
 - Grapes :: Pinot Noir
@@ -49,14 +49,14 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
-    <section class="h text-small text-lighter">Storm</section>
-    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+  <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
 </div>

@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                    name | vintage |                 grapes |        region | rating |
+|---------------------------------------------------------+---------+------------------------+---------------+--------|
+| [[barberry:/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5][L'Atavique]] |      NV | Pinot Noir, Chardonnay | Champagne AOC |   8.32 |

@@ -1,0 +1,9 @@
+Descendant of wine makers, Francois Montand was raised in Champagne. But during WWII he moved to Jura, where he settled and started to produce sparkling wines in traditional method, but with no classification.
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                          name | vintage |             grapes |                region | rating |
+|-------------------------------------------------------------------------------+---------+--------------------+-----------------------+--------|
+|             [[barberry:/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4][Brut Blanc de Blancs]] |      NV |         Chardonnay | Vin de Table (France) |      - |
+| [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Méthode Traditionnelle Brut Rosé]] |      NV | Grenache, Cinsault | Vin de Table (France) |   7.22 |

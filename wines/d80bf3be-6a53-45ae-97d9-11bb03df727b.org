@@ -2,7 +2,7 @@
 [[file:/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp]]
 
 - Type :: White Still, Dry
-- Producer :: Viña Tondonia
+- Producer :: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][Viña Tondonia]]
 - Vintage :: 2013
 - Location :: Spain, Rioja DOC
 - Grapes :: Macabeo
@@ -30,14 +30,14 @@ P. S. It's funny that I have a photo of this wine from my last tasting, but no t
     <section class="h text-bolder">Blanco Reserva - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
-    <section class="h text-small text-lighter">Viña Tondonia</section>
-    <section class="h text-bolder">Blanco Reserva - 2008</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2008</section>
   </a>
 
 </div>

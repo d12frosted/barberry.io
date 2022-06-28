@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                                  name | vintage |     grapes |                region | rating |
+|---------------------------------------------------------------------------------------+---------+------------+-----------------------+--------|
+| [[barberry:/wines/b951da6c-6a38-4355-ab9f-6abe92b2d0b1][Morey Saint Denis 1er Cru les Blanchards]] |    2009 | Pinot Noir | Morey-Saint-Denis AOC |      - |
