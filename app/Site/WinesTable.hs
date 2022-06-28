@@ -51,6 +51,7 @@ convert = walk go . embedImport
             ("data-search", "true") :
             ("data-show-columns", "true") :
             ("data-pagination", "false") :
+            ("data-search-accent-neutralise", "true") :
             kvs
       _ -> b
 
