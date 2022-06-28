@@ -72,7 +72,8 @@
   :dependencies (lambda (note)
                   (-concat
                    (list (vulpea-note-meta-get note "producer" 'note))
-                   (vulpea-note-meta-get-list note "ratings" 'note)))
+                   (vulpea-note-meta-get-list note "ratings" 'note)
+                   (vulpea-db-query-by-ids (brb-related-wines note))))
   :target (lambda (note)
             (expand-file-name
              (concat "wines/" (vulpea-note-id note) ".org")))
@@ -237,7 +238,7 @@ Access to full INPUT for related wines."
            (prices (vulpea-note-meta-get-list note "price"))
            (available (vulpea-note-meta-get note "available" 'number))
            (ratings (vulpea-note-meta-get-list note "ratings" 'note))
-           (related (brb-related-wines note input))
+           (related (brb-related-wines-from note input))
            (images (vulpea-note-meta-get-list note "images")))
       (insert
        (if images
@@ -571,10 +572,10 @@ Hopefully CACHE is useful."
 
 
 
-(defun brb-related-wines (note input)
-  "List wines related to wine NOTE that are part of INPUT.
+(defun brb-related-wines (note)
+  "List wines related to wine NOTE.
 
-Return pieces of input as a list."
+Return list of ids."
   (--> note
        (vulpea-note-meta-get it "producer" 'note)
        (vulpea-note-id it)
@@ -584,9 +585,15 @@ Return pieces of input as a list."
          :where (= producer $s1)]
         it)
        (-map #'car it)
-       (--remove (string-equal it (vulpea-note-id note)) it)
-       (--map (gethash it input) it)
-       (-filter #'identity it)))
+       (--remove (string-equal it (vulpea-note-id note)) it)))
+
+(defun brb-related-wines-from (note input)
+  "List wines related to wine NOTE that are part of INPUT.
+
+Return pieces of input as a list."
+  (->> (brb-related-wines note)
+       (--map (gethash it input))
+       (-filter #'identity)))
 
 
 
