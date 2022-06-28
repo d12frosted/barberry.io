@@ -81,7 +81,7 @@
     (let ((note (plist-get piece :note))
           (target (plist-get piece :target)))
       ;; 1. copy file
-      (porg-copy-note note target :copy-fn #'brb-copy-wine)
+      (porg-copy-note note target :copy-fn (-partial #'brb-copy-wine input))
 
       ;; 2. copy images
       (brb-copy-images piece cache)
@@ -217,8 +217,10 @@
 
 
 
-(cl-defun brb-copy-wine (note path)
-  "Copy wine NOTE to PATH."
+(cl-defun brb-copy-wine (input note path)
+  "Copy wine NOTE to PATH.
+
+Access to full INPUT for related wines."
   (with-current-buffer (find-file-noselect path)
     (delete-region (point-min) (point-max))
     (let* ((colour (vulpea-note-meta-get note "colour"))
@@ -235,6 +237,7 @@
            (prices (vulpea-note-meta-get-list note "price"))
            (available (vulpea-note-meta-get note "available" 'number))
            (ratings (vulpea-note-meta-get-list note "ratings" 'note))
+           (related (brb-related-wines note input))
            (images (vulpea-note-meta-get-list note "images")))
       (insert
        (if images
@@ -320,7 +323,34 @@
                      (point-max))))
                 "\n")))
            ratings)
-        (insert "There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!"))
+        (insert "There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!\n\n"))
+
+      (message "found %s related wines" (seq-length related))
+      (message "%s" (car related))
+      (when related
+        (insert "* Related\n\n")
+        (insert
+         "#+begin_export html\n"
+         "<div class=\"flex-container\">\n")
+        (--each-indexed related
+          (unless (plist-get it :note)
+            (user-error "Could not get related note of '%s'" (vulpea-note-title note)))
+          (let* ((note (plist-get it :note))
+                 (id (vulpea-note-id note))
+                 (producer (vulpea-note-meta-get note "producer" 'note))
+                 (name (vulpea-note-meta-get note "name"))
+                 (vintage (or (vulpea-note-meta-get note "vintage") "NV"))
+                 (pos (if (= (mod it-index 2) 0)
+                          "flex-item-left"
+                        "flex-item-right")))
+            (insert
+             "  <a class=\"flex-item " pos "\" href=\"/wines/" id ".html\">\n"
+             "    <section class=\"h text-small text-lighter\">" (vulpea-note-title producer) "</section>\n"
+             "    <section class=\"h text-bolder\">" name " - " vintage "</section>\n"
+             "  </a>\n\n")))
+        (insert
+         "</div>\n"
+         "#+end_export\n"))
 
       (goto-char (point-min))
       (while (re-search-forward "\\(\\*\\{1,\\}\\)" nil 'noerror)
@@ -538,6 +568,25 @@ Hopefully CACHE is useful."
   (if (string-match string-uuid-regexp uuid)
       (concat (s-left 2 uuid) "/" (s-chop-prefix (s-left 2 uuid) uuid))
     uuid))
+
+
+
+(defun brb-related-wines (note input)
+  "List wines related to wine NOTE that are part of INPUT.
+
+Return pieces of input as a list."
+  (--> note
+       (vulpea-note-meta-get it "producer" 'note)
+       (vulpea-note-id it)
+       (vino-db-query
+        [:select [id]
+         :from cellar
+         :where (= producer $s1)]
+        it)
+       (-map #'car it)
+       (--remove (string-equal it (vulpea-note-id note)) it)
+       (--map (gethash it input) it)
+       (-filter #'identity it)))
 
 
 
