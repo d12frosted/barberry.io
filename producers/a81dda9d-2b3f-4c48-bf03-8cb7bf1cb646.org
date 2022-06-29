@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                              name | vintage |     grapes |                   region | rating |
-|-------------------------------------------------------------------+---------+------------+--------------------------+--------|
-| [[barberry:/wines/27414711-c577-42e5-99ad-ad4de875534f][Romanée-Saint-Vivant]] |    2017 | Pinot Noir | Romanée-Saint-Vivant AOC |  10.00 |
+|                                                              name | vintage |     grapes |                   region |  rate |
+|-------------------------------------------------------------------+---------+------------+--------------------------+-------|
+| [[barberry:/wines/27414711-c577-42e5-99ad-ad4de875534f][Romanée-Saint-Vivant]] |    2017 | Pinot Noir | Romanée-Saint-Vivant AOC | 10.00 |

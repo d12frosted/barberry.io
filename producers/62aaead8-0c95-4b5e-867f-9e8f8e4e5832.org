@@ -2,8 +2,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                             name | vintage |                                           grapes |                  region | rating |
-|------------------------------------------------------------------+---------+--------------------------------------------------+-------------------------+--------|
-|  [[barberry:/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0][Choltempo Fiorello]] |      NV | Sangiovese, Tannat, Arinarnoa, Marcelan, Lagrein |             IGP Toscano |   8.75 |
-| [[barberry:/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c][Rosso di Montalcino]] |    2014 |                                       Sangiovese | Rosso di Montalcino DOC |   9.00 |
-| [[barberry:/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9][Rosso di Montalcino]] |    2016 |                                       Sangiovese | Rosso di Montalcino DOC |      - |
+|                                                             name | vintage |                                           grapes |                  region | rate |
+|------------------------------------------------------------------+---------+--------------------------------------------------+-------------------------+------|
+|  [[barberry:/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0][Choltempo Fiorello]] |      NV | Sangiovese, Tannat, Arinarnoa, Marcelan, Lagrein |             IGP Toscano | 8.75 |
+| [[barberry:/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c][Rosso di Montalcino]] |    2014 |                                       Sangiovese | Rosso di Montalcino DOC | 9.00 |
+| [[barberry:/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9][Rosso di Montalcino]] |    2016 |                                       Sangiovese | Rosso di Montalcino DOC |    - |

@@ -13,7 +13,7 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                          name | vintage |          grapes | region | rating |
-|---------------------------------------------------------------+---------+-----------------+--------+--------|
-|           [[barberry:/wines/55d3286d-d7ce-4659-abca-b0bee73944a9][Octave]] |    2018 | Muscat de Samos |  Oinos |   8.00 |
-| [[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Palli et Genesia]] |    2018 | Muscat de Samos |  Oinos |      - |
+|                                                          name | vintage |          grapes | region | rate |
+|---------------------------------------------------------------+---------+-----------------+--------+------|
+|           [[barberry:/wines/55d3286d-d7ce-4659-abca-b0bee73944a9][Octave]] |    2018 | Muscat de Samos |  Oinos | 8.00 |
+| [[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Palli et Genesia]] |    2018 | Muscat de Samos |  Oinos |    - |

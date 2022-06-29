@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                    name | vintage |          grapes |      region | rating |
-|-------------------------------------------------------------------------+---------+-----------------+-------------+--------|
-| [[barberry:/wines/3f72d155-544c-4bae-af24-d9a0f4f3f09a][Petit Clos Sauvignon Blanc]] |    2020 | Sauvignon Blanc | Marlborough |      - |
+|                                                                    name | vintage |          grapes |      region | rate |
+|-------------------------------------------------------------------------+---------+-----------------+-------------+------|
+| [[barberry:/wines/3f72d155-544c-4bae-af24-d9a0f4f3f09a][Petit Clos Sauvignon Blanc]] |    2020 | Sauvignon Blanc | Marlborough |    - |

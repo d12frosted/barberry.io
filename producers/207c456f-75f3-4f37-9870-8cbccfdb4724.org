@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                         name | vintage |                                   grapes |       region | rating |
-|--------------------------------------------------------------+---------+------------------------------------------+--------------+--------|
-| [[barberry:/wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023][Chianti Riserva]] |    2016 | Sangiovese, Canaiolo, Cabernet Sauvignon | Chianti DOCG |   6.50 |
+|                                                         name | vintage |                                   grapes |       region | rate |
+|--------------------------------------------------------------+---------+------------------------------------------+--------------+------|
+| [[barberry:/wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023][Chianti Riserva]] |    2016 | Sangiovese, Canaiolo, Cabernet Sauvignon | Chianti DOCG | 6.50 |

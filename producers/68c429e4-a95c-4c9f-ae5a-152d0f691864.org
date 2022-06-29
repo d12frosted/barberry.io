@@ -5,6 +5,6 @@ Their most famous wines are from Lafoa. Cabernet Sauvignon Lafoa 2017 is conside
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                   name | vintage |  grapes |         region | rating |
-|------------------------------------------------------------------------+---------+---------+----------------+--------|
-| [[barberry:/wines/7287f76a-ac95-4832-aedc-a5b0bb26aa17][Lagrein Rosе Classic Line]] |    2020 | Lagrein | Alto Adige DOC |      - |
+|                                                                   name | vintage |  grapes |         region | rate |
+|------------------------------------------------------------------------+---------+---------+----------------+------|
+| [[barberry:/wines/7287f76a-ac95-4832-aedc-a5b0bb26aa17][Lagrein Rosе Classic Line]] |    2020 | Lagrein | Alto Adige DOC |    - |

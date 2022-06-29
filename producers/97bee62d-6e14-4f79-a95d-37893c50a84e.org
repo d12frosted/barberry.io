@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                     name | vintage |     grapes |    region | rating |
-|--------------------------------------------------------------------------+---------+------------+-----------+--------|
-| [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Premier Cru Blanc de Blancs]] |      NV | Chardonnay | Champagne |   8.00 |
+|                                                                     name | vintage |     grapes |    region | rate |
+|--------------------------------------------------------------------------+---------+------------+-----------+------|
+| [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Premier Cru Blanc de Blancs]] |      NV | Chardonnay | Champagne | 8.00 |

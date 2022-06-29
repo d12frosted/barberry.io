@@ -3,7 +3,7 @@ Janko Štekar owns 5 ha of vineyards in Goriška Brda that are located on steep 
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                      name | vintage |         grapes |       region | rating |
-|-----------------------------------------------------------+---------+----------------+--------------+--------|
-|       [[barberry:/wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d][Jankot]] |    2018 | Tocai Friulano | Namizno Vino |   8.00 |
-| [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Rebula Prilo]] |    2015 | Ribolla Gialla | Namizno Vino |   8.00 |
+|                                                      name | vintage |         grapes |       region | rate |
+|-----------------------------------------------------------+---------+----------------+--------------+------|
+|       [[barberry:/wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d][Jankot]] |    2018 | Tocai Friulano | Namizno Vino | 8.00 |
+| [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Rebula Prilo]] |    2015 | Ribolla Gialla | Namizno Vino | 8.00 |

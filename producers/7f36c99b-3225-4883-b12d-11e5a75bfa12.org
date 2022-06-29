@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                name | vintage |       grapes |          region | rating |
-|---------------------------------------------------------------------+---------+--------------+-----------------+--------|
-| [[barberry:/wines/2a419f13-955d-4675-9ca1-a5800b73cd50][Signature Chenin Blanc]] |    2021 | Chenin Blanc | WO Western Cape |   7.40 |
+|                                                                name | vintage |       grapes |          region | rate |
+|---------------------------------------------------------------------+---------+--------------+-----------------+------|
+| [[barberry:/wines/2a419f13-955d-4675-9ca1-a5800b73cd50][Signature Chenin Blanc]] |    2021 | Chenin Blanc | WO Western Cape | 7.40 |

@@ -7,6 +7,6 @@ Proponent of biotic philosophy, e.g. [[https://en.wikipedia.org/wiki/Biotic_ethi
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                         name | vintage |      grapes |    region | rating |
-|--------------------------------------------------------------+---------+-------------+-----------+--------|
-| [[barberry:/wines/4252a292-214e-4ee9-a997-3789f8abc431][Lanthano Bianco]] |    2013 | Field Blend | Vino (IT) |   8.50 |
+|                                                         name | vintage |      grapes |    region | rate |
+|--------------------------------------------------------------+---------+-------------+-----------+------|
+| [[barberry:/wines/4252a292-214e-4ee9-a997-3789f8abc431][Lanthano Bianco]] |    2013 | Field Blend | Vino (IT) | 8.50 |

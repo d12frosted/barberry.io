@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                             name | vintage |                      grapes |                   region | rating |
-|------------------------------------------------------------------+---------+-----------------------------+--------------------------+--------|
-| [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Héritage Kosmos 888]] |    2019 | Grenache, Syrah, Monastrell | Coteaux du Languedoc AOC |   7.60 |
+|                                                             name | vintage |                      grapes |                   region | rate |
+|------------------------------------------------------------------+---------+-----------------------------+--------------------------+------|
+| [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Héritage Kosmos 888]] |    2019 | Grenache, Syrah, Monastrell | Coteaux du Languedoc AOC | 7.60 |

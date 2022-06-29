@@ -3,6 +3,6 @@ Many Haro bodegas were created by people fleeing from the ravages of phyloxera. 
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                        name | vintage |                                grapes |    region | rating |
-|-------------------------------------------------------------+---------+---------------------------------------+-----------+--------|
-| [[barberry:/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc][Viura Malvasia]] |    2017 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC |   7.50 |
+|                                                        name | vintage |                                grapes |    region | rate |
+|-------------------------------------------------------------+---------+---------------------------------------+-----------+------|
+| [[barberry:/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc][Viura Malvasia]] |    2017 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC | 7.50 |

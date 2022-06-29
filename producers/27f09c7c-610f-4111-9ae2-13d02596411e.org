@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                                        name | vintage |                       grapes | region | rating |
-|---------------------------------------------------------------------------------------------+---------+------------------------------+--------+--------|
-| [[barberry:/wines/52fe7333-bad2-4d23-b733-a3520704b5d2][Reserva de la Familia Gran Reserva Brut Nature]] |    2017 | Macabeo, Xarel-lo, Parellada |   Cava |   7.50 |
+|                                                                                        name | vintage |                       grapes | region | rate |
+|---------------------------------------------------------------------------------------------+---------+------------------------------+--------+------|
+| [[barberry:/wines/52fe7333-bad2-4d23-b733-a3520704b5d2][Reserva de la Familia Gran Reserva Brut Nature]] |    2017 | Macabeo, Xarel-lo, Parellada |   Cava | 7.50 |

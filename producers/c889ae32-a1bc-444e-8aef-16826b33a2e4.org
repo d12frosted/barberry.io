@@ -3,6 +3,6 @@ Egly-Ouriet produces Champagne primarily from Grand Cru village of Ambonnay loca
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                name | vintage |                 grapes |        region | rating |
-|---------------------------------------------------------------------+---------+------------------------+---------------+--------|
-| [[barberry:/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e][Brut Grand Cru (d2020)]] |      NV | Chardonnay, Pinot Noir | Champagne AOC |      - |
+|                                                                name | vintage |                 grapes |        region | rate |
+|---------------------------------------------------------------------+---------+------------------------+---------------+------|
+| [[barberry:/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e][Brut Grand Cru (d2020)]] |      NV | Chardonnay, Pinot Noir | Champagne AOC |    - |

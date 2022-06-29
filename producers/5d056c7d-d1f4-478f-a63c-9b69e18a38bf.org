@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                name | vintage |  grapes |    region | rating |
-|---------------------------------------------------------------------+---------+---------+-----------+--------|
-| [[barberry:/wines/4a169cba-26aa-4d74-a03a-07a7bea905db][Betsek Korposd Furmint]] |    2011 | Furmint | Tokaj OEM |   8.00 |
+|                                                                name | vintage |  grapes |    region | rate |
+|---------------------------------------------------------------------+---------+---------+-----------+------|
+| [[barberry:/wines/4a169cba-26aa-4d74-a03a-07a7bea905db][Betsek Korposd Furmint]] |    2011 | Furmint | Tokaj OEM | 8.00 |

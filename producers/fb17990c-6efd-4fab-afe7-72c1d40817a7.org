@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                             name | vintage |       grapes |    region | rating |
-|------------------------------------------------------------------+---------+--------------+-----------+--------|
-| [[barberry:/wines/b23f15d6-d997-4d38-bd77-bc40959699de][Le Cornillard Anjou]] |    2014 | Chenin Blanc | Anjou AOC |   8.50 |
+|                                                             name | vintage |       grapes |    region | rate |
+|------------------------------------------------------------------+---------+--------------+-----------+------|
+| [[barberry:/wines/b23f15d6-d997-4d38-bd77-bc40959699de][Le Cornillard Anjou]] |    2014 | Chenin Blanc | Anjou AOC | 8.50 |

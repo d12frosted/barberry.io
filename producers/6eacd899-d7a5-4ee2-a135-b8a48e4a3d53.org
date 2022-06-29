@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                              name | vintage |     grapes |          region | rating |
-|-------------------------------------------------------------------+---------+------------+-----------------+--------|
-| [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Peter Max Pinot Noir]] |    2018 | Pinot Noir | WO Western Cape |      - |
+|                                                              name | vintage |     grapes |          region | rate |
+|-------------------------------------------------------------------+---------+------------+-----------------+------|
+| [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Peter Max Pinot Noir]] |    2018 | Pinot Noir | WO Western Cape |    - |

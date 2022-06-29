@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                           name | vintage |                       grapes |     region | rating |
-|----------------------------------------------------------------+---------+------------------------------+------------+--------|
-|  [[barberry:/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312][Cava Brut Nature]] |      NV | Xarel-lo, Parellada, Macabeo | Penedès DO |   6.50 |
-| [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Cava Organic Brut]] |      NV |                      Macabeo |       Cava |   7.00 |
+|                                                           name | vintage |                       grapes |     region | rate |
+|----------------------------------------------------------------+---------+------------------------------+------------+------|
+|  [[barberry:/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312][Cava Brut Nature]] |      NV | Xarel-lo, Parellada, Macabeo | Penedès DO | 6.50 |
+| [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Cava Organic Brut]] |      NV |                      Macabeo |       Cava | 7.00 |

@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                               name | vintage |    grapes |      region | rating |
-|--------------------------------------------------------------------+---------+-----------+-------------+--------|
-| [[barberry:/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f][Xinomavro Young Vines]] |    2017 | Xinomavro | Naoussa POP |   7.00 |
-| [[barberry:/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c][Xinomavro Young Vines]] |    2018 | Xinomavro | Naoussa POP |   7.00 |
+|                                                               name | vintage |    grapes |      region | rate |
+|--------------------------------------------------------------------+---------+-----------+-------------+------|
+| [[barberry:/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f][Xinomavro Young Vines]] |    2017 | Xinomavro | Naoussa POP | 7.00 |
+| [[barberry:/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c][Xinomavro Young Vines]] |    2018 | Xinomavro | Naoussa POP | 7.00 |

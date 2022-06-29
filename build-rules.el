@@ -407,7 +407,7 @@ Access to full INPUT for related wines."
           (insert
            "#+attr_html: :class wines-table\n"
            (string-table
-            :header '("name" "vintage" "grapes" "region" "rating")
+            :header '("name" "vintage" "grapes" "region" "rate")
             :header-sep "-"
             :header-sep-start "|-"
             :header-sep-conj "-+-"

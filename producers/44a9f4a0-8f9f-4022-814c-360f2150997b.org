@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                   name | vintage |          grapes |         region | rating |
-|--------------------------------------------------------+---------+-----------------+----------------+--------|
-| [[barberry:/wines/f8700904-7523-4355-b681-9ba9f2aa85c4][Sauvignon]] |      NV | Sauvignon Blanc | IGP Trevenezie |   4.50 |
+|                                                   name | vintage |          grapes |         region | rate |
+|--------------------------------------------------------+---------+-----------------+----------------+------|
+| [[barberry:/wines/f8700904-7523-4355-b681-9ba9f2aa85c4][Sauvignon]] |      NV | Sauvignon Blanc | IGP Trevenezie | 4.50 |

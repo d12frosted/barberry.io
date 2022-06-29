@@ -3,8 +3,8 @@ Fedellos trio consisting of Jesús Olivares, Curro Bareño and ???. Related proj
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                        name | vintage |                                                      grapes |       region | rating |
-|-------------------------------------------------------------+---------+-------------------------------------------------------------+--------------+--------|
-|   [[barberry:/wines/8832401d-3910-4072-a585-e7e4ad97324a][Conasbrancas]] |    2018 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa |   7.50 |
-|   [[barberry:/wines/19ea08b3-6109-4771-a003-46a3be90c659][Conasbrancas]] |    2019 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa |   7.75 |
-| [[barberry:/wines/5599b29d-ec02-4869-8d18-1e2eff71636e][Lomba dos Ares]] |    2017 | Mencía, Mouratón, Alicante Henri Bouschet, Caiño, Trousseau | Vino de Mesa |   7.75 |
+|                                                        name | vintage |                                                      grapes |       region | rate |
+|-------------------------------------------------------------+---------+-------------------------------------------------------------+--------------+------|
+|   [[barberry:/wines/8832401d-3910-4072-a585-e7e4ad97324a][Conasbrancas]] |    2018 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa | 7.50 |
+|   [[barberry:/wines/19ea08b3-6109-4771-a003-46a3be90c659][Conasbrancas]] |    2019 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa | 7.75 |
+| [[barberry:/wines/5599b29d-ec02-4869-8d18-1e2eff71636e][Lomba dos Ares]] |    2017 | Mencía, Mouratón, Alicante Henri Bouschet, Caiño, Trousseau | Vino de Mesa | 7.75 |

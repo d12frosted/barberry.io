@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                     name | vintage |         grapes |                     region | rating |
-|--------------------------------------------------------------------------+---------+----------------+----------------------------+--------|
-| [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Fontanasanta Manzoni Bianco]] |    2019 | Manzoni Bianco | IGP Vigneti delle Dolomiti |   6.50 |
-|                     [[barberry:/wines/d85eeda5-d057-4e25-8314-167d4bf89471][Sgarzon]] |    2018 |      Teroldego | IGP Vigneti delle Dolomiti |   6.75 |
+|                                                                     name | vintage |         grapes |                     region | rate |
+|--------------------------------------------------------------------------+---------+----------------+----------------------------+------|
+| [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Fontanasanta Manzoni Bianco]] |    2019 | Manzoni Bianco | IGP Vigneti delle Dolomiti | 6.50 |
+|                     [[barberry:/wines/d85eeda5-d057-4e25-8314-167d4bf89471][Sgarzon]] |    2018 |      Teroldego | IGP Vigneti delle Dolomiti | 6.75 |

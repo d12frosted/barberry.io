@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                                        name | vintage |     grapes |        region | rating |
-|---------------------------------------------------------------------------------------------+---------+------------+---------------+--------|
-| [[barberry:/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7][Rosé de Macération Champagne Grand Cru 'Bouzy']] |      NV | Pinot Noir | Champagne AOC |   8.00 |
+|                                                                                        name | vintage |     grapes |        region | rate |
+|---------------------------------------------------------------------------------------------+---------+------------+---------------+------|
+| [[barberry:/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7][Rosé de Macération Champagne Grand Cru 'Bouzy']] |      NV | Pinot Noir | Champagne AOC | 8.00 |

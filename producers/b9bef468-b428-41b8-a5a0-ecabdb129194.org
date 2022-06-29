@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                  name | vintage |     grapes |            region | rating |
-|-----------------------------------------------------------------------+---------+------------+-------------------+--------|
-| [[barberry:/wines/b49bc925-ac23-44e8-a60a-8603fc977cac][Chardonnay Les Ammonites]] |    2018 | Chardonnay | Côtes du Jura AOC |      - |
+|                                                                  name | vintage |     grapes |            region | rate |
+|-----------------------------------------------------------------------+---------+------------+-------------------+------|
+| [[barberry:/wines/b49bc925-ac23-44e8-a60a-8603fc977cac][Chardonnay Les Ammonites]] |    2018 | Chardonnay | Côtes du Jura AOC |    - |

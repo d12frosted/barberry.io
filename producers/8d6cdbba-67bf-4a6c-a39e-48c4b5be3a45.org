@@ -2,15 +2,15 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                               name | vintage |     grapes |              region | rating |
-|------------------------------------------------------------------------------------+---------+------------+---------------------+--------|
-|                   [[barberry:/wines/8427fcbb-69fb-47cb-8274-28da2a485073][Grappoli del Grillo]] |    2018 |     Grillo |         Sicilia DOC |   8.50 |
-|                   [[barberry:/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829][Grappoli del Grillo]] |    2019 |     Grillo |         Sicilia DOC |   8.50 |
-|                        [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Integer Grillo]] |    2018 |     Grillo |         Sicilia DOC |      - |
-|                       [[barberry:/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d][Integer Zibibbo]] |    2019 |    Zibibbo | IGP Terre Siciliane |   8.00 |
-|                                [[barberry:/wines/39759de1-c9a6-4f03-83e9-455ec32e6459][Lucido]] |    2019 | Catarratto | IGP Terre Siciliane |   7.50 |
-|                           [[barberry:/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912][Pietra Nera]] |    2018 |    Zibibbo | IGP Terre Siciliane |   8.38 |
-|                        [[barberry:/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9][Rosso di Marco]] |    2017 |  Perricone | IGP Terre Siciliane |   6.80 |
-|                              [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Terzavia]] |    2018 |     Grillo |         Sicilia DOC |   8.00 |
-| [[barberry:/wines/76975d50-7be4-4f3d-b60d-7e01629a1856][Vigna La Miccia Marsala Superiore Oro]] |    2016 |     Grillo |         Marsala DOC |   7.50 |
-|                               [[barberry:/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799][Zibibbo]] |    2017 |    Zibibbo | IGP Terre Siciliane |   8.00 |
+|                                                                               name | vintage |     grapes |              region | rate |
+|------------------------------------------------------------------------------------+---------+------------+---------------------+------|
+|                   [[barberry:/wines/8427fcbb-69fb-47cb-8274-28da2a485073][Grappoli del Grillo]] |    2018 |     Grillo |         Sicilia DOC | 8.50 |
+|                   [[barberry:/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829][Grappoli del Grillo]] |    2019 |     Grillo |         Sicilia DOC | 8.50 |
+|                        [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Integer Grillo]] |    2018 |     Grillo |         Sicilia DOC |    - |
+|                       [[barberry:/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d][Integer Zibibbo]] |    2019 |    Zibibbo | IGP Terre Siciliane | 8.00 |
+|                                [[barberry:/wines/39759de1-c9a6-4f03-83e9-455ec32e6459][Lucido]] |    2019 | Catarratto | IGP Terre Siciliane | 7.50 |
+|                           [[barberry:/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912][Pietra Nera]] |    2018 |    Zibibbo | IGP Terre Siciliane | 8.38 |
+|                        [[barberry:/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9][Rosso di Marco]] |    2017 |  Perricone | IGP Terre Siciliane | 6.80 |
+|                              [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Terzavia]] |    2018 |     Grillo |         Sicilia DOC | 8.00 |
+| [[barberry:/wines/76975d50-7be4-4f3d-b60d-7e01629a1856][Vigna La Miccia Marsala Superiore Oro]] |    2016 |     Grillo |         Marsala DOC | 7.50 |
+|                               [[barberry:/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799][Zibibbo]] |    2017 |    Zibibbo | IGP Terre Siciliane | 8.00 |

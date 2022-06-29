@@ -2,8 +2,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                   name | vintage |       grapes |           region | rating |
-|--------------------------------------------------------+---------+--------------+------------------+--------|
-|  [[barberry:/wines/ce63f4af-0443-440e-b997-3602ebee4d80][Pofadder]] |    2018 |     Cinsault |     WO Swartland |   8.25 |
-|  [[barberry:/wines/42dc355d-a934-4cb0-9592-cf1d474bec57][Pofadder]] |    2020 |     Cinsault |     WO Swartland |   8.50 |
-| [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Skurfberg]] |    2020 | Chenin Blanc | WO Citrusdalberg |   8.50 |
+|                                                   name | vintage |       grapes |           region | rate |
+|--------------------------------------------------------+---------+--------------+------------------+------|
+|  [[barberry:/wines/ce63f4af-0443-440e-b997-3602ebee4d80][Pofadder]] |    2018 |     Cinsault |     WO Swartland | 8.25 |
+|  [[barberry:/wines/42dc355d-a934-4cb0-9592-cf1d474bec57][Pofadder]] |    2020 |     Cinsault |     WO Swartland | 8.50 |
+| [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Skurfberg]] |    2020 | Chenin Blanc | WO Citrusdalberg | 8.50 |

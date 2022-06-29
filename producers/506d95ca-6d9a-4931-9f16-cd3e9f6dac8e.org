@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                    name | vintage |                                           grapes |       region | rating |
-|-------------------------------------------------------------------------+---------+--------------------------------------------------+--------------+--------|
-| [[barberry:/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c][Blanc de Blancs Extra Brut]] |    2018 | Xarel-lo, Macabeo, Parellada, Malvasía de Sitges | Vino de Mesa |   7.75 |
+|                                                                    name | vintage |                                           grapes |       region | rate |
+|-------------------------------------------------------------------------+---------+--------------------------------------------------+--------------+------|
+| [[barberry:/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c][Blanc de Blancs Extra Brut]] |    2018 | Xarel-lo, Macabeo, Parellada, Malvasía de Sitges | Vino de Mesa | 7.75 |

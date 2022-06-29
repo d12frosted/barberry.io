@@ -17,8 +17,8 @@ Interestingly, before Hennes Storm started his own project, he worked as a winem
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                          name | vintage |     grapes |                   region | rating |
-|---------------------------------------------------------------+---------+------------+--------------------------+--------|
-| [[barberry:/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0][Ridge Pinot Noir]] |    2017 | Pinot Noir | WO Hemel-en-Aarde Valley |   8.00 |
-| [[barberry:/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f][Vrede Pinot Noir]] |    2017 | Pinot Noir | WO Hemel-en-Aarde Valley |   8.75 |
-| [[barberry:/wines/b837734a-480c-455b-98e6-25a04b7095ff][Vrede Pinot Noir]] |    2019 | Pinot Noir | WO Hemel-en-Aarde Valley |   8.50 |
+|                                                          name | vintage |     grapes |                   region | rate |
+|---------------------------------------------------------------+---------+------------+--------------------------+------|
+| [[barberry:/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0][Ridge Pinot Noir]] |    2017 | Pinot Noir | WO Hemel-en-Aarde Valley | 8.00 |
+| [[barberry:/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f][Vrede Pinot Noir]] |    2017 | Pinot Noir | WO Hemel-en-Aarde Valley | 8.75 |
+| [[barberry:/wines/b837734a-480c-455b-98e6-25a04b7095ff][Vrede Pinot Noir]] |    2019 | Pinot Noir | WO Hemel-en-Aarde Valley | 8.50 |

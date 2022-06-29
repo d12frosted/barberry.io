@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                 name | vintage |  grapes |    region | rating |
-|------------------------------------------------------+---------+---------+-----------+--------|
-| [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Bandita]] |    2016 | Barbera | Vino (IT) |   8.00 |
-| [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Bandita]] |    2019 | Barbera | Vino (IT) |   7.75 |
+|                                                 name | vintage |  grapes |    region | rate |
+|------------------------------------------------------+---------+---------+-----------+------|
+| [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Bandita]] |    2016 | Barbera | Vino (IT) | 8.00 |
+| [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Bandita]] |    2019 | Barbera | Vino (IT) | 7.75 |

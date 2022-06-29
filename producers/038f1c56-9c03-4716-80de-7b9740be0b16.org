@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                  name | vintage |                       grapes | region | rating |
-|-----------------------------------------------------------------------+---------+------------------------------+--------+--------|
-|        [[barberry:/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6][Cava Clasico Brut]] |      NV | Macabeo, Xarel-lo, Parellada |   Cava |   5.50 |
-| [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Cava Clasico Brut Nature]] |      NV | Macabeo, Xarel-lo, Parellada |   Cava |   7.30 |
+|                                                                  name | vintage |                       grapes | region | rate |
+|-----------------------------------------------------------------------+---------+------------------------------+--------+------|
+|        [[barberry:/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6][Cava Clasico Brut]] |      NV | Macabeo, Xarel-lo, Parellada |   Cava | 5.50 |
+| [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Cava Clasico Brut Nature]] |      NV | Macabeo, Xarel-lo, Parellada |   Cava | 7.30 |

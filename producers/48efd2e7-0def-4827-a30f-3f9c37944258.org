@@ -3,6 +3,6 @@ Domaine with old history dating back to 1507, owning vineyards in Volnay AOC, Me
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                 name | vintage |     grapes |     region | rating |
-|----------------------------------------------------------------------+---------+------------+------------+--------|
-| [[barberry:/wines/4fb6854f-bece-4bc3-b30d-589a80668230][Volnay 1er cru Champans]] |    2010 | Pinot Noir | Volnay AOC |   9.00 |
+|                                                                 name | vintage |     grapes |     region | rate |
+|----------------------------------------------------------------------+---------+------------+------------+------|
+| [[barberry:/wines/4fb6854f-bece-4bc3-b30d-589a80668230][Volnay 1er cru Champans]] |    2010 | Pinot Noir | Volnay AOC | 9.00 |

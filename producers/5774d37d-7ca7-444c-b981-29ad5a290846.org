@@ -5,6 +5,6 @@ Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consi
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                       name | vintage |     grapes |             region | rating |
-|------------------------------------------------------------+---------+------------+--------------------+--------|
-| [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Buntsandstein]] |    2018 | Pinot Noir | Landwein Oberrhein |   7.50 |
+|                                                       name | vintage |     grapes |             region | rate |
+|------------------------------------------------------------+---------+------------+--------------------+------|
+| [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Buntsandstein]] |    2018 | Pinot Noir | Landwein Oberrhein | 7.50 |

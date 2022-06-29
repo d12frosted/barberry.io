@@ -1,8 +1,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                  name | vintage |                       grapes |    region | rating |
-|-----------------------------------------------------------------------+---------+------------------------------+-----------+--------|
-| [[barberry:/wines/e3066d69-912c-4727-ae59-de6327702828][Baw Baw Shire Chardonnay]] |    2019 |                   Chardonnay | Gippsland |   8.00 |
-|                [[barberry:/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4][Bullswamp]] |    2019 |                   Chardonnay | Gippsland |   8.25 |
-|         [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Rain Field Blend]] |    2019 | Cabernet Franc, Pinot Grigio | Gippsland |   8.00 |
+|                                                                  name | vintage |                       grapes |    region | rate |
+|-----------------------------------------------------------------------+---------+------------------------------+-----------+------|
+| [[barberry:/wines/e3066d69-912c-4727-ae59-de6327702828][Baw Baw Shire Chardonnay]] |    2019 |                   Chardonnay | Gippsland | 8.00 |
+|                [[barberry:/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4][Bullswamp]] |    2019 |                   Chardonnay | Gippsland | 8.25 |
+|         [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Rain Field Blend]] |    2019 | Cabernet Franc, Pinot Grigio | Gippsland | 8.00 |

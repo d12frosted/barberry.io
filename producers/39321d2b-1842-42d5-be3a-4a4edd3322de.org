@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                            name | vintage |     grapes |               region | rating |
-|-----------------------------------------------------------------+---------+------------+----------------------+--------|
-| [[barberry:/wines/1158f9e0-3925-40bc-976a-91337cfd8031][Chardonnay Réserve]] |    2019 | Chardonnay | IGP Vin de Pays d'Oc |   5.00 |
+|                                                            name | vintage |     grapes |               region | rate |
+|-----------------------------------------------------------------+---------+------------+----------------------+------|
+| [[barberry:/wines/1158f9e0-3925-40bc-976a-91337cfd8031][Chardonnay Réserve]] |    2019 | Chardonnay | IGP Vin de Pays d'Oc | 5.00 |

@@ -2,7 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                   name | vintage |                        grapes |                   region | rating |
-|------------------------------------------------------------------------+---------+-------------------------------+--------------------------+--------|
-|                   [[barberry:/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4][Chablis]] |    2018 |                    Chardonnay |              Chablis AOC |   7.00 |
-| [[barberry:/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f][Crémant de Bourgogne Brut]] |      NV | Chardonnay, Gamay, Pinot Noir | Crémant de Bourgogne AOC |   7.25 |
+|                                                                   name | vintage |                        grapes |                   region | rate |
+|------------------------------------------------------------------------+---------+-------------------------------+--------------------------+------|
+|                   [[barberry:/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4][Chablis]] |    2018 |                    Chardonnay |              Chablis AOC | 7.00 |
+| [[barberry:/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f][Crémant de Bourgogne Brut]] |      NV | Chardonnay, Gamay, Pinot Noir | Crémant de Bourgogne AOC | 7.25 |

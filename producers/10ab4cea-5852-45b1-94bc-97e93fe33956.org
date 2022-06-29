@@ -1,10 +1,10 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                                   name | vintage |                                       grapes |            region | rating |
-|----------------------------------------------------------------------------------------+---------+----------------------------------------------+-------------------+--------|
-|                                     [[barberry:/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22][Blanc]] |    2020 | Sauvignon Blanc, Welschriesling, Pinot Blanc | Südsteiermark DAC |   7.50 |
-|                             [[barberry:/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955][Blanc Reserve]] |    2017 | Sauvignon Blanc, Welschriesling, Pinot Blanc | Südsteiermark DAC |   7.50 |
-| [[barberry:/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac][Sauvignon Blanc Südsteiermark Spätfüllung]] |    2017 |                              Sauvignon Blanc |     Südsteiermark |   8.50 |
-|                             [[barberry:/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0][Temento Green]] |    2019 |                              Sauvignon Blanc |        Steiermark |   7.00 |
-|                             [[barberry:/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2][Temento Green]] |    2020 |              Sauvignon Blanc, Welschriesling |        Steiermark |   7.00 |
+|                                                                                   name | vintage |                                       grapes |            region | rate |
+|----------------------------------------------------------------------------------------+---------+----------------------------------------------+-------------------+------|
+|                                     [[barberry:/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22][Blanc]] |    2020 | Sauvignon Blanc, Welschriesling, Pinot Blanc | Südsteiermark DAC | 7.50 |
+|                             [[barberry:/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955][Blanc Reserve]] |    2017 | Sauvignon Blanc, Welschriesling, Pinot Blanc | Südsteiermark DAC | 7.50 |
+| [[barberry:/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac][Sauvignon Blanc Südsteiermark Spätfüllung]] |    2017 |                              Sauvignon Blanc |     Südsteiermark | 8.50 |
+|                             [[barberry:/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0][Temento Green]] |    2019 |                              Sauvignon Blanc |        Steiermark | 7.00 |
+|                             [[barberry:/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2][Temento Green]] |    2020 |              Sauvignon Blanc, Welschriesling |        Steiermark | 7.00 |

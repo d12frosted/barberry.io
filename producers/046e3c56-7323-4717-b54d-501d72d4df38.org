@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                       name | vintage | grapes |       region | rating |
-|------------------------------------------------------------+---------+--------+--------------+--------|
-| [[barberry:/wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0][Prosecco Brut]] |      NV |  Glera | Prosecco DOC |   6.50 |
+|                                                       name | vintage | grapes |       region | rate |
+|------------------------------------------------------------+---------+--------+--------------+------|
+| [[barberry:/wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0][Prosecco Brut]] |      NV |  Glera | Prosecco DOC | 6.50 |

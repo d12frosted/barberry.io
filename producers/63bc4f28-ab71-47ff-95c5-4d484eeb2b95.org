@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                             name | vintage |     grapes |    region | rating |
-|------------------------------------------------------------------+---------+------------+-----------+--------|
-| [[barberry:/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0][Klettgau Pinot Noir]] |    2018 | Pinot Noir | Neunkirch |   8.00 |
+|                                                             name | vintage |     grapes |    region | rate |
+|------------------------------------------------------------------+---------+------------+-----------+------|
+| [[barberry:/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0][Klettgau Pinot Noir]] |    2018 | Pinot Noir | Neunkirch | 8.00 |

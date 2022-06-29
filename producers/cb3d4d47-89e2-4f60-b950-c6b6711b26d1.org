@@ -2,8 +2,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                    name | vintage |          grapes |      region | rating |
-|-------------------------------------------------------------------------+---------+-----------------+-------------+--------|
-| [[barberry:/wines/77312847-db16-4aa4-ad60-59576ffa9b6f][Letter Series T Pinot Noir]] |    2019 |      Pinot Noir | Marlborough |   7.20 |
-|                 [[barberry:/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d][Pinot Noir]] |    2016 |      Pinot Noir | Marlborough |   6.50 |
-|            [[barberry:/wines/f163c749-3095-462a-be4c-a809a616f767][Sauvignon Blanc]] |    2018 | Sauvignon Blanc | Marlborough |   7.50 |
+|                                                                    name | vintage |          grapes |      region | rate |
+|-------------------------------------------------------------------------+---------+-----------------+-------------+------|
+| [[barberry:/wines/77312847-db16-4aa4-ad60-59576ffa9b6f][Letter Series T Pinot Noir]] |    2019 |      Pinot Noir | Marlborough | 7.20 |
+|                 [[barberry:/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d][Pinot Noir]] |    2016 |      Pinot Noir | Marlborough | 6.50 |
+|            [[barberry:/wines/f163c749-3095-462a-be4c-a809a616f767][Sauvignon Blanc]] |    2018 | Sauvignon Blanc | Marlborough | 7.50 |

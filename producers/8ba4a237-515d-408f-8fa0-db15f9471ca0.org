@@ -2,6 +2,6 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                   name | vintage |       grapes |       region | rating |
-|------------------------------------------------------------------------+---------+--------------+--------------+--------|
-| [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Metamorphika Chenin Blanc]] |    2017 | Chenin Blanc | Catalunya DO |   6.50 |
+|                                                                   name | vintage |       grapes |       region | rate |
+|------------------------------------------------------------------------+---------+--------------+--------------+------|
+| [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Metamorphika Chenin Blanc]] |    2017 | Chenin Blanc | Catalunya DO | 6.50 |
