@@ -162,6 +162,12 @@
   :clean #'brb-delete)
 
  (porg-batch-rule
+  :name "wines"
+  :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
+  :target "pages/wines.org"
+  :publish #'brb-publish-wines)
+
+ (porg-batch-rule
   :name "reviews"
   :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
   :target "pages/reviews.org"
@@ -410,22 +416,23 @@ Access to full INPUT for related wines."
             :row-end " |"
             :sep " | "
             :data
-            (--map
-             (let* ((note (plist-get it :note))
-                    (roa (or (vulpea-note-meta-get note "region" 'note)
-                             (vulpea-note-meta-get note "appellation" 'note))))
-               (list (org-link-make-string
-                      (concat "id:" (vulpea-note-id note))
-                      (vulpea-note-meta-get note "name"))
-                     (or (vulpea-note-meta-get note "vintage") "NV")
-                     (mapconcat #'vulpea-note-title
-                                (vulpea-note-meta-get-list note "grapes" 'note)
-                                ", ")
-                     (vulpea-note-title roa)
-                     (if (vulpea-note-meta-get note "ratings")
-                         (format "%.2f" (vulpea-note-meta-get note "rating" 'number))
-                       "-")))
-             wines))
+            (->> wines
+                 (--map (plist-get it :note))
+                 (brb-wines-sort)
+                 (--map
+                  (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
+                                  (vulpea-note-meta-get it "appellation" 'note))))
+                    (list (org-link-make-string
+                           (concat "id:" (vulpea-note-id it))
+                           (vulpea-note-meta-get it "name"))
+                          (or (vulpea-note-meta-get it "vintage") "NV")
+                          (mapconcat #'vulpea-note-title
+                                     (vulpea-note-meta-get-list it "grapes" 'note)
+                                     ", ")
+                          (vulpea-note-title roa)
+                          (if (vulpea-note-meta-get it "ratings")
+                              (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
+                            "-"))))))
            "\n")
         (insert "No wines of this producer are present on this site. How did you find this page?"))
 
@@ -475,6 +482,51 @@ Access to full INPUT for related wines."
                        (forward-line 1))
                      (point)))
                  (point-max)))))
+    (save-buffer)))
+
+
+
+(cl-defun brb-publish-wines (notes target input _cache)
+  "Generate wines list from NOTES and write it to TARGET file.
+
+INPUT is input table as returned by `porg-build-input'."
+  (with-current-buffer (find-file-noselect target)
+    (delete-region (point-min) (point-max))
+    (insert
+     "#+attr_html: :class wines-table\n"
+     (string-table
+      :header '("county" "producer" "name" "vintage" "grapes" "rate")
+      :header-sep "-"
+      :header-sep-start "|-"
+      :header-sep-conj "-+-"
+      :header-sep-end "-|"
+      :row-start "| "
+      :row-end " |"
+      :sep " | "
+      :data
+      (->> notes
+           (brb-wines-sort)
+           (--map
+            (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
+                            (vulpea-note-meta-get it "appellation" 'note)))
+                   (country (vulpea-note-meta-get roa "country" 'note))
+                   (producer (vulpea-note-meta-get it "producer" 'note)))
+              (list
+               (vulpea-utils-link-make-string country)
+               (vulpea-utils-link-make-string producer)
+               (org-link-make-string
+                (concat "id:" (vulpea-note-id it))
+                (vulpea-note-meta-get it "name"))
+               (or (vulpea-note-meta-get it "vintage") "NV")
+               (mapconcat #'vulpea-utils-link-make-string
+                          (vulpea-note-meta-get-list it "grapes" 'note)
+                          ", ")
+               (if (vulpea-note-meta-get it "ratings")
+                   (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
+                 "-"))))))
+     "\n")
+    (porg-clean-links-in-buffer
+     :sanitize-id-fn (-partial #'brb-sanitize-id-link input))
     (save-buffer)))
 
 
@@ -647,6 +699,14 @@ Hopefully CACHE is useful."
       (concat (s-left 2 uuid) "/" (s-chop-prefix (s-left 2 uuid) uuid))
     uuid))
 
+
+
+(defun brb-wines-sort (wines)
+  "Sort WINES."
+  (--sort
+   (string-lessp (vulpea-note-title it)
+                 (vulpea-note-title other))
+   wines))
 
 
 (defun brb-wines-by-producer (producer)

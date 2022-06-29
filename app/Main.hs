@@ -7,10 +7,8 @@ module Main (main) where
 
 import Control.Monad (filterM, (<=<))
 import Control.Monad.Error.Class (liftEither)
-import Data.List
 import Data.Maybe (fromMaybe, isJust, listToMaybe)
 import Data.Monoid (Any (..), getAny)
-import Data.Ord
 import Data.Text (Text)
 import qualified Data.Text as T
 import Data.Time (UTCTime, getCurrentTime)
@@ -60,6 +58,10 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile customPandocCompiler
 
+  match "pages/wines.org" $ do
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
+    compile customPandocCompiler
+
   match postsPattern $ do
     route $ setExtension "html"
     compile $
@@ -98,17 +100,13 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
         >>= relativizeUrls
 
-  create ["wines.org"] $ do
-    route $ setExtension "html"
+  create ["wines.html"] $ do
+    route idRoute
     compile $ do
-      wines <- titleOrdered =<< loadAll "wines/*.org"
-      let ctx =
-            listField "wines" wineCtx (return wines)
-              <> constField "title" "Wines"
-              <> defaultContext
+      wines <- load "pages/wines.org"
+      let ctx = field "wines" (const . return . itemBody $ wines) <> constField "title" "Wines" <> defaultContext
       makeItem ""
-        >>= loadAndApplyTemplate "templates/wines.org" ctx
-        >>= customRenderPandoc
+        >>= loadAndApplyTemplate "templates/wines.html" ctx
         >>= loadAndApplyTemplate "templates/default.html" ctx
         >>= relativizeUrls
 
@@ -118,8 +116,8 @@ main = hakyll $ do
       reviews <- load "pages/reviews.org"
       let ctx =
             field "reviews" (const . return . itemBody $ reviews)
-              `mappend` constField "title" "Reviews"
-              `mappend` defaultContext
+              <> constField "title" "Reviews"
+              <> defaultContext
 
       makeItem ""
         >>= loadAndApplyTemplate "templates/reviews.html" ctx
@@ -158,35 +156,11 @@ wineCtx = defaultContext
 
 --------------------------------------------------------------------------------
 
-titleOrdered :: (MonadMetadata m, MonadFail m) => [Item a] -> m [Item a]
-titleOrdered = sortByM $ getTitle . itemIdentifier
-  where
-    getTitle :: (MonadMetadata m, MonadFail m) => Identifier -> m String
-    getTitle i = do
-      producer <- getMetadataField' i "producer"
-      name <- getMetadataField' i "name"
-      vintage <- getMetadataField' i "vintage"
-      return $ producer <> " " <> name <> " " <> vintage
-
-    sortByM :: (Monad m, Ord k) => (a -> m k) -> [a] -> m [a]
-    sortByM f xs =
-      map fst . sortBy (comparing snd)
-        <$> mapM (\x -> fmap (x,) (f x)) xs
-
---------------------------------------------------------------------------------
-
 pandoncTrasnformM :: Pandoc -> Compiler Pandoc
 pandoncTrasnformM =
   convertBarberryLinks
     <=< (pure . wrapTables . processTastingScores . WinesTable.convert)
     <=< embedChartJS . standartizeStars
-
-customRenderPandoc :: Item String -> Compiler (Item String)
-customRenderPandoc = renderPandocWithTransformM readerOptions writerOptions transform
-  where
-    readerOptions = defaultHakyllReaderOptions
-    writerOptions = defaultHakyllWriterOptions
-    transform = pandoncTrasnformM
 
 customPandocCompiler :: Compiler (Item String)
 customPandocCompiler = pandocCompilerWithTransformM readerOptions writerOptions transform
