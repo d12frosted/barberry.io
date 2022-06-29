@@ -4,5 +4,5 @@
 #+attr_html: :class wines-table
 |                                                               name | vintage |                                grapes |                     region | rating |
 |--------------------------------------------------------------------+---------+---------------------------------------+----------------------------+--------|
-|                 [[barberry:/wines/43c2c852-f191-4755-b648-7791aacc9fce][Vette]] |    2019 |                       Sauvignon Blanc | IGP Vigneti delle Dolomiti |      - |
 | [[barberry:/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e][Terre di San Leonardo]] |    2014 | Cabernet Sauvignon, Merlot, Carménère | IGP Vigneti delle Dolomiti |   7.75 |
+|                 [[barberry:/wines/43c2c852-f191-4755-b648-7791aacc9fce][Vette]] |    2019 |                       Sauvignon Blanc | IGP Vigneti delle Dolomiti |      - |

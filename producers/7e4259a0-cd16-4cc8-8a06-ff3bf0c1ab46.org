@@ -26,8 +26,8 @@ So far produces 6 distinct wines (each one from a singe vineyard):
 #+attr_html: :class wines-table
 |                                                                                                  name | vintage |     grapes |        region | rating |
 |-------------------------------------------------------------------------------------------------------+---------+------------+---------------+--------|
-| [[barberry:/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30][Les Pierrières Blanc des Blancs Extra Brut Magnum (2007)]] |      NV | Chardonnay | Champagne AOC |   8.00 |
-|             [[barberry:/wines/50353325-007d-429d-b70b-f9d40206fe8d][Les Roises Blanc de Blancs Extra Brut (2015)]] |      NV | Chardonnay | Champagne AOC |   9.00 |
+|            [[barberry:/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33][Les Enfers Blanc des Blancs Extra Brut (2014)]] |      NV | Chardonnay | Champagne AOC |  10.00 |
 |            [[barberry:/wines/870ccf3b-4295-4932-b8f7-10998dddd6ec][Les Maillons Blanc de Noirs Extra Brut (2016)]] |      NV | Pinot Noir | Champagne AOC |   9.00 |
 |        [[barberry:/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06][Les Pierrières Blanc des Blancs Extra Brut (2017)]] |      NV | Chardonnay | Champagne AOC |  10.00 |
-|            [[barberry:/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33][Les Enfers Blanc des Blancs Extra Brut (2014)]] |      NV | Chardonnay | Champagne AOC |  10.00 |
+| [[barberry:/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30][Les Pierrières Blanc des Blancs Extra Brut Magnum (2007)]] |      NV | Chardonnay | Champagne AOC |   8.00 |
+|             [[barberry:/wines/50353325-007d-429d-b70b-f9d40206fe8d][Les Roises Blanc de Blancs Extra Brut (2015)]] |      NV | Chardonnay | Champagne AOC |   9.00 |

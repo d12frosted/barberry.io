@@ -4,11 +4,11 @@
 #+attr_html: :class wines-table
 |                                                                                name | vintage |     grapes |                     region | rating |
 |-------------------------------------------------------------------------------------+---------+------------+----------------------------+--------|
-|                 [[barberry:/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d][Latricières-Chambertin]] |    2017 | Pinot Noir | Latricieres-Chambertin AOC |   9.50 |
-|                              [[barberry:/wines/1f40f56d-8790-4123-84ff-1478363ed829][Bourgogne]] |    2019 | Pinot Noir |              Bourgogne AOC |   8.00 |
-|      [[barberry:/wines/345c98e3-665a-416f-83a7-b31d12e29361][Savigny-Les-Beaune Les Bas Liards]] |    2019 | Pinot Noir |     Savigny-les-Beaune AOC |      - |
-|                    [[barberry:/wines/4ecbdb55-eebb-43df-9af7-b92c3144d2b5][Beaune Les Mariages]] |    2019 | Pinot Noir |                 Beaune AOC |      - |
 |             [[barberry:/wines/52ed748f-89be-4be6-a619-8de5dbd79e8e][Beaune 1er Cru Les Teurons]] |    2018 | Pinot Noir |                 Beaune AOC |   8.50 |
+|                    [[barberry:/wines/4ecbdb55-eebb-43df-9af7-b92c3144d2b5][Beaune Les Mariages]] |    2019 | Pinot Noir |                 Beaune AOC |      - |
+|                              [[barberry:/wines/1f40f56d-8790-4123-84ff-1478363ed829][Bourgogne]] |    2019 | Pinot Noir |              Bourgogne AOC |   8.00 |
 | [[barberry:/wines/68a1b1da-f9e1-43d9-9ef4-acd3d2d31e55][Gevrey-Chambertin 1er Cru Les Corbeaux]] |    2014 | Pinot Noir |      Gevrey-Chambertin AOC |      - |
-|      [[barberry:/wines/99480dba-cc0d-403e-9f93-a7b7331332ff][Gevrey-Chambertin Vieilles Vignes]] |    2018 | Pinot Noir |      Gevrey-Chambertin AOC |   8.50 |
 |          [[barberry:/wines/da0ee939-d923-44f2-9aac-6c0dfa831964][Gevrey-Chambertin Aux Ételois]] |    2019 | Pinot Noir |      Gevrey-Chambertin AOC |   8.50 |
+|      [[barberry:/wines/99480dba-cc0d-403e-9f93-a7b7331332ff][Gevrey-Chambertin Vieilles Vignes]] |    2018 | Pinot Noir |      Gevrey-Chambertin AOC |   8.50 |
+|                 [[barberry:/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d][Latricières-Chambertin]] |    2017 | Pinot Noir | Latricieres-Chambertin AOC |   9.50 |
+|      [[barberry:/wines/345c98e3-665a-416f-83a7-b31d12e29361][Savigny-Les-Beaune Les Bas Liards]] |    2019 | Pinot Noir |     Savigny-les-Beaune AOC |      - |

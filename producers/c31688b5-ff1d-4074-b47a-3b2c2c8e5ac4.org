@@ -4,5 +4,5 @@
 #+attr_html: :class wines-table
 |                                                                 name | vintage |          grapes |          region | rating |
 |----------------------------------------------------------------------+---------+-----------------+-----------------+--------|
-| [[barberry:/wines/2d1710fb-5361-48d5-93c5-963b5db134a8][Sauvignon Blanc Reserva]] |    2019 | Sauvignon Blanc | DO Leyda Valley |   7.25 |
 |         [[barberry:/wines/fe706fbf-c139-4372-98b7-afe4249f0ce1][Sauvignon Blanc]] |    2020 | Sauvignon Blanc |  Central Valley |   6.50 |
+| [[barberry:/wines/2d1710fb-5361-48d5-93c5-963b5db134a8][Sauvignon Blanc Reserva]] |    2019 | Sauvignon Blanc | DO Leyda Valley |   7.25 |

@@ -4,8 +4,8 @@
 #+attr_html: :class wines-table
 |                                                              name | vintage |  grapes |             region | rating |
 |-------------------------------------------------------------------+---------+---------+--------------------+--------|
-|  [[barberry:/wines/39b35863-a201-4f56-adce-1db43d9f327d][Ultreia La Claudina]] |    2018 | Godello |          Bierzo DO |   8.50 |
 |             [[barberry:/wines/6b5e1cc5-3041-4acd-ab2a-4738250a76b0][La Clave]] |    2018 |  Mencía |          Bierzo DO |      - |
 |          [[barberry:/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f][La Del Vivo]] |    2018 | Godello |          Bierzo DO |   8.25 |
 |           [[barberry:/wines/b4b49d91-5c74-4c65-8f52-03afb240a57c][La Poulosa]] |    2017 |  Mencía |          Bierzo DO |   8.50 |
 | [[barberry:/wines/cf948cb2-a538-43da-926a-cd71b4bb5705][Ultreia De Valtuille]] |    2018 |  Mencía | Castilla y León VT |   8.50 |
+|  [[barberry:/wines/39b35863-a201-4f56-adce-1db43d9f327d][Ultreia La Claudina]] |    2018 | Godello |          Bierzo DO |   8.50 |

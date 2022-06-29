@@ -4,7 +4,7 @@
 #+attr_html: :class wines-table
 |                                                            name | vintage |                      grapes |        region | rating |
 |-----------------------------------------------------------------+---------+-----------------------------+---------------+--------|
-| [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Mount Hermon White]] |    2019 | Sauvignon Blanc, Chardonnay |       Galilee |   7.50 |
 |  [[barberry:/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf][Chardonnay Yarden]] |    2018 |                  Chardonnay |       Galilee |   7.25 |
 |  [[barberry:/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c][Chardonnay Yarden]] |    2019 |                  Chardonnay | Golan Heights |   7.75 |
+| [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Mount Hermon White]] |    2019 | Sauvignon Blanc, Chardonnay |       Galilee |   7.50 |
 |    [[barberry:/wines/877d6831-deea-428d-b19d-b7908a77389e][Viognier Yarden]] |    2017 |                    Viognier |       Galilee |      - |

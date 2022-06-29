@@ -9,9 +9,9 @@ As they say, 'made from grapes'. And nothing more (except for a tiny bit of sulp
 #+attr_html: :class wines-table
 |                                                                         name | vintage |       grapes |       region | rating |
 |------------------------------------------------------------------------------+---------+--------------+--------------+--------|
+|            [[barberry:/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4][Baby Bandito Chin Up]] |    2020 |     Cinsault | WO Swartland |   7.50 |
 |         [[barberry:/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194][Baby Bandito Stay Brave]] |    2017 | Chenin Blanc | WO Swartland |   6.50 |
 |         [[barberry:/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff][Baby Bandito Stay Brave]] |    2019 | Chenin Blanc | WO Swartland |   6.88 |
 | [[barberry:/wines/a00de9a6-3e60-4ab4-8b81-279995809572][El Bandito I Wish I was a Ninja]] |    2021 |    Colombard | WO Swartland |   7.20 |
-|            [[barberry:/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4][Baby Bandito Chin Up]] |    2020 |     Cinsault | WO Swartland |   7.50 |
 |       [[barberry:/wines/cd920007-4ce3-4985-8aef-24c39ad97437][El Bandito I am the Ninja]] |    2020 | Chenin Blanc | WO Swartland |   7.50 |
 |                 [[barberry:/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553][El Bandito Skin]] |    2019 | Chenin Blanc | WO Swartland |   7.50 |

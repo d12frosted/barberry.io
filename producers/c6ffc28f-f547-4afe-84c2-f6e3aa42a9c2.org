@@ -5,7 +5,7 @@ Small wine producer from Czech Republic.
 #+attr_html: :class wines-table
 |                                                            name | vintage |                                                          grapes |   region | rating |
 |-----------------------------------------------------------------+---------+-----------------------------------------------------------------+----------+--------|
-|               [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Ruby]] |    2020 | Zweigelt, Pinot Noir, Saint-Laurent, Merlot, Cabernet Sauvignon |  Moravia |      - |
+| [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Blanc de Noir Sekt]] |    2018 |                                                      Pinot Noir |  Moravia |   7.50 |
 |       [[barberry:/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900][Herr Gewürtz]] |    2019 |                                                  Gewürztraminer | Slovácká |   7.00 |
 |         [[barberry:/wines/c798671c-483f-46dd-9bee-5700002f97e2][Pinot Noir]] |    2019 |                                                      Pinot Noir |  Moravia |   7.50 |
-| [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Blanc de Noir Sekt]] |    2018 |                                                      Pinot Noir |  Moravia |   7.50 |
+|               [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Ruby]] |    2020 | Zweigelt, Pinot Noir, Saint-Laurent, Merlot, Cabernet Sauvignon |  Moravia |      - |

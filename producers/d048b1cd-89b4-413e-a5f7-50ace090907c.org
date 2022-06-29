@@ -4,7 +4,7 @@
 #+attr_html: :class wines-table
 |                                                                      name | vintage |                                grapes |    region | rating |
 |---------------------------------------------------------------------------+---------+---------------------------------------+-----------+--------|
-|               [[barberry:/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa][Blanco Reserva]] |    2010 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC |   9.00 |
-|               [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Blanco Reserva]] |    2009 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC |   9.00 |
 |               [[barberry:/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9][Blanco Reserva]] |    2008 |          Malvasia di Candia Aromatica | Rioja DOC |   7.50 |
+|               [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Blanco Reserva]] |    2009 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC |   9.00 |
+|               [[barberry:/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa][Blanco Reserva]] |    2010 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC |   9.00 |
 | [[barberry:/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b][Blanco Viña Gravonia Crianza]] |    2013 |                               Macabeo | Rioja DOC |   8.00 |
