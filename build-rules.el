@@ -80,52 +80,26 @@
              (concat "wines/" (vulpea-note-id note) ".org")))
   :publish
   (lambda (piece input cache)
-    (let ((note (plist-get piece :note))
-          (target (plist-get piece :target)))
-      ;; 1. copy file
-      (porg-copy-note note target :copy-fn (-partial #'brb-copy-wine input))
+    (brb-publish
+     piece input cache
+     :copy-fn (-partial #'brb-copy-wine input)
+     :metadata (let* ((note (plist-get piece :note))
+                      (rating (vulpea-note-meta-get note "rating"))
+                      (rating (unless (string-equal rating "NA") (string-to-number rating))))
 
-      ;; 2. copy images
-      (brb-copy-images piece cache)
-
-      ;; 3. remove private parts
-      (porg-clean-noexport-headings target)
-
-      ;; 4. cleanup and transform links
-      (with-current-buffer (find-file-noselect target)
-        (porg-clean-links-in-buffer
-         :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
-         :sanitize-attachment-fn
-         (lambda (link)
-           (let* ((path (org-ml-get-property :path link))
-                  (path (file-name-fix-attachment path))
-                  (dir (directory-from-uuid (file-name-base target))))
-             (->> link
-                  (org-ml-set-property :path (format "/images/%s/%s" dir path))
-                  (org-ml-set-property :type "file")
-                  (org-ml-set-children nil)))))
-        (save-buffer))
-
-      ;; 5. generate metadata
-      (brb-make-meta-file
-       piece target cache
-       (let* ((rating (vulpea-note-meta-get note "rating"))
-              (rating (unless (string-equal rating "NA") (string-to-number rating))))
-
-         (-concat
-          (list "producer" (vulpea-note-meta-get note "producer" 'note)
-                "name" (vulpea-note-meta-get note "name")
-                "vintage" (or (vulpea-note-meta-get note "vintage") "NV")
-                "country" (vulpea-note-meta-get
-                           (or (vulpea-note-meta-get note "region" 'note)
-                               (vulpea-note-meta-get note "appellation" 'note))
-                           "country"
-                           'note)
-                "grapes" (mapconcat #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
-          (when rating (list "rating" (format "%.2f" rating))))))))
+                 (-concat
+                  (list "producer" (vulpea-note-meta-get note "producer" 'note)
+                        "name" (vulpea-note-meta-get note "name")
+                        "vintage" (or (vulpea-note-meta-get note "vintage") "NV")
+                        "country" (vulpea-note-meta-get
+                                   (or (vulpea-note-meta-get note "region" 'note)
+                                       (vulpea-note-meta-get note "appellation" 'note))
+                                   "country"
+                                   'note)
+                        "grapes" (mapconcat #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
+                  (when rating (list "rating" (format "%.2f" rating)))))))
   :clean #'brb-delete)
 
- ;; producers are not being built directly for now, but they are included in cellar notes
  (porg-rule
   :name "producers"
   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
@@ -135,34 +109,10 @@
              (concat "producers/" (vulpea-note-id note) ".org")))
   :publish
   (lambda (piece input cache)
-    (let ((note (plist-get piece :note))
-          (target (plist-get piece :target)))
-      ;; 1. copy file
-      (porg-copy-note note target :copy-fn (-partial #'brb-copy-producer input))
-
-      ;; 2. copy images
-      (brb-copy-images piece cache)
-
-      ;; 3. remove private parts
-      (porg-clean-noexport-headings target)
-
-      ;; 4. cleanup and transform links
-      (with-current-buffer (find-file-noselect target)
-        (porg-clean-links-in-buffer
-         :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
-         :sanitize-attachment-fn
-         (lambda (link)
-           (let* ((path (org-ml-get-property :path link))
-                  (path (file-name-fix-attachment path))
-                  (dir (directory-from-uuid (file-name-base target))))
-             (->> link
-                  (org-ml-set-property :path (format "/images/%s/%s" dir path))
-                  (org-ml-set-property :type "file")
-                  (org-ml-set-children nil)))))
-        (save-buffer))
-
-      ;; 5. generate metadata
-      (brb-make-meta-file piece target cache nil))))
+    (brb-publish
+     piece input cache
+     :copy-fn (-partial #'brb-copy-producer input)
+     :metadata nil)))
 
  (porg-rule
   :name "posts"
@@ -180,35 +130,11 @@
               ".org")))
   :publish
   (lambda (piece input cache)
-    (let ((note (plist-get piece :note))
-          (target (plist-get piece :target)))
-      ;; 1. copy file
-      (porg-copy-note note target :copy-fn #'brb-copy-post)
-
-      ;; 2. copy images
-      (brb-copy-images piece cache)
-
-      ;; 3. remove private parts
-      (porg-clean-noexport-headings target)
-
-      ;; 4. cleanup and transform links
-      (with-current-buffer (find-file-noselect target)
-        (porg-clean-links-in-buffer
-         :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
-         :sanitize-attachment-fn
-         (lambda (link)
-           (let* ((path (org-ml-get-property :path link))
-                  (path (file-name-fix-attachment path))
-                  (dir (directory-from-uuid (file-name-base target))))
-             (->> link
-                  (org-ml-set-property :path (format "/images/%s/%s" dir path))
-                  (org-ml-set-property :type "file")
-                  (org-ml-set-children nil)))))
-        (save-buffer))
-
-      ;; 5. generate metadata
-      (brb-make-meta-file
-       piece target cache
+    (brb-publish
+     piece input cache
+     :copy-fn #'brb-copy-post
+     :metadata
+     (let ((note (plist-get piece :note)))
        (vulpea-utils-with-note note
          (let ((date (vulpea-buffer-prop-get "date"))
                (language (vulpea-buffer-prop-get "language"))
@@ -227,7 +153,7 @@
               (list "image"
                     (concat
                      (file-name-as-directory
-                      (concat "images/" (file-name-base target)))
+                      (concat "images/" (file-name-base (plist-get piece :target))))
                      (file-name-fix-attachment image))))
             (when description
               (list "description" description))
@@ -246,6 +172,45 @@
   :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
   :target "pages/reviews-latest.org"
   :publish (-rpartial #'brb-publish-ratings 12)))
+
+
+
+(cl-defun brb-publish (piece input cache &key copy-fn metadata)
+  "Publish PIECE with extra METADATA.
+
+INPUT is produced by `porg-build-input'.
+
+CACHE is the build cache.
+
+COPY-FN is used for `porg-copy-note'."
+  (let ((note (plist-get piece :note))
+        (target (plist-get piece :target)))
+    ;; 1. copy file
+    (porg-copy-note note target :copy-fn copy-fn)
+
+    ;; 2. copy images
+    (brb-copy-images piece cache)
+
+    ;; 3. remove private parts
+    (porg-clean-noexport-headings target)
+
+    ;; 4. cleanup and transform links
+    (with-current-buffer (find-file-noselect target)
+      (porg-clean-links-in-buffer
+       :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
+       :sanitize-attachment-fn
+       (lambda (link)
+         (let* ((path (org-ml-get-property :path link))
+                (path (file-name-fix-attachment path))
+                (dir (directory-from-uuid (file-name-base target))))
+           (->> link
+                (org-ml-set-property :path (format "/images/%s/%s" dir path))
+                (org-ml-set-property :type "file")
+                (org-ml-set-children nil)))))
+      (save-buffer))
+
+    ;; 5. generate metadata
+    (brb-make-meta-file piece target cache metadata)))
 
 
 
