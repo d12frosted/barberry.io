@@ -60,9 +60,13 @@ convert = walk go . embedImport
     goCell (Cell (i, c, kvs) alignment rowSpan colSpan bs) =
       Cell (i, c, kvs') alignment rowSpan colSpan bs
       where
-        kvs' = [("data-sortable", "true"), ("data-field", field)] <> sorter <> kvs
+        kvs' = [("data-sortable", "true"), ("data-field", field), ("data-sorter", sorter)] <> kvs
         field = stringify bs
-        sorter = [("data-sorter", "ratingSorter") | field == "rate"]
+        sorter = case field of
+          "rate" -> "ratingSorter"
+          "producer" -> "htmlSorter"
+          "name" -> "htmlSorter"
+          _ -> "strSorter"
 
 --------------------------------------------------------------------------------
 
@@ -102,7 +106,15 @@ ratingSorter =
 function ratingSorter(a, b) {
   const aa = a == '-' ? 0 : parseFloat(a);
   const bb = b == '-' ? 0 : parseFloat(b);
-  return aa - bb
+  return aa - bb;
+}
+
+function htmlSorter(a, b) {
+  return strSorter($(a).text(), $(b).text())
+}
+
+function strSorter(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
 }
       |]
       undefined
