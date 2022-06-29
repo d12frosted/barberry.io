@@ -20,3 +20,19 @@ and tobacco. Intense, but not profound. Flavourful, well balanced,
 still with some potential thanks to good acidity. Quite friendly.
 Better pair with some meat.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">
+    <section class="h text-small text-lighter">Feudi di San Gregorio</section>
+    <section class="h text-bolder">Serpico - 2005</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">
+    <section class="h text-small text-lighter">Feudi di San Gregorio</section>
+    <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
+  </a>
+
+</div>
+#+end_export
