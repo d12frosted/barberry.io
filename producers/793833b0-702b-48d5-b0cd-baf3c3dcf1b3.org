@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                             name | vintage |                     grapes |    region | rate |
+|------------------------------------------------------------------+---------+----------------------------+-----------+------|
+| [[barberry:/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9][Médoc Cru Bourgeois]] |    2011 | Merlot, Cabernet Sauvignon | Médoc AOC | 7.50 |

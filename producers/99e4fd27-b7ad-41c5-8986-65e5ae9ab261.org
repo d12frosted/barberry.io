@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                         name | vintage |   grapes |     region | rate |
+|--------------------------------------------------------------+---------+----------+------------+------|
+| [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Savagnin Ouillé]] |    2016 | Savagnin | Arbois AOC |    - |
