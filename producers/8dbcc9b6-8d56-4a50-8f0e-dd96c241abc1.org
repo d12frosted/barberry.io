@@ -1,0 +1,8 @@
+One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                    name | vintage |     grapes |    region | rate |
+|---------------------------------------------------------+---------+------------+-----------+------|
+| [[barberry:/wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1][Pinot Noir]] |    2020 | Pinot Noir | Australia | 7.25 |

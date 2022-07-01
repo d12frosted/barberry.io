@@ -1,9 +1,53 @@
+This time I decided to gather people for a mixed bag blind tasting. Of course, I could call it ‘WINES FROM PLANET EARTH’, but it’s not helpful at all. Right? The thing is that I have lots of wines I want to share with people. Some bottles speak in liquid poems. Others tell stories through labels and the people behind them. And you know, my backpack holds up to 12 bottles, and usually, it’s a mixed bag of tasty stuff. So let’s open it.
+
 1. [[barberry:/wines/9a0906be-1274-4820-918e-faf4bf0ec802][Villa Calicantus Sollazzo 2018]]
-2. [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pelican Savagnin Ouille 2016]]
-3. [[barberry:/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001][Anne et J.F. Ganevat Le Jaja du Fred 2019]]
+2. [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Patrick Sullivan Rain Field Blend 2019]]
+3. [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pelican Savagnin Ouille 2016]]
 4. [[barberry:/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0][Matassa Cuvée Alexandria 2019]]
 5. [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]
 6. [[barberry:/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79][Pheasant's Tears Poliphonia 2019]]
+
+* Scores
+:PROPERTIES:
+:ID:                     b26c189d-1373-45aa-a6f7-3089020a5a1a
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|-------------+---------+---------+---------+---------+---------+---------|
+| Andrii P    |    4.50 |    3.70 |  *5.00* |    3.00 |  +2.00+ |    3.00 |
+| Oleksandr K |  *4.00* |    3.50 |    3.80 |    3.90 |  +2.50+ |    3.60 |
+| Elvira K    |    4.00 |    3.70 |  *4.10* |    4.00 |    3.60 |  +3.00+ |
+| Alina S     |  *5.00* |    2.90 |    3.50 |    3.00 |  +1.50+ |    3.50 |
+| Tetiana S   |  *4.90* |    3.40 |  +3.50+ |    2.00 |    1.00 |    3.30 |
+| Dmytro S    |  +4.50+ |  *3.90* |    3.60 |    2.90 |    2.60 |    3.90 |
+| Kris S      |  +4.50+ |    2.90 |    4.00 |  *4.20* |    1.50 |    4.30 |
+| Andrii S    |    4.00 |    3.50 |    4.10 |  *4.10* |  +1.30+ |    4.30 |
+| Boris B     |    3.60 |    3.70 |  *4.20* |    4.20 |  +3.20+ |    3.80 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
+|---+--------+--------+--------+-----------+---------+---------+----------|
+| 1 | *4.33* | *4.36* | 0.1911 |    *3.00* |    2.00 |  820.00 | *4.8938* |
+| 2 |   3.47 |   3.48 | 0.1111 |      1.00 |    0.00 |  730.00 |   1.5215 |
+| 3 |   3.98 |   4.00 | 0.1951 |    *3.00* |    1.00 | 1490.00 |   1.5578 |
+| 4 |   3.48 |   3.55 | 0.5395 |      2.00 |    0.00 | 1490.00 |   0.7570 |
+| 5 |   2.13 |   2.29 | 0.7156 |      0.00 |  +5.00+ |  745.00 |   0.3047 |
+| 6 |   3.63 |   3.66 | 0.2133 |      0.00 |    1.00 | 1150.00 |   1.2199 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
 * Villa Calicantus Sollazzo 2018
 :PROPERTIES:
@@ -44,6 +88,38 @@ In the cellar, nothing is added except for little doses of sulfur. Wine is ferme
 
 And you know me. I love to start every evening with a glass of sparkling wine. [[barberry:/wines/9a0906be-1274-4820-918e-faf4bf0ec802][Sollazzo]] (Enjoy the sun) is a rosé sparkling made of Corvina, Rondinella, Molinara, and Sangiovese. Sounds interesting to me.
 
+* Patrick Sullivan Rain Field Blend 2019
+:PROPERTIES:
+:ID:                     f959682a-fb61-4d33-bdfa-4235bffa8ef2
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-05-mixed-bag/2022-07-01-08-27-06-2022-06-09-22-12-14-IMG-0400.webp]]
+
+- producer: [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]]
+- name: [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Rain Field Blend]]
+- vintage: 2019
+- grapes: Cabernet Franc, Pinot Gris
+- location: Gippsland, Victoria, Australia
+- alcohol: 13
+- sugar: 0
+- price: 1150 UAH
+- importer: Wine Bureau
+
+Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Just take a closer look!
+
+#+begin_quote
+I do not put myself in the category of Natural Wines. I only make wine. Natural Wine is a constructed term that I do not like very much. I make wine in the way I like it and in the style that I like to drink and I do not feel better than someone who acidifies or uses selected yeasts. I do not do it because I do not like it. I do it differently.
+
+Patrick Sullivan
+#+end_quote
+
+Unlike Daniele Delaini, Patrick's path to winemaking began at a young age. Some say that at age of 12, he spent time planting vines during the school break. His personal site says that his first vinous "whiff" came whilst climbing the hills on a farm his family once owned. In any case, this initial spark developed into fascination and determination. So after finishing high school, Patrick spent two years travelling in Europe to learn winemaking techniques. His love for the craft only grew, so once he returned to his homeland, he studied botany and actuarial science. After post-graduate, Patrick wanted to learn from somebody. And so he went on to gain invaluable experience by working alongside respected winemakers (such as Stuart Proud, William Downie, Anna Martens and Eric Narioo) in various organically and biodynamically managed vineyards in Victoria.
+
+After some time, he gained enough experience, knowledge and confidence to start own projects.
+
+[[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Rain Field Blend]] is made of 30-40 years old vines. The Cabernet Franc is fermented using carbonic maceration and the Pinot Gris is fermented on skins in stainless steel for one month. All wines are then transferred to puncheon to settle out and come together.
+
 * Domaine du Pelican Savagnin Ouillé 2016
 :PROPERTIES:
 :ID:                     7d1476ca-12b2-4275-a15e-8a77a3ace89f
@@ -62,25 +138,6 @@ And you know me. I love to start every evening with a glass of sparkling wine. [
 - sugar: ???
 - price: 1591 UAH
 - importer: Roots
-
-* Anne et J.F. Ganevat Le Jaja du Fred 2019
-:PROPERTIES:
-:ID:                     f959682a-fb61-4d33-bdfa-4235bffa8ef2
-:END:
-
-#+attr_html: :class bottle-right
-[[file:/images/2022-07-05-mixed-bag/2022-06-29-18-48-36-2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c.webp]]
-
-- producer: [[barberry:/producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6][Anne et J.F. Ganevat]]
-- name: [[barberry:/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001][Le Jaja du Fred]]
-- vintage: 2019
-- grapes: Gamay, Grenache
-- location: Jura, France
-- appellation: Vin de Table
-- alcohol: 12.8
-- sugar: 1
-- price: 1190 UAH
-- importer: Wine Bureau
 
 * Matassa Cuvée Alexandria 2019
 :PROPERTIES:
@@ -148,6 +205,5 @@ It’s also worth noting that wines made exclusively from Sauvignon Gris are rar
 
 * Conclusions
 :PROPERTIES:
-:ID:                     2fc49f91-e43a-4813-91ef-4cbf0c8117ce
+:ID:                     498f9e77-692e-4a23-a5ea-42809111f7d5
 :END:
-
