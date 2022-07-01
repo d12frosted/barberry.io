@@ -74,7 +74,11 @@
   :soft-dependencies (lambda (note)
                        (-concat
                         (vulpea-note-meta-get-list note "ratings" 'note)
-                        (brb-related-wines note)))
+                        (brb-related-wines note)
+                        (->> (vulpea-note-links note)
+                             (--filter (string-equal "id" (car it)))
+                             (--map (cdr it))
+                             (vulpea-db-query-by-ids))))
   :target (lambda (note)
             (expand-file-name
              (concat "wines/" (vulpea-note-id note) ".org")))
@@ -103,7 +107,12 @@
  (porg-rule
   :name "producers"
   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
-  :soft-dependencies (lambda (note) (brb-wines-by-producer note))
+  :soft-dependencies (lambda (note)
+                       (-concat (brb-wines-by-producer note)
+                                (->> (vulpea-note-links note)
+                                     (--filter (string-equal "id" (car it)))
+                                     (--map (cdr it))
+                                     (vulpea-db-query-by-ids))))
   :target (lambda (note)
             (expand-file-name
              (concat "producers/" (vulpea-note-id note) ".org")))
@@ -124,6 +133,11 @@
  (porg-rule
   :name "posts"
   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
+  :soft-dependencies (lambda (note)
+                       (->> (vulpea-note-links note)
+                            (--filter (string-equal "id" (car it)))
+                            (--map (cdr it))
+                            (vulpea-db-query-by-ids)))
   :target (lambda (note)
             (expand-file-name
              (concat
