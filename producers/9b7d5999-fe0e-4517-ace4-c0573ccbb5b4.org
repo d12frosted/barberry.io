@@ -1,0 +1,8 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                     name | vintage |                               grapes |           region | rate |
+|----------------------------------------------------------+---------+--------------------------------------+------------------+------|
+| [[barberry:/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4][Gilda Tinto]] |    2012 | Merlot, Castelão Fritters, Tinto Cão |     Bairrada DOC | 8.50 |
+|    [[barberry:/wines/ea9b241a-ec1f-4814-ad56-899d497fe95a][Raiz Red]] |    2017 |  Alfrocheiro Preto, Touriga Nacional | Vinho (Portugal) | 7.40 |
