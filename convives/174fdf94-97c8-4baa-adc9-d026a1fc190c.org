@@ -1,58 +1,93 @@
-** Wines
+- Tuesday, 21 June 2022 :: 
+  - [[barberry:/wines/084f2900-816b-4687-bceb-9fe28995f7cc][Les Vignes De Paradis Chenin 2019]] at Wix Kyiv Office
+  - [[barberry:/wines/a00de9a6-3e60-4ab4-8b81-279995809572][Testalonga El Bandito I Wish I was a Ninja 2021]] at Wix Kyiv Office
+  - [[barberry:/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553][Testalonga El Bandito Skin 2019]] at Wix Kyiv Office
+  - [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Sadie Family Skurfberg 2020]] at Wix Kyiv Office
+  - [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Costador Metamorphika Chenin Blanc 2017]] at Wix Kyiv Office
+  - [[barberry:/wines/83d90838-5e63-43af-abc5-f5fb482bc36f][Domaine de la Taille Aux Loups Bretonniere Cuvée Parcellaire Monopole 2017]] at Wix Kyiv Office
 
-#+attr_html: :class wines-table
-|                                                                                    name | vintage |                                           grapes |                     region | rate |
-|-----------------------------------------------------------------------------------------+---------+--------------------------------------------------+----------------------------+------|
-|                                [[barberry:/wines/2e22de49-4153-4f46-bef2-7806cd612810][La Graviere]] |    2018 |                                       Chardonnay |                       Jura | 9.00 |
-|                                      [[barberry:/wines/a148cf28-b949-4fd1-80c2-98f03dde6191][Virgo]] |    2019 |                                       Pinot Noir |        Balatonfelvidék OFJ | 7.50 |
-|                                 [[barberry:/wines/762727eb-e3c6-443d-8c0e-915bba9854f3][Tres Picos]] |    2019 |                                         Grenache |          Campo de Borja DO | 7.25 |
-|                                   [[barberry:/wines/224602d5-c307-4bfc-b84a-bfeede982fc0][vn-c2 bg]] |    2017 |                                             Baga |           Vinho (Portugal) | 7.00 |
-|                            [[barberry:/wines/4252a292-214e-4ee9-a997-3789f8abc431][Lanthano Bianco]] |    2013 |                                      Field Blend |                  Vino (IT) | 8.50 |
-|                           [[barberry:/wines/34ec8843-cece-4f5a-adde-8b24378efcec][Le Petit Buisson]] |    2020 |                                  Sauvignon Blanc |      Vin de Table (France) | 7.50 |
-|                   [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Cava Clasico Brut Nature]] |      NV |                     Macabeo, Xarel-lo, Parellada |                       Cava | 7.30 |
-|                  [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Metamorphika Chenin Blanc]] |    2017 |                                     Chenin Blanc |               Catalunya DO | 6.50 |
-|              [[barberry:/wines/da0ee939-d923-44f2-9aac-6c0dfa831964][Gevrey-Chambertin Aux Ételois]] |    2019 |                                       Pinot Noir |      Gevrey-Chambertin AOC | 8.50 |
-|     [[barberry:/wines/83d90838-5e63-43af-abc5-f5fb482bc36f][Bretonniere Cuvée Parcellaire Monopole]] |    2017 |                                     Chenin Blanc |      Vin de Table (France) | 8.50 |
-|            [[barberry:/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559][Montlouis Sur Loire Clos Michet]] |    2017 |                                     Chenin Blanc |              Montlouis AOC | 8.00 |
-| [[barberry:/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0][Montlouis sur Loire Clos de Mosny Monopole]] |    2015 |                                     Chenin Blanc |              Montlouis AOC | 8.50 |
-|                  [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Crémant du Jura Millésimé]] |    2018 |                                       Chardonnay |        Crémant du Jura AOC | 7.75 |
-|                              [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Buntsandstein]] |    2018 |                                       Pinot Noir |         Landwein Oberrhein | 7.50 |
-|                [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Fontanasanta Manzoni Bianco]] |    2019 |                                   Manzoni Bianco | IGP Vigneti delle Dolomiti | 6.50 |
-|                                [[barberry:/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e][Origin'elle]] |      NV |            Pinot Meunier, Chardonnay, Pinot Noir |              Champagne AOC | 8.38 |
-|                          [[barberry:/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c][Chardonnay Yarden]] |    2019 |                                       Chardonnay |              Golan Heights | 7.75 |
-|                             [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Ribolla Anfora]] |    2004 |                                   Ribolla Gialla |         IGP Venezia Giulia | 9.00 |
-|                           [[barberry:/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592][Elios Pinot Noir]] |    2020 |                                       Pinot Noir |                 Alsace AOC | 7.75 |
-|                          [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Cava Organic Brut]] |      NV |                                          Macabeo |                       Cava | 7.00 |
-|                         [[barberry:/wines/1588f9ec-1616-449b-aaac-9d7a0de06655][Mirabai Pinot Noir]] |    2017 |                                       Pinot Noir |      Willamette Valley AVA | 8.00 |
-|                               [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Rebula Prilo]] |    2015 |                                   Ribolla Gialla |               Namizno Vino | 8.00 |
-|                         [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Blanc de Noir Sekt]] |    2018 |                                       Pinot Noir |                    Moravia | 7.50 |
-|                                      [[barberry:/wines/1f4e920e-bfd4-4624-8445-fa8480962c17][Ageno]] |    2015 | Malvasia di Candia Aromatica, Ortrugo, Trebbiano |                 IGP Emilia | 8.54 |
-|                     [[barberry:/wines/4a169cba-26aa-4d74-a03a-07a7bea905db][Betsek Korposd Furmint]] |    2011 |                                          Furmint |                  Tokaj OEM | 8.00 |
-|                                     [[barberry:/wines/084f2900-816b-4687-bceb-9fe28995f7cc][Chenin]] |    2019 |                                     Chenin Blanc |      Vin de Table (France) | 7.40 |
-|                       [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Le Sauvignon Sensuel]] |    2020 |                                  Sauvignon Blanc |                  Australia | 7.75 |
-|                                [[barberry:/wines/3004717d-3e01-44bf-b375-e23d26508b9a][Vin de Soif]] |    2020 |                                            Syrah |                  Australia | 7.00 |
-|                                 [[barberry:/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2][Vino Rosso]] |    2020 |                  Merlot, Pinot Noir, Field Blend |                  Australia | 7.50 |
-|                            [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Crémant du Jura]] |      NV |                                       Chardonnay |        Crémant du Jura AOC | 7.20 |
-|                            [[barberry:/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d][Integer Zibibbo]] |    2019 |                                          Zibibbo |        IGP Terre Siciliane | 8.00 |
-|                                  [[barberry:/wines/370e2f0f-46c0-464f-a27b-49894634e4c2][Rollaball]] |    2020 |                             Monastrell, Cariñena |      Vin de Table (France) | 7.75 |
-|                                  [[barberry:/wines/370e2f0f-46c0-464f-a27b-49894634e4c2][Rollaball]] |    2020 |                             Monastrell, Cariñena |      Vin de Table (France) | 7.75 |
-|                                 [[barberry:/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5][L'Atavique]] |      NV |                           Pinot Noir, Chardonnay |              Champagne AOC | 8.32 |
-|                                     [[barberry:/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8][Odisea]] |    2019 |                            Chardonnay, Parellada |                       Cava | 7.00 |
-|                                  [[barberry:/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4][Bullswamp]] |    2019 |                                       Chardonnay |                  Gippsland | 8.25 |
-|                           [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Crémant d'Alsace]] |    2018 |                                  Auxerrois blanc |       Crémant d'Alsace AOC | 8.00 |
-|                                    [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Ribolla]] |    2007 |                                   Ribolla Gialla |         IGP Venezia Giulia | 9.00 |
-|                        [[barberry:/wines/39b35863-a201-4f56-adce-1db43d9f327d][Ultreia La Claudina]] |    2018 |                                          Godello |                  Bierzo DO | 8.50 |
-|                       [[barberry:/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7][Presle Millesime BdN]] |    2016 |                                       Pinot Noir |              Champagne AOC | 8.50 |
-|                                  [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Skurfberg]] |    2020 |                                     Chenin Blanc |           WO Citrusdalberg | 8.50 |
-|                    [[barberry:/wines/9e880b48-e667-429f-a5d8-222f6190cb3a][Bourgogne Les Perrières]] |    2017 |                                       Pinot Noir |              Bourgogne AOC | 8.00 |
-|                  [[barberry:/wines/7652700d-3edc-46fa-8e74-624826b23830][Satellite Sauvignon Blanc]] |    2021 |                                  Sauvignon Blanc |                Marlborough | 6.50 |
-|                           [[barberry:/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f][Vrede Pinot Noir]] |    2017 |                                       Pinot Noir |   WO Hemel-en-Aarde Valley | 8.75 |
-|            [[barberry:/wines/a00de9a6-3e60-4ab4-8b81-279995809572][El Bandito I Wish I was a Ninja]] |    2021 |                                        Colombard |               WO Swartland | 7.20 |
-|                            [[barberry:/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553][El Bandito Skin]] |    2019 |                                     Chenin Blanc |               WO Swartland | 7.50 |
-|                      [[barberry:/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c][Xinomavro Young Vines]] |    2018 |                                        Xinomavro |                Naoussa POP | 7.00 |
-|                             [[barberry:/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076][BLU Pinot Noir]] |    2019 |                                       Pinot Noir |           Chernihiv Oblast | 7.50 |
-|                             [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Blanco Reserva]] |    2009 |            Macabeo, Malvasia di Candia Aromatica |                  Rioja DOC | 9.00 |
-|                             [[barberry:/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa][Blanco Reserva]] |    2010 |            Macabeo, Malvasia di Candia Aromatica |                  Rioja DOC | 9.00 |
-|                        [[barberry:/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0][Klettgau Pinot Noir]] |    2018 |                                       Pinot Noir |                  Neunkirch | 8.00 |
-|                         [[barberry:/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7][Cabernet Sauvignon]] |    2010 |                               Cabernet Sauvignon |                    Mendoza | 7.75 |
-|                              [[barberry:/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955][Blanc Reserve]] |    2017 |     Sauvignon Blanc, Welschriesling, Pinot Blanc |          Südsteiermark DAC | 7.50 |
+- Monday, 20 June 2022 :: 
+  - [[barberry:/wines/3004717d-3e01-44bf-b375-e23d26508b9a][Lucy Margaux Vin de Soif 2020]] at Wix Kyiv Office
+  - [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Jaume Serra Cava Organic Brut]] at Wix Kyiv Office
+  - [[barberry:/wines/34ec8843-cece-4f5a-adde-8b24378efcec][Clos du Tue-Boeuf Le Petit Buisson 2020]] at Wix Kyiv Office
+
+- Thursday, 16 June 2022 :: 
+  - [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Codorníu Cava Clasico Brut Nature]] at Wix Kyiv Office
+
+- Wednesday, 15 June 2022 :: 
+  - [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Maison du Vigneron Crémant du Jura]] at Andrii Sierkov
+  - [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Domaine de la Touraize Crémant du Jura Millésimé 2018]] at Andrii Sierkov
+  - [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]] at Andrii Sierkov
+  - [[barberry:/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5][Mouzon-Leroux L'Atavique NV]] at Andrii Sierkov
+
+- Friday, 10 June 2022 :: 
+  - [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Lucy Margaux Le Sauvignon Sensuel 2020]] at Wix Kyiv Office
+  - [[barberry:/wines/7652700d-3edc-46fa-8e74-624826b23830][Spy Valley Satellite Sauvignon Blanc 2021]] at Wix Kyiv Office
+
+- Wednesday,  8 June 2022 :: 
+  - [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Foradori Fontanasanta Manzoni Bianco 2019]] at Wix Kyiv Office
+
+- Tuesday,  7 June 2022 :: 
+  - [[barberry:/wines/224602d5-c307-4bfc-b84a-bfeede982fc0][COZs vn-c2 bg 2017]] at 101 Bar
+  - [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Viña Tondonia Blanco Reserva 2009]] at 101 Bar
+  - [[barberry:/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592][J.M Dreyer Elios Pinot Noir 2020]] at 101 Bar
+  - [[barberry:/wines/4a169cba-26aa-4d74-a03a-07a7bea905db][Lenkey Pinceszet Betsek Korposd Furmint 2011]] at 101 Bar
+  - [[barberry:/wines/9e880b48-e667-429f-a5d8-222f6190cb3a][Simon Bize et Fils Bourgogne Les Perrières 2017]] at 101 Bar
+
+- Tuesday, 31 May 2022 :: 
+  - [[barberry:/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076][Vinoman BLU Pinot Noir 2019]] at 101 Bar
+  - [[barberry:/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2][Lucy Margaux Vino Rosso 2020]] at Wix Kyiv Office
+
+- Tuesday, 25 January 2022 :: 
+  - [[barberry:/wines/762727eb-e3c6-443d-8c0e-915bba9854f3][Bodegas Borsao Tres Picos 2019]] at Wix Kyiv Office
+  - [[barberry:/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c][Golan Heights Winery Chardonnay Yarden 2019]] at Wix Kyiv Office
+  - [[barberry:/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7][Weinert Cabernet Sauvignon 2010]] at Wix Kyiv Office
+  - [[barberry:/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8][Naveran Odisea 2019]] at Wix Kyiv Office
+  - [[barberry:/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955][Weingut Tement Blanc Reserve 2017]] at Wix Kyiv Office
+  - [[barberry:/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c][Thymiopoulos Xinomavro Young Vines 2018]] at Wix Kyiv Office
+
+- Thursday, 13 January 2022 :: 
+  - [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Enderle&Moll Buntsandstein 2018]] at Garage
+  - [[barberry:/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7][Roses De Jeanne Presle Millesime BdN 2016]] at Garage
+  - [[barberry:/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0][Weinbau Markus Ruch Klettgau Pinot Noir 2018]] at Garage
+  - [[barberry:/wines/1588f9ec-1616-449b-aaac-9d7a0de06655][Kelley Fox Wines Mirabai Pinot Noir 2017]] at Garage
+  - [[barberry:/wines/a148cf28-b949-4fd1-80c2-98f03dde6191][Bencze Virgo 2019]] at Garage
+
+- Wednesday, 12 January 2022 :: 
+  - [[barberry:/wines/39b35863-a201-4f56-adce-1db43d9f327d][Raúl Pérez Ultreia La Claudina 2018]] at 101 Bar
+  - [[barberry:/wines/da0ee939-d923-44f2-9aac-6c0dfa831964][Domaine Rossignol-Trapet Gevrey-Chambertin Aux Ételois 2019]] at 101 Bar
+
+- Tuesday, 11 January 2022 :: 
+  - [[barberry:/wines/4252a292-214e-4ee9-a997-3789f8abc431][Cantina Alchemica Lanthano Bianco 2013]] at Wix Kyiv Office
+  - [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Gravner Ribolla Anfora 2004]] at Wix Kyiv Office
+  - [[barberry:/wines/1f4e920e-bfd4-4624-8445-fa8480962c17][La Stoppa Ageno 2015]] at Wix Kyiv Office
+  - [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Kmetija Štekar Rebula Prilo 2015]] at Wix Kyiv Office
+  - [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Radikon Ribolla 2007]] at Wix Kyiv Office
+
+- Wednesday, 29 December 2021 :: 
+  - [[barberry:/wines/370e2f0f-46c0-464f-a27b-49894634e4c2][Matassa Rollaball 2020]] at Wix Kyiv Office
+
+- Thursday, 25 November 2021 :: 
+  - [[barberry:/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa][Viña Tondonia Blanco Reserva 2010]] at Kyiv
+
+- Tuesday,  9 November 2021 :: 
+  - [[barberry:/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d][Marco de Bartoli Integer Zibibbo 2019]] at 101 Bar
+
+- Tuesday, 14 September 2021 :: 
+  - [[barberry:/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f][Storm Vrede Pinot Noir 2017]] at Wix Kyiv Office
+
+- Friday,  3 September 2021 :: 
+  - [[barberry:/wines/370e2f0f-46c0-464f-a27b-49894634e4c2][Matassa Rollaball 2020]] at Yellow Place Letka
+
+- Wednesday, 25 August 2021 :: 
+  - [[barberry:/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0][Domaine de la Taille Aux Loups Montlouis sur Loire Clos de Mosny Monopole 2015]] at Yellow Place Letka
+  - [[barberry:/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos Michet 2017]] at Yellow Place Letka
+
+- Tuesday, 17 August 2021 :: 
+  - [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Krasna Hora Blanc de Noir Sekt 2018]] at Wix Kyiv Office
+  - [[barberry:/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e][Francoise Bedel Origin'elle]] at Wix Kyiv Office
+
+- Monday, 16 August 2021 :: 
+  - [[barberry:/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4][Patrick Sullivan Bullswamp 2019]] at 101 Bar
+  - [[barberry:/wines/2e22de49-4153-4f46-bef2-7806cd612810][Anne et J.F. Ganevat La Graviere 2018]] at 101 Bar
+
