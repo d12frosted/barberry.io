@@ -190,8 +190,7 @@
                             (cons "id")
                             (list)
                             (vulpea-db-query-by-links-every)
-                            (--filter (vulpea-note-tagged-all-p it "wine" "rating"))
-                            (--map (vulpea-note-meta-get it "wine" 'note))))
+                            (--filter (vulpea-note-tagged-all-p it "wine" "rating"))))
   :target (lambda (note)
             (expand-file-name
              (concat "convives/" (vulpea-note-id note) ".org")))
@@ -491,66 +490,6 @@ Access to full INPUT for related wines."
 
 
 
-(cl-defun brb-copy-convive (input note path)
-  "Copy convive NOTE to PATH.
-
-Access to full INPUT for related wines."
-  (let ((wines (brb-public-notes (->> (vulpea-note-id note)
-                                      (cons "id")
-                                      (list)
-                                      (vulpea-db-query-by-links-every)
-                                      (--filter (vulpea-note-tagged-all-p it "wine" "rating"))
-                                      (--map (vulpea-note-meta-get it "wine" 'note)))
-                                 input)))
-    (with-current-buffer (find-file-noselect path)
-      (delete-region (point-min) (point-max))
-      (insert "* Wines\n\n")
-      (if wines
-          (insert
-           "#+attr_html: :class wines-table\n"
-           (string-table
-            :header '("name" "vintage" "grapes" "region" "rate")
-            :header-sep "-"
-            :header-sep-start "|-"
-            :header-sep-conj "-+-"
-            :header-sep-end "-|"
-            :row-start "| "
-            :row-end " |"
-            :sep " | "
-            :data
-            (->> wines
-                 (--map (plist-get it :note))
-                 (brb-wines-sort)
-                 (--map
-                  (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
-                                  (vulpea-note-meta-get it "appellation" 'note))))
-                    (list (org-link-make-string
-                           (concat "id:" (vulpea-note-id it))
-                           (vulpea-note-meta-get it "name"))
-                          (or (vulpea-note-meta-get it "vintage") "NV")
-                          (mapconcat #'vulpea-note-title
-                                     (vulpea-note-meta-get-list it "grapes" 'note)
-                                     ", ")
-                          (vulpea-note-title roa)
-                          (if (vulpea-note-meta-get it "ratings")
-                              (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
-                            "-"))))))
-           "\n")
-        (insert "No wines of this producer are present on this site. How did you find this page?"))
-
-      (goto-char (point-min))
-      (while (re-search-forward "\\(\\*\\{1,\\}\\)" nil 'noerror)
-        (replace-match "*\\1"))
-      (goto-char (point-max))
-
-      (goto-char (point-min))
-      (while (re-search-forward "\n\\{3,\\}" nil 'noerror)
-        (replace-match "\n\n"))
-
-      (save-buffer))))
-
-
-
 (cl-defun brb-copy-post (note path)
   "Copy post NOTE to PATH."
   (vulpea-utils-with-note note
@@ -585,6 +524,45 @@ Access to full INPUT for related wines."
                      (point)))
                  (point-max)))))
     (save-buffer)))
+
+
+
+(cl-defun brb-copy-convive (input note path)
+  "Copy convive NOTE to PATH.
+
+Access to full INPUT for related wines."
+  (let* ((ratings-all (->> (vulpea-note-id note)
+                           (cons "id")
+                           (list)
+                           (vulpea-db-query-by-links-every)
+                           (--filter (vulpea-note-tagged-all-p it "wine" "rating"))))
+         (wines (brb-public-notes (--map (vulpea-note-meta-get it "wine" 'note) ratings-all) input))
+         (wines-tbl (let ((tbl (make-hash-table :test 'equal :size (seq-length wines))))
+                      (--each (--map (plist-get it :note) wines)
+                        (puthash (vulpea-note-id it) it tbl))
+                      tbl))
+         (ratings (->> ratings-all
+                       (--filter (gethash (vulpea-note-id (vulpea-note-meta-get it "wine" 'note))
+                                          wines-tbl))
+                       (seq-sort-by (lambda (note)
+                                      (vulpea-note-meta-get note "date"))
+                                    #'string>))))
+    (with-current-buffer (find-file-noselect path)
+      (delete-region (point-min) (point-max))
+      (if wines
+          (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
+            (insert (format "- %s :: \n"
+                            (format-time-string "%A, %e %B %Y" (date-to-time (car it)))))
+            (--each (cdr it)
+              (insert
+               "  - "
+               (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note))
+               (when-let ((location (vulpea-note-meta-get it "location" 'note)))
+                 (concat " at " (vulpea-note-title location)))
+               "\n"))
+            (insert "\n"))
+        (insert "No wines of this producer are present on this site. How did you find this page?"))
+      (save-buffer))))
 
 
 
