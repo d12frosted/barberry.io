@@ -115,6 +115,13 @@
      :metadata nil)))
 
  (porg-rule
+  :name "grapes"
+  :match (-rpartial #'vulpea-note-tagged-all-p "wine" "grape")
+  :dependencies nil
+  :target nil
+  :publish nil)
+
+ (porg-rule
   :name "posts"
   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
   :target (lambda (note)

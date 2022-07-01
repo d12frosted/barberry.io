@@ -1,4 +1,4 @@
-Every rain is praised as a divine gift during these hot days in Kyiv. But as human beings, we crave a solution we can predict and replicate on a whim. Luckily, we have wine and technology to chill it. With this melting weather, there is little wonder that *75%* of wines I rated this month are white!
+Every rain is praised as a divine gift during these hot days in Kyiv. But as human beings, we crave a solution we can predict and replicate on a whim. Luckily, we have wine and technology to chill it. With this melting weather, there is little wonder that *74%* of wines I rated this month are white!
 
 #+begin_quote
 Wait, what? Do you count wines you drink and rate?
@@ -6,7 +6,7 @@ Wait, what? Do you count wines you drink and rate?
 
 Haha, of course, I don’t. But I do track every consumed wine in [[https://github.com/d12frosted/vino][a program]] I’ve created for this purpose. And now that I have data and the Application Programming Interface (API) provided by Vino, I can easily [[https://github.com/d12frosted/environment/tree/master/emacs#vino-stats][calculate various statistics]] related to my wine consumption. I plan to share this kind of report every month. Expect boring stats like the number of rated wines per country, grape, vintage, etc. But also expect a full table of tasted wines, and the list of my favourites and outcasts of the month. Hope you find something interesting here. Share your ideas!
 
-So this month has started with a beautiful [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]], which I haven't tasted for almost a year. At this point in time, I consider it one of my favourite light rosé wines despite the confusingly mediocre impression when I tasted it for the first time - ☆ 7.25 vs ☆ 8.5!
+So this month has started with a beautiful [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]], which I haven't tasted for almost a year. At this point in time, I consider it one of my favourite light rosé wines despite the confusingly mediocre impression when I tasted it for the first time - ☆ 7.25 vs ☆ 8.5! It's not on purpose, but the last wine of the month was another wonderful wine - [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Marc Hebrart Premier Cru Blanc de Blancs]].
 
 The world of wine is big, and there is always something new to explore. So this month, I have several personal novelties.
 
@@ -18,11 +18,11 @@ The world of wine is big, and there is always something new to explore. So this 
 6. I tasted Passerina for the first time in my life, though as part of a blend in [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Illuminati Costalupo 2021]].
 7. [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Borgo Conventi Refosco dal Peduncolo Rosso 2019]] is my first Refosco dal Peduncolo Rosso.
 
-For the first half of the month, I rated every wine consumed, and I didn't taste any wine more than once during this period. But then I picked a few favourites for this month's table, and the ratio of rated to consumed normalised - *74%*. So, according to my notes, I consumed *77* bottles and rated *57* of them. Only one of the wines was rated twice - [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]], I just had too many bottles of this wine and wanted to share confirmation that it was worth it.
+For the first half of the month, I rated every wine consumed, and I didn't taste any wine more than once during this period. But then I picked a few favourites for this month's table, and the ratio of rated to consumed normalised - *74%*. So, according to my notes, I consumed *79* bottles and rated *59* of them. Only one of the wines was rated twice - [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]], I just had too many bottles of this wine and wanted to share confirmation that it was worth it.
 
-Compared to the previous month, it's a 96% of growth in terms of wines rated. Someone would think that it was a tough month for me, but I'd argue that I am just getting back to my regular numbers. Just take a look at the graph (the first months of the war are excluded). Besides, this month I participated in a [[barberry:/posts/2022-06-07-blind-tasting][blind tasting event]] and [[barberry:/posts/2022-06-21-chenin-blanc-tasting][organised one myself]]. So this kind of explains the growth.
+Compared to the previous month, it's a 103% of growth in terms of wines rated. Someone would think that it was a tough month for me, but I'd argue that I am just getting back to my regular numbers. Just take a look at the graph (the first months of the war are excluded). Besides, this month I participated in a [[barberry:/posts/2022-06-07-blind-tasting][blind tasting event]] and [[barberry:/posts/2022-06-21-chenin-blanc-tasting][organised one myself]]. So this kind of explains the growth.
 
-#+attr_html: :id monthly-ratings :width 400 :height 80
+#+attr_html: :id monthly-ratings
 #+attr_html: :data monthly-ratings-data
 #+attr_html: :labels month :values rates :type bar :index-axis y
 #+begin_chartjs
@@ -34,11 +34,11 @@ Compared to the previous month, it's a 96% of growth in terms of wines rated. So
 | 2021 December |    74 |
 | 2022 January  |    40 |
 | 2022 May      |    29 |
-| 2022 June     |    57 |
+| 2022 June     |    59 |
 
 Country-wise, this month was more fruitful than the previous, because 13 countries are present in my ratings (compared to 8 in the previous month). And this time, France is on the top of this list. We also have Hungary, Israel, Portugal, Germany and Greece on this list! In terms of quality-price ratio, our leaders are Spain and Italy.
 
-#+attr_html: :id countries :width 400 :height 120
+#+attr_html: :id countries
 #+attr_html: :data countries-data
 #+attr_html: :labels country :values count :type bar
 #+begin_chartjs
@@ -48,7 +48,7 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 #+results: countries-data
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
-| France       |    16 | 934.90 UAH   |  7.75 | 2.4562 |
+| France       |    17 | 953.83 UAH   |  7.76 | 2.4275 |
 | Spain        |     9 | 652.07 UAH   |  7.46 | 3.1905 |
 | Italy        |     8 | 605.53 UAH   |  7.46 | 3.2337 |
 | South Africa |     8 | 972.88 UAH   |  7.90 | 3.0287 |
@@ -93,7 +93,7 @@ In June, I started to consume wines produced in 2021. As expected, these are the
 |    2011 |     1 | 1 000.00 UAH |  8.00 | 2.4000 |
 |    2009 |     1 | 1 649.24 UAH |  9.00 | 3.1737 |
 |    2006 |     1 | 2 464.00 UAH |  9.00 | 2.1243 |
-|      NV |     8 | 595.71 UAH   |  7.20 | 3.0426 |
+|      NV |     9 | 669.15 UAH   |  7.30 | 2.9384 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -115,7 +115,7 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
-| Chardonnay                   |    12 | 758.25 UAH   |  7.49 | 2.9346 |
+| Chardonnay                   |    13 | 796.59 UAH   |  7.53 | 2.8688 |
 | Pinot Noir                   |     9 | 1 137.48 UAH |  7.94 | 2.3132 |
 | Sauvignon Blanc              |     9 | 562.82 UAH   |  7.37 | 3.0001 |
 | Chenin Blanc                 |     8 | 787.13 UAH   |  7.53 | 2.9072 |
@@ -225,17 +225,17 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-16 | Spain        | [[barberry:/producers/038f1c56-9c03-4716-80de-7b9740be0b16][Codorníu]]                       | [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Codorníu Cava Clasico Brut Nature]]                                          |      NV | 7.30 | 4.2882 |
 | 2022-06-17 | France       | [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]                | [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Gérard Bertrand Héritage Kosmos 888 2019]]                                   |    2019 | 7.60 | 1.8110 |
 | 2022-06-18 | Israel       | [[barberry:/producers/6af33cac-4d40-4a63-9799-597578b5cb1c][Golan Heights Winery]]           | [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]]                               |    2019 | 7.50 | 3.9348 |
-| 2022-06-20 | Spain        | [[barberry:/producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a][Jaume Serra]]                    | [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Jaume Serra Cava Organic Brut]]                                              |      NV | 7.00 | 4.0813 |
 | 2022-06-20 | Australia    | [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]                   | [[barberry:/wines/3004717d-3e01-44bf-b375-e23d26508b9a][Lucy Margaux Vin de Soif 2020]]                                              |    2020 | 7.00 | 1.3914 |
 | 2022-06-20 | France       | [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]              | [[barberry:/wines/34ec8843-cece-4f5a-adde-8b24378efcec][Clos du Tue-Boeuf Le Petit Buisson 2020]]                                    |    2020 | 7.50 | 2.8819 |
+| 2022-06-20 | Spain        | [[barberry:/producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a][Jaume Serra]]                    | [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Jaume Serra Cava Organic Brut]]                                              |      NV | 7.00 | 4.0813 |
 | 2022-06-21 | France       | [[barberry:/producers/461a005a-3007-46a9-8ab4-f716429379fa][Domaine de la Taille Aux Loups]] | [[barberry:/wines/83d90838-5e63-43af-abc5-f5fb482bc36f][Domaine de la Taille Aux Loups Bretonniere Cuvée Parcellaire Monopole 2017]] |    2017 | 8.50 | 2.8744 |
 | 2022-06-21 | South Africa | [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]]                   | [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Sadie Family Skurfberg 2020]]                                                |    2020 | 8.50 | 2.7466 |
 | 2022-06-21 | South Africa | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]                     | [[barberry:/wines/a00de9a6-3e60-4ab4-8b81-279995809572][Testalonga El Bandito I Wish I was a Ninja 2021]]                            |    2021 | 7.20 | 1.6319 |
 | 2022-06-21 | France       | [[barberry:/producers/f1833780-e704-4017-a518-b32a2baf5f2e][Les Vignes De Paradis]]          | [[barberry:/wines/084f2900-816b-4687-bceb-9fe28995f7cc][Les Vignes De Paradis Chenin 2019]]                                          |    2019 | 7.40 | 2.5422 |
 | 2022-06-21 | Spain        | [[barberry:/producers/8ba4a237-515d-408f-8fa0-db15f9471ca0][Costador]]                       | [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Costador Metamorphika Chenin Blanc 2017]]                                    |    2017 | 6.50 | 1.2184 |
 | 2022-06-21 | South Africa | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]                     | [[barberry:/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553][Testalonga El Bandito Skin 2019]]                                            |    2019 | 7.50 | 1.4423 |
-| 2022-06-24 | New Zealand  | [[barberry:/producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1][Brancott Estate]]                | [[barberry:/wines/77312847-db16-4aa4-ad60-59576ffa9b6f][Brancott Estate Letter Series T Pinot Noir 2019]]                            |    2019 | 7.20 | 1.9143 |
 | 2022-06-24 | Spain        | [[barberry:/producers/4182582c-a43d-4b29-afea-93fdb6352e44][Viña Pomal]]                     | [[barberry:/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc][Viña Pomal Viura Malvasia 2017]]                                             |    2017 | 7.50 | 2.4038 |
+| 2022-06-24 | New Zealand  | [[barberry:/producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1][Brancott Estate]]                | [[barberry:/wines/77312847-db16-4aa4-ad60-59576ffa9b6f][Brancott Estate Letter Series T Pinot Noir 2019]]                            |    2019 | 7.20 | 1.9143 |
 | 2022-06-26 | Argentina    | [[barberry:/producers/4547425b-4629-45d5-886b-581416693d89][Bodega Catena Zapata]]           | [[barberry:/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868][Bodega Catena Zapata Catena Chardonnay 2020]]                                |    2020 | 7.40 | 3.3915 |
 | 2022-06-26 | South Africa | [[barberry:/producers/6f989a26-3b14-4aeb-96b8-2c5133741728][Stellenbosch Hills]]             | [[barberry:/wines/8fe19c6a-4169-4e27-bf89-512c429c6725][Stellenbosch Hills Chenin Blanc 2019]]                                       |    2019 | 7.20 | 2.2302 |
 | 2022-06-26 | Germany      | [[barberry:/producers/0d5b050e-52f9-42f9-9403-65b219de680e][Weinland Rheingau]]              | [[barberry:/wines/d475d86d-a8a1-4466-8dce-40252032232d][Weinland Rheingau Rüdesheimer Burgweg Riesling Trocken 2021]]                |    2021 | 7.30 | 4.6340 |
@@ -245,6 +245,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-28 | Italy        | [[barberry:/producers/0ff20e4a-b84c-48dc-b592-5d7619ba7f28][Illuminati]]                     | [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Illuminati Costalupo 2021]]                                                  |    2021 | 6.50 | 3.7320 |
 | 2022-06-29 | Italy        | [[barberry:/producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2][Borgo Conventi]]                 | [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Borgo Conventi Refosco dal Peduncolo Rosso 2019]]                            |    2019 | 7.50 | 2.9356 |
 | 2022-06-29 | South Africa | [[barberry:/producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53][Crystallum]]                     | [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Crystallum Peter Max Pinot Noir 2018]]                                       |    2018 | 8.25 | 3.4385 |
+| 2022-06-30 | France       | [[barberry:/producers/97bee62d-6e14-4f79-a95d-37893c50a84e][Marc Hebrart]]                   | [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Marc Hebrart Premier Cru Blanc de Blancs]]                                   |      NV | 8.00 | 1.9098 |
 
 #+name: ratings-data
 #+begin_src elisp :exports results
