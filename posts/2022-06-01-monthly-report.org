@@ -12,7 +12,7 @@ Little by little I am getting back to mindful wine consumption. Ratio of total w
 #+results: countries-data
 | country     | count | p avg        | r rms |    qpr |
 |-------------+-------+--------------+-------+--------|
-| Italy       |     9 | 493.35 UAH   |  6.67 | 2.3896 |
+| Italy       |     9 | 489.28 UAH   |  6.67 | 2.4039 |
 | France      |     6 | 907.10 UAH   |  7.43 | 2.7884 |
 | Chile       |     5 | 392.00 UAH   |  6.58 | 2.5070 |
 | New Zealand |     4 | 671.75 UAH   |  7.39 | 2.4680 |
@@ -47,7 +47,7 @@ Country-wise, this month wasn't that fruitful, only 8 countries are present in m
 |    2016 |     1 | 395.00 UAH   |  6.50 | 2.0975 |
 |    2014 |     1 | 706.00 UAH   |  7.75 | 2.8210 |
 |    2013 |     1 | 1 377.00 UAH |  8.50 | 2.5571 |
-|      NV |     7 | 783.68 UAH   |  7.11 | 2.6090 |
+|      NV |     7 | 778.44 UAH   |  7.11 | 2.6259 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -109,7 +109,7 @@ Nothing that critical, just mediocre wines. So no witch hunting this month.
 | 2022-05-29 | Spain       | [[barberry:/producers/506d95ca-6d9a-4931-9f16-cd3e9f6dac8e][Raventós i Blanc]]    | [[barberry:/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c][Raventós i Blanc Blanc de Blancs Extra Brut 2018]]          |    2018 | 7.75 | 1.1715 |
 | 2022-05-29 | New Zealand | [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]]         | [[barberry:/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4][Saint Clair Origin Pinot Noir Marlborough 2019]]            |    2019 | 7.50 | 3.0378 |
 | 2022-05-29 | France      | [[barberry:/producers/8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3][Francois Montand]]    | [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Francois Montand Méthode Traditionnelle Brut Rosé NV]]      |      NV | 7.00 | 4.8752 |
-| 2022-05-30 | Italy       | [[barberry:/producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00][Bertolotto]]          | [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Bertolotto Brut NV]]                                        |      NV | 8.00 | 2.6667 |
+| 2022-05-30 | Italy       | [[barberry:/producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00][Bertolotto]]          | [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Bertolotto Brut NV]]                                        |      NV | 8.00 | 2.7800 |
 | 2022-05-31 | Ukraine     | [[barberry:/producers/1360c306-3364-428a-a606-7f44dfbef128][Vinoman]]             | [[barberry:/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076][Vinoman BLU Pinot Noir 2019]]                               |    2019 | 7.50 | 1.5078 |
 | 2022-05-31 | Australia   | [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]        | [[barberry:/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2][Lucy Margaux Vino Rosso 2020]]                              |    2020 | 7.50 | 2.1429 |
 | 2022-05-31 | New Zealand | [[barberry:/producers/1c67e0d2-d88a-470d-b953-713eb163a35d][Craggy Range]]        | [[barberry:/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c][Craggy Range Gimblett Gravels Syrah 2018]]                  |    2018 | 8.00 | 2.6637 |

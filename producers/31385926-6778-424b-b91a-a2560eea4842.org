@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                           name | vintage | grapes |               region | rate |
+|--------------------------------------------------------------------------------+---------+--------+----------------------+------|
+| [[barberry:/wines/f07b112f-031d-490c-9c51-8af5fab9cede][Brichet Frizzante ...Naturalmente]] |      NV |  Glera | IGP Colli Trevigiani |    - |

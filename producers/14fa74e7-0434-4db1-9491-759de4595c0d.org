@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                     name | vintage |            grapes |   region | rate |
+|----------------------------------------------------------+---------+-------------------+----------+------|
+| [[barberry:/wines/acc24d74-9556-479d-a9bd-bada0cccfe7e][Allegracore]] |    2016 | Nerello Mascalese | Etna DOC |    - |
