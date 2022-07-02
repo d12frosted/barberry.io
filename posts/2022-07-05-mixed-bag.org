@@ -6,6 +6,7 @@ This time I decided to gather people for a mixed bag blind tasting. Of course, I
 4. [[barberry:/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0][Matassa Cuvée Alexandria 2019]]
 5. [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]
 6. [[barberry:/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79][Pheasant's Tears Poliphonia 2019]]
+7. [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Cascina Bertolotto Spumante Brut Metodo Classico NV]]
 
 * Scores
 :PROPERTIES:
@@ -202,6 +203,38 @@ It’s also worth noting that wines made exclusively from Sauvignon Gris are rar
 - sugar: ???
 - price: 603 UAH
 - importer: Wine Bureau
+
+* Cascina Bertolotto Spumante Brut Metodo Classico NV
+:PROPERTIES:
+:ID:                     5fbf460f-8419-4575-9e51-9f8b9bd90f1b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-05-mixed-bag/2022-07-02-09-38-36-BAF4A2C4-7D3B-487B-9119-38F0B4E472AA-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00][Cascina Bertolotto]]
+- name: [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Spumante Brut Metodo Classico]]
+- vintage: 2009 (???)
+- grapes: Pinot Nero, Chardonnay
+- location: ???
+- alcohol: 12.5
+- sugar: ???
+- price: 825 UAH
+- importer: regno.ua
+
+This is by far the strangest wine of the evening. No, it has nothing to do with the wine itself. The reason is conflicting and unclear information about this wine scattered over the internet. So I had to spend quite some time figuring out who was the actual producer of this wine.
+
+According to the [[https://regno.ua][importer website]], Bertolotto Brut is a project run by Taso. Of course, I questioned the crazy mind that added the word 'Brut' to their winery name. But I also doubted the relationship between Taso and this wine. Why? Because Taso is not mentioned on the wine label at all.
+
+So as a modern person, I googled 'Bertolotto'. And luckily, I found some companies related to the door business. Wait, of course, I am looking for wine! And so I landed on the [[https://cascinabertolotto.com/][Cascina Bertolotto website]]. It turned out they produce [[https://cascinabertolotto.com/prodotto/brut-di-bertolotto/][Metodo Classico V.S.Q. "Bertolotto" Cuvée Brut]], but its label is different.
+
+Aside from the winery name, technical information from the importer's website matches information from Cascina Bertolotto's website. And then, somewhere in the internet cache, I found that Cascina Bertolotto's website hosted an image of a different label - one I have. Bingo!
+
+Funny, though. Because according to the producer's website, this wine spent 12 years on the lees. But arithmetic is a brutal bitch. The label says that it was disgorged in January 2017. This means it spent on the lees 8 years at most. And since you have to finish the first fermentation before your sparkling is sent on its sparkling quest, I guess the actual number is around 5-7 years. In addition, despite sharing vendemmia, some bottles are disgorged later than others. This gives a perfect opportunity to study little differences.
+
+At this point, you could rightfully ask: so why this wine? Oh right! Because it's a hidden gem. Look, I found it accidentally in a small booze shop near my house. I was looking for sparkling wines and was fighting through some mainstream and expensive Champagne bottles to see what else they have. And I found this bottle! Intriguing label with little information, classic method, and brut! I had to taste it, and it turned out to be good. That's why we have this extra bottle today.
+
+P.S. This story was also [[barberry:/posts/2022-07-02-behind-the-scenes][posted separately]].
 
 * Conclusions
 :PROPERTIES:
