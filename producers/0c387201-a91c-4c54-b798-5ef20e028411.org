@@ -1,4 +1,8 @@
 
 ** Wines
 
-No wines of this producer are present on this site. How did you find this page?
+#+attr_html: :class wines-table
+|                                                           name | vintage |                              grapes |      region | rate |
+|----------------------------------------------------------------+---------+-------------------------------------+-------------+------|
+|         [[barberry:/wines/dab2a380-6aa2-45fa-b870-9a504291acce][Kali Riza]] |    2017 |                           Xinomavro | Amynteo POP | 7.00 |
+| [[barberry:/wines/a4980711-6b29-4392-9585-17310170db4a][Paranga Sparkling]] |      NV | Xinomavro, Chardonnay, Muscat Blanc |   Nemea POP | 7.50 |

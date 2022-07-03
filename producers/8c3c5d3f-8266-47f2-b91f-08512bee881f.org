@@ -1,0 +1,8 @@
+Mass market producer focused on straightforward and approachable wines for 'modern consumers'. They have wineries all over the world. Recognizable labels that can be turned into entertainment when scanned with their application that augments reality.
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                      name | vintage |       grapes |            region | rate |
+|-----------------------------------------------------------+---------+--------------+-------------------+------|
+| [[barberry:/wines/23988fb0-28dd-4efa-82fa-4680a2710517][Pinot Grigio]] |    2018 | Pinot Grigio | Delle Venezie DOC |    - |

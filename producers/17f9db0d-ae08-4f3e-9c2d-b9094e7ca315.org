@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                            name | vintage |                       grapes | region | rate |
+|-----------------------------------------------------------------+---------+------------------------------+--------+------|
+| [[barberry:/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab][Selecció Brut Cava]] |      NV | Macabeo, Parellada, Xarel-lo |   Cava | 5.50 |

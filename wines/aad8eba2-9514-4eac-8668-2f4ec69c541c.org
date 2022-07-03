@@ -1,0 +1,40 @@
+#+attr_html: :class wine-main-image
+[[file:/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83][Félix Solís]]
+- Vintage :: NV
+- Location :: New Zealand, Marlborough
+- Grapes :: Sauvignon Blanc
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 367 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-07-02 - ☆ 5.25
+
+Part of diverse Félix Solís brand. This SB is straightforward yet faceless. Typical notes of gooseberry, tropical fruits with notes of citrus. Hey baby, this tropical bomb lacks acidity! Who would guess? Iggy Pop playing on the background doesn't approve my wine choice.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Provetto Spumante Bianco Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Kingpin Tinto - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Viña Albali Gran Reserva de Familia - 2009</section>
+  </a>
+
+</div>
+#+end_export

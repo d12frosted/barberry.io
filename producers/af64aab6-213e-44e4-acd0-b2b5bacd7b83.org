@@ -1,0 +1,10 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                             name | vintage |                                 grapes |        region | rate |
+|----------------------------------------------------------------------------------+---------+----------------------------------------+---------------+------|
+|                       [[barberry:/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3][Kingpin Tinto]] |      NV | Tempranillo, Syrah, Cabernet Sauvignon |  Vino de Mesa | 7.00 |
+|       [[barberry:/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812][Provetto Spumante Bianco Brut]] |      NV |                         Macabeo, Airén |  Vino de Mesa | 7.00 |
+|               [[barberry:/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c][Pulpo Sauvignon Blanc]] |      NV |                        Sauvignon Blanc |   Marlborough | 5.25 |
+| [[barberry:/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c][Viña Albali Gran Reserva de Familia]] |    2009 |        Cabernet Sauvignon, Tempranillo | Valdepeñas DO | 8.00 |

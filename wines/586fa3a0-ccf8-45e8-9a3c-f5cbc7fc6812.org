@@ -1,0 +1,40 @@
+#+attr_html: :class wine-main-image
+[[file:/images/58/6fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812/2021-07-03-10-08-38-7D4FA3F4-CD46-406E-A9DE-CD1579B56C6A-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83][Félix Solís]]
+- Vintage :: NV
+- Location :: Spain, Vino de Mesa
+- Grapes :: Macabeo, Airén
+- Alcohol :: 10.5
+- Sugar :: NA
+- Price :: 228 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-07-01 - ☆ 7.00
+
+Tasted blind and was sure that it's Prosecco. But when I think about it, all I can say is - silly me. Super simple, lots of apple, pear, toast and lime. Fruit-forward, fresh and easy going apéritif.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Kingpin Tinto - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Viña Albali Gran Reserva de Familia - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
+  </a>
+
+</div>
+#+end_export

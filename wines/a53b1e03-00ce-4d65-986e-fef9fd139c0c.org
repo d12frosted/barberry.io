@@ -1,0 +1,45 @@
+#+attr_html: :class wine-main-image
+[[file:/images/a5/3b1e03-00ce-4d65-986e-fef9fd139c0c/2020-02-03-08-43-17-CAF26FE8-D1EF-45AC-BD2F-E471D8F27A20-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83][Félix Solís]]
+- Vintage :: 2009
+- Location :: Spain, Valdepeñas DO
+- Grapes :: Cabernet Sauvignon, Tempranillo
+- Alcohol :: 13
+- Sugar :: 3
+- Price :: 480 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-02-01 - ☆ 8.00
+
+Чистий, середній гранат. Аромат чистий, явно виражений. Чорні ягоди, ожина, ожиновий джем, ваніль, тости, чорнослив, земля, чорний перець, мускус, мох, деревина. Сухе, кислотність, таніни та алкоголь високі, тіло насичене, сильний та інтенсивний первинний смак - червона смородина. Довгий післясмак, дуже хороше вино, що розвивається.
+
+- Баланс: 0.5
+- Складність: 1
+- Інтенсивність: 1
+- Післясмак: 1
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Provetto Spumante Bianco Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Kingpin Tinto - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
+  </a>
+
+</div>
+#+end_export
