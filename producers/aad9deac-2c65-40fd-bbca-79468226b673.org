@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                name | vintage |   grapes | region | rate |
+|---------------------------------------------------------------------+---------+----------+--------+------|
+| [[barberry:/wines/1003f92f-f182-4775-8602-32d132fa62d5][Riesling Qualitätswein]] |    2014 | Riesling |  Mosel | 8.80 |

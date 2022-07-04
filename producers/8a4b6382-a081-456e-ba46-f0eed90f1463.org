@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |   grapes | region | rate |
+|--------------------------------------------------------------------------+---------+----------+--------+------|
+| [[barberry:/wines/eecd139e-6555-46c7-927b-5b222d9f5583][Riesling Loibenberg Smaragd]] |    2018 | Riesling | Wachau | 7.50 |

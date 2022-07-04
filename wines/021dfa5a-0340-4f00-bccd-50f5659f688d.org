@@ -1,0 +1,45 @@
+#+attr_html: :class wine-main-image
+[[file:/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]
+- Vintage :: 2018
+- Location :: Austria, Kamptal
+- Grapes :: Riesling
+- Alcohol :: 13
+- Sugar :: 2.9
+- Price :: 1550 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-07-19 - ☆ 9.00
+
+Tasted blind. Rigorous, text book Riesling. Closed bouquet that required some time to open up. Every little thing was hiding behind petroleum cloud - field flowers, chalk, soap and pineapple. There are almost no traces of fruits. Very long and interesting aftertaste with flavours of petroleum, apple seeds and flowers. Wonderful wine with huge potential (at least in my inexperienced opinion). It got the highest marks during tasting session.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Hauswein Grüner Veltliner - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Grüner Veltliner Kamptaler Terrassen - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+</div>
+#+end_export

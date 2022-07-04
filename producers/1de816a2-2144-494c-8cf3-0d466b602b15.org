@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                          name | vintage |   grapes |   region | rate |
+|-------------------------------------------------------------------------------+---------+----------+----------+------|
+| [[barberry:/wines/b9972612-deb1-4a2c-910f-42901592cc46][Bronzelack Trocken Qualitätswein]] |    2020 | Riesling | Rheingau | 8.00 |

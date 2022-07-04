@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                               name | vintage | grapes |               region | rate |
+|--------------------------------------------------------------------+---------+--------+----------------------+------|
+| [[barberry:/wines/100555ef-0137-4e0f-aa66-e49f8d3f355e][McCutcheon Chardonnay]] |    2017 |        | Mornington Peninsula | 8.00 |

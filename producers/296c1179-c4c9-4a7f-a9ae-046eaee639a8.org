@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                         name | vintage |     grapes |        region | rate |
+|--------------------------------------------------------------+---------+------------+---------------+------|
+| [[barberry:/wines/d69e488f-ccb5-400d-a049-79cabc7443b9][Marsannay Blanc]] |    2018 | Chardonnay | Marsannay AOC | 8.25 |

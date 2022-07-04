@@ -2,8 +2,10 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                   name | vintage |                              grapes |                  region | rate |
-|------------------------------------------------------------------------+---------+-------------------------------------+-------------------------+------|
-|                 [[barberry:/wines/9e046e12-6366-4d23-8657-ee421ad00794][Brut Rosé]] |      NV | Pinot Noir, Saint-Laurent, Zweigelt |        Niederösterreich | 8.00 |
-| [[barberry:/wines/128c692e-8948-454f-bd6a-c03b1f29880d][Hauswein Grüner Veltliner]] |    2021 |                    Grüner Veltliner | Landwein aus Österreich |    - |
-|                  [[barberry:/wines/cdd63749-d893-457a-b852-06a407e52c84][Zweigelt]] |    2015 |                            Zweigelt |                 Kamptal | 7.50 |
+|                                                                              name | vintage |                              grapes |                  region | rate |
+|-----------------------------------------------------------------------------------+---------+-------------------------------------+-------------------------+------|
+|                            [[barberry:/wines/9e046e12-6366-4d23-8657-ee421ad00794][Brut Rosé]] |      NV | Pinot Noir, Saint-Laurent, Zweigelt |        Niederösterreich | 8.00 |
+| [[barberry:/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e][Grüner Veltliner Kamptaler Terrassen]] |    2019 |                    Grüner Veltliner |                 Kamptal | 7.50 |
+|            [[barberry:/wines/128c692e-8948-454f-bd6a-c03b1f29880d][Hauswein Grüner Veltliner]] |    2021 |                    Grüner Veltliner | Landwein aus Österreich | 7.00 |
+|          [[barberry:/wines/021dfa5a-0340-4f00-bccd-50f5659f688d][Riesling Heiligenstein Lyra]] |    2018 |                            Riesling |                 Kamptal | 9.00 |
+|                             [[barberry:/wines/cdd63749-d893-457a-b852-06a407e52c84][Zweigelt]] |    2015 |                            Zweigelt |                 Kamptal | 7.50 |
