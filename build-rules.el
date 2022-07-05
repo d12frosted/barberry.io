@@ -480,7 +480,11 @@ Access to full ITEMS for related wines."
                "  - "
                (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note))
                (when-let ((location (vulpea-note-meta-get it "location" 'note)))
-                 (concat " at " (vulpea-note-title location)))
+                 (concat
+                  " "
+                  "@@html:<span style=\"color: var(--faded);\">@@"
+                  "@" (vulpea-note-title location)
+                  "@@html:</span>@@"))
                "\n"))
             (insert "\n"))
         (insert "There are no wines we drunk together. How did you find this page?"))
