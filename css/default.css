@@ -387,6 +387,12 @@ article .img-float-right {
   }
 }
 
+figcaption {
+  color: var(--faded);
+  font-size: var(--small-size);
+  text-align: center;
+}
+
 .clear-both {
   clear: both;
 }
