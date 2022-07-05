@@ -679,16 +679,29 @@ Basically, keep only public notes."
                   (list (vulpea-note-meta-get note "producer" 'note))
                   (vulpea-note-meta-get-list note "ratings" 'note)))
     :soft-deps #'brb-related-wines
+    ;; TODO: consider providing a separate key for extra attachments
     :outputs-extra (lambda (output)
                      (let* ((note (porg-rule-output-item output))
-                            (producer (vulpea-note-meta-get note "producer" 'note)))
-                       (porg-attachments-output
-                        producer
-                        :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
-                               (concat "images/" name))
-                        :file-mod #'file-name-fix-attachment
-                        :filter #'brb-supported-image-p
-                        :owner note)))))
+                            (producer (vulpea-note-meta-get note "producer" 'note))
+                            (ratings (vulpea-note-meta-get-list note "ratings" 'note)))
+                       (-concat
+                        (porg-attachments-output
+                         producer
+                         :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
+                                (concat "images/" name))
+                         :file-mod #'file-name-fix-attachment
+                         :filter #'brb-supported-image-p
+                         :owner note)
+                        (-flatten
+                         (--map
+                          (porg-attachments-output
+                           it
+                           :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
+                                  (concat "images/" name))
+                           :file-mod #'file-name-fix-attachment
+                           :filter #'brb-supported-image-p
+                           :owner note)
+                          ratings)))))))
   
   (porg-rule
    :name "producers"
