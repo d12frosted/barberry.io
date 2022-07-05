@@ -118,7 +118,10 @@ HARD-DEPS. But in this case these are functions on
                        (let ((name (directory-from-uuid
                                     (file-name-base (porg-rule-output-file note-output)))))
                          (concat "images/" name)))
-                :filter (or attach-filter #'brb-supported-image-p))))))
+                :file-mod #'file-name-fix-attachment
+                :filter (or attach-filter #'brb-supported-image-p))
+               (when outputs-extra
+                 (funcall outputs-extra note-output))))))
 
 (cl-defun brb-make-publish (&key copy-fn metadata)
   "Create public function with COPY-FN and METADATA."
@@ -837,6 +840,9 @@ Basically, keep only public notes."
            (width (string-to-number
                    (shell-command-to-string
                     (format "identify -format %%W '%s'" (porg-item-item item))))))
+       (make-directory (file-name-directory (porg-item-target-abs item)) 'parents)
+       (porg-debug "input:  %s" (porg-item-item item))
+       (porg-debug "output: %s" (porg-item-target-abs item))
        (if (> width max-width)
            (shell-command-to-string
             (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'"
