@@ -38,236 +38,154 @@
 (require 'lib-publicatorg)
 (require 'lib-fun)
 
-(org-link-set-parameters "barberry" :follow #'org-roam-link-follow-link)
+
 
-(porg-define
- :name "barberry.io"
- :root (when load-file-name
-         (file-name-directory load-file-name))
- :cache-file "build-cache.el"
- :input
- (lambda ()
-   (--filter
-    (and (null (vulpea-note-primary-title it))
-         (= 0 (vulpea-note-level it)))
-    (vulpea-db-query-by-tags-every '("barberry/public"))))
- :describe
- (lambda (note)
-   (let* ((note (if (listp note) (plist-get note :note) note))
-          (tags (vulpea-note-tags note)))
-     (format "(%s) %s"
-             (cond
-              ((seq-contains-p tags "producer") "producer")
-              ((seq-contains-p tags "cellar") "wine")
-              ((seq-contains-p tags "grape") "grape")
-              ((seq-contains-p tags "region") "region")
-              ((seq-contains-p tags "appellation") "region")
-              ((seq-contains-p tags "barberry/post") "post")
-              (t "???"))
-             (vulpea-note-title note))))
+(defconst brb-supported-images '("jpeg" "png" "jpg" "heic" "webp"))
 
- (porg-rule
-  :name "wines"
-  :match (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
-  :dependencies (lambda (note)
-                  (list (vulpea-note-meta-get note "producer" 'note)))
-  :soft-dependencies (lambda (note)
-                       (-concat
-                        (vulpea-note-meta-get-list note "ratings" 'note)
-                        (brb-related-wines note)
-                        (->> (vulpea-note-links note)
-                             (--filter (string-equal "id" (car it)))
-                             (--map (cdr it))
-                             (vulpea-db-query-by-ids))))
-  :target (lambda (note)
-            (expand-file-name
-             (concat "wines/" (vulpea-note-id note) ".org")))
-  :publish
-  (lambda (piece input cache)
-    (brb-publish
-     piece input cache
-     :copy-fn (-partial #'brb-copy-wine input)
-     :metadata (let* ((note (plist-get piece :note))
-                      (rating (vulpea-note-meta-get note "rating"))
-                      (rating (unless (string-equal rating "NA") (string-to-number rating))))
-
-                 (-concat
-                  (list "producer" (vulpea-note-meta-get note "producer" 'note)
-                        "name" (vulpea-note-meta-get note "name")
-                        "vintage" (or (vulpea-note-meta-get note "vintage") "NV")
-                        "country" (vulpea-note-meta-get
-                                   (or (vulpea-note-meta-get note "region" 'note)
-                                       (vulpea-note-meta-get note "appellation" 'note))
-                                   "country"
-                                   'note)
-                        "grapes" (mapconcat #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
-                  (when rating (list "rating" (format "%.2f" rating)))))))
-  :clean #'brb-delete)
-
- (porg-rule
-  :name "producers"
-  :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
-  :soft-dependencies (lambda (note)
-                       (-concat (brb-wines-by-producer note)
-                                (->> (vulpea-note-links note)
-                                     (--filter (string-equal "id" (car it)))
-                                     (--map (cdr it))
-                                     (vulpea-db-query-by-ids))))
-  :target (lambda (note)
-            (expand-file-name
-             (concat "producers/" (vulpea-note-id note) ".org")))
-  :publish
-  (lambda (piece input cache)
-    (brb-publish
-     piece input cache
-     :copy-fn (-partial #'brb-copy-producer input)
-     :metadata nil)))
-
- (porg-rule
-  :name "grapes"
-  :match (-rpartial #'vulpea-note-tagged-all-p "wine" "grape")
-  :dependencies nil
-  :target nil
-  :publish nil)
-
- (porg-rule
-  :name "posts"
-  :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
-  :soft-dependencies (lambda (note)
-                       (->> (vulpea-note-links note)
-                            (--filter (string-equal "id" (car it)))
-                            (--map (cdr it))
-                            (vulpea-db-query-by-ids)))
-  :target (lambda (note)
-            (expand-file-name
-             (concat
-              "posts/"
-              (vulpea-utils-with-note note
-                (let ((date (vulpea-buffer-prop-get "date"))
-                      (slug (or (vulpea-buffer-prop-get "slug")
-                                (porg-slug (vulpea-note-title note)))))
-                  (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
-                  (concat (org-read-date nil nil date) "-" slug)))
-              ".org")))
-  :publish
-  (lambda (piece input cache)
-    (brb-publish
-     piece input cache
-     :copy-fn #'brb-copy-post
-     :metadata
-     (let ((note (plist-get piece :note)))
-       (vulpea-utils-with-note note
-         (let ((date (vulpea-buffer-prop-get "date"))
-               (language (vulpea-buffer-prop-get "language"))
-               (author (vulpea-buffer-prop-get "author"))
-               (image (vulpea-buffer-prop-get "image"))
-               (description (vulpea-buffer-prop-get "description"))
-               (tags (vulpea-buffer-prop-get-list "tags")))
-           (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
-           (unless language (user-error "Post '%s' is missing language" (vulpea-note-title note)))
-           (unless author (user-error "Post '%s' is missing author" (vulpea-note-title note)))
-           (-concat
-            (list "date" (org-read-date nil nil date)
-                  "language" language
-                  "author" author)
-            (when image
-              (list "image"
-                    (concat
-                     (file-name-as-directory
-                      (concat "images/" (file-name-base (plist-get piece :target))))
-                     (file-name-fix-attachment image))))
-            (when description
-              (list "description" description))
-            (when tags
-              (list "tags" (string-join tags ", ")))))))))
-  :clean #'brb-delete)
-
- (porg-rule
-  :name "convives"
-  :match (-rpartial #'vulpea-note-tagged-all-p "barberry/convive")
-  :soft-dependencies (lambda (note)
-                       (->> (vulpea-note-id note)
-                            (cons "id")
-                            (list)
-                            (vulpea-db-query-by-links-every)
-                            (--filter (vulpea-note-tagged-all-p it "wine" "rating"))))
-  :target (lambda (note)
-            (expand-file-name
-             (concat "convives/" (vulpea-note-id note) ".org")))
-  :publish
-  (lambda (piece input cache)
-    (brb-publish
-     piece input cache
-     :copy-fn (-partial #'brb-copy-convive input)
-     :metadata nil))
-  :clean #'brb-delete)
-
- (porg-batch-rule
-  :name "wines"
-  :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
-  :target "pages/wines.org"
-  :publish #'brb-publish-wines)
-
- (porg-batch-rule
-  :name "reviews"
-  :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
-  :target "pages/reviews.org"
-  :publish #'brb-publish-ratings)
-
- (porg-batch-rule
-  :name "latest reviews"
-  :filter (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
-  :target "pages/reviews-latest.org"
-  :publish (-rpartial #'brb-publish-ratings 12)))
+(defun brb-supported-image-p (file)
+  "Return non-nil if FILE is a supported image."
+  (seq-contains-p brb-supported-images
+                  (s-downcase (file-name-extension file))))
 
 
 
-(cl-defun brb-publish (piece input cache &key copy-fn metadata)
-  "Publish PIECE with extra METADATA.
+(cl-defmethod porg-describe ((item porg-item))
+  "Describe ITEM."
+  (pcase (porg-item-type item)
+    ("note" (porg-describe (porg-item-item item)))
+    ("attachment" (concat "(image) " (file-name-nondirectory (porg-item-target-abs item))))
+    (_ (concat "(" (porg-item-type item) ") " (porg-item-id item)))))
 
-INPUT is produced by `porg-build-input'.
+(cl-defmethod porg-describe ((item porg-rule-output))
+  "Describe ITEM."
+  (pcase (porg-rule-output-type item)
+    ("note" (porg-describe (porg-rule-output-item item)))
+    ("attachment" (concat "(image) " (file-name-nondirectory (porg-rule-output-file item))))
+    (_ (concat "(" (porg-rule-output-type item) ") " (porg-rule-output-id item)))))
 
-CACHE is the build cache.
-
-COPY-FN is used for `porg-copy-note'."
-  (let ((note (plist-get piece :note))
-        (target (plist-get piece :target)))
-    ;; 1. copy file
-    (porg-copy-note note target :copy-fn copy-fn)
-
-    ;; 2. copy images
-    (brb-copy-images piece cache)
-
-    ;; 3. remove private parts
-    (porg-clean-noexport-headings target)
-
-    ;; 4. cleanup and transform links
-    (with-current-buffer (find-file-noselect target)
-      (porg-clean-links-in-buffer
-       :sanitize-id-fn (-partial #'brb-sanitize-id-link input)
-       :sanitize-attachment-fn
-       (lambda (link)
-         (let* ((path (org-ml-get-property :path link))
-                (path (file-name-fix-attachment path))
-                (dir (directory-from-uuid (file-name-base target))))
-           (->> link
-                (org-ml-set-property :path (format "/images/%s/%s" dir path))
-                (org-ml-set-property :type "file")
-                (org-ml-set-children nil)))))
-      (save-buffer))
-
-    ;; 5. generate metadata
-    (brb-make-meta-file piece target cache metadata)))
+(cl-defmethod porg-describe ((note vulpea-note))
+  "Describe NOTE."
+  (let ((tags (vulpea-note-tags note)))
+    (format "(%s) %s"
+            (cond
+             ((seq-contains-p tags "producer") "producer")
+             ((seq-contains-p tags "cellar") "wine")
+             ((seq-contains-p tags "grape") "grape")
+             ((seq-contains-p tags "region") "region")
+             ((seq-contains-p tags "appellation") "region")
+             ((seq-contains-p tags "barberry/post") "post")
+             ((seq-contains-p tags "barberry/convive") "convive")
+             (t "???"))
+            (vulpea-note-title note))))
 
 
 
-(cl-defun brb-copy-wine (input note path)
-  "Copy wine NOTE to PATH.
+(cl-defun brb-make-outputs (&key file
+                                 attach-dir
+                                 attach-filter
+                                 soft-deps
+                                 hard-deps)
+  "Make outputs function for note.
 
-Access to full INPUT for related wines."
-  (with-current-buffer (find-file-noselect path)
+Just a wrapper around `porg-note-output' and
+`porg-attachments-output'.
+
+FILE is a function that takes a `vulpea-note' and returns
+relative output file.
+
+ATTACH-DIR is a function that takes a `porg-rule-output' of note
+and returns relative directory for attachments. Optional. I am
+too lazy to explain default implementation.
+
+ATTACH-FILTER is a predicate on attachment file. Controls which
+attachments should be part of the output. Defaults to
+`brb-supported-image-p'.
+
+See `porg-note-output' for documentation for SOFT-DEPS and
+HARD-DEPS. But in this case these are functions on
+`vulpea-note'."
+  (lambda (note)
+    (let ((note-output
+           (porg-note-output note
+                             :file (funcall file note)
+                             :soft-deps (when soft-deps (funcall soft-deps note))
+                             :hard-deps (when hard-deps (funcall hard-deps note)))))
+      (-concat (list note-output)
+               (porg-attachments-output
+                note
+                :dir (if attach-dir
+                         (funcall attach-dir note-output)
+                       (let ((name (directory-from-uuid
+                                    (file-name-base (porg-rule-output-file note-output)))))
+                         (concat "images/" name)))
+                :filter (or attach-filter #'brb-supported-image-p))))))
+
+(cl-defun brb-make-publish (&key copy-fn metadata)
+  "Create public function with COPY-FN and METADATA."
+  (lambda (item items _cache)
+    (let* ((target (porg-item-target-abs item))
+           (hash-a (when (file-exists-p target)
+                     (porg-sha1sum (porg-item-target-abs item)))))
+      ;; 1. copy file
+      (mkdir (file-name-directory target) 'parents)
+      (funcall copy-fn item items)
+
+      ;; 2. remove private parts
+      (porg-clean-noexport-headings target)
+
+      ;; 3. cleanup and transform links
+      (with-current-buffer (find-file-noselect target)
+        (porg-clean-links-in-buffer
+         :sanitize-id-fn (-rpartial #'brb-sanitize-id-link items)
+         :sanitize-attachment-fn
+         (lambda (link)
+           (let* ((path (org-ml-get-property :path link))
+                  (path (file-name-fix-attachment path))
+                  (dir (directory-from-uuid (file-name-base target))))
+             (->> link
+                  (org-ml-set-property :path (format "/images/%s/%s" dir path))
+                  (org-ml-set-property :type "file")
+                  (org-ml-set-children nil)))))
+        (save-buffer))
+
+      ;; 4. generate metadata
+      (let* ((meta-file (concat (porg-item-target-abs item) ".metadata"))
+             (note (porg-item-item item))
+
+             (hash-b (porg-sha1sum (porg-item-target-abs item)))
+
+             (update (when (file-exists-p meta-file)
+                       (with-current-buffer (find-file-noselect meta-file)
+                         (goto-char (point-min))
+                         (when (re-search-forward "update: \"\\([0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}\\)\"" nil t)
+                           (match-string 1)))))
+             (update (or (and (string-equal hash-a hash-b) update)
+                         (format-time-string "%F")))
+
+             (publish (vulpea-utils-with-note note
+                        (or (vulpea-buffer-prop-get "publish") "true")))
+
+             (meta (if (functionp metadata) (funcall metadata item) metadata))
+             (meta (-concat (list "publish" publish
+                                  "title" (vulpea-note-title note))
+                            (when update (list "update" update))
+                            meta)))
+        (with-current-buffer (find-file-noselect meta-file)
+          (delete-region (point-min) (point-max))
+          (cl-loop for (key value) on meta by 'cddr
+                   do (insert key ": " "\"" (string-from value) "\"" "\n"))
+          (save-buffer))))))
+
+
+
+(cl-defun brb-build-wine (item items)
+  "Copy wine ITEM.
+
+Access to full ITEMS for related wines."
+  (with-current-buffer (find-file-noselect (porg-item-target-abs item))
     (delete-region (point-min) (point-max))
-    (let* ((colour (vulpea-note-meta-get note "colour"))
+    (let* ((note (porg-item-item item))
+           (colour (vulpea-note-meta-get note "colour"))
            (carbonation (vulpea-note-meta-get note "carbonation"))
            (sweetness (vulpea-note-meta-get note "sweetness"))
            (roa (or (vulpea-note-meta-get note "region" 'note)
@@ -281,7 +199,7 @@ Access to full INPUT for related wines."
            (prices (vulpea-note-meta-get-list note "price"))
            (available (vulpea-note-meta-get note "available" 'number))
            (ratings (vulpea-note-meta-get-list note "ratings" 'note))
-           (related (brb-public-notes (brb-related-wines note) input))
+           (related (brb-public-items (brb-related-wines note) items))
            (images (vulpea-note-meta-get-list note "images")))
       (insert
        (if images
@@ -387,9 +305,9 @@ Access to full INPUT for related wines."
          "#+begin_export html\n"
          "<div class=\"flex-container\">\n")
         (--each-indexed related
-          (unless (plist-get it :note)
+          (unless (porg-item-item it)
             (user-error "Could not get related note of '%s'" (vulpea-note-title note)))
-          (let* ((note (plist-get it :note))
+          (let* ((note (porg-item-item it))
                  (id (vulpea-note-id note))
                  (producer (vulpea-note-meta-get note "producer" 'note))
                  (name (vulpea-note-meta-get note "name"))
@@ -418,15 +336,15 @@ Access to full INPUT for related wines."
 
 
 
-(cl-defun brb-copy-producer (input note path)
-  "Copy producer NOTE to PATH.
+(cl-defun brb-build-producer (item items)
+  "Build producer ITEM.
 
-Access to full INPUT for related wines."
-  (let ((wines (brb-public-notes (brb-wines-by-producer note) input)))
-    (with-current-buffer (find-file-noselect path)
+Access to full ITEMS for related wines."
+  (let ((wines (brb-public-items (brb-wines-by-producer (porg-item-item item)) items)))
+    (with-current-buffer (find-file-noselect (porg-item-target-abs item))
       (delete-region (point-min) (point-max))
       (insert
-       (vulpea-utils-with-note note
+       (vulpea-utils-with-note (porg-item-item item)
          (let* ((meta (vulpea-buffer-meta))
                 (pl (plist-get meta :pl)))
            (buffer-substring-no-properties
@@ -449,16 +367,11 @@ Access to full INPUT for related wines."
            "#+attr_html: :class wines-table\n"
            (string-table
             :header '("name" "vintage" "grapes" "region" "rate")
-            :header-sep "-"
-            :header-sep-start "|-"
-            :header-sep-conj "-+-"
-            :header-sep-end "-|"
-            :row-start "| "
-            :row-end " |"
-            :sep " | "
+            :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
+            :row-start "| " :sep " | " :row-end " |"
             :data
             (->> wines
-                 (--map (plist-get it :note))
+                 (-map #'porg-item-item)
                  (brb-wines-sort)
                  (--map
                   (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
@@ -490,9 +403,9 @@ Access to full INPUT for related wines."
 
 
 
-(cl-defun brb-copy-post (note path)
-  "Copy post NOTE to PATH."
-  (vulpea-utils-with-note note
+(cl-defun brb-build-post (item _items)
+  "Build post ITEM."
+  (vulpea-utils-with-note (porg-item-item item)
     (--each (seq-reverse
              (org-element-map
                  (org-element-parse-buffer 'element)
@@ -505,9 +418,9 @@ Access to full INPUT for related wines."
           (silenzio
            (org-babel-execute-src-block)))))
     (save-buffer))
-  (with-current-buffer (find-file-noselect path)
+  (with-current-buffer (find-file-noselect (porg-item-target-abs item))
     (delete-region (point-min) (point-max))
-    (insert (vulpea-utils-with-note note
+    (insert (vulpea-utils-with-note (porg-item-item item)
               (let* ((meta (vulpea-buffer-meta))
                      (pl (plist-get meta :pl)))
                 (buffer-substring-no-properties
@@ -527,18 +440,20 @@ Access to full INPUT for related wines."
 
 
 
-(cl-defun brb-copy-convive (input note path)
-  "Copy convive NOTE to PATH.
+(cl-defun brb-build-convive (item items)
+  "Build convive ITEM.
 
-Access to full INPUT for related wines."
-  (let* ((ratings-all (->> (vulpea-note-id note)
+Access to full ITEMS for related wines."
+  (let* ((ratings-all (->> item
+                           (porg-item-item)
+                           (vulpea-note-id)
                            (cons "id")
                            (list)
                            (vulpea-db-query-by-links-every)
                            (--filter (vulpea-note-tagged-all-p it "wine" "rating"))))
-         (wines (brb-public-notes (--map (vulpea-note-meta-get it "wine" 'note) ratings-all) input))
+         (wines (brb-public-items (--map (vulpea-note-meta-get it "wine" 'note) ratings-all) items))
          (wines-tbl (let ((tbl (make-hash-table :test 'equal :size (seq-length wines))))
-                      (--each (--map (plist-get it :note) wines)
+                      (--each (-map #'porg-item-item wines)
                         (puthash (vulpea-note-id it) it tbl))
                       tbl))
          (ratings (->> ratings-all
@@ -547,7 +462,7 @@ Access to full INPUT for related wines."
                        (seq-sort-by (lambda (note)
                                       (vulpea-note-meta-get note "date"))
                                     #'string>))))
-    (with-current-buffer (find-file-noselect path)
+    (with-current-buffer (find-file-noselect (porg-item-target-abs item))
       (delete-region (point-min) (point-max))
       (if wines
           (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
@@ -561,30 +476,28 @@ Access to full INPUT for related wines."
                  (concat " at " (vulpea-note-title location)))
                "\n"))
             (insert "\n"))
-        (insert "No wines of this producer are present on this site. How did you find this page?"))
+        (insert "There are no wines we drunk together. How did you find this page?"))
       (save-buffer))))
 
 
 
-(cl-defun brb-publish-wines (notes target input _cache)
-  "Generate wines list from NOTES and write it to TARGET file.
+(cl-defun brb-publish-wines (target items items-all _cache)
+  "Generate wines list from ITEMS and write it to TARGET file.
 
-INPUT is input table as returned by `porg-build-input'."
+ITEMS-ALL is input table as returned by `porg-build-input'."
   (with-current-buffer (find-file-noselect target)
     (delete-region (point-min) (point-max))
     (insert
      "#+attr_html: :class wines-table\n"
      (string-table
       :header '("county" "producer" "name" "vintage" "grapes" "rate")
-      :header-sep "-"
-      :header-sep-start "|-"
-      :header-sep-conj "-+-"
-      :header-sep-end "-|"
-      :row-start "| "
-      :row-end " |"
-      :sep " | "
+      :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
+      :row-start "| " :sep " | " :row-end " |"
       :data
-      (->> notes
+      (->> items
+           (hash-table-values)
+           (--filter (string-equal (porg-item-type it) "note"))
+           (-map #'porg-item-item)
            (brb-wines-sort)
            (--map
             (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
@@ -606,130 +519,51 @@ INPUT is input table as returned by `porg-build-input'."
                  "-"))))))
      "\n")
     (porg-clean-links-in-buffer
-     :sanitize-id-fn (-partial #'brb-sanitize-id-link input))
+     :sanitize-id-fn (-rpartial #'brb-sanitize-id-link items-all))
     (save-buffer)))
 
 
 
-(cl-defun brb-publish-ratings (notes target input _cache &optional limit)
-  "Generate ratings list in TARGET file.
+(cl-defun brb-publish-ratings (target items items-all _cache &optional limit)
+  "Generate ratings list from ITEMS in TARGET file.
 
-RATINGS are being queried from NOTES (which are cellar notes).
-
-INPUT is input table as returned by `porg-build-input'.
+Ratings are being queried from ITEMS.
 
 Optionally LIMIT ratings, but keep groups full, e.g. LIMIT might
-be exceeded."
+be exceeded.
+
+ITEMS-ALL is input table as returned by `porg-build-input'."
   (let* ((n 0)
-         (ratings (->> notes
+         (ratings (->> items
+                       (hash-table-values)
+                       (--filter (string-equal (porg-item-type it) "note"))
+                       (-map #'porg-item-item)
                        (--mapcat (vulpea-note-meta-get-list it "ratings" 'note))
-                       (seq-sort-by (lambda (note)
-                                      (vulpea-note-meta-get note "date"))
-                                    #'string>)))
+                       (seq-sort-by (lambda (note) (vulpea-note-meta-get note "date")) #'string>)))
          (limit (or limit (seq-length ratings))))
     (with-current-buffer (find-file-noselect target)
       (delete-region (point-min) (point-max))
       (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
         (unless (> n limit)
-          (insert (format "- %s :: \n"
-                          (format-time-string "%A, %e %B %Y" (date-to-time (car it)))))
+          (insert (format "- %s :: \n" (format-time-string "%A, %e %B %Y" (date-to-time (car it)))))
           (--each (cdr it)
-            (insert "  - " (brb-rating-to-string it) "\n"))
+            (let ((wine (vulpea-note-meta-get it "wine" 'note))
+                  (rate (vulpea-note-meta-get it "total" 'number)))
+              (insert (format "  - ☆ %.2f - %s\n" rate (vulpea-utils-link-make-string wine)))))
           (insert "\n"))
         (setq n (+ n (- (length it) 1))))
       (porg-clean-links-in-buffer
-       :sanitize-id-fn (-partial #'brb-sanitize-id-link input))
-      (save-buffer))))
-
-(cl-defun brb-rating-to-string (rating)
-  "Convert RATING to string."
-  (let ((wine (vulpea-note-meta-get rating "wine" 'note))
-        (rate (vulpea-note-meta-get rating "total" 'number)))
-    (format "☆ %.2f - %s" rate (vulpea-utils-link-make-string wine))))
-
-
-
-(cl-defun brb-common-metadata (piece cache)
-  "Extract common metadata from PIECE and CACHE."
-  (let* ((note (plist-get piece :note))
-         (target-hash-a (plist-get piece :target-hash))
-         (target-hash-b (porg-sha1sum (plist-get piece :target)))
-         (update (if (string-equal target-hash-a target-hash-b)
-                     (or (porg-cache-get (vulpea-note-id note) :update cache)
-                         (format-time-string "%F"))
-                   (format-time-string "%F")))
-         (publish (vulpea-utils-with-note note
-                    (or (vulpea-buffer-prop-get "publish") "true"))))
-    (-concat
-     (list "publish" publish
-           "title" (vulpea-note-title note))
-     (when update (list "update" update)))))
-
-(cl-defun brb-make-meta-file (piece path cache meta)
-  "Create metadata file for PIECE at PATH using CACHE and META."
-  (when-let ((meta (-concat (brb-common-metadata piece cache) meta))
-             (meta-file (concat path ".metadata")))
-    (with-current-buffer (find-file-noselect meta-file)
-      (delete-region (point-min) (point-max))
-      (cl-loop for (key value) on meta by 'cddr
-               do (insert key ": " "\"" (string-from value) "\"" "\n"))
+       :sanitize-id-fn (-rpartial #'brb-sanitize-id-link items-all))
       (save-buffer))))
 
 
 
-(cl-defun brb-copy-images (piece cache)
-  "Copy images of a PIECE that is being built to PATH.
-
-CACHE is used to avoid processing images that have not changed."
-  (let* ((supported '("jpeg" "png" "jpg" "heic" "webp"))
-         (note (plist-get piece :note))
-         (deps (porg-cache-get (vulpea-note-id note) :deps cache))
-         (path (plist-get piece :target))
-         (root (s-chop-suffix (plist-get piece :target-rel) path))
-         (dest (let ((name (directory-from-uuid (file-name-base path))))
-                 (expand-file-name (concat "images/" name) root)))
-         (copied
-          (porg-copy-attachments
-           note
-           :dest-fn dest
-           :filter-fn
-           (lambda (file) (seq-contains-p supported (s-downcase (file-name-extension file))))
-           :copy-fn
-           (lambda (file newname &rest _)
-             (let* ((dep (-find
-                          (lambda (d)
-                            (string-equal (file-name-nondirectory file)
-                                          (plist-get d :id)))
-                          deps))
-                    (newname (file-name-fix-attachment newname))
-                    (max-width 960)
-                    (width (string-to-number
-                            (shell-command-to-string
-                             (format "identify -format %%W '%s'" file))))
-                    ;; if file exists and hash of the source is equal to the cached hash, then we have nothing to do
-                    (hash-source (porg-sha1sum file))
-                    (hash-cached (when (and (file-exists-p newname) dep)
-                                   (plist-get dep :hash))))
-               (unless (string-equal hash-source hash-cached)
-                 (if (> width max-width)
-                     (shell-command-to-string
-                      (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'" file max-width newname))
-                   (shell-command-to-string
-                    (format "convert '%s' -strip -auto-orient '%s'" file newname))))
-               newname)))))
-    (when (file-exists-p dest)
-      (->> (directory-files dest 'full "[^.]")
-           (--remove (-contains-p copied it))
-           (--map (delete-file it 'trash))))))
-
-
-
-(cl-defun brb-sanitize-id-link (input link)
-  "Sanitize ID LINK based on INPUT."
+(cl-defun brb-sanitize-id-link (link items)
+  "Sanitize ID LINK according to ITEMS."
   (if-let* ((id (org-ml-get-property :path link))
             (note (vulpea-db-get-by-id id))
-            (piece (gethash id input))
-            (file (plist-get piece :target-rel))
+            (item (gethash id items))
+            (file (porg-item-target-rel item))
             (path (concat "/" (s-chop-suffix ".org" file))))
       (->> link
            (org-ml-set-property :type "barberry")
@@ -738,31 +572,15 @@ CACHE is used to avoid processing images that have not changed."
      'plain-text
      (concat (nth 2 link) (s-repeat (or (org-ml-get-property :post-blank link) 0) " ")))))
 
-(cl-defun brb-attached-dependencies (note)
-  "Get attached dependencies from NOTE."
-  (vulpea-utils-with-note note
-    (let ((root (org-attach-dir)))
-      (->> (org-element-map (org-element-parse-buffer) 'link #'identity)
-           (--filter
-            (string-equal "attachment" (or (org-ml-get-property :type it) "not-attachment")))
-           (--map (expand-file-name (org-ml-get-property :path it) root))))))
-
 
 
-(cl-defun brb-delete (id cache root)
-  "Delete item with ID located somewhere in the ROOT.
-
-Hopefully CACHE is useful."
-  (let* ((data (gethash id cache))
-         (path (plist-get data :target-rel))
+(cl-defun brb-delete (cached-item root)
+  "Delete CACHED-ITEM from ROOT."
+  (let* ((path (porg-cache-item-output cached-item))
          (file (expand-file-name path root))
-         (meta (expand-file-name (concat path ".metadata") root))
-         (imgs (expand-file-name
-                (concat "images/" (directory-from-uuid (file-name-base path)))
-                root)))
+         (meta (expand-file-name (concat path ".metadata") root)))
     (delete-file file)
-    (delete-file meta)
-    (delete-directory imgs 'recursive)))
+    (delete-file meta)))
 
 
 
@@ -787,6 +605,7 @@ Hopefully CACHE is useful."
    (string-lessp (vulpea-note-title it)
                  (vulpea-note-title other))
    wines))
+
 
 
 (defun brb-wines-by-producer (producer)
@@ -814,13 +633,218 @@ Return list of notes."
        (brb-wines-by-producer it)
        (--remove (string-equal (vulpea-note-id it) (vulpea-note-id note)) it)))
 
-(defun brb-public-notes (notes input)
-  "Exchange list of NOTES to list of pieces based on INPUT.
+(defun brb-public-items (notes items)
+  "Exchange list of NOTES to list of ITEMS.
 
 Basically, keep only public notes."
   (->> notes
-       (--map (gethash (vulpea-note-id it) input))
+       (--map (gethash (vulpea-note-id it) items))
        (-filter #'identity)))
+
+
+
+(org-link-set-parameters "barberry" :follow #'org-roam-link-follow-link)
+
+(setf porg-log-level 'info)
+
+(porg-define
+ :name "barberry.io"
+ :root (when load-file-name (file-name-directory load-file-name))
+ :cache-file "build-cache"
+
+ :input
+ (lambda ()
+   (--filter
+    (and (null (vulpea-note-primary-title it))
+         (= 0 (vulpea-note-level it)))
+    (vulpea-db-query-by-tags-every '("barberry/public"))))
+
+ :rules
+ (list
+  (porg-rule
+   :name "wines"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar")
+   :outputs
+   (brb-make-outputs
+    :file (lambda (note) (concat "wines/" (vulpea-note-id note) ".org"))
+    :hard-deps (lambda (note)
+                 (-concat
+                  (list (vulpea-note-meta-get note "producer" 'note))
+                  (vulpea-note-meta-get-list note "ratings" 'note)))
+    :soft-deps #'brb-related-wines))
+
+  (porg-rule
+   :name "producers"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
+   :outputs
+   (brb-make-outputs
+    :file (lambda (note) (concat "producers/" (vulpea-note-id note) ".org"))
+    :soft-deps (lambda (note) (brb-wines-by-producer note))))
+
+  (porg-rule
+   :name "ratings"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "rating")
+   :outputs (lambda (note) (list (porg-void-output note))))
+
+  (porg-rule
+   :name "grapes"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "grape")
+   :outputs nil)
+
+  (porg-rule
+   :name "posts"
+   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/post")
+   :outputs
+   (brb-make-outputs
+    :file (lambda (note)
+            (concat
+             "posts/"
+             (vulpea-utils-with-note note
+               (let ((date (vulpea-buffer-prop-get "date"))
+                     (slug (or (vulpea-buffer-prop-get "slug")
+                               (porg-slug (vulpea-note-title note)))))
+                 (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
+                 (concat (org-read-date nil nil date) "-" slug)))
+             ".org"))))
+
+  (porg-rule
+   :name "convives"
+   :match (-rpartial #'vulpea-note-tagged-all-p "barberry/convive")
+   :outputs (lambda (note)
+              (list
+               (porg-note-output
+                note
+                :file (concat "convives/" (vulpea-note-id note) ".org")
+                :soft-deps
+                (->> (vulpea-note-id note)
+                     (cons "id")
+                     (list)
+                     (vulpea-db-query-by-links-every)
+                     (--filter (vulpea-note-tagged-all-p it "wine" "rating")))))))
+
+  (porg-batch-rule
+   :name "wines"
+   :filter (-rpartial #'porg-item-that :type "note"
+                      :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :target "pages/wines.org"
+   :publish #'brb-publish-wines)
+
+  (porg-batch-rule
+   :name "reviews"
+   :filter (-rpartial #'porg-item-that :type "note"
+                      :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :target "pages/reviews.org"
+   :publish #'brb-publish-ratings)
+
+  (porg-batch-rule
+   :name "latest reviews"
+   :filter (-rpartial #'porg-item-that :type "note"
+                      :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :target "pages/reviews-latest.org"
+   :publish (-rpartial #'brb-publish-ratings 12)))
+
+ :compilers
+ (list
+  (porg-compiler
+   :name "wine"
+   :match (-rpartial #'porg-rule-output-that :type "note"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :hash #'porg-sha1sum
+   :build
+   (brb-make-publish
+    :copy-fn #'brb-build-wine
+    :metadata
+    (lambda (item)
+      (let* ((note (porg-item-item item))
+             (rating (vulpea-note-meta-get note "rating"))
+             (rating (unless (string-equal rating "NA") (string-to-number rating))))
+
+        (-concat
+         (list "producer" (vulpea-note-meta-get note "producer" 'note)
+               "name" (vulpea-note-meta-get note "name")
+               "vintage" (or (vulpea-note-meta-get note "vintage") "NV")
+               "country" (vulpea-note-meta-get
+                          (or (vulpea-note-meta-get note "region" 'note)
+                              (vulpea-note-meta-get note "appellation" 'note))
+                          "country"
+                          'note)
+               "grapes" (mapconcat
+                         #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
+         (when rating (list "rating" (format "%.2f" rating)))))))
+   :clean #'brb-delete)
+
+  (porg-compiler
+   :name "producer"
+   :match (-rpartial #'porg-rule-output-that :type "note"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "producer"))
+   :hash #'porg-sha1sum
+   :build
+   (brb-make-publish
+    :copy-fn #'brb-build-producer)
+   :clean #'brb-delete)
+
+  (porg-compiler
+   :name "post"
+   :match (-rpartial #'porg-rule-output-that :type "note"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/post"))
+   :hash #'porg-sha1sum
+   :build
+   (brb-make-publish
+    :copy-fn #'brb-build-post
+    :metadata
+    (lambda (item)
+      (let ((note (porg-item-item item)))
+        (vulpea-utils-with-note note
+          (let ((date (vulpea-buffer-prop-get "date"))
+                (language (vulpea-buffer-prop-get "language"))
+                (author (vulpea-buffer-prop-get "author"))
+                (image (vulpea-buffer-prop-get "image"))
+                (description (vulpea-buffer-prop-get "description"))
+                (tags (vulpea-buffer-prop-get-list "tags")))
+            (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
+            (unless language (user-error "Post '%s' is missing language" (vulpea-note-title note)))
+            (unless author (user-error "Post '%s' is missing author" (vulpea-note-title note)))
+            (-concat
+             (list "date" (org-read-date nil nil date)
+                   "language" language
+                   "author" author)
+             (when image
+               (list "image"
+                     (concat
+                      (file-name-as-directory
+                       (concat "images/" (file-name-base (porg-item-target-rel item))))
+                      (file-name-fix-attachment image))))
+             (when description
+               (list "description" description))
+             (when tags
+               (list "tags" (string-join tags ", ")))))))))
+   :clean #'brb-delete)
+
+  (porg-compiler
+   :name "convive"
+   :match (-rpartial #'porg-rule-output-that :type "note"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/convive"))
+   :hash #'porg-sha1sum
+   :build (brb-make-publish :copy-fn #'brb-build-convive)
+   :clean #'brb-delete)
+
+  (porg-compiler
+   :name "images"
+   :match (-rpartial #'porg-rule-output-that :type "attachment" :predicate #'brb-supported-image-p)
+   :build
+   (lambda (item _items _cache)
+     (let ((max-width 960)
+           (width (string-to-number
+                   (shell-command-to-string
+                    (format "identify -format %%W '%s'" (porg-item-item item))))))
+       (if (> width max-width)
+           (shell-command-to-string
+            (format "convert '%s' -strip -auto-orient -resize %sx100^ '%s'"
+                    (porg-item-item item) max-width (porg-item-target-abs item)))
+         (shell-command-to-string
+          (format "convert '%s' -strip -auto-orient '%s'"
+                  (porg-item-item item) (porg-item-target-abs item))))))
+   :clean #'brb-delete)))
 
 
 
