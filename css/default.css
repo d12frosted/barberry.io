@@ -391,6 +391,7 @@ figcaption {
   color: var(--faded);
   font-size: var(--small-size);
   text-align: center;
+  margin-top: 0.6rem;
 }
 
 .clear-both {
