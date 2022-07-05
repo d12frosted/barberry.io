@@ -84,7 +84,8 @@
                                  attach-dir
                                  attach-filter
                                  soft-deps
-                                 hard-deps)
+                                 hard-deps
+                                 outputs-extra)
   "Make outputs function for note.
 
 Just a wrapper around `porg-note-output' and
@@ -100,6 +101,9 @@ too lazy to explain default implementation.
 ATTACH-FILTER is a predicate on attachment file. Controls which
 attachments should be part of the output. Defaults to
 `brb-supported-image-p'.
+
+OUTPUTS-EXTRA is a function that takes a `porg-rule-output' of
+note and returns list of additional outputs.
 
 See `porg-note-output' for documentation for SOFT-DEPS and
 HARD-DEPS. But in this case these are functions on
@@ -674,8 +678,18 @@ Basically, keep only public notes."
                  (-concat
                   (list (vulpea-note-meta-get note "producer" 'note))
                   (vulpea-note-meta-get-list note "ratings" 'note)))
-    :soft-deps #'brb-related-wines))
-
+    :soft-deps #'brb-related-wines
+    :outputs-extra (lambda (output)
+                     (let* ((note (porg-rule-output-item output))
+                            (producer (vulpea-note-meta-get note "producer" 'note)))
+                       (porg-attachments-output
+                        producer
+                        :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
+                               (concat "images/" name))
+                        :file-mod #'file-name-fix-attachment
+                        :filter #'brb-supported-image-p
+                        :owner note)))))
+  
   (porg-rule
    :name "producers"
    :match (-rpartial #'vulpea-note-tagged-all-p "wine" "producer")
