@@ -4,4 +4,5 @@
 #+attr_html: :class wines-table
 |                                                                name | vintage |       grapes |          region | rate |
 |---------------------------------------------------------------------+---------+--------------+-----------------+------|
+| [[barberry:/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9][Chenin Blanc 21 Gables]] |    2019 | Chenin Blanc | WO Stellenbosch | 7.75 |
 | [[barberry:/wines/2a419f13-955d-4675-9ca1-a5800b73cd50][Signature Chenin Blanc]] |    2021 | Chenin Blanc | WO Western Cape | 7.40 |

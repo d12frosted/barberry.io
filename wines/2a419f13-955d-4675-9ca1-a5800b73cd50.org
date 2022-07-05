@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 278 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -17,3 +17,14 @@
 
 A bright and fresh combination of pear, butter and flowers with citrus notes. Medium-high acidity. Well balanced. Overall it's simple yet neatly made Chenin Blanc. Good value.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
+  </a>
+
+</div>
+#+end_export
