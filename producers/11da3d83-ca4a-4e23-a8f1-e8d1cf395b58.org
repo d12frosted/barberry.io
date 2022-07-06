@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                        name | vintage |                                grapes |        region | rate |
+|-------------------------------------------------------------+---------+---------------------------------------+---------------+------|
+| [[barberry:/wines/9b57e144-d3e1-45b1-974b-a16a415962cf][Première Cuvée]] |      NV | Pinot Meunier, Chardonnay, Pinot Noir | Champagne AOC | 8.00 |

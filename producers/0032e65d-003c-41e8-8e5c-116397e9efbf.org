@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                  name | vintage |                 grapes |        region | rate |
+|-----------------------------------------------------------------------+---------+------------------------+---------------+------|
+| [[barberry:/wines/108c69b0-4506-4e05-9da4-c73ccd053992][Grand Reserve Extra Brut]] |      NV | Chardonnay, Pinot Noir | Odessa Region | 5.00 |

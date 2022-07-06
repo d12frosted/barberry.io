@@ -1,0 +1,302 @@
+#+begin_quote
+Everything needs to change for everything to stay the same.
+
+/Alice Paillard/
+#+end_quote
+
+What is the best way to celebrate winter holidays? Someone's birthday? LotR anniversary? A mere existence? Morning? Of course, the answer is sparkling wine! So we need no reason to gather for a blind tasting of 7 traditional sparkling wines!
+
+1. [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Domaine de la Touraize Crémant du Jura Millésimé 2018]]
+2. [[barberry:/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0][Billecart Salmon Brut Reserve NV]] (magnum)
+3. [[barberry:/wines/9b57e144-d3e1-45b1-974b-a16a415962cf][Bruno Paillard Première Cuvée NV]] (magnum)
+4. [[barberry:/wines/108c69b0-4506-4e05-9da4-c73ccd053992][Shabo Grand Reserve Extra Brut]]
+5. [[barberry:/wines/1c498873-9026-4a72-b993-0c51235b0883][Cà del Vént Memoria Brut Pas Operé VSQ 2014]]
+6. [[barberry:/wines/03c58432-e29b-470c-985b-a1fa44ac3df7][Bérêche & Fils Brut Réserve NV]]
+7. [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Marco de Bartoli Terzavia 2018]]
+
+* Result
+:PROPERTIES:
+:ID:                     0764c7e7-85eb-4fd7-a84a-c174dc7e8eb6
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |  amean |    rms |   sdev |   price |      QPR |
+|---+--------+--------+--------+---------+----------|
+| 1 |   3.61 |   3.64 | 0.1655 |  961.00 |   1.4209 |
+| 2 |   3.48 |   3.56 | 0.5417 | 2050.00 |   0.5508 |
+| 3 |   3.51 |   3.59 | 0.5598 | 1825.00 |   0.6501 |
+| 4 |   3.16 |   3.23 | 0.4239 |  516.00 | *1.4296* |
+| 5 | *3.87* | *3.91* | 0.2620 | 1650.00 |   1.2007 |
+| 6 |   3.70 |   3.76 | 0.4240 | 1837.00 |   0.8400 |
+| 7 |   3.64 |   3.69 | 0.4223 | 1085.00 |   1.2974 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+#+LATEX: \newpage
+
+* Wine
+:PROPERTIES:
+:ID:                     a91a9a18-fd40-40fe-8797-08e81cd47cec
+:END:
+
+** Domaine de la Touraize Crémant du Jura Millésimé 2018
+:PROPERTIES:
+:ID:                     94805414-be6f-4ec2-867b-0d18ff431d71
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-16-59-54-jura.webp]]
+
+- producer :: Domaine de la Touraize
+- name :: Crémant du Jura Millésimé
+- dosage :: Extra Brut
+- vintage :: 2018
+- degorgee :: 05/09/2020
+- sur lie :: 18 months
+- grapes :: Chardonnay
+- appellation :: Crémant du Jura AOC
+- alcohol :: 12.5%
+- sugar :: 0.0g
+- price :: 961 UAH
+- buy :: [[https://goodwine.com.ua/cremant-du-jura-q1683.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+** Billecart Salmon Brut Reserve NV
+:PROPERTIES:
+:ID:                     ae2da503-0066-4e35-a404-2ebd30b8232f
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-02-40-salmon.webp]]
+
+- producer :: Billecart Salmon
+- name :: Brut Reserve
+- dosage :: Brut
+- vintage :: NV
+- degorgee :: ???
+- sur lie :: ???
+- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation :: Champagne AOC
+- alcohol :: 12.0%
+- sugar :: 6.0g
+- price :: 4100 UAH (2050 UAH) - NA
+- buy :: [[https://goodwine.com.ua/brut-reserve-86036.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+** Bruno Paillard Première Cuvée NV
+:PROPERTIES:
+:ID:                     a0d05af5-04c4-4d90-9d25-f4ba39d91583
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-04-37-paillard.webp]]
+
+- producer :: Bruno Paillard
+- name :: Première Cuvée
+- dosage :: Extra Brut
+- vintage :: NV
+- degorgee :: November 2020
+- sur lie :: 36 months
+- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation :: Champagne AOC
+- alcohol :: 12.0%
+- sugar :: 7.6g
+- price :: 3650 UAH (1825 UAH) - NA
+- buy :: [[https://goodwine.com.ua/premiere-cuvee-q7914.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+** Shabo Grand Reserve Extra Brut NV
+:PROPERTIES:
+:ID:                     c05ae931-a206-4603-900d-c17bac79e4a0
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-01-shabo.webp]]
+
+- producer :: Shabo
+- name :: Grand Reserve Extra Brut
+- dosage :: Extra Brut
+- vintage :: NV
+- degorgee :: ???
+- sur lie :: 36 months
+- grapes :: Chardonnay, Pinot Noir
+- region :: Odesa
+- alcohol :: 12.0%
+- sugar :: ???
+- price :: 516 UAH
+- buy :: [[https://goodwine.com.ua/shabo-grand-reserve-extra-brut-82070.html][goodwine.com.ua]]
+
+https://goodwine.com.ua/shabo-grand-reserve-extra-brut-82070.html
+
+#+LATEX: \newpage
+
+** Ca Del Vent Memoria Brut Pas Opere 2014
+:PROPERTIES:
+:ID:                     923b6af0-6ec1-4fad-8661-a475c56430cc
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/memoria.webp]]
+
+- producer :: Ca Del Vent
+- name :: Memoria Brut Pas Opere
+- dosage :: Brut
+- vintage :: 2014
+- degorgee :: ~2018-2019
+- sur lie :: 44 months
+- grapes :: Chardonnay, Pinot Noir
+- appellation :: Vino
+- region :: Lombardia
+- alcohol :: 12.5%
+- sugar :: 3
+- price :: 1650 UAH
+- buy :: [[https://goodwine.com.ua/memoria-brut-pas-opere-q0228.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+** Bereche et Fils Brut Reserve NV
+:PROPERTIES:
+:ID:                     a3b542f0-2144-44f2-8c10-295c0eff1cf8
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-42-bereche.webp]]
+
+- producer :: Bereche et Fils
+- name :: Brut Reserve
+- dosage :: Extra Brut
+- vintage :: NV
+- degorgee :: 06/2021
+- sur lie :: 24 months
+- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation :: Champagne
+- alcohol :: 12.5%
+- sugar :: 6.0g
+- price :: 1837 UAH - NA
+- buy :: [[https://goodwine.com.ua/brut-reserve-q0097.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+** Marco De Bartoli Terzavia 2018
+:PROPERTIES:
+:ID:                     07478f01-89fb-4959-a91c-1d4cfac2f585
+:END:
+
+#+ATTR_LATEX: :height 6cm
+#+attr_html: :class bottle-right
+[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-56-terzavia.webp]]
+
+- producer :: Marco De Bartoli
+- name :: Terzavia
+- dosage :: Extra Brut
+- vintage :: 2018
+- degorgee :: 2021
+- sur lie :: >18 months
+- grapes :: Grillo
+- appellation :: Sicilia DOC
+- alcohol :: 11.0%
+- sugar :: 3.0g
+- price :: 1085 UAH
+- buy :: [[https://goodwine.com.ua/terzavia-metodo-classico-q7821.html][goodwine.com.ua]]
+
+#+LATEX: \newpage
+
+* Fun facts
+:PROPERTIES:
+:ID:                     5e43dc5d-0970-45cd-940e-272f2f63642a
+:END:
+
+You might not need it, but you might also enjoy it.
+
+For quite a long time, bubbles in wine were considered a fault (of course, the devil had something to do with it). Little by little, the mystery was solved, and it turned out that responsibility for bubbles lies on yeast that eats sugar and… well, produces $CO_2$ as a byproduct of this feast. Over the years (and especially during the last 150 years), people came up with many methods to produce sparkling wines - traditional, tank, transfer, ancestral, carbonation, etc. During this event, we are focused solely on the traditional method.
+
+In short, the most critical aspect of the traditional method is that the transformation from a still to a sparkling wine occurs entirely inside the bottle. Basically, the still wine is bottled together with yeast and sugar or must to initiate the second fermentation. Then for some time (it can be as short as 9 months and as long as 120 months), the bottle rests while all the magic happens inside. Of course, at some point, the yeast eats all it can eat, produces all the $CO_2$ it can produce, and dies eventually. It doesn’t take too much time, by the way. Usually, all the yeast cells die within the first month. So why do some maniacs hold the bottle for 10 years? Because ageing on lees (e.g. on the dead yeast cells) actually has its merits as it contributes towards complexity, elegance, nutty and toasty aromas, and creamy texture.
+
+Once the winemaker decides it’s enough, the process of riddling and disgorgement begins. The goal is to get rid of dead yeast cells from the bottle. Clarification occurs by settling the bottle upside down, and the dead yeast cells collect in the neck of the bottle. Bottles are rotated. Previously it was done by hand, but now machines usually do this job. To remove sediment, the bottles are placed upside down into freezing liquid which causes the yeast bits to freeze in the neck of the bottle. The crown cap is then popped off momentarily allowing the frozen chunk of Lees to shoot out of the pressurized bottle.
+
+Now… as a result of disgorgement, the bottle contains much less liquid than it should! To deal with the loss, a mixture of wine and sugar (can be zero sugar) is added to fill bottles, and then bottles are corked, wired and labelled.
+
+That’s it!
+
+Arguably, the traditional method is the most appreciated method for sparkling wine production in terms of quality. At the same time, it is also the most costly in terms of production. For obvious reasons, right?
+
+Any examples of the traditional method? Of course, Champagne! But also, Cava (from a specific region in Spain), Franciacorta (from a specific region in Italy), Trento (from a specific region in Italy), Crémant (many of them, must have region designation) and many wines without a special name...
+
+** Yeast
+:PROPERTIES:
+:ID:                     31bf6044-6e6c-439b-a350-3a7de556e040
+:END:
+
+Interestingly, for most of the history of wine, winemakers did not know the mechanism that somehow converted sugary grape juice into alcoholic wine. They usually described the fermentation process as boiling or seething. This view is preserved in the etymology of the word ‘yeast’ itself, which essentially means ‘to boil’.
+
+In the 1880s, Louis Pasteur studied the fermentation process and the role of yeast. He was tasked by the French government to study what made some wines spoil. While he discovered the connection between microscopic yeast cells and the process of fermentation, the exact mechanism of how the yeast would accomplish this task was not discovered till the 20th century with Glycolysis.
+
+** Sweetness of Champagne
+:PROPERTIES:
+:ID:                     56362fbe-e8c9-45e1-9dec-7e52d358b5d0
+:END:
+
+In Champagne, the sweetness comes from dosage (mixture of wine and sugar or grape must) or 'liqueur d'expedition' added at the end of the second fermentation after disgorging. Dosage is required not only because disgorging leaves too much empty space in the bottle, but also to lower the acidity level, which is so high that the wine is undrinkable.
+
+Unlike still wines, sweetness levels in Champagne are quite different
+
+- brut nature (zero dosage)): 0-3 g/L RS, no added sugar
+- extra brut: 0-6 g/L RS
+- brut: 0-12 g/L RS
+- extra-dry: 12-17 g/L RS
+- dry: 17-32 g/L RS
+- demi-sec: 32-50 g/L RS
+- doux: 50+ g/L RS
+
+** Styles of Champagne
+:PROPERTIES:
+:ID:                     29c1f4d0-6baa-4514-9a7a-8ef8c0f07cc6
+:END:
+
+- Blanc de Blancs. White wine made of 100% white grapes. Usually made of 100% Chardonnay. Typically have more Lemon and Apple-like fruit flavours.
+- Blanc de Noirs. White wine made of 100% black grapes. Usually made of Pinot Noir and/or Pinot Meunier. Typically have more Strawberry and white Raspberry flavours.
+- Rose. Blend of white with a teensy bit of red wine. Strawberry and Raspberry, tart with low tannin and very high acidity.
+
+** Price of Champagne
+:PROPERTIES:
+:ID:                     d7be021e-55e2-451a-97fd-0603910889f8
+:END:
+
+Why is Champagne so cheap? - asks Tyson Stelzer. I am definitely not bragging, but I totally agree with the accent in this question. Champagne maintains a pretty low price despite the situation this region is in right now. And the price is only going to grow, so today is a good day to buy Champagne and enjoy it casually.
+
+It takes around 1.3 kilograms of grapes to produce a bottle of champagne, which roughly costs around €10. The average Champagne vineyard is now valued at more than €1.5 million per hectare, ranking Champagne as the highest-value appellation viticultural land on earth, 60 times the value of an average Bordeaux vineyard!
+
+There are several reasons for this price. Firstly, the taxing system. I am not going to dive into details (as I am not proficient enough to make any judgements here), but it's a fact that people struggle with the current taxing system. You not only have to pay production tax, but you also pay enormous inheritance tax. For example, De Sousa owns 11 hectares of almost exclusively Côtes des Blancs grand crus (estimated value is €3 million per hectare) to produce 100,000 bottles, and at any time holds 250,000 bottles in its cellar. This little family estate must be worth well more than €30 million. Nowadays it would take a lifetime to pay off the tax on such an inheritance. Why? Because France boasts one of the highest levels of inheritance tax in the world, and children are stung with 45% tax on assets worth more than €1.8 million. That's why they say 'If the parents pass away and haven't prepared for this, then the children say it's a poisoned gift and they're forced to sell the vineyards to big companies.
+
+Second, the technology of Champagne production is complex, labour-intensive and time-consuming. You also have to stock your wines for around 4.5 years (many stocks for even more). This obviously adds to the price.
+
+Then we have the climate change, devastating vintages (like 2017, 2016, 2011, 2010, 2003, 2001). And one of the solutions is changing the viticultural approach. Sustainable farming turns out to be a good solution for this region. But as a result, to survive and produce great wine, growers have to cut their production. For example, Larmandier limits his yields to 60-70hL per hectare as opposed to the common 100hL in the region.
+
+In the midst of all this, Champagne remains the outright bargain of the luxury wine world, with prestige champagne ranking far and away as the most affordable and most accessible of all flagship global benchmark wines. In 1904, Moet & Chandon Carte Bleue sold for the same price as Chateau Latour, Chateau Margaux and Chateau Haut-Brion. Today, these iconic wines are 20 times the price. Champagne does not rank even once among the top 20 most expensive wines in the world.
+
+* References
+:PROPERTIES:
+:ID:                     553ae6e7-aeb5-4467-b674-0b93e40003e8
+:END:
+
+- [[https://www.octopusbooks.co.uk/imprint/octopus/mitchell-beazley/page/octopus-books/worldatlasofwine/][The World Atlas of Wine 8th Edition by Hugh Johnson and Jancis Robinson]]
+- [[https://www.tysonstelzer.com/online-store/books-e-books/the-champagne-guide-2020-2021-ebook/][The Champagne Guide 2020-2021 Edition VI by Tyson Stelzer]]
+- Wine Stories by Alex Kapusta
+- [[https://winefolly.com/deep-dive/how-sparkling-wine-is-made/][How Sparkling Wine is Made by Madeline Puckette]]

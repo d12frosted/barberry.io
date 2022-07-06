@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                      name | vintage |                                grapes |        region | rate |
+|-----------------------------------------------------------+---------+---------------------------------------+---------------+------|
+| [[barberry:/wines/03c58432-e29b-470c-985b-a1fa44ac3df7][Brut Réserve]] |      NV | Pinot Meunier, Pinot Noir, Chardonnay | Champagne AOC | 8.22 |
