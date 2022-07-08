@@ -26,5 +26,10 @@ Simple and somehow tired bouquet. Or was it me who was tired? Yellow apples, sto
     <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
+    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h text-bolder">Sparkling Rosé - NV</section>
+  </a>
+
 </div>
 #+end_export

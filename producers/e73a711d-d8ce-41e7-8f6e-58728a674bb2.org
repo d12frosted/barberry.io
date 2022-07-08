@@ -2,7 +2,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                                    name | vintage |             grapes |                  region | rate |
-|-------------------------------------------------------------------------+---------+--------------------+-------------------------+------|
-| [[barberry:/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b][Classic Cabernet Sauvignon]] |    2016 | Cabernet Sauvignon | South Eastern Australia | 6.00 |
-|         [[barberry:/wines/1b9610bc-f390-46f5-989f-da6771f01eef][Classic Chardonnay]] |    2017 |         Chardonnay |               Australia | 7.20 |
+|                                                                    name | vintage |                 grapes |                  region | rate |
+|-------------------------------------------------------------------------+---------+------------------------+-------------------------+------|
+| [[barberry:/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b][Classic Cabernet Sauvignon]] |    2016 |     Cabernet Sauvignon | South Eastern Australia | 6.00 |
+|         [[barberry:/wines/1b9610bc-f390-46f5-989f-da6771f01eef][Classic Chardonnay]] |    2017 |             Chardonnay |               Australia | 7.20 |
+|             [[barberry:/wines/764bd923-7614-4d69-ac9c-556694bb1c9f][Sparkling Rosé]] |      NV | Pinot Noir, Chardonnay |               Australia | 7.00 |
