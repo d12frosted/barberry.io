@@ -4,4 +4,4 @@
 #+attr_html: :class wines-table
 |                                                    name | vintage |  grapes |    region | rate |
 |---------------------------------------------------------+---------+---------+-----------+------|
-| [[barberry:/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87][Filagnotti]] |    2016 | Cortese | Vino (IT) |    - |
+| [[barberry:/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87][Filagnotti]] |    2016 | Cortese | Vino (IT) | 8.00 |
