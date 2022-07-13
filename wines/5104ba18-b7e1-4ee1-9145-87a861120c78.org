@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp]]
+
+- Type :: Rose Still, Dry
+- Producer :: [[barberry:/producers/21678ebe-7021-424e-8bbd-1e56fe722414][Chivite]]
+- Vintage :: 2018
+- Location :: Spain, Navarra DO
+- Grapes :: Tempranillo, Grenache
+- Alcohol :: 14
+- Sugar :: 1.5
+- Price :: 1085 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-08-19 - ☆ 8.00
+
+It was really interesting to taste 2018 while my memory of 2006 is still fresh. Yes, unlike 2006 it is not 100% Tempranillo, and has some Garnacha, but still. Wonderful and serious rosé, still young with huge potential. Marzipan, strawberry, butter, vanilla, bakery. Quite sophisticated, quite delicate, fresh and well balanced.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/24b39022-f0cf-48da-b842-6a1268c7a2f8.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Tinto Reserva - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
+  </a>
+
+</div>
+#+end_export

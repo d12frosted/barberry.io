@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                     name | vintage |                grapes |     region | rate |
+|--------------------------------------------------------------------------+---------+-----------------------+------------+------|
+|        [[barberry:/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47][Coleccion 125 Rosado]] |    2006 |           Tempranillo | Navarra DO | 8.25 |
+|        [[barberry:/wines/5104ba18-b7e1-4ee1-9145-87a861120c78][Coleccion 125 Rosado]] |    2018 | Tempranillo, Grenache | Navarra DO | 8.00 |
+| [[barberry:/wines/24b39022-f0cf-48da-b842-6a1268c7a2f8][Coleccion 125 Tinto Reserva]] |    2014 |           Tempranillo | Navarra DO | 8.00 |
