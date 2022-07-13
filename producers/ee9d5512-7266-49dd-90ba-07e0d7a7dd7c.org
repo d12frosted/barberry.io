@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                      name | vintage |                       grapes | region | rate |
+|-----------------------------------------------------------+---------+------------------------------+--------+------|
+| [[barberry:/wines/476f7a06-fd20-4887-a5fa-1d77f41309ce][Brut Reserva]] |    2019 | Macabeo, Xarel-lo, Parellada |   Cava |    - |

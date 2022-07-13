@@ -33,9 +33,9 @@
 
 (require 'dash)
 (require 'vulpea)
+(require 'publicatorg)
 
 (require 'lib-string)
-(require 'lib-publicatorg)
 (require 'lib-fun)
 
 

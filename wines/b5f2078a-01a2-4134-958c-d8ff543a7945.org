@@ -1,0 +1,47 @@
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
+- Vintage :: 2019
+- Location :: Australia, Gippsland
+- Grapes :: Greco di Tufo
+- Alcohol :: 12.3
+- Sugar :: 1.1
+- Price :: 1130 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-12-20 - ☆ 8.00
+
+Great skin contact Greco di Tufo. As great as 2018. Neat and nuanced bouquet featuring tea, apricots, dried herbs and honey. But on the palate it's even more fascinating and complex. Fresh, with the right volume and multiple flavours: tea with bergamot, apricot flowers, herbs and notes of VA. Tasty!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Fistful of Flowers - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Bianco - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Staring at the Sun - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,47 @@
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
+- Vintage :: 2019
+- Location :: Australia, Heathcote
+- Grapes :: Fiano, Vermentino, Moscato Giallo
+- Alcohol :: 12
+- Sugar :: 1
+- Price :: 948 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-03-30 - ☆ 7.50
+
+Very sensitive to temperature. Cloudy, straw colour. Intense, aromatic. Kombucha, flowers, ginger, rotting mandarins, rotting pineapple, VA, salt. When properly cooled very pleasing, but it quickly turns into spoiled pineapple juice with rotten mandarins. Funky, but not crazy.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Fistful of Flowers - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Bianco - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2018</section>
+  </a>
+
+</div>
+#+end_export
