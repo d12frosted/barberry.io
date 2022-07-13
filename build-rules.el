@@ -4,6 +4,8 @@
 ;;
 ;; Author: Boris Buliga <boris@d12frosted.io>
 ;; Maintainer: Boris Buliga <boris@d12frosted.io>
+;; Version: 0.1
+;; Package-Requires: ((emacs "27.1") (publicatorg "0.1"))
 ;;
 ;; Created: 23 Jun 2022
 ;;
@@ -31,12 +33,12 @@
 ;;
 ;;; Code:
 
+(require 'init)
+
 (require 'dash)
 (require 'vulpea)
+(require 'vino)
 (require 'publicatorg)
-
-(require 'lib-string)
-(require 'lib-fun)
 
 
 
