@@ -26,5 +26,10 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Signo Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
 </div>
 #+end_export

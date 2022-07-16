@@ -1,0 +1,44 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2022-07-16-18-48-40-F45B1701-8B12-455A-BC70-C9A6471BF375-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadila]]
+- Vintage :: 2019
+- Location :: Italy, Vino (IT)
+- Grapes :: Glera, Verdicchio, Bianchetta Trevigiana
+- Alcohol :: 10.5
+- Sugar :: 2
+- Price :: 730 UAH
+- Cellar :: N/A
+
+** Producer
+
+Ernesto Cattel is one of the first people that started to restore popularity of Col Fondo, e.g. ancestrale method, which differs from Pet Nat by having second fermentation in the bottle and with no filtration. And to make it even more interesting, his Col Fondo is macerated!
+
+** Ratings
+
+*** 2022-07-15 - ☆ 7.20
+
+Funny and easy-to-understand bubbles. A light story about citrus, yeast, rubber, and kōcha kinoko. Fresh, with no demands and claims. Just don't ask questions!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">Móz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/445a94bf-3819-4648-aded-091cbabaa8e9.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">330 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">450 slm - 2019</section>
+  </a>
+
+</div>
+#+end_export

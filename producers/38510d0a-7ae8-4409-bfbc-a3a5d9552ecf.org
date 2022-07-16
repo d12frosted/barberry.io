@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                                     name | vintage | grapes |                                 region | rate |
+|------------------------------------------------------------------------------------------+---------+--------+----------------------------------------+------|
+| [[barberry:/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06][Valdobbiadene Metodo Classico Dosaggio Zero]] |    2018 |  Glera | Conegliano Valdobbiadene Prosecco DOCG | 7.40 |
