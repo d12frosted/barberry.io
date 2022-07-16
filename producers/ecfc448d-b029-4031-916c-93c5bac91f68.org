@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                   name | vintage |             grapes | region | rate |
+|--------------------------------------------------------+---------+--------------------+--------+------|
+| [[barberry:/wines/dae21538-1207-4b55-bebf-07525b9ab10a][Cava Brut]] |      NV | Macabeo, Parellada |   Cava | 7.00 |

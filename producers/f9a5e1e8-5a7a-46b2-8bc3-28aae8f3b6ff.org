@@ -1,0 +1,8 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                name | vintage |                                                  grapes |                  region | rate |
+|---------------------------------------------------------------------+---------+---------------------------------------------------------+-------------------------+------|
+| [[barberry:/wines/f506a040-1940-496a-9901-0bb471948800][Gluegglich Glückliches]] |      NV | Zierfandler, Riesling, Chardonnay, Rotgipfler, Savagnin |        Niederösterreich | 7.00 |
+|                [[barberry:/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63][Pet Nat]] |    2020 |                           Grüner Veltliner, Muskateller | Landwein aus Österreich | 7.00 |

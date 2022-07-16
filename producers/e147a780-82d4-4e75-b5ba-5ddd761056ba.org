@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                        name | vintage |                                grapes |        region | rate |
+|-----------------------------------------------------------------------------+---------+---------------------------------------+---------------+------|
+| [[barberry:/wines/22902600-63fa-4887-8c46-a3f16847bb5d][L’Authentique Premier Cru Brut]] |      NV | Pinot Meunier, Pinot Noir, Chardonnay | Champagne AOC | 7.10 |
