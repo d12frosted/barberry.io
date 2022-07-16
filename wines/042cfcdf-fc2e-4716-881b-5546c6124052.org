@@ -1,0 +1,40 @@
+#+attr_html: :class wine-main-image
+[[file:/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]
+- Vintage :: 2019
+- Location :: Germany, Deutscher Wein
+- Grapes :: Bacchus, Würzer, Scheurebe, Riesling, Müller-Thurgau, Silvaner
+- Alcohol :: 10
+- Sugar :: 0
+- Price :: 515 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-07-15 - ☆ 7.00
+
+Tasting new vintage and I must say that 2018 was much more interesting. This one is about soaked lilac flowers, VA, brine and yellow fruits. Feels like it has lost its character and merged with many other similar 'unique' natural wines.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Al Dente - 2018</section>
+  </a>
+
+</div>
+#+end_export

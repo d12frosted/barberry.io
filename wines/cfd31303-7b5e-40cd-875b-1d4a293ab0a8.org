@@ -1,0 +1,40 @@
+#+attr_html: :class wine-main-image
+[[file:/images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]
+- Vintage :: 2020
+- Location :: Germany, Deutscher Wein
+- Grapes :: Müller-Thurgau, Würzer, Huxelrebe
+- Alcohol :: 9.5
+- Sugar :: 0
+- Price :: 760 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-07-15 - ☆ 7.00
+
+Wheat bear with the price tag of decent wine. Yellow apple left for a few days. And now it started to dry out. Dried field flowers. Not complex, easy-going. Low alcohol content and completely dry. Good acidity. I don't like it, but some of its features are interesting.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/042cfcdf-fc2e-4716-881b-5546c6124052.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Al Dente - 2018</section>
+  </a>
+
+</div>
+#+end_export
