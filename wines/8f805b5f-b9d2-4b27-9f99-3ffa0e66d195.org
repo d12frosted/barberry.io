@@ -17,3 +17,24 @@
 
 Expressive black currant pie with notes of sweat, smelly cranberry, nail polish remover, and some common bakery spices. Woosh, not my grandmother's recipe for sure. At least she didn't add so many spices. On the palate, it's pretty aggressive, thanks to dry tannin, lifted acidity and flavours of VA. This Blauer Portugieser (my first one, by the way) is a typical example of low-intervention wine that nimbly surprises inexperienced people. Bright, expressive, and straightforward. Yet it has something to offer for a good value.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
+  </a>
+
+</div>
+#+end_export

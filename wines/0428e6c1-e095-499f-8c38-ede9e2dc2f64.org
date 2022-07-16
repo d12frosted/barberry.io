@@ -1,0 +1,38 @@
+#+attr_html: :class wine-main-image
+[[file:/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
+- Vintage :: 2020
+- Location :: Hungary
+- Grapes :: Hárslevelű
+- Alcohol :: 11
+- Sugar :: 2.5
+- Price :: 840 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,41 @@
+- Type :: White Sparkling, Dry
+- Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
+- Vintage :: 2019
+- Location :: Hungary
+- Grapes :: Hárslevelű
+- Alcohol :: 10.5
+- Sugar :: 0.8
+- Price :: 740 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-10-16 - ☆ 5.00
+
+The more I drink Pet Nats, the more I realise that it's not my type of wine. Yes, easy going and refreshing party bubbles, but I rarely drink just to get fizzy. This Pet Nat features beer and kombucha. No taste at all, it's like white beer, and I don't like it :)
+
+*** 2021-04-28 - ☆ 7.00
+
+The last time I tasted this wine on a party 6 months ago. Now I like it much more because it is more firm and structured and not as dull as before. Beer and kombucha, white flowers and stone fruits. Zesty, fizzy and easy going.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+</div>
+#+end_export

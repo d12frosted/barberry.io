@@ -1,0 +1,45 @@
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
+- Vintage :: 2019
+- Location :: Hungary, Transdanubia OFJ
+- Grapes :: Hárslevelű
+- Alcohol :: 11
+- Sugar :: 0.6
+- Price :: 570 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-10-16 - ☆ 7.00
+
+Mediocre orange. Soaked apples, caramel and spring flowers. Pretty good, but nothing special. I'd love to give it a year or two to settle down and find an inner peace.
+
+*** 2020-11-25 - ☆ 7.50
+
+Tasted blind and my guess was Austria or Fruili. Turned out to be Hungary! Obviously, my grape guess wasn't even close. Medicore orange, a little bit better than the last time. Soaked apples, spring flowers, nutmeg and balsamic notes. Best from the Hummel range.
+
+*** 2021-05-17 - ☆ 5.00
+
+Stability is not about this wine. I've tasted it on multiple occasions and it filled the spectrum between mediocre orange and good one. This time it was even below. Very volatile, bergamot tea with spoon of honey and a lemon slice. Very murky, acidic and aggressive.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+</div>
+#+end_export
