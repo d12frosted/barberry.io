@@ -1,0 +1,9 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                                                           name | vintage |             grapes |       region | rate |
+|------------------------------------------------------------------------------------------------+---------+--------------------+--------------+------|
+|                                         [[barberry:/wines/ad694be5-b034-4587-8c7a-b7e1da05c101][Gentleman]] |    2016 | Malvasía de Sitges | Vino de Mesa | 7.25 |
+| [[barberry:/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015][Sumoll Reserva Familia Blanc de Noirs Brut Nature]] |    2017 |             Sumoll | Vino de Mesa | 7.00 |
+|                        [[barberry:/wines/f967170b-4418-45f3-8d3f-5be4cb53843d][Syrah CRV Rosé Brut Nature]] |      NV |              Syrah | Vino de Mesa | 7.25 |

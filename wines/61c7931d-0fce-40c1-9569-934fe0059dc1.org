@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 2
 - Price :: 1084 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -17,5 +17,18 @@ Producer from Bourgogne.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-07-15 - ☆ 8.00
 
+2018 was a troublesome vintage and a test for being a good producer. This is how I found Hudelot-Noëllat. The new vintage is different, especially in terms of acidity and volume. Beautiful bouquet: cherry, milk chocolate and wet leaves. Fresh, juicy, well-balanced, round, elegant, but still too young.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/588f34e3-68db-4015-b04d-58503fdc84e6.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2018</section>
+  </a>
+
+</div>
+#+end_export

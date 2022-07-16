@@ -1,0 +1,32 @@
+- Type :: Rose Sparkling, Brut nature
+- Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
+- Vintage :: NV
+- Location :: Spain, Vino de Mesa
+- Grapes :: Syrah
+- Alcohol :: 12.5
+- Sugar :: 1.2
+- Price :: 750 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-06-14 - ☆ 7.25
+
+Sparkling wines made of Syrah is not something I drink every month. And unlike Peppermint Paddock, this one is traditional method rosé. A little bit of VA, wild red berries, raw meat with notes of fermented stuff. Rich, even profound, with long aftertaste full of fermented strawberry with nice mineral finish. Overall it's good, but the palate is not fascinating and lacks acidity. With aeration quickly becomes dull.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Gentleman - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  </a>
+
+</div>
+#+end_export
