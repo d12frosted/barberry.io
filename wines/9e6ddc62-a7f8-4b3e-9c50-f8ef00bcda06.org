@@ -71,7 +71,12 @@ style. Great value.
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2016) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
+  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Enfers Blanc des Blancs Extra Brut (2014) - NV</section>
   </a>

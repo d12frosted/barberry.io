@@ -70,5 +70,10 @@ Based on 2014, it spent 60 months on lees. The most friendly and quaffable wine 
     <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
 </div>
 #+end_export
