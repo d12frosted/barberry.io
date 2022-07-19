@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                name | vintage |                     grapes |    region | rate |
+|-----------------------------------------------------+---------+----------------------------+-----------+------|
+| [[barberry:/wines/e080c035-c2fa-412a-bce9-007a9ba98063][Branco]] |    2017 | Viosinho, Arinto, Verdelho | Lisboa VR | 7.00 |

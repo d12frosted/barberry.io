@@ -2,6 +2,7 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                             name | vintage |                      grapes |                   region | rate |
-|------------------------------------------------------------------+---------+-----------------------------+--------------------------+------|
-| [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Héritage Kosmos 888]] |    2019 | Grenache, Syrah, Monastrell | Coteaux du Languedoc AOC | 7.60 |
+|                                                              name | vintage |                      grapes |                   region | rate |
+|-------------------------------------------------------------------+---------+-----------------------------+--------------------------+------|
+| [[barberry:/wines/7e65f750-5d08-4144-b41f-a8fda1672560][Cote des Roses Rouge]] |    2020 |                  Pinot Noir |     IGP Vin de Pays d'Oc | 7.40 |
+|  [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Héritage Kosmos 888]] |    2019 | Grenache, Syrah, Monastrell | Coteaux du Languedoc AOC | 7.60 |

@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                           name | vintage |            grapes |                region | rate |
+|----------------------------------------------------------------+---------+-------------------+-----------------------+------|
+| [[barberry:/wines/339ca8d9-fc56-47b9-8947-fa94115b980d][Verduno Pelaverga]] |    2020 | Pelaverga Piccolo | Verduno Pelaverga DOC | 7.50 |
