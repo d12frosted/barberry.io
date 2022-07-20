@@ -4,4 +4,4 @@
 #+attr_html: :class wines-table
 |                                                          name | vintage |              grapes | region | rate |
 |---------------------------------------------------------------+---------+---------------------+--------+------|
-| [[barberry:/wines/a29c13d9-1345-44a6-b7ea-36630afd1b14][Cava Brut Nature]] |      NV | Macabeo, Chardonnay |   Cava |    - |
+| [[barberry:/wines/a29c13d9-1345-44a6-b7ea-36630afd1b14][Cava Brut Nature]] |      NV | Macabeo, Chardonnay |   Cava | 7.40 |
