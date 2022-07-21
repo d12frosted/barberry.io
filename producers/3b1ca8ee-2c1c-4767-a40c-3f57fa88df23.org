@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                 name | vintage |   grapes |     region | rate |
+|------------------------------------------------------+---------+----------+------------+------|
+| [[barberry:/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c][Lluerna]] |    2021 | Xarel-lo | Penedès DO |    - |

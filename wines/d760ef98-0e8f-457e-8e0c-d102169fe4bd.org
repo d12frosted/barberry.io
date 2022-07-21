@@ -57,7 +57,12 @@ interesting, so going to taste it again in the future.
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+  <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2017</section>
   </a>

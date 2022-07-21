@@ -63,7 +63,12 @@ flavourful dry land. Nice, relatively young, easy to drink.
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+  <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
   </a>

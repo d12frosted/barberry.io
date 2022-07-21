@@ -38,22 +38,27 @@ Wine #6 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin 
     <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
+  <a class="flex-item flex-item-right" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
+  <a class="flex-item flex-item-right" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4.html">
+  <a class="flex-item flex-item-left" href="/wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Chin Up - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
+  <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
