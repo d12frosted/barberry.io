@@ -23,7 +23,19 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                     name | vintage |                 grapes |              region | rate |
-|----------------------------------------------------------+---------+------------------------+---------------------+------|
-| [[barberry:/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4][SP68 Bianco]] |    2020 |     Zibibbo, Albanello | IGP Terre Siciliane | 7.50 |
-|  [[barberry:/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6][SP68 Rosso]] |    2019 | Frappato, Nero d'Avola | IGP Terre Siciliane | 7.69 |
+|                                                             name | vintage |                 grapes |                     region | rate |
+|------------------------------------------------------------------+---------+------------------------+----------------------------+------|
+|       [[barberry:/wines/429ad446-96ad-4005-8306-85656d7e2f6d][Bombolieri BB]] |    2016 |               Frappato |        IGP Terre Siciliane | 9.00 |
+|       [[barberry:/wines/004fb7af-4256-490e-b511-b860c0dc5f78][Bombolieri BB]] |    2017 |               Frappato |        IGP Terre Siciliane | 9.00 |
+|    [[barberry:/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e][Fossa di Lupo FL]] |    2017 |               Frappato |        IGP Terre Siciliane | 8.50 |
+|         [[barberry:/wines/3f9bfb82-e694-43d5-80b1-11d91ac107e9][Grotte Alte]] |    2014 | Frappato, Nero d'Avola | Cerasuolo di Vittoria DOCG | 9.00 |
+|         [[barberry:/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99][Il Frappato]] |    2018 |               Frappato |        IGP Terre Siciliane | 8.50 |
+|         [[barberry:/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378][Pettineo PT]] |    2017 |               Frappato |        IGP Terre Siciliane | 8.75 |
+|         [[barberry:/wines/06266426-66eb-463f-a4bc-3fd38f6e2543][SP68 Bianco]] |    2015 |     Zibibbo, Albanello |        IGP Terre Siciliane | 8.25 |
+|         [[barberry:/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23][SP68 Bianco]] |    2019 |     Zibibbo, Albanella |        IGP Terre Siciliane | 8.25 |
+|         [[barberry:/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4][SP68 Bianco]] |    2020 |     Zibibbo, Albanello |        IGP Terre Siciliane | 7.50 |
+|          [[barberry:/wines/b6956647-cca8-45cd-a4f3-890f5360d94f][SP68 Rosso]] |    2014 | Frappato, Nero d'Avola |        IGP Terre Siciliane | 7.80 |
+|          [[barberry:/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6][SP68 Rosso]] |    2019 | Frappato, Nero d'Avola |        IGP Terre Siciliane | 7.69 |
+|            [[barberry:/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8][Siccagno]] |    2015 |           Nero d'Avola |        IGP Terre Siciliane | 8.00 |
+|            [[barberry:/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a][Siccagno]] |    2017 |           Nero d'Avola |                Sicilia DOC | 8.50 |
+| [[barberry:/wines/e9577901-8db7-4178-bc60-462ccdee35c3][Vino di Contrada SM]] |    2020 |                 Grillo |                Sicilia DOC | 7.75 |

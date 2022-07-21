@@ -49,9 +49,69 @@ Expressive and slightly reductive bouquet. Honey, pear, mandarin, peach. Good ac
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Bombolieri BB - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/06266426-66eb-463f-a4bc-3fd38f6e2543.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Fossa di Lupo FL - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f9bfb82-e694-43d5-80b1-11d91ac107e9.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Grotte Alte - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/429ad446-96ad-4005-8306-85656d7e2f6d.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Bombolieri BB - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Siccagno - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Pettineo PT - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Siccagno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Vino di Contrada SM - 2020</section>
   </a>
 
 </div>
