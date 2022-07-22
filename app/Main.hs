@@ -88,16 +88,16 @@ main = hakyll $ do
     route $ setExtension "html"
     compile $
       customPandocCompiler
-        >>= loadAndApplyTemplate "templates/convive.html" wineCtx
-        >>= loadAndApplyTemplate "templates/default.html" wineCtx
+        >>= loadAndApplyTemplate "templates/convive.html" defaultContext
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
         >>= relativizeUrls
 
   match "producers/*.org" $ do
     route $ setExtension "html"
     compile $
       customPandocCompiler
-        >>= loadAndApplyTemplate "templates/producer.html" wineCtx
-        >>= loadAndApplyTemplate "templates/default.html" wineCtx
+        >>= loadAndApplyTemplate "templates/producer.html" producerCtx
+        >>= loadAndApplyTemplate "templates/default.html" producerCtx
         >>= relativizeUrls
 
   match "wines/*.org" $ do
@@ -161,6 +161,12 @@ postCtx =
 
 wineCtx :: Context String
 wineCtx = defaultContext
+
+producerCtx :: Context String
+producerCtx =
+  dateField "date" "%B %e, %Y"
+    <> modificationDateField "update" "%B %e, %Y"
+    <> defaultContext
 
 --------------------------------------------------------------------------------
 
@@ -268,14 +274,15 @@ postsPattern :: Pattern
 postsPattern = "posts/*.org"
 
 loadAllPosts :: UTCTime -> Compiler [Item String]
-loadAllPosts = loadPosts postsPattern
+loadAllPosts = loadPosts
 
-loadPosts :: Pattern -> UTCTime -> Compiler [Item String]
-loadPosts pat now =
+loadPosts :: UTCTime -> Compiler [Item String]
+loadPosts now =
   skipDrafts
     =<< skipAfter now
     =<< recentFirst
-    =<< loadAll pat
+    =<< keepPosts
+    =<< loadAll (postsPattern .||. "producers/*.org")
 
 skipAfter :: (MonadFail m, MonadMetadata m) => UTCTime -> [Item a] -> m [Item a]
 skipAfter now =
@@ -285,12 +292,21 @@ skipAfter now =
       . itemIdentifier
 
 skipDrafts :: (MonadMetadata m) => [Item a] -> m [Item a]
-skipDrafts = filterM publish
+skipDrafts = filterM hide
+  where
+    hide i =
+      maybe False (not . asFlag)
+        <$> getMetadataField (itemIdentifier i) "hide"
+
+keepPosts :: (MonadMetadata m) => [Item a] -> m [Item a]
+keepPosts = filterM publish
   where
     publish i =
       maybe True asFlag
         <$> getMetadataField (itemIdentifier i) "publish"
-    asFlag "true" = True
-    asFlag _ = False
+
+asFlag :: String -> Bool
+asFlag "true" = True
+asFlag _ = False
 
 --------------------------------------------------------------------------------

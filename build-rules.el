@@ -171,11 +171,12 @@ HARD-DEPS. But in this case these are functions on
              (update (or (and (string-equal hash-a hash-b) update)
                          (format-time-string "%F")))
 
-             (publish (vulpea-utils-with-note note
-                        (or (vulpea-buffer-prop-get "publish") "true")))
+             (publish (or (vulpea-note-meta-get note "publish") "false"))
+             (hide (or (vulpea-note-meta-get note "hide") "false"))
 
              (meta (if (functionp metadata) (funcall metadata item) metadata))
              (meta (-concat (list "publish" publish
+                                  "hide" hide
                                   "title" (vulpea-note-title note))
                             (when update (list "update" update))
                             meta)))
@@ -817,7 +818,22 @@ Basically, keep only public notes."
    :hash #'porg-sha1sum
    :build
    (brb-make-publish
-    :copy-fn #'brb-build-producer)
+    :copy-fn #'brb-build-producer
+    :metadata (lambda (item)
+                (when-let* ((note (porg-item-item item))
+                            (meta-file (concat (porg-item-target-abs item) ".metadata"))
+                            (publish (vulpea-note-meta-get note "publish"))
+                            (publish (string-equal publish "true")))
+                  (vulpea-utils-with-note note
+                    (let ((date (vulpea-buffer-prop-get "date"))
+                          (language (vulpea-buffer-prop-get "language"))
+                          (tags (vulpea-buffer-prop-get-list "tags")))
+                      (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
+                      (unless language (user-error "Producer '%s' is missing language" (vulpea-note-title note)))
+                      (list
+                       "date" (org-read-date nil nil date)
+                       "language" language
+                       "tags" (string-join (-distinct (-concat '("producer") tags)) ", ")))))))
    :clean #'brb-delete)
 
   (porg-compiler
