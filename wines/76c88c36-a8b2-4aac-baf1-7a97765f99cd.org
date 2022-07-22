@@ -1,16 +1,15 @@
-- Type :: Rose Sparkling, Brut nature
+#+attr_html: :class wine-main-image
+[[file:/images/76/c88c36-a8b2-4aac-baf1-7a97765f99cd/2022-07-21-19-31-03-FA17426A-8AFC-4766-9118-BAA4486AA54C-1-102-o.webp]]
+
+- Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/040a275b-2e16-4d7a-a557-036bf44d85df][Villa Calicantus]]
 - Vintage :: 2018
 - Location :: Italy, Vino (IT)
-- Grapes :: Corvina, Molinara, Rondinella, Sangiovese
+- Grapes :: Corvina, Rondinella, Molinara, Merlot
 - Alcohol :: 12
 - Sugar :: NA
-- Price :: 698 UAH, 776 UAH
+- Price :: 726 UAH
 - Cellar :: N/A
-
-
-
-Sollazzo (Enjoy the sun) is a rosé sparkling made of Corvina, Rondinella, Molinara, and Sangiovese. Unfortunately, the grapes are too young - 5 years old.
 
 ** Producer
 
@@ -34,19 +33,17 @@ In the cellar, nothing is added except for little doses of sulfur. Wine is ferme
 
 ** Ratings
 
-*** 2022-07-05 - ☆ 7.20
+*** 2022-07-21 - ☆ 7.80
 
-An interesting rosé 'frizzante' bursting with strawberries, pickles, sauerkraut, yeast and red citrus fruits. Nothing overly complex. Medium acidity. Aftertaste is long and flavourful - grapefruit, Sicilian orange and red berries. Lacks volume.
-
-Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
+As expected, not your typical wine from Bardolino. Elegant and sophisticated. Notes of cherry stew, oxidized apple, spices, and herbs. Slightly funky palate with curious and flavourful aftertaste: an oxidized red apple and blood. Stylish and tasty.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/76c88c36-a8b2-4aac-baf1-7a97765f99cd.html">
+  <a class="flex-item flex-item-left" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
     <section class="h text-small text-lighter">Villa Calicantus</section>
-    <section class="h text-bolder">Soracuna - 2018</section>
+    <section class="h text-bolder">Sollazzo - 2018</section>
   </a>
 
 </div>
