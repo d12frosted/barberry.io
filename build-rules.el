@@ -590,11 +590,9 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 
 
 
-(cl-defun brb-delete (cached-item root)
-  "Delete CACHED-ITEM from ROOT."
-  (let* ((path (porg-cache-item-output cached-item))
-         (file (expand-file-name path root))
-         (meta (expand-file-name (concat path ".metadata") root)))
+(cl-defun brb-delete (file)
+  "Delete FILE."
+  (let ((meta (concat file ".metadata")))
     (delete-file file)
     (delete-file meta)))
 

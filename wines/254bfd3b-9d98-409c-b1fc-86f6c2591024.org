@@ -1,29 +1,24 @@
-#+attr_html: :class wine-main-image
-[[file:/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp]]
-
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]
-- Vintage :: 2017
-- Location :: France, Alsace Grand Cru AOC
+- Vintage :: 2018
+- Location :: France, Alsace AOC
 - Grapes :: Gewürztraminer
-- Alcohol :: 14
-- Sugar :: 0.6
-- Price :: 1050 UAH
+- Alcohol :: 999999999999999
+- Sugar :: NA
+- Price :: 800 UAH
 - Cellar :: N/A
 
 ** Ratings
 
-*** 2021-05-06 - ☆ 7.75
-
-Up to expectations, interesting macerated Gewürztraminer from Alsace. Baked apple, dried apricot, fried almonds, flowers and juniper notes. Tasty, friendly and easy to enjoy wine. By the end of the bottle I am left confused, because this wine is definitely interesting and has some elegance, but it is also vulgar in its aroma intensity and sweetness perception (despite RS level close to zero). On the other hand, works well with food.
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/254bfd3b-9d98-409c-b1fc-86f6c2591024.html">
+  <a class="flex-item flex-item-left" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
-    <section class="h text-bolder">Gewürztraminer Macération Pur Vin - 2018</section>
+    <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
