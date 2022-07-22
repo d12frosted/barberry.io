@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Loimer Gluegglich Glückliches"
 update: "2022-07-19"
 producer: "Loimer"

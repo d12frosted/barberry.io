@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Kmetija Štekar Rebula Prilo 2015"
 update: "2022-07-21"
 producer: "Kmetija Štekar"

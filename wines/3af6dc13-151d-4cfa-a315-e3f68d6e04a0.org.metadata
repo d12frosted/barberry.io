@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Weingut Tement Temento Green 2019"
 update: "2022-06-28"
 producer: "Weingut Tement"

@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Els Vinyerons Lluerna 2021"
 update: "2022-07-21"
 producer: "Els Vinyerons"

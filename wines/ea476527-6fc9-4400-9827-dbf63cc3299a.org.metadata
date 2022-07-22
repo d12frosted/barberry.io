@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Sizarini Pinot Grigio 2020"
 update: "2022-06-28"
 producer: "Sizarini"

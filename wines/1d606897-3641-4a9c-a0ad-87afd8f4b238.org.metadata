@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Comando G Rozas 1-er Cru 2018"
 update: "2022-07-20"
 producer: "Comando G"

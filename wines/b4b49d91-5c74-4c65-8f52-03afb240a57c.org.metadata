@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Raúl Pérez La Poulosa 2017"
 update: "2022-06-28"
 producer: "Raúl Pérez"

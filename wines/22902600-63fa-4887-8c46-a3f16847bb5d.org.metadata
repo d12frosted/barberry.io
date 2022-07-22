@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Pierre Trichet L’Authentique Premier Cru Brut"
 update: "2022-07-16"
 producer: "Pierre Trichet"

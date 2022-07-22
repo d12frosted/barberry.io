@@ -1,3 +1,4 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Henriques & Henriques"
 update: "2022-06-29"

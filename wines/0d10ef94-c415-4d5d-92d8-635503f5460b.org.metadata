@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Domaine Guyon Echezaux Grand Cru 2008"
 update: "2022-06-28"
 producer: "Domaine Guyon"

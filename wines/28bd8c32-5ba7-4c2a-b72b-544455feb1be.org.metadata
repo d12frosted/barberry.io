@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Cascina Tavijn Bandita 2019"
 update: "2022-07-21"
 producer: "Cascina Tavijn"

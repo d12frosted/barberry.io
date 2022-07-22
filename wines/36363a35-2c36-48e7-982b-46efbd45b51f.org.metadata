@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Feudi di San Gregorio Serpico 2005"
 update: "2022-06-29"
 producer: "Feudi di San Gregorio"

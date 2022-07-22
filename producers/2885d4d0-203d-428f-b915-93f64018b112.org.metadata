@@ -1,3 +1,4 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Billecart Salmon"
 update: "2022-07-05"

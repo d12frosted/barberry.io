@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Mas Pere Selecció Brut Cava"
 update: "2022-07-03"
 producer: "Mas Pere"

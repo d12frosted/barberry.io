@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Jaume Serra Cava Brut Nature NV"
 update: "2022-06-28"
 producer: "Jaume Serra"

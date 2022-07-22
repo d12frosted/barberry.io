@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Maison du Vigneron Crémant du Jura"
 update: "2022-06-28"
 producer: "Maison du Vigneron"

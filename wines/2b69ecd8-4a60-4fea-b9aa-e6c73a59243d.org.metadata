@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Krasna Hora Ruby 2020"
 update: "2022-07-08"
 producer: "Krasna Hora"

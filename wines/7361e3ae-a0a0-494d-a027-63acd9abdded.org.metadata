@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Jacquesson Cuvée 742 Extra Brut (2014) NV"
 update: "2022-06-28"
 producer: "Jacquesson"

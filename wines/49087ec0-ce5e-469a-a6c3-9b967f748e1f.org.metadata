@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Raoul Clerget Crémant de Bourgogne Brut NV"
 update: "2022-06-28"
 producer: "Raoul Clerget"

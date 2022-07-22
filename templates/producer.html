@@ -1,5 +1,18 @@
 <article>
   <h1>$title$</h1>
+  $if(date)$
+  <section class="subtitle">
+    Posted on $date$
+    $if(author)$
+      by $author$
+    $endif$
+  </section>
+  $endif$
+  $if(update)$
+  <section class="subtitle">
+    Updated on $update$
+  </section>
+  $endif$
   <section>
     $body$
   </section>

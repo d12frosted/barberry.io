@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Spier Wines Chenin Blanc 21 Gables 2019"
 update: "2022-07-05"
 producer: "Spier Wines"

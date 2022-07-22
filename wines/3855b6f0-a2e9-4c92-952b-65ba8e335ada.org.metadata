@@ -1,4 +1,5 @@
-publish: "true"
+publish: "false"
+hide: "false"
 title: "Jacques Lassaigne La Colline Inspirée NV"
 update: "2022-07-16"
 producer: "Jacques Lassaigne"
