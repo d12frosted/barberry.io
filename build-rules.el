@@ -318,12 +318,10 @@ Access to full ITEMS for related wines."
           (unless (porg-item-item it)
             (user-error "Could not get related note of '%s'" (vulpea-note-title note)))
           (let* ((note (porg-item-item it))
-                 (img (vulpea-note-meta-get note "images" 'link))
-                 (img-item (when img (gethash (concat (vulpea-note-id note)
-                                                      ":"
-                                                      (s-chop-prefix "attachment:" img))
-                                              items)))
                  (id (vulpea-note-id note))
+                 (img (vulpea-note-meta-get note "images" 'link))
+                 (img-item (when img
+                             (gethash (concat id ":" (s-chop-prefix "attachment:" img)) items)))
                  (producer (vulpea-note-meta-get note "producer" 'note))
                  (name (vulpea-note-meta-get note "name"))
                  (vintage (or (vulpea-note-meta-get note "vintage") "NV"))
@@ -381,31 +379,35 @@ Access to full ITEMS for related wines."
        "\n"
        "* Wines\n\n")
       (if wines
-          (insert
-           "#+attr_html: :class wines-table\n"
-           (string-table
-            :header '("name" "vintage" "grapes" "region" "rate")
-            :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
-            :row-start "| " :sep " | " :row-end " |"
-            :data
-            (->> wines
-                 (-map #'porg-item-item)
-                 (brb-wines-sort)
-                 (--map
-                  (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
-                                  (vulpea-note-meta-get it "appellation" 'note))))
-                    (list (org-link-make-string
-                           (concat "id:" (vulpea-note-id it))
-                           (vulpea-note-meta-get it "name"))
-                          (or (vulpea-note-meta-get it "vintage") "NV")
-                          (mapconcat #'vulpea-note-title
-                                     (vulpea-note-meta-get-list it "grapes" 'note)
-                                     ", ")
-                          (vulpea-note-title roa)
-                          (if (vulpea-note-meta-get it "ratings")
-                              (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
-                            "-"))))))
-           "\n")
+          (progn
+            (insert
+             "#+begin_export html\n"
+             "<div class=\"flex-container\">\n")
+            (--each-indexed (brb-wines-sort (-map #'porg-item-item wines))
+              (let* ((id (vulpea-note-id it))
+                     (img (vulpea-note-meta-get it "images" 'link))
+                     (img-item (when img
+                                 (gethash (concat id ":" (s-chop-prefix "attachment:" img)) items)))
+                     (name (vulpea-note-meta-get it "name"))
+                     (vintage (or (vulpea-note-meta-get it "vintage") "NV"))
+                     (pos (if (= (mod it-index 2) 0)
+                              "flex-item-left"
+                            "flex-item-right")))
+                (insert
+                 "  <a class=\"flex-item " pos "\" href=\"/wines/" id ".html\">\n"
+                 (if img-item
+                     (concat "    <img class=\"flex-bottle\" src=\"/" (porg-item-target-rel img-item) "\"></img>\n")
+                   "")
+                 "    <section class=\"h text-small text-lighter\">★ "
+                 (if (vulpea-note-meta-get it "ratings")
+                     (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
+                   "-")
+                 "</section>\n"
+                 "    <section class=\"h text-bolder\">" name " - " vintage "</section>\n"
+                 "  </a>\n\n")))
+            (insert
+             "</div>\n"
+             "#+end_export\n"))
         (insert "No wines of this producer are present on this site. How did you find this page?"))
 
       (goto-char (point-min))
