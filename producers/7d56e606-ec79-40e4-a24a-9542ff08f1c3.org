@@ -2,8 +2,9 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                              name | vintage |                          grapes |    region | rate |
-|-------------------------------------------------------------------+---------+---------------------------------+-----------+------|
-| [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Le Sauvignon Sensuel]] |    2020 |                 Sauvignon Blanc | Australia | 7.75 |
-|          [[barberry:/wines/3004717d-3e01-44bf-b375-e23d26508b9a][Vin de Soif]] |    2020 |                           Syrah | Australia | 7.00 |
-|           [[barberry:/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2][Vino Rosso]] |    2020 | Merlot, Pinot Noir, Field Blend | Australia | 7.50 |
+|                                                                    name | vintage |                          grapes |    region | rate |
+|-------------------------------------------------------------------------+---------+---------------------------------+-----------+------|
+|       [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Le Sauvignon Sensuel]] |    2020 |                 Sauvignon Blanc | Australia | 7.75 |
+| [[barberry:/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56][Pinot Gris Comme de Fleurs]] |    2020 |                      Pinot Gris | Australia |    - |
+|                [[barberry:/wines/3004717d-3e01-44bf-b375-e23d26508b9a][Vin de Soif]] |    2020 |                           Syrah | Australia | 7.00 |
+|                 [[barberry:/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2][Vino Rosso]] |    2020 | Merlot, Pinot Noir, Field Blend | Australia | 7.50 |

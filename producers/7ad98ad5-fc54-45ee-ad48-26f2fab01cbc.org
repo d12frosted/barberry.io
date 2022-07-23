@@ -4,9 +4,11 @@
 #+attr_html: :class wines-table
 |                                                               name | vintage |                            grapes |    region | rate |
 |--------------------------------------------------------------------+---------+-----------------------------------+-----------+------|
-|                [[barberry:/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7][Bianco]] |    2018 |  Fiano, Greco di Tufo, Chardonnay | Heathcote | 8.50 |
-| [[barberry:/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9][Cardinia Rangers Rosé]] |    2019 |                        Pinot Noir | Heathcote | 8.00 |
-|    [[barberry:/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817][Fistful of Flowers]] |    2020 |        Vermentino, Moscato Giallo | Heathcote | 8.00 |
+|                [[barberry:/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7][Bianco]] |    2018 |  Fiano, Greco di Tufo, Chardonnay | Gippsland | 8.50 |
+|                [[barberry:/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2][Bianco]] |    2019 |  Fiano, Greco di Tufo, Chardonnay | Gippsland |    - |
+| [[barberry:/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9][Cardinia Rangers Rosé]] |    2019 |                        Pinot Noir | Gippsland | 8.00 |
+|    [[barberry:/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817][Fistful of Flowers]] |    2020 |        Vermentino, Moscato Giallo | Gippsland | 8.00 |
 |     [[barberry:/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276][Give up the Ghost]] |    2018 |                     Greco di Tufo | Gippsland | 8.00 |
 |     [[barberry:/wines/b5f2078a-01a2-4134-958c-d8ff543a7945][Give up the Ghost]] |    2019 |                     Greco di Tufo | Gippsland | 8.00 |
-|    [[barberry:/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc][Staring at the Sun]] |    2019 | Fiano, Vermentino, Moscato Giallo | Heathcote | 7.50 |
+|    [[barberry:/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc][Staring at the Sun]] |    2019 | Fiano, Vermentino, Moscato Giallo | Gippsland | 7.50 |
+|           [[barberry:/wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943][The Incline]] |    2018 |                             Syrah | Gippsland |    - |

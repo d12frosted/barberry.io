@@ -25,3 +25,14 @@ An interesting and aromatic wine with its issues that spoil the pleasure. On the
 
 Wine #2 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin Blanc]] event.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/969b7bbf-2917-476f-859b-fcb1fb9f8bb3.html">
+    <section class="h text-small text-lighter">Les Vignes De Paradis</section>
+    <section class="h text-bolder">Pinot Gris M... - 2019</section>
+  </a>
+
+</div>
+#+end_export

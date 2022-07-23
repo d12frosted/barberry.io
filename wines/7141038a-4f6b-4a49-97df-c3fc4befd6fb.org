@@ -1,0 +1,53 @@
+#+attr_html: :class wine-main-image
+[[file:/images/71/41038a-4f6b-4a49-97df-c3fc4befd6fb/2022-07-23-10-44-41-CDAA8355-B702-4905-AADC-99BE74F47CD4-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6][Anne et J.F. Ganevat]]
+- Vintage :: NV
+- Location :: France, Vin de Table (France)
+- Grapes :: Gamay, Poulsard
+- Alcohol :: 12
+- Sugar :: 1
+- Price :: 955 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1357c3ce-cad1-4f2d-8473-4e05fd524a29.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">J'en veux encore !!! - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2e22de49-4153-4f46-bef2-7806cd612810.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">La Graviere - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5f49c6c1-3ce2-484a-96a4-cf48058e1f68.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Arces - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Les Miracules - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Poulprix - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Le Jaja du Fred - 2019</section>
+  </a>
+
+</div>
+#+end_export

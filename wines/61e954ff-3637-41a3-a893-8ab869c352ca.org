@@ -1,0 +1,32 @@
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]
+- Vintage :: 2019
+- Location :: Australia, Adelaide Hills
+- Grapes :: Syrah
+- Alcohol :: 13
+- Sugar :: 0.4
+- Price :: 869 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-01-03 - ☆ 8.00
+
+Great and not typical Australian Shiraz. Delicate and complex. Dark ruby colour. Aromatic and slightly reductive bouquet with blackberry, vanilla, cranberry and pepper. Unexpectedly crisp with dry medium tannin and good balance. Long and flavourful finish.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
+  </a>
+
+</div>
+#+end_export

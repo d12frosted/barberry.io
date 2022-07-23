@@ -1,0 +1,8 @@
+Project by Valentina Passalacqua. Based in Puglia.
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                                    name | vintage |         grapes |     region | rate |
+|---------------------------------------------------------+---------+----------------+------------+------|
+| [[barberry:/wines/dd209658-bfc4-4863-a0cb-248673b162c0][Bombigiana]] |    2019 | Bombino Bianco | IGP Puglia |    - |

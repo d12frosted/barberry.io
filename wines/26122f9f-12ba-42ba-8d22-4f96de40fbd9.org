@@ -4,7 +4,7 @@
 - Type :: Rose Still, Dry
 - Producer :: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
 - Vintage :: 2019
-- Location :: Australia, Heathcote
+- Location :: Australia, Gippsland
 - Grapes :: Pinot Noir
 - Alcohol :: 12.4
 - Sugar :: 1
@@ -21,9 +21,19 @@ Murky and pale pink-orange colour, which might confuse your mind into questionin
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+  <a class="flex-item flex-item-left" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Fistful of Flowers - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">The Incline - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">

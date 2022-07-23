@@ -31,17 +31,22 @@ Tasted blind and was thinking between Jura and Bourgogne. Expressive oxidative C
     <section class="h text-bolder">Arces - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
+  <a class="flex-item flex-item-left" href="/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">La Bubulle à Jeannot - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
+  <a class="flex-item flex-item-left" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Poulprix - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
+  <a class="flex-item flex-item-right" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Le Jaja du Fred - 2019</section>
   </a>

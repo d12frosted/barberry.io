@@ -2,6 +2,8 @@
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                 name | vintage |   grapes |     region | rate |
-|------------------------------------------------------+---------+----------+------------+------|
-| [[barberry:/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c][Lluerna]] |    2021 | Xarel-lo | Penedès DO |    - |
+|                                                    name | vintage |      grapes |     region | rate |
+|---------------------------------------------------------+---------+-------------+------------+------|
+|    [[barberry:/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c][Lluerna]] |    2021 |    Xarel-lo | Penedès DO |    - |
+|   [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Pregadéu]] |    2020 |    Xarel-lo |       Cava |    - |
+| [[barberry:/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb][Saltamartí]] |    2020 | Tempranillo | Penedès DO |    - |

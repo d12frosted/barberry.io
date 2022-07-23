@@ -1,0 +1,7 @@
+
+** Wines
+
+#+attr_html: :class wines-table
+|                                               name | vintage | grapes |            region | rate |
+|----------------------------------------------------+---------+--------+-------------------+------|
+| [[barberry:/wines/b7273268-eb5a-4131-a135-e1cfd610752f][Saito]] |    2018 |        | Vin (din România) | 7.00 |

@@ -31,5 +31,10 @@ Good Merlot-based field blend. Nose full of overripe even slightly rotten cherry
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
+  </a>
+
 </div>
 #+end_export

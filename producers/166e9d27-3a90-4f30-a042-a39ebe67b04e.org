@@ -1,0 +1,8 @@
+** Wines
+
+#+attr_html: :class wines-table
+|                                                               name | vintage |          grapes |         region | rate |
+|--------------------------------------------------------------------+---------+-----------------+----------------+------|
+|        [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Oakbank Shiraz]] |    2019 |           Syrah | Adelaide Hills | 8.00 |
+| [[barberry:/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330][Piccadilly Chardonnay]] |    2019 |      Chardonnay | Adelaide Hills | 8.00 |
+|      [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Summertown blanc]] |    2019 | Sauvignon Blanc | Adelaide Hills |    - |

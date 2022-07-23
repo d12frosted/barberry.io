@@ -5,6 +5,7 @@ His vines are separated into 27 parcels of different soil composition. All are h
 ** Wines
 
 #+attr_html: :class wines-table
-|                                                name | vintage |       grapes |                region | rate |
-|-----------------------------------------------------+---------+--------------+-----------------------+------|
-| [[barberry:/wines/084f2900-816b-4687-bceb-9fe28995f7cc][Chenin]] |    2019 | Chenin Blanc | Vin de Table (France) | 7.40 |
+|                                                         name | vintage |       grapes |                 region | rate |
+|--------------------------------------------------------------+---------+--------------+------------------------+------|
+|          [[barberry:/wines/084f2900-816b-4687-bceb-9fe28995f7cc][Chenin]] |    2019 | Chenin Blanc |  Vin de Table (France) | 7.40 |
+| [[barberry:/wines/969b7bbf-2917-476f-859b-fcb1fb9f8bb3][Pinot Gris M...]] |    2019 |   Pinot Gris | Vin Des Allobroges IGP |    - |

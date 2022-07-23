@@ -1,4 +1,7 @@
 
 ** Wines
 
-No wines of this producer are present on this site. How did you find this page?
+#+attr_html: :class wines-table
+|                                                 name | vintage |    grapes |         region | rate |
+|------------------------------------------------------+---------+-----------+----------------+------|
+| [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][Sassaia]] |    1997 | Garganega | Gambellara DOC |    - |
