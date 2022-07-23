@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     300a862f-4502-4272-9d43-260ed45c8320
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/80/5e6758-4d6a-4c21-9ab4-4045e6ea446c/2021-08-11-08-32-01-12A14077-5720-4B54-B267-B83DADAE4C4D-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     4d59db0c-5b45-449e-99b9-f01793e1492b
+:END:
 
 *** 2021-08-10 - ☆ 6.50
+:PROPERTIES:
+:ID:                     e1b6eccc-1f28-4865-ab88-3d3a5ad1993c
+:END:
 
 Basic and very simple wine. It's good though. Citrus, stone fruits.
 Fresh and easy going.
@@ -21,6 +30,9 @@ Fresh and easy going.
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
+:PROPERTIES:
+:ID:                     9ece9def-59f5-47b0-8c8e-fd2d8340a488
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -57,6 +69,11 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
 </div>

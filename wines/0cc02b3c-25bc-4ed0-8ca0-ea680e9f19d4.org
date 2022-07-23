@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ecfb2b5b-aac3-49be-9866-2480c109822b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     77b2a14e-2373-4ba1-8d29-b9edb1c7776e
+:END:
 
 *** 2022-05-29 - ☆ 7.50
+:PROPERTIES:
+:ID:                     f32008f8-54ef-4767-903a-9648fa7725b2
+:END:
 
 Good ol' typical Pinot Noir from Marlborough with expected notes of strawberry jam, some dark berries and wet forest floor. Smooth, almost silky on the palate, long aftertaste with flavours of strawberry stew mixed with sweet tobacco and wet earth. Yummy. Finished bottle without noticing it.
 
+** Related
+:PROPERTIES:
+:ID:                     0a05f57b-7785-4285-8c9f-af9220e4bd87
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
+    <section class="h text-small text-lighter">Raventós i Blanc</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <section class="h text-small text-lighter">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
+  </a>
+
+</div>
+#+end_export

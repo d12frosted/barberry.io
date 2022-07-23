@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     5728d827-8411-4d93-b7c1-be8b6c5ce4e7
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1bc908bf-b446-4ee8-a1fc-8b0faf73403f
+:END:
 
 *** 2022-05-29 - ☆ 7.75
+:PROPERTIES:
+:ID:                     0cfd04ee-5fdf-4ae4-8082-9bbf08580f96
+:END:
 
 Conca del Riu Anoia is one more step out of big Cava DO. And it has all the rights to, because it also steps out with it delicate and precise profile. Intriguing nose with citrus, minerals and stone fruits. Focused, yet creamy palate with flavours of honeysuckle, cream and pear. Aftertaste is long and evolving. It's also interesting that aside from common grapes for this region they are also using Malvasía de Sitges.
 
+** Related
+:PROPERTIES:
+:ID:                     bfb2f183-d617-45e4-a66e-f83ac03ff4a8
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
+    <section class="h text-small text-lighter">Saint Clair</section>
+    <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <section class="h text-small text-lighter">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
+  </a>
+
+</div>
+#+end_export

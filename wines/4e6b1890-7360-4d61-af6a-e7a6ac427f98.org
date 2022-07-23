@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c7fee5bd-cd4b-46cf-b060-d5d5be5132a3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/6b1890-7360-4d61-af6a-e7a6ac427f98/2022-05-28-10-18-26-IMG-0238.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3cc166fd-747d-402f-a635-5040d487db24
+:END:
 
 *** 2022-05-27 - ☆ 6.50
+:PROPERTIES:
+:ID:                     96d41841-4558-4a41-b8c7-e28d697e619a
+:END:
 
 Light and easy going thanks to fruit-forward profile and 8.5 abv. Chill and enjoy these no name bubbles.
 
+** Related
+:PROPERTIES:
+:ID:                     9b661cf8-6517-4dff-95d2-442ed59ab837
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0.html">
+    <section class="h text-small text-lighter">Borgo Solè</section>
+    <section class="h text-bolder">Prosecco Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     bd2c724c-bcb7-496b-b63c-b587c57a41eb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     317250d9-75b9-4315-883b-d4f3c200b374
+:END:
 
 Wonderful winemaker from Champagne.
 
@@ -26,22 +32,37 @@ Guilde to Goodwine #38
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     85360256-be8b-46f9-a875-6317f4028c0e
+:END:
 
 *** 2020-08-30 - ☆ 8.50
+:PROPERTIES:
+:ID:                     5d2ad859-3476-4ad1-af7f-f129c74dafd5
+:END:
 
 Complex, deep and refreshing Champagne. Sunflower oil, flowers, baked apples, lemon tart and plastic. Very good mousse, perfect refreshing body with very long finish, flavours of baked apples and sunflower seeds. This was very tasty! I really wonder how it plays after some aging.
 
 *** 2021-01-25 - ☆ 8.50
+:PROPERTIES:
+:ID:                     e8fde0a6-fb7c-493f-b748-6fafda44742c
+:END:
 
 Intense, profound and expressive. Ripe apple, brioche, vanilla eclair, oil, barberry candy, flowers. Perfectly balanced, flavourful and oily with bakery hints. Long aftertaste. My second try and second success.
 
 *** 2021-08-17 - ☆ 8.50
+:PROPERTIES:
+:ID:                     cd33d7bc-4f78-49e4-a115-fe41193e20c9
+:END:
 
 Wonderful Bedel-style. Oxidative, but more delicate that Origin'elle. Baked apples, flowers, oil, lemon tart, Jerez. Delicious, balanced and sophisticated. Despite complexity remains friendly and approachable.
 
 Tasted after Divych Vechir event.
 
 ** Related
+:PROPERTIES:
+:ID:                     804c6b75-753c-44de-ba64-9a973f2b1e02
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -58,6 +79,16 @@ Tasted after Divych Vechir event.
   <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
 </div>

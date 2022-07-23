@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     b5e5dc03-cad2-4155-98a3-c5c8e6bf5686
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     53e4d7f4-e33a-46e4-80a1-9756f16f721c
+:END:
 
 *** 2021-03-02 - ☆ 7.50
+:PROPERTIES:
+:ID:                     1e763a9f-7ba9-4a1f-b7f3-6c255c018a47
+:END:
 
 Tasted blind. Guessed country and grape from the first sniff thanks to
 cats pee and gooseberry aromas. Tropical fruits, pineapple, lychee,
@@ -21,6 +30,9 @@ green apple, lime, cats pee, gooseberry. Medium-high acidity, fresh
 and tasty. Liked for balanced and acidity.
 
 ** Related
+:PROPERTIES:
+:ID:                     5b254114-d927-4472-b70d-77b04b840344
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -32,6 +44,11 @@ and tasty. Liked for balanced and acidity.
   <a class="flex-item flex-item-right" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
+    <section class="h text-small text-lighter">Raoul Clerget</section>
+    <section class="h text-bolder">Chablis - 2018</section>
   </a>
 
 </div>

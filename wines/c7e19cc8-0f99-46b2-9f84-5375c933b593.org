@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     7dd49245-81a5-4c91-9edc-df688491f3e7
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c.webp]]
 
@@ -12,14 +15,23 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     dd30d56e-e52d-4624-80e4-72f5b6745672
+:END:
 
 *** 2022-06-15 - ☆ 8.00
+:PROPERTIES:
+:ID:                     3574b98e-bd4a-44ca-ba80-08d96e8d5fab
+:END:
 
 Low intervention bubbles with no chaptalisation and no correction. Powerful oxidative style that explodes with honey, wax, baked apples, almond and pickles. Such a bright style leaves no room to stay indifferent, it's a love or hate story. And while I like oxidative bubbles, this one lacks complexity and delicacy, I wonder if time will tame its raw vigor.
 
 Oh, and it's also my first Auxerrois. Happy me.
 
 ** Related
+:PROPERTIES:
+:ID:                     12f9c399-18aa-4eb4-8aaa-54c32e7a0825
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -41,6 +53,26 @@ Oh, and it's also my first Auxerrois. Happy me.
   <a class="flex-item flex-item-right" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
+    <section class="h text-small text-lighter">Mouzon-Leroux</section>
+    <section class="h text-bolder">L'Atavique - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">
+    <section class="h text-small text-lighter">Maison du Vigneron</section>
+    <section class="h text-bolder">Crémant du Jura - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <section class="h text-small text-lighter">Domaine de la Touraize</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
 </div>

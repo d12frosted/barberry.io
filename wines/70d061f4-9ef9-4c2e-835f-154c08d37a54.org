@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e2217186-f535-450d-84de-3c9b28f06b15
+:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]]
 - Vintage :: 2020
@@ -9,14 +12,23 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     abd9d27b-c3d8-4e1d-af73-c6ba175892cc
+:END:
 
 *** 2021-08-10 - ☆ 7.00
+:PROPERTIES:
+:ID:                     10f39c89-4f6c-4994-b160-319d74c20910
+:END:
 
 Young and still crazy. Cloudy visually and reductive in 'bouquet': toilet, cranberry, fermented raspberry and VA. Easy and very light, but acidity is out of balance, and you get aftertaste full of VA with some fermented red fruits. It has potential (hence such a high rating), but needs a year or more to settle down and improve.
 
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
+:PROPERTIES:
+:ID:                     5a882437-800a-4881-8322-6f4239363c9a
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -53,6 +65,11 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
 </div>

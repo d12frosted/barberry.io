@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     222fdf9d-c6c7-419f-9e4c-bb68ace8c16c
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/39/b35863-a201-4f56-adce-1db43d9f327d/2022-01-13-09-44-29-70F73BB0-F877-4CC6-9F78-975FFB453122-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     21dcd38a-7cf1-4b20-8f0b-241d4ccaea22
+:END:
 
 *** 2022-01-12 - ☆ 8.50
+:PROPERTIES:
+:ID:                     bbee8e79-ee03-4f7f-9cb4-a5e589a7d396
+:END:
 
 Tasted blind and though about Chardonnay from Jura. After some thinking guessed producer. Beautiful Godello that went through oxidation. Clear pale straw colour. Powerful and complex bouquet showing some age: citrus, salted nuts, baked apples and wet stones. Crisply fresh, well balanced with pronounced flavours and long aftertaste. Delicious and mineral.
 
 ** Related
+:PROPERTIES:
+:ID:                     9d655a48-5c00-488e-ab7b-3b36e3567df0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,11 @@ Tasted blind and though about Chardonnay from Jura. After some thinking guessed 
   <a class="flex-item flex-item-right" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">Ultreia De Valtuille - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">
+    <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
   </a>
 
 </div>

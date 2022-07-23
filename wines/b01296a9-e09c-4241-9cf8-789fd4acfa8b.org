@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     5d4d630f-da85-4d79-a5cc-3b17e290efc2
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     a0d74870-8f5d-4d47-befc-6b26b29c120b
+:END:
 
 Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct Jgia. All wines are hand made. Uses qvevri, of course. Annual production is less than 5000 bottles.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bfdf515e-93d8-40d5-9089-f574a027ec97
+:END:
 
 *** 2021-05-25 - ☆ 7.75
+:PROPERTIES:
+:ID:                     db71c34b-0db6-451f-a343-337f31102ba4
+:END:
 
 Skin Party #3. Interesting orange wine. Good example of rustic,
 gastronomic palate with gorgeous (a little bit volatile) bouquet of
@@ -27,6 +39,9 @@ mostly because of the aroma, because the palate is one-dimensional and
 14.5 abv are not well balanced here. Still, wonderful wine!
 
 ** Related
+:PROPERTIES:
+:ID:                     c127947f-25c7-4743-aca4-aa1523e38f84
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -38,6 +53,21 @@ mostly because of the aroma, because the palate is one-dimensional and
   <a class="flex-item flex-item-right" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
     <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Rot-Murlé Riesling Pur Vin Macération - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <section class="h text-small text-lighter">Kmetija Štekar</section>
+    <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>
 
 </div>

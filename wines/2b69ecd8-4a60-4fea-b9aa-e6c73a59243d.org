@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     1e63d01c-0b85-49a0-be7a-f8d7cb46b62e
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     37cc5849-b87e-4fcb-b658-d472c291da6d
+:END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     a553bd07-8771-4ed6-ba62-6ce4990217f6
+:END:
 
 *** 2022-07-07 - ☆ 7.50
+:PROPERTIES:
+:ID:                     2131bb38-c86c-4be5-9a20-dd51ff821caa
+:END:
 
 Light and sexy blend of 5 grapes from Moravia. The bouquet is calm, with notes of cherry, graphite, white pepper, and field flowers. Slightly fizzy on the palate, light and easy-going. Flavours of spoiled raspberry, sour cherry, and dried medicinal herbs. Mineral, fresh, and not mainstream, yet approachable and juicy.
 
 ** Related
+:PROPERTIES:
+:ID:                     95a91d83-dd93-4e4f-ae6d-fd525c3efc84
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -38,6 +53,11 @@ Light and sexy blend of 5 grapes from Moravia. The bouquet is calm, with notes o
   <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
+    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h text-bolder">Sparkling Rosé - NV</section>
   </a>
 
 </div>

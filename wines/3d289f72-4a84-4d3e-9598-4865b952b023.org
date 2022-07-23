@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     eff581b4-e373-4455-bf3a-469f8abc9b06
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp]]
 
@@ -12,20 +15,32 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     aa9558c0-e5af-4bfb-b4c3-c5585e4be30f
+:END:
 
 *** 2021-09-14 - ☆ 8.50
+:PROPERTIES:
+:ID:                     8985febd-cffb-4ad9-a1ae-27c720e0fa7a
+:END:
 
 Tasted in 101 Bar after Na Uzbičči event. We decided to keep it going haha.
 
 It's not a secret that I love this producer. I started to appreciate Champagne with his Cuvée 742, so now I consider it my duty to drink every new release. Based on 2016, spent 36 months sur lie. Toast, citrus, white flowers, chalk, apple seeds. Fresh, expressive and delicious. Still young, needs more time in the bottle.
 
 *** 2022-05-14 - ☆ 8.50
+:PROPERTIES:
+:ID:                     41e205a0-2d40-401b-abbf-d443ae9a4ea9
+:END:
 
 Tasted in Carpathian Mountains from basic Spigelau glassware.
 
 Even after 8 months since my last tasting, Cuvée 744 still seem too young. All those beautiful notes of citrus, white flowers, chalk, apple seeds and crème brûlée, but it lacks in the volume and persistence. So let's wait and see how it evolves.
 
 ** Related
+:PROPERTIES:
+:ID:                     4798bbd4-d1d5-4393-b804-7612b2ade165
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -37,6 +52,11 @@ Even after 8 months since my last tasting, Cuvée 744 still seem too young. All 
   <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     392b0cf6-4c16-4b52-be77-a6634544d89b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/6f/8ecc8d-b962-4a1d-a305-6999b5e6c38e/2022-05-08-15-06-11-BD4FF34B-D5F9-4361-8BD4-4264952781AF-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1207a821-1977-4ad7-aefe-78f01c28fafc
+:END:
 
 *** 2022-05-04 - ☆ 7.75
+:PROPERTIES:
+:ID:                     14e4a438-16bb-4275-a716-67276aeab970
+:END:
 
 Wonderful medium-full bodied blend of Cabernet Sauvignon, Merlot and Carménère from respected winery. Already showing complexity at this age, still has potential. As with many wines of this region, Terre di San Leonardo has high acidity, but lacks in tannin to get right volume. Regardless, it's delicious with long persistent aftertaste.
 
 ** Related
+:PROPERTIES:
+:ID:                     826e4735-6868-428b-b966-aa405be352b0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,16 @@ Wonderful medium-full bodied blend of Cabernet Sauvignon, Merlot and Carménère
   <a class="flex-item flex-item-right" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">Vette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
+    <section class="h text-small text-lighter">Paul Benoit et Fils</section>
+    <section class="h text-bolder">Pinot Arbois - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">
+    <section class="h text-small text-lighter">Mud House</section>
+    <section class="h text-bolder">Pinot Noir Central Otago - 2020</section>
   </a>
 
 </div>

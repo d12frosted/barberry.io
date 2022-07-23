@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     db048614-70c6-4f95-936a-8a12a32d7d1a
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2021-12-27-18-33-45-9D5CF52D-9AB7-4F51-9AFF-D9F5D7609EA5-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     0a37adae-a176-4ad7-96b1-d90e9b6592a9
+:END:
 
 Wonderful winemaker from Champagne.
 
@@ -26,12 +32,21 @@ Guilde to Goodwine #38
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     88f7a302-f93c-4b4e-b91c-d795fe17b64e
+:END:
 
 *** 2022-06-10 - ☆ 9.00
+:PROPERTIES:
+:ID:                     4726d77e-30ad-483a-9c43-d9fe5c510c01
+:END:
 
 The Soul of the Earth. 16 years old cuvée that spent 13 years on lees. Result? Amazing! Expressive oxidative bouquet full of baked apples, bruised apples, honey, nuts and Jerez. Soft, almost perfectly balanced, multilayered with good volume and long evolving aftertaste. Delicious.
 
 ** Related
+:PROPERTIES:
+:ID:                     23e25c57-f20b-4c13-9339-ec964ca28b5f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -48,6 +63,26 @@ The Soul of the Earth. 16 years old cuvée that spent 13 years on lees. Result? 
   <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Mount Hermon White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
+    <section class="h text-small text-lighter">Spy Valley</section>
+    <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>
 
 </div>

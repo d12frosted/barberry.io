@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     1f93a9a5-23a3-4553-aaa4-34cddfb61493
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     e9465d83-3489-43ed-95ea-f087390a294e
+:END:
 
 *** 2021-05-31 - ☆ 8.50
+:PROPERTIES:
+:ID:                     776f98cc-d410-4ecf-8e22-16420700710e
+:END:
 
 Complex and old school bouquet of spices, forest floor, tobacco, dried cherry, violets and musk. Restrained and elegant with strong oak influence. Well balanced, quite powerful.
 
+** Related
+:PROPERTIES:
+:ID:                     9c35e13f-3e48-4e97-ad3c-486ef460f188
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">
+    <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Latricières-Chambertin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+    <section class="h text-small text-lighter">Domaine de la Romanée-Conti</section>
+    <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7.html">
+    <section class="h text-small text-lighter">Benoît Lahaye</section>
+    <section class="h text-bolder">Rosé de Macération Champagne Grand Cru 'Bouzy' - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Clos de Vougeot - 2014</section>
+  </a>
+
+</div>
+#+end_export

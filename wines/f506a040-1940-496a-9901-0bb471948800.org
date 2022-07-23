@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     48839240-25f6-4180-8575-22fbf3df5457
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp]]
 
@@ -12,22 +15,49 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ddaf985b-8d75-49bb-9130-7c93019e9f76
+:END:
 
 *** 2021-06-26 - ☆ 7.00
+:PROPERTIES:
+:ID:                     cae9b0a3-7760-4ab7-98ce-0ab8950af4de
+:END:
 
 When you have little to say about wine, you start sharing information from the label, e.g. grapes, location, etc. But this is completely passable wine, so I will be short: apple, lychee, citrus and lilac flowers. Unfocused, typical.
 
 *** 2022-07-18 - ☆ 7.25
+:PROPERTIES:
+:ID:                     f7dfceaa-53de-49a8-9cc1-68a84eefac8c
+:END:
 
 Tasted on the go, so little time to properly asset it. Completely different from my previous experience. An aromatic tropical shampoo with honey extract and flowers. Flabby and bitter in the finish.
 
 ** Related
+:PROPERTIES:
+:ID:                     5c08c34a-b44a-4394-b8a5-a4134912300e
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
     <section class="h text-small text-lighter">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">
+    <section class="h text-small text-lighter">Comando G</section>
+    <section class="h text-bolder">Rozas 1-er Cru - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">
+    <section class="h text-small text-lighter">Bel Colle</section>
+    <section class="h text-bolder">Verduno Pelaverga - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">
+    <section class="h text-small text-lighter">Quinta de Chocapalha</section>
+    <section class="h text-bolder">Branco - 2017</section>
   </a>
 
 </div>

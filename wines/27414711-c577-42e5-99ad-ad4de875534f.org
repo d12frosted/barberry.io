@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     930d368c-855e-4c92-8ddc-c37b36e758f1
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/27/414711-c577-42e5-99ad-ad4de875534f/2021-06-01-07-40-18-FD9BBD6E-516F-486B-8DAA-35F22599D388-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ab009f6e-0197-4c65-9527-67c9e87befe7
+:END:
 
 *** 2021-05-31 - ☆ 10.00
+:PROPERTIES:
+:ID:                     6b61809a-2a64-467a-b3d0-21baca475ad5
+:END:
 
 The star of demanding evening proved the title. Despite young age, it
 shows complexity and elegance. Restrained bouquet of violets, red
@@ -23,3 +32,32 @@ very long aftertaste. I love its raw but noble energy of youth.
 Already delicious and mind blowing, and I wonder what will come with
 time. World of wine is wonderful.
 
+** Related
+:PROPERTIES:
+:ID:                     5b7708f7-a29b-47ce-9f5c-95df343ab5c8
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">
+    <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Latricières-Chambertin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7.html">
+    <section class="h text-small text-lighter">Benoît Lahaye</section>
+    <section class="h text-bolder">Rosé de Macération Champagne Grand Cru 'Bouzy' - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Clos de Vougeot - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+    <section class="h text-small text-lighter">Louis Jadot</section>
+    <section class="h text-bolder">Échezeaux - 2013</section>
+  </a>
+
+</div>
+#+end_export

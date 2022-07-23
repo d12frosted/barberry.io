@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:                     10756345-a156-4b3c-a14e-e6c8329517bd
+:END:
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/5a281f27-88c8-473e-a9fd-0e589375b1e2][La Sorga]]
+- Vintage :: 2018
+- Location :: France, Vin de Table (France)
+- Grapes :: Marsanne, Sauvignon Blanc
+- Alcohol :: 11
+- Sugar :: 2
+- Price :: 700 UAH
+- Cellar :: N/A
+
+** Ratings
+:PROPERTIES:
+:ID:                     4c7f17d0-91f7-4311-9a92-8bbdc756a7fe
+:END:
+
+*** 2020-10-16 - ☆ 6.50
+:PROPERTIES:
+:ID:                     fee57f8d-ee79-4c90-a72a-c828a68e2705
+:END:
+
+Unexpectedly good wine from La Sorga, winery mostly famous for crazy and faulty natural wines. But S.M. 2018 is really good. Not sure if it just spent enough time to settle down or just a lucky bottle. Apple juice, yeast and light brett touch. Flavourful, rotten apples mixed with seeds and yeast. Very high acidity. Could be great in the hot summer day. Maybe even mixed with cold water.
+
+** Related
+:PROPERTIES:
+:ID:                     0c86d798-1bb2-42d0-843d-726cfabd13a0
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+    <section class="h text-small text-lighter">Tiago Teles</section>
+    <section class="h text-bolder">Gilda Tinto - 2012</section>
+  </a>
+
+</div>
+#+end_export

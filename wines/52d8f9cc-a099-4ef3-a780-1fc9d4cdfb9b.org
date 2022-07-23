@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     6cb2622c-16a9-42d0-be27-b919fcbfebd9
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/52/d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b/2022-05-26-09-59-55-F61CE254-A3CE-4EC2-8C5F-0271029A50EE-1-105-c.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8c102e16-cfc7-4c18-b9d9-40ef351ef932
+:END:
 
 *** 2022-05-25 - ☆ 6.50
+:PROPERTIES:
+:ID:                     0dbfff87-8636-4f20-908f-33ded87fb9be
+:END:
 
 Unexpectedly good. Simple yet pleasant and refreshing. Notes of pear mixed with melon hints. A little bit creamy, well balanced with slightly bitter finish.
 
+** Related
+:PROPERTIES:
+:ID:                     bcf6fbd1-e9fb-4a34-8575-a0bea4352250
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html">
+    <section class="h text-small text-lighter">Cantina la Salute</section>
+    <section class="h text-bolder">Sauvignon - NV</section>
+  </a>
+
+</div>
+#+end_export

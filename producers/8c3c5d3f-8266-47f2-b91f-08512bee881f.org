@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:                     66be9d5a-1dbe-4c7a-8e55-c1a76ed6dab7
+:END:
 Mass market producer focused on straightforward and approachable wines for 'modern consumers'. They have wineries all over the world. Recognizable labels that can be turned into entertainment when scanned with their application that augments reality.
 
 ** Wines
+:PROPERTIES:
+:ID:                     f87d0a9b-0bd3-4de8-90a0-7c5191ad8e46
+:END:
 
 #+attr_html: :class wines-table
 |                                                      name | vintage |       grapes |            region | rate |

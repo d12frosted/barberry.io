@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     3bf8c275-bf6e-451e-82d6-8c4ee4974c06
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/52/fe7333-bad2-4d23-b733-a3520704b5d2/2022-06-12-17-17-44-C02100E5-8060-4F4E-A59B-B2181992AAAC.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6399f243-01e7-4066-a4d9-fecb1786aa1d
+:END:
 
 *** 2022-06-12 - ☆ 7.50
+:PROPERTIES:
+:ID:                     affde04a-cf00-47e1-b8d6-59c1d089a2a7
+:END:
 
 Haven't tasted this wine for more than 2 years, and tasting this particular vintage for the first time. In my memory this was a powerful blockbuster, but in reality it's calm and straight-forward. Well made, yet with non-beginner-friendly bouquet and palate. Lots of plastic on the background of pear and apples. There are notes of bread, but this bread is as stale and dry as my exs' heart (mandatory joke even though I don't have an ex). Good acidity, precise, but lacks volume and complexity. All-in-all, good Cava in an old-school style.
 
+** Related
+:PROPERTIES:
+:ID:                     fb4ec24b-b041-4d64-ab82-56d14bbaf25c
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">
+    <section class="h text-small text-lighter">Ktima Papaioannou</section>
+    <section class="h text-bolder">Malagouzia - 2020</section>
+  </a>
+
+</div>
+#+end_export

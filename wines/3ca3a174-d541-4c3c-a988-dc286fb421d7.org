@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     030c6813-8228-470e-8236-bde0549a2887
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     fb20ba15-6fdd-4533-9f1f-26a38184face
+:END:
 
 *** 2022-05-04 - ☆ 7.50
+:PROPERTIES:
+:ID:                     0d079d42-4bd2-45f9-958c-32972807fdfc
+:END:
 
 Good Pinot Noir for a decent price from Arbois, Jura. Entry-level in terms of good balance between conventional and wild features: a little bit fizzy, light touch of VA. It all makes this Pinot Noir more interesting. Dark berries, wet earth, mushrooms. Well balanced, long finish.
 
+** Related
+:PROPERTIES:
+:ID:                     61ea3e6d-98bf-4807-8c81-0420c925aee7
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">
+    <section class="h text-small text-lighter">San Leonardo</section>
+    <section class="h text-bolder">Terre di San Leonardo - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">
+    <section class="h text-small text-lighter">Mud House</section>
+    <section class="h text-bolder">Pinot Noir Central Otago - 2020</section>
+  </a>
+
+</div>
+#+end_export

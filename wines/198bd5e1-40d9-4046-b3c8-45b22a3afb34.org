@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     b7d67122-cff2-47ef-8dc1-cf469742b1d1
+:END:
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/d94c2c51-81ef-4bd5-be56-6a28f19a8f2a][Bach]]
 - Vintage :: NV
@@ -9,22 +12,39 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     f698fb4e-5d80-4942-af31-78b2cb70a396
+:END:
 
 *** 2020-03-05 - ☆ 5.00
+:PROPERTIES:
+:ID:                     444024eb-fcef-4d94-a5d7-130c2e17c3b9
+:END:
 
 Plastic, pear and apple.
 
 *** 2020-12-30 - ☆ 6.00
+:PROPERTIES:
+:ID:                     9a3cec10-d91e-400d-8fac-accb28a06d6a
+:END:
 
 I took this bottle with little expectations and now I think that it was not fair. Totally fine Cava with good QPR. Simple nose with plastic and apples, fresh, fruitful and easy to drink.
 
 ** Related
+:PROPERTIES:
+:ID:                     7f2096ae-8a3f-4137-9361-436a634a9742
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/39d4f69e-1397-4e09-9577-48aa088f8dbe.html">
     <section class="h text-small text-lighter">Bach</section>
     <section class="h text-bolder">Cava Gran Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
+    <section class="h text-small text-lighter">Zeni</section>
+    <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
   </a>
 
 </div>

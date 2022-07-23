@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e928d48d-50a1-4f1d-a6d4-3950dd1e8adb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     91b24346-de0e-4260-b388-adbcac1bce2d
+:END:
 
 *** 2020-10-12 - ☆ 5.50
+:PROPERTIES:
+:ID:                     f6828977-bab9-4248-a764-d8e7ccf7094c
+:END:
 
 VA attack, the only option is to surrender. My first though was about La Sorga, but deeper and more interesting. Because it also has nutty and floral notes. Then I tasted it. Now I can tell with confidence that I licked a horse. A sweaty horse. Neat.
 
 ** Related
+:PROPERTIES:
+:ID:                     2d0c91a2-61a8-4f5c-906f-82a5a4a801b9
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,16 @@ VA attack, the only option is to surrender. My first though was about La Sorga, 
   <a class="flex-item flex-item-right" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Kakhuri Mtsvivani - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
 </div>

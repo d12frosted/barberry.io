@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:                     beaffee5-534d-49d8-ad3b-14d935e49baf
+:END:
 Project by Valentina Passalacqua. Based in Puglia.
 
 ** Wines
+:PROPERTIES:
+:ID:                     c39c22cf-8d59-4561-98fa-4c7190737393
+:END:
 
 #+attr_html: :class wines-table
 |                                                    name | vintage |         grapes |     region | rate |

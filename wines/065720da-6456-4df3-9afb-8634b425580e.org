@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     faa60668-923a-4738-a0a1-b3297e3ab3bf
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c.webp]]
 
@@ -12,30 +15,51 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     6d25d49e-47dd-4f91-b27f-f9b249857e40
+:END:
 
 Ernesto Cattel is one of the first people that started to restore popularity of Col Fondo, e.g. ancestrale method, which differs from Pet Nat by having second fermentation in the bottle and with no filtration. And to make it even more interesting, his Col Fondo is macerated!
 
 ** Ratings
+:PROPERTIES:
+:ID:                     af91e59b-2930-4f18-ac39-7b2664289069
+:END:
 
 *** 2020-10-29 - ☆ 8.00
+:PROPERTIES:
+:ID:                     c4f7b514-c341-4f98-9f79-5cec966abd0e
+:END:
 
 Just think about it. Orange Col Fondo. Now stop. And reread what I just said. YES, it's an ORANGE Col Fondo. Apricot, IPA, dried herbs, tea and juniper. Good acidity, balance is there. Amazing.
 
 *** 2020-11-11 - ☆ 8.00
+:PROPERTIES:
+:ID:                     37633d6a-870f-4aea-95b6-1402637844fd
+:END:
 
 When you have to party, there must be a sparkling wine, as bubbles make everything brighter and fizzy. Now take this orange Col Fondo, Moz, a sophisticated beauty, full of rotting orange peel, flowers, tea and hints of juniper. Refreshing, and easy to enjoy.
 
 P.S. I did it! I spilled it on the table and on the floor!
 
 *** 2021-01-15 - ☆ 8.00
+:PROPERTIES:
+:ID:                     811e990b-87d7-4a9d-987a-dc2c65e2847c
+:END:
 
 I like sparkling wines made by Costadila. While being not demanding and fun, they still have character. Móz is my favorite from the line so far. Mandarin, rotten mandarin skin, flowers, tea and kombucha hints. I would love it to have more acidity, but other than this it's a great wine.
 
 *** 2021-07-01 - ☆ 8.00
+:PROPERTIES:
+:ID:                     dc737c16-9e72-43b3-b6d2-b57723595339
+:END:
 
 It's always a pleasure to enjoy this beautiful orange Col Fondo, full of kombucha, pear, medicinal herbs, lilac flowers and slightly rotten orange. Fresh, bubbly, easy to enjoy, but not simple.
 
 ** Related
+:PROPERTIES:
+:ID:                     f9c28717-63cc-4a02-a26c-90ca748a5481
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -52,6 +76,21 @@ It's always a pleasure to enjoy this beautiful orange Col Fondo, full of kombuch
   <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">450 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Provetto Spumante Bianco Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
 </div>

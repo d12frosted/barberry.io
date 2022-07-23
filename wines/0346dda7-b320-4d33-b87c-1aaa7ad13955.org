@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c3b28129-f2f8-4dc5-88ea-7229eb953b8b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     136c254e-0519-41ad-a053-74c0d8a0029b
+:END:
 
 *** 2022-01-25 - ☆ 7.50
+:PROPERTIES:
+:ID:                     77732200-0da0-4577-a43e-53f366b2dcd4
+:END:
 
 Watery yellow colour. Restrained, elegant and youthful bouquet. Lemon, grass and acacia. Crisp and light with good balance and flavourful aftertaste. Grapefruit and silicon. Stylish and tasty, yet subtle and restrained.
 
 ** Related
+:PROPERTIES:
+:ID:                     c50c2c5f-38fb-4f12-bf5a-ffc421fc3c3f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,31 @@ Watery yellow colour. Restrained, elegant and youthful bouquet. Lemon, grass and
   <a class="flex-item flex-item-right" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <section class="h text-small text-lighter">Thymiopoulos</section>
+    <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <section class="h text-small text-lighter">Bodegas Borsao</section>
+    <section class="h text-bolder">Tres Picos - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <section class="h text-small text-lighter">Naveran</section>
+    <section class="h text-bolder">Odisea - 2019</section>
   </a>
 
 </div>

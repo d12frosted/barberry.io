@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     391635fc-7995-4e14-9308-0b52b2565b37
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     69a759c1-44cf-474c-ae48-d3c9b33d4867
+:END:
 
 *** 2022-07-02 - ☆ 5.50
+:PROPERTIES:
+:ID:                     6b7f0b3e-3357-4a06-81aa-f9f0b28763a2
+:END:
 
 Basic and flat Cava. You drink it, you enjoy it, but you still remember that there are so many better choices. Pear, cream, and... Well, that's it. Rather short aftertaste. But thanks to creaminess and higher RS, it is reliable and friendly choice. At least it lets me fully focus on conversation.
 
+** Related
+:PROPERTIES:
+:ID:                     01c28b26-7e81-46e8-a3af-a4575a79545f
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a4980711-6b29-4392-9585-17310170db4a.html">
+    <section class="h text-small text-lighter">Kir-Yianni</section>
+    <section class="h text-bolder">Paranga Sparkling - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
+    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
+  </a>
+
+</div>
+#+end_export

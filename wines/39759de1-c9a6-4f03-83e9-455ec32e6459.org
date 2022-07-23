@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     45b455b6-8952-4e3c-b166-44bc4d5c33c7
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     cd06a88b-5319-4ab5-a263-31bf1729acc6
+:END:
 
 *** 2020-11-21 - ☆ 7.50
+:PROPERTIES:
+:ID:                     73a08ed4-9520-45a2-bdd6-8d8fcb6a3585
+:END:
 
 Even the basic white from Marco de Bartoli is something wonderful. Pear, flint, melon and zest. Powerful (relatively, of course), very refreshing. Do not over-chill it and enjoy.
 
 ** Related
+:PROPERTIES:
+:ID:                     223b43c3-b078-4cc3-9828-f04fa3a018c2
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -64,6 +76,11 @@ Even the basic white from Marco de Bartoli is something wonderful. Pear, flint, 
   <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
   </a>
 
 </div>

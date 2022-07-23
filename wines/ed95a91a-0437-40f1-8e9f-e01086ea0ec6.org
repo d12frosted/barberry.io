@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     7472117f-b23e-4ef0-8e3f-7a1799f9528f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp]]
 
@@ -12,22 +15,37 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     be4d17a7-6789-4b7c-a996-145b4b627811
+:END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     96faac21-ae1e-460a-b826-5896b942d325
+:END:
 
 *** 2021-08-17 - ☆ 7.50
+:PROPERTIES:
+:ID:                     3f308c74-40e3-4041-981e-576bf5740c5b
+:END:
 
 Unexpected! Buns filled with pear jam, pomelo. Not complex, but tasty traditional method sparkling from Moravia. Interesting aftertaste of slightly rotten fruits and red berries.
 
 Tasted as part of Divych Vechir.
 
 *** 2022-07-15 - ☆ 7.50
+:PROPERTIES:
+:ID:                     37cdffe9-ca09-473e-8665-7bd5388e1f64
+:END:
 
 Apparently, it spent in contact with the skin longer than expected. Which resulted in a rosé gold colour and barely noticeable red berries aromas. Despite 10 months on lees, strong yeasty notes (think of bread). Slightly rotten apple, pomelo jam, and peach. Good acidity, long aftertaste with some evolution and bitter finish. Nice.
 
 ** Related
+:PROPERTIES:
+:ID:                     1fe2c42e-cb0a-4a92-8802-b5d952059e74
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -44,6 +62,71 @@ Apparently, it spent in contact with the skin longer than expected. Which result
   <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <section class="h text-small text-lighter">Jacques Lassaigne</section>
+    <section class="h text-bolder">La Colline Inspirée - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h text-bolder">Bland de Blancs - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Gentleman - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Origin'elle - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">280 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <section class="h text-small text-lighter">Ca Dei Zago</section>
+    <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
 
 </div>

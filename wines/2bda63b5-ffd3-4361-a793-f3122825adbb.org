@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     cc3ec163-2100-4980-a081-30189d93dbc3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/2b/da63b5-ffd3-4361-a793-f3122825adbb/2021-08-27-16-40-06-C0C8E884-98F3-4673-A462-63D9EF1A2728-1-105-c.webp]]
 
@@ -12,8 +15,53 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     5517d823-825e-4f9a-9cda-499c0a732ee1
+:END:
 
 *** 2021-08-26 - ☆ 9.00
+:PROPERTIES:
+:ID:                     acb49b03-18a5-4d7a-93ab-64ce60c9aef8
+:END:
 
 Beautiful, sexy and expressive bouquet full of flowers and wild strawberries, mushrooms, animal notes, jamon and balsamic notes. Juicy, quaffable and well balanced with long aftertaste. Great compromise between complexity and approachability. Maybe I am drunk already, but IMHO this wine deserves such a high score.
 
+** Related
+:PROPERTIES:
+:ID:                     742b0ab9-26bd-4cf5-b4f9-9eaa8e13069b
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
+    <section class="h text-small text-lighter">Domaine Guyon</section>
+    <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">
+    <section class="h text-small text-lighter">Bernard Dugat-Py</section>
+    <section class="h text-bolder">Gevrey-Chambertin 1er cru Champeaux - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4fb6854f-bece-4bc3-b30d-589a80668230.html">
+    <section class="h text-small text-lighter">Le Domaine Marquis d'Angerville</section>
+    <section class="h text-bolder">Volnay 1er cru Champans - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
+    <section class="h text-small text-lighter">Domaine Trapet Pere et Fils</section>
+    <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">
+    <section class="h text-small text-lighter">Domaine George Noëllat</section>
+    <section class="h text-bolder">1er cru Les Boudots - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">
+    <section class="h text-small text-lighter">The Hilt</section>
+    <section class="h text-bolder">Estate Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

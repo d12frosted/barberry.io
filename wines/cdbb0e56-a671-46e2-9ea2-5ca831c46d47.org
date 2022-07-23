@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     6f92a4a5-c9ac-4b3e-a3ab-979a7654eeeb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/cd/bb0e56-a671-46e2-9ea2-5ca831c46d47/2021-07-14-08-46-13-D9599F9A-47F6-46EA-8BB4-704363D84E42-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3cde75d4-05dd-4e0a-bb6e-7cf31d81429e
+:END:
 
 *** 2021-07-13 - ☆ 8.25
+:PROPERTIES:
+:ID:                     6cd734a4-a67c-45e3-ac37-9270a5b3d156
+:END:
 
 It's not everyday that I drink a 15 years old rosé. That is also in a good shape with potential to age for more years. Old school style, complex and interesting bouquet of caramel, marzipan, apricot, blood orange and fig with some cooked notes. In a blind tasting (sniffing?) I would assume that it has some relation to Madeira wine, but then you taste it and it's bone dry and not fortified. And the acidity is high. Overall, I love this wine and it feels like a cherry on a cake.
 
 ** Related
+:PROPERTIES:
+:ID:                     6536e3bf-73ad-44e3-a16e-d96cd45f0d05
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,26 @@ It's not everyday that I drink a 15 years old rosé. That is also in a good shap
   <a class="flex-item flex-item-right" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <section class="h text-small text-lighter">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e8b81c91-5abe-4fb0-835a-d5f44d902071
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1dcde984-8726-4053-82d2-946ab2c5a133
+:END:
 
 *** 2020-10-12 - ☆ 7.50
+:PROPERTIES:
+:ID:                     2e704a11-a776-4e1b-b3f9-3ecdc2da5f2c
+:END:
 
 They say Marco de Bartoli has moved the reputation of Marsala. I am not the person to judge here as this is my first Marsala ever. So far I've been enjoying Madeira and wanted to try something new. And I am happy that I did. Fresh lemon notes, mixed with roasted nuts, and dried date fruit. Refreshing, pleasant acidity, citrus flavours with hints of nuts. There is evolution in the taste, good smooth finish, though I think it could be better balanced.
 
 *** 2020-11-05 - ☆ 7.50
+:PROPERTIES:
+:ID:                     b205559c-cbe0-4165-9df7-9db017fb8ac0
+:END:
 
 Marco de Bartoli has conquered my hearth with his dry whites. Now little by little I surrender to his Marsala. I guess the next step would be something from Pantelleria (love this place thanks to Ben Rye). But right now I have pretty young and simple Marsala. But don't be fooled, it's delicious. It is not as deep as I would love it to be, but expect lemon curd, nuts, dried date fruit. Refreshing and tasty. Definitely want to explore more.
 
 ** Related
+:PROPERTIES:
+:ID:                     6a20e2c9-3563-4d2f-820c-3e870dff8722
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -68,6 +83,36 @@ Marco de Bartoli has conquered my hearth with his dry whites. Now little by litt
   <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Rkatsiteli - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Rkatsiteli - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Mtsvane - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Kakhuri Mtsvivani - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
 </div>

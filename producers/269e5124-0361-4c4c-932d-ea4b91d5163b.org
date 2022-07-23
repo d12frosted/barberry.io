@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:                     065469b5-a189-403e-ba7a-282798590550
+:END:
 It's actually one of the projects of [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]].
 
 ** Wines
+:PROPERTIES:
+:ID:                     2329d573-2910-4af0-aa28-dfa4d12e8486
+:END:
 
 #+attr_html: :class wines-table
 |                                                         name | vintage |          grapes |      region | rate |

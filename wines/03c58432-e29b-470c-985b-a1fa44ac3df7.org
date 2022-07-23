@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e432ab48-5a41-48bc-b38d-6fd457dacf81
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp]]
 
@@ -12,14 +15,62 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bc8e2c1e-9686-4571-9f29-33876a2d5f19
+:END:
 
 *** 2020-12-31 - ☆ 8.20
+:PROPERTIES:
+:ID:                     a9a74e30-1b45-474f-8140-8736e26eb938
+:END:
 
 Friendly and non overwhelming. Bruised apples, lemon and chalk. Not simple, refreshing, mineral and delicious Champagne with long aftertaste.
 
 *** 2021-12-21 - ☆ 8.25
+:PROPERTIES:
+:ID:                     7d2ee424-61c7-4f66-8cb2-3b12f64c8ada
+:END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
 
 Basic Champagne by Bérêche, 24 months on lees, degorgee on 06/2021. Great and complex bouquet - red apple baked with honey, flowers, lemon, Jerez and chalk. Great structure and balance. Mineral touch makes it more interesting. Sweeter side makes it more friendly. Nice.
 
+** Related
+:PROPERTIES:
+:ID:                     f36f585f-8e46-46b1-85c1-7e9f87667d44
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <section class="h text-small text-lighter">Shabo</section>
+    <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+    <section class="h text-small text-lighter">Billecart Salmon</section>
+    <section class="h text-bolder">Brut Reserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <section class="h text-small text-lighter">Domaine de la Touraize</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
+    <section class="h text-small text-lighter">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée - NV</section>
+  </a>
+
+</div>
+#+end_export

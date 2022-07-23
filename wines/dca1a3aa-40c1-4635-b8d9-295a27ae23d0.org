@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ee2e1334-f1d8-4792-8d46-d6f149cd8647
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/dc/a1a3aa-40c1-4635-b8d9-295a27ae23d0/2021-08-27-17-25-38-89F25E83-DCE8-4563-97F0-0C701FD490AF-1-105-c.webp]]
 
@@ -12,8 +15,53 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     f806bd0f-4972-4f60-9ef9-5b44ba6129b4
+:END:
 
 *** 2021-08-26 - ☆ 7.50
+:PROPERTIES:
+:ID:                     28c73235-1c2e-47ad-82aa-4c7a1adc6a2c
+:END:
 
 This wine was advertised as an example of heavy New World style, but I could not agree as this Pinot Noir is quite elegant, well balanced and velvety. Yes, it is not complex, it is young but well made nevertheless. Bouquet features red fruits, mostly ripe cherry, cola and some spices from oak. QPR is questionable, of course, but for me it was interesting as it is my first Pinot Noir from USA.
 
+** Related
+:PROPERTIES:
+:ID:                     b907a3b5-ef2a-4776-8ea3-b4f575053558
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
+    <section class="h text-small text-lighter">Domaine Guyon</section>
+    <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">
+    <section class="h text-small text-lighter">Domaine Chantal Lescure</section>
+    <section class="h text-bolder">Vosne-Romanee 1er cru Les Suchots - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">
+    <section class="h text-small text-lighter">Bernard Dugat-Py</section>
+    <section class="h text-bolder">Gevrey-Chambertin 1er cru Champeaux - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4fb6854f-bece-4bc3-b30d-589a80668230.html">
+    <section class="h text-small text-lighter">Le Domaine Marquis d'Angerville</section>
+    <section class="h text-bolder">Volnay 1er cru Champans - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
+    <section class="h text-small text-lighter">Domaine Trapet Pere et Fils</section>
+    <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">
+    <section class="h text-small text-lighter">Domaine George Noëllat</section>
+    <section class="h text-bolder">1er cru Les Boudots - 2004</section>
+  </a>
+
+</div>
+#+end_export

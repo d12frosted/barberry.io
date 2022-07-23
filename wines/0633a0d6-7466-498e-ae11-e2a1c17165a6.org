@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     85323957-5176-4844-b5d6-1c8dc0d9c840
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/06/33a0d6-7466-498e-ae11-e2a1c17165a6/2020-12-27-12-57-18-2464C91A-5488-4A95-8CF5-E781904FF949-1-105-c.webp]]
 
@@ -12,18 +15,37 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     640fa93c-7bd0-48af-9fd5-d3b9315ab187
+:END:
 
 *** 2020-12-26 - ☆ 5.50
+:PROPERTIES:
+:ID:                     06a04f3a-0a54-4b76-b071-ea1a4e1b0a9c
+:END:
 
 Commercial, overly sweet, but OK Cava. Love that they have 25cl bottles, just to enjoy your two glasses of mediocre sparkling in the first half of the day
 
 ** Related
+:PROPERTIES:
+:ID:                     6b0c6309-1df6-4371-8110-b4db22213cfb
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/938343b2-010d-4abd-9c14-e5e6f6c88633.html">
     <section class="h text-small text-lighter">Codorníu</section>
     <section class="h text-bolder">Cava Clasico Brut Nature - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Herr Gewürtz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">
+    <section class="h text-small text-lighter">Kir-Yianni</section>
+    <section class="h text-bolder">Kali Riza - 2017</section>
   </a>
 
 </div>

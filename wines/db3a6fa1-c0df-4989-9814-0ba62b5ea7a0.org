@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     95c054b0-58af-4129-8599-117c2dfa5f86
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/db/3a6fa1-c0df-4989-9814-0ba62b5ea7a0/2022-05-28-10-14-37-DA54A7F2-C753-4B5D-B92A-49FE6435CDF8-1-201-a.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     844ffc4f-aba9-45ea-8565-31ad930f7afe
+:END:
 
 *** 2022-05-27 - ☆ 6.50
+:PROPERTIES:
+:ID:                     9f6ebbec-02b9-4fd6-8449-e102f6f22cc1
+:END:
 
 One of those cases, where there is little to say about wine. Straightforward, honest and does it job. Sparkles? Check. Relaxing flowery-apple-like nose? Check. Good mood? Check. Just another Prosecco to drink and forget.
 
+** Related
+:PROPERTIES:
+:ID:                     fffcfcc8-0cdc-44a6-ade4-cc7cd4c581f5
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4e6b1890-7360-4d61-af6a-e7a6ac427f98.html">
+    <section class="h text-small text-lighter">Terra Fresca</section>
+    <section class="h text-bolder">frizzante - NV</section>
+  </a>
+
+</div>
+#+end_export

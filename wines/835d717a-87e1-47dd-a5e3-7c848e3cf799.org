@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     31c15c81-feef-45d8-9f31-b7d2d4ebf553
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/83/5d717a-87e1-47dd-a5e3-7c848e3cf799/IMG-1281.webp]]
 
@@ -12,14 +15,23 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     66f579c6-b8ff-4852-bebe-12c191c3785b
+:END:
 
 *** 2019-11-30 - ☆ 8.00
+:PROPERTIES:
+:ID:                     0fbfeb94-1f12-42cc-afcf-8a5ece4d2b43
+:END:
 
 Середнє золото, мутне. Сльози середні+. Серендньої інтенсивності аромат, консервований персик, квашені яблука, квашена капуста, цедра мандарину, яблуко з корицею, ананасовий сік, мускат, спеції. Кислотність середня+ (квашена, яблучна), легке тіло.
 
 Вино неоднозначне. Об'єктивна оцінка 3.5, але мені дуже сподобалось вино. Особливо через те, що воно так схоже на дикий нефільтрований сидр, але з більш комплексним ароматом та смаком. Мускат - не мій сорт винограду судя чи з усього, але варто пити нефільровані білі.
 
 ** Related
+:PROPERTIES:
+:ID:                     33a8f830-ff53-4e4f-b86f-964ce2891432
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -66,6 +78,11 @@
   <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f.html">
+    <section class="h text-small text-lighter">Thymiopoulos</section>
+    <section class="h text-bolder">Xinomavro Young Vines - 2017</section>
   </a>
 
 </div>

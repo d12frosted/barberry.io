@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     dd95b216-a17b-4ce0-bc49-6c4f5cb23883
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/a6/049624-d554-4a4c-ab3c-eb1af3efcef0/2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6709c56a-abc8-4015-ae91-851756bbf6d3
+:END:
 
 *** 2022-01-13 - ☆ 8.00
+:PROPERTIES:
+:ID:                     e8d8896c-e3e8-409f-b025-a905e84befa6
+:END:
 
 Tasted blind. Guessed country, but not producer. Clean, expressive Pinot Noir with interesting bouquet of raspberry, cherry, violets, earth, graphite and raw meat. Good acidity, medium-high dry tannin. Very young, has potential. Tasty.
 
+** Related
+:PROPERTIES:
+:ID:                     cb6824ad-0319-47e8-8127-bee6d2dc1bf4
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <section class="h text-small text-lighter">Kelley Fox Wines</section>
+    <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <section class="h text-small text-lighter">Roses De Jeanne</section>
+    <section class="h text-bolder">Presle Millesime BdN - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+    <section class="h text-small text-lighter">Enderle&Moll</section>
+    <section class="h text-bolder">Buntsandstein - 2018</section>
+  </a>
+
+</div>
+#+end_export

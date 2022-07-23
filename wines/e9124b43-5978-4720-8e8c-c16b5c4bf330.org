@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c4dd98b8-8d8e-469a-bf1d-2c2f9f9b2053
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     d76ec82c-17a7-4f94-b084-7c1eb6a2a2e7
+:END:
 
 *** 2021-12-20 - ☆ 8.00
+:PROPERTIES:
+:ID:                     7086dc92-dcfe-4b32-9e3e-f73019af120f
+:END:
 
 Was on my list for a long time and tasted at last. Up to expectations. Great oaky Chardonnay with bouquet full of yellow fruits, tropical fruits, honey, nuts, butter, vanilla and toast. Definitely not simple on the nose, yet charming. Medium-bodied, well balanced, long and multilayered aftertaste, flavourful and nice mineral touch.
 
 ** Related
+:PROPERTIES:
+:ID:                     8c8f6572-3cc0-42d8-8e53-13da50a78d27
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,16 @@ Was on my list for a long time and tasted at last. Up to expectations. Great oak
   <a class="flex-item flex-item-right" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
     <section class="h text-small text-lighter">Gentle Folk</section>
     <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2019</section>
   </a>
 
 </div>

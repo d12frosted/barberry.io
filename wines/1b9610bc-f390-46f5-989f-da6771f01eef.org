@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     6b5ee271-3826-473a-9fa3-e1860d1237bc
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     95ad1685-4000-4e65-918d-8d4f41198e8f
+:END:
 
 *** 2022-06-27 - ☆ 7.20
+:PROPERTIES:
+:ID:                     07738560-b4e1-4585-a788-363fddff5412
+:END:
 
 Simple and somehow tired bouquet. Or was it me who was tired? Yellow apples, stone fruits, vanilla and melon. Slightly oily structure, medium acidity, long finish. Nice 5 years old table wine.
 
 ** Related
+:PROPERTIES:
+:ID:                     0f40dbce-211d-41ee-ad59-9330e46219fb
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,11 @@ Simple and somehow tired bouquet. Or was it me who was tired? Yellow apples, sto
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Signature Chenin Blanc - 2021</section>
   </a>
 
 </div>

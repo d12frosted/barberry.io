@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:                     abc7870b-52bb-4b6e-a2a9-e8cec58963f7
+:END:
 One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
 
 ** Wines
+:PROPERTIES:
+:ID:                     aeed17d1-a073-4f5e-8913-766eec39c356
+:END:
 
 #+attr_html: :class wines-table
 |                                                    name | vintage |     grapes |    region | rate |

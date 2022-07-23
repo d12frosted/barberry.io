@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     33f67477-8993-43eb-9bf1-18199127cd5a
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2020-07-29-21-39-39-11068010-DB19-4DF2-91C8-4DD6BB9CB651-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     2bfefe34-79e4-4cfa-86c2-e7bf09802c78
+:END:
 
 Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. Her 25 hectares feature only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young as she planted them, most of them a guyot-trained. But she also added to her holdings 60-years-old albarello-trained vines which she initially rented.
 
@@ -36,16 +42,28 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     44d05786-4285-4563-969e-873d441a2914
+:END:
 
 *** 2021-05-13 - ☆ 8.50
+:PROPERTIES:
+:ID:                     0c61ce96-ace1-4b37-b63a-d6f35a16f441
+:END:
 
 Ripe cherry, blood sausage, red flowers, cherry nut, spices and balsamic notes. Still very young, fruit-forward character. Requires decanting (for at least 30 minutes) to become smooth. Not perfectly, but well balanced, tannins are still rough. Pleasant and drinkable wine with long evolving aftertaste and flavours of ripe cherry and ferrum with pleasant vanilla finish.
 
 *** 2021-05-27 - ☆ 8.50
+:PROPERTIES:
+:ID:                     160cdf36-23a5-4464-824f-2301525d9952
+:END:
 
 You pour a little bit of this wine and you get a glass full of bloody sausages with some red flowers, lots of cherry, raspberry and spices. Well balanced, young and not complex despite the subtlety of bouquet and palate. But I'm in love with iron (e.g. ferrum) finish mixed with a ripe cherry.
 
 ** Related
+:PROPERTIES:
+:ID:                     d0f4f810-c439-4d7f-9137-144061db8be1
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -112,6 +130,11 @@ You pour a little bit of this wine and you get a glass full of bloody sausages w
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Rain Field Blend - 2019</section>
   </a>
 
 </div>

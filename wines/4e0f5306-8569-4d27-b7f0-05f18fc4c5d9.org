@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     60eb8bcf-ad3a-4b90-9c30-20c63b153df5
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp]]
 
@@ -12,18 +15,52 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6e1b0408-6c06-494e-8a9e-72997682cfb0
+:END:
 
 *** 2021-08-10 - ☆ 7.75
+:PROPERTIES:
+:ID:                     9c52f81e-7455-4053-8a1e-a4b95e142478
+:END:
 
 Tasted blind and guessed only the New World part. Strict and sophisticated bouquet: gooseberry, stone fruits, freshly cut grass. A little bit off-dry, but tasty and very gastronomic. Long aftertaste, flavours of grass and stone fruits. Didn't expect such a good wine from Spier Wines. My apologies.
 
 ** Related
+:PROPERTIES:
+:ID:                     b95a0f31-ec27-4800-ae1d-d1f3ab5d9bef
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">
     <section class="h text-small text-lighter">Spier Wines</section>
     <section class="h text-bolder">Signature Chenin Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Go Together Red - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/67648a12-7d2c-481b-ba2f-707213642f7c.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Oh Yeah - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Silk Blue - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/805e6758-4d6a-4c21-9ab4-4045e6ea446c.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Fresh Impression White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Three views of a secret - 2020</section>
   </a>
 
 </div>

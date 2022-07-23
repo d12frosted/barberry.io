@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     25fb0633-b920-4b4c-bacf-fea75dcf46d1
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     4f0f964d-6550-4cc1-9b8a-32c6396f3429
+:END:
 
 *** 2022-06-10 - ☆ 6.50
+:PROPERTIES:
+:ID:                     f37de635-4fd0-4a80-97cb-0b2224817c53
+:END:
 
 The first thing I noticed is the label change. It's not critical, but I liked previous one more. Previously it was a baseline Sauvignon Blanc with a label of a good wine, now it's a baseline Sauvignon Blanc with... this label. As you can see, I am talking about label instead of wine itself, so it could be a signal. But in reality, it's totally fine, tropical bomb with matching palate, typical black currant leaves and good acidity. Surprisingly good price.
 
+** Related
+:PROPERTIES:
+:ID:                     987f8ea6-4033-4662-a691-9ae691ae93db
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h text-bolder">Mount Hermon White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
+  </a>
+
+</div>
+#+end_export

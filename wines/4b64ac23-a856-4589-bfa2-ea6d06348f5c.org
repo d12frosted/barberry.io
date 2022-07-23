@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8a41cccf-f4c7-40f5-8efa-f4704a9082e6
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1283e5b9-dc69-48c0-9cf8-8caa07b2e748
+:END:
 
 *** 2021-05-06 - ☆ 7.75
+:PROPERTIES:
+:ID:                     7a1023f3-1eda-4781-8e48-5716fb89edd3
+:END:
 
 Up to expectations, interesting macerated Gewürztraminer from Alsace. Baked apple, dried apricot, fried almonds, flowers and juniper notes. Tasty, friendly and easy to enjoy wine. By the end of the bottle I am left confused, because this wine is definitely interesting and has some elegance, but it is also vulgar in its aroma intensity and sweetness perception (despite RS level close to zero). On the other hand, works well with food.
 
 ** Related
+:PROPERTIES:
+:ID:                     2c25547a-8492-4e67-8ec7-3e5b6889d5bc
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,16 @@ Up to expectations, interesting macerated Gewürztraminer from Alsace. Baked app
   <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
 </div>

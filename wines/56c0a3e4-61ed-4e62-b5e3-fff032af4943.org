@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     6922cb80-e2e6-4a81-976a-d4b6fd1e0f44
+:END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5][Zeni]]
 - Vintage :: 2018
@@ -9,18 +12,32 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     d92b74bf-c48e-4cd9-8a2e-35ae61a55739
+:END:
 
 *** 2020-03-05 - ☆ 7.00
+:PROPERTIES:
+:ID:                     80bb208f-ac0b-4dd5-894b-fb8d7f2f79d6
+:END:
 
 Simple wine with pleasant white floral notes, acacia and pear.
 
 ** Related
+:PROPERTIES:
+:ID:                     441ab207-2a6f-4673-ba5e-d260b8b7146d
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b.html">
     <section class="h text-small text-lighter">Zeni</section>
     <section class="h text-bolder">Garganega Veronesse Vigne Alte - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">
+    <section class="h text-small text-lighter">Bach</section>
+    <section class="h text-bolder">Extrísimo Brut - NV</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     38970d4e-f29a-4982-838f-37fd224ebb58
+:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]
 - Vintage :: 2018
@@ -9,20 +12,35 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6d4f7560-e292-4b01-8dc5-96e1fd544ee5
+:END:
 
 *** 2020-08-10 - ☆ 7.00
+:PROPERTIES:
+:ID:                     e296f1fc-653a-42f0-a8f1-10e21fbb8877
+:END:
 
 Strawberry, cranberry and pine! With subtle barn hints. Bright acidity, good tannins. Overall sophisticated light wine. In the hot evening pairs perfectly well with 'The Foam of Days' by Boris Vian.
 
 *** 2020-08-16 - ☆ 7.00
+:PROPERTIES:
+:ID:                     444273b2-be1b-4a71-a3a9-109b2389989d
+:END:
 
 Not sure why I've got the second bottle, but I not sad at all! Strawberry, pine, soaked apples and pickles, cranberry and thyme. Good mix of different characteristics. Viscous wine with bright acidity and tannins. Long aftertaste (why most of the wines I drink have long aftertaste?) with pine-strawberry flavours.
 
 *** 2020-11-24 - ☆ 7.50
+:PROPERTIES:
+:ID:                     044f489c-53a3-4710-9de8-d6f20afbaf8c
+:END:
 
 Tasting again in 5 months and I like it more now. It become deeper and more interesting. Now it has less soaked things in aroma, it's mostly about strawberries, leather and paint. Light and pleasant, easy to drink.
 
 ** Related
+:PROPERTIES:
+:ID:                     c65ec720-f95d-47fd-9aa6-5a76dfb159fa
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +57,21 @@ Tasting again in 5 months and I like it more now. It become deeper and more inte
   <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
   </a>
 
 </div>

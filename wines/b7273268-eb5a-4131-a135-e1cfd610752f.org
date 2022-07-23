@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     f2f67d8f-3a9d-4536-8adc-28270e84f0fc
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b7/273268-eb5a-4131-a135-e1cfd610752f/2020-09-19-13-51-46-4498FB5C-565A-4914-9D31-4D826BB61A3D-1-105-c.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: 1 bottle
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ade2b8d8-04fc-4d51-9346-e88ec7ae238b
+:END:
 
 *** 2020-09-18 - ☆ 7.00
+:PROPERTIES:
+:ID:                     3418bfd7-c760-4c88-9ade-4b1951174831
+:END:
 
 Good skin contact wine from Satu Mare, Romania. Fermenting yellow fruits, dried flowers, juniper, yeast. Tastes like oxidized green apple, same acidity and tannins. And if that matter, flavours.
 
+** Related
+:PROPERTIES:
+:ID:                     0fce79e1-25df-4e98-af3f-d4cf66c9dfe6
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Go Together Red - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2018</section>
+  </a>
+
+</div>
+#+end_export

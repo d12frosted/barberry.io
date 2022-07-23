@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     d61731f5-09f1-433e-aa9b-77a5abdb7a34
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     46f2afcf-d514-4c47-8f53-568bda016470
+:END:
 
 *** 2022-01-13 - ☆ 8.50
+:PROPERTIES:
+:ID:                     71bd222d-e05e-4e3e-90ce-1d29d773e0d4
+:END:
 
 Tasted blind. Great and expressive BdN (100% Pinot Noir). Notes of oxidation, yellow apple, crème brûlée, brioche, cider, baked apple. Wonderful acidity, well balanced and quite delicate on the palate despite being almost full-bodied. Flavourful and long aftertaste with lots of cider in the taste. Opens up in the glass, good to drink in a small company (or alone haha) to enjoy its evolution.
 
+** Related
+:PROPERTIES:
+:ID:                     9c543720-f34f-4228-ab6f-fa756a493100
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <section class="h text-small text-lighter">Kelley Fox Wines</section>
+    <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+    <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
+    <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+    <section class="h text-small text-lighter">Enderle&Moll</section>
+    <section class="h text-bolder">Buntsandstein - 2018</section>
+  </a>
+
+</div>
+#+end_export

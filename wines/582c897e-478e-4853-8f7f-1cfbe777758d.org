@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     442c144b-2a0b-46f6-ac49-aad6ed2fe532
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/58/2c897e-478e-4853-8f7f-1cfbe777758d/2021-05-26-09-09-15-564E4B83-DAD6-4A72-9849-5B98D494B072-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     870364c1-2e13-4345-9b27-ff808ede2506
+:END:
 
 *** 2021-05-25 - ☆ 6.75
+:PROPERTIES:
+:ID:                     8c04f75a-716d-4b03-83be-a3873c3ab4b0
+:END:
 
 Skin Party #4. Typical crazy natural wine. Iced bergamot tea with peach, citrus, pickled lilac, cider, kvass and juniper. Volatile, unfocused and lacks balance.
 
 ** Related
+:PROPERTIES:
+:ID:                     8f4dd102-726a-426d-b81b-6abf55ff3829
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,21 @@ Skin Party #4. Typical crazy natural wine. Iced bergamot tea with peach, citrus,
   <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Mtsvane - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <section class="h text-small text-lighter">Kmetija Štekar</section>
+    <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>
 
 </div>

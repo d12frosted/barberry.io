@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     b026af6f-e1b7-43f1-a3a7-07193fc48813
+:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/7ccd7bff-82b4-4834-ba80-31924e56b364][Jean Grivot]]
 - Vintage :: 2016
@@ -9,8 +12,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     68b70b4f-6a72-4b9d-83b6-49ff7726af3b
+:END:
 
 *** 2020-07-22 - ☆ 8.00
+:PROPERTIES:
+:ID:                     a76f514f-152a-43af-b7de-e1fbac7a8af5
+:END:
 
 I am new to Burgundy reds, so imagine how much I enjoyed this sophisticated
 Pinot Noir. Fruit forward with cherry and strawberry, licorice root, hints of
@@ -18,6 +27,9 @@ barn and meet. Clean, accurate and tasty. Medium finish, flavours of licorice
 root and strawberry. I definitely like it.
 
 ** Related
+:PROPERTIES:
+:ID:                     b67cbaea-7741-4bbe-8779-c7771dfcc4d9
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,16 @@ root and strawberry. I definitely like it.
   <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
     <section class="h text-small text-lighter">Jean Grivot</section>
     <section class="h text-bolder">Clos de Vougeot - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Brutal Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
 </div>

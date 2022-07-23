@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     97e1570a-97b3-4a6c-a495-0cbd070946c1
+:END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
 - Vintage :: 2019
@@ -9,20 +12,35 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     302ca4ef-2e58-42cc-88ca-fb1b742dccc9
+:END:
 
 *** 2020-10-16 - ☆ 7.00
+:PROPERTIES:
+:ID:                     0de1f5c3-90c0-4add-8b2f-2f735d6ac2d3
+:END:
 
 Mediocre orange. Soaked apples, caramel and spring flowers. Pretty good, but nothing special. I'd love to give it a year or two to settle down and find an inner peace.
 
 *** 2020-11-25 - ☆ 7.50
+:PROPERTIES:
+:ID:                     2e7c1177-fd19-4305-97d2-f47dcb895b56
+:END:
 
 Tasted blind and my guess was Austria or Fruili. Turned out to be Hungary! Obviously, my grape guess wasn't even close. Medicore orange, a little bit better than the last time. Soaked apples, spring flowers, nutmeg and balsamic notes. Best from the Hummel range.
 
 *** 2021-05-17 - ☆ 5.00
+:PROPERTIES:
+:ID:                     6c2c4a15-cd42-41ad-b56e-240d4b868abb
+:END:
 
 Stability is not about this wine. I've tasted it on multiple occasions and it filled the spectrum between mediocre orange and good one. This time it was even below. Very volatile, bergamot tea with spoon of honey and a lemon slice. Very murky, acidic and aggressive.
 
 ** Related
+:PROPERTIES:
+:ID:                     5660f6b5-1f9d-418d-8876-8d8e71eea4e0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +57,16 @@ Stability is not about this wine. I've tasted it on multiple occasions and it fi
   <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
+    <section class="h text-small text-lighter">La Sorga</section>
+    <section class="h text-bolder">S.M. - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+    <section class="h text-small text-lighter">Tiago Teles</section>
+    <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     7f228319-3cfd-4c5d-94ad-32721c281481
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/17/70821f-dd60-4149-9491-a95e838bd5d7/2021-07-20-09-18-17-64FA3893-9864-4121-981B-BD793D735C80-1-105-c.webp]]
 
@@ -12,12 +15,55 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     6bdc4ded-6162-461f-b888-abf19d68f162
+:END:
 
 Ochota barrels began as passion of Taras and Amber during their surf trip along the Mexican west coast in a Volkswagen campervan in late 2000. After visiting several amazing wineries and beautiful surf spots, they decided to make holistic wines back in their homeland in South Australia.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8fc2d537-f103-48f1-8249-4b6ac828d6b4
+:END:
 
 *** 2021-07-19 - ☆ 8.60
+:PROPERTIES:
+:ID:                     2ee66672-5bf6-4ce0-b713-f21013e09f02
+:END:
 
 Tasted blind. And this was great. Fresh bouquet of freshly cut grass, buxus leaves, green apple and some petroleum on the background. Very friendly, well balanced with medium acidity. We were surprised in a good way when the bottle was revealed. Great QPR. Ah, and small production - only 2998 bottles.
 
+** Related
+:PROPERTIES:
+:ID:                     b393b3ea-f43f-4e5d-90ad-72becc78a5f0
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Riesling Heiligenstein Lyra - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+    <section class="h text-small text-lighter">Dr. Loosen</section>
+    <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
+    <section class="h text-small text-lighter">Schloss Johannisberger</section>
+    <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+    <section class="h text-small text-lighter">F. X. Pichler</section>
+    <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
+  </a>
+
+</div>
+#+end_export

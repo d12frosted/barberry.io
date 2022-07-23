@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     4440823f-2fb0-4718-9187-e80cc1d6ca45
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ba/c7d8e2-273b-4d07-a747-4e8f437eebc7/2020-07-08-15-10-24-C03D8998-3AA6-4CDA-B1F8-6538AE60A3C4-1-105-c.webp]]
 
@@ -32,12 +35,21 @@ This is without a doubt one of the best orange wines I've put to bottle!
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     e169ab0f-99f9-46e9-8da6-0417afb4e56f
+:END:
 
 *** 2020-07-08 - ☆ 8.50
+:PROPERTIES:
+:ID:                     1412051b-ec95-48f8-97dd-5c76eabdb8c6
+:END:
 
 Apparently, extra time before release is a good idea. I am glad that Momento Mori reached the point where they can afford this. Bianco is cohesive. Honey, wild flowers, kombucha or light beer, chalk. Well balanced, structured, long aftertaste, delicious. I want more!
 
 ** Related
+:PROPERTIES:
+:ID:                     455ce30b-d5f4-4997-89d3-804d581c6fbb
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -74,6 +86,11 @@ Apparently, extra time before release is a good idea. I am glad that Momento Mor
   <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Staring at the Sun - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2018</section>
   </a>
 
 </div>

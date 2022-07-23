@@ -1,5 +1,11 @@
+:PROPERTIES:
+:ID:                     797b538f-4d83-48b5-a2c3-f00e1ed9aeda
+:END:
 
 ** Wines
+:PROPERTIES:
+:ID:                     47641370-9e1d-4446-8da1-32b7cd98e65c
+:END:
 
 #+attr_html: :class wines-table
 |                                                    name | vintage |      grapes |     region | rate |

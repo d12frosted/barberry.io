@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     204b508c-111e-450e-a667-64222f5d0894
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp]]
 
@@ -14,12 +17,21 @@
 They say that the second fermentation was initiated by honey. Apparently, microdoses.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     7ff1f962-34f6-4c20-9237-b595b1675857
+:END:
 
 *** 2022-07-15 - ☆ 7.25
+:PROPERTIES:
+:ID:                     b6dacdfc-fbee-4e6a-8392-dfa9d7985796
+:END:
 
 Unique Clos Lentiscus style. Simple but not easy to understand. White flowers, stone fruits, apricot pit and medicines. Lovely salty aftertaste with almond bitterness. Interesting to taste, but I would not buy it for myself.
 
 ** Related
+:PROPERTIES:
+:ID:                     48495824-8a23-4921-9596-71ff84d03664
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -31,6 +43,56 @@ Unique Clos Lentiscus style. Simple but not easy to understand. White flowers, s
   <a class="flex-item flex-item-right" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <section class="h text-small text-lighter">Jacques Lassaigne</section>
+    <section class="h text-bolder">La Colline Inspirée - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h text-bolder">Bland de Blancs - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">280 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <section class="h text-small text-lighter">Ca Dei Zago</section>
+    <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 
 </div>

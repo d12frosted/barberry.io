@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     9ea24571-cd42-48f0-a668-c914d2a5c1f0
+:END:
 #+begin_quote
 A great wine realizes the taste of an experience not an experience of taste.
 #+end_quote
@@ -5,6 +8,9 @@ A great wine realizes the taste of an experience not an experience of taste.
 Proponent of biotic philosophy, e.g. [[https://en.wikipedia.org/wiki/Biotic_ethics][biotic ethics]].
 
 ** Wines
+:PROPERTIES:
+:ID:                     93598316-2fb9-4590-97fd-1cb1f127b4ab
+:END:
 
 #+attr_html: :class wines-table
 |                                                         name | vintage |      grapes |    region | rate |

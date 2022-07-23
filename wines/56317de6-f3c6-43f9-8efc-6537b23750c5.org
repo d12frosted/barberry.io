@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8d9fa63c-d2e3-471d-8b60-f6da9f1778dc
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp]]
 
@@ -12,19 +15,31 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     12a1f07f-462b-47e8-a7bb-4d654d90f903
+:END:
 
 *** 2021-07-06 - ☆ 9.00
+:PROPERTIES:
+:ID:                     b84c9145-aaa2-4ad9-9dc5-4f406bfe201f
+:END:
 
 Wonderful and unique white Rioja. Oxidative notes, bread with butter, white plum, flowers, grapefruit, smoke and nuts.
 Complex and perfectly balanced wine. It's beautiful.
 
 *** 2022-06-07 - ☆ 9.00
+:PROPERTIES:
+:ID:                     03ed80e5-e379-4b62-8f7a-7ba50bb6b2eb
+:END:
 
 Tasted blind. Since the list of white wines was known to me, the guess is obvious here. Unique and amazing style. Oxidative notes, bread and butter, baked apples, honey, nuts and mushrooms. It even has notes of flowers and grapefruit. Complex and well balanced with right volume and long aftertaste. IMO it lacks evolution, but amazing aftertaste with flavours of mushrooms, apples and honey. Happy to taste it again in almost a year.
 
 Wine #2 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]] in 101 Bar.
 
 ** Related
+:PROPERTIES:
+:ID:                     0c0887ce-d0c1-4ca1-9326-356f1fed6eda
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -41,6 +56,36 @@ Wine #2 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] b
   <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+    <section class="h text-small text-lighter">COZs</section>
+    <section class="h text-bolder">vn-c2 bg - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
+    <section class="h text-small text-lighter">Chandon</section>
+    <section class="h text-bolder">Argentina Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
+    <section class="h text-small text-lighter">Lenkey Pinceszet</section>
+    <section class="h text-bolder">Betsek Korposd Furmint - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
+    <section class="h text-small text-lighter">Simon Bize et Fils</section>
+    <section class="h text-bolder">Bourgogne Les Perrières - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Elios Pinot Noir - 2020</section>
   </a>
 
 </div>

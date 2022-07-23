@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8ceb2325-4fa8-4df3-a0de-d2c8780a2bba
+:END:
 Guillaume d'Angerville, current owner of famous Le Domaine Marquis d'Angerville from Bourgogne, decided to create a new project in Jura after tasting a single bottle - Tissot’s Chardonnay Arbois Les Bruyères 2005.
 
 #+begin_quote
@@ -7,6 +10,9 @@ Guillaume d’Angerville
 #+end_quote
 
 ** Wines
+:PROPERTIES:
+:ID:                     0a27b8a9-b977-49a2-a272-d72bcf308a8f
+:END:
 
 #+attr_html: :class wines-table
 |                                                         name | vintage |   grapes |     region | rate |

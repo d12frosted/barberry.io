@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     6b3b1ca6-9d28-4033-8edc-f2b5dddcd8ab
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c.webp]]
 
@@ -14,6 +17,9 @@
 Average age of the vines: 15 years.
 
 ** Producer
+:PROPERTIES:
+:ID:                     68fc6296-7335-4989-92e0-0d439651bf79
+:END:
 
 Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. Her 25 hectares feature only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young as she planted them, most of them a guyot-trained. But she also added to her holdings 60-years-old albarello-trained vines which she initially rented.
 
@@ -38,40 +44,70 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     35ff7523-85f8-4c30-a284-1e938b110802
+:END:
 
 *** 2020-10-10 - ☆ 7.50
+:PROPERTIES:
+:ID:                     f476d671-6e7a-48f1-a805-1d184c760711
+:END:
 
 SP68 is a road but, it is also a young wine. Elegant brett attack after opening the bottle, it fades away bringing red currant, sour cherry and violets. Juicy and pleasant, with a delicate taste and the freshness of Sicily. Chill it a little bit and enjoy.
 
 *** 2020-11-05 - ☆ 7.50
+:PROPERTIES:
+:ID:                     826bb2a9-7548-4512-8ce1-6ad9bba721e7
+:END:
 
 Well, I like this wine. Yes, you need to give it some time to get rid of sulfur compounds (otherwise smells like toiled on SP68 road). Yes, it is not mainstream. But common, it is a young, juicy and tasty wine! Cherry, white pepper and clove. Good acidity and tannins, light and refreshing. Wonderful and easy-drinking beauty from Vittoria.
 
 *** 2021-01-20 - ☆ 8.00
+:PROPERTIES:
+:ID:                     9cb2c88a-1d5a-4025-a036-69f623be7aa4
+:END:
 
 The only thing I don't like about this wine is price that keeps growing. Juicy, gulpable and tasty. Cherry, white pepper, clove and clay with light brett touch. I love that with time it is settling down and become more elegant and interesting.
 
 *** 2021-02-09 - ☆ 8.00
+:PROPERTIES:
+:ID:                     3896df97-ba8c-4bc8-9687-52232b9a8189
+:END:
 
 I have no other options except for repeating myself. Price is growing, SP68 becomes more elegant and interesting, and my love for this wine stays. Juicy, gulpable and tasty. Cherry, white pepper, clove and clay with light brett touch. Fresh, tannic. I see potential, I want to explore.
 
 *** 2021-04-30 - ☆ 7.50
+:PROPERTIES:
+:ID:                     9d6e7592-51f5-4a79-930f-d09e86718381
+:END:
 
 Not a secret that SP68 Rosso is one of my go-to wines, when I need something light, easy going, gastronomic and fun. Only if it would be cheaper. Brett touch, cherry, clay, white pepper. Juicy and delicious.
 
 *** 2021-11-23 - ☆ 7.50
+:PROPERTIES:
+:ID:                     2b018911-d1b3-449e-a7e2-7cf998211cda
+:END:
 
 6 months passed since my last review and now it is more fruit-forward than before with less brett in it. Cherry, clay and white pepper. Delicate, not complex and simply delicious. Still one of my go-to wines.
 
 *** 2021-12-02 - ☆ 7.75
+:PROPERTIES:
+:ID:                     7896ae0d-e0be-47b4-8832-1fbbd09b5ba2
+:END:
 
 My favourite 'table' wine! Slightly reductive bouquet with notes of cherry, plum, spices, blood and clay. Frappato reduced body, yet SP68 rosso is intense. Sophisticated, fresh and easy going. Mineral aftertaste with flavours of clay, violets and spiced plums.
 
 *** 2022-07-20 - ☆ 7.75
+:PROPERTIES:
+:ID:                     5ac49ede-f403-4945-b08e-01d9503bcee9
+:END:
 
 A wine that we struggled with for the whole evening. Unexpected funkiness for such 'age'. But after decanting and finding the right temperature, it became enjoyable. And no rotten notes and fizziness. Instead, the nose is full of cherry, red apple, pomegranate, raspberry, spices, clay and blood. Medium body, intense and well balanced. Wine with character. In a good sense.
 
 ** Related
+:PROPERTIES:
+:ID:                     5c9e4e28-1f0f-4213-a24e-92bf6afa947f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -138,6 +174,21 @@ A wine that we struggled with for the whole evening. Unexpected funkiness for su
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
 </div>

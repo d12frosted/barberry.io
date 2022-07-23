@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     64f55fc3-0150-4401-9184-307ab85668f2
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp]]
 
@@ -14,18 +17,30 @@
 Barrel fermentation for seven months, along with partial MLF.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1a9a663b-b3c1-4e13-a2bc-33f5bf0c00b0
+:END:
 
 *** 2021-09-25 - ☆ 7.50
+:PROPERTIES:
+:ID:                     b9e76e55-26d5-4929-8bff-919d57eddeb9
+:END:
 
 Compared to previous vintage, 2019 has less oak notes and more citrus
 stuff. Pear, lemon, hazelnut and melon. Great slightly butter-ish
 structure, fresh, with neat lemon finish.
 
 *** 2022-01-25 - ☆ 8.00
+:PROPERTIES:
+:ID:                     e395589f-c0fb-43a4-83fa-8efab1d8ff49
+:END:
 
 One of my favourite Israeli wines. Easy to understand, yet has multiple layers to offer. Good combination of secondary and primary aromas - stone fruits, citrus, vanilla and butter. Oak is here and is well integrated, and less pronounced than in previous vintage. Dry, medium-full bodied, fresh and absurdly flavourful - popcorn, citrus, bakery and butter. Seems like Golan Highest Winery is on the right path.
 
 ** Related
+:PROPERTIES:
+:ID:                     c7abd630-e9d2-4907-ae16-cd3f205b0877
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -42,6 +57,31 @@ One of my favourite Israeli wines. Easy to understand, yet has multiple layers t
   <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Viognier Yarden - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Blanc Reserve - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <section class="h text-small text-lighter">Thymiopoulos</section>
+    <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <section class="h text-small text-lighter">Bodegas Borsao</section>
+    <section class="h text-bolder">Tres Picos - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <section class="h text-small text-lighter">Naveran</section>
+    <section class="h text-bolder">Odisea - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     001a193a-1fcc-4e0b-9b7c-f33d8afc1d3c
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/09/6c97a2-483a-4459-8aed-e60f5b4b9b6d/2021-06-01-07-40-04-3FD8F12B-C3B9-40A9-A0B1-C5F7B55B9AD2-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: 1 bottle
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ae003ca4-d8ce-43c9-a4e9-6c131c11f1ac
+:END:
 
 *** 2021-05-31 - ☆ 9.50
+:PROPERTIES:
+:ID:                     e4e3f450-96a6-4950-a88f-9769e9abdc97
+:END:
 
 Restrained and beautiful bouquet of barberry, wild strawberry, cherry confiture, and some gentle whispers of animal touch. Delicious and beautiful wine, juicy and perfectly balanced despite high acidity. Long aftertaste with flavours of strawberry and underbrush hints. Elegant, young and ready to enjoy. Giving it an extra point for elegance and balance with hope that its potential will make it even better with time.
 
 ** Related
+:PROPERTIES:
+:ID:                     954c4825-2718-4444-8f0a-a1b7a424919f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,26 @@ Restrained and beautiful bouquet of barberry, wild strawberry, cherry confiture,
   <a class="flex-item flex-item-left" href="/wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+    <section class="h text-small text-lighter">Domaine de la Romanée-Conti</section>
+    <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7.html">
+    <section class="h text-small text-lighter">Benoît Lahaye</section>
+    <section class="h text-bolder">Rosé de Macération Champagne Grand Cru 'Bouzy' - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Clos de Vougeot - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+    <section class="h text-small text-lighter">Louis Jadot</section>
+    <section class="h text-bolder">Échezeaux - 2013</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e3cc55eb-9afd-4987-a50b-dce71da2bfc4
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2022-07-16-18-48-40-F45B1701-8B12-455A-BC70-C9A6471BF375-1-105-c.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     79ed33b5-dc7d-49e2-99c2-14b4110c631f
+:END:
 
 Ernesto Cattel is one of the first people that started to restore popularity of Col Fondo, e.g. ancestrale method, which differs from Pet Nat by having second fermentation in the bottle and with no filtration. And to make it even more interesting, his Col Fondo is macerated!
 
 ** Ratings
+:PROPERTIES:
+:ID:                     0b8b339e-e59c-4e64-a49d-4ef0042c961d
+:END:
 
 *** 2022-07-15 - ☆ 7.20
+:PROPERTIES:
+:ID:                     7dfcd65f-1f61-4f84-9f91-c1f72dbc8c43
+:END:
 
 Funny and easy-to-understand bubbles. A light story about citrus, yeast, rubber, and kōcha kinoko. Fresh, with no demands and claims. Just don't ask questions!
 
 ** Related
+:PROPERTIES:
+:ID:                     63eeb158-5d26-4361-a644-99f6e0b3c1f0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -38,6 +53,56 @@ Funny and easy-to-understand bubbles. A light story about citrus, yeast, rubber,
   <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">450 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <section class="h text-small text-lighter">Jacques Lassaigne</section>
+    <section class="h text-bolder">La Colline Inspirée - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h text-bolder">Bland de Blancs - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Gentleman - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <section class="h text-small text-lighter">Ca Dei Zago</section>
+    <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 
 </div>

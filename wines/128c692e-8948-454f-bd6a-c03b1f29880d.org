@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     7e5f2bce-1e98-49eb-b1b6-1fea819faee0
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/12/8c692e-8948-454f-bd6a-c03b1f29880d/2022-06-28-07-01-52-1766C041-8346-4B4B-BFEF-9F62FBF31B52-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     0f6171f4-9b82-4883-87a0-9431e3ebbf9e
+:END:
 
 *** 2022-07-03 - ☆ 7.00
+:PROPERTIES:
+:ID:                     7a7e806e-2e3d-4e48-9347-11bb9ed1508e
+:END:
 
 You would expect a light chilled wine to ease the unbearable heat. But this Hauswein Grüner Veltliner only makes things worse. Restrained bouquet with green apple and field flowers. Oily, overly tropical palate with some interesting salinity. Flavourful, with a long melon-like aftertaste. And maybe some passion fruits. I really admire some aspects of this wine. It is well made. But every good thing drowns in vulgarity. Maybe it's just not my thing.
 
 ** Related
+:PROPERTIES:
+:ID:                     5c553df2-7389-420c-8c6f-438d5b10bea7
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,11 @@ You would expect a light chilled wine to ease the unbearable heat. But this Haus
   <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
+    <section class="h text-small text-lighter">San Leonardo</section>
+    <section class="h text-bolder">Vette - 2019</section>
   </a>
 
 </div>

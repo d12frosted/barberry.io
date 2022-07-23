@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     905462dd-b394-4962-afcf-42f4c2499b39
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     e4b3e86b-2ecd-4042-960a-3fca24aacef6
+:END:
 
 Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Don't believe me? Just take a closer look!
 
@@ -30,12 +36,21 @@ See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
 [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Read more...]]
 
 ** Ratings
+:PROPERTIES:
+:ID:                     92f96954-37a5-4da4-a5de-6a1e510b2c91
+:END:
 
 *** 2021-08-16 - ☆ 8.25
+:PROPERTIES:
+:ID:                     815d1c8b-6a1e-49cb-87c7-2b4abd69ebaa
+:END:
 
 Tasted blind and though about Jura or some natural Australia. Nice subtle flor aromas: Jerez, pine nuts and smoke. In addition it features butter, reductive stuff, dust and yellow apples. Not sure how producer got combination of flor and reductive aromas in one wine, but it's cool. Fresh and interesting evolving taste, long aftertaste.
 
 ** Related
+:PROPERTIES:
+:ID:                     05d14d59-e151-404e-8b8c-23e33195b76e
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -47,6 +62,31 @@ Tasted blind and though about Jura or some natural Australia. Nice subtle flor a
   <a class="flex-item flex-item-right" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
     <section class="h text-small text-lighter">Patrick Sullivan</section>
     <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/100555ef-0137-4e0f-aa66-e49f8d3f355e.html">
+    <section class="h text-small text-lighter">Ten Minutes by Tractor</section>
+    <section class="h text-bolder">McCutcheon Chardonnay - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2e22de49-4153-4f46-bef2-7806cd612810.html">
+    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">La Graviere - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/955b917f-feda-45dd-9ffc-2548a8e4a5d8.html">
+    <section class="h text-small text-lighter">Hubert Lamy</section>
+    <section class="h text-bolder">Saint-Aubin 1er Cru Clos du Meix - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
+    <section class="h text-small text-lighter">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d69e488f-ccb5-400d-a049-79cabc7443b9.html">
+    <section class="h text-small text-lighter">Domaine Bruno Clair</section>
+    <section class="h text-bolder">Marsannay Blanc - 2018</section>
   </a>
 
 </div>

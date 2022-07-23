@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     a4adf3c6-f252-49fc-8fe8-c08e74ef8de0
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     e91cbe44-58e6-4021-8b96-d4158238a22c
+:END:
 
 *** 2022-01-13 - ☆ 7.50
+:PROPERTIES:
+:ID:                     c2173125-8ee4-469f-b282-9760bdc73bfc
+:END:
 
 Tasted blind and didn't guess. Turned out to be white Pinot Noir. Crazy reductive bouquet with salty pickles, rotting mandarin and ginger. High tart acidity that beautifully evolves in the mouth. Interesting finish with notes of lemon, mandarin, pickles and wet sea rocks. Not my style, but somehow I enjoyed it. One of this wines that are complex in a bad way - hard to enjoy without putting too much effort into it. Score is mostly for interesting taste.
 
+** Related
+:PROPERTIES:
+:ID:                     fe0de964-778f-4f8b-a7a4-66e6e8968a1b
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <section class="h text-small text-lighter">Kelley Fox Wines</section>
+    <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+    <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
+    <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <section class="h text-small text-lighter">Roses De Jeanne</section>
+    <section class="h text-bolder">Presle Millesime BdN - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+    <section class="h text-small text-lighter">Enderle&Moll</section>
+    <section class="h text-bolder">Buntsandstein - 2018</section>
+  </a>
+
+</div>
+#+end_export

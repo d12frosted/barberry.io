@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     4f30b493-9ae8-4d29-8ea9-38cb4ab43491
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     76ef901e-eef7-434b-a9d0-0d33ef99a1bc
+:END:
 
 Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. Her 25 hectares feature only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young as she planted them, most of them a guyot-trained. But she also added to her holdings 60-years-old albarello-trained vines which she initially rented.
 
@@ -36,16 +42,28 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     587ccf38-2282-4b04-9da0-904a8b883dab
+:END:
 
 *** 2020-10-23 - ☆ 8.50
+:PROPERTIES:
+:ID:                     00a4c180-6e88-4dca-92ab-dce2f6fe0964
+:END:
 
 The only bianco from Occhipinti. Blend of Zibibbo and Albanello. Macerated on skins for 15 days! And after few months it calmed down, stress went away and SP68 Bianco became so good! Chamomile, citrus, honey and dried flowers. Refreshing, perfectly balanced, long aftertaste. Would definitely drink moar!
 
 *** 2021-01-15 - ☆ 8.00
+:PROPERTIES:
+:ID:                     7c2c32a1-4e2f-4cf5-9fdc-1b3a9ce3075f
+:END:
 
 It's not a secret that I love this wine. I even enjoy it without decanting as aroma evolution makes me happy. Yes, it starts with the scent of toilet on SP68 road, but manure transforms into spring flowers, white fruits and lemon. This is a great basic white (and the only Occhipinti white) with shirt maceration. Fresh, citrus flavours, buttery palate and evolving finish.
 
 ** Related
+:PROPERTIES:
+:ID:                     b8873bf2-6687-484e-99ff-091e0f1f62b6
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -112,6 +130,26 @@ It's not a secret that I love this wine. I even enjoy it without decanting as ar
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">Móz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
+    <section class="h text-small text-lighter">Foradori</section>
+    <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/445a94bf-3819-4648-aded-091cbabaa8e9.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">330 slm - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     7417d153-d67f-454a-a0d3-37513812e44c
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/a7/f486a8-2d5f-4cb1-acc9-edbc5a17c505/2020-10-13-09-43-19-B730B12F-F30B-4B78-A148-26DA54BCF0A6-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     50136935-3ff9-41b7-b3d7-916b2337590f
+:END:
 
 *** 2020-10-12 - ☆ 5.50
+:PROPERTIES:
+:ID:                     c041de85-0a3e-417e-a0ff-72ab44d58770
+:END:
 
 Some might think that 8 years old wine should be more calm comparing to 2 years old natural wine. This wine is different, more crazy in the aroma, but more dull in a taste. I don't believe that it's only 12 abv, feels much higher. Lots of VA both in aroma and in the taste. Crazy.
 
 ** Related
+:PROPERTIES:
+:ID:                     f749318e-de35-4674-9e58-caabf239494c
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,16 @@ Some might think that 8 years old wine should be more calm comparing to 2 years 
   <a class="flex-item flex-item-right" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Kakhuri Mtsvivani - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
 </div>

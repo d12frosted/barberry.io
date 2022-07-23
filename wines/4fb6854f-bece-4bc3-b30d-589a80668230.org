@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     d6f62586-f0d1-42c1-8662-411aef91019d
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4f/b6854f-bece-4bc3-b30d-589a80668230/2021-08-27-15-49-37-17F46471-F312-4C02-B603-10A9ADE62975-1-105-c.webp]]
 
@@ -20,6 +23,9 @@ Historiquement classé Têtes de Cuvée de Volnay, le Champans est l’archétyp
 #+end_quote
 
 ** Producer
+:PROPERTIES:
+:ID:                     f9186a77-3239-4cfd-9f2e-8563f1130a2d
+:END:
 
 Domaine with old history dating back to 1507, owning vineyards in Volnay AOC, Meursault AOC and Pommard AOC with focus on Volnay.
 
@@ -28,8 +34,53 @@ Current owner, Guillaume d'Angerville, has a project in Jura - [[barberry:/produ
 [[barberry:/producers/48efd2e7-0def-4827-a30f-3f9c37944258][Read more...]]
 
 ** Ratings
+:PROPERTIES:
+:ID:                     a050844e-5008-4f93-a4c0-8203409849e9
+:END:
 
 *** 2021-08-26 - ☆ 9.00
+:PROPERTIES:
+:ID:                     e2fe3fc9-127e-4363-a07b-024312e161a5
+:END:
 
 Elegant and wonderful bouquet, already showing maturity, but still has energy. Ripe cherry, wild strawberry, red flowers, mushrooms, raw meat. During the evening it opens up a little bit more gaining animal notes. Well balanced, silky with flavours of cherry, wild strawberry and forest floor. Long finish with nice touch of medicinal herbs. Definitely beautiful and sophisticated wine.
 
+** Related
+:PROPERTIES:
+:ID:                     851b5e61-819d-4d07-9ef1-6c1f810c6118
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
+    <section class="h text-small text-lighter">Domaine Guyon</section>
+    <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">
+    <section class="h text-small text-lighter">Domaine Chantal Lescure</section>
+    <section class="h text-bolder">Vosne-Romanee 1er cru Les Suchots - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">
+    <section class="h text-small text-lighter">Bernard Dugat-Py</section>
+    <section class="h text-bolder">Gevrey-Chambertin 1er cru Champeaux - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
+    <section class="h text-small text-lighter">Domaine Trapet Pere et Fils</section>
+    <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">
+    <section class="h text-small text-lighter">Domaine George Noëllat</section>
+    <section class="h text-bolder">1er cru Les Boudots - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">
+    <section class="h text-small text-lighter">The Hilt</section>
+    <section class="h text-bolder">Estate Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

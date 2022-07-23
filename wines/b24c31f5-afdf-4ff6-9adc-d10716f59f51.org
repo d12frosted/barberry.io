@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     f9733d0d-7648-4053-ae89-752e145c2156
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b2/4c31f5-afdf-4ff6-9adc-d10716f59f51/2022-06-05-11-22-28-BD775932-C848-4DF5-A02D-8D40DDE17320-1-105-c.webp]]
 
@@ -14,8 +17,28 @@
 Purchase was made solely because of the grape. I have never tasted anything from Refosco dal Peduncolo Rosso.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6d580d86-c075-49f5-bfb2-72a7c6694b50
+:END:
 
 *** 2022-06-29 - ☆ 7.50
+:PROPERTIES:
+:ID:                     220d8852-bedf-4b9c-aae1-d0386b312f10
+:END:
 
 A friendly mixture of red berries, dark berries, medicinal herbs, balsamic and oak. Approachable and velvety palate, well balanced (when chilled slightly), flavourful, juicy, lively, and elegant. Happy about my first Refosco dal Peduncolo Rosso.
 
+** Related
+:PROPERTIES:
+:ID:                     ff27924b-9382-4fb1-866e-57c30055c1da
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e.html">
+    <section class="h text-small text-lighter">Crystallum</section>
+    <section class="h text-bolder">Peter Max Pinot Noir - 2018</section>
+  </a>
+
+</div>
+#+end_export

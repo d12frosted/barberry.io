@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     42d3940a-8ab6-4ec1-8e82-8ab8ff64c650
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp]]
 
@@ -12,8 +15,38 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     4a102c2a-d2f8-4f93-8a65-b94db75ce2a2
+:END:
 
 *** 2022-07-18 - ☆ 8.25
+:PROPERTIES:
+:ID:                     51ed5f62-4498-42d7-bafb-06076b9454a1
+:END:
 
 Tasted on the go, so little time to properly asset it. I like this style - light and sophisticated. Red berries, dried medicinal herbs, white pepper, raw meat, blood, and a tiny bit of VA. Elegant and delicious. Good tannin. Would love to taste it again.
 
+** Related
+:PROPERTIES:
+:ID:                     31724079-c39f-430a-9145-a37fec736e64
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">
+    <section class="h text-small text-lighter">Bel Colle</section>
+    <section class="h text-bolder">Verduno Pelaverga - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">
+    <section class="h text-small text-lighter">Quinta de Chocapalha</section>
+    <section class="h text-bolder">Branco - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+    <section class="h text-small text-lighter">Loimer</section>
+    <section class="h text-bolder">Gluegglich Glückliches - NV</section>
+  </a>
+
+</div>
+#+end_export

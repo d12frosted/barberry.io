@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     5a342fa3-88bc-4b84-bae8-0e7c885e859e
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp]]
 
@@ -12,22 +15,37 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     355bebb5-b1e9-4143-a50e-9d34f9214d22
+:END:
 
 It is said that Mr. Raúl de la Mota had a dream of making high quality wine from Malbec grapes in Mendoza. In 1970 Malbec was only on its way to becoming a star in these lands, yet Mr. Raúl de la Mota meets and shares his dream with a Brazilian transportation businessman, Mr. Bernardo C. Weinert. The story is stingy, so I don't know all the reasons for Mr. Bernardo C. Weinert to agree. But it is known that he fell in love with a 80 years old building in Carrodilla, Luján de Cuyo. So in 1975 they started to reconstruct the building and the winery itself. The first harvest was in 1977 and first release was in 1979.
 
 But what makes this winery interesting for us, plebeians? First of all, it is located in Luján de Cuyo, a high altitude region in Mendoza, located in the foothills of Andeas mountains between 800 m and 1500 m elevation. This terroir enables complex and well structured wines. Secondly, Weinert ages wines in the bottle before releasing them. And it's easy to get bottles that are 10+ years old. Thirdly, the price tag is good. This combination deserves to be enjoyed.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     34071990-cad6-40aa-a25e-7b52b1467507
+:END:
 
 *** 2020-11-24 - ☆ 8.50
+:PROPERTIES:
+:ID:                     c156f5b4-a9c5-4998-875d-0d27b58c93a6
+:END:
 
 Alright, this was unexpected. Complex and (if I may) elegant. I would not guess New World wine here. Lots of blackberry, medicinal herbs, earth, smoke and meat. Powerful but rounding tannins. I didn't guess it's age, I thought that it's much younger, but this wine is already 11 years old. Has lots of potential. Great value.
 
 *** 2022-07-13 - ☆ 8.50
+:PROPERTIES:
+:ID:                     7533fd09-3200-47b8-bb66-40cb143d7b5c
+:END:
 
 Since I have tasted this wine on multiple occasions, I knew what to expect. So I found pleasure in letting other people discover this wine for the first time. Incredible value. A mature blend of Cabernet Sauvignon, Malbec and Merlot in an old-world style. Lots of ripe dark fruits, mint, medicinal herbs, liquorice root, smoke, earth, sweet tobacco, oak and meat. Ripe tannin, good acidity, and almost perfect balance. Long and flavourful finish.
 
 ** Related
+:PROPERTIES:
+:ID:                     5d593904-a8b4-4d73-9d79-495e2000683b
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -49,6 +67,26 @@ Since I have tasted this wine on multiple occasions, I knew what to expect. So I
   <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/476f7a06-fd20-4887-a5fa-1d77f41309ce.html">
+    <section class="h text-small text-lighter">Lacrima Baccus</section>
+    <section class="h text-bolder">Brut Reserva - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Al Dente - 2018</section>
   </a>
 
 </div>

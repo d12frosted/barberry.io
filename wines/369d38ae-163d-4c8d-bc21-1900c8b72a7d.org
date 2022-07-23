@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ac09ee03-bef8-4709-a35f-da8cbb6f450f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/36/9d38ae-163d-4c8d-bc21-1900c8b72a7d/2020-09-20-12-47-07-BD1F367A-87EA-43DE-9C3A-75B1D04AD231-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     7213fc66-896f-471e-a183-2dcca6ccb018
+:END:
 
 *** 2020-09-18 - ☆ 5.50
+:PROPERTIES:
+:ID:                     d5a50681-970a-408d-9dd2-23aaf7ac28aa
+:END:
 
 Multiple wines under the same label. In order to avoid confusion, checkout the back label. But this leads to invalid scans on Vivino. Anyways, Go Together Red is ambitious yet simple and reductive wine by Patrice Beguet. Yeasts, red fruits. Plain in the taste. Easy to forget. Bad QPR.
 
 ** Related
+:PROPERTIES:
+:ID:                     dc39853d-2259-452a-b39f-ae492327a244
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,16 @@ Multiple wines under the same label. In order to avoid confusion, checkout the b
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Weiss - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b7273268-eb5a-4131-a135-e1cfd610752f.html">
+    <section class="h text-small text-lighter">Weingut Edgar Brutler</section>
+    <section class="h text-bolder">Saito - 2018</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e74aed2e-7e90-4eb2-bd53-2155e76fe74b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/3f/379a50-e386-49c9-a754-66b068648c81/2022-06-09-22-03-13-IMG-0389.webp]]
 
@@ -14,16 +17,28 @@
 We had a bottle of previous vintage, but I was too slow and didn't taste it. Hopefully 2020 will wait for me.
 
 ** Producer
+:PROPERTIES:
+:ID:                     283cee1f-8a21-4c3e-ac31-560cbf17fb88
+:END:
 
 Famous producer from Argentina. They say that Catena family has resurrected Malbec.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3b42ac2f-e3f0-4fb4-894f-8c794bc9c6db
+:END:
 
 *** 2022-07-19 - ☆ 7.75
+:PROPERTIES:
+:ID:                     a60693d8-d8bf-415a-92a5-d18e2f970e07
+:END:
 
 I am ashamed to say it, but Tupungato Chardonnay is a typical wine by Catena Zapata. Well-made, fresh, and quite sophisticated despite the odds of origin. Everything is in its place. Even the popcorn aroma does not haunt me at night. Add some spices, grass, smoke, sunflower seeds, oil, butter, and tropical notes, good balance and acidity. This is what I have in my glass, as oily as this evening. Nice.
 
 ** Related
+:PROPERTIES:
+:ID:                     5a5f4749-b06c-4171-a685-b46644e86b24
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -40,6 +55,11 @@ I am ashamed to say it, but Tupungato Chardonnay is a typical wine by Catena Zap
   <a class="flex-item flex-item-left" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a29c13d9-1345-44a6-b7ea-36630afd1b14.html">
+    <section class="h text-small text-lighter">Hoya de Cadenas</section>
+    <section class="h text-bolder">Cava Brut Nature - NV</section>
   </a>
 
 </div>

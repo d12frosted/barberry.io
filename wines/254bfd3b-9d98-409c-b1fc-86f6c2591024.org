@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c4b3c77b-9fce-4a49-96bd-d55a6b902deb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/25/4bfd3b-9d98-409c-b1fc-86f6c2591024/2022-07-23-09-27-13-91F016CB-BB07-49DC-8222-3E6CEF1766C0-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bce018e6-0af1-48c8-b8aa-fcdc5a88151e
+:END:
 
 *** 2022-07-22 - ☆ 7.50
+:PROPERTIES:
+:ID:                     4f61318f-23ab-4943-9015-baf4f457b49f
+:END:
 
 The combination of funkiness and tropical character on such high levels is not my thing. It is great for parties when you need something bright in the background, not to distract you from conversations, but still perceptible without a single effort. So the award of the rotten tropical bomb goes to this macerated Gewürztraminer. Ten-days old mango, spoiling pineapple, passion fruit that has lost all its passion, orange peel with a host of fluffy mildew, ginger and (god bless) honey! I know it sounds awful, but this wine is good and aligned in style with other wines by Pierre Frick. Intense and rich. Good acidity with some nice bitterness in the aftertaste. Yup, it is vulgar, but hey, you need an alternative for overoaked bold wines for a modern audience.
 
@@ -21,6 +30,9 @@ The combination of funkiness and tropical character on such high levels is not m
 [[file:/images/25/4bfd3b-9d98-409c-b1fc-86f6c2591024/2022-07-23-10-01-01-8B3B4BCB-0184-4BA8-9A3F-1A75220F6D5B-1-105-c.webp]]
 
 ** Related
+:PROPERTIES:
+:ID:                     d799ecb6-5e85-45b1-82d4-d6f5dfc61879
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -42,6 +54,11 @@ The combination of funkiness and tropical character on such high levels is not m
   <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Stay Brave - 2021</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     f5d75982-f325-4a5f-a3b7-98ad4df30cc9
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/da/0ee939-d923-44f2-9aac-6c0dfa831964/2022-01-13-09-38-59-ED486F76-0CE5-42A7-BC12-15198E1C98B9-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     0aef14ef-60a0-47c3-bcd3-7cd931202535
+:END:
 
 *** 2022-01-12 - ☆ 8.50
+:PROPERTIES:
+:ID:                     abee2f5a-cb39-4b03-af6d-b657a7f2a39a
+:END:
 
 Clear medium ruby colour. Youthful classical yet restrained bouquet with beautiful notes of cherry, wild strawberry, forest floor, peonies, dust and hints of figs. Crisp, medium body, medium-high tannin. Well balanced, flavourful with very long aftertaste. Delicate and juicy, very young and charged for the years to come.
 
 ** Related
+:PROPERTIES:
+:ID:                     35c56648-3b40-4eac-9112-e6fd9609efaa
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,11 @@ Clear medium ruby colour. Youthful classical yet restrained bouquet with beautif
   <a class="flex-item flex-item-left" href="/wines/99480dba-cc0d-403e-9f93-a7b7331332ff.html">
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Vieilles Vignes - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/39b35863-a201-4f56-adce-1db43d9f327d.html">
+    <section class="h text-small text-lighter">Raúl Pérez</section>
+    <section class="h text-bolder">Ultreia La Claudina - 2018</section>
   </a>
 
 </div>

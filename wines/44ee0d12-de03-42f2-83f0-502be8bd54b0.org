@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     a1317988-c6f5-4176-b5a3-c6fa8dd8c9ee
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/44/ee0d12-de03-42f2-83f0-502be8bd54b0/2022-06-21-14-32-56-92927A43-D648-451D-B84F-CB4DE7ED60EF-1-102-o.webp]]
 
@@ -14,6 +17,9 @@
 Three-week whole-cluster maceration with no extraction. Racked and pressed into 2500L foundres for ageing.
 
 ** Producer
+:PROPERTIES:
+:ID:                     c2faa5e3-f5cb-485a-b1b6-6d9fe73c37d2
+:END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
 
@@ -28,18 +34,30 @@ The birth of their first child made Tom reconsider moving back to South Africa, 
 Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     00c33f94-e109-4fd6-aaaa-a03daad30eac
+:END:
 
 *** 2020-07-30 - ☆ 8.00
+:PROPERTIES:
+:ID:                     100faa2d-ae26-452a-9552-0e7cb4efa5e0
+:END:
 
 People keep warning me about Matassa, but again, it is not crazy! Yeah, some elegant soaked apples, field flowers, honey and kombucha. And it's good! Thanks to skin contact, a little bit tarty. Well integrated acidity and medium finish. Tasty!
 
 *** 2022-07-05 - ☆ 8.50
+:PROPERTIES:
+:ID:                     e8aaa65e-50d2-4d07-b6c0-e2fad1b5d7a3
+:END:
 
 Exactly what you would expect from Matassa and Muscat of Alexandria. Aromatic, complex, multilayered yet approachable and bright macerated wine. With a well-integrated tannin, balance is almost perfect. Still has good acidity, so there are many years to live on. The bouquet and flavours are full of field flowers, canned pineapple, baked apple, white fruits and spices.
 
 Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
+:PROPERTIES:
+:ID:                     324e7a1c-263d-46d4-bf20-871ef98cd0c4
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -86,6 +104,36 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   <a class="flex-item flex-item-left" href="/wines/beb5669b-5c8c-4c11-ac52-37d225a86bc3.html">
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Ace of Spades - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
+    <section class="h text-small text-lighter">Éric Chevalier</section>
+    <section class="h text-bolder">Cirrus - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">
+    <section class="h text-small text-lighter">Domaine du Pélican</section>
+    <section class="h text-bolder">Savagnin Ouillé - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+    <section class="h text-small text-lighter">Villa Calicantus</section>
+    <section class="h text-bolder">Sollazzo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Rain Field Blend - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/baf18c42-2e67-4108-967a-d540bc105779.html">
+    <section class="h text-small text-lighter">Cascina Bertolotto</section>
+    <section class="h text-bolder">Spumante Brut Metodo Classico - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
+    <section class="h text-small text-lighter">Pheasant's Tears</section>
+    <section class="h text-bolder">Poliphonia - 2019</section>
   </a>
 
 </div>

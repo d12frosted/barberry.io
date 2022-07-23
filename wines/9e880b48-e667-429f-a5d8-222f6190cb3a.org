@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     869d90a0-f914-4590-b631-a85aa763940e
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/9e/880b48-e667-429f-a5d8-222f6190cb3a/2022-06-08-08-58-22-90EF53B4-6E02-4143-8E8F-FC5BB22AC7FA-1-105-c.webp]]
 
@@ -12,10 +15,55 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     cd0b0b09-f71f-4424-8b4a-5af6622acd35
+:END:
 
 *** 2022-06-07 - ☆ 8.00
+:PROPERTIES:
+:ID:                     4950b748-7722-4f47-8fce-0d9d4d6a48d5
+:END:
 
 Tasted blind. Guessed Pinot Noir and Bourgogne. Had a very tough fight in my head regarding this one. Restrained old school style yet very young. Cherry and earth notes. Hard on tannin, good acidity. Overall elegant, stylish and sophisticated.
 
 Wine #3 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]] in 101 Bar.
 
+** Related
+:PROPERTIES:
+:ID:                     ac45dd61-a11b-44c8-a671-105e90a76550
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+    <section class="h text-small text-lighter">COZs</section>
+    <section class="h text-bolder">vn-c2 bg - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
+    <section class="h text-small text-lighter">Chandon</section>
+    <section class="h text-bolder">Argentina Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
+    <section class="h text-small text-lighter">Lenkey Pinceszet</section>
+    <section class="h text-bolder">Betsek Korposd Furmint - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+</div>
+#+end_export

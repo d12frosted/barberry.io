@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8b5416fc-9747-4d56-ad17-82a7366351b0
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp]]
 
@@ -14,26 +17,76 @@
 Acacia barrels!
 
 ** Producer
+:PROPERTIES:
+:ID:                     cab08999-9ca8-483a-9054-b3322011f3ac
+:END:
 
 Janko Štekar owns 5 ha of vineyards in Goriška Brda that are located on steep slopes, at an altitude of 180 m, with s and sw exposure.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     af016579-5281-4b29-86e9-762d0029e211
+:END:
 
 *** 2021-05-25 - ☆ 8.00
+:PROPERTIES:
+:ID:                     833e939f-f03a-493c-8d28-8ca94bd0a29f
+:END:
 
 Skin Party #6. Knocking out orange, powerful and aromatic, has many similarities with Ageno 2015 (with one major distinction, Rebula Prilo is still freely available). Dried apricots, buckwheat honey, nuts, caramel, dried flowers. Rich and opulent, tannic, full bodied and multilayered. The only thing that bothered me is huge amount of VA (so had to decrease my rating a little bit).
 
 *** 2022-01-11 - ☆ 8.00
+:PROPERTIES:
+:ID:                     4442c72e-33ed-4e9f-8510-df5a418ef44a
+:END:
 
 Great skin contact wine from Goriška Brda. Clean medium amber colour, powerful bouquet showing some age: oranges, dried medicinal herbs, apples and honey. Body dry, full-bodied, tart with powerful and drying tannin. Good balance, long aftertaste, flavours of acetone, honey, quince and medicinal herbs.
 
 ** Related
+:PROPERTIES:
+:ID:                     c96f6c46-2b0e-4b51-9e8e-0eed75d077d1
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d.html">
     <section class="h text-small text-lighter">Kmetija Štekar</section>
     <section class="h text-bolder">Jankot - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+    <section class="h text-small text-lighter">Cantina Alchemica</section>
+    <section class="h text-bolder">Lanthano Bianco - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
+    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h text-bolder">Rot-Murlé Riesling Pur Vin Macération - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+    <section class="h text-small text-lighter">Radikon</section>
+    <section class="h text-bolder">Ribolla - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <section class="h text-small text-lighter">Gravner</section>
+    <section class="h text-bolder">Ribolla Anfora - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Mtsvane - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     62861f0c-3c5c-4553-ab61-97e5aa6f553f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     b89d1d3c-dd39-4f6f-af09-16a16e303009
+:END:
 
 *** 2022-07-03 - ☆ 7.50
+:PROPERTIES:
+:ID:                     325c8e2c-8c25-4c06-91cb-8d11436ac03a
+:END:
 
 Restrained but not without perversion. Black currant leaves, gooseberry, grass, and gunpowder (used as intended). Almost a God's blessing thanks to its high acidity and minerality (yikes, forbidden word!). Vette is that fancy tourist in tropical slums, wearing a three-piece suit and bowler hat. You can imagine, you can tolerate, yet you have questions.
 
 ** Related
+:PROPERTIES:
+:ID:                     92ba5a8c-0263-4f12-94be-6ea06e26efa0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,11 @@ Restrained but not without perversion. Black currant leaves, gooseberry, grass, 
   <a class="flex-item flex-item-right" href="/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">Terre di San Leonardo - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Hauswein Grüner Veltliner - 2021</section>
   </a>
 
 </div>

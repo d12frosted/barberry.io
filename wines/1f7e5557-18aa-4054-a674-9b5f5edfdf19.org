@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     2abe58c9-6611-4ff5-b762-5dd034befd9d
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp]]
 
@@ -12,14 +15,23 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     60fe34a5-3ecd-40d0-ab44-8a820587891f
+:END:
 
 *** 2021-08-10 - ☆ 7.25
+:PROPERTIES:
+:ID:                     32f71399-e325-4b56-9edf-43a8654685d5
+:END:
 
 Definitely I like 2019 more than 2018. But unfortunately, Go Together is closed and indistinct in a bad way. Blueberry jam, red fruits and very elegant (and really pleasant) hints of VA. Since it's tasty, refreshing and so easy going, I would take it on a picnic, but keep the price in mind.
 
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
+:PROPERTIES:
+:ID:                     79a64aca-1001-4ade-acd8-05068d3e5770
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -56,6 +68,11 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     cc527bdc-259e-442e-ad8f-69fbb798396f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2022-07-16-18-29-34-FB85BCF7-9725-4DF9-B703-1BFB4F7B8213-1-105-c.webp]]
 
@@ -12,8 +15,73 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8554ab69-90ec-4059-91a2-e7905766d452
+:END:
 
 *** 2022-07-15 - ☆ 8.00
+:PROPERTIES:
+:ID:                     e1866948-a30b-415e-924b-9363ec92ce28
+:END:
 
 This is the case when I am not sure if the wine is too complex or just flabby. Buttered croissant with vanilla, chalk, apples, oxidative notes, and pickles. The acidity is as sharp as a well-cared knife (e.g. not mine). Which is nice, but it lacks volume. The flavour is full of pickled lemons. Good, but there are definitely better things in this price range.
 
+** Related
+:PROPERTIES:
+:ID:                     7b014461-703b-4d45-84f9-60980ec86297
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h text-bolder">Bland de Blancs - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Gentleman - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">280 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <section class="h text-small text-lighter">Ca Dei Zago</section>
+    <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
+  </a>
+
+</div>
+#+end_export

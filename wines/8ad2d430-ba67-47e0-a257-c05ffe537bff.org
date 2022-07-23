@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     d476cac7-7749-4fad-b8a0-0c22af44a264
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/8a/d2d430-ba67-47e0-a257-c05ffe537bff/2021-01-24-12-38-11-49D4C33F-85BC-48E9-99F7-558711E3AA97-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     cf7a94fe-07b6-426f-ac87-d7f3442a768e
+:END:
 
 Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
 
@@ -20,8 +26,14 @@ In the 2015 they bough Bandits Kloof farm in the northern mountains of Swartland
 As they say, 'made from grapes'. And nothing more (except for a tiny bit of sulphites).
 
 ** Ratings
+:PROPERTIES:
+:ID:                     fe521ba0-3bcd-4767-a1c6-47c613e23372
+:END:
 
 *** 2021-01-21 - ☆ 6.50
+:PROPERTIES:
+:ID:                     98f931cf-e6d3-479b-ae97-b2bda72d571c
+:END:
 
 3.2 Trying again in several months and it become more stable and open.
 Very short skin contact Chenin Blanc (I barely noticed it). Not funky,
@@ -29,6 +41,9 @@ clean style. Pear, citrus and flowers. Some hints of flint stone.
 Overall, it's a little bit dull.
 
 *** 2021-03-24 - ☆ 7.25
+:PROPERTIES:
+:ID:                     a000b3ae-75ed-444a-b4b8-a5af816040b0
+:END:
 
 Tasting again in few months and I like it even more. Light amber
 colour, nose full of leaves, grass, baked apples with honey, some
@@ -36,6 +51,9 @@ flint notes. Good acidity, tannins are there, well balanced, a little
 bit fizzy. Flavours of apples and citrus. Enjoyable.
 
 ** Related
+:PROPERTIES:
+:ID:                     4515b6b0-d80a-4aac-a4e2-102bcb8407b7
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -72,6 +90,11 @@ bit fizzy. Flavours of apples and citrus. Enjoyable.
   <a class="flex-item flex-item-left" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito Skin - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
 </div>

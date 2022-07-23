@@ -257,6 +257,7 @@ h3 {
 
 .h {
   font-family: var(--header-font);
+  margin-block-start: 0.6rem;
   margin-block-end: 0.6rem;
 }
 
@@ -556,7 +557,7 @@ ul.rating-list {
   border: var(--subtle);
   border-width: 1px;
   /* border-style: solid; */
-  margin-block-end: 0.6rem;
+  /* margin-block-end: 0.6rem; */
 }
 
 .flex-item:hover {
@@ -564,11 +565,11 @@ ul.rating-list {
 }
 
 .flex-item-left {
-  margin-inline-end: 0.3rem;
+  /* margin-inline-end: 0.3rem; */
 }
 
 .flex-item-right {
-  margin-inline-start: 0.3rem;
+  /* margin-inline-start: 0.3rem; */
 }
 
 @media (max-width: 319px) {

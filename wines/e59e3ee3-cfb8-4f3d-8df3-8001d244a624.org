@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     3d4e0bea-3f6e-4dae-b621-3e2b6e697289
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e5/9e3ee3-cfb8-4f3d-8df3-8001d244a624/2021-08-11-08-35-32-0DFD44BE-D6D0-4353-8187-56ECFDF1ABF5-1-105-c.webp]]
 
@@ -12,14 +15,23 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1ee7ac06-447b-4559-b273-004393c20685
+:END:
 
 *** 2021-08-10 - ☆ 7.75
+:PROPERTIES:
+:ID:                     fe95ab65-a281-4687-b41d-38da19ebbccb
+:END:
 
 This one is interesting. Maybe it worth buying a bottle and storing it for a year or so to fully open its potential. Bouquet is seemingly simple and straight-forward, but it actually has complexity to offer: rose petals, honey, white plum and pleasant hints of VA. Fresh, easy going wine with flavours of pear candy and medicinal herbs.
 
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
+:PROPERTIES:
+:ID:                     9dca836e-d937-4013-afe0-7a3a453a72d3
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -56,6 +68,11 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   <a class="flex-item flex-item-left" href="/wines/805e6758-4d6a-4c21-9ab4-4045e6ea446c.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Fresh Impression White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
 </div>

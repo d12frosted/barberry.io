@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     b2b94bc1-455c-4896-9746-569ad36aaae9
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e6/767402-5d1a-42b1-a3d9-fd6bddc1e11a/2020-10-13-09-45-38-31C366EB-C9F5-45DD-850A-D7CFD6F98D7A-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     abd0e739-27dc-4a79-9508-c2affa3ab33f
+:END:
 
 *** 2020-10-12 - ☆ 6.00
+:PROPERTIES:
+:ID:                     0ce2d01b-d1cf-4cb1-8e41-b80b131c6921
+:END:
 
 I was sitting there, all alone with a glass asking myself, where did I hear this aroma? But then I realised, rich vegetable soup where 50% of content are various spices. The taste is different though, completely rotten apricots. Well, Pheasant's Tears is a crazy producer after all.
 
 ** Related
+:PROPERTIES:
+:ID:                     6cc80501-2ece-40b5-879f-a56ef057c6df
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,16 @@ I was sitting there, all alone with a glass asking myself, where did I hear this
   <a class="flex-item flex-item-right" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Poliphonia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
 </div>

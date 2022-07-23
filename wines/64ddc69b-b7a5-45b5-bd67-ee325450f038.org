@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     1fe1407f-f509-4c88-9220-df3f466a46fe
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463.webp]]
 
@@ -12,26 +15,46 @@
 - Cellar :: 1 bottle
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8d63a353-b75e-40c0-bc6b-fae2a4b7a7cd
+:END:
 
 *** 2020-01-21 - ☆ 9.00
+:PROPERTIES:
+:ID:                     f4e19d01-814f-4f41-acda-b5e3874c0419
+:END:
 
 /No notes, just a rating/
 
 *** 2020-10-04 - ☆ 8.50
+:PROPERTIES:
+:ID:                     0691b0b4-daf6-43a9-81ea-5d6492b5ecea
+:END:
 
 Beautiful and rich Madeira. Perfectly balanced.
 
 *** 2022-01-01 - ☆ 8.50
+:PROPERTIES:
+:ID:                     f3bf635c-6a64-4610-8502-d21036262b9b
+:END:
 
 Wonderful Madeira that easily makes you fall in love with this style. Deep dark amber colour. Intense bouquet with classical notes: raisins, date fruit, maple syrup and spices. Friendly with nice freshness and good balance, very long and flavourful aftertaste - date fruit, walnut and maple syrup.
 
 ** Related
+:PROPERTIES:
+:ID:                     5c2e0832-2266-45e5-bf7e-1842d6a41690
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/54468301-969e-41f6-a3f1-404cc7608364.html">
     <section class="h text-small text-lighter">Henriques & Henriques</section>
     <section class="h text-bolder">Malvasia 15y - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">
+    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     86a61898-f48e-419b-adc3-561eabc68c0e
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp]]
 
@@ -14,6 +17,9 @@
 Intriguing name - golden weeding. Count Giuseppe Tasca d’Almerita is a true wine maker as in 1984 he decided to celebrate 50 year anniversary with his wife Franca by making a wine to tell a story of estate and family. Regaleali Estate is located in Palermo, and both Inzolia and Sauvignon Blanc are cultivated by this family since WW1.
 
 ** Producer
+:PROPERTIES:
+:ID:                     e32c2338-ba84-410d-978c-30019db81ebc
+:END:
 
 Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
 
@@ -27,18 +33,32 @@ Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 d
 [[file:/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1eb80a98-e52c-4ba0-812f-a4a580ca0850
+:END:
 
 *** 2022-06-06 - ☆ 7.75
+:PROPERTIES:
+:ID:                     d7fd4097-f332-4d84-b66d-e096727edd08
+:END:
 
 Interesting blend of Inzolia with Sauvignon Blanc, a pair of grapes for a wine called 'golden wedding' dedicated to 50 year anniversary of Count Giuseppe Tasca d’Almerita with his wife Franca. Slightly tropical bouquet mixed with citrus, pebbles and honeycomb. Fresh, good volume, long evolving aftertaste with nice slightly bitter finish. Flavours evolve from stone fruits with pineapple and lemon juice to honey and then end up with some hazelnut notes. Sounds more exciting than in reality, but it's good.
 
 ** Related
+:PROPERTIES:
+:ID:                     c747b7fb-259f-4383-8d20-a26918372382
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
     <section class="h text-small text-lighter">Tasca</section>
     <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">
+    <section class="h text-small text-lighter">Raoul Clerget</section>
+    <section class="h text-bolder">Crémant de Bourgogne Brut - NV</section>
   </a>
 
 </div>

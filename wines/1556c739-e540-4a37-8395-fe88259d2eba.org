@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c16891f0-c128-43b0-b6bb-863197be7aa3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c.webp]]
 
@@ -12,8 +15,48 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     9aa0bf1d-eb49-45dd-825e-3ddeb4d32558
+:END:
 
 *** 2021-07-19 - ☆ 8.00
+:PROPERTIES:
+:ID:                     0dd1d458-ead9-418e-a967-c45988ac878d
+:END:
 
 We decided to finish wonderful evening with this sweet Riesling. Rich bouquet full of honey, tropical fruits, peach and spices. Fresh, ripe and well balanced. Wonderful age and great QPR.
 
+** Related
+:PROPERTIES:
+:ID:                     e267903d-204a-4ce6-a684-2795ca757b41
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Riesling Heiligenstein Lyra - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
+    <section class="h text-small text-lighter">Ochota barrels</section>
+    <section class="h text-bolder">kids of the black hole - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
+    <section class="h text-small text-lighter">Schloss Johannisberger</section>
+    <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+    <section class="h text-small text-lighter">F. X. Pichler</section>
+    <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
+  </a>
+
+</div>
+#+end_export

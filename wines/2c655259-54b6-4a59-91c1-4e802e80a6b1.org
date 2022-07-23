@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     12f04f76-49dd-4f06-90ee-c51e44a0eab0
+:END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
 - Vintage :: 2012
@@ -9,20 +12,34 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bf60b074-1ac1-4908-96d9-884aa19a3778
+:END:
 
 *** 2021-12-08 - ☆ 8.50
+:PROPERTIES:
+:ID:                     7865f54f-e8ac-4f43-b2e3-be5597fd1a81
+:END:
 
 Wonderful Savagnin that spent quite amount of time under flor. Intense Jerez-like bouquet with notes of apple, nuts, mould, mushrooms and tilia honey. Multilayered, fresh and with persistent aftertaste.
 
 Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]].
 
 ** Related
+:PROPERTIES:
+:ID:                     cc91dd70-b149-4a86-bbf6-2be060eb7cb3
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <section class="h text-small text-lighter">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
 </div>

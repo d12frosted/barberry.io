@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     5b1f344f-fbec-4c23-9bf2-703e7697eba3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/15/88f9ec-1616-449b-aaac-9d7a0de06655/2022-01-16-12-25-14-66975C43-3FDC-4319-891F-AEE7707C3315-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8194508e-393d-4ba8-bbaf-992b4420712b
+:END:
 
 *** 2022-01-13 - ☆ 8.00
+:PROPERTIES:
+:ID:                     be451532-16d2-468c-a818-d306593cdd20
+:END:
 
 Tasted blind and guessed that it's from Oregon. Pale, restrained with pretty classic notes. Cherry, red flowers, pine nuts and gouache. Crisp, medium-light body with round tannin, long oily aftertaste. Interesting Pinot Noir and my first one from Oregon.
 
+** Related
+:PROPERTIES:
+:ID:                     7d4ab511-066d-4a08-bd4c-f918bb7eb002
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+    <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
+    <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <section class="h text-small text-lighter">Roses De Jeanne</section>
+    <section class="h text-bolder">Presle Millesime BdN - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+    <section class="h text-small text-lighter">Enderle&Moll</section>
+    <section class="h text-bolder">Buntsandstein - 2018</section>
+  </a>
+
+</div>
+#+end_export

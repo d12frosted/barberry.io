@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     53a1ddd7-853a-4e39-a593-e85e8d04d66f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ee/50b000-a312-4fce-b420-744aaa529116/2022-05-21-10-30-30-B4A8E648-D83F-4A9A-8A04-BAF5FDC68AC1-1-105-c.webp]]
 
@@ -12,18 +15,32 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     14327c82-a1d2-4e98-90fb-39d2ca91b46d
+:END:
 
 *** 2022-05-17 - ☆ 5.75
+:PROPERTIES:
+:ID:                     a7388e66-3514-46ed-8238-c28159aed553
+:END:
 
 Haven't tasted this wine for a long time and it kind of reminds me why in general I avoid wines from Chile. Powerful in a bad way with heavy profile and not balanced. It's a fruit-bomb with black fruits, oak hints and jam. Long warm aftertaste. Not my thing. Should've tasted blindly.
 
 ** Related
+:PROPERTIES:
+:ID:                     efd1b189-1616-4d21-90b0-1f1a4d46bbb6
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/82ef2f7d-3296-4f4c-83e9-42bd04688e9a.html">
     <section class="h text-small text-lighter">Concha y Toro</section>
     <section class="h text-bolder">Casillero del Diablo Sauvignon Blanc - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
+    <section class="h text-small text-lighter">Lamiable</section>
+    <section class="h text-bolder">Cuvee Pheerie - 2013</section>
   </a>
 
 </div>

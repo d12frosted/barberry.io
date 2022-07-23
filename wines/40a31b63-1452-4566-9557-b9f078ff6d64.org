@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     db0b0490-23cf-4fe5-99f9-83b2417435eb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/40/a31b63-1452-4566-9557-b9f078ff6d64/2021-12-23-09-07-40-C159EEC7-7228-4B4D-9C1A-899C697A1349-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     1ea6cfeb-35bc-4b09-a138-cab0d10920a9
+:END:
 
 Wonderful winemaker from Champagne.
 
@@ -26,12 +32,21 @@ Guilde to Goodwine #38
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     4e56088a-fdaa-44b0-842b-97e0b12b839f
+:END:
 
 *** 2022-01-01 - ☆ 8.50
+:PROPERTIES:
+:ID:                     ca2dde95-7a64-4d93-aaa7-39be577e2dd0
+:END:
 
 One of my favourite producers from Champagne. Entre Ciel & Terre is more delicate than, say, Origenelle, showing less oxidation. And 2014-based Entre Ciel is also more delicate than 2013-based. Pale yellow colour. Powerful bouquet showing age (hey 48 sur lies): baked apple, toast, oil, lemon tart, Jerez, brioche, field flowers. Medium-full bodied, intense, complex and delicious.
 
 ** Related
+:PROPERTIES:
+:ID:                     e504868d-9e93-4713-9f0a-90a73fced6b4
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -48,6 +63,11 @@ One of my favourite producers from Champagne. Entre Ciel & Terre is more delicat
   <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038.html">
+    <section class="h text-small text-lighter">Henriques & Henriques</section>
+    <section class="h text-bolder">Boal Single Harvest - 2000</section>
   </a>
 
 </div>

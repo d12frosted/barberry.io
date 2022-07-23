@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ec5581b6-9cb4-4d6e-9dc4-406f40ef83fc
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     5d6573cc-dee0-41d0-86bf-9d34dc18113d
+:END:
 
 *** 2022-06-28 - ☆ 6.00
+:PROPERTIES:
+:ID:                     8afec019-1d21-4846-a26b-1bedaaae62e3
+:END:
 
 Honestly, I was expecting it to be dead at this point. But it's still alive. It has a straightforward and crowd-pleasing profile. It's full of blackberry and raspberry jam, with hints of vanilla and oak. It has two issues: a watery palate and not well-integrated ethanol.
 
 ** Related
+:PROPERTIES:
+:ID:                     86fe1343-c15b-48fc-8297-5b2ab276003d
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,11 @@ Honestly, I was expecting it to be dead at this point. But it's still alive. It 
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">
+    <section class="h text-small text-lighter">Illuminati</section>
+    <section class="h text-bolder">Costalupo - 2021</section>
   </a>
 
 </div>

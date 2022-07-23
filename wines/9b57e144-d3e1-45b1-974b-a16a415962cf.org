@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     bc8bcee0-be12-47fd-b45a-f1a5e0d3818b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     506c66ee-42d4-423a-b253-c18c11aa0d90
+:END:
 
 *** 2021-12-21 - ☆ 8.00
+:PROPERTIES:
+:ID:                     522b0d8e-f9ab-4908-9fda-b93bdbe888d1
+:END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
 
@@ -21,3 +30,42 @@ Magnum bottle. 36 months on lees. Degorgee on November 2020.
 
 One more loud name. And again, friendly and approachable. Has more volume than Salmon, and very gastronomic. In the nose baked apple, nuts, chalk and lemon. Enjoyable, well balanced. Not reflected on the score, but liked more than Salmon.
 
+** Related
+:PROPERTIES:
+:ID:                     d02dc0bf-922a-4bf9-a081-525664be4498
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <section class="h text-small text-lighter">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <section class="h text-small text-lighter">Shabo</section>
+    <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+    <section class="h text-small text-lighter">Billecart Salmon</section>
+    <section class="h text-bolder">Brut Reserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <section class="h text-small text-lighter">Domaine de la Touraize</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+</div>
+#+end_export

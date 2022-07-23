@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     31723986-b352-4d3a-ba97-bab1df75003b
+:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/793833b0-702b-48d5-b0cd-baf3c3dcf1b3][Chateau d'Escurac]]
 - Vintage :: 2011
@@ -9,8 +12,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     93d08948-40f1-43fc-9b3f-ff5a2790c616
+:END:
 
 *** 2022-01-03 - ☆ 7.50
+:PROPERTIES:
+:ID:                     9b62e51b-fdff-40bd-a78d-fd1e4f864e16
+:END:
 
 To my little and almost absent experience in this region, this wine turned out to be quite good. Not complex, but thanks to age it was an interesting experience. Deep almost dark garnet colour. Powerful bouquet full of prune, black currant jam, licorice, tobacco and dried fig. Medium-full body, good balance, smooth, soft high tannin with long and flavourful aftertaste - dark cherry and tobacco. Kind of overpriced.
 
+** Related
+:PROPERTIES:
+:ID:                     09245c97-208f-4deb-8068-e6d65dc27689
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1f40f56d-8790-4123-84ff-1478363ed829.html">
+    <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Bourgogne - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Oakbank Shiraz - 2019</section>
+  </a>
+
+</div>
+#+end_export

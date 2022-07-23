@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     37e0ac64-2068-4546-8d5e-d27841f4fcab
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     0306ee36-788e-4cba-9f4f-31186068b2cc
+:END:
 
 *** 2022-05-31 - ☆ 8.00
+:PROPERTIES:
+:ID:                     b33efa8a-5fa3-4bc1-bd7a-3f7c56948f7e
+:END:
 
 Amazing, delicate and soft Syrah. Plum, red flowers, condensed milk. Almost perfectly balanced, fresh with good potential, flavour of plum, black pepper, medicinal herbs and oak.
 
+** Related
+:PROPERTIES:
+:ID:                     92be9181-379d-4184-a51a-af0ae895a2e1
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vino Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">
+    <section class="h text-small text-lighter">Vinoman</section>
+    <section class="h text-bolder">BLU Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

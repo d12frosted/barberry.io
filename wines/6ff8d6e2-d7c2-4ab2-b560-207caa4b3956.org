@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     928f3ad4-a465-471e-9626-c293c6ec4bbe
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp]]
 
@@ -14,12 +17,21 @@
 This blend of Pinot Blanc and Pinot Gris spend 12 months sur lie. No added sulphites.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     40864820-6bee-4aa0-99a1-481596b9624f
+:END:
 
 *** 2021-08-13 - ☆ 8.00
+:PROPERTIES:
+:ID:                     f8a7b609-cdeb-428a-b152-8f0938027c30
+:END:
 
 It is hard to stay objective when it comes to iconic producers, especially when you don't like them haha. I had several disappointing experiences with Frick wines, but somehow decided to give his sparkling a try. And I am happy because it turned out to be an expressive, deep and sophisticated Cremant with honey, grass, dough, almond, dried yellow fruits and subtle hints of pickles. Well balanced, tasty and interesting. Sky rocket QPR.
 
 ** Related
+:PROPERTIES:
+:ID:                     58758f57-6a68-407f-abe1-f5cb3c5f3b30
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -41,6 +53,26 @@ It is hard to stay objective when it comes to iconic producers, especially when 
   <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Grüner Veltliner Kamptaler Terrassen - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     89a37f50-cdad-4154-9ac6-3e5a0c94e0b3
+:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
 - Vintage :: 2017
@@ -9,18 +12,37 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     19d65460-0b27-4fea-a6e4-9028095693a4
+:END:
 
 *** 2021-12-09 - ☆ 7.25
+:PROPERTIES:
+:ID:                     37e14142-86ec-4ed7-9ce5-9d0457468fe0
+:END:
 
 Simple Trousseau from Arbois. Cranberry, cherry and notes of coffee (maybe someone is hiding coffee beans near me?). Looks like someone had too much oak. Nice acidity, good volume, but lacks depth.
 
 ** Related
+:PROPERTIES:
+:ID:                     e6bbf6e2-953c-4aeb-8c6c-2475f325ae7c
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Arbois Vin Jaune Les Bruyeres - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Mambo Sun - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
 
 </div>

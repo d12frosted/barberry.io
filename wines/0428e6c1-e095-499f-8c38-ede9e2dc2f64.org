@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     689452b9-5ce3-4f38-9562-0467fe7c5521
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     2b742ca8-6001-4344-97ba-4c35114aa012
+:END:
 
 *** 2022-07-15 - ☆ 7.50
+:PROPERTIES:
+:ID:                     e0096df8-bae0-4c1c-ac54-e34b27c2a919
+:END:
 
 I have tasted this wine on multiple occasions. Every time my experience was rather mediocre. But this time, it was different. After spending more time on lees, it became more cohesive. Less beer, more bready notes, croutons from Borodyn bread. Pear, stewed dried fruits, smokiness and flowers. Easy and light. Nice.
 
 ** Related
+:PROPERTIES:
+:ID:                     5976a9d3-11ec-4e43-82d3-307a199a7977
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -34,6 +46,56 @@ I have tasted this wine on multiple occasions. Every time my experience was rath
   <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <section class="h text-small text-lighter">Jacques Lassaigne</section>
+    <section class="h text-bolder">La Colline Inspirée - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h text-bolder">Bland de Blancs - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <section class="h text-small text-lighter">Hudelot-Noëllat</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Gentleman - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Crazy Crazy - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">280 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <section class="h text-small text-lighter">Ulysse Collin</section>
+    <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <section class="h text-small text-lighter">Ca Dei Zago</section>
+    <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 
 </div>

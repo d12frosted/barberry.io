@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     41f79873-009e-4327-8540-5609266c5457
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp]]
 
@@ -12,8 +15,14 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     c4b4cb1f-64c9-4ea1-bcc5-7dfee71d69db
+:END:
 
 *** 2020-09-11 - ☆ 7.00
+:PROPERTIES:
+:ID:                     3876d982-8d07-4767-b607-959672c63b48
+:END:
 
 Fresh Impression 2018 made of Grenache Blanc, Chardonnay, Melon de Bourgogne
 and small amounts of Poulsard. Unfiltered. Bakery, vanilla, dried herbs, apple
@@ -21,6 +30,9 @@ and sour beer with barn hints. Refreshing, good acidity, medium body and
 evolving finish. Tastes like fermenting white fruits.
 
 ** Related
+:PROPERTIES:
+:ID:                     7d350ba2-1989-4900-9a59-7e3efe2dc404
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -57,6 +69,16 @@ evolving finish. Tastes like fermenting white fruits.
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <section class="h text-small text-lighter">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2016</section>
   </a>
 
 </div>

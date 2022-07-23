@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     b7be7a7d-f5ac-4ebe-be73-b714aa9e5744
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: 1 bottle
 
 ** Producer
+:PROPERTIES:
+:ID:                     d244278b-f6ab-4e8e-b6f7-cedbaa1620c2
+:END:
 
 Fedellos trio consisting of Jesús Olivares, Curro Bareño and ???. Related project - [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]].
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bf120899-2ea3-4e97-ba98-1be3c99cce22
+:END:
 
 *** 2021-05-21 - ☆ 7.75
+:PROPERTIES:
+:ID:                     117922eb-ebbc-41e6-ac7c-34c503534421
+:END:
 
 Field blend (Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés and who knows what else) by lovely Fedellos trio. Rich nose, full of stone fruits, dill and nettle, butter, citrus and flint. Clean, fresh and tasty.
 
 ** Related
+:PROPERTIES:
+:ID:                     04773194-c583-431a-a8a6-6a1f8459833f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -33,6 +48,11 @@ Field blend (Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés and 
   <a class="flex-item flex-item-right" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
   </a>
 
 </div>

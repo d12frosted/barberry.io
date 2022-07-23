@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ca37afd6-e607-4c29-bc79-ea070474e4c3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f4/0ec77a-9564-408b-9fad-7709e2fb6d93/2022-06-20-21-21-10-F0BE04CF-7418-4BEB-8FF2-7A08B968A7D7-1-105-c.webp]]
 
@@ -12,18 +15,37 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     0e8d6140-840c-4d3b-838a-8df05d0015e7
+:END:
 
 *** 2022-06-20 - ☆ 7.00
+:PROPERTIES:
+:ID:                     4d7fdc0d-0130-41f9-8c21-d42a5e5a0395
+:END:
 
 Jaume Serra is Jaume Serra no matter if they put the word 'Organic' on their label or use one grape exclusively. It's always a good and reliable basic Cava. Typical notes, typical palate. Good for it's price. And also I must note that 11.5 abv is an appealing feat.
 
 ** Related
+:PROPERTIES:
+:ID:                     8a33bc1d-f470-4103-b3a0-4d0a2e427f8c
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312.html">
     <section class="h text-small text-lighter">Jaume Serra</section>
     <section class="h text-bolder">Cava Brut Nature - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Vin de Soif - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2020</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     772fd1e8-4a59-4703-bd9e-e3744299d0ee
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e2/cc07f9-3466-4ab0-bc5b-aaace9681868/2022-06-12-17-34-19-19E382A8-52F8-4A88-949F-C14981A2175E.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: 1 bottle
 
 ** Producer
+:PROPERTIES:
+:ID:                     7d3bd79c-722d-4cb1-b304-3025f66f4710
+:END:
 
 Famous producer from Argentina. They say that Catena family has resurrected Malbec.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3b1d0b29-4613-4844-a36a-28288189515c
+:END:
 
 *** 2022-06-26 - ☆ 7.40
+:PROPERTIES:
+:ID:                     795308d9-505a-4c8b-98dc-ebcd1b1d1960
+:END:
 
 Up to expectations, easy going and friendly Chardonnay that is approachable yet has something interesting to offer. Lots of butter with dry caramel, white stone fruits, overripe lemon, pineapple, vanilla, green apricot and flowers. It sounds more complicated than reality. It is well balanced, and it feels more interesting thanks to good acidity. Nice.
 
 ** Related
+:PROPERTIES:
+:ID:                     07d1faef-1c71-4393-9be4-5d561db4cbc0
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -38,6 +53,16 @@ Up to expectations, easy going and friendly Chardonnay that is approachable yet 
   <a class="flex-item flex-item-left" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Argentino - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
+    <section class="h text-small text-lighter">Stellenbosch Hills</section>
+    <section class="h text-bolder">Chenin Blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d475d86d-a8a1-4466-8dce-40252032232d.html">
+    <section class="h text-small text-lighter">Weinland Rheingau</section>
+    <section class="h text-bolder">Rüdesheimer Burgweg Riesling Trocken - 2021</section>
   </a>
 
 </div>

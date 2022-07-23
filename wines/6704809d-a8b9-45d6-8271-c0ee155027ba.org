@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ffab963f-820a-40a8-bfaf-8b6217dbf04e
+:END:
 - Type :: White Sparkling, Dry
 - Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
 - Vintage :: 2019
@@ -9,16 +12,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     f84e79ce-51d8-447a-a2af-edcd447237bb
+:END:
 
 *** 2020-10-16 - ☆ 5.00
+:PROPERTIES:
+:ID:                     31964a50-4ed3-473e-b171-36a898deea69
+:END:
 
 The more I drink Pet Nats, the more I realise that it's not my type of wine. Yes, easy going and refreshing party bubbles, but I rarely drink just to get fizzy. This Pet Nat features beer and kombucha. No taste at all, it's like white beer, and I don't like it :)
 
 *** 2021-04-28 - ☆ 7.00
+:PROPERTIES:
+:ID:                     5444b152-4820-4c75-92a6-3f2fba405390
+:END:
 
 The last time I tasted this wine on a party 6 months ago. Now I like it much more because it is more firm and structured and not as dull as before. Beer and kombucha, white flowers and stone fruits. Zesty, fizzy and easy going.
 
 ** Related
+:PROPERTIES:
+:ID:                     a0441393-4680-47ab-bc5d-6f2bc927f714
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -35,6 +50,16 @@ The last time I tasted this wine on a party 6 months ago. Now I like it much mor
   <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
+    <section class="h text-small text-lighter">La Sorga</section>
+    <section class="h text-bolder">S.M. - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+    <section class="h text-small text-lighter">Tiago Teles</section>
+    <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 
 </div>

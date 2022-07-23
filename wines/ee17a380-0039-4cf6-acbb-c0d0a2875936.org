@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     5da44697-7c8e-44b5-842e-d919f4eb2353
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp]]
 
@@ -12,22 +15,81 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     5affbaad-ef70-4b37-9079-ff1c9dbd1e6e
+:END:
 
 They say that Girolamo Russo was a pianist in the past. Well, maybe he stopped playing music professionally, but I can say that he started to create music in the form of wine.
 
 Etna, Sicily, around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3b0ae29d-eb9c-4c82-9ac4-2ef8dcd4191e
+:END:
 
 *** 2021-07-13 - ☆ 7.25
+:PROPERTIES:
+:ID:                     96b658da-b919-4452-a53d-69ce98dc763a
+:END:
 
 Girolamo Russo is a producer that I am trying to discover for myself and every wine I taste lacks something to tick for me. Maybe they need to spend more time in bottle, don't know. Rosato is closed and elusive. White flowers, grapefruit, peach and cream. The palate is also creamy with flavours of peach and grapefruit. Overall it's nice, but restrained, so I could not fully enjoy this wine.
 
 *** 2021-08-19 - ☆ 8.00
+:PROPERTIES:
+:ID:                     765453ae-2294-46e0-9112-dd3005d6ae15
+:END:
 
 The last time I tasted this wine, I was disappointed. But then I tasted Nerina and it returned my faith in Russo. So now giving one more chance to Rosato. And it's wonderful! Delicate and sophisticated bouquet full of cheese with mold, grass, sea, spices, red currant. Medium+ acidity, well balanced, long aftertaste with flavours of gooseberry, red currant and nice iodine touch.
 
 *** 2022-06-01 - ☆ 8.50
+:PROPERTIES:
+:ID:                     d41a2c69-8347-4dba-aba2-86fef0b485db
+:END:
 
 Almost a year has passed since my last tasting of this wine. And it's as great as I remember it. Vivid, delicate and sophisticated. It bursts with notes of cheese, sea, spices, red currant, and cranberry. Almost perfectly balanced, vibrant, with amazing taste evolution behaving like a sea wave. Flavours of red currant, sour cheery, Sicilian orange and iodine. One of my favourite light rosé wines, despite bad first experience.
 
+** Related
+:PROPERTIES:
+:ID:                     61c00a06-742e-4727-9b57-42133b450b69
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <section class="h text-small text-lighter">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Brutal Orange - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
+  </a>
+
+</div>
+#+end_export

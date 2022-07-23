@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     9214b429-b55e-4f7d-a74d-91a0727bccf3
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c.webp]]
 
@@ -12,12 +15,35 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     93b7c060-0756-498c-800e-9237c818c5ac
+:END:
 
 It's actually one of the projects of [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]].
 
 ** Ratings
+:PROPERTIES:
+:ID:                     5d746ccb-620f-4a5b-b22d-ccd9371e0acb
+:END:
 
 *** 2022-06-04 - ☆ 7.25
+:PROPERTIES:
+:ID:                     00d719b7-8e94-423f-8a29-a46dc2ca22ad
+:END:
 
 Textbook Sauvignon Blanc from New Zealand, so IMO everyone needs to taste it time to time as it's a classic and bright example of this specific style. And here I am, doing my part for the first time in 2 years. Tropical notes of passion fruit, gooseberry and apples (yeah, known tropical fruit). But what I like the most about this wine is acidity, making it fresh and amazing choice for hot summer days. So overall it's simple yet good.
 
+** Related
+:PROPERTIES:
+:ID:                     af17e4c7-26b0-485a-b5b4-c660b538098b
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">
+    <section class="h text-small text-lighter">Philippe de Charmille</section>
+    <section class="h text-bolder">Crémant de Loire Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

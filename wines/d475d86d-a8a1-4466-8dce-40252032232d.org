@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     313b6a32-eca2-4b6c-92f2-83f9913f1fcc
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/d4/75d86d-a8a1-4466-8dce-40252032232d/2022-06-27-06-26-30-8F09B65A-07A1-42C6-89FB-8A1A6725CCF5-1-105-c.webp]]
 
@@ -12,8 +15,33 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     5d6edbca-aadc-4fce-ab5c-985d29993b41
+:END:
 
 *** 2022-06-26 - ☆ 7.30
+:PROPERTIES:
+:ID:                     21626028-7460-4387-b403-c8bf28478051
+:END:
 
 Pale straw colour. Nose is dominated by green apple and nectarine with hints of pineapple. High, even crispy acidity, so chill it for good. Otherwise it's light and easy going.
 
+** Related
+:PROPERTIES:
+:ID:                     b9fcbe83-1e79-435e-93bf-2db35a0bf4fe
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
+    <section class="h text-small text-lighter">Stellenbosch Hills</section>
+    <section class="h text-bolder">Chenin Blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Catena Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

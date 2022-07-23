@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     f44dba3c-dc99-4a90-a341-d1a9fd8b9e53
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350.webp]]
 
@@ -12,20 +15,34 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     af7e83bc-c16e-48e4-b30f-2023763ea712
+:END:
 
 *** 2019-11-30 - ☆ 7.00
+:PROPERTIES:
+:ID:                     67ec96e2-2554-4f8f-95df-9d90bc85084f
+:END:
 
 Блідий рубін, середні ноги. Слива, ваніль, трохи чорносливу та вишня в
 ретроназалі. Висока кислотність, середні+ таніни, вишнева кісточка. Післясмак
 середній+. У вина є потенціал. Хороше, але не вистачає балансу до дуже хорошого.
 
 ** Related
+:PROPERTIES:
+:ID:                     f9ebb2ae-a3fa-4b6d-bc93-1b564c12efce
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
     <section class="h text-small text-lighter">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Zibibbo - 2017</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     43db8977-8c51-4ebc-aff1-9b76eb6cc979
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp]]
 
@@ -12,8 +15,38 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ca064859-d476-478c-be9a-e9c6314d95c2
+:END:
 
 *** 2022-07-16 - ☆ 7.00
+:PROPERTIES:
+:ID:                     f7f442e7-adeb-48ce-bb00-3796ed8049f4
+:END:
 
 Exactly the wine you expect it to be. Is it a bad thing? Not per se! Easy choice to match with various food. Apple, pear, lemon and toast.
 
+** Related
+:PROPERTIES:
+:ID:                     4f457132-a706-4bb1-88a2-ee3e8322f6e6
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+    <section class="h text-small text-lighter">Pierre Trichet</section>
+    <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+    <section class="h text-small text-lighter">Loimer</section>
+    <section class="h text-bolder">Pet Nat - 2020</section>
+  </a>
+
+</div>
+#+end_export

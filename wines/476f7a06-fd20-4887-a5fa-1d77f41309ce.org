@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     aa13f270-8e3f-41a7-8b38-707df0e39c81
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/47/6f7a06-fd20-4887-a5fa-1d77f41309ce/2022-07-09-09-45-00-BC5887C7-AB85-42DC-B889-F780CE250FC6-1-105-c.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     bacecde3-1e7e-4c43-ac53-433d53072f3d
+:END:
 
 *** 2022-07-13 - ☆ 7.20
+:PROPERTIES:
+:ID:                     4dc2fe22-9bcc-4a6f-b591-42fbb6bbd0ef
+:END:
 
 Typical Cava for an honest price. Yup, all those familiar notes of apple, plastic and toast. But if you let it warm a little bit, it opens up with something extra - cream soda and baked pear. It is well balanced, as dry as a desert (not to confuse with dessert), with clumsy taste evolution, and a funny aftertaste of burnt toast (unfortunately, we all know how they taste).
 
+** Related
+:PROPERTIES:
+:ID:                     cb14b4d9-4144-4009-86f9-05ab0204b77b
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+</div>
+#+end_export

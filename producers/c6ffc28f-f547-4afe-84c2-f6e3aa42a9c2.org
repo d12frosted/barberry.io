@@ -1,6 +1,12 @@
+:PROPERTIES:
+:ID:                     e575b57b-54df-4a79-b12a-b97ac7776420
+:END:
 Small wine producer from Czech Republic.
 
 ** Wines
+:PROPERTIES:
+:ID:                     66329170-fcec-48b4-9b36-940214c50155
+:END:
 
 #+attr_html: :class wines-table
 |                                                            name | vintage |                                                          grapes |   region | rate |

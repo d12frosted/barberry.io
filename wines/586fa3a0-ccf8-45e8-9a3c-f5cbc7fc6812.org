@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     220caf20-96dc-4c86-8baa-501eadf20fcb
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/58/6fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812/2021-07-03-10-08-38-7D4FA3F4-CD46-406E-A9DE-CD1579B56C6A-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     52263aa4-962e-4fdd-a642-6c8933b0d24f
+:END:
 
 *** 2021-07-01 - ☆ 7.00
+:PROPERTIES:
+:ID:                     3f141dc8-a1f7-4214-b45a-4c5cba3fb60a
+:END:
 
 Tasted blind and was sure that it's Prosecco. But when I think about it, all I can say is - silly me. Super simple, lots of apple, pear, toast and lime. Fruit-forward, fresh and easy going apéritif.
 
 ** Related
+:PROPERTIES:
+:ID:                     6261a48a-011f-43c6-8043-eb7a8cfc392c
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -34,6 +46,11 @@ Tasted blind and was sure that it's Prosecco. But when I think about it, all I c
   <a class="flex-item flex-item-left" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
+    <section class="h text-small text-lighter">Costadila</section>
+    <section class="h text-bolder">Móz - 2019</section>
   </a>
 
 </div>

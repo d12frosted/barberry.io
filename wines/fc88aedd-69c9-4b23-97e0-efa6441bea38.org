@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     60ad3644-56a0-458d-a61f-db96b40e0e25
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/fc/88aedd-69c9-4b23-97e0-efa6441bea38/2020-11-07-09-42-23-E7070E5C-0CCA-409E-9CD6-81AE5F257F62-1-105-c.webp]]
 
@@ -12,16 +15,28 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     ed4f43e1-2f67-46e5-b764-5380946d0807
+:END:
 
 Ernesto Cattel is one of the first people that started to restore popularity of Col Fondo, e.g. ancestrale method, which differs from Pet Nat by having second fermentation in the bottle and with no filtration. And to make it even more interesting, his Col Fondo is macerated!
 
 ** Ratings
+:PROPERTIES:
+:ID:                     27cf055a-1eac-4a44-aadc-1aebe51fa73b
+:END:
 
 *** 2020-11-06 - ☆ 7.50
+:PROPERTIES:
+:ID:                     a8e42905-c4c9-4f21-a9f8-a9df739fac5e
+:END:
 
 Orange bubbles are always welcome. They are celebrating and cheerful. Complex bouquet of kombucha, orange peel and ginger. Easy to drink, a bottle ends in a blink of eye. Orange Col Fondo is a discovery!
 
 ** Related
+:PROPERTIES:
+:ID:                     6b3e2c51-9a9f-4abf-aa59-d9d95df47679
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -38,6 +53,11 @@ Orange bubbles are always welcome. They are celebrating and cheerful. Complex bo
   <a class="flex-item flex-item-left" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">280 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ffa67f5b-2f47-4f39-a22a-787f66fcc1c2
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp]]
 
@@ -12,18 +15,30 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     8a428193-0361-43f4-bb15-f31b7b39af81
+:END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     debc6b9f-d2c6-4919-8c67-7cd3e604ea51
+:END:
 
 *** 2020-12-26 - ☆ 7.00
+:PROPERTIES:
+:ID:                     09587c87-5e4f-4561-9f3e-a8ee201867e9
+:END:
 
 3.5 Profound and aromatic orange from Czech Republic. Burst of apricot, tea,
 rose petals, white pepper, and orange jam. Lacks structure, very
 straightforward.
 
 ** Related
+:PROPERTIES:
+:ID:                     3ead43d6-ebbb-4744-9b5d-6f86cf7e9dab
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -40,6 +55,16 @@ straightforward.
   <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6.html">
+    <section class="h text-small text-lighter">Codorníu</section>
+    <section class="h text-bolder">Cava Clasico Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">
+    <section class="h text-small text-lighter">Kir-Yianni</section>
+    <section class="h text-bolder">Kali Riza - 2017</section>
   </a>
 
 </div>

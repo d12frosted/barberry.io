@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e90940fc-eb1f-47bd-9c58-89616beac864
+:END:
 - Type :: Rose Sparkling, Brut nature
 - Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
 - Vintage :: NV
@@ -9,12 +12,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     4324737a-1b29-4b03-8434-162f5cecee4a
+:END:
 
 *** 2021-06-14 - ☆ 7.25
+:PROPERTIES:
+:ID:                     e098935a-043d-4dcb-9b74-0d793faec002
+:END:
 
 Sparkling wines made of Syrah is not something I drink every month. And unlike Peppermint Paddock, this one is traditional method rosé. A little bit of VA, wild red berries, raw meat with notes of fermented stuff. Rich, even profound, with long aftertaste full of fermented strawberry with nice mineral finish. Overall it's good, but the palate is not fascinating and lacks acidity. With aeration quickly becomes dull.
 
 ** Related
+:PROPERTIES:
+:ID:                     c22b8e67-fe0f-4414-b034-5ba5fd204b08
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -26,6 +38,11 @@ Sparkling wines made of Syrah is not something I drink every month. And unlike P
   <a class="flex-item flex-item-right" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/55d3286d-d7ce-4659-abca-b0bee73944a9.html">
+    <section class="h text-small text-lighter">Sous Le Végétal</section>
+    <section class="h text-bolder">Octave - 2018</section>
   </a>
 
 </div>

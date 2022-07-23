@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     907f767c-09a3-4440-aee7-bf2367466587
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8295f64b-baaa-439e-ad14-91afc4af063c
+:END:
 
 *** 2022-07-02 - ☆ 5.25
+:PROPERTIES:
+:ID:                     e8d9bc49-eed0-4518-a40d-9ef44049c2fb
+:END:
 
 Part of diverse Félix Solís brand. This SB is straightforward yet faceless. Typical notes of gooseberry, tropical fruits with notes of citrus. Hey baby, this tropical bomb lacks acidity! Who would guess? Iggy Pop playing on the background doesn't approve my wine choice.
 
 ** Related
+:PROPERTIES:
+:ID:                     35c20b76-0be4-4431-8d34-274853db02ad
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -34,6 +46,16 @@ Part of diverse Félix Solís brand. This SB is straightforward yet faceless. Ty
   <a class="flex-item flex-item-left" href="/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Viña Albali Gran Reserva de Familia - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a4980711-6b29-4392-9585-17310170db4a.html">
+    <section class="h text-small text-lighter">Kir-Yianni</section>
+    <section class="h text-bolder">Paranga Sparkling - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
+    <section class="h text-small text-lighter">Mas Pere</section>
+    <section class="h text-bolder">Selecció Brut Cava - NV</section>
   </a>
 
 </div>

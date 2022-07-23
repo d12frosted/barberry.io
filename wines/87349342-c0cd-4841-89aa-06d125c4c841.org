@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ef90f9b7-4b47-4c91-87e6-11fc66c08f8a
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp]]
 
@@ -12,20 +15,35 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     eec787f2-cec0-4f44-b4e9-863969d3d78e
+:END:
 
 Run by Jean-Marie and Thierry Puzelat.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     6daca3a7-e8cc-49ff-9034-158266304163
+:END:
 
 *** 2020-09-11 - ☆ 7.00
+:PROPERTIES:
+:ID:                     bb1b5872-6f8b-4e3a-bd5f-b6d2a43fe737
+:END:
 
 Alright, take some cactus, wrap it with pear candy, smear with honey and sprinkle with black currant leaves. That's how you get Le Petit Buisson. 2019 is not in the Touraine AOC anymore, but in generic VdF. Hopefully it didn't make Jean-Marie and Thierry Puzelat cry. After all, they have this bright sweetie to relax.
 
 *** 2020-11-24 - ☆ 7.50
+:PROPERTIES:
+:ID:                     a7e6ddfd-9062-443f-b8f6-db157a62d2ed
+:END:
 
 Tasting again in two months and it makes a difference. Yellow fruits and bread, yeast and nuts, hints of cactus soaked in acacia honey. You bet, it is aromatic! Acidity is aggressive, but very short. A little bit fizzy at first. Flavours of almonds and peach.
 
 ** Related
+:PROPERTIES:
+:ID:                     c1b8afe3-67b5-4b65-bf3c-0e75fd1f7826
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -42,6 +60,31 @@ Tasting again in two months and it makes a difference. Yellow fruits and bread, 
   <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/41c61abd-bb8c-4a9c-be77-c2fe756581f3.html">
+    <section class="h text-small text-lighter">Patrice Beguet</section>
+    <section class="h text-bolder">Fresh Impression White - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <section class="h text-small text-lighter">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+    <section class="h text-small text-lighter">Marto</section>
+    <section class="h text-bolder">Al Dente - 2018</section>
   </a>
 
 </div>

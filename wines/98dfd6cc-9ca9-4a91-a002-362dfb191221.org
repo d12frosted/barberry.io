@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     9111bf18-231e-4c74-a940-fccd61cc6454
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/98/dfd6cc-9ca9-4a91-a002-362dfb191221/2021-08-27-16-06-18-FCE6702E-6975-4D46-A5D1-674BD9AAD57B-1-105-c.webp]]
 
@@ -12,8 +15,53 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     74a0e9a2-f837-45d8-83dc-97ab8abddb29
+:END:
 
 *** 2021-08-26 - ☆ 8.00
+:PROPERTIES:
+:ID:                     140197a0-5e03-42b8-9257-baf5a99c8c57
+:END:
 
 Old school bouquet full of dust, tobacco, earthy notes, red fruits, musk and subtle hints of pickles. Mature, yet I am not sure if its already on the peak or still has potential. Unexpectedly sweetish and ripe palate with mature tannin and flavours of sweet cherry, tobacco and musk. Very good, but a little bit vulgar to my taste and not sophisticated enough. Though very interesting experience to taste 17 years old Côte de Nuits.
 
+** Related
+:PROPERTIES:
+:ID:                     390ea491-375d-432c-b667-147b2ed15f71
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
+    <section class="h text-small text-lighter">Domaine Guyon</section>
+    <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">
+    <section class="h text-small text-lighter">Domaine Chantal Lescure</section>
+    <section class="h text-bolder">Vosne-Romanee 1er cru Les Suchots - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">
+    <section class="h text-small text-lighter">Bernard Dugat-Py</section>
+    <section class="h text-bolder">Gevrey-Chambertin 1er cru Champeaux - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4fb6854f-bece-4bc3-b30d-589a80668230.html">
+    <section class="h text-small text-lighter">Le Domaine Marquis d'Angerville</section>
+    <section class="h text-bolder">Volnay 1er cru Champans - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
+    <section class="h text-small text-lighter">Domaine Trapet Pere et Fils</section>
+    <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">
+    <section class="h text-small text-lighter">The Hilt</section>
+    <section class="h text-bolder">Estate Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

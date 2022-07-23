@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     d72459a9-d88b-453b-98a9-75d411012b10
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c.webp]]
 
@@ -23,6 +26,9 @@ always been with me.
 #+end_quote
 
 ** Producer
+:PROPERTIES:
+:ID:                     bd923fe8-6a01-4f04-9f8d-526bc04fe8ea
+:END:
 
 Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. Her 25 hectares feature only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young as she planted them, most of them a guyot-trained. But she also added to her holdings 60-years-old albarello-trained vines which she initially rented.
 
@@ -47,12 +53,21 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     5e5b4a7d-c2c2-472f-a040-14ca242dc6a3
+:END:
 
 *** 2020-05-10 - ☆ 8.00
+:PROPERTIES:
+:ID:                     7374c569-252f-4977-8a6d-55dd19c29f59
+:END:
 
 This is not the regular Nero d'Avola you usually get from Sicily. Arianna Occhipinti creates elegant and much lighter wine. Acetone, ripe black fruits and balsamic notes. Balanced, medium light body, medium low tannin, medium high acidity. Even though it's low on body, I like it. Combination of this acidity and wildness is to my taste.
 
 ** Related
+:PROPERTIES:
+:ID:                     c5a48cab-8ad0-49c9-ae43-b0e5c593f19e
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -119,6 +134,11 @@ This is not the regular Nero d'Avola you usually get from Sicily. Arianna Occhip
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
   </a>
 
 </div>

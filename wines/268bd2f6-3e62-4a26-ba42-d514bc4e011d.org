@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     c54dd3aa-8cd0-4c72-a584-dcc5c3e9e778
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp]]
 
@@ -12,8 +15,53 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     e8ade9e7-73b3-4d06-b354-e0dac5021d15
+:END:
 
 *** 2022-06-07 - ☆ 7.00
+:PROPERTIES:
+:ID:                     18d02e60-0668-43a9-9737-d334fdf940cb
+:END:
 
 Traditional sparkling from Argentina made of Champagne grapes. That the story behind this purchase. Crowd-pleasing bubbles full of crème brûlée and brioche. Lacks acidity, too sweet for my taste. I was trying to play with temperature, but with no avail. I either got a creamy desser with pleasant foam, or restrained stingy apple/pear story. So... interesting, but not going to buy anything else from Chandon (unless I am on an island and it's the only wine around).
 
+** Related
+:PROPERTIES:
+:ID:                     d6e61223-d4c0-4032-9434-e485f5384732
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+    <section class="h text-small text-lighter">COZs</section>
+    <section class="h text-bolder">vn-c2 bg - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
+    <section class="h text-small text-lighter">Lenkey Pinceszet</section>
+    <section class="h text-bolder">Betsek Korposd Furmint - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
+    <section class="h text-small text-lighter">Simon Bize et Fils</section>
+    <section class="h text-bolder">Bourgogne Les Perrières - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     0e0cd2cc-a6ec-4e2b-b5fc-b5d26736ea0d
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp]]
 
@@ -12,20 +15,32 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     051c38c4-edf0-4bd3-b0cf-df831e062cb2
+:END:
 
 It is said that Mr. Raúl de la Mota had a dream of making high quality wine from Malbec grapes in Mendoza. In 1970 Malbec was only on its way to becoming a star in these lands, yet Mr. Raúl de la Mota meets and shares his dream with a Brazilian transportation businessman, Mr. Bernardo C. Weinert. The story is stingy, so I don't know all the reasons for Mr. Bernardo C. Weinert to agree. But it is known that he fell in love with a 80 years old building in Carrodilla, Luján de Cuyo. So in 1975 they started to reconstruct the building and the winery itself. The first harvest was in 1977 and first release was in 1979.
 
 But what makes this winery interesting for us, plebeians? First of all, it is located in Luján de Cuyo, a high altitude region in Mendoza, located in the foothills of Andeas mountains between 800 m and 1500 m elevation. This terroir enables complex and well structured wines. Secondly, Weinert ages wines in the bottle before releasing them. And it's easy to get bottles that are 10+ years old. Thirdly, the price tag is good. This combination deserves to be enjoyed.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     dcf430a3-50bf-4ae6-865c-654ac1220c11
+:END:
 
 *** 2021-08-19 - ☆ 7.40
+:PROPERTIES:
+:ID:                     6d6f342a-69bc-4edc-8a59-313ffedee371
+:END:
 
 Interesting Pinot Noir rosé from Gualtallary. Melon, mango, autumn
 leaves, coconut. Tasty and well made, but lacks complexity, maybe too
 young. Need to taste it again in few months.
 
 ** Related
+:PROPERTIES:
+:ID:                     80261ed3-8759-49f4-82cf-30a7855db4fd
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -47,6 +62,21 @@ young. Need to taste it again in few months.
   <a class="flex-item flex-item-right" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Brutal Orange - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
 </div>

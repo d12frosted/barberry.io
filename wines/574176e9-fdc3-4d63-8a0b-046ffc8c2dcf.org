@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     e0bbe186-7c77-437a-a997-06344edd7461
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp]]
 
@@ -14,12 +17,21 @@
 I failed to keep track of this wine. Hard to tell how many bottles we finished paired with shrimps. But we did everything in our pair to make sure that there are no bottles of this wine left in Kyiv.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     9023fae8-67b1-4114-b6cf-2c9b698757e1
+:END:
 
 *** 2021-05-08 - ☆ 7.25
+:PROPERTIES:
+:ID:                     b04b7fc4-3fb2-49fd-9696-c5b3493481ac
+:END:
 
 Blind tasted and guessed new world Chardonnay. And since it turned out to be a wine from Isrel, we started to discuss this funny contradiction. Anyways, typical bouquet of tropical fruits, butter, vanilla, ripe apple and hazelnut. I surrendered to this wine thanks to notes of Roquefort cheese. MLF makes it well structured and rich, oak is well integrated. Pleasant, not overly fascinating, but hey what a QPR for this style.
 
 ** Related
+:PROPERTIES:
+:ID:                     a4ba202e-fb08-450c-9c99-116bd4a89fdf
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -36,6 +48,11 @@ Blind tasted and guessed new world Chardonnay. And since it turned out to be a w
   <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Viognier Yarden - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+    <section class="h text-small text-lighter">Pierre Trichet</section>
+    <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
 </div>

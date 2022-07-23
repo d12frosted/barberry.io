@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ffc49d9b-7a11-44f4-b49a-f1ab100c7a3d
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     b4edd34e-c3ea-4d0a-b9cf-e669bf07a761
+:END:
 
 *** 2022-06-20 - ☆ 7.00
+:PROPERTIES:
+:ID:                     ceb56a61-8410-4883-b91c-003dc813a646
+:END:
 
 This Shiraz is not my thing. Mostly because it's not integral. It has two states. First one is overly dizzy something that has little to no flavour and powerful acidity. Second one comes after some aeration. It's a compote made of cranberry, guelder rose and darker berries. I definitely like the second state more, especially due to funny aroma of guelder rose and flavours of strawberry and spices (I wonder if it spent time in older and big barrels). But this state is rather simple and one-sided. So overall it's ok, I enjoy it's acidity (keep in mind that it's Australia), but I'd wait for a year in hopes for it to become whole. Also it could be a bottle variation, which is no wonder...
 
 ** Related
+:PROPERTIES:
+:ID:                     0c7bc2a2-3ad0-4164-8d7a-2717cbf6318d
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -34,6 +46,16 @@ This Shiraz is not my thing. Mostly because it's not integral. It has two states
   <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93.html">
+    <section class="h text-small text-lighter">Jaume Serra</section>
+    <section class="h text-bolder">Cava Organic Brut - NV</section>
   </a>
 
 </div>

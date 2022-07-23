@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     3cdbc2eb-5548-48fb-b741-033f6496f931
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     59f1880f-bdce-450c-80a0-0c335b2a95bc
+:END:
 
 *** 2021-07-19 - ☆ 9.00
+:PROPERTIES:
+:ID:                     95f46fd0-7b2c-4b3b-95eb-c325a923ba30
+:END:
 
 Tasted blind. Rigorous, text book Riesling. Closed bouquet that required some time to open up. Every little thing was hiding behind petroleum cloud - field flowers, chalk, soap and pineapple. There are almost no traces of fruits. Very long and interesting aftertaste with flavours of petroleum, apple seeds and flowers. Wonderful wine with huge potential (at least in my inexperienced opinion). It got the highest marks during tasting session.
 
 ** Related
+:PROPERTIES:
+:ID:                     067246d7-c12f-4dd5-a248-2fc6edd02636
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -39,6 +51,31 @@ Tasted blind. Rigorous, text book Riesling. Closed bouquet that required some ti
   <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+    <section class="h text-small text-lighter">Dr. Loosen</section>
+    <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
+    <section class="h text-small text-lighter">Ochota barrels</section>
+    <section class="h text-bolder">kids of the black hole - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
+    <section class="h text-small text-lighter">Schloss Johannisberger</section>
+    <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+    <section class="h text-small text-lighter">F. X. Pichler</section>
+    <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
   </a>
 
 </div>

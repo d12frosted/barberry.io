@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     abb8df00-e7ce-46d7-999d-ef943a90a124
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/26/122f9f-12ba-42ba-8d22-4f96de40fbd9/2021-07-14-08-45-53-83D900BD-3859-46A3-A629-FC5BCEEB7D6F-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     1d84ce25-c8c4-435c-ba9c-32373c7ce43d
+:END:
 
 *** 2021-07-13 - ☆ 8.00
+:PROPERTIES:
+:ID:                     acd2eec2-9033-40f2-88f0-4e28d0e546ab
+:END:
 
 Murky and pale pink-orange colour, which might confuse your mind into questioning rosé origins of this wine. Pickles, brine, kimchi, strawberry, honey, underbrush, ginger, red flowers... Just imagine this mix! The good part is that nothing really jumps out and lives well together in this bouquet. Interesting, fresh, mineral and picante wine with good wildness.
 
 ** Related
+:PROPERTIES:
+:ID:                     89e54be5-9e35-4769-ab07-9d12155be13f
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,26 @@ Murky and pale pink-orange colour, which might confuse your mind into questionin
   <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Staring at the Sun - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <section class="h text-small text-lighter">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <section class="h text-small text-lighter">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+    <section class="h text-small text-lighter">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
 </div>

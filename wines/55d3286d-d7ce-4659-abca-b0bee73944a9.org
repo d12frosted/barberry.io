@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     ff68a9bd-6840-4b56-8d8f-c46b70c3453a
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/55/d3286d-d7ce-4659-abca-b0bee73944a9/2021-06-15-08-32-24-53AB4DC4-9B36-4AB1-97DB-F7347BED1549-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     cd199340-70f5-47af-aada-1dce07029c9c
+:END:
 
 #+begin_quote
 Sous le Végétal is a collaborative wine project between Jason Ligas of Domine Ligas and Patrick Bouju of Domaine la Bohéme. This project finds them on the beautiful island of Samos in Greece, located one mile off the coast of Turkey.
@@ -26,8 +32,14 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     8858fe73-ebd8-4c78-849f-74256f4b9220
+:END:
 
 *** 2021-06-14 - ☆ 8.00
+:PROPERTIES:
+:ID:                     c06bcdea-7e98-42a6-bddb-f61e654ff74c
+:END:
 
 Tasted blind. Was thinking about Sicilian Carricante or something from
 Tenerife but with better acidity, turned out to be Muscat de Samos by
@@ -37,12 +49,20 @@ structured and well balanced, with long mineral finish. Sophisticated
 and delicious.
 
 ** Related
+:PROPERTIES:
+:ID:                     c3ac070b-ce2a-4f1f-911d-60101ce622bf
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
     <section class="h text-small text-lighter">Sous Le Végétal</section>
     <section class="h text-bolder">Palli et Genesia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
+    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h text-bolder">Syrah CRV Rosé Brut Nature - NV</section>
   </a>
 
 </div>

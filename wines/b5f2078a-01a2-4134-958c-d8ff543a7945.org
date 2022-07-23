@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     27b7c464-b683-4727-bb46-8afa2959543b
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b5/f2078a-01a2-4134-958c-d8ff543a7945/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ff7b46e5-7761-40fa-8f74-4e5b6e7f398f
+:END:
 
 *** 2021-12-20 - ☆ 8.00
+:PROPERTIES:
+:ID:                     82435096-1f08-491e-b63b-92959e6a4bc8
+:END:
 
 Great skin contact Greco di Tufo. As great as 2018. Neat and nuanced bouquet featuring tea, apricots, dried herbs and honey. But on the palate it's even more fascinating and complex. Fresh, with the right volume and multiple flavours: tea with bergamot, apricot flowers, herbs and notes of VA. Tasty!
 
 ** Related
+:PROPERTIES:
+:ID:                     d3e156e0-475b-4d52-b10d-d28b573e20fe
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,16 @@ Great skin contact Greco di Tufo. As great as 2018. Neat and nuanced bouquet fea
   <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Staring at the Sun - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
   </a>
 
 </div>

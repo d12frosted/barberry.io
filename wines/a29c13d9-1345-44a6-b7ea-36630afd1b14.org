@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     f7ea1ebb-5dfd-4691-80ba-378d835998d5
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/a2/9c13d9-1345-44a6-b7ea-36630afd1b14/2022-07-16-19-54-04-IMG-0797.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     31ec0cc8-0f0a-4e8d-8598-34012da19054
+:END:
 
 *** 2022-07-19 - ☆ 7.40
+:PROPERTIES:
+:ID:                     501f3242-6f5f-4867-876b-c236748f1bbb
+:END:
 
 My favourite type of 'cheap' Cava - blind purchase with a pleasant outcome. Typical, yet well made. Bonus point for citrus, crème brûlée, and brioche instead of "plastified" bread. Still expect green apple and pear. Round, and well balanced. Good value!
 
+** Related
+:PROPERTIES:
+:ID:                     32560d77-c275-470a-ad43-c1c8be803197
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

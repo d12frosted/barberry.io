@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     a88c79c9-e1f3-4666-a7c4-7cd540aa42da
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c.webp]]
 
@@ -12,6 +15,9 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     a746d2f1-9abd-4395-973e-9e0881d1d630
+:END:
 
 Wonderful winemaker from Champagne.
 
@@ -26,18 +32,30 @@ Guilde to Goodwine #38
 #+end_quote
 
 ** Ratings
+:PROPERTIES:
+:ID:                     ceeb4743-fba1-47d8-a2e1-0fe18007bb27
+:END:
 
 *** 2021-02-06 - ☆ 8.25
+:PROPERTIES:
+:ID:                     4c86cf21-ae6c-45ab-844c-6f7122d6e188
+:END:
 
 In love with Bedel wines. Rich, complex and so yummy. Oxidative notes, baked apples, Jerez and lemon tart. While being powerful, it is not heavy, and well balanced.
 
 *** 2021-08-17 - ☆ 8.50
+:PROPERTIES:
+:ID:                     34c00b0a-ada9-461d-915c-099805e9cac4
+:END:
 
 Lovely expressive and oxidative Bedel-style. Baked apples with honey, toast, pear, roasted nuts, Jerez, lemon tart, oil. Sophisticated, but friendly and approachable, rich and powerful. Delicious as hell.
 
 Tasted as part of Divych Vechir event.
 
 ** Related
+:PROPERTIES:
+:ID:                     4fbea099-3f89-4c71-b809-e5297e695af8
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +72,16 @@ Tasted as part of Divych Vechir event.
   <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
 </div>

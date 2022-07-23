@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     72cdba5d-2cd1-447d-a55f-71be7d15a229
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     65e53e2e-6f83-4da7-a10a-fe936799eb80
+:END:
 
 *** 2021-08-19 - ☆ 8.00
+:PROPERTIES:
+:ID:                     73531e78-ae11-45b0-affc-714c58033737
+:END:
 
 It was really interesting to taste 2018 while my memory of 2006 is still fresh. Yes, unlike 2006 it is not 100% Tempranillo, and has some Garnacha, but still. Wonderful and serious rosé, still young with huge potential. Marzipan, strawberry, butter, vanilla, bakery. Quite sophisticated, quite delicate, fresh and well balanced.
 
 ** Related
+:PROPERTIES:
+:ID:                     d00bb686-f941-47ae-bf5d-de711476e49d
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,21 @@ It was really interesting to taste 2018 while my memory of 2006 is still fresh. 
   <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Brutal Orange - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <section class="h text-small text-lighter">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
 </div>

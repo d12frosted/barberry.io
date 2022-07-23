@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     82fc805f-104f-49c8-aae1-53b4613db36c
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/77/312847-db16-4aa4-ad60-59576ffa9b6f/2022-06-25-13-26-02-468B6893-5C8E-4FD1-A68A-526A39CE9000-1-105-c.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     b26e86cc-55fb-41f8-ad3b-8acdf18a673d
+:END:
 
 *** 2022-06-24 - ☆ 7.20
+:PROPERTIES:
+:ID:                     5b6c5596-8211-4ca5-ad9b-947f7eabad3a
+:END:
 
 Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy and easy going thanks to 12.5 abv.
 
 ** Related
+:PROPERTIES:
+:ID:                     36c6ead9-d0a4-4440-b0fa-0a2852e004c1
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -29,6 +41,11 @@ Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy 
   <a class="flex-item flex-item-right" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">
+    <section class="h text-small text-lighter">Viña Pomal</section>
+    <section class="h text-bolder">Viura Malvasia - 2017</section>
   </a>
 
 </div>

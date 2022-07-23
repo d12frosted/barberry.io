@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     1feb5d8d-dd69-4700-a704-b7e9cd8e7d43
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/1f/40f56d-8790-4123-84ff-1478363ed829/2021-12-27-17-25-40-BAB30B5F-F441-4FF1-BB80-05210B39D4D1-1-102-o.webp]]
 
@@ -12,12 +15,21 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     3d45bdab-ebf8-40c3-b697-25b2b28be904
+:END:
 
 *** 2022-01-03 - ☆ 8.00
+:PROPERTIES:
+:ID:                     0109a35d-2b51-45b1-bd3f-ac932345c615
+:END:
 
 One of my favourite wineries that delivers even in the most broad appellation. Clean medium ruby colour. Aromatic and youthful bouquet with classical notes of cherry, wild strawberry, forest floor, peonies and fennel. Medium body, almost perfectly balanced, fresh, medium round tannin, very long and flavourful aftertaste - forest floor, raspberry, cherry and white pepper. Good wine that I would drink every day. And QPR here is good as well.
 
 ** Related
+:PROPERTIES:
+:ID:                     7fe4a268-37a9-4fcd-97f0-84b9c75354e3
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +66,16 @@ One of my favourite wineries that delivers even in the most broad appellation. C
   <a class="flex-item flex-item-left" href="/wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Oakbank Shiraz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9.html">
+    <section class="h text-small text-lighter">Chateau d'Escurac</section>
+    <section class="h text-bolder">Médoc Cru Bourgeois - 2011</section>
   </a>
 
 </div>

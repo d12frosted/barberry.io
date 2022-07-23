@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     14e38038-abff-42ea-89ad-bcc9f792fb8d
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/de/ba8d55-585b-464c-8b45-e2b97702d33f/2022-06-05-11-19-06-04DAD296-9B02-4899-ADDD-088BDDBF19FF-1-105-c.webp]]
 
@@ -12,8 +15,28 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     b6302c93-18ac-49b1-a412-e7b9e03dbfa7
+:END:
 
 *** 2022-06-05 - ☆ 7.25
+:PROPERTIES:
+:ID:                     0d5abcca-32aa-4bc3-9567-c66590779d1c
+:END:
 
 Simple table wine. Fruit-forward profile: sour cherry, mulberry and red flowers. Warm despite 12.5 ABV, fresh with pretty young tannin and long warm aftertaste with flavour of sour cherry and nutty finish. Extra score for that evolving and interesting touch and the end.
 
+** Related
+:PROPERTIES:
+:ID:                     4c61fd39-0f3c-46e2-b7dc-4866069deb02
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
+  </a>
+
+</div>
+#+end_export

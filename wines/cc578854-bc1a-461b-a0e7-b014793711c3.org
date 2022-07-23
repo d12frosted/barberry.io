@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8a4128a3-ce49-4fbf-87fd-cdeb6464517f
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp]]
 
@@ -12,14 +15,52 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     9d28a4a9-07df-4b7e-98ee-16fb8ca3c88c
+:END:
 
 Small German winery from Baden founded in 2006 by two wine college graduates Sven Enderle and Florian Moll. They were fortunate enough to get their hands on some pretty old plots of Pinot Noir sites (planted in 1953). They follow a philosophy of Low Intervention and Sustainable Vineyard Management.
 
 Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consider them the best Pinot Noir producers in Germany. I lack qualification and experience to support this claim, so I am going to challenge it through tasting. So far my experience is mixed and they didn't get more than 15/20. Too natural for me.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     59efd907-dbec-4fc8-a556-2a797c61707c
+:END:
 
 *** 2022-01-13 - ☆ 7.50
+:PROPERTIES:
+:ID:                     8a35804a-cc65-4149-b4ca-a2ed01b88b4b
+:END:
 
 Tasted blind and guessed producer. Since it is my first time tasting this particular wine, I didn't guess the name (at least guessed that it's not Liaison). Aromatic bouquet with typical low intervention style notes. Acetone, red flowers, salami and truffles. While it has beautiful and complex bouquet, it doesn't deliver in the taste. Lacks balance, finish is too bitter, tannin is too powerful, aftertaste is too short. Could be better with time though.
 
+** Related
+:PROPERTIES:
+:ID:                     5fdc0b78-63a3-47ba-bb40-536b7de2db9c
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <section class="h text-small text-lighter">Kelley Fox Wines</section>
+    <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+    <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
+    <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <section class="h text-small text-lighter">Roses De Jeanne</section>
+    <section class="h text-bolder">Presle Millesime BdN - 2016</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     fc4cdf29-37bf-4aff-b5b6-30d804a17f97
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/49/087ec0-ce5e-469a-a6c3-9b967f748e1f/2022-06-05-10-50-28-ADCD7911-5E14-43E5-A2DF-F786A0FF8344-1-105-c.webp]]
 
@@ -12,18 +15,32 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     f23eb32f-638e-436a-a2c8-1cd00719e6b2
+:END:
 
 *** 2022-06-06 - ☆ 7.25
+:PROPERTIES:
+:ID:                     5a27aaab-6573-4fe1-8ebf-db3f50c5b9c4
+:END:
 
 More than a year ago on a blind tasting party I've tried Chablis by [[barberry:/producers/4654ba3e-7c28-40fe-80b4-6639e8ff26e4][Raoul Clerget]]. And based on impression from [[barberry:/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4][Raoul Clerget Chablis 2018]], my expectation were not big. Crowd-pleasing Crémant, easy going and tasty. It's full of dark bread croutons, cream and stone fruits. Well balanced, though sweetness is too high for me. On the other hand, I like croutons made of dark bread.
 
 ** Related
+:PROPERTIES:
+:ID:                     f87708ad-6be9-4426-b6c6-6efa5f994b23
+:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
     <section class="h text-small text-lighter">Raoul Clerget</section>
     <section class="h text-bolder">Chablis - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
 </div>

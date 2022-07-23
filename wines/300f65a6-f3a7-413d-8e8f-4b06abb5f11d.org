@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     16ac6d7a-d6e7-47c7-8abc-7c1389d2b310
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c.webp]]
 
@@ -14,16 +17,28 @@
 23800 bottles produced, around 200 arrived to Ukraine.
 
 ** Producer
+:PROPERTIES:
+:ID:                     cafd724e-f72a-4a06-81c3-b2c2e25fe9e1
+:END:
 
 La Stoppa is a legendary historic estate that was founded in 19th century by a lawyer named Giancarlo Ageno. Initially focused on Bordeaux varieties, nowadays its vineyards are occupied by local Barbera, Bonarda and Malvasia. Elena Pantaleoni, current owner of the estate, works closely with famous enologist Giulio Armani (that has his own side project called Denavolo) to craft wines expressive of place and grape. They are advocates of minimal intervention along with usage of huge Slavonian oak botti and used French barriques. Also they are farming organically since 1990's and in 2008 they even acquired proper certification.
 
 ** Ratings
+:PROPERTIES:
+:ID:                     2f0151bd-3f54-480b-9a4e-89872b90ebae
+:END:
 
 *** 2022-07-20 - ☆ 8.50
+:PROPERTIES:
+:ID:                     3a5c9174-f416-4f8e-8874-a9435b3035fc
+:END:
 
 Still nervous after the long trip to Ukraine, but already incredible. Top orange wine, charged with potential. Honey, ginger, forgotten apple that oxidized, dried apricot, and dried medicinal herbs. Good acidity, powerful tannin. Definitely, a wine to buy by cases and drink occasionally to witness its development. By the way, this is my first Ageno of even vintage.
 
 ** Related
+:PROPERTIES:
+:ID:                     bd4106ee-a405-46a3-a77f-d1864bf94251
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -40,6 +55,16 @@ Still nervous after the long trip to Ukraine, but already incredible. Top orange
   <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     1061109a-c228-44aa-81f1-813ccc263c34
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/44/5a94bf-3819-4648-aded-091cbabaa8e9/2021-01-16-14-23-31-580BBD4A-1695-452B-AD77-FE8AE1940C9E-1-105-c.webp]]
 
@@ -12,20 +15,35 @@
 - Cellar :: N/A
 
 ** Producer
+:PROPERTIES:
+:ID:                     5b6563c6-cbbd-4a53-bcf0-066fbfe90494
+:END:
 
 Ernesto Cattel is one of the first people that started to restore popularity of Col Fondo, e.g. ancestrale method, which differs from Pet Nat by having second fermentation in the bottle and with no filtration. And to make it even more interesting, his Col Fondo is macerated!
 
 ** Ratings
+:PROPERTIES:
+:ID:                     9fe0cd27-c4c3-4901-9a3d-c2f548111fa5
+:END:
 
 *** 2021-01-15 - ☆ 7.00
+:PROPERTIES:
+:ID:                     472d1ba1-d708-4754-a122-fa5508207d82
+:END:
 
 Yet another great non-demanding bubbles bottle. Kombucha, lemon tart and merenga. Tasty, fresh with long zesty aftertaste.
 
 *** 2021-02-10 - ☆ 7.00
+:PROPERTIES:
+:ID:                     a9056b4d-6751-4ff6-80ea-cf1985bfe588
+:END:
 
 Great and friendly col fondo. QPR is questionable, but enjoyment is real. Lemon cake, with yeasty kombucha-like palate. Fresh and easy going. Because even during heavy snows heart is filled with summer thoughts.
 
 ** Related
+:PROPERTIES:
+:ID:                     7335ec50-128a-48c4-9f84-74b486ed6603
+:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -42,6 +60,16 @@ Great and friendly col fondo. QPR is questionable, but enjoyment is real. Lemon 
   <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">450 slm - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
 </div>

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:                     8b8c788f-65f5-43ad-af34-9e6859cbb030
+:END:
 #+attr_html: :class wine-main-image
 [[file:/images/2e/729911-2c1c-42fb-a45b-bd5413fffbe7/2021-06-01-07-39-13-26B5790F-F01B-43A5-821C-6C085F7C2AB0-1-105-c.webp]]
 
@@ -12,8 +15,43 @@
 - Cellar :: N/A
 
 ** Ratings
+:PROPERTIES:
+:ID:                     9680a64e-1766-4abe-8547-ebf35248026d
+:END:
 
 *** 2021-05-31 - ☆ 8.00
+:PROPERTIES:
+:ID:                     be22e8f9-763c-4e16-92fe-035a87783fa9
+:END:
 
 Wonderful rosé, complex and deep. Red currant, cranberry, peach, tea, toast with honey and crème brûlée (I still search for spelling) with oily hints. Delicious and well balanced.
 
+** Related
+:PROPERTIES:
+:ID:                     829b3886-debd-4277-8736-f95c8ebab0f0
+:END:
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">
+    <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Latricières-Chambertin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+    <section class="h text-small text-lighter">Domaine de la Romanée-Conti</section>
+    <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <section class="h text-small text-lighter">Jean Grivot</section>
+    <section class="h text-bolder">Clos de Vougeot - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+    <section class="h text-small text-lighter">Louis Jadot</section>
+    <section class="h text-bolder">Échezeaux - 2013</section>
+  </a>
+
+</div>
+#+end_export
