@@ -640,9 +640,28 @@ Returns list of notes."
        (vulpea-db-query-by-ids it)))
 
 (defun brb-related-wines (note)
-  "List wines related to wine NOTE.
+  "List wines related to wine NOTE."
+  (let ((-compare-fn (lambda (a b) (string-equal (vulpea-note-id a) (vulpea-note-id b)))))
+    (-distinct (-concat (brb-related-wines-by-producer note)
+                        (brb-related-wines-by-date note)))))
 
-Return list of notes."
+(defun brb-related-wines-by-date (note)
+  "List wines related to wine NOTE by date."
+  (--> note
+       (vulpea-note-meta-get-list it "ratings" 'note)
+       (--map (vulpea-note-meta-get it "date") it)
+       (--mapcat (vino-db-query
+                  [:select [wine]
+                   :from ratings
+                   :where (= date $s1)]
+                  it)
+                 it)
+       (apply #'-concat it)
+       (--remove (string-equal it (vulpea-note-id note)) it)
+       (vulpea-db-query-by-ids it)))
+
+(defun brb-related-wines-by-producer (note)
+  "List wines related to wine NOTE by producer."
   (--> note
        (vulpea-note-meta-get it "producer" 'note)
        (brb-wines-by-producer it)
