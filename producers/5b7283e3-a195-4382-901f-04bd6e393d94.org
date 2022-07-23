@@ -1,16 +1,32 @@
 :PROPERTIES:
-:ID:                     8b48fe12-3cf1-45f9-a9ea-c444f28b526b
+:ID:                     f2a00f1e-13f7-4207-a352-4a1fb3c5b994
 :END:
 Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct Jgia. All wines are hand made. Uses qvevri, of course. Annual production is less than 5000 bottles.
 
 ** Wines
 :PROPERTIES:
-:ID:                     9c8546dc-a18b-4965-9fdc-93d8077886fd
+:ID:                     9eb756ff-9712-4170-a7a0-ffcea57d3a9d
 :END:
 
-#+attr_html: :class wines-table
-|                                                           name | vintage |              grapes |   region | rate |
-|----------------------------------------------------------------+---------+---------------------+----------+------|
-| [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Alvani Rkatsiteli]] |    2018 |          Rkatsiteli | Kakhetia |    - |
-|              [[barberry:/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614][Jgia]] |    2018 |                Jgia | Kakhetia | 8.50 |
-|           [[barberry:/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b][Mtsvane]] |    2018 | Mtsvane, Rkatsiteli | Kakhetia | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
+    <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614.html">
+    <img class="flex-bottle" src="/images/5d/c6ba4f-1e46-4feb-8b6e-4ab6ae31a614/2021-11-14-12-42-00-A92D013B-A1FB-4126-9235-AC856848BEDE-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Jgia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+    <img class="flex-bottle" src="/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Mtsvane - 2018</section>
+  </a>
+
+</div>
+#+end_export

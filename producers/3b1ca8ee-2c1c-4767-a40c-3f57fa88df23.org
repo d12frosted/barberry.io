@@ -1,15 +1,31 @@
 :PROPERTIES:
-:ID:                     1d3ecd0d-4e5b-4ab9-ad0d-59df7583c8e8
+:ID:                     af06a78a-8378-4843-a41f-c0731eb0f715
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     a0bb8969-1192-49ff-aa12-4ce66e36fc24
+:ID:                     d4a7dfa2-de54-468a-b47a-8a4c8a2286e7
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |      grapes |     region | rate |
-|---------------------------------------------------------+---------+-------------+------------+------|
-|    [[barberry:/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c][Lluerna]] |    2021 |    Xarel-lo | Penedès DO |    - |
-|   [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Pregadéu]] |    2020 |    Xarel-lo |       Cava |    - |
-| [[barberry:/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb][Saltamartí]] |    2020 | Tempranillo | Penedès DO |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Lluerna - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-07-23-10-49-27-27DE2E96-DA05-4B12-AB16-06FB3A11CB03-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">
+    <img class="flex-bottle" src="/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Saltamartí - 2020</section>
+  </a>
+
+</div>
+#+end_export

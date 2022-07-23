@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     d82e187d-ef9f-4a68-a62f-26169db636d5
+:ID:                     9e4aeeb2-d7b4-41c0-ae8e-84abecc7c5f6
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     222200e0-c0a0-4bfe-a8c0-8cf913a958e4
+:ID:                     822441ea-5d4a-4be9-98c5-2190362a1f0f
 :END:
 
-#+attr_html: :class wines-table
-|                                                            name | vintage |     grapes |               region | rate |
-|-----------------------------------------------------------------+---------+------------+----------------------+------|
-| [[barberry:/wines/1158f9e0-3925-40bc-976a-91337cfd8031][Chardonnay Réserve]] |    2019 | Chardonnay | IGP Vin de Pays d'Oc | 5.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1158f9e0-3925-40bc-976a-91337cfd8031.html">
+    <img class="flex-bottle" src="/images/11/58f9e0-3925-40bc-976a-91337cfd8031/2022-05-21-10-32-01-56D94B67-9E27-4CB2-96E9-6D8592E910FF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h text-bolder">Chardonnay Réserve - 2019</section>
+  </a>
+
+</div>
+#+end_export

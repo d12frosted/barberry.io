@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     5812f7eb-c7d8-4ee6-bbea-eab49b2db6bd
+:ID:                     564facca-a0e2-4d35-bbfc-30c703aa86ec
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fae5d4bb-9b0c-4593-b10a-9aa1a3ed274b
+:ID:                     2b889521-6d25-4ad3-8f38-8b63472c840b
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |   grapes |             region | rate |
-|-------------------------------------------------------------+---------+----------+--------------------+------|
-| [[barberry:/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238][Rozas 1-er Cru]] |    2018 | Grenache | Vinos de Madrid DO | 8.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">
+    <img class="flex-bottle" src="/images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Rozas 1-er Cru - 2018</section>
+  </a>
+
+</div>
+#+end_export

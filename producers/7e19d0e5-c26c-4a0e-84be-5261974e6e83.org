@@ -1,13 +1,18 @@
 :PROPERTIES:
-:ID:                     afd896ad-4b1e-4fca-be42-03a2b43fcf0b
+:ID:                     d91fd3de-1871-48a9-96cf-23f78d8f8e89
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     dfd1cfc1-3786-4526-b139-d747e1624b62
+:ID:                     6e65445a-3e75-4c8c-8add-d35fd8744086
 :END:
 
-#+attr_html: :class wines-table
-|                                                                     name | vintage |     grapes |        region | rate |
-|--------------------------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/ea15e397-8149-405d-992d-63878cb0cebf][Les Grands Blancs Grand Cru]] |      NV | Chardonnay | Champagne AOC | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ea15e397-8149-405d-992d-63878cb0cebf.html">
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Les Grands Blancs Grand Cru - NV</section>
+  </a>
+
+</div>
+#+end_export

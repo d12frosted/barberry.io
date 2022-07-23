@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     ae6a5b9e-6d7f-4f62-94a0-c535428b3614
+:ID:                     c329954c-db98-4d07-ba65-c31fda52b08b
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     8da422a3-48dd-4692-81b0-41386d7d00ff
+:ID:                     a6b66809-acc0-46f8-9a1f-3492a6005ece
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |                                   grapes |       region | rate |
-|--------------------------------------------------------------+---------+------------------------------------------+--------------+------|
-| [[barberry:/wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023][Chianti Riserva]] |    2016 | Sangiovese, Canaiolo, Cabernet Sauvignon | Chianti DOCG | 6.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023.html">
+    <img class="flex-bottle" src="/images/36/9b6213-1ce1-44a8-bd85-10ab7bdf2023/2022-05-23-20-17-01-IMG-0219.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Chianti Riserva - 2016</section>
+  </a>
+
+</div>
+#+end_export

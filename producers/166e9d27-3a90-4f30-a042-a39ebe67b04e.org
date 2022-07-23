@@ -1,11 +1,27 @@
 ** Wines
 :PROPERTIES:
-:ID:                     8285a593-d114-4912-8eaf-37e32ccda34c
+:ID:                     a1a704ad-13c9-413c-af2f-427cfcd5ce89
 :END:
 
-#+attr_html: :class wines-table
-|                                                               name | vintage |          grapes |         region | rate |
-|--------------------------------------------------------------------+---------+-----------------+----------------+------|
-|        [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Oakbank Shiraz]] |    2019 |           Syrah | Adelaide Hills | 8.00 |
-| [[barberry:/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330][Piccadilly Chardonnay]] |    2019 |      Chardonnay | Adelaide Hills | 8.00 |
-|      [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Summertown blanc]] |    2019 | Sauvignon Blanc | Adelaide Hills |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">
+    <img class="flex-bottle" src="/images/61/e954ff-3637-41a3-a893-8ab869c352ca/2021-12-17-15-38-12-6692CAE4-0D9C-455D-8053-5ED830A49256-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Oakbank Shiraz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+    <img class="flex-bottle" src="/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+</div>
+#+end_export

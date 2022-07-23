@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     8327fc86-a874-44cf-bac5-a2056120e876
+:ID:                     1741b391-57ed-4a37-b02d-f30212a887fa
 :END:
 Mass market producer focused on straightforward and approachable wines for 'modern consumers'. They have wineries all over the world. Recognizable labels that can be turned into entertainment when scanned with their application that augments reality.
 
 ** Wines
 :PROPERTIES:
-:ID:                     0fb2af30-d421-4e5f-ae44-14788aaead9f
+:ID:                     47d99360-01c9-4f49-a51d-00062862a257
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |       grapes |            region | rate |
-|-----------------------------------------------------------+---------+--------------+-------------------+------|
-| [[barberry:/wines/23988fb0-28dd-4efa-82fa-4680a2710517][Pinot Grigio]] |    2018 | Pinot Grigio | Delle Venezie DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/23988fb0-28dd-4efa-82fa-4680a2710517.html">
+    <img class="flex-bottle" src="/images/23/988fb0-28dd-4efa-82fa-4680a2710517/2022-07-03-09-33-07-0B672411-6F90-4D61-B9E4-760390AC131E.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Pinot Grigio - 2018</section>
+  </a>
+
+</div>
+#+end_export

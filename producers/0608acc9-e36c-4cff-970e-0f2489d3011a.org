@@ -1,16 +1,32 @@
 :PROPERTIES:
-:ID:                     c005f9ee-61ab-499a-86ce-9e2ef1c58500
+:ID:                     ce31a506-5ff6-421a-8227-125c21e3efcf
 :END:
 Fedellos trio consisting of Jesús Olivares, Curro Bareño and ???. Related project - [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]].
 
 ** Wines
 :PROPERTIES:
-:ID:                     ad2c7ae7-0567-4f44-a58f-f0c094b8d098
+:ID:                     7f122cd3-7adf-459d-af63-1b6ed68c04c5
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |                                                      grapes |       region | rate |
-|-------------------------------------------------------------+---------+-------------------------------------------------------------+--------------+------|
-|   [[barberry:/wines/8832401d-3910-4072-a585-e7e4ad97324a][Conasbrancas]] |    2018 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa | 7.50 |
-|   [[barberry:/wines/19ea08b3-6109-4771-a003-46a3be90c659][Conasbrancas]] |    2019 | Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés | Vino de Mesa | 7.75 |
-| [[barberry:/wines/5599b29d-ec02-4869-8d18-1e2eff71636e][Lomba dos Ares]] |    2017 | Mencía, Mouratón, Alicante Henri Bouschet, Caiño, Trousseau | Vino de Mesa | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
+    <img class="flex-bottle" src="/images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Conasbrancas - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Conasbrancas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+    <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Lomba dos Ares - 2017</section>
+  </a>
+
+</div>
+#+end_export

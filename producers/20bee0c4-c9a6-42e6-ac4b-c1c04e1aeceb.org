@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     b1340ea3-46e4-43f7-b929-b78d05e0b1df
+:ID:                     0981f492-43b2-4935-a6aa-d670e92b68d6
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     3249d0d3-d969-4503-ae0b-06bd8cdb2f41
+:ID:                     42232e84-e73c-4138-8454-f854df99ad8c
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |     grapes |     region | rate |
-|-----------------------------------------------------------+---------+------------+------------+------|
-| [[barberry:/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7][Pinot Arbois]] |    2018 | Pinot Noir | Arbois AOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
+    <img class="flex-bottle" src="/images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Pinot Arbois - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     9058722d-f8ab-48bd-a374-466b3da346c1
+:ID:                     d6c91ee5-b949-4be2-a5c3-4cdbea93cfae
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     5157309a-89df-420e-960d-273e97abb5c8
+:ID:                     6b837629-034c-4099-95f1-6daf29e83fd4
 :END:
 
-#+attr_html: :class wines-table
-|                                                              name | vintage |     grapes |                   region |  rate |
-|-------------------------------------------------------------------+---------+------------+--------------------------+-------|
-| [[barberry:/wines/27414711-c577-42e5-99ad-ad4de875534f][Romanée-Saint-Vivant]] |    2017 | Pinot Noir | Romanée-Saint-Vivant AOC | 10.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+    <img class="flex-bottle" src="/images/27/414711-c577-42e5-99ad-ad4de875534f/2021-06-01-07-40-18-FD9BBD6E-516F-486B-8DAA-35F22599D388-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 10.00</section>
+    <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
+  </a>
+
+</div>
+#+end_export

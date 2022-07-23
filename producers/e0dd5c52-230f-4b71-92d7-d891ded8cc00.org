@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     fceb9c79-88cf-416a-ba7f-dd8350e627cf
+:ID:                     1a568bee-a062-4fdf-9fda-874331e14cf8
 :END:
 A winery with story stretching back to 1816. Initially owned by Galantini family, now run by Traversa family. Cascina Bertolotto is located at an altitude of 400 meters above sea level and bordering the Langhe region, Piedmont.
 
 ** Wines
 :PROPERTIES:
-:ID:                     22cbdbdd-ffa4-4121-9117-42ab442f8d63
+:ID:                     c488f364-4d1e-410e-986f-d46d85b0a4e6
 :END:
 
-#+attr_html: :class wines-table
-|                                                                       name | vintage |                 grapes |    region | rate |
-|----------------------------------------------------------------------------+---------+------------------------+-----------+------|
-| [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Spumante Brut Metodo Classico]] |      NV | Pinot Noir, Chardonnay | Vino (IT) | 8.10 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/baf18c42-2e67-4108-967a-d540bc105779.html">
+    <img class="flex-bottle" src="/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp"></img>
+    <section class="h text-small text-lighter">★ 8.10</section>
+    <section class="h text-bolder">Spumante Brut Metodo Classico - NV</section>
+  </a>
+
+</div>
+#+end_export

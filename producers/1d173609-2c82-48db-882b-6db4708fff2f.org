@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     453e7be4-fb77-488a-a0e3-36dce1c6dff0
+:ID:                     327be848-0f0e-4ea3-abfd-397a3d392530
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     49a8c300-6a50-4494-af81-1b3511cb0198
+:ID:                     820d4d3d-d90e-4fc6-84b1-9ac868fcf02e
 :END:
 
-#+attr_html: :class wines-table
-|                                                                           name | vintage |     grapes |            region | rate |
-|--------------------------------------------------------------------------------+---------+------------+-------------------+------|
-| [[barberry:/wines/2bda63b5-ffd3-4361-a793-f3122825adbb][Vosne-Romanee 1er cru Les Suchots]] |    2011 | Pinot Noir | Vosne-Romanée AOC | 9.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">
+    <img class="flex-bottle" src="/images/2b/da63b5-ffd3-4361-a793-f3122825adbb/2021-08-27-16-40-06-C0C8E884-98F3-4673-A462-63D9EF1A2728-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">Vosne-Romanee 1er cru Les Suchots - 2011</section>
+  </a>
+
+</div>
+#+end_export

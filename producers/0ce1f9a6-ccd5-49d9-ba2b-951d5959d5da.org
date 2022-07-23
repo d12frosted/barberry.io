@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     a00efb40-08cc-4296-b6cc-931e9a2ffe5f
+:ID:                     da481752-ac59-4614-8bf9-c08481b9b6d0
 :END:
 Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
 
@@ -14,11 +14,22 @@ Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 d
 
 ** Wines
 :PROPERTIES:
-:ID:                     883501c4-a383-4bd5-a666-1a4533b1bdbd
+:ID:                     d7ca0e36-684c-46af-9958-8d81da037202
 :END:
 
-#+attr_html: :class wines-table
-|                                                                      name | vintage |                   grapes |      region | rate |
-|---------------------------------------------------------------------------+---------+--------------------------+-------------+------|
-| [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tenuta Regaleali Nozze d'Oro]] |    2018 | Sauvignon Blanc, Inzolia | Sicilia DOC | 7.75 |
-|      [[barberry:/wines/dd1de12a-14c9-4d62-b429-e71259293d77][Tenuta Tascante Buonora]] |    2019 |               Carricante |    Etna DOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+    <img class="flex-bottle" src="/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
+  </a>
+
+</div>
+#+end_export

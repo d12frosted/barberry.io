@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     00a9c896-6bc2-4b9b-a607-abb41e7d315b
+:ID:                     b6939bec-2114-4e33-948c-afaa5a12b407
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     559765bd-6432-464c-95ec-0cd5f8224635
+:ID:                     2407c283-7aa9-40f8-804b-756a5416b041
 :END:
 
-#+attr_html: :class wines-table
-|                                                name | vintage |                     grapes |    region | rate |
-|-----------------------------------------------------+---------+----------------------------+-----------+------|
-| [[barberry:/wines/e080c035-c2fa-412a-bce9-007a9ba98063][Branco]] |    2017 | Viosinho, Arinto, Verdelho | Lisboa VR | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">
+    <img class="flex-bottle" src="/images/e0/80c035-c2fa-412a-bce9-007a9ba98063/2022-07-18-20-52-14-24597A98-119C-4834-8705-797EEF834D09-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Branco - 2017</section>
+  </a>
+
+</div>
+#+end_export

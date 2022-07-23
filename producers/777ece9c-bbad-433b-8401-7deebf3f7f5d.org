@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     e0767245-7ffd-4a8b-83c9-68ace1fd8f49
+:ID:                     3ea66fe8-39e6-4226-b710-1bc1098d4dca
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     051fc06a-68be-47bf-b92c-07b6a18afc00
+:ID:                     3600b3a2-b5a1-494d-ab62-17fac442732f
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |   grapes |            region | rate |
-|---------------------------------------------------------+---------+----------+-------------------+------|
-| [[barberry:/wines/762727eb-e3c6-443d-8c0e-915bba9854f3][Tres Picos]] |    2019 | Grenache | Campo de Borja DO | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Tres Picos - 2019</section>
+  </a>
+
+</div>
+#+end_export

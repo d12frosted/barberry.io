@@ -1,9 +1,15 @@
 ** Wines
 :PROPERTIES:
-:ID:                     f97fc252-f6e8-4ac8-a0d7-76476acae606
+:ID:                     a38ac5a5-4ca6-44d6-8d2f-ae67e6004597
 :END:
 
-#+attr_html: :class wines-table
-|                                               name | vintage |    grapes |        region | rate |
-|----------------------------------------------------+---------+-----------+---------------+------|
-| [[barberry:/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a][Spira]] |    2019 | Xinomavro | PGE Macedonia |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">
+    <img class="flex-bottle" src="/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Spira - 2019</section>
+  </a>
+
+</div>
+#+end_export

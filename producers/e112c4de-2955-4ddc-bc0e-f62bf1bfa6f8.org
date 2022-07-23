@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     2db0e456-da7a-418e-a90c-fff845b81432
+:ID:                     dabfe988-4156-4ead-ac0f-6016541a6fdd
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     9171f145-18aa-4d94-bb38-6a119e27b8b4
+:ID:                     240ef1a7-62fc-48b2-be55-05436512ebc7
 :END:
 
-#+attr_html: :class wines-table
-|                                                                       name | vintage |    grapes |     region | rate |
-|----------------------------------------------------------------------------+---------+-----------+------------+------|
-| [[barberry:/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1][Arbois Vin Jaune Les Bruyeres]] |    2012 |  Savagnin | Arbois AOC | 8.50 |
-|           [[barberry:/wines/f201f266-399a-4818-be01-3987e9280388][Singulier Trousseau]] |    2017 | Trousseau | Arbois AOC | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+    <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Arbois Vin Jaune Les Bruyeres - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+    <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Singulier Trousseau - 2017</section>
+  </a>
+
+</div>
+#+end_export

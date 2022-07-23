@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     5c353c2d-c417-4106-a82a-5438ca543a39
+:ID:                     738a5fe2-0353-478e-921f-2e6c7a0f9201
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     47b5f9ed-c9dc-4f82-9f2c-7c4edc6a0ecb
+:ID:                     a3f54f7d-5017-4268-b944-e58641a61691
 :END:
 
-#+attr_html: :class wines-table
-|                                                 name | vintage |                                 grapes |     region | rate |
-|------------------------------------------------------+---------+----------------------------------------+------------+------|
-| [[barberry:/wines/deba8d55-585b-464c-8b45-e2b97702d33f][Foresco]] |    2019 | Sangiovese, Merlot, Cabernet Sauvignon | IGP Umbria | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/deba8d55-585b-464c-8b45-e2b97702d33f.html">
+    <img class="flex-bottle" src="/images/de/ba8d55-585b-464c-8b45-e2b97702d33f/2022-06-05-11-19-06-04DAD296-9B02-4899-ADDD-088BDDBF19FF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Foresco - 2019</section>
+  </a>
+
+</div>
+#+end_export

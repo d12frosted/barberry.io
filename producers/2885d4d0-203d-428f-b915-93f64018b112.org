@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     25f7c031-abe3-4aaa-b43a-5205bfda08c0
+:ID:                     e61ff8f0-6ff5-4c41-959e-28622fcb7fcd
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     96f329f3-6cd1-4b98-84fe-b34d792e469c
+:ID:                     b337ed2d-3c5b-4467-93f2-57873e37a278
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |                                grapes |        region | rate |
-|-----------------------------------------------------------+---------+---------------------------------------+---------------+------|
-| [[barberry:/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0][Brut Reserve]] |      NV | Pinot Meunier, Chardonnay, Pinot Noir | Champagne AOC | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+    <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Brut Reserve - NV</section>
+  </a>
+
+</div>
+#+end_export

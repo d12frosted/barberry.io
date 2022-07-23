@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     a104d3c5-05c1-41fe-8427-90acda6e85bc
+:ID:                     84b200e2-d8d0-41aa-b775-bc4f4151d7e3
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     5540bd26-8b63-4c95-a6cb-3f70b8ff7dc0
+:ID:                     c17bea01-b112-45c9-b144-0c1137768189
 :END:
 
-#+attr_html: :class wines-table
-|                                                                              name | vintage |     grapes |                region | rate |
-|-----------------------------------------------------------------------------------+---------+------------+-----------------------+------|
-| [[barberry:/wines/37a1355b-9237-4529-8e7b-a158db929006][Gevrey-Chambertin 1er Cru Craipillot]] |    2015 | Pinot Noir | Gevrey-Chambertin AOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/37a1355b-9237-4529-8e7b-a158db929006.html">
+    <img class="flex-bottle" src="/images/37/a1355b-9237-4529-8e7b-a158db929006/2021-09-01-22-20-05-A2739E41-92FB-4805-B08A-76FDB689B7B8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Gevrey-Chambertin 1er Cru Craipillot - 2015</section>
+  </a>
+
+</div>
+#+end_export

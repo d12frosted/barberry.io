@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     46b949bb-7924-43f3-a9d7-324e096f0265
+:ID:                     b781ef1a-0084-45a1-9a3f-fafbcae10670
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     2a518621-daf0-4c12-8f0e-497c770936b8
+:ID:                     332ee2a4-cee4-46d7-99e7-162465ada0ac
 :END:
 
-#+attr_html: :class wines-table
-|                                                name | vintage |                grapes | region | rate |
-|-----------------------------------------------------+---------+-----------------------+--------+------|
-| [[barberry:/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8][Odisea]] |    2019 | Chardonnay, Parellada |   Cava | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Odisea - 2019</section>
+  </a>
+
+</div>
+#+end_export

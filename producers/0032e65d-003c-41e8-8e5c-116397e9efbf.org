@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     63d08b1a-d8ed-4c5c-949b-2725d040794d
+:ID:                     0549f540-9ef9-4006-90e8-9b4917294a80
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     df9e0c4e-dfc7-49b2-ae49-7fea4c266700
+:ID:                     9b5e85b0-9cd1-436d-9646-728ef3d1ef47
 :END:
 
-#+attr_html: :class wines-table
-|                                                                  name | vintage |                 grapes |        region | rate |
-|-----------------------------------------------------------------------+---------+------------------------+---------------+------|
-| [[barberry:/wines/108c69b0-4506-4e05-9da4-c73ccd053992][Grand Reserve Extra Brut]] |      NV | Chardonnay, Pinot Noir | Odessa Region | 5.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <img class="flex-bottle" src="/images/10/8c69b0-4506-4e05-9da4-c73ccd053992/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

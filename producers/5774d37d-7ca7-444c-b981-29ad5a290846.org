@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     23ff681d-500a-45c4-98a7-f92210a36ddd
+:ID:                     00962367-c1c0-45b7-bc31-4d8cc1dd8f33
 :END:
 Small German winery from Baden founded in 2006 by two wine college graduates Sven Enderle and Florian Moll. They were fortunate enough to get their hands on some pretty old plots of Pinot Noir sites (planted in 1953). They follow a philosophy of Low Intervention and Sustainable Vineyard Management.
 
@@ -7,10 +7,16 @@ Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consi
 
 ** Wines
 :PROPERTIES:
-:ID:                     98b8cc26-2925-421b-854d-678ad3faba9e
+:ID:                     a2eac3bf-5cc4-40ee-b78d-e6fb3d0dc7db
 :END:
 
-#+attr_html: :class wines-table
-|                                                       name | vintage |     grapes |             region | rate |
-|------------------------------------------------------------+---------+------------+--------------------+------|
-| [[barberry:/wines/cc578854-bc1a-461b-a0e7-b014793711c3][Buntsandstein]] |    2018 | Pinot Noir | Landwein Oberrhein | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+    <img class="flex-bottle" src="/images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Buntsandstein - 2018</section>
+  </a>
+
+</div>
+#+end_export

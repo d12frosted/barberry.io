@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     b8bd0eb5-c24d-41d8-9e84-267fcf2226ea
+:ID:                     e7b83951-19d7-480e-83ef-30fa6d899120
 :END:
 Many consider Joško Gravner to be the father of macerated white wine trend. Yet it's interesting that before his first amber wine, he was a rising star in the modern and technological winemaking scene. He confessed that he would purchase any new equipment he could find. But his life turned upside down after a trip to California back in 1987. California was (and maybe still) a destination for many winemakers as this region represents triumph and possibilities of new. No wonder, as Californian wines won Judgement of Paris in 1976. This event dramatically changed the wine world. Joško Gravner was taking the same path as Californian winemakers - oak, science, additives and all that cool stuff. But after tasting 1000 wines in 10 days, he was astonished by faceless and tasteless results. And he realised - this is the road to a dead end. Now he knew how not to produce wines.
 
@@ -15,11 +15,22 @@ And today, wines produced by Joško Gravner are treated as the highest manifesta
 
 ** Wines
 :PROPERTIES:
-:ID:                     9a2c8cba-79af-4b97-b2aa-4c395e08365e
+:ID:                     173fce08-3c9c-4424-86d4-52226c47e0ef
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |         grapes |             region | rate |
-|-------------------------------------------------------------+---------+----------------+--------------------+------|
-|        [[barberry:/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76][Ribolla]] |    2010 | Ribolla Gialla | IGP Venezia Giulia | 8.50 |
-| [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Ribolla Anfora]] |    2004 | Ribolla Gialla | IGP Venezia Giulia | 9.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">
+    <img class="flex-bottle" src="/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Ribolla - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">Ribolla Anfora - 2004</section>
+  </a>
+
+</div>
+#+end_export

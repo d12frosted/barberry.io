@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     a7276bc9-fd08-4652-81a1-b68e5c39c593
+:ID:                     652cd04a-e971-4665-b6bb-a064b282271b
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     77154bb4-6233-4420-810c-2e8c02992345
+:ID:                     30c8ed8f-07d9-4eeb-a00f-727f1b16252e
 :END:
 
-#+attr_html: :class wines-table
-|                                                                    name | vintage |                                           grapes |       region | rate |
-|-------------------------------------------------------------------------+---------+--------------------------------------------------+--------------+------|
-| [[barberry:/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c][Blanc de Blancs Extra Brut]] |    2018 | Xarel-lo, Macabeo, Parellada, Malvasía de Sitges | Vino de Mesa | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
+    <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     ca5155cf-e5d0-4236-9a62-85296245e3d8
+:ID:                     23b5e8a0-a4c4-44e1-8cc9-a7c7e0b4728d
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6b171910-9556-4260-a9a8-a5d8e68a5878
+:ID:                     f8c11ab3-b9c6-4741-a2eb-c110fac8b879
 :END:
 
-#+attr_html: :class wines-table
-|                                                                   name | vintage |                        grapes |                   region | rate |
-|------------------------------------------------------------------------+---------+-------------------------------+--------------------------+------|
-|                   [[barberry:/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4][Chablis]] |    2018 |                    Chardonnay |              Chablis AOC | 7.00 |
-| [[barberry:/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f][Crémant de Bourgogne Brut]] |      NV | Chardonnay, Gamay, Pinot Noir | Crémant de Bourgogne AOC | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
+    <img class="flex-bottle" src="/images/8c/a732d2-d35b-4b9a-9b01-e68fc2ebe3d4/2021-03-03-20-24-22-564DA641-3048-4F67-81B9-3C96CC9AC232-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Chablis - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">
+    <img class="flex-bottle" src="/images/49/087ec0-ce5e-469a-a6c3-9b967f748e1f/2022-06-05-10-50-28-ADCD7911-5E14-43E5-A2DF-F786A0FF8344-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Crémant de Bourgogne Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

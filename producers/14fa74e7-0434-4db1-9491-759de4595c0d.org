@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     d1397159-dda2-4f9c-a8ce-1a9feef023e1
+:ID:                     fe999889-4374-4654-bcbe-210ba447470a
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     e4adc5b8-b89e-416d-b387-21937f3545c2
+:ID:                     6a574421-c77f-4a2e-afa9-65da5e6e7f17
 :END:
 
-#+attr_html: :class wines-table
-|                                                     name | vintage |            grapes |   region | rate |
-|----------------------------------------------------------+---------+-------------------+----------+------|
-| [[barberry:/wines/acc24d74-9556-479d-a9bd-bada0cccfe7e][Allegracore]] |    2016 | Nerello Mascalese | Etna DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/acc24d74-9556-479d-a9bd-bada0cccfe7e.html">
+    <img class="flex-bottle" src="/images/ac/c24d74-9556-479d-a9bd-bada0cccfe7e/2022-07-02-08-55-26-CCA3B8C3-C143-4A93-8510-9EDF9AB15C67-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Allegracore - 2016</section>
+  </a>
+
+</div>
+#+end_export

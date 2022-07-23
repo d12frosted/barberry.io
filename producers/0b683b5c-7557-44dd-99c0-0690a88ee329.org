@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     754ff222-3b22-405f-91c1-6b41748e6a21
+:ID:                     cdc457b4-f8ef-4129-ae94-e2946459785a
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     e62ec1d7-1b85-4958-9a1d-1dc471469f96
+:ID:                     b909cac9-13b9-4dfd-a006-6ee1138a6afb
 :END:
 
-#+attr_html: :class wines-table
-|                                                                          name | vintage |     grapes |          region | rate |
-|-------------------------------------------------------------------------------+---------+------------+-----------------+------|
-| [[barberry:/wines/955b917f-feda-45dd-9ffc-2548a8e4a5d8][Saint-Aubin 1er Cru Clos du Meix]] |    2018 | Chardonnay | Saint-Aubin AOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/955b917f-feda-45dd-9ffc-2548a8e4a5d8.html">
+    <img class="flex-bottle" src="/images/95/5b917f-feda-45dd-9ffc-2548a8e4a5d8/2021-08-18-10-32-37-57EC7679-E717-459B-B78F-B02C0CCE7620-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Saint-Aubin 1er Cru Clos du Meix - 2018</section>
+  </a>
+
+</div>
+#+end_export

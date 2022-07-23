@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     7afece35-7a9a-4bae-bcc8-010126d52f7b
+:ID:                     907def68-89cd-4300-830e-4368dc5dc053
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     d72b138d-a9b8-45fc-88f1-7904d701681d
+:ID:                     49f6d0d9-be12-4fb8-ba42-f73425ad9355
 :END:
 
-#+attr_html: :class wines-table
-|                                                                     name | vintage |                      grapes |                region | rate |
-|--------------------------------------------------------------------------+---------+-----------------------------+-----------------------+------|
-| [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Refosco dal Peduncolo Rosso]] |    2019 | Refosco dal Peduncolo Rosso | Isonzo del Friuli DOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51.html">
+    <img class="flex-bottle" src="/images/b2/4c31f5-afdf-4ff6-9adc-d10716f59f51/2022-06-05-11-22-28-BD775932-C848-4DF5-A02D-8D40DDE17320-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Refosco dal Peduncolo Rosso - 2019</section>
+  </a>
+
+</div>
+#+end_export

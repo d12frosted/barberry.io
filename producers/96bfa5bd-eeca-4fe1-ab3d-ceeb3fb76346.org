@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     66e6a336-ffcc-42a9-af70-9140c9e3595d
+:ID:                     7b5c9807-c670-423c-8c8d-6164d28a7e61
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     b469a5e6-48fd-417a-9f0e-326fa59c78ec
+:ID:                     279c5609-6386-4c5b-84ac-d5a4bd8dca51
 :END:
 
-#+attr_html: :class wines-table
-|                                                              name | vintage |     grapes |        region | rate |
-|-------------------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7][Presle Millesime BdN]] |    2016 | Pinot Noir | Champagne AOC | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <img class="flex-bottle" src="/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Presle Millesime BdN - 2016</section>
+  </a>
+
+</div>
+#+end_export

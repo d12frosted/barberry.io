@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     0d2f2732-e581-48de-8cfb-dcd5c9b04cfe
+:ID:                     ea82505c-86ca-43c8-949f-94baf6b3d8f1
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     dab2141b-eb92-403b-ba36-674e46656e16
+:ID:                     94ff4949-54b3-4c81-9375-312045e6582c
 :END:
 
-#+attr_html: :class wines-table
-|                                                           name | vintage |                              grapes |      region | rate |
-|----------------------------------------------------------------+---------+-------------------------------------+-------------+------|
-|         [[barberry:/wines/dab2a380-6aa2-45fa-b870-9a504291acce][Kali Riza]] |    2017 |                           Xinomavro | Amynteo POP | 7.00 |
-| [[barberry:/wines/a4980711-6b29-4392-9585-17310170db4a][Paranga Sparkling]] |      NV | Xinomavro, Chardonnay, Muscat Blanc |   Nemea POP | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">
+    <img class="flex-bottle" src="/images/da/b2a380-6aa2-45fa-b870-9a504291acce/2020-12-27-13-22-01-3908C915-D6C2-4144-B8FD-A01F61E34A31-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Kali Riza - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a4980711-6b29-4392-9585-17310170db4a.html">
+    <img class="flex-bottle" src="/images/a4/980711-6b29-4392-9585-17310170db4a/2022-07-02-09-13-54-614A1BD0-F934-4A70-8717-0E1244DA86C5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Paranga Sparkling - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c180ade8-c495-479b-81de-badb128d30d5
+:ID:                     b9e2bb0f-b05f-40f2-b9a0-0e175aa5e290
 :END:
 It is said that Mr. Raúl de la Mota had a dream of making high quality wine from Malbec grapes in Mendoza. In 1970 Malbec was only on its way to becoming a star in these lands, yet Mr. Raúl de la Mota meets and shares his dream with a Brazilian transportation businessman, Mr. Bernardo C. Weinert. The story is stingy, so I don't know all the reasons for Mr. Bernardo C. Weinert to agree. But it is known that he fell in love with a 80 years old building in Carrodilla, Luján de Cuyo. So in 1975 they started to reconstruct the building and the winery itself. The first harvest was in 1977 and first release was in 1979.
 
@@ -7,14 +7,40 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 
 ** Wines
 :PROPERTIES:
-:ID:                     a67731fc-9c1c-46a7-aed8-6f094eb1b3d2
+:ID:                     77e985f6-359e-4aca-bc55-80ef3a070e9c
 :END:
 
-#+attr_html: :class wines-table
-|                                                                         name | vintage |                             grapes |      region | rate |
-|------------------------------------------------------------------------------+---------+------------------------------------+-------------+------|
-|              [[barberry:/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7][Cabernet Sauvignon]] |    2010 |                 Cabernet Sauvignon |     Mendoza | 7.75 |
-|            [[barberry:/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b][Carrascal Chardonnay]] |    2021 |                         Chardonnay |     Mendoza | 7.40 |
-| [[barberry:/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108][Cavas de Weinert Cask Selection]] |    2009 | Cabernet Sauvignon, Malbec, Merlot |     Mendoza | 8.50 |
-|                          [[barberry:/wines/1cef4a62-828f-47ca-8489-ea911196b860][Merlot]] |    2011 |                             Merlot |     Mendoza |    - |
-|                      [[barberry:/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af][Montfleury]] |    2020 |                         Pinot Noir | Gualtallary | 7.40 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+    <img class="flex-bottle" src="/images/60/de313a-fc2e-46dd-92d2-4793e97ef93b/2022-06-12-17-30-24-9FE270CC-0C50-4D90-9097-0FBBEC3BF09E.webp"></img>
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <img class="flex-bottle" src="/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+    <img class="flex-bottle" src="/images/1c/ef4a62-828f-47ca-8489-ea911196b860/2021-12-27-18-22-56-04855E08-0E50-4457-8FF8-5412B4C0E986-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Merlot - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+</div>
+#+end_export

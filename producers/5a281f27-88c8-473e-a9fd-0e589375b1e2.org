@@ -1,13 +1,18 @@
 :PROPERTIES:
-:ID:                     21a722f9-ecd7-4d00-af96-de89a7dc8f47
+:ID:                     ba66d541-084d-4d6e-a95b-42c4dad937dc
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     8bf1548f-2e37-4e01-9d75-19c2fa3440ea
+:ID:                     2a28b756-38d2-4374-8f7f-9632cc1b0243
 :END:
 
-#+attr_html: :class wines-table
-|                                              name | vintage |                    grapes |                region | rate |
-|---------------------------------------------------+---------+---------------------------+-----------------------+------|
-| [[barberry:/wines/8fa18910-506d-4487-b682-c6099bc38df5][S.M.]] |    2018 | Marsanne, Sauvignon Blanc | Vin de Table (France) | 6.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">S.M. - 2018</section>
+  </a>
+
+</div>
+#+end_export

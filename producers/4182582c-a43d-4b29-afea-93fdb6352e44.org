@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     402d1226-d442-406f-8b69-f93c3b81520b
+:ID:                     e0b9c844-7555-442e-b616-e75b33d6cfc9
 :END:
 Many Haro bodegas were created by people fleeing from the ravages of phyloxera. Bodegas Bilbaínas is no exception, its origins go back to 1859, when Savignon Frères & Cie set up in Haro. Though the company was created only in 1901. How is it related to Viña Pomal? Well, it is a creation of Don Santiago de Ugarte, co-founder of Bodegas Bilbaínas and the company's first Managing Director. Their first released vintage is 1904.
 
 ** Wines
 :PROPERTIES:
-:ID:                     21d562b1-1c1d-4c37-ab37-fb10236a15f7
+:ID:                     d16d3c60-202c-4242-98e5-5a0ee53c20eb
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |                                grapes |    region | rate |
-|-------------------------------------------------------------+---------+---------------------------------------+-----------+------|
-| [[barberry:/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc][Viura Malvasia]] |    2017 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">
+    <img class="flex-bottle" src="/images/a0/e5d240-0e7b-4e88-a738-6524e38596dc/2022-06-25-13-47-50-F0215729-4CFE-4BD5-814D-CB4F7E32CD20-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Viura Malvasia - 2017</section>
+  </a>
+
+</div>
+#+end_export

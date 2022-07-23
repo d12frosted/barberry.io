@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     10b29b0c-dce1-4fcf-ac16-16d6c4dfd263
+:ID:                     ddbacba0-ff23-40c5-8ecd-837088fbdec1
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     0b6eea49-13de-458c-889d-6ab6eafca90a
+:ID:                     5c0af077-804a-45d1-afa2-45d828b9b179
 :END:
 
-#+attr_html: :class wines-table
-|                                                                              name | vintage |   grapes |   region | rate |
-|-----------------------------------------------------------------------------------+---------+----------+----------+------|
-| [[barberry:/wines/d475d86d-a8a1-4466-8dce-40252032232d][Rüdesheimer Burgweg Riesling Trocken]] |    2021 | Riesling | Rheingau | 7.30 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d475d86d-a8a1-4466-8dce-40252032232d.html">
+    <img class="flex-bottle" src="/images/d4/75d86d-a8a1-4466-8dce-40252032232d/2022-06-27-06-26-30-8F09B65A-07A1-42C6-89FB-8A1A6725CCF5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.30</section>
+    <section class="h text-bolder">Rüdesheimer Burgweg Riesling Trocken - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     d6f8449e-8dc6-4e7c-a617-f88a32e891f7
+:ID:                     60b5759a-26b8-4177-947e-960c6f30d0a7
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     1d2c6d3a-f924-4b64-9920-bd16f8733e7a
+:ID:                     98e42839-4b3e-4f29-9a68-695d3ce3b4c1
 :END:
 
-#+attr_html: :class wines-table
-|                                                                     name | vintage |     grapes |    region | rate |
-|--------------------------------------------------------------------------+---------+------------+-----------+------|
-| [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Premier Cru Blanc de Blancs]] |      NV | Chardonnay | Champagne | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
+    <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs - NV</section>
+  </a>
+
+</div>
+#+end_export

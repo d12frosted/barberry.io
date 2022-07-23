@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     430a0206-29ad-4a35-9a09-4acf5ecbbb38
+:ID:                     796dfc85-a824-4ffd-bdba-10abceb46094
 :END:
 Guillaume d'Angerville, current owner of famous Le Domaine Marquis d'Angerville from Bourgogne, decided to create a new project in Jura after tasting a single bottle - Tissot’s Chardonnay Arbois Les Bruyères 2005.
 
@@ -11,10 +11,16 @@ Guillaume d’Angerville
 
 ** Wines
 :PROPERTIES:
-:ID:                     c021e738-df0b-4b22-a41c-79cf10b3d917
+:ID:                     a09c2e58-c8f3-4e1a-b134-bed09d2f62ca
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |   grapes |     region | rate |
-|--------------------------------------------------------------+---------+----------+------------+------|
-| [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Savagnin Ouillé]] |    2016 | Savagnin | Arbois AOC | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">
+    <img class="flex-bottle" src="/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Savagnin Ouillé - 2016</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     137fb3fa-fd90-45dd-9701-a3b8bd7f1f72
+:ID:                     9f393661-ad8a-4e10-9e2c-2e3ac567b237
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     f9d07ca6-b65d-443b-8a89-1e9eb8f4ba92
+:ID:                     73423868-acf4-4d7f-8f09-3dd8953be7dd
 :END:
 
-#+attr_html: :class wines-table
-|                                                          name | vintage |     grapes |     region | rate |
-|---------------------------------------------------------------+---------+------------+------------+------|
-| [[barberry:/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592][Elios Pinot Noir]] |    2020 | Pinot Noir | Alsace AOC | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+</div>
+#+end_export

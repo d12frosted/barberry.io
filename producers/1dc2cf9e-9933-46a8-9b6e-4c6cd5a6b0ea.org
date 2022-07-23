@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     cba53da3-cb56-448f-b3bd-9aa14f2ee2a1
+:ID:                     b777496f-4e3b-447f-95af-763387700983
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     a9c37ea5-53fd-46c7-9ff0-4cacde337b6d
+:ID:                     9b8e2262-0cc9-4bcd-82a3-7a1085e88f83
 :END:
 
-#+attr_html: :class wines-table
-|                                                           name | vintage | grapes | region | rate |
-|----------------------------------------------------------------+---------+--------+--------+------|
-| [[barberry:/wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4][Gato Negro Merlot]] |    2020 | Merlot |  Chile | 6.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4.html">
+    <img class="flex-bottle" src="/images/c4/1d60a7-b441-43cb-8d8a-ca05fed8b2b4/2022-05-20-08-38-42-0B289E70-A100-4E60-A1EA-EE33FB59C21E-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.00</section>
+    <section class="h text-bolder">Gato Negro Merlot - 2020</section>
+  </a>
+
+</div>
+#+end_export

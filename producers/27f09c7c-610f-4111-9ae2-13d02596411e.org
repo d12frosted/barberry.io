@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     dece8933-69c1-4e0b-93e9-31277e07a8cd
+:ID:                     f02b282d-9515-42cd-817a-eed310b00944
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     b65766a0-16e8-49ff-aecf-05eae56f2f69
+:ID:                     6c511bb9-76f5-44a1-aede-216042dad090
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                        name | vintage |                       grapes | region | rate |
-|---------------------------------------------------------------------------------------------+---------+------------------------------+--------+------|
-| [[barberry:/wines/52fe7333-bad2-4d23-b733-a3520704b5d2][Reserva de la Familia Gran Reserva Brut Nature]] |    2017 | Macabeo, Xarel-lo, Parellada |   Cava | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52fe7333-bad2-4d23-b733-a3520704b5d2.html">
+    <img class="flex-bottle" src="/images/52/fe7333-bad2-4d23-b733-a3520704b5d2/2022-06-12-17-17-44-C02100E5-8060-4F4E-A59B-B2181992AAAC.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Reserva de la Familia Gran Reserva Brut Nature - 2017</section>
+  </a>
+
+</div>
+#+end_export

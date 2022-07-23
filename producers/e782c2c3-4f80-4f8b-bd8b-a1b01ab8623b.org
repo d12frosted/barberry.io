@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cb5d6373-9919-4470-889b-38f540efacf7
+:ID:                     a7f9acc4-d0d0-4f1e-b168-094f5366d2a3
 :END:
 #+begin_quote
 A great wine realizes the taste of an experience not an experience of taste.
@@ -9,10 +9,16 @@ Proponent of biotic philosophy, e.g. [[https://en.wikipedia.org/wiki/Biotic_ethi
 
 ** Wines
 :PROPERTIES:
-:ID:                     d094af91-ccd9-42ce-80bf-2ef795102e7c
+:ID:                     f5ca3e07-015a-4b4e-a6dd-26e6428ab4dd
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |      grapes |    region | rate |
-|--------------------------------------------------------------+---------+-------------+-----------+------|
-| [[barberry:/wines/4252a292-214e-4ee9-a997-3789f8abc431][Lanthano Bianco]] |    2013 | Field Blend | Vino (IT) | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+    <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Lanthano Bianco - 2013</section>
+  </a>
+
+</div>
+#+end_export

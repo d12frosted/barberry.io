@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     7ecf84d9-5a83-4649-aac9-8479f327e091
+:ID:                     35b4a96e-309a-44a9-9cf5-9c636e7cbadf
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fdfb26e6-7d50-4566-b05e-1ad580e92b9a
+:ID:                     1d187764-94ff-4872-9a09-4dfbc71ca068
 :END:
 
-#+attr_html: :class wines-table
-|                                                               name | vintage |    grapes |      region | rate |
-|--------------------------------------------------------------------+---------+-----------+-------------+------|
-| [[barberry:/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f][Xinomavro Young Vines]] |    2017 | Xinomavro | Naoussa POP | 7.00 |
-| [[barberry:/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c][Xinomavro Young Vines]] |    2018 | Xinomavro | Naoussa POP | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f.html">
+    <img class="flex-bottle" src="/images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Xinomavro Young Vines - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
+  </a>
+
+</div>
+#+end_export

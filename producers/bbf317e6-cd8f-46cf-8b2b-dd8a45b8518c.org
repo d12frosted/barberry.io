@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     39f7994c-e694-4f48-b15f-c43f4660b5f8
+:ID:                     ebaba948-7c0b-4361-bef0-bc8f22f233d2
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     c6311084-313c-4c58-bcb3-4f3b4f8e1588
+:ID:                     f275b29f-a662-451e-92e7-f0b971ef136e
 :END:
 
-#+attr_html: :class wines-table
-|                                                                   name | vintage |          grapes |      region | rate |
-|------------------------------------------------------------------------+---------+-----------------+-------------+------|
-| [[barberry:/wines/7652700d-3edc-46fa-8e74-624826b23830][Satellite Sauvignon Blanc]] |    2021 | Sauvignon Blanc | Marlborough | 6.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
+    <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
+  </a>
+
+</div>
+#+end_export

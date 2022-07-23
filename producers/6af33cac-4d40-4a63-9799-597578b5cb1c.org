@@ -1,16 +1,36 @@
 :PROPERTIES:
-:ID:                     70a3b15e-ffb3-4b2e-a767-13ed4132b095
+:ID:                     fe515848-f85d-45c6-9500-5e23c2f51d48
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     f8059116-aa86-4737-9c74-21b4e071354c
+:ID:                     c10ec406-f4fc-40fa-88d9-8f00e009ec68
 :END:
 
-#+attr_html: :class wines-table
-|                                                            name | vintage |                      grapes |        region | rate |
-|-----------------------------------------------------------------+---------+-----------------------------+---------------+------|
-|  [[barberry:/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf][Chardonnay Yarden]] |    2018 |                  Chardonnay |       Galilee | 7.25 |
-|  [[barberry:/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c][Chardonnay Yarden]] |    2019 |                  Chardonnay | Golan Heights | 7.75 |
-| [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Mount Hermon White]] |    2019 | Sauvignon Blanc, Chardonnay |       Galilee | 7.50 |
-|    [[barberry:/wines/877d6831-deea-428d-b19d-b7908a77389e][Viognier Yarden]] |    2017 |                    Viognier |       Galilee |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <img class="flex-bottle" src="/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Mount Hermon White - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Viognier Yarden - 2017</section>
+  </a>
+
+</div>
+#+end_export

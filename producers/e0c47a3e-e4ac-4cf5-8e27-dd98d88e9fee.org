@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     1901e447-1563-4168-8ac3-3ebcc96d8df1
+:ID:                     7b25019e-60bb-4b02-8804-8626134c9ec2
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     47bd59ec-a2af-489e-b9d2-50099974e7f7
+:ID:                     1c5a1817-e765-41a6-b9c6-2605241faf14
 :END:
 
-#+attr_html: :class wines-table
-|                                               name | vintage |     grapes |              region | rate |
-|----------------------------------------------------+---------+------------+---------------------+------|
-| [[barberry:/wines/a148cf28-b949-4fd1-80c2-98f03dde6191][Virgo]] |    2019 | Pinot Noir | Balatonfelvidék OFJ | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+</div>
+#+end_export

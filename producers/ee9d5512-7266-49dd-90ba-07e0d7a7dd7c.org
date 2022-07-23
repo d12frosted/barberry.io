@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     a7bc1ee8-45c3-4a73-ac1d-438a5ce9517c
+:ID:                     e53b7d58-3515-431c-8f63-1fec42f3b56e
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     bf5b2757-8c62-439a-be3b-28f575fffc8c
+:ID:                     fca79b3a-dd6b-474e-bda2-909c2952204e
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |                       grapes | region | rate |
-|-----------------------------------------------------------+---------+------------------------------+--------+------|
-| [[barberry:/wines/476f7a06-fd20-4887-a5fa-1d77f41309ce][Brut Reserva]] |    2019 | Macabeo, Xarel-lo, Parellada |   Cava | 7.20 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/476f7a06-fd20-4887-a5fa-1d77f41309ce.html">
+    <img class="flex-bottle" src="/images/47/6f7a06-fd20-4887-a5fa-1d77f41309ce/2022-07-09-09-45-00-BC5887C7-AB85-42DC-B889-F780CE250FC6-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h text-bolder">Brut Reserva - 2019</section>
+  </a>
+
+</div>
+#+end_export

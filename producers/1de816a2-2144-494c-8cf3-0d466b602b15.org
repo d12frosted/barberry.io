@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     58983903-64db-4e4d-8b0d-9c308f1ae1fa
+:ID:                     cc1a76c0-507b-4265-9d21-856effe5a24b
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     2ef46e0b-a3c3-4611-9fe2-75cf29356dd1
+:ID:                     b1e003de-f1f0-4f9e-a5dd-39751c4ef17f
 :END:
 
-#+attr_html: :class wines-table
-|                                                                          name | vintage |   grapes |   region | rate |
-|-------------------------------------------------------------------------------+---------+----------+----------+------|
-| [[barberry:/wines/b9972612-deb1-4a2c-910f-42901592cc46][Bronzelack Trocken Qualitätswein]] |    2020 | Riesling | Rheingau | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
+    <img class="flex-bottle" src="/images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
+  </a>
+
+</div>
+#+end_export

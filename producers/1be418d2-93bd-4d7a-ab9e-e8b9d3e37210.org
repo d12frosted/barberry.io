@@ -1,13 +1,18 @@
 :PROPERTIES:
-:ID:                     9aa94e2a-4e34-4073-a749-76034422d4c1
+:ID:                     0e92d5a2-e09e-4ddc-840a-9f92522b08e0
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fce7fe7b-cb7c-4ab0-a2fe-dc53af83ffb5
+:ID:                     7328d5af-920c-4173-8cc1-48a57f52788a
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                       name | vintage |     grapes |                region | rate |
-|--------------------------------------------------------------------------------------------+---------+------------+-----------------------+------|
-| [[barberry:/wines/f8916b0f-81ee-4a28-9963-4544bfc955a8][Morey Saint Denis 1er Cru Cuvée des Alouettes]] |    2000 | Pinot Noir | Morey-Saint-Denis AOC | 9.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f8916b0f-81ee-4a28-9963-4544bfc955a8.html">
+    <section class="h text-small text-lighter">★ 9.25</section>
+    <section class="h text-bolder">Morey Saint Denis 1er Cru Cuvée des Alouettes - 2000</section>
+  </a>
+
+</div>
+#+end_export

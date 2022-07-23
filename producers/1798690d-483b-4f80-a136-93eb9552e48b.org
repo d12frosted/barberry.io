@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     df6bd39d-1cc4-4ffe-a4af-95edb279f8d0
+:ID:                     1d4bdf93-73a2-47be-a47f-e0e1138ce601
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     b9bfa85c-6cc8-4393-a0fc-22da68414f5d
+:ID:                     6ab5bcc2-df6a-4dee-b823-983f2b621f29
 :END:
 
-#+attr_html: :class wines-table
-|                                                                   name | vintage |     grapes |              region | rate |
-|------------------------------------------------------------------------+---------+------------+---------------------+------|
-| [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Crémant du Jura Millésimé]] |    2018 | Chardonnay | Crémant du Jura AOC | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+</div>
+#+end_export

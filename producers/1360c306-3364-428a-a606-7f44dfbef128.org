@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     01045f1a-4071-4f6e-997f-5496ab4eb330
+:ID:                     6b3bfbe6-d005-4231-b29a-c2be82d55c12
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     de6bd041-dbab-4ce4-926b-739d69e6adb6
+:ID:                     cddcc1ed-e08f-489e-8429-b8cf65cd4de5
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |     grapes |           region | rate |
-|-------------------------------------------------------------+---------+------------+------------------+------|
-| [[barberry:/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076][BLU Pinot Noir]] |    2019 | Pinot Noir | Chernihiv Oblast | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">
+    <img class="flex-bottle" src="/images/5b/2f5a0f-a181-4421-a1bd-9248f685a076/2022-06-01-09-26-37-1E75F361-F74D-49A6-BA59-293397381BFF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">BLU Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

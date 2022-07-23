@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     aa914d5a-9195-4ce8-98a1-5b61270d9fc5
+:ID:                     c2f7bcff-62a6-4d09-8ae6-726343ea7cd7
 :END:
 Alfredo Arribas, the same person behind Portal del Priorat, created his second wine project in Montsant DO and called it Trossos.
 
 ** Wines
 :PROPERTIES:
-:ID:                     ffc5c58d-2c85-47ee-aa57-5c9f946660a4
+:ID:                     a4cc2fad-4e35-4e98-b6d2-fd8c3f275d76
 :END:
 
-#+attr_html: :class wines-table
-|                                               name | vintage |          grapes |      region | rate |
-|----------------------------------------------------+---------+-----------------+-------------+------|
-| [[barberry:/wines/ac087d27-5f55-4c5f-bd52-b75f29c236fd][Sants]] |    2018 | Garnacha Blanca | Montsant DO |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ac087d27-5f55-4c5f-bd52-b75f29c236fd.html">
+    <img class="flex-bottle" src="/images/ac/087d27-5f55-4c5f-bd52-b75f29c236fd/2022-06-09-21-46-04-IMG-0371.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Sants - 2018</section>
+  </a>
+
+</div>
+#+end_export

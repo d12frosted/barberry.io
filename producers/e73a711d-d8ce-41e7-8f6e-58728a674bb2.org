@@ -1,15 +1,31 @@
 :PROPERTIES:
-:ID:                     b412c13a-d568-48ea-867e-42c8e06cceea
+:ID:                     5e16e6f3-a84c-4634-b35d-b6a8b01c756f
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     1b955307-a348-46a7-943c-e2025c2905af
+:ID:                     29384d50-58a7-41fc-a6a1-deaec766fc82
 :END:
 
-#+attr_html: :class wines-table
-|                                                                    name | vintage |                 grapes |                  region | rate |
-|-------------------------------------------------------------------------+---------+------------------------+-------------------------+------|
-| [[barberry:/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b][Classic Cabernet Sauvignon]] |    2016 |     Cabernet Sauvignon | South Eastern Australia | 6.00 |
-|         [[barberry:/wines/1b9610bc-f390-46f5-989f-da6771f01eef][Classic Chardonnay]] |    2017 |             Chardonnay |               Australia | 7.20 |
-|             [[barberry:/wines/764bd923-7614-4d69-ac9c-556694bb1c9f][Sparkling Rosé]] |      NV | Pinot Noir, Chardonnay |               Australia | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">
+    <img class="flex-bottle" src="/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.00</section>
+    <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">
+    <img class="flex-bottle" src="/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h text-bolder">Classic Chardonnay - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
+    <img class="flex-bottle" src="/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Sparkling Rosé - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     4e666227-567e-4220-87da-e1f466f451d7
+:ID:                     69588029-cd40-46d9-be57-9602184d810a
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     8b89846e-79a5-4e81-aa5c-6bca17a8c2ed
+:ID:                     32cd2371-34f1-4d76-a7ed-8b47f211d540
 :END:
 
-#+attr_html: :class wines-table
-|                                               name | vintage | grapes |            region | rate |
-|----------------------------------------------------+---------+--------+-------------------+------|
-| [[barberry:/wines/b7273268-eb5a-4131-a135-e1cfd610752f][Saito]] |    2018 |        | Vin (din România) | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b7273268-eb5a-4131-a135-e1cfd610752f.html">
+    <img class="flex-bottle" src="/images/b7/273268-eb5a-4131-a135-e1cfd610752f/2020-09-19-13-51-46-4498FB5C-565A-4914-9D31-4D826BB61A3D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Saito - 2018</section>
+  </a>
+
+</div>
+#+end_export

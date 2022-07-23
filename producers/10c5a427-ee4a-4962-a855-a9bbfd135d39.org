@@ -1,15 +1,30 @@
 :PROPERTIES:
-:ID:                     2163308e-78f4-42ec-8c50-d0a0b31cc052
+:ID:                     be94ec0e-5873-40ba-88cb-3e5360dc6168
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6457294e-33ab-493b-becc-6d71ae627fb3
+:ID:                     11926256-b8e1-4de1-a1be-ce46c47a86bd
 :END:
 
-#+attr_html: :class wines-table
-|                                                                         name | vintage |                 grapes |    region | rate |
-|------------------------------------------------------------------------------+---------+------------------------+-----------+------|
-|      [[barberry:/wines/1c498873-9026-4a72-b993-0c51235b0883][Memoria Brut Pas Operé VSQ]] |    2014 | Chardonnay, Pinot Noir | Vino (IT) | 8.25 |
-| [[barberry:/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471][Sogno Blanc de Blancs Pas Operé]] |    2014 |             Chardonnay | Vino (IT) | 8.50 |
-|  [[barberry:/wines/bf77c1a9-c3da-424d-8306-f94769b95a65][Sospiri Brut Riserva Pas Operé]] |    2011 | Chardonnay, Pinot Noir | Vino (IT) |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <img class="flex-bottle" src="/images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bf77c1a9-c3da-424d-8306-f94769b95a65.html">
+    <img class="flex-bottle" src="/images/bf/77c1a9-c3da-424d-8306-f94769b95a65/2021-12-27-18-44-25-B467424A-B015-4E87-ABE2-6A26CB7C9065-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Sospiri Brut Riserva Pas Operé - 2011</section>
+  </a>
+
+</div>
+#+end_export

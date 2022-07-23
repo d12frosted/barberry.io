@@ -1,14 +1,19 @@
 :PROPERTIES:
-:ID:                     a99337f1-9c67-4cbf-8826-98f5f9af7719
+:ID:                     0b16222b-1d29-4407-9702-60028dd564e2
 :END:
 One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
 
 ** Wines
 :PROPERTIES:
-:ID:                     08f8efde-596c-4d93-a74a-c72e21037657
+:ID:                     cd2fd4b2-5590-4fc4-ade9-ee905e545755
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |     grapes |    region | rate |
-|---------------------------------------------------------+---------+------------+-----------+------|
-| [[barberry:/wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1][Pinot Noir]] |    2020 | Pinot Noir | Australia | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1.html">
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Pinot Noir - 2020</section>
+  </a>
+
+</div>
+#+end_export

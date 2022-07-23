@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     76cfef68-f3b3-47aa-a011-768b74f13d7a
+:ID:                     73ba90fc-dcd2-442d-b0a6-65424384cac4
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6967dc1b-0be0-484e-a95c-2f582666c874
+:ID:                     abdb4e0c-d441-4184-937d-582ef9228b4c
 :END:
 
-#+attr_html: :class wines-table
-|                                                                 name | vintage |     grapes |                      region | rate |
-|----------------------------------------------------------------------+---------+------------+-----------------------------+------|
-| [[barberry:/wines/4e3730aa-97c3-4c28-85c6-79ad33012ede][Côte de Beaune-Villages]] |    2017 | Pinot Noir | Côte de Beaune-Villages AOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4e3730aa-97c3-4c28-85c6-79ad33012ede.html">
+    <img class="flex-bottle" src="/images/4e/3730aa-97c3-4c28-85c6-79ad33012ede/2021-10-21-14-58-06-AA5FB352-A035-40BE-826B-88BF4F159C36-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Côte de Beaune-Villages - 2017</section>
+  </a>
+
+</div>
+#+end_export

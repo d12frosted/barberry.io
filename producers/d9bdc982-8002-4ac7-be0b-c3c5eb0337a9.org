@@ -1,15 +1,31 @@
 :PROPERTIES:
-:ID:                     c47dda61-1c68-4e05-9c7a-62e0aa84b415
+:ID:                     0f630e98-7c94-4956-a59c-71e7b7b05861
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     029207a8-28f0-4d61-9f15-2cefdad976c7
+:ID:                     d317419a-8745-4478-9057-1c24bc26d7d7
 :END:
 
-#+attr_html: :class wines-table
-|                                                               name | vintage |                                     grapes |                     region | rate |
-|--------------------------------------------------------------------+---------+--------------------------------------------+----------------------------+------|
-|          [[barberry:/wines/27c6bf4d-38f4-4488-b236-c7f205fd7f43][San Leonardo]] |    2007 | Cabernet Sauvignon, Cabernet Franc, Merlot | IGP Vigneti delle Dolomiti | 9.00 |
-| [[barberry:/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e][Terre di San Leonardo]] |    2014 |      Cabernet Sauvignon, Merlot, Carménère | IGP Vigneti delle Dolomiti | 7.75 |
-|                 [[barberry:/wines/43c2c852-f191-4755-b648-7791aacc9fce][Vette]] |    2019 |                            Sauvignon Blanc | IGP Vigneti delle Dolomiti | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/27c6bf4d-38f4-4488-b236-c7f205fd7f43.html">
+    <img class="flex-bottle" src="/images/27/c6bf4d-38f4-4488-b236-c7f205fd7f43/IMG-1302.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">San Leonardo - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">
+    <img class="flex-bottle" src="/images/6f/8ecc8d-b962-4a1d-a305-6999b5e6c38e/2022-05-08-15-06-11-BD4FF34B-D5F9-4361-8BD4-4264952781AF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Terre di San Leonardo - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
+    <img class="flex-bottle" src="/images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Vette - 2019</section>
+  </a>
+
+</div>
+#+end_export

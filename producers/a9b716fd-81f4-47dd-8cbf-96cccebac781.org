@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     df1a8c80-758f-49d9-8199-07c39f3e16de
+:ID:                     795f5691-32cc-4d53-ac0f-dccfde3cc702
 :END:
 Small (4.5 ha) domaine located in the heart of Côte de Nuits, between Gevrey-Chambertin and Chambolle-Musigny.
 
 ** Wines
 :PROPERTIES:
-:ID:                     7b5ec902-6996-4cde-ad18-3a14d4134b14
+:ID:                     53ba3aea-e40a-4524-b387-c17b47bf85c5
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                      name | vintage |     grapes |                region | rate |
-|-------------------------------------------------------------------------------------------+---------+------------+-----------------------+------|
-| [[barberry:/wines/1f2bb282-357e-468d-9016-6b4cb34bb75c][Morey-Saint-Denis 1er Cru Les Monts-Luisants]] |    2008 | Pinot Noir | Morey-Saint-Denis AOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1f2bb282-357e-468d-9016-6b4cb34bb75c.html">
+    <img class="flex-bottle" src="/images/1f/2bb282-357e-468d-9016-6b4cb34bb75c/2021-10-21-15-02-19-C460DDBA-7F8B-4B2C-B2C0-351EB70F5C49-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Morey-Saint-Denis 1er Cru Les Monts-Luisants - 2008</section>
+  </a>
+
+</div>
+#+end_export

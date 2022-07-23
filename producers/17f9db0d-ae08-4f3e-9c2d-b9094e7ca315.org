@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     12f1788d-1584-4c95-8992-50eda5e135f2
+:ID:                     d89c5054-fa80-42ff-9feb-a835e300da81
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     17c67273-b2b7-44f3-9fa2-248236c1f325
+:ID:                     f4145b40-d20d-4f94-9ad6-04677460bb76
 :END:
 
-#+attr_html: :class wines-table
-|                                                            name | vintage |                       grapes | region | rate |
-|-----------------------------------------------------------------+---------+------------------------------+--------+------|
-| [[barberry:/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab][Selecció Brut Cava]] |      NV | Macabeo, Parellada, Xarel-lo |   Cava | 5.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
+    <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 5.50</section>
+    <section class="h text-bolder">Selecció Brut Cava - NV</section>
+  </a>
+
+</div>
+#+end_export

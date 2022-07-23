@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     216b0c1f-04a5-44e3-ac44-aa6266e995d6
+:ID:                     0bc3174a-902b-493e-87ac-5888ca901398
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     c640dd99-dd7e-46e7-b5b0-d8d821bca0d8
+:ID:                     b7b71e0d-dadf-4280-9181-92febaafcc0b
 :END:
 
-#+attr_html: :class wines-table
-|                                               name | vintage |  grapes |        region | rate |
-|----------------------------------------------------+---------+---------+---------------+------|
-| [[barberry:/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac][Louro]] |    2020 | Godello | Valdeorras DO | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">
+    <img class="flex-bottle" src="/images/a9/ce10b3-c64a-4a32-9490-b7e3ffb0d0ac/2022-01-13-09-59-05-383B22A4-9F2E-4CB3-B703-F2BABEDEF9E9-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Louro - 2020</section>
+  </a>
+
+</div>
+#+end_export

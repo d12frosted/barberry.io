@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     debab3e2-bbd8-45f8-97ca-74c893587eef
+:ID:                     3c39c6f2-7755-4ddd-91d0-2a782b592370
 :END:
 Domaine with old history dating back to 1507, owning vineyards in Volnay AOC, Meursault AOC and Pommard AOC with focus on Volnay.
 
@@ -7,10 +7,16 @@ Current owner, Guillaume d'Angerville, has a project in Jura - [[barberry:/produ
 
 ** Wines
 :PROPERTIES:
-:ID:                     4f826b24-79ad-44dd-8325-53b859ecb6c1
+:ID:                     93dfec6d-f4ee-4514-a88b-c40e79651c18
 :END:
 
-#+attr_html: :class wines-table
-|                                                                 name | vintage |     grapes |     region | rate |
-|----------------------------------------------------------------------+---------+------------+------------+------|
-| [[barberry:/wines/4fb6854f-bece-4bc3-b30d-589a80668230][Volnay 1er cru Champans]] |    2010 | Pinot Noir | Volnay AOC | 9.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4fb6854f-bece-4bc3-b30d-589a80668230.html">
+    <img class="flex-bottle" src="/images/4f/b6854f-bece-4bc3-b30d-589a80668230/2021-08-27-15-49-37-17F46471-F312-4C02-B603-10A9ADE62975-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">Volnay 1er cru Champans - 2010</section>
+  </a>
+
+</div>
+#+end_export

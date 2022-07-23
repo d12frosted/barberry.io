@@ -1,15 +1,26 @@
 :PROPERTIES:
-:ID:                     ffba48d4-f29a-49d5-b1b8-92ce0f5e9831
+:ID:                     6419088c-8750-4977-9d90-356d1a90c702
 :END:
 Producer from Bourgogne.
 
 ** Wines
 :PROPERTIES:
-:ID:                     d8560d34-2e03-4200-8104-78644c18ebb8
+:ID:                     6cd0a6f9-0801-418d-90a2-68bacb03f7f3
 :END:
 
-#+attr_html: :class wines-table
-|                                                              name | vintage |     grapes |        region | rate |
-|-------------------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/588f34e3-68db-4015-b04d-58503fdc84e6][Bourgogne Pinot Noir]] |    2018 | Pinot Noir | Bourgogne AOC | 8.00 |
-| [[barberry:/wines/61c7931d-0fce-40c1-9569-934fe0059dc1][Bourgogne Pinot Noir]] |    2019 | Pinot Noir | Bourgogne AOC | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/588f34e3-68db-4015-b04d-58503fdc84e6.html">
+    <img class="flex-bottle" src="/images/58/8f34e3-68db-4015-b04d-58503fdc84e6/2020-12-21-10-57-50-8883D6A8-C597-4EA1-B7CC-AE2392CD2D66-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <img class="flex-bottle" src="/images/61/c7931d-0fce-40c1-9569-934fe0059dc1/2021-11-30-09-22-24-E0F94D15-30C7-4BB8-8EBE-3D26F67E829E-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     df71fc69-38d5-4ea5-b70e-bcaede89a9ff
+:ID:                     a3870c6e-78b6-43d0-987c-7c46276ea813
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6b8e89ec-47cc-4164-a4f5-9812e3e834d6
+:ID:                     8e1340eb-181b-4b1e-8e2d-628a9e0cf0e9
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                  name | vintage |         grapes |                     region | rate |
-|---------------------------------------------------------------------------------------+---------+----------------+----------------------------+------|
-| [[barberry:/wines/aa6dbbc8-14b0-4c32-b958-63c1385602ed][Selezione di Piera Onedis Ribolla Gialla]] |      NV | Ribolla Gialla |                  Vino (IT) |    - |
-|               [[barberry:/wines/d4ae10ce-c086-4592-bd4e-37e41322918c][Terre Magre Ribolla Gialla]] |      NV | Ribolla Gialla | Friuli Colli Orientali DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/aa6dbbc8-14b0-4c32-b958-63c1385602ed.html">
+    <img class="flex-bottle" src="/images/aa/6dbbc8-14b0-4c32-b958-63c1385602ed/2022-07-08-09-32-25-C3A81E76-1CE3-4AFE-87FF-96C0F1F47FF3-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Selezione di Piera Onedis Ribolla Gialla - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">
+    <img class="flex-bottle" src="/images/d4/ae10ce-c086-4592-bd4e-37e41322918c/2022-07-08-09-31-06-1CD70F52-E6A6-485F-91F7-CA8F377070D6-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Terre Magre Ribolla Gialla - NV</section>
+  </a>
+
+</div>
+#+end_export

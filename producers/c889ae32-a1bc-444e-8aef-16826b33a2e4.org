@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     2f625ee1-9bcf-4a37-a870-8ae3a26d5dec
+:ID:                     fc7073ad-17b9-48c6-916c-9d9d9def5964
 :END:
 Egly-Ouriet produces Champagne primarily from Grand Cru village of Ambonnay located in Montagne de Reims. Ambonnay is known as the top village for Pinot Noir. Egly uses Organic Farming, his Pinot Noir and Chardonnay grapes are 50 years old on average. Wines are aged extensively on the lees (up to 10 years).
 
 ** Wines
 :PROPERTIES:
-:ID:                     8185a3e3-6bb7-437d-ad85-3400afb52137
+:ID:                     2f62ddf5-c23c-413c-97a2-dcc119e56422
 :END:
 
-#+attr_html: :class wines-table
-|                                                                name | vintage |                 grapes |        region | rate |
-|---------------------------------------------------------------------+---------+------------------------+---------------+------|
-| [[barberry:/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e][Brut Grand Cru (d2020)]] |      NV | Chardonnay, Pinot Noir | Champagne AOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">
+    <img class="flex-bottle" src="/images/f0/ca7444-7d73-4df6-a42b-9368a4f9f32e/2021-12-27-18-35-57-8A00A13D-100B-469D-A773-A350D24F31C5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Brut Grand Cru (d2020) - NV</section>
+  </a>
+
+</div>
+#+end_export

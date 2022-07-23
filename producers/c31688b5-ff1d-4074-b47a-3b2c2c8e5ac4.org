@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     2c8bedec-1970-4b3e-aec5-550da7d87b80
+:ID:                     6333eebc-dda4-4c72-875b-e452df0ce1ec
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fb2074c9-2db7-475b-888d-51d1ea035e53
+:ID:                     11f7222a-9a28-49fe-99b3-3d3cddf8ccb9
 :END:
 
-#+attr_html: :class wines-table
-|                                                                 name | vintage |          grapes |          region | rate |
-|----------------------------------------------------------------------+---------+-----------------+-----------------+------|
-|         [[barberry:/wines/fe706fbf-c139-4372-98b7-afe4249f0ce1][Sauvignon Blanc]] |    2020 | Sauvignon Blanc |  Central Valley | 6.50 |
-| [[barberry:/wines/2d1710fb-5361-48d5-93c5-963b5db134a8][Sauvignon Blanc Reserva]] |    2019 | Sauvignon Blanc | DO Leyda Valley | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fe706fbf-c139-4372-98b7-afe4249f0ce1.html">
+    <img class="flex-bottle" src="/images/fe/706fbf-c139-4372-98b7-afe4249f0ce1/2022-05-22-20-24-42-1A33CF7F-74E0-47AA-AE1D-FA27B97BDBAE-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2d1710fb-5361-48d5-93c5-963b5db134a8.html">
+    <img class="flex-bottle" src="/images/2d/1710fb-5361-48d5-93c5-963b5db134a8/2022-05-25-08-45-04-065CB6D4-9C42-4360-BDB7-65247C26C531-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Sauvignon Blanc Reserva - 2019</section>
+  </a>
+
+</div>
+#+end_export

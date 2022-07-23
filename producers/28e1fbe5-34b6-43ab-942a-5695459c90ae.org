@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     3c2f6fb6-5ee5-446d-994d-1af574bcd39f
+:ID:                     1e81a582-ba85-4b2d-a0b0-17b3f3748ce5
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     81bd395f-edac-4261-beb7-0ab03d348814
+:ID:                     cffed265-1471-4792-b3c5-19e69b9dc342
 :END:
 
-#+attr_html: :class wines-table
-|                                                                  name | vintage |     grapes |                region | rate |
-|-----------------------------------------------------------------------+---------+------------+-----------------------+------|
-| [[barberry:/wines/8cbe57db-77d3-4d08-9332-86f4635e118d][Gevrey-Chambertin Ostrea]] |    2012 | Pinot Noir | Gevrey-Chambertin AOC | 8.20 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
+    <img class="flex-bottle" src="/images/8c/be57db-77d3-4d08-9332-86f4635e118d/2021-08-27-16-19-40-2B80C1F9-D18C-4E70-BB7C-B2DFF6CCE1C5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.20</section>
+    <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
+  </a>
+
+</div>
+#+end_export

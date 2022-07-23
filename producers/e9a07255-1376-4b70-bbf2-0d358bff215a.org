@@ -1,15 +1,31 @@
 :PROPERTIES:
-:ID:                     9cb5d099-09be-40cc-a14d-1585bc79f0d4
+:ID:                     38460ab3-2ac8-4679-b6dd-ce3d04067290
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     5c88170e-9f2f-4510-b720-2589b575fe91
+:ID:                     fd455b09-aee7-4579-98b0-91cb46f1a39b
 :END:
 
-#+attr_html: :class wines-table
-|                                                                       name | vintage |    grapes |       region | rate |
-|----------------------------------------------------------------------------+---------+-----------+--------------+------|
-| [[barberry:/wines/470a1738-5cc3-4aac-a09a-7ab314af4c00][Piano di Montevergine Taurasi]] |    2014 | Aglianico | Taurasi DOCG | 7.50 |
-|        [[barberry:/wines/9e5bc457-cca9-4f42-befd-e11da153544a][Selve Di Luoti Taurasi]] |    1998 | Aglianico | Taurasi DOCG | 8.50 |
-|                       [[barberry:/wines/36363a35-2c36-48e7-982b-46efbd45b51f][Serpico]] |    2005 | Aglianico |  Irpinia DOC | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/470a1738-5cc3-4aac-a09a-7ab314af4c00.html">
+    <img class="flex-bottle" src="/images/47/0a1738-5cc3-4aac-a09a-7ab314af4c00/2021-12-23-08-38-50-1103030B-2C05-432E-A71B-913F1B559FC8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Piano di Montevergine Taurasi - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">
+    <img class="flex-bottle" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">
+    <img class="flex-bottle" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Serpico - 2005</section>
+  </a>
+
+</div>
+#+end_export

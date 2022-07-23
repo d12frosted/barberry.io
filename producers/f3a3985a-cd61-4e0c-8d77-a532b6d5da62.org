@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     956d70ed-b33e-432f-8822-600e8be3af8a
+:ID:                     b28b7319-67cf-4c35-9086-9224b952e4f9
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     4244cb4b-daa0-42c1-9447-a27d618944f7
+:ID:                     e9dce446-5bc4-478d-bf07-683a9bf5f4f1
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |  grapes |    region | rate |
-|---------------------------------------------------------+---------+---------+-----------+------|
-| [[barberry:/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87][Filagnotti]] |    2016 | Cortese | Vino (IT) | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
+    <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Filagnotti - 2016</section>
+  </a>
+
+</div>
+#+end_export

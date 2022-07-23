@@ -1,9 +1,15 @@
 ** Wines
 :PROPERTIES:
-:ID:                     8d0da4a7-ba5c-4ccc-b7e4-855d1952fc7c
+:ID:                     a9ca9d5c-4a08-4fb4-b09d-63b039ed6605
 :END:
 
-#+attr_html: :class wines-table
-|                                                                name | vintage | grapes |      region | rate |
-|---------------------------------------------------------------------+---------+--------+-------------+------|
-| [[barberry:/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c][Gimblett Gravels Syrah]] |    2018 |  Syrah | Hawke's Bay | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">
+    <img class="flex-bottle" src="/images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Gimblett Gravels Syrah - 2018</section>
+  </a>
+
+</div>
+#+end_export

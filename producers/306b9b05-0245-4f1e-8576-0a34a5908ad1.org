@@ -1,15 +1,26 @@
 :PROPERTIES:
-:ID:                     8d944d32-72ec-4203-8a23-4a7a4db13e29
+:ID:                     5f66355c-6f99-464e-a706-042563999409
 :END:
 Janko Štekar owns 5 ha of vineyards in Goriška Brda that are located on steep slopes, at an altitude of 180 m, with s and sw exposure.
 
 ** Wines
 :PROPERTIES:
-:ID:                     1e6bfbc9-4d0a-48f5-a4fb-80445c7318d3
+:ID:                     66bf0f64-3b28-4333-be3e-e524396ebe63
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |         grapes |       region | rate |
-|-----------------------------------------------------------+---------+----------------+--------------+------|
-|       [[barberry:/wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d][Jankot]] |    2018 | Tocai Friulano | Namizno Vino | 8.00 |
-| [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Rebula Prilo]] |    2015 | Ribolla Gialla | Namizno Vino | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d.html">
+    <img class="flex-bottle" src="/images/5c/c35f14-1824-4ce9-a4c5-f86b46a1c66d/2021-03-12-10-54-03-C7D66E26-A34A-4644-8F9C-51CD4D9D9EE8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Jankot - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Rebula Prilo - 2015</section>
+  </a>
+
+</div>
+#+end_export

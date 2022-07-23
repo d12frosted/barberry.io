@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     ffaee2e4-c612-4d5f-b23e-b7e945e1b0c9
+:ID:                     fd9cc83a-8940-4caa-a2d5-9ea000d7e8d9
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6eba537c-dee6-41f5-9b01-2e2d193b4179
+:ID:                     314415ef-39b1-4503-adbe-64a9f33615ae
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |       grapes |          region | rate |
-|-----------------------------------------------------------+---------+--------------+-----------------+------|
-| [[barberry:/wines/8fe19c6a-4169-4e27-bf89-512c429c6725][Chenin Blanc]] |    2019 | Chenin Blanc | WO Stellenbosch | 7.20 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
+    <img class="flex-bottle" src="/images/8f/e19c6a-4169-4e27-bf89-512c429c6725/2022-06-26-17-22-16-89EEF1FC-9732-4B32-A5A4-20F5FF65CF48-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h text-bolder">Chenin Blanc - 2019</section>
+  </a>
+
+</div>
+#+end_export

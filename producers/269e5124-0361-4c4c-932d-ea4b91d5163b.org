@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     e58a7952-254b-4fe4-8fd3-57f5b46e67eb
+:ID:                     33e57b55-7236-4a32-b9ac-86c99d95bfb4
 :END:
 It's actually one of the projects of [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]].
 
 ** Wines
 :PROPERTIES:
-:ID:                     29d3fbeb-0b78-4e1e-912e-0a58cf812662
+:ID:                     9798ac0f-41c7-49dc-a118-0066c720e575
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |          grapes |      region | rate |
-|--------------------------------------------------------------+---------+-----------------+-------------+------|
-| [[barberry:/wines/b17345a2-36ee-4fdf-b083-fc6019941931][Sauvignon Blanc]] |    2020 | Sauvignon Blanc | Marlborough | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">
+    <img class="flex-bottle" src="/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2020</section>
+  </a>
+
+</div>
+#+end_export

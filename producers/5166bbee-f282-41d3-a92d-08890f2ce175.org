@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     b8ed4b6f-f50d-4323-9873-619d67be3e93
+:ID:                     9d3cdf78-a4fd-4104-bf00-25405b8d7cc2
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     273da427-0de1-451c-8f81-12c9831274ec
+:ID:                     8d2259fc-b916-4092-aec8-cb6bb469d92f
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |             grapes |       region | rate |
-|---------------------------------------------------------+---------+--------------------+--------------+------|
-| [[barberry:/wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd][Sexy Beast]] |    2019 | Cabernet Sauvignon | McLaren Vale | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd.html">
+    <img class="flex-bottle" src="/images/c3/c1c92a-167f-4360-99af-9c26de2ae5dd/2021-11-14-11-03-59-14FA9A85-B2D0-4CE3-862D-B887CF642BC8-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Sexy Beast - 2019</section>
+  </a>
+
+</div>
+#+end_export

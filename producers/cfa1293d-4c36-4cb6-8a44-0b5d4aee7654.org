@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     e18336af-dccb-4176-8267-195a1b009d30
+:ID:                     c8c3b758-34d2-484f-ab3a-94e273f5c538
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     10ecfce5-493c-40a8-a5d1-f6a76f765950
+:ID:                     c3c2e68a-df0c-498d-a7ac-3519dfeaec32
 :END:
 
-#+attr_html: :class wines-table
-|                                                      name | vintage |       grapes |            region | rate |
-|-----------------------------------------------------------+---------+--------------+-------------------+------|
-| [[barberry:/wines/ea476527-6fc9-4400-9827-dbf63cc3299a][Pinot Grigio]] |    2020 | Pinot Grigio | Delle Venezie DOC | 5.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ea476527-6fc9-4400-9827-dbf63cc3299a.html">
+    <img class="flex-bottle" src="/images/ea/476527-6fc9-4400-9827-dbf63cc3299a/2022-05-20-08-31-29-3797A28C-8202-44CA-9F0D-FA8DEE9C7B62-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 5.25</section>
+    <section class="h text-bolder">Pinot Grigio - 2020</section>
+  </a>
+
+</div>
+#+end_export

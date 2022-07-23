@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     bfe4c1f6-f4a2-4352-88ce-cc50956d329a
+:ID:                     562c6d86-3efa-453c-a05e-6c6aeb71a16a
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     f97f6cc5-7afe-4708-bdfb-aaf8879dac6d
+:ID:                     c013999a-ec1b-4adb-94bd-ace78efff02d
 :END:
 
-#+attr_html: :class wines-table
-|                                                              name | vintage |                      grapes |                   region | rate |
-|-------------------------------------------------------------------+---------+-----------------------------+--------------------------+------|
-| [[barberry:/wines/7e65f750-5d08-4144-b41f-a8fda1672560][Cote des Roses Rouge]] |    2020 |                  Pinot Noir |     IGP Vin de Pays d'Oc | 7.40 |
-|  [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Héritage Kosmos 888]] |    2019 | Grenache, Syrah, Monastrell | Coteaux du Languedoc AOC | 7.60 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
+    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
+    <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.60</section>
+    <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
+  </a>
+
+</div>
+#+end_export

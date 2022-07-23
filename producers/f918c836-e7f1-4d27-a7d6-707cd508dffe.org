@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     f04566d2-02c5-45de-8b3c-9b425cf2b2e6
+:ID:                     5ffb4dbd-3cf1-4f57-813d-190e0d3ca38d
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6c6e6936-68ed-4b14-9ae5-451326a7258d
+:ID:                     4b38386d-315c-4a44-aab2-002caee4b7ff
 :END:
 
-#+attr_html: :class wines-table
-|                                                          name | vintage |              grapes | region | rate |
-|---------------------------------------------------------------+---------+---------------------+--------+------|
-| [[barberry:/wines/a29c13d9-1345-44a6-b7ea-36630afd1b14][Cava Brut Nature]] |      NV | Macabeo, Chardonnay |   Cava | 7.40 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a29c13d9-1345-44a6-b7ea-36630afd1b14.html">
+    <img class="flex-bottle" src="/images/a2/9c13d9-1345-44a6-b7ea-36630afd1b14/2022-07-16-19-54-04-IMG-0797.webp"></img>
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Cava Brut Nature - NV</section>
+  </a>
+
+</div>
+#+end_export

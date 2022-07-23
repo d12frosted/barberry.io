@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     39e7f3d5-8a04-4239-bf5d-c45f9defac85
+:ID:                     15b87828-c06a-415b-b6f2-c4341f770f3a
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     59b7bf01-1fa6-4bdf-aa49-b355ebebb31e
+:ID:                     9ee24321-c540-4ac9-8a64-ea8a2809fcc2
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |          grapes |      region | rate |
-|--------------------------------------------------------------+---------+-----------------+-------------+------|
-| [[barberry:/wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf][Sauvignon Blanc]] |    2019 | Sauvignon Blanc | Marlborough | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf.html">
+    <img class="flex-bottle" src="/images/c1/5d6dfa-47c0-44e8-8103-015892c1bfcf/2022-05-22-20-27-08-44C67BBA-B48A-4A60-8796-9E804551DD21-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2019</section>
+  </a>
+
+</div>
+#+end_export

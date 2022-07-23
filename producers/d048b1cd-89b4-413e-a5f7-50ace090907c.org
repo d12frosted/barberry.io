@@ -1,16 +1,37 @@
 :PROPERTIES:
-:ID:                     9a1a2392-2980-4848-a6c6-a218c1804638
+:ID:                     39349749-814b-43ca-b24a-68be12c1fdb3
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     119571b8-29ac-443c-bd3c-43bc5ee90f88
+:ID:                     c9abab11-ff18-449a-bd17-14d57464e291
 :END:
 
-#+attr_html: :class wines-table
-|                                                                      name | vintage |                                grapes |    region | rate |
-|---------------------------------------------------------------------------+---------+---------------------------------------+-----------+------|
-|               [[barberry:/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9][Blanco Reserva]] |    2008 |          Malvasia di Candia Aromatica | Rioja DOC | 7.50 |
-|               [[barberry:/wines/56317de6-f3c6-43f9-8efc-6537b23750c5][Blanco Reserva]] |    2009 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC | 9.00 |
-|               [[barberry:/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa][Blanco Reserva]] |    2010 | Macabeo, Malvasia di Candia Aromatica | Rioja DOC | 9.00 |
-| [[barberry:/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b][Blanco Viña Gravonia Crianza]] |    2013 |                               Macabeo | Rioja DOC | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+    <img class="flex-bottle" src="/images/b7/52a3ba-3b68-4e56-80a9-3857c04416a9/2020-11-15-11-08-15-50D84DC3-A8E5-4F2E-8BAB-ED8BD610BCC2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Blanco Reserva - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">
+    <img class="flex-bottle" src="/images/0e/caea1a-6791-41f7-b6be-5ebfcf58e1fa/2021-11-26-07-45-09-ABF5C370-FF86-444A-B40E-D984D093380D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h text-bolder">Blanco Reserva - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
+  </a>
+
+</div>
+#+end_export

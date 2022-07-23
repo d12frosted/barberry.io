@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     e7f94ed1-b0ca-4003-9151-bea6d4d61849
+:ID:                     5e77fef8-191d-450a-a91c-c10b0641b7c2
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     80f852c4-6b04-4f47-9dcf-ce4834116a1c
+:ID:                     4aeb30ef-1aec-4a8f-9432-3e591ed5da46
 :END:
 
-#+attr_html: :class wines-table
-|                                                                  name | vintage |     grapes |            region | rate |
-|-----------------------------------------------------------------------+---------+------------+-------------------+------|
-| [[barberry:/wines/b49bc925-ac23-44e8-a60a-8603fc977cac][Chardonnay Les Ammonites]] |    2018 | Chardonnay | Côtes du Jura AOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b49bc925-ac23-44e8-a60a-8603fc977cac.html">
+    <img class="flex-bottle" src="/images/b4/9bc925-ac23-44e8-a60a-8603fc977cac/2022-05-08-16-04-16-391C37B6-E2F3-4394-930D-18269DE5145A-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Chardonnay Les Ammonites - 2018</section>
+  </a>
+
+</div>
+#+end_export

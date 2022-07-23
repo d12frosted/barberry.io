@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     2ef7b8fe-60b6-4de9-9489-d618d8acedbe
+:ID:                     de695da8-68a9-4251-a1f2-01046b423cb8
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     954ce8b8-bc80-42be-b5ec-c01a46232ae1
+:ID:                     1307fbac-d173-412b-bfb6-f4a9ba23e5df
 :END:
 
-#+attr_html: :class wines-table
-|                                                               name | vintage |                                   grapes |               region | rate |
-|--------------------------------------------------------------------+---------+------------------------------------------+----------------------+------|
-| [[barberry:/wines/78c6a471-bf15-44a2-90ce-2a699e46a214][Crémant de Loire Brut]] |      NV | Chenin Blanc, Cabernet Franc, Chardonnay | Crémant de Loire AOC | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">
+    <img class="flex-bottle" src="/images/78/c6a471-bf15-44a2-90ce-2a699e46a214/2022-06-05-10-07-18-8A4E0264-AE43-4D7C-AAFF-130799946F3D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Crémant de Loire Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     70f1a5e4-ac05-42a0-b7f2-29c6e360c3cf
+:ID:                     910505dc-fa73-48fb-8a3d-053fab2e30fa
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     8847111f-7dc8-4a96-a356-1145c94970d7
+:ID:                     77b8cc97-78a3-42f3-b693-9efa32894f1c
 :END:
 
-#+attr_html: :class wines-table
-|                                                       name | vintage |     grapes |        region | rate |
-|------------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6][Cuvee Pheerie]] |    2013 | Chardonnay | Champagne AOC | 8.38 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
+    <img class="flex-bottle" src="/images/d4/2317ae-b258-4c87-9fe0-5d94ad9bfaf6/2021-12-17-18-29-40-4EE43126-146C-4C5A-A507-F4DB70F5A1C0-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.38</section>
+    <section class="h text-bolder">Cuvee Pheerie - 2013</section>
+  </a>
+
+</div>
+#+end_export

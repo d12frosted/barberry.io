@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     966351c5-3867-4af5-b199-c3cae2ca985c
+:ID:                     f94eb284-32dd-47de-8b86-402bbeff33b7
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     8a704b3a-0c6b-421b-ba01-9d86bed2e1e9
+:ID:                     b04563e5-8512-431a-bc11-05ba90f0b233
 :END:
 
-#+attr_html: :class wines-table
-|                                                                name | vintage |   grapes | region | rate |
-|---------------------------------------------------------------------+---------+----------+--------+------|
-| [[barberry:/wines/1003f92f-f182-4775-8602-32d132fa62d5][Riesling Qualitätswein]] |    2014 | Riesling |  Mosel | 8.80 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <img class="flex-bottle" src="/images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.80</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+</div>
+#+end_export

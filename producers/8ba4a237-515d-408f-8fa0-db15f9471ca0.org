@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     081f7119-c07e-4579-b196-dcfe049caf09
+:ID:                     460a6e18-d787-4791-b543-256bac6a0912
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     ff9f0985-3c3d-4a6c-a4fa-15cf1fc55e0c
+:ID:                     3eb8ed28-0f27-4162-9090-e68bfbaa8f4e
 :END:
 
-#+attr_html: :class wines-table
-|                                                                   name | vintage |       grapes |       region | rate |
-|------------------------------------------------------------------------+---------+--------------+--------------+------|
-| [[barberry:/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f][Metamorphika Chenin Blanc]] |    2017 | Chenin Blanc | Catalunya DO | 6.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">
+    <img class="flex-bottle" src="/images/0a/a4db7d-22bc-4e3e-876a-1740b7cfe73f/2022-05-08-16-07-29-56302E38-0D8B-4AEE-A7DC-10D011443159-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Metamorphika Chenin Blanc - 2017</section>
+  </a>
+
+</div>
+#+end_export

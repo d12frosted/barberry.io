@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     b74739e4-9ac0-488d-8019-5c54b5863190
+:ID:                     78d2daac-511c-497e-ab0f-01706cb87161
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     e8a78508-f4cd-426a-81dc-da14ef93ed92
+:ID:                     8235271d-236e-4950-b67b-4cbb2c69d591
 :END:
 
-#+attr_html: :class wines-table
-|                                                                name | vintage |                                                  grapes |                  region | rate |
-|---------------------------------------------------------------------+---------+---------------------------------------------------------+-------------------------+------|
-| [[barberry:/wines/f506a040-1940-496a-9901-0bb471948800][Gluegglich Glückliches]] |      NV | Zierfandler, Riesling, Chardonnay, Rotgipfler, Savagnin |        Niederösterreich | 7.12 |
-|                [[barberry:/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63][Pet Nat]] |    2020 |                           Grüner Veltliner, Muskateller | Landwein aus Österreich | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+    <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp"></img>
+    <section class="h text-small text-lighter">★ 7.12</section>
+    <section class="h text-bolder">Gluegglich Glückliches - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+    <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Pet Nat - 2020</section>
+  </a>
+
+</div>
+#+end_export

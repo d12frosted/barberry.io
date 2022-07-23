@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     1d138765-cf10-4a32-a3c6-b1d2a053dab3
+:ID:                     e3ab2b37-51be-4755-9613-dbe07735ee99
 :END:
 Sometimes people who sell wine decide to try on a new role of a vine grower or even a winemaker. Éric Chevalier was a négociant with ten years of experience when he moved to his hometown of Saint-Philbert de Grandlieu, just southwest of Nantes. Next year, in 2006, he ended up taking over the family Domaine. His father, a vigneron, had stopped working the vineyards, and Éric was faced with a difficult choice. Despite being anything but enthusiastic, he was against replanting or selling vineyards. And instead, he decided not only to continue farming the Domaine but also to produce and bottle all of the family's result of hard work.
 
@@ -7,10 +7,16 @@ In 2020 Éric Chevalier acquired organic certification, a rare achievement in Lo
 
 ** Wines
 :PROPERTIES:
-:ID:                     0bfa3c16-38cb-4358-b957-385eef71b96d
+:ID:                     c32f419a-2ce0-4bc0-b653-6fe2d3fdda7c
 :END:
 
-#+attr_html: :class wines-table
-|                                                name | vintage |         grapes |                region | rate |
-|-----------------------------------------------------+---------+----------------+-----------------------+------|
-| [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Cirrus]] |    2018 | Sauvignon Gris | Vin de Table (France) | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
+    <img class="flex-bottle" src="/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Cirrus - 2018</section>
+  </a>
+
+</div>
+#+end_export

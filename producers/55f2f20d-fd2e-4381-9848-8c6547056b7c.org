@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     6ee9ed16-989d-45f7-a63c-2d7702239e80
+:ID:                     55f04627-0d63-4e5e-b71a-b9e5a82f2366
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     e5a3f556-b422-45be-82dd-2efedb6a86e8
+:ID:                     105b8a55-e26e-47d6-9677-4192b81c46d2
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                          name | vintage |             grapes |                region | rate |
-|-----------------------------------------------------------------------------------------------+---------+--------------------+-----------------------+------|
-| [[barberry:/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa][Cuvée Prestige Caroline Tibouren Rosé Cru Classé]] |    2018 | Tibouren, Grenache | Côtes de Provence AOC | 8.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <img class="flex-bottle" src="/images/0a/942613-bbc6-4a56-a00b-c156bca2d4aa/2021-07-14-08-46-04-F0B2CA52-DA84-4739-8C7F-233801D8B6E7-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+</div>
+#+end_export

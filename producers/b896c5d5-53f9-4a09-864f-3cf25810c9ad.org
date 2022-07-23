@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     bc46ea5f-1797-41f6-b637-4b79bd4a0c90
+:ID:                     68fd7b2c-9167-43d2-8460-ce82d7c50cfd
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     c3de2da8-4b2e-47a5-929a-de65866f1008
+:ID:                     9a4d486d-aed4-4b27-a6bf-8c6f23ab17be
 :END:
 
-#+attr_html: :class wines-table
-|                                                 name | vintage |    grapes |         region | rate |
-|------------------------------------------------------+---------+-----------+----------------+------|
-| [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][Sassaia]] |    1997 | Garganega | Gambellara DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
+    <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Sassaia - 1997</section>
+  </a>
+
+</div>
+#+end_export

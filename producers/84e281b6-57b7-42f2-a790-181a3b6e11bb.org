@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     abd7ff9c-4c88-44aa-84f5-243d6e6ece30
+:ID:                     918bb9c6-17c5-412f-89a4-cffa7ff29e88
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     497a1729-f434-44cc-9493-e45a5a22be30
+:ID:                     5febc2dd-76a6-4fdd-b29a-2d22c221aad5
 :END:
 
-#+attr_html: :class wines-table
-|                                                   name | vintage |     grapes |        region | rate |
-|--------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9][Échezeaux]] |    2013 | Pinot Noir | Échezeaux AOC | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+    <img class="flex-bottle" src="/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Échezeaux - 2013</section>
+  </a>
+
+</div>
+#+end_export

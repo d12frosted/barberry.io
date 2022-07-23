@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     2959a39e-390e-4d8f-b2f9-83a7b83f1d42
+:ID:                     1d732abb-b45b-4b51-b674-c4566a608e43
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6b035254-1ec2-4a40-8a25-6253b94489f9
+:ID:                     bfcf8628-9eda-4c12-941b-254190dc0178
 :END:
 
-#+attr_html: :class wines-table
-|                                                 name | vintage |  grapes |    region | rate |
-|------------------------------------------------------+---------+---------+-----------+------|
-| [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Bandita]] |    2016 | Barbera | Vino (IT) | 8.00 |
-| [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Bandita]] |    2019 | Barbera | Vino (IT) | 7.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <img class="flex-bottle" src="/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Bandita - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">
+    <img class="flex-bottle" src="/images/28/bd8c32-5ba7-4c2a-b72b-544455feb1be/2022-05-08-18-10-52-IMG-0048.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Bandita - 2019</section>
+  </a>
+
+</div>
+#+end_export

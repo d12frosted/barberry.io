@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     ecd17d94-5c4b-4dbb-9985-a1439431e286
+:ID:                     6660be79-9ff3-4af4-8844-baeb90ae0327
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     ff4b7980-5570-40de-99e0-866b2e648e63
+:ID:                     4cc506b7-bf07-443b-bc96-4170610db82c
 :END:
 
-#+attr_html: :class wines-table
-|                                                                    name | vintage |          grapes |      region | rate |
-|-------------------------------------------------------------------------+---------+-----------------+-------------+------|
-| [[barberry:/wines/3f72d155-544c-4bae-af24-d9a0f4f3f09a][Petit Clos Sauvignon Blanc]] |    2020 | Sauvignon Blanc | Marlborough |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3f72d155-544c-4bae-af24-d9a0f4f3f09a.html">
+    <img class="flex-bottle" src="/images/3f/72d155-544c-4bae-af24-d9a0f4f3f09a/2022-06-25-13-20-25-750A8360-761E-469B-B99C-7A23292DA3FA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Petit Clos Sauvignon Blanc - 2020</section>
+  </a>
+
+</div>
+#+end_export

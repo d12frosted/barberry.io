@@ -1,14 +1,24 @@
 :PROPERTIES:
-:ID:                     569181c4-d125-4133-8a79-acd28f44db08
+:ID:                     8cefc4eb-f282-411e-bc66-465d5bd96161
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fc6d3829-e1ce-4d22-8014-a88a2c10608c
+:ID:                     00ad84a1-e5ee-485c-8caa-ef581052c13d
 :END:
 
-#+attr_html: :class wines-table
-|                                                    name | vintage |     grapes |        region | rate |
-|---------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8][Malagouzia]] |    2019 | Malagousia | PGI Corinthia | 7.40 |
-| [[barberry:/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79][Malagouzia]] |    2020 | Malagousia | PGI Corinthia | 7.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8.html">
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Malagouzia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">
+    <img class="flex-bottle" src="/images/5c/c084ab-5d95-4346-a01b-eb4e27cb2c79/2022-06-12-17-36-57-0C50A37F-E0D3-45C0-BE46-168AEFD5EB67.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Malagouzia - 2020</section>
+  </a>
+
+</div>
+#+end_export

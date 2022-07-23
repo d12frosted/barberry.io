@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     998cbeee-78b5-4372-8e37-5b8ae82da1d5
+:ID:                     1669c3ef-1b5e-44ca-a50c-e351aa011c90
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     052d81a5-cac5-4741-aa63-0cce6ad78739
+:ID:                     4c6f2986-4f9c-4efb-ab85-081a55bede56
 :END:
 
-#+attr_html: :class wines-table
-|                                                               name | vintage |                     grapes |      region | rate |
-|--------------------------------------------------------------------+---------+----------------------------+-------------+------|
-| [[barberry:/wines/abe4809a-958e-46f3-8b58-5575332beb1e][Margaux Cru Bourgeois]] |    2016 | Cabernet Sauvignon, Merlot | Margaux AOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/abe4809a-958e-46f3-8b58-5575332beb1e.html">
+    <img class="flex-bottle" src="/images/ab/e4809a-958e-46f3-8b58-5575332beb1e/2021-12-17-18-42-45-80C2A580-612F-47E0-8DFF-216C91331677-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Margaux Cru Bourgeois - 2016</section>
+  </a>
+
+</div>
+#+end_export

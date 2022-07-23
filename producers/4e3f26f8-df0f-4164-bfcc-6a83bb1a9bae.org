@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     34951d20-4f35-483d-b85a-b8086fb1baa2
+:ID:                     f69691b2-8f65-4af0-8537-e9575a34ffcb
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     0c4f062f-b3ec-4e01-8dc4-8928d72d8f3e
+:ID:                     82bd6649-3e53-4918-881e-388d092af0ea
 :END:
 
-#+attr_html: :class wines-table
-|                                                                     name | vintage |         grapes |                     region | rate |
-|--------------------------------------------------------------------------+---------+----------------+----------------------------+------|
-| [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Fontanasanta Manzoni Bianco]] |    2019 | Manzoni Bianco | IGP Vigneti delle Dolomiti | 6.50 |
-|                     [[barberry:/wines/d85eeda5-d057-4e25-8314-167d4bf89471][Sgarzon]] |    2018 |      Teroldego | IGP Vigneti delle Dolomiti | 6.75 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
+    <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d85eeda5-d057-4e25-8314-167d4bf89471.html">
+    <img class="flex-bottle" src="/images/d8/5eeda5-d057-4e25-8314-167d4bf89471/2020-06-13-10-15-57-ADEEE46C-5EF7-4F6A-9F82-976D8D763035-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.75</section>
+    <section class="h text-bolder">Sgarzon - 2018</section>
+  </a>
+
+</div>
+#+end_export

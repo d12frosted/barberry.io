@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     4a4ac581-b4b3-4c4a-81c8-6e7ae41ea8b2
+:ID:                     ccd242b0-20d2-4bb3-8dee-8840904f4a7b
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     bc8aabf1-fa5b-40dd-9c75-c836c84568da
+:ID:                     9798e19b-e91b-434e-af23-0b6524727573
 :END:
 
-#+attr_html: :class wines-table
-|                                                   name | vintage |    grapes |     region | rate |
-|--------------------------------------------------------+---------+-----------+------------+------|
-| [[barberry:/wines/941bc26f-a55c-4cad-b146-a659248257de][Primitivo]] |    2019 | Primitivo | IGP Puglia | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/941bc26f-a55c-4cad-b146-a659248257de.html">
+    <img class="flex-bottle" src="/images/94/1bc26f-a55c-4cad-b146-a659248257de/2022-05-08-16-19-27-778E1E16-083A-4B88-91D7-03588F3B4BC9-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Primitivo - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     2d284dbe-e0f1-4ccb-be22-e27aabbc1d31
+:ID:                     f270ddcb-49e6-4987-8fb1-8ed6560cee51
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     270fdca2-c5e6-44ef-b364-80409891e466
+:ID:                     b089681d-db3b-4b1b-a333-0223dc77d239
 :END:
 
-#+attr_html: :class wines-table
-|                                                                     name | vintage |                                     grapes |            region | rate |
-|--------------------------------------------------------------------------+---------+--------------------------------------------+-------------------+------|
-| [[barberry:/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd][Saint-Estephe Cru Bourgeois]] |    2016 | Cabernet Sauvignon, Merlot, Cabernet Franc | Saint-Estephe AOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
+    <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Saint-Estephe Cru Bourgeois - 2016</section>
+  </a>
+
+</div>
+#+end_export

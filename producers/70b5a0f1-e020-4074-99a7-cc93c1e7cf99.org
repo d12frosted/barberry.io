@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     060bcef5-86a8-4350-ac6e-2ebbeaab2776
+:ID:                     c3d7227d-46c7-4146-8d4f-921545608962
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     18b8d2be-1133-44df-a29d-c18dc2698d44
+:ID:                     9a7c5890-ea94-4b8a-aa66-43a4d833fe35
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                        name | vintage |     grapes |          region | rate |
-|---------------------------------------------------------------------------------------------+---------+------------+-----------------+------|
-| [[barberry:/wines/d42189bb-d2e7-483f-a342-5c825997921c][Saint-Aubin Premier Cru Cuvee Marguerite Blanc]] |    2018 | Chardonnay | Saint-Aubin AOC | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
+    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

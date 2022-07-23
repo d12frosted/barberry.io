@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     3578135b-b84a-419d-b0c5-f2e4d65adc82
+:ID:                     6569376a-4066-4f3b-bb01-f02ad217da50
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     aafe7bbb-629b-480a-9339-f1d0c49e4fa2
+:ID:                     621549c3-8ec7-4734-8250-d1fe72b859bc
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |                 grapes |    region | rate |
-|-------------------------------------------------------------+---------+------------------------+-----------+------|
-| [[barberry:/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d][Argentina Brut]] |      NV | Chardonnay, Pinot Noir | Argentina | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
+    <img class="flex-bottle" src="/images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Argentina Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

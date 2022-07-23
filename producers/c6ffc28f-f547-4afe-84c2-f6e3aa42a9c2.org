@@ -1,17 +1,37 @@
 :PROPERTIES:
-:ID:                     38e363e0-5462-44f0-99f2-6a39a6c4e934
+:ID:                     114b54ad-5fd3-4dfb-928d-459a9c53f488
 :END:
 Small wine producer from Czech Republic.
 
 ** Wines
 :PROPERTIES:
-:ID:                     377db370-4b57-4c1a-acdd-47995c688236
+:ID:                     03e79d90-94ec-4ee9-8608-da172711be63
 :END:
 
-#+attr_html: :class wines-table
-|                                                            name | vintage |                                                          grapes |   region | rate |
-|-----------------------------------------------------------------+---------+-----------------------------------------------------------------+----------+------|
-| [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Blanc de Noir Sekt]] |    2018 |                                                      Pinot Noir |  Moravia | 7.50 |
-|       [[barberry:/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900][Herr Gewürtz]] |    2019 |                                                  Gewürztraminer | Slovácká | 7.00 |
-|         [[barberry:/wines/c798671c-483f-46dd-9bee-5700002f97e2][Pinot Noir]] |    2019 |                                                      Pinot Noir |  Moravia | 7.50 |
-|               [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Ruby]] |    2020 | Zweigelt, Pinot Noir, Saint-Laurent, Merlot, Cabernet Sauvignon |  Moravia | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Herr Gewürtz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Ruby - 2020</section>
+  </a>
+
+</div>
+#+end_export

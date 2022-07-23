@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     e1f7eaee-2ac6-4725-bb6c-be692176c045
+:ID:                     f118acd3-2a3a-4134-98ad-e666e9580d40
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     57ae7c4d-2230-41eb-bdc6-de7646ab6550
+:ID:                     146f35d5-5b89-4dbb-9f1f-aa6a9f2b4cfd
 :END:
 
-#+attr_html: :class wines-table
-|                                                                                           name | vintage |   grapes | region | rate |
-|------------------------------------------------------------------------------------------------+---------+----------+--------+------|
-| [[barberry:/wines/1556c739-e540-4a37-8395-fe88259d2eba][Wehlener Sonnenuhr Riesling Auslese Prädikatswein]] |    2007 | Riesling |  Mosel | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+    <img class="flex-bottle" src="/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
+  </a>
+
+</div>
+#+end_export

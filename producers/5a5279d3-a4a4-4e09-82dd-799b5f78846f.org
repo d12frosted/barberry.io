@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     1ba03f4b-8470-4064-bedb-2fe77d2d26ed
+:ID:                     e002f924-70e1-4283-8423-3fc869239088
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     ec795d08-d6c0-4f96-8aec-873b15cf077d
+:ID:                     3c47137d-d3d1-477f-9a5f-9830531283c1
 :END:
 
-#+attr_html: :class wines-table
-|                                                             name | vintage |     grapes |                  region | rate |
-|------------------------------------------------------------------+---------+------------+-------------------------+------|
-| [[barberry:/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221][1er cru Les Boudots]] |    2004 | Pinot Noir | Nuits-Saint-Georges AOC | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">
+    <img class="flex-bottle" src="/images/98/dfd6cc-9ca9-4a91-a002-362dfb191221/2021-08-27-16-06-18-FCE6702E-6975-4D46-A5D1-674BD9AAD57B-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">1er cru Les Boudots - 2004</section>
+  </a>
+
+</div>
+#+end_export

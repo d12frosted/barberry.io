@@ -1,14 +1,24 @@
 :PROPERTIES:
-:ID:                     32276a82-f5d7-46e9-9887-0097a0fdd3bf
+:ID:                     c8bc6610-fcc8-44f2-a2c2-066519d7b74b
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     fa66e9fb-6bc5-4d70-8781-425698e14a6b
+:ID:                     ad624bf1-0af0-4c22-80c0-e54405b77897
 :END:
 
-#+attr_html: :class wines-table
-|                                                                        name | vintage |    grapes |       region | rate |
-|-----------------------------------------------------------------------------+---------+-----------+--------------+------|
-|  [[barberry:/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943][Garganega Veronese Vigne Alte]] |    2018 | Garganega |   IGP Veneto | 7.00 |
-| [[barberry:/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b][Garganega Veronesse Vigne Alte]] |    2020 | Garganega | IGP Veronese | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b.html">
+    <img class="flex-bottle" src="/images/03/170f33-3d42-4f60-b861-dd4fa7c24c8b/2022-06-12-10-44-32-9F72A960-E658-4D06-8FF6-B320CF469063-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Garganega Veronesse Vigne Alte - 2020</section>
+  </a>
+
+</div>
+#+end_export

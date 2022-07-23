@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     dfb3aaee-89d6-419a-9096-20df2409f186
+:ID:                     438beed2-6279-4681-8ef2-9c306e169050
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     6a274ef4-a1bd-4a8f-a5e2-0700c204f424
+:ID:                     2344b835-86ac-466e-b533-463028d112d8
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |     grapes |        region | rate |
-|--------------------------------------------------------------+---------+------------+---------------+------|
-| [[barberry:/wines/d69e488f-ccb5-400d-a049-79cabc7443b9][Marsannay Blanc]] |    2018 | Chardonnay | Marsannay AOC | 8.25 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d69e488f-ccb5-400d-a049-79cabc7443b9.html">
+    <img class="flex-bottle" src="/images/d6/9e488f-ccb5-400d-a049-79cabc7443b9/2021-08-18-10-33-17-162EA8FB-EE36-4E4D-B3B3-6D6084C971C8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Marsannay Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

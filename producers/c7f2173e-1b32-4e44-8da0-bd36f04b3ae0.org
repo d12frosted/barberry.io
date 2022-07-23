@@ -1,15 +1,31 @@
 :PROPERTIES:
-:ID:                     26ecb6a4-9904-44ab-b07b-100e57ac6909
+:ID:                     1321d07e-326c-40d0-b5b8-1e81a35fd29c
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     aa0a772a-23ea-45d9-b931-1ecb61289338
+:ID:                     1ff99dae-e82e-440a-aa26-bfc6a0d5b947
 :END:
 
-#+attr_html: :class wines-table
-|                                                   name | vintage |       grapes |           region | rate |
-|--------------------------------------------------------+---------+--------------+------------------+------|
-|  [[barberry:/wines/ce63f4af-0443-440e-b997-3602ebee4d80][Pofadder]] |    2018 |     Cinsault |     WO Swartland | 8.25 |
-|  [[barberry:/wines/42dc355d-a934-4cb0-9592-cf1d474bec57][Pofadder]] |    2020 |     Cinsault |     WO Swartland | 8.50 |
-| [[barberry:/wines/9513b9da-ac70-472c-953a-7cd9e5946b47][Skurfberg]] |    2020 | Chenin Blanc | WO Citrusdalberg | 8.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <img class="flex-bottle" src="/images/ce/63f4af-0443-440e-b997-3602ebee4d80/2020-09-20-10-16-38-A53DA59D-B5CB-4E4C-B3F8-69F419ACAACD-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Pofadder - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+    <img class="flex-bottle" src="/images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Skurfberg - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,14 +1,20 @@
 :PROPERTIES:
-:ID:                     977d302c-495f-4cc5-9a44-a0d6f753b759
+:ID:                     875ae37d-527e-438a-bf86-4ebbb62b88e4
 :END:
 A project run by António Marques-Da-Cruz and [[barberry:/producers/9b7d5999-fe0e-4517-ace4-c0573ccbb5b4][Tiago Teles]].
 
 ** Wines
 :PROPERTIES:
-:ID:                     044359e1-c7a2-4629-a506-a67da6f4f14b
+:ID:                     3531b4a3-bb35-415f-810f-7d23eb72101b
 :END:
 
-#+attr_html: :class wines-table
-|                                                  name | vintage | grapes |           region | rate |
-|-------------------------------------------------------+---------+--------+------------------+------|
-| [[barberry:/wines/224602d5-c307-4bfc-b84a-bfeede982fc0][vn-c2 bg]] |    2017 |   Baga | Vinho (Portugal) | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+    <img class="flex-bottle" src="/images/22/4602d5-c307-4bfc-b84a-bfeede982fc0/2022-06-08-09-17-25-IMG-0340.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">vn-c2 bg - 2017</section>
+  </a>
+
+</div>
+#+end_export

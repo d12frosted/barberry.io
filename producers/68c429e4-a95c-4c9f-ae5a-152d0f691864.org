@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     7945fd5e-6d72-4fb4-aced-dcc48a8e1b04
+:ID:                     c69eeed0-363e-46b9-b4e0-57b1dbf69adf
 :END:
 Wine producer from Trentino-Alto Adige, Italy. Colterenzio was created as a cooperative, which is typical in this region. They own one of the oldest vineyards in Europe.
 
@@ -7,10 +7,16 @@ Their most famous wines are from Lafoa. Cabernet Sauvignon Lafoa 2017 is conside
 
 ** Wines
 :PROPERTIES:
-:ID:                     57f8e5ae-73ed-4702-86c6-7bacb282100a
+:ID:                     0fa70a44-c5ea-45ac-b663-750b378cfbb6
 :END:
 
-#+attr_html: :class wines-table
-|                                                                   name | vintage |  grapes |         region | rate |
-|------------------------------------------------------------------------+---------+---------+----------------+------|
-| [[barberry:/wines/7287f76a-ac95-4832-aedc-a5b0bb26aa17][Lagrein Rosе Classic Line]] |    2020 | Lagrein | Alto Adige DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7287f76a-ac95-4832-aedc-a5b0bb26aa17.html">
+    <img class="flex-bottle" src="/images/72/87f76a-ac95-4832-aedc-a5b0bb26aa17/2022-05-08-16-07-14-33618852-1F55-40E6-A2D6-7A31E4B21580-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Lagrein Rosе Classic Line - 2020</section>
+  </a>
+
+</div>
+#+end_export

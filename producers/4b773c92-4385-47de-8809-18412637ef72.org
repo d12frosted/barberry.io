@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     e247fe0f-4373-44b3-bbff-7e3f9a729248
+:ID:                     ba93b130-46bb-4e58-8a10-859b6fc65d88
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     f4cca817-0e74-405a-91c6-6369cd0ea288
+:ID:                     8b1d4165-a060-47fd-bb45-cb38fd4c912d
 :END:
 
-#+attr_html: :class wines-table
-|                                                            name | vintage |     grapes |                region | rate |
-|-----------------------------------------------------------------+---------+------------+-----------------------+------|
-| [[barberry:/wines/1588f9ec-1616-449b-aaac-9d7a0de06655][Mirabai Pinot Noir]] |    2017 | Pinot Noir | Willamette Valley AVA | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <img class="flex-bottle" src="/images/15/88f9ec-1616-449b-aaac-9d7a0de06655/2022-01-16-12-25-14-66975C43-3FDC-4319-891F-AEE7707C3315-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
+  </a>
+
+</div>
+#+end_export

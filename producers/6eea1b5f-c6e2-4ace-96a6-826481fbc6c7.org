@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     2a356d74-0ae7-4897-8525-ccc8f1f7f8d3
+:ID:                     bef5e2be-48a1-45d1-bdc3-ec01a857dee6
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     ce4235d0-9208-433b-b0a6-0d13b3124e98
+:ID:                     7afa510d-ddbb-449f-9ed0-071680ecbc81
 :END:
 
-#+attr_html: :class wines-table
-|                                                        name | vintage |  grapes |             region | rate |
-|-------------------------------------------------------------+---------+---------+--------------------+------|
-| [[barberry:/wines/c93696fa-e43d-429e-b617-67a770c5f78d][Barbera d'Alba]] |    2018 | Barbera | Barbera d'Alba DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c93696fa-e43d-429e-b617-67a770c5f78d.html">
+    <img class="flex-bottle" src="/images/c9/3696fa-e43d-429e-b617-67a770c5f78d/2022-06-09-22-11-03-IMG-0396.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Barbera d'Alba - 2018</section>
+  </a>
+
+</div>
+#+end_export

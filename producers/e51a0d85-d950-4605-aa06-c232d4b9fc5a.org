@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     6d0f0622-01c2-426f-b37e-ed282c61ebf5
+:ID:                     19656212-8623-4527-a798-4f816bcad244
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     c7870560-bde5-4f3f-a367-78611534e067
+:ID:                     16190cbd-8162-4c35-ae17-cb9708c056d9
 :END:
 
-#+attr_html: :class wines-table
-|                                                           name | vintage |                       grapes |     region | rate |
-|----------------------------------------------------------------+---------+------------------------------+------------+------|
-|  [[barberry:/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312][Cava Brut Nature]] |      NV | Xarel-lo, Parellada, Macabeo | Penedès DO | 6.50 |
-| [[barberry:/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93][Cava Organic Brut]] |      NV |                      Macabeo |       Cava | 7.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312.html">
+    <img class="flex-bottle" src="/images/1d/25ec11-e30c-4b90-b800-0e6fb959c312/2022-06-15-07-02-19-F3976D47-4376-42A2-A19F-9C18F4C1B343-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Cava Brut Nature - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93.html">
+    <img class="flex-bottle" src="/images/f4/0ec77a-9564-408b-9fad-7709e2fb6d93/2022-06-20-21-21-10-F0BE04CF-7418-4BEB-8FF2-7A08B968A7D7-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Cava Organic Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

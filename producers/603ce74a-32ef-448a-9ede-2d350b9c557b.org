@@ -1,14 +1,25 @@
 :PROPERTIES:
-:ID:                     afd28008-cfb7-42ba-b454-b215c4e5e2b1
+:ID:                     25ce8d7e-8971-4637-bdc9-8e060772da99
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     555e5fc3-bcb8-4844-91fb-479676900845
+:ID:                     a861a9fb-1b61-4c8b-9a55-853003825cd5
 :END:
 
-#+attr_html: :class wines-table
-|                                                             name | vintage |        grapes |      region | rate |
-|------------------------------------------------------------------+---------+---------------+-------------+------|
-| [[barberry:/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038][Boal Single Harvest]] |    2000 |          Boal | Madeira DOC | 8.67 |
-|        [[barberry:/wines/54468301-969e-41f6-a3f1-404cc7608364][Malvasia 15y]] |      NV | Malvasia Fina | Madeira DOC |    - |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038.html">
+    <img class="flex-bottle" src="/images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463.webp"></img>
+    <section class="h text-small text-lighter">★ 8.67</section>
+    <section class="h text-bolder">Boal Single Harvest - 2000</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/54468301-969e-41f6-a3f1-404cc7608364.html">
+    <img class="flex-bottle" src="/images/54/468301-969e-41f6-a3f1-404cc7608364/2022-06-15-07-35-09-58AA2157-1BAF-4A6E-8D25-90D981612C95-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Malvasia 15y - NV</section>
+  </a>
+
+</div>
+#+end_export

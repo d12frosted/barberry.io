@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     970fac87-771c-4d9e-84fe-3ebb8ebc3991
+:ID:                     f888edc3-9381-48fc-9256-99d663174f77
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     a63e50a5-7961-49a9-8135-25502507968f
+:ID:                     ad8b86be-f506-4ca2-bb27-a2a0f48a37fd
 :END:
 
-#+attr_html: :class wines-table
-|                                                         name | vintage |     grapes |              region | rate |
-|--------------------------------------------------------------+---------+------------+---------------------+------|
-| [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Crémant du Jura]] |      NV | Chardonnay | Crémant du Jura AOC | 7.20 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">
+    <img class="flex-bottle" src="/images/6c/2c4740-c3e0-44e9-9617-6246498ca0d6/2022-06-16-07-52-54-AA9F657A-02B4-4399-8E90-8F0EE0B2F1CF-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h text-bolder">Crémant du Jura - NV</section>
+  </a>
+
+</div>
+#+end_export

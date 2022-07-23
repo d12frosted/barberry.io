@@ -1,13 +1,19 @@
 :PROPERTIES:
-:ID:                     eb2c5821-37de-4156-ad98-969b071168d3
+:ID:                     84b68205-955f-4090-8b7e-6a68602d4908
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     bd85dd2d-7c76-49ea-bc84-ae6d47d9017c
+:ID:                     330d5f93-59c8-428b-a57d-e60510457844
 :END:
 
-#+attr_html: :class wines-table
-|                                                   name | vintage |                           grapes |           region | rate |
-|--------------------------------------------------------+---------+----------------------------------+------------------+------|
-| [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Costalupo]] |    2021 | Chardonnay, Trebbiano, Passerina | Controguerra DOC | 6.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">
+    <img class="flex-bottle" src="/images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h text-bolder">Costalupo - 2021</section>
+  </a>
+
+</div>
+#+end_export

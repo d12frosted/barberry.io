@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     6f0fc58a-1440-4eb5-a850-16bf31be3c35
+:ID:                     91c96a45-1607-4684-956d-ccac83432782
 :END:
 Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Don't believe me? Just take a closer look!
 
@@ -17,12 +17,28 @@ See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
 
 ** Wines
 :PROPERTIES:
-:ID:                     30d92925-b3a6-4709-831c-80c16886c8cc
+:ID:                     790bd7f4-9d26-4d4c-8c96-4437b7086e44
 :END:
 
-#+attr_html: :class wines-table
-|                                                                  name | vintage |                       grapes |    region | rate |
-|-----------------------------------------------------------------------+---------+------------------------------+-----------+------|
-| [[barberry:/wines/e3066d69-912c-4727-ae59-de6327702828][Baw Baw Shire Chardonnay]] |    2019 |                   Chardonnay | Gippsland | 8.00 |
-|                [[barberry:/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4][Bullswamp]] |    2019 |                   Chardonnay | Gippsland | 8.25 |
-|         [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Rain Field Blend]] |    2019 | Cabernet Franc, Pinot Grigio | Gippsland | 8.00 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
+    <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">
+    <img class="flex-bottle" src="/images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h text-bolder">Bullswamp - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Rain Field Blend - 2019</section>
+  </a>
+
+</div>
+#+end_export

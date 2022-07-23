@@ -1,13 +1,18 @@
 :PROPERTIES:
-:ID:                     738f5b12-beeb-4ccc-8b49-7a2b0a65b435
+:ID:                     f1e011a6-da9c-4d2a-9840-a1fd3c73e80f
 :END:
 
 ** Wines
 :PROPERTIES:
-:ID:                     81cc75b9-0ad8-4d9b-8ff6-4209545bff9d
+:ID:                     c95beeda-8edd-423c-be0e-7bb41446b93e
 :END:
 
-#+attr_html: :class wines-table
-|                                                             name | vintage |                     grapes |    region | rate |
-|------------------------------------------------------------------+---------+----------------------------+-----------+------|
-| [[barberry:/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9][Médoc Cru Bourgeois]] |    2011 | Merlot, Cabernet Sauvignon | Médoc AOC | 7.50 |
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9.html">
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Médoc Cru Bourgeois - 2011</section>
+  </a>
+
+</div>
+#+end_export
