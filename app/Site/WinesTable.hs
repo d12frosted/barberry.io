@@ -50,6 +50,7 @@ convert = walk go . embedImport
             ("data-toggle", "table") :
             ("data-search", "true") :
             ("data-show-columns", "true") :
+            ("data-show-columns-toggle-all", "true") :
             ("data-pagination", "false") :
             ("data-search-accent-neutralise", "true") :
             ("data-trim-on-search", "false") :
