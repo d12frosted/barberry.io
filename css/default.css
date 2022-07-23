@@ -509,7 +509,7 @@ article dd {
 }
 
 .wine-main-image {
-  width: 180px;
+  width: 75%;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -554,10 +554,15 @@ ul.rating-list {
 .flex-item {
   padding: 1.2rem;
   flex: calc(50% - 0.6rem);
+  max-width: calc(50% - 0.6rem);
   border: var(--subtle);
   border-width: 1px;
   /* border-style: solid; */
   /* margin-block-end: 0.6rem; */
+}
+
+.flex-bottle {
+  max-width: 75%;
 }
 
 .flex-item:hover {
@@ -671,6 +676,7 @@ ul.rating-list {
     margin-left: 2rem;
   }
   .wine-main-image {
+    width: 37.5%;
     float: right;
     margin-left: 2rem;
     margin-bottom: 2rem;
@@ -680,6 +686,7 @@ ul.rating-list {
 @media (max-width: 800px) {
   .flex-item {
     flex: 100%;
+    max-width: 100%;
   }
   .flex-item-right, .flex-item-left {
     margin-inline-start: 0;
