@@ -318,6 +318,11 @@ Access to full ITEMS for related wines."
           (unless (porg-item-item it)
             (user-error "Could not get related note of '%s'" (vulpea-note-title note)))
           (let* ((note (porg-item-item it))
+                 (img (vulpea-note-meta-get note "images" 'link))
+                 (img-item (when img (gethash (concat (vulpea-note-id note)
+                                                      ":"
+                                                      (s-chop-prefix "attachment:" img))
+                                              items)))
                  (id (vulpea-note-id note))
                  (producer (vulpea-note-meta-get note "producer" 'note))
                  (name (vulpea-note-meta-get note "name"))
@@ -327,6 +332,9 @@ Access to full ITEMS for related wines."
                         "flex-item-right")))
             (insert
              "  <a class=\"flex-item " pos "\" href=\"/wines/" id ".html\">\n"
+             (if img-item
+                 (concat "    <img class=\"flex-bottle\" src=\"/" (porg-item-target-rel img-item) "\"></img>\n")
+               "")
              "    <section class=\"h text-small text-lighter\">" (vulpea-note-title producer) "</section>\n"
              "    <section class=\"h text-bolder\">" name " - " vintage "</section>\n"
              "  </a>\n\n")))
