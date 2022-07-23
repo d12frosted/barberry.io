@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     0f88ffaa-8486-4cf7-89ef-24ab34b7d4ce
+:ID:                     2b55cab3-9c83-445c-b287-42cdc6577be0
 :END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
@@ -13,7 +13,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     d737b5e9-244c-4c77-81af-848f80434382
+:ID:                     5d82d1ed-2c37-4c7e-8cfc-8ae80949c3c8
 :END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
@@ -30,19 +30,19 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     7863fc8e-1839-4e37-a4d9-6eab5630118b
+:ID:                     dc256793-bc18-402f-9377-de49526c6d31
 :END:
 
 *** 2021-12-09 - ☆ 8.00
 :PROPERTIES:
-:ID:                     d46decfc-c2e4-4845-8920-ff1cd1c3cc5c
+:ID:                     b73f2571-8166-4d70-8f4a-ca142cc2ea76
 :END:
 
 One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, strawberry, spices and some animal notes. Well balanced, fresh, elegant and just delicious. Quaffable, unfortunately, quaffable.
 
 ** Related
 :PROPERTIES:
-:ID:                     43309f21-7da2-4b99-a643-0d26b287412b
+:ID:                     3310aba1-f45a-45b2-9484-3eedcba49dbe
 :END:
 
 #+begin_export html
@@ -107,6 +107,7 @@ One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, s
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+    <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>

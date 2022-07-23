@@ -1,6 +1,9 @@
 :PROPERTIES:
-:ID:                     8470939a-2ff5-42c5-99a5-aa501b96864e
+:ID:                     60135406-9999-461f-9407-c34784dc6dd9
 :END:
+#+attr_html: :class wine-main-image
+[[file:/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp]]
+
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
 - Vintage :: 2012
@@ -13,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     fca9f80d-2184-43fa-8347-e64956db7311
+:ID:                     0b11ca2e-1d72-45be-a58e-7ef16ecc0cac
 :END:
 
 *** 2021-12-08 - ☆ 8.50
 :PROPERTIES:
-:ID:                     b6c0971b-5958-4b75-8f69-2eb10dfa11ad
+:ID:                     28928202-e6b5-4521-8f9c-b56a72bfb71d
 :END:
 
 Wonderful Savagnin that spent quite amount of time under flor. Intense Jerez-like bouquet with notes of apple, nuts, mould, mushrooms and tilia honey. Multilayered, fresh and with persistent aftertaste.
@@ -27,12 +30,13 @@ Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880
 
 ** Related
 :PROPERTIES:
-:ID:                     d16b74da-3f26-465f-be2c-228cb95e47cf
+:ID:                     3782ca7e-11b8-40f5-af44-13aaec2aa6b5
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+    <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>

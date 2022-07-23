@@ -1,6 +1,9 @@
 :PROPERTIES:
-:ID:                     07ea1564-4291-4cdd-acb6-cd68fe7566ee
+:ID:                     fc641890-e879-4689-a9a8-d7150cebc70c
 :END:
+#+attr_html: :class wine-main-image
+[[file:/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp]]
+
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
 - Vintage :: 2017
@@ -13,24 +16,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8e86f36f-5266-46bf-a017-68b709ed6967
+:ID:                     0592f523-6284-419b-a622-9b1c43d1eb69
 :END:
 
 *** 2021-12-09 - ☆ 7.25
 :PROPERTIES:
-:ID:                     fa6af1b3-5928-4e95-84c1-3a8e739010be
+:ID:                     12eea2f7-2656-41e1-9a51-d86c854aefce
 :END:
 
 Simple Trousseau from Arbois. Cranberry, cherry and notes of coffee (maybe someone is hiding coffee beans near me?). Looks like someone had too much oak. Nice acidity, good volume, but lacks depth.
 
 ** Related
 :PROPERTIES:
-:ID:                     ad422c6d-7e42-4b3d-8834-1a88713ef87e
+:ID:                     fb44545c-8296-4a4a-be81-07a8fb1de179
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+    <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Arbois Vin Jaune Les Bruyeres - 2012</section>
   </a>
