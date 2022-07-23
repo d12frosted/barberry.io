@@ -62,7 +62,7 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile customPandocCompiler
 
-  match postsPattern $ do
+  match "posts/*.org" $ do
     route $ setExtension "html"
     compile $
       customPandocCompiler
@@ -270,9 +270,6 @@ processTastingScores = walk $ \case
 
 --------------------------------------------------------------------------------
 
-postsPattern :: Pattern
-postsPattern = "posts/*.org"
-
 loadAllPosts :: UTCTime -> Compiler [Item String]
 loadAllPosts = loadPosts
 
@@ -282,7 +279,7 @@ loadPosts now =
     =<< skipAfter now
     =<< recentFirst
     =<< keepPosts
-    =<< loadAll (postsPattern .||. "producers/*.org")
+    =<< loadAll ("posts/*.org" .||. "producers/*.org")
 
 skipAfter :: (MonadFail m, MonadMetadata m) => UTCTime -> [Item a] -> m [Item a]
 skipAfter now =
