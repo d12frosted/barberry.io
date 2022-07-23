@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     38970d4e-f29a-4982-838f-37fd224ebb58
+:ID:                     6aaae9a0-143d-4fa3-9938-df4841166a36
 :END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]
@@ -13,63 +13,69 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     6d4f7560-e292-4b01-8dc5-96e1fd544ee5
+:ID:                     6603811d-6bdc-4657-accf-119f9203072d
 :END:
 
 *** 2020-08-10 - ☆ 7.00
 :PROPERTIES:
-:ID:                     e296f1fc-653a-42f0-a8f1-10e21fbb8877
+:ID:                     49cce036-ad89-450b-be47-15721eb8e774
 :END:
 
 Strawberry, cranberry and pine! With subtle barn hints. Bright acidity, good tannins. Overall sophisticated light wine. In the hot evening pairs perfectly well with 'The Foam of Days' by Boris Vian.
 
 *** 2020-08-16 - ☆ 7.00
 :PROPERTIES:
-:ID:                     444273b2-be1b-4a71-a3a9-109b2389989d
+:ID:                     5a8581a6-4090-4509-917b-8f1182c84516
 :END:
 
 Not sure why I've got the second bottle, but I not sad at all! Strawberry, pine, soaked apples and pickles, cranberry and thyme. Good mix of different characteristics. Viscous wine with bright acidity and tannins. Long aftertaste (why most of the wines I drink have long aftertaste?) with pine-strawberry flavours.
 
 *** 2020-11-24 - ☆ 7.50
 :PROPERTIES:
-:ID:                     044f489c-53a3-4710-9de8-d6f20afbaf8c
+:ID:                     ee076407-1fe8-44c9-b2ed-7ab59e461dc3
 :END:
 
 Tasting again in 5 months and I like it more now. It become deeper and more interesting. Now it has less soaked things in aroma, it's mostly about strawberries, leather and paint. Light and pleasant, easy to drink.
 
 ** Related
 :PROPERTIES:
-:ID:                     c65ec720-f95d-47fd-9aa6-5a76dfb159fa
+:ID:                     4ee97afa-a6aa-4d24-ae19-47f70e76d798
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/042cfcdf-fc2e-4716-881b-5546c6124052.html">
+    <img class="flex-bottle" src="/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <img class="flex-bottle" src="/images/72/b542d8-fab8-4147-8436-297f41c46ade/2020-07-08-15-29-42-5EFAB626-9612-4DBF-A836-8295ED8E170B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <img class="flex-bottle" src="/images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Crazy Crazy - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <img class="flex-bottle" src="/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>

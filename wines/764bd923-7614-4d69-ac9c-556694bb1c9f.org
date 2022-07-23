@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     8ab258c7-1eb0-4703-8c81-9d89b707a934
+:ID:                     73292e1f-076f-4bd5-812f-ceaad79c3c2e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp]]
@@ -16,34 +16,37 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     f7941e47-fef1-4d3e-b7ab-a2d35af6c521
+:ID:                     a2bd6b29-c6d3-4c92-91a0-2efda045a2de
 :END:
 
 *** 2022-07-07 - ☆ 7.00
 :PROPERTIES:
-:ID:                     ddba9685-d791-4aa1-857f-3bcfac71f235
+:ID:                     cd2fd1b9-2c6e-434e-9c45-05517d9e2d14
 :END:
 
 I was lucky to get my hands on an older bottle with only 11.5 abv. Pleasant and easy drink, with lots of raspberry and red currant followed by yeasty notes. So it got me curious about the technical aspect of this wine production, but I could not find anything useful on the official site. Easy and simple wine, friendly thanks to higher sugar.
 
 ** Related
 :PROPERTIES:
-:ID:                     9de2416b-4734-4ac5-aa9e-534dc4fa00d6
+:ID:                     6a350217-912c-42d9-876e-660a4a3eb00d
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">
+    <img class="flex-bottle" src="/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Classic Chardonnay - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">
+    <img class="flex-bottle" src="/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Ruby - 2020</section>
   </a>

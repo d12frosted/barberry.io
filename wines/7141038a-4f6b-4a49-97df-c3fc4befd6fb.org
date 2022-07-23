@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     888fa1aa-dc08-4768-a609-d249ea7320be
+:ID:                     a2cc8939-f034-4b47-8ff5-e1b2f21f70d7
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/71/41038a-4f6b-4a49-97df-c3fc4befd6fb/2022-07-23-10-44-41-CDAA8355-B702-4905-AADC-99BE74F47CD4-1-105-c.webp]]
@@ -16,44 +16,50 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     70cfc410-b008-449c-8eca-937ae046ac25
+:ID:                     bc62c18a-f04b-4060-86e2-bbdb5b72a22c
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     ce7a5603-9c94-4f48-8384-c8428a5e0966
+:ID:                     a73c2af3-4f3d-48e7-bffa-1388d59be4de
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1357c3ce-cad1-4f2d-8473-4e05fd524a29.html">
+    <img class="flex-bottle" src="/images/13/57c3ce-cad1-4f2d-8473-4e05fd524a29/2021-09-15-20-57-33-C8969034-BEBE-44D5-B69B-2A585A38EDB8-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">J'en veux encore !!! - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2e22de49-4153-4f46-bef2-7806cd612810.html">
+    <img class="flex-bottle" src="/images/2e/22de49-4153-4f46-bef2-7806cd612810/2021-08-18-10-33-38-22BFC91A-1343-4B19-8EDF-8B537419E72F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">La Graviere - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5f49c6c1-3ce2-484a-96a4-cf48058e1f68.html">
+    <img class="flex-bottle" src="/images/5f/49c6c1-3ce2-484a-96a4-cf48058e1f68/2021-09-01-22-21-49-4A81CD18-7FE4-4713-9A13-2567667D3E5D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Arces - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
+    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0368.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
+    <img class="flex-bottle" src="/images/97/02605f-3ee2-47ca-af73-037b8a4e6c23/2021-11-14-12-46-08-2C51E28D-3C4F-421D-AFC0-4434D0130F23-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Poulprix - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
+    <img class="flex-bottle" src="/images/b8/12f67d-dfa6-4037-b6eb-dc0144b59001/2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Le Jaja du Fred - 2019</section>
   </a>

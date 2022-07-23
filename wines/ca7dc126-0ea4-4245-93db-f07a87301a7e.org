@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     db048614-70c6-4f95-936a-8a12a32d7d1a
+:ID:                     412e33bb-f213-4a88-9666-3f7e3b7365f2
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2021-12-27-18-33-45-9D5CF52D-9AB7-4F51-9AFF-D9F5D7609EA5-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     0a37adae-a176-4ad7-96b1-d90e9b6592a9
+:ID:                     3525a0f1-3be2-4c5e-aea7-f4b615d27fb3
 :END:
 
 Wonderful winemaker from Champagne.
@@ -33,54 +33,61 @@ Guilde to Goodwine #38
 
 ** Ratings
 :PROPERTIES:
-:ID:                     88f7a302-f93c-4b4e-b91c-d795fe17b64e
+:ID:                     68182477-a761-47c5-8b99-0efc762c9849
 :END:
 
 *** 2022-06-10 - ☆ 9.00
 :PROPERTIES:
-:ID:                     4726d77e-30ad-483a-9c43-d9fe5c510c01
+:ID:                     db9dc16e-de8a-48e2-9cf5-5d26cf60ad88
 :END:
 
 The Soul of the Earth. 16 years old cuvée that spent 13 years on lees. Result? Amazing! Expressive oxidative bouquet full of baked apples, bruised apples, honey, nuts and Jerez. Soft, almost perfectly balanced, multilayered with good volume and long evolving aftertaste. Delicious.
 
 ** Related
 :PROPERTIES:
-:ID:                     23e25c57-f20b-4c13-9339-ec964ca28b5f
+:ID:                     70bbbd44-d6d6-43b8-9b8a-b6425f2eb66f
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">
+    <img class="flex-bottle" src="/images/40/a31b63-1452-4566-9557-b9f078ff6d64/2021-12-23-09-07-40-C159EEC7-7228-4B4D-9C1A-899C697A1349-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
+    <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
     <section class="h text-small text-lighter">Spy Valley</section>
     <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>

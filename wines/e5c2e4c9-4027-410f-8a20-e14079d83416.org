@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     b5b95789-0785-4524-8ca0-f2bf51d73038
+:ID:                     66745bd4-b770-45ae-89a8-8d33868198df
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/e5/c2e4c9-4027-410f-8a20-e14079d83416/2020-08-13-08-57-34-ADE4EDAE-70E0-445D-A462-FB72F489EFBA-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     ed5472fe-6b79-4185-be52-87b23e9339fc
+:ID:                     b3e95116-0052-4bdb-bdac-1459e7467626
 :END:
 
 Stanko Radikon is a legendary farmer and winemaker from a legendary region. He and his friends ([[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Gravner]]) started period of renaissance for amber wines - white wines with extended skin maceration. But of course, in town of Oslavia it was called "Slovenian" or "Friuli" style - hand-harvesting, skin contact, large and older barrel fermentation without any temperature control, no added yeasts or enzymes, and little to no use of sulfur.
@@ -29,34 +29,37 @@ After Stanko passing away in 2016, his son Saša took the winery in his hands. T
 
 ** Ratings
 :PROPERTIES:
-:ID:                     911b35c9-efaa-4c08-b6ab-0e59a6ddf359
+:ID:                     0d7fe83c-1f9b-44c7-991c-e03f35ae364c
 :END:
 
 *** 2020-08-12 - ☆ 8.00
 :PROPERTIES:
-:ID:                     6d42d66f-2c46-41c0-b841-c33b94cc0f45
+:ID:                     2b240928-c574-459c-9892-977072d96f20
 :END:
 
 Elegant, fruity with hints of pickles. Lemon curd and apricot. Good structure and tannins, long finish, flavours of citrus, apples and acetone. Tasty and sophisticated.
 
 ** Related
 :PROPERTIES:
-:ID:                     6bf4f3ff-cd0d-4102-996d-7de816ba88b9
+:ID:                     9b7691ad-f55e-43d7-a8ed-eeb9665c76af
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/bb8ae1e3-0415-4012-ab06-55937df3cc10.html">
+    <img class="flex-bottle" src="/images/bb/8ae1e3-0415-4012-ab06-55937df3cc10/2021-03-20-09-27-04-A6B8D25C-4CB4-4360-BE7C-46DEA0AC36CE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Jakot - 2013</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
+    <img class="flex-bottle" src="/images/e9/365c42-85f2-472a-b2cb-c16985f36a4e/2021-03-20-09-18-16-549E62EC-36E7-4CC8-9A27-6839AFB2B85D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Slatnik - 2018</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e90940fc-eb1f-47bd-9c58-89616beac864
+:ID:                     5c2dfa75-d6c2-4b4e-81f3-48ea7ad858c7
 :END:
 - Type :: Rose Sparkling, Brut nature
 - Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
@@ -13,24 +13,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     4324737a-1b29-4b03-8434-162f5cecee4a
+:ID:                     1668b549-8bcf-4b98-8694-5c5ad2cc47cc
 :END:
 
 *** 2021-06-14 - ☆ 7.25
 :PROPERTIES:
-:ID:                     e098935a-043d-4dcb-9b74-0d793faec002
+:ID:                     c642dc41-76e0-4a1c-8717-3d03b85d6d40
 :END:
 
 Sparkling wines made of Syrah is not something I drink every month. And unlike Peppermint Paddock, this one is traditional method rosé. A little bit of VA, wild red berries, raw meat with notes of fermented stuff. Rich, even profound, with long aftertaste full of fermented strawberry with nice mineral finish. Overall it's good, but the palate is not fascinating and lacks acidity. With aeration quickly becomes dull.
 
 ** Related
 :PROPERTIES:
-:ID:                     c22b8e67-fe0f-4414-b034-5ba5fd204b08
+:ID:                     53153314-cc81-413c-81a5-17eb54e5713d
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <img class="flex-bottle" src="/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Gentleman - 2016</section>
   </a>
@@ -41,6 +42,7 @@ Sparkling wines made of Syrah is not something I drink every month. And unlike P
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/55d3286d-d7ce-4659-abca-b0bee73944a9.html">
+    <img class="flex-bottle" src="/images/55/d3286d-d7ce-4659-abca-b0bee73944a9/2021-06-15-08-32-24-53AB4DC4-9B36-4AB1-97DB-F7347BED1549-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sous Le Végétal</section>
     <section class="h text-bolder">Octave - 2018</section>
   </a>

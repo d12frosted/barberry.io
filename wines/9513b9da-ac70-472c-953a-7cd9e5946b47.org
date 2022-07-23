@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cc9bbbe2-8e1d-4254-82a4-f5df4cc31816
+:ID:                     77b34edf-e9bc-44c1-834c-26731c90f965
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c.webp]]
@@ -28,12 +28,12 @@ The fermentation process can sometimes take up to 10 or more days to initiate an
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9713941b-2740-4a49-a561-8d906dd05fdb
+:ID:                     20640364-2571-4503-b96a-8d112fe9a31e
 :END:
 
 *** 2022-06-21 - ☆ 8.50
 :PROPERTIES:
-:ID:                     c8c6edb8-06ff-4e30-b1ea-54c4b7006d2e
+:ID:                     91f8df10-3ff6-4c95-b0b6-8254cc9ce7e8
 :END:
 
 Incredible multilayered Chenin Blanc that despite its complexity stays friendly and approachable. It offers a wide range of field flowers, smoke, honey, stone fruits, and lemon peel. Fresh flavours of pear lollipop, crème brûlée, and wet stones. Almost perfectly balanced, long aftertaste with a nice slightly bitter finish. It still amazes me that it's so easy to buy it in Kyiv.
@@ -42,42 +42,49 @@ Wine #4 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin 
 
 ** Related
 :PROPERTIES:
-:ID:                     1fa35f4b-06f4-420a-8ff3-65bb3aa34162
+:ID:                     99a31880-ce8d-477b-b600-bb64a183f901
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Pofadder - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <img class="flex-bottle" src="/images/ce/63f4af-0443-440e-b997-3602ebee4d80/2020-09-20-10-16-38-A53DA59D-B5CB-4E4C-B3F8-69F419ACAACD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Pofadder - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/084f2900-816b-4687-bceb-9fe28995f7cc.html">
+    <img class="flex-bottle" src="/images/08/4f2900-816b-4687-bceb-9fe28995f7cc/2022-05-08-16-14-07-C8EB9916-4DCA-4E14-81F1-C4A8C12D814D-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Les Vignes De Paradis</section>
     <section class="h text-bolder">Chenin - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">
+    <img class="flex-bottle" src="/images/0a/a4db7d-22bc-4e3e-876a-1740b7cfe73f/2022-05-08-16-07-29-56302E38-0D8B-4AEE-A7DC-10D011443159-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Costador</section>
     <section class="h text-bolder">Metamorphika Chenin Blanc - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+    <img class="flex-bottle" src="/images/83/d90838-5e63-43af-abc5-f5fb482bc36f/2021-11-26-07-56-58-413ECF5C-A714-4E30-9173-CC549B874B94-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
+    <img class="flex-bottle" src="/images/a0/0de9a6-3e60-4ab4-8b81-279995809572/2022-06-21-14-29-45-EB85A16C-F636-4B32-A6DE-208899B4AA1C-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
+    <img class="flex-bottle" src="/images/d3/8aadd5-6c84-40a0-93c9-8ff6b7468553/2022-06-21-14-31-39-C73B544C-2B9B-4113-B737-A75DE735090F-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito Skin - 2019</section>
   </a>

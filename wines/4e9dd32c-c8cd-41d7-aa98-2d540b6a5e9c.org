@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     5728d827-8411-4d93-b7c1-be8b6c5ce4e7
+:ID:                     505033c5-1c29-4edf-9adc-70a8e729cf6e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     1bc908bf-b446-4ee8-a1fc-8b0faf73403f
+:ID:                     e85e76d4-e9c4-4814-ab5d-1c79941894f2
 :END:
 
 *** 2022-05-29 - ☆ 7.75
 :PROPERTIES:
-:ID:                     0cfd04ee-5fdf-4ae4-8082-9bbf08580f96
+:ID:                     10fda073-82ca-4e18-9148-6b7523add987
 :END:
 
 Conca del Riu Anoia is one more step out of big Cava DO. And it has all the rights to, because it also steps out with it delicate and precise profile. Intriguing nose with citrus, minerals and stone fruits. Focused, yet creamy palate with flavours of honeysuckle, cream and pear. Aftertaste is long and evolving. It's also interesting that aside from common grapes for this region they are also using Malvasía de Sitges.
 
 ** Related
 :PROPERTIES:
-:ID:                     bfb2f183-d617-45e4-a66e-f83ac03ff4a8
+:ID:                     1a998132-7cf0-41bd-a428-1d14676c3466
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
+    <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045.webp"></img>
     <section class="h text-small text-lighter">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
   </a>

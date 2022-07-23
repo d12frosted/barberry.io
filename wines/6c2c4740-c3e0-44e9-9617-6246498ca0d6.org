@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e881f0a3-4690-4cf2-b37f-96f7d33c955e
+:ID:                     a51e29eb-1db8-4ed5-a7f3-2dfc64208e62
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/6c/2c4740-c3e0-44e9-9617-6246498ca0d6/2022-06-16-07-52-54-AA9F657A-02B4-4399-8E90-8F0EE0B2F1CF-1-105-c.webp]]
@@ -16,39 +16,43 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     fbab269e-af94-4bed-baf3-dc11da47c548
+:ID:                     d8209ba3-6f0c-4c8b-8f6d-4d99ba3e2838
 :END:
 
 *** 2022-06-15 - ☆ 7.20
 :PROPERTIES:
-:ID:                     a81c4e0e-fcfb-428f-9b53-2864c174506c
+:ID:                     77372c7c-d88d-4640-bc8e-6e6cde0412ad
 :END:
 
 Decent straight-forward bubbles. No secrets, no surprises, just creamy and tasty. Lollipops, apples, crème brûlée, and cream soda. Friendly palate, good value.
 
 ** Related
 :PROPERTIES:
-:ID:                     593fe217-e52d-448b-9c2e-807eac860c68
+:ID:                     eb72ac11-4d7f-498c-9279-70249ce3998c
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
+    <img class="flex-bottle" src="/images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Mouzon-Leroux</section>
     <section class="h text-bolder">L'Atavique - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+    <img class="flex-bottle" src="/images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f74ac1a6-e626-463a-8220-b09ed711bebf
+:ID:                     80374a11-a24a-4175-ab98-b74a8c3c9448
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp]]
@@ -16,24 +16,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8a6c0e21-5510-4c98-bed3-63425d028e6b
+:ID:                     c8f9fd51-12fb-4f84-88a5-ad24eddecb0a
 :END:
 
 *** 2020-10-16 - ☆ 8.50
 :PROPERTIES:
-:ID:                     b369c740-360c-43b9-a561-a5930db3496c
+:ID:                     2801afb8-bc02-4ba9-b423-30b0ec6fea3c
 :END:
 
 An earthy wine full of fruits and tobacco. Rustic character, barnyard flavours, good acidity. It is a little bit funky at the beginning, but aerate and enjoy. Definitely not for party, it's too sophisticated for that.
 
 ** Related
 :PROPERTIES:
-:ID:                     23673bb6-405e-4e07-8949-51c8a2c29f59
+:ID:                     2c607ac7-8b57-40b5-aeac-1c616d64fb95
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ea9b241a-ec1f-4814-ad56-899d497fe95a.html">
+    <img class="flex-bottle" src="/images/ea/9b241a-ec1f-4814-ad56-899d497fe95a/2021-09-01-22-29-10-3350D65C-E4EA-46E7-9D72-DE6C4CD3F7F9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tiago Teles</section>
     <section class="h text-bolder">Raiz Red - 2017</section>
   </a>

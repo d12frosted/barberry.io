@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     eff581b4-e373-4455-bf3a-469f8abc9b06
+:ID:                     2ce2f9e5-878c-4816-b0bd-e897c4c8c61f
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     aa9558c0-e5af-4bfb-b4c3-c5585e4be30f
+:ID:                     bc7ed986-25ca-4d2e-afee-a59f03b69c15
 :END:
 
 *** 2021-09-14 - ☆ 8.50
 :PROPERTIES:
-:ID:                     8985febd-cffb-4ad9-a1ae-27c720e0fa7a
+:ID:                     536ef9f9-0a6c-4924-965c-809fdf48020e
 :END:
 
 Tasted in 101 Bar after Na Uzbičči event. We decided to keep it going haha.
@@ -30,7 +30,7 @@ It's not a secret that I love this producer. I started to appreciate Champagne w
 
 *** 2022-05-14 - ☆ 8.50
 :PROPERTIES:
-:ID:                     41e205a0-2d40-401b-abbf-d443ae9a4ea9
+:ID:                     eac1e08c-cdb1-4a45-a918-820aefde3a4d
 :END:
 
 Tasted in Carpathian Mountains from basic Spigelau glassware.
@@ -39,22 +39,25 @@ Even after 8 months since my last tasting, Cuvée 744 still seem too young. All 
 
 ** Related
 :PROPERTIES:
-:ID:                     4798bbd4-d1d5-4393-b804-7612b2ade165
+:ID:                     e24d5d41-ffd5-436e-ac3f-20d719222d2d
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
+    <img class="flex-bottle" src="/images/73/61e3ae-a0a0-494d-a027-63acd9abdded/2020-07-29-09-53-43-4D6FCC91-4989-4701-AD16-815B802B2389-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>

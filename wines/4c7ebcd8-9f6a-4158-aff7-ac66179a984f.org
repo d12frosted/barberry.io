@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     1660313b-3144-46d9-8a0a-112685d86fea
+:ID:                     1ba58267-22b7-4251-9e92-6b36dcad2bc4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     49c59a73-db11-4eb6-88f0-0bd2a8d13949
+:ID:                     6e941642-b742-4b05-8fe5-2e4657b8b8e9
 :END:
 
 Guillaume d'Angerville, current owner of famous Le Domaine Marquis d'Angerville from Bourgogne, decided to create a new project in Jura after tasting a single bottle - Tissot’s Chardonnay Arbois Les Bruyères 2005.
@@ -29,12 +29,12 @@ Guillaume d’Angerville
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9f6effa3-f0c6-44f4-ba45-4602fb43b64b
+:ID:                     25794085-f68f-476b-a238-bb8771c9a197
 :END:
 
 *** 2022-07-05 - ☆ 8.50
 :PROPERTIES:
-:ID:                     af5b9f0d-0722-4fe3-a45c-008871834c8c
+:ID:                     a99e05ae-5449-4ed6-a083-ea0514bf3d08
 :END:
 
 Complex and multilayered Savagning in a clean (e.g. no flor) style. Ouillé! Fried sunflower seeds, lemon peel, sesame, honey, used leaves of aged Bái Mǔ Dān. And what an incredible acidity despite its age. Almost perfect balance, long aftertaste, vigorous and flavourful. Great wine, yet hard to appreciate on a blind tasting. Something I would love to buy and taste again in five or ten years.
@@ -43,17 +43,19 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
 :PROPERTIES:
-:ID:                     789d74e8-86f5-40bc-bd82-30eb1cf87a79
+:ID:                     65ba9fd1-c637-4a30-aed0-b2d32970161c
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
+    <img class="flex-bottle" src="/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Éric Chevalier</section>
     <section class="h text-bolder">Cirrus - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
+    <img class="flex-bottle" src="/images/44/ee0d12-de03-42f2-83f0-502be8bd54b0/2022-06-21-14-32-56-92927A43-D648-451D-B84F-CB4DE7ED60EF-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2019</section>
   </a>
@@ -64,16 +66,19 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp"></img>
     <section class="h text-small text-lighter">Patrick Sullivan</section>
     <section class="h text-bolder">Rain Field Blend - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/baf18c42-2e67-4108-967a-d540bc105779.html">
+    <img class="flex-bottle" src="/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp"></img>
     <section class="h text-small text-lighter">Cascina Bertolotto</section>
     <section class="h text-bolder">Spumante Brut Metodo Classico - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
+    <img class="flex-bottle" src="/images/dd/ee2b3f-3dcc-4ae6-9c11-31dea06d5d79/2022-05-08-18-05-34-IMG-0038.webp"></img>
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Poliphonia - 2019</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     3bec69f8-1349-4ee4-a6a5-b7a0f3d57289
+:ID:                     d52ce831-086d-42d8-a4a6-ba91e7c5d2a0
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/70/1467bd-f72d-461f-a59e-5d7da0e98a8f/2020-10-18-13-53-29-398E0F67-117F-4535-9055-9779F45E327C-1-105-c.webp]]
@@ -16,41 +16,44 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     fc7cfedb-5d76-40ae-9e82-e523ed210869
+:ID:                     74f26a71-eb2f-44cd-bb3a-5b699f658aac
 :END:
 
 Famous producer from Argentina. They say that Catena family has resurrected Malbec.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     871eaf13-e4ec-493a-bbd1-ef86119d45f4
+:ID:                     2520771d-36e9-49da-886b-8ae943a5ec58
 :END:
 
 *** 2020-10-28 - ☆ 8.00
 :PROPERTIES:
-:ID:                     34f40886-ffd5-4cc4-b857-29b9d9e24952
+:ID:                     e18d4640-8d9f-4a6e-aa92-02ec97e9b234
 :END:
 
 Aside from catching label displaying the history of Malbec from Catena perspective, Argentino is an expressive, fruity, but not over-jammy Malbec. Black fruits, plum, chocolate, vanilla and violets. Elegant, silky, though feels too sweet for my taste.
 
 ** Related
 :PROPERTIES:
-:ID:                     5d47ee0e-cded-4f0b-901b-45b155f6ecf5
+:ID:                     f5cc353b-114d-40d0-9c76-62896ba697a7
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25222939-23da-4fee-99de-28482c8f24e6.html">
+    <img class="flex-bottle" src="/images/25/222939-23da-4fee-99de-28482c8f24e6/2021-09-18-10-32-46-33786B15-4A07-4E66-9C26-6C679D724F40-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+    <img class="flex-bottle" src="/images/3f/379a50-e386-49c9-a754-66b068648c81/2022-06-09-22-03-13-IMG-0389.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
+    <img class="flex-bottle" src="/images/e2/cc07f9-3466-4ab0-bc5b-aaace9681868/2022-06-12-17-34-19-19E382A8-52F8-4A88-949F-C14981A2175E.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     0fb9bfed-a850-49ec-93cf-cee8193f2f22
+:ID:                     bd34bdb0-b036-46d1-86c1-573bbfcf6b11
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp]]
@@ -16,19 +16,19 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     c16a89e9-bbcd-4823-a2f8-86fff7421ae0
+:ID:                     3d4ed291-3465-45cf-bc27-78de1332c672
 :END:
 
 Descendant of wine makers, Francois Montand was raised in Champagne. But during WWII he moved to Jura, where he settled and started to produce sparkling wines in traditional method, but with no classification.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     2845bf24-0ae7-4c91-b395-7e75e3708dab
+:ID:                     f15a0ec1-14c8-4831-8a66-c35662d9d86e
 :END:
 
 *** 2021-09-02 - ☆ 7.40
 :PROPERTIES:
-:ID:                     d33989b0-635e-4c87-8354-5ea12c89778c
+:ID:                     d8baa77b-8662-46b6-906f-f12646e201f8
 :END:
 
 Rose Sparkling wine tasting event at Goodwine TSUM.
@@ -40,7 +40,7 @@ mediocre Cava for this price. Everyday drink!
 
 *** 2021-12-10 - ☆ 7.25
 :PROPERTIES:
-:ID:                     fab833f3-be20-4e90-91e7-67353b5cde8a
+:ID:                     94f2c5d0-d2cd-4d19-b27b-4d4c122324c3
 :END:
 
 Simple and straight-forward bubbles that for the last 3 months I
@@ -51,34 +51,38 @@ traditional brut for the right price.
 
 *** 2022-05-29 - ☆ 7.00
 :PROPERTIES:
-:ID:                     31e55bcd-5e3c-4a9e-bc62-d927cff6c042
+:ID:                     0a93fd32-99b7-4a94-8a9b-132bff475863
 :END:
 
 Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price. Little by little finishing those cases of this wine I bought before the war. Red berries, peaches and red apples. Lacks delicacy, but there is something good in this energetic and rough profile with long aftertaste.
 
 ** Related
 :PROPERTIES:
-:ID:                     eddb163a-e2b4-4b3a-8be8-be81e7fb817a
+:ID:                     a1f4b123-bf6d-4d7a-b427-dc0bf5e0bd80
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+    <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2021-09-26-13-59-05-748C600F-92FF-4B4B-8332-073E71AFE82B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francois Montand</section>
     <section class="h text-bolder">Brut Blanc de Blancs - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
+    <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045.webp"></img>
     <section class="h text-small text-lighter">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
+    <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp"></img>
     <section class="h text-small text-lighter">Raventós i Blanc</section>
     <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     ec5581b6-9cb4-4d6e-9dc4-406f40ef83fc
+:ID:                     1ddceb91-f80a-4206-a11c-de92b1749fe3
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp]]
@@ -16,34 +16,37 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     5d6573cc-dee0-41d0-86bf-9d34dc18113d
+:ID:                     70b6ce88-9ae7-435d-962b-5909e42dfb1b
 :END:
 
 *** 2022-06-28 - ☆ 6.00
 :PROPERTIES:
-:ID:                     8afec019-1d21-4846-a26b-1bedaaae62e3
+:ID:                     09905568-e8ad-45b0-9ebd-3e606adab6b6
 :END:
 
 Honestly, I was expecting it to be dead at this point. But it's still alive. It has a straightforward and crowd-pleasing profile. It's full of blackberry and raspberry jam, with hints of vanilla and oak. It has two issues: a watery palate and not well-integrated ethanol.
 
 ** Related
 :PROPERTIES:
-:ID:                     86fe1343-c15b-48fc-8297-5b2ab276003d
+:ID:                     68bb9711-1293-48cb-97c0-eb105b41ea67
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">
+    <img class="flex-bottle" src="/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Classic Chardonnay - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
+    <img class="flex-bottle" src="/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">
+    <img class="flex-bottle" src="/images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Illuminati</section>
     <section class="h text-bolder">Costalupo - 2021</section>
   </a>

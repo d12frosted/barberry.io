@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     222fdf9d-c6c7-419f-9e4c-bb68ace8c16c
+:ID:                     66ba24e0-a309-4f94-83fa-6cbea9485df5
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/39/b35863-a201-4f56-adce-1db43d9f327d/2022-01-13-09-44-29-70F73BB0-F877-4CC6-9F78-975FFB453122-1-105-c.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     21dcd38a-7cf1-4b20-8f0b-241d4ccaea22
+:ID:                     becfa2b9-8800-4955-854a-b893bd8d813f
 :END:
 
 *** 2022-01-12 - ☆ 8.50
 :PROPERTIES:
-:ID:                     bbee8e79-ee03-4f7f-9cb4-a5e589a7d396
+:ID:                     93605c2a-8ad2-4790-ad54-45d626a91f90
 :END:
 
 Tasted blind and though about Chardonnay from Jura. After some thinking guessed producer. Beautiful Godello that went through oxidation. Clear pale straw colour. Powerful and complex bouquet showing some age: citrus, salted nuts, baked apples and wet stones. Crisply fresh, well balanced with pronounced flavours and long aftertaste. Delicious and mineral.
 
 ** Related
 :PROPERTIES:
-:ID:                     9d655a48-5c00-488e-ab7b-3b36e3567df0
+:ID:                     d5f0d702-40c5-4d48-a845-7f4f5ac88927
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6b5e1cc5-3041-4acd-ab2a-4738250a76b0.html">
+    <img class="flex-bottle" src="/images/6b/5e1cc5-3041-4acd-ab2a-4738250a76b0/2022-06-09-21-36-08-IMG-0354.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">La Clave - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">
+    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">La Del Vivo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b4b49d91-5c74-4c65-8f52-03afb240a57c.html">
+    <img class="flex-bottle" src="/images/b4/b49d91-5c74-4c65-8f52-03afb240a57c/2021-04-27-07-51-26-3D869102-7B58-4134-B9DA-1D6692222E4A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">La Poulosa - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
+    <img class="flex-bottle" src="/images/cf/948cb2-a538-43da-926a-cd71b4bb5705/2021-10-27-23-53-27-91550E9B-BD38-4027-8EDE-5463810E5BDA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">Ultreia De Valtuille - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">
+    <img class="flex-bottle" src="/images/da/0ee939-d923-44f2-9aac-6c0dfa831964/2022-01-13-09-38-59-ED486F76-0CE5-42A7-BC12-15198E1C98B9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
   </a>

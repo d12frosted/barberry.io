@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     25fb0633-b920-4b4c-bacf-fea75dcf46d1
+:ID:                     2d815387-dd73-414e-b2f3-975d3bb35e90
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp]]
@@ -16,39 +16,43 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     4f0f964d-6550-4cc1-9b8a-32c6396f3429
+:ID:                     8fd7bd60-6694-4e9e-8b05-d4b641a68835
 :END:
 
 *** 2022-06-10 - ☆ 6.50
 :PROPERTIES:
-:ID:                     f37de635-4fd0-4a80-97cb-0b2224817c53
+:ID:                     522d4baa-e410-4511-a3bf-0dbc8833b327
 :END:
 
 The first thing I noticed is the label change. It's not critical, but I liked previous one more. Previously it was a baseline Sauvignon Blanc with a label of a good wine, now it's a baseline Sauvignon Blanc with... this label. As you can see, I am talking about label instead of wine itself, so it could be a signal. But in reality, it's totally fine, tropical bomb with matching palate, typical black currant leaves and good acidity. Surprisingly good price.
 
 ** Related
 :PROPERTIES:
-:ID:                     987f8ea6-4033-4662-a691-9ae691ae93db
+:ID:                     b204c048-10d1-4c6e-9468-6dc0036e133a
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2021-12-27-18-33-45-9D5CF52D-9AB7-4F51-9AFF-D9F5D7609EA5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>

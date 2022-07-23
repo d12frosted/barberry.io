@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e18be91a-f7dc-4461-b756-56ac5c5b0e58
+:ID:                     3bd9dac5-f66d-4cd5-a75e-7889f1cc7db4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/a5/3b1e03-00ce-4d65-986e-fef9fd139c0c/2020-02-03-08-43-17-CAF26FE8-D1EF-45AC-BD2F-E471D8F27A20-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     be388a52-9fc4-45db-bf5d-9eb066cfa0f8
+:ID:                     700a0083-f707-46da-a25a-f38766cf06d2
 :END:
 
 *** 2020-02-01 - ☆ 8.00
 :PROPERTIES:
-:ID:                     241dd94b-9780-4d7f-b99b-cfd89ebc0758
+:ID:                     ed5f0e3a-ebea-45c8-8fd9-4a8135c18794
 :END:
 
 Чистий, середній гранат. Аромат чистий, явно виражений. Чорні ягоди, ожина, ожиновий джем, ваніль, тости, чорнослив, земля, чорний перець, мускус, мох, деревина. Сухе, кислотність, таніни та алкоголь високі, тіло насичене, сильний та інтенсивний первинний смак - червона смородина. Довгий післясмак, дуже хороше вино, що розвивається.
@@ -33,22 +33,25 @@
 
 ** Related
 :PROPERTIES:
-:ID:                     61509e2e-15d9-42f1-8b01-6fc7588003da
+:ID:                     2e941081-79bc-4575-be33-24f8603486a4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
+    <img class="flex-bottle" src="/images/58/6fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812/2021-07-03-10-08-38-7D4FA3F4-CD46-406E-A9DE-CD1579B56C6A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Provetto Spumante Bianco Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <img class="flex-bottle" src="/images/61/7360e5-dd92-4fb8-9a63-efe5cb6547e3/2021-10-13-11-07-54-D76B7C34-9F49-49C6-A562-984B502FC6AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Kingpin Tinto - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
+    <img class="flex-bottle" src="/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
   </a>

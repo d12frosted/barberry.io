@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     ae42c4d7-3ca8-4cbc-bc09-f435ea19d00f
+:ID:                     1c7115c3-88be-4e88-a666-79318bdf98b3
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9476aab3-af56-4e57-a655-9c832eb58a48
+:ID:                     bc4a2f38-96f0-41ed-af07-93b7edfe3e74
 :END:
 
 *** 2021-07-19 - ☆ 8.00
 :PROPERTIES:
-:ID:                     911fd3fc-b282-4792-b052-cb23de242afc
+:ID:                     4dbf4933-0de0-4768-b8ef-5733be6b4ae8
 :END:
 
 Tasted blind. Opulent bouquet full of tropical fruits, dried pineapple and coconut. Off-dry palate, long aftertaste with flavours of lime, pineapple and bergamot. Overall it's well made, well balanced, very friendly, but not fascinating.
 
 ** Related
 :PROPERTIES:
-:ID:                     2034365c-39cb-4110-93e0-def4e0c77d0d
+:ID:                     8534bb7e-98a9-40b5-81e6-0860319b0e54
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
+    <img class="flex-bottle" src="/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Riesling Heiligenstein Lyra - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <img class="flex-bottle" src="/images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Fio Wein</section>
     <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+    <img class="flex-bottle" src="/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Dr. Loosen</section>
     <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
+    <img class="flex-bottle" src="/images/17/70821f-dd60-4149-9491-a95e838bd5d7/2021-07-20-09-18-17-64FA3893-9864-4121-981B-BD793D735C80-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ochota barrels</section>
     <section class="h text-bolder">kids of the black hole - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+    <img class="flex-bottle" src="/images/ee/cd139e-6555-46c7-927b-5b222d9f5583/2021-07-20-09-16-45-48107411-B181-4B9F-A767-28E6B3DD3301-1-105-c.webp"></img>
     <section class="h text-small text-lighter">F. X. Pichler</section>
     <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
   </a>

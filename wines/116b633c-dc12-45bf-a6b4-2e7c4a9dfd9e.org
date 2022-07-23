@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     33f67477-8993-43eb-9bf1-18199127cd5a
+:ID:                     07188d6f-2298-4175-87ce-85ca315b9a78
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2020-07-29-21-39-39-11068010-DB19-4DF2-91C8-4DD6BB9CB651-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     2bfefe34-79e4-4cfa-86c2-e7bf09802c78
+:ID:                     aa1e963f-d31d-49a0-afa5-d03fc7be490f
 :END:
 
 Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. Her 25 hectares feature only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young as she planted them, most of them a guyot-trained. But she also added to her holdings 60-years-old albarello-trained vines which she initially rented.
@@ -43,66 +43,74 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 
 ** Ratings
 :PROPERTIES:
-:ID:                     44d05786-4285-4563-969e-873d441a2914
+:ID:                     9ae48a18-fb18-4a2d-9d4f-e43a12d00b0a
 :END:
 
 *** 2021-05-13 - ☆ 8.50
 :PROPERTIES:
-:ID:                     0c61ce96-ace1-4b37-b63a-d6f35a16f441
+:ID:                     dafea001-b6a6-461b-9dd5-4bf38aa88e46
 :END:
 
 Ripe cherry, blood sausage, red flowers, cherry nut, spices and balsamic notes. Still very young, fruit-forward character. Requires decanting (for at least 30 minutes) to become smooth. Not perfectly, but well balanced, tannins are still rough. Pleasant and drinkable wine with long evolving aftertaste and flavours of ripe cherry and ferrum with pleasant vanilla finish.
 
 *** 2021-05-27 - ☆ 8.50
 :PROPERTIES:
-:ID:                     160cdf36-23a5-4464-824f-2301525d9952
+:ID:                     0bb2ebfb-9ca1-4579-bd93-24a9cf9adab9
 :END:
 
 You pour a little bit of this wine and you get a glass full of bloody sausages with some red flowers, lots of cherry, raspberry and spices. Well balanced, young and not complex despite the subtlety of bouquet and palate. But I'm in love with iron (e.g. ferrum) finish mixed with a ripe cherry.
 
 ** Related
 :PROPERTIES:
-:ID:                     d0f4f810-c439-4d7f-9137-144061db8be1
+:ID:                     36cf2a56-1b73-4149-89e8-cb9b28287896
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">
+    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2020-07-29-21-42-06-E4D9B4F6-249A-432D-AA7F-11FBBE3ABE5B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Bombolieri BB - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/06266426-66eb-463f-a4bc-3fd38f6e2543.html">
+    <img class="flex-bottle" src="/images/06/266426-66eb-463f-a4bc-3fd38f6e2543/2021-09-01-07-41-26-94CA2896-F5CE-4BC3-B2A3-DAE4899A4B74-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3f9bfb82-e694-43d5-80b1-11d91ac107e9.html">
+    <img class="flex-bottle" src="/images/3f/9bfb82-e694-43d5-80b1-11d91ac107e9/2020-03-06-08-34-38-688201BA-04DE-4981-8C31-BB249EDC2425-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Grotte Alte - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/429ad446-96ad-4005-8306-85656d7e2f6d.html">
+    <img class="flex-bottle" src="/images/42/9ad446-96ad-4005-8306-85656d7e2f6d/2020-04-14-19-48-06-BF1D402A-98D4-442C-A581-B78EABE2E0E7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Bombolieri BB - 2016</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+    <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2021-12-04-11-00-08-F61FE783-2960-4121-9095-1D9A3F9BE8F0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+    <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
   </a>
@@ -113,26 +121,31 @@ You pour a little bit of this wine and you get a glass full of bloody sausages w
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Pettineo PT - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+    <img class="flex-bottle" src="/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2021-12-04-10-50-08-A8CE70A4-CBCC-409F-A8B5-11CF8FE7C245-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Vino di Contrada SM - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp"></img>
     <section class="h text-small text-lighter">Patrick Sullivan</section>
     <section class="h text-bolder">Rain Field Blend - 2019</section>
   </a>

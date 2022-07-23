@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     ffa67f5b-2f47-4f39-a22a-787f66fcc1c2
+:ID:                     fb44a2e6-468e-40eb-8936-79633e2c6499
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp]]
@@ -16,19 +16,19 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     8a428193-0361-43f4-bb15-f31b7b39af81
+:ID:                     b8f33889-d7e0-4ccb-b6de-77229b157f2b
 :END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     debc6b9f-d2c6-4919-8c67-7cd3e604ea51
+:ID:                     ecacd23c-9bf8-4e55-9495-974e62375c00
 :END:
 
 *** 2020-12-26 - ☆ 7.00
 :PROPERTIES:
-:ID:                     09587c87-5e4f-4561-9f3e-a8ee201867e9
+:ID:                     88566ee2-52c0-48a1-87c7-dd82bb97feb4
 :END:
 
 3.5 Profound and aromatic orange from Czech Republic. Burst of apricot, tea,
@@ -37,12 +37,13 @@ straightforward.
 
 ** Related
 :PROPERTIES:
-:ID:                     3ead43d6-ebbb-4744-9b5d-6f86cf7e9dab
+:ID:                     506a4d30-9cdb-4aeb-89ef-2b7800911ab4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Ruby - 2020</section>
   </a>
@@ -53,16 +54,19 @@ straightforward.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6.html">
+    <img class="flex-bottle" src="/images/06/33a0d6-7466-498e-ae11-e2a1c17165a6/2020-12-27-12-57-18-2464C91A-5488-4A95-8CF5-E781904FF949-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Codorníu</section>
     <section class="h text-bolder">Cava Clasico Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">
+    <img class="flex-bottle" src="/images/da/b2a380-6aa2-45fa-b870-9a504291acce/2020-12-27-13-22-01-3908C915-D6C2-4144-B8FD-A01F61E34A31-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kir-Yianni</section>
     <section class="h text-bolder">Kali Riza - 2017</section>
   </a>

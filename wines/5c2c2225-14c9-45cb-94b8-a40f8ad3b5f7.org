@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     d1d45987-af6e-4cb2-a323-6979a2d0af89
+:ID:                     442280c0-8b06-4624-8385-77bcbb949061
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     88b86e1d-097c-4cc9-9eed-cee16b8a9499
+:ID:                     9e41b917-053e-4067-a38b-09e5023370c5
 :END:
 
 It is said that Mr. Raúl de la Mota had a dream of making high quality wine from Malbec grapes in Mendoza. In 1970 Malbec was only on its way to becoming a star in these lands, yet Mr. Raúl de la Mota meets and shares his dream with a Brazilian transportation businessman, Mr. Bernardo C. Weinert. The story is stingy, so I don't know all the reasons for Mr. Bernardo C. Weinert to agree. But it is known that he fell in love with a 80 years old building in Carrodilla, Luján de Cuyo. So in 1975 they started to reconstruct the building and the winery itself. The first harvest was in 1977 and first release was in 1979.
@@ -25,12 +25,12 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 
 ** Ratings
 :PROPERTIES:
-:ID:                     cb163b4d-5e00-4be5-8831-031ddd791bba
+:ID:                     c778a4ef-bb67-4d96-ba7b-318013130b78
 :END:
 
 *** 2021-12-20 - ☆ 7.75
 :PROPERTIES:
-:ID:                     e607b3e3-ed83-4037-9383-3958db6519bf
+:ID:                     d23a8f23-2b18-49dc-83d4-d5aa72c5cac7
 :END:
 
 Interesting winery from Argentina, unique for its late releases and good price. Complex, intense and
@@ -39,69 +39,80 @@ currant, jam, vanilla, chocolate. Not simple, juicy and delicious. Wonderful val
 
 *** 2022-01-25 - ☆ 7.75
 :PROPERTIES:
-:ID:                     61155dd1-c522-4c26-b527-515891a02c92
+:ID:                     155a945d-332a-4dcb-95c3-ced0d5748da1
 :END:
 
 One of the best QPR when it comes to aged bottles. Deep garnet colour, powerful and mature bouquet showing its age: jam, sweet tobacco and berries. Full-bodied with almost soft tannin, fresh and well balanced. Complex and delicious wine.
 
 ** Related
 :PROPERTIES:
-:ID:                     2dc1ec00-5d5f-40a1-8685-0f6454e665e3
+:ID:                     35a34596-8470-4c34-9605-b66e4dcde782
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+    <img class="flex-bottle" src="/images/1c/ef4a62-828f-47ca-8489-ea911196b860/2021-12-27-18-22-56-04855E08-0E50-4457-8FF8-5412B4C0E986-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Merlot - 2011</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <img class="flex-bottle" src="/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+    <img class="flex-bottle" src="/images/60/de313a-fc2e-46dd-92d2-4793e97ef93b/2022-06-12-17-30-24-9FE270CC-0C50-4D90-9097-0FBBEC3BF09E.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bodegas Borsao</section>
     <section class="h text-bolder">Tres Picos - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Naveran</section>
     <section class="h text-bolder">Odisea - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <img class="flex-bottle" src="/images/b5/f2078a-01a2-4134-958c-d8ff543a7945/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Give up the Ghost - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+    <img class="flex-bottle" src="/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Gentle Folk</section>
     <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
   </a>

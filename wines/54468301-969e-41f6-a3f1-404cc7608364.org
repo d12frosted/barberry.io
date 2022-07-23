@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     68581005-3f0e-48a6-b519-4d3ac2fd423d
+:ID:                     e33649c5-d5c0-4d62-bb0e-b50fdbbfb8e1
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/54/468301-969e-41f6-a3f1-404cc7608364/2022-06-15-07-35-09-58AA2157-1BAF-4A6E-8D25-90D981612C95-1-105-c.webp]]
@@ -16,19 +16,20 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     913119ef-e262-4614-abb3-05cff0a4832b
+:ID:                     2fe2e535-ab64-449b-b27f-fe6b09ef40c2
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     bfdda136-73ab-4c04-93f0-1281e0588f38
+:ID:                     4c27760c-500c-4086-8da9-9320f30a6298
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038.html">
+    <img class="flex-bottle" src="/images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463.webp"></img>
     <section class="h text-small text-lighter">Henriques & Henriques</section>
     <section class="h text-bolder">Boal Single Harvest - 2000</section>
   </a>

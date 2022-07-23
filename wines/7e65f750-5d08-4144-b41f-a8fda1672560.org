@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f947f7be-8ac8-46d0-94db-6e5328a8a295
+:ID:                     e45a4be4-5b88-4f54-a2bd-e955fe7b7928
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp]]
@@ -16,39 +16,43 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     fa2e4569-d93e-4d43-bae4-5fd9f18987be
+:ID:                     3cf84078-1c0b-4d41-9f4e-a799c31a34c9
 :END:
 
 *** 2022-07-16 - ☆ 7.40
 :PROPERTIES:
-:ID:                     7082438c-1232-46aa-9276-12123312a0a0
+:ID:                     be0defb5-fe2b-4035-8a50-bd985e08a3c6
 :END:
 
 I wanted something easy-going to be a background for a pleasant conversation, and I got it. Cherry, spices, wet forest floor and smokiness. Fresh, juicy, well-balanced, and flavourful: spices and smoked cherry. Better served chilled.
 
 ** Related
 :PROPERTIES:
-:ID:                     e640f6e4-d515-495c-a811-48424f59d88e
+:ID:                     2fbe4c65-25a3-4602-928f-7be686e364aa
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
+    <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
     <section class="h text-small text-lighter">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+    <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
     <section class="h text-small text-lighter">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
+    <img class="flex-bottle" src="/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Villa Clara</section>
     <section class="h text-bolder">Cava Brut - NV</section>
   </a>

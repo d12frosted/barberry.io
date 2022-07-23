@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     220caf20-96dc-4c86-8baa-501eadf20fcb
+:ID:                     6b921f34-30e2-490b-9892-81fc61467ba1
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/58/6fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812/2021-07-03-10-08-38-7D4FA3F4-CD46-406E-A9DE-CD1579B56C6A-1-105-c.webp]]
@@ -16,39 +16,43 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     52263aa4-962e-4fdd-a642-6c8933b0d24f
+:ID:                     e9e5d0dc-76fd-499d-a60f-44bda9c0b8f0
 :END:
 
 *** 2021-07-01 - ☆ 7.00
 :PROPERTIES:
-:ID:                     3f141dc8-a1f7-4214-b45a-4c5cba3fb60a
+:ID:                     e7592161-4aac-410f-8259-555754afae65
 :END:
 
 Tasted blind and was sure that it's Prosecco. But when I think about it, all I can say is - silly me. Super simple, lots of apple, pear, toast and lime. Fruit-forward, fresh and easy going apéritif.
 
 ** Related
 :PROPERTIES:
-:ID:                     6261a48a-011f-43c6-8043-eb7a8cfc392c
+:ID:                     72b1cb11-e7ef-4395-951d-851dd15ae3ed
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <img class="flex-bottle" src="/images/61/7360e5-dd92-4fb8-9a63-efe5cb6547e3/2021-10-13-11-07-54-D76B7C34-9F49-49C6-A562-984B502FC6AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Kingpin Tinto - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">
+    <img class="flex-bottle" src="/images/a5/3b1e03-00ce-4d65-986e-fef9fd139c0c/2020-02-03-08-43-17-CAF26FE8-D1EF-45AC-BD2F-E471D8F27A20-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Viña Albali Gran Reserva de Familia - 2009</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
+    <img class="flex-bottle" src="/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
+    <img class="flex-bottle" src="/images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">Móz - 2019</section>
   </a>

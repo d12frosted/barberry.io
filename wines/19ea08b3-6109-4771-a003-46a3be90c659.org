@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     b7be7a7d-f5ac-4ebe-be73-b714aa9e5744
+:ID:                     51d05ef0-ebaa-4db9-912b-34d44c8aa536
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp]]
@@ -16,36 +16,38 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     d244278b-f6ab-4e8e-b6f7-cedbaa1620c2
+:ID:                     a2dc956b-ffe2-4f78-8dac-88f6494fcdac
 :END:
 
 Fedellos trio consisting of Jesús Olivares, Curro Bareño and ???. Related project - [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]].
 
 ** Ratings
 :PROPERTIES:
-:ID:                     bf120899-2ea3-4e97-ba98-1be3c99cce22
+:ID:                     19105a43-7281-42b6-8780-e969e895c720
 :END:
 
 *** 2021-05-21 - ☆ 7.75
 :PROPERTIES:
-:ID:                     117922eb-ebbc-41e6-ac7c-34c503534421
+:ID:                     be6fd0ee-255a-43b1-8afa-c27d83d71e3b
 :END:
 
 Field blend (Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés and who knows what else) by lovely Fedellos trio. Rich nose, full of stone fruits, dill and nettle, butter, citrus and flint. Clean, fresh and tasty.
 
 ** Related
 :PROPERTIES:
-:ID:                     04773194-c583-431a-a8a6-6a1f8459833f
+:ID:                     028a6c81-fa28-4fa3-857d-8f442b4ff889
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+    <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Lomba dos Ares - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
+    <img class="flex-bottle" src="/images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2018</section>
   </a>

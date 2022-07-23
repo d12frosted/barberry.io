@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     1a0b550f-cf21-42f5-a4e7-43b11aac8c9a
+:ID:                     05390349-d72b-4091-b912-d3da90cea2b4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     82fe6b16-3de6-4daf-aabb-028f39cb9bca
+:ID:                     3b85f917-421b-4b6e-a172-4a12e0f867e8
 :END:
 
 *** 2020-09-11 - ☆ 8.00
 :PROPERTIES:
-:ID:                     ba415d2c-7554-4042-98bb-b850ab27e9d6
+:ID:                     081d71ce-b734-4bd5-8444-f7adf4fa9aa4
 :END:
 
 4.0 La Bandita is Nadia Verrua, padronina of Cascina Tavijn, small property (7
@@ -33,7 +33,7 @@ bit Bandita!
 
 *** 2020-09-16 - ☆ 8.00
 :PROPERTIES:
-:ID:                     c0ff5655-9d36-4f28-932f-af96b47ec23b
+:ID:                     6e7adb0b-1298-4345-a6ea-bac78042c26d
 :END:
 
 4.0 Consistently good natural Barbera. I think I can drink it every day. Stewed red fruits, bread
@@ -42,22 +42,25 @@ you can almost chew it. It's really tasty.
 
 ** Related
 :PROPERTIES:
-:ID:                     f4558e9d-0820-4b8d-b350-aa9ce9e694bb
+:ID:                     f0c6e417-507d-4eff-ac2c-082caa0a6ab8
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">
+    <img class="flex-bottle" src="/images/28/bd8c32-5ba7-4c2a-b72b-544455feb1be/2022-05-08-18-10-52-IMG-0048.webp"></img>
     <section class="h text-small text-lighter">Cascina Tavijn</section>
     <section class="h text-bolder">Bandita - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/41c61abd-bb8c-4a9c-be77-c2fe756581f3.html">
+    <img class="flex-bottle" src="/images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Fresh Impression White - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>

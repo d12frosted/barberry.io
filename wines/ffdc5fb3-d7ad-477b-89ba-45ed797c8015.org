@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     065c35bf-347a-4c8e-bcc9-a7ededef8d08
+:ID:                     326d9374-f80d-4b5a-ad75-76eed62d63de
 :END:
 - Type :: Rose Sparkling, Brut nature
 - Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
@@ -13,24 +13,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d047fbaa-6493-4225-8dbf-fae941135cb8
+:ID:                     3b8718c2-6d22-4f4f-a259-2d13e29bb1d9
 :END:
 
 *** 2021-05-21 - ☆ 7.00
 :PROPERTIES:
-:ID:                     187937f8-5b11-4aa6-8f33-d299c01ba9a3
+:ID:                     df3c8146-52b9-4db9-97b2-a54cfcd315b2
 :END:
 
 Traditional method sparkling rosé made of Sumoll. Barberry, apple, toasts and... well, that's it. Simple yet fresh and pleasant wine.
 
 ** Related
 :PROPERTIES:
-:ID:                     12a1322c-a686-49fa-867f-0a44e058daf8
+:ID:                     fdb876d4-4c64-4fc9-9594-93d014eab492
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <img class="flex-bottle" src="/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Gentleman - 2016</section>
   </a>
@@ -41,6 +42,7 @@ Traditional method sparkling rosé made of Sumoll. Barberry, apple, toasts and..
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>

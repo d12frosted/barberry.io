@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     97e1570a-97b3-4a6c-a495-0cbd070946c1
+:ID:                     a62aa988-2538-4429-84db-c57e2912bd8a
 :END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
@@ -13,38 +13,39 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     302ca4ef-2e58-42cc-88ca-fb1b742dccc9
+:ID:                     420e9730-f3a3-42de-b63f-dd9b03137d4d
 :END:
 
 *** 2020-10-16 - ☆ 7.00
 :PROPERTIES:
-:ID:                     0de1f5c3-90c0-4add-8b2f-2f735d6ac2d3
+:ID:                     d3184b61-d02d-47ac-b947-a168a68bbaf5
 :END:
 
 Mediocre orange. Soaked apples, caramel and spring flowers. Pretty good, but nothing special. I'd love to give it a year or two to settle down and find an inner peace.
 
 *** 2020-11-25 - ☆ 7.50
 :PROPERTIES:
-:ID:                     2e7c1177-fd19-4305-97d2-f47dcb895b56
+:ID:                     209b0431-6f3e-4e62-a63c-c9a2c2e4a271
 :END:
 
 Tasted blind and my guess was Austria or Fruili. Turned out to be Hungary! Obviously, my grape guess wasn't even close. Medicore orange, a little bit better than the last time. Soaked apples, spring flowers, nutmeg and balsamic notes. Best from the Hummel range.
 
 *** 2021-05-17 - ☆ 5.00
 :PROPERTIES:
-:ID:                     6c2c4a15-cd42-41ad-b56e-240d4b868abb
+:ID:                     c1d28ee7-c496-41e6-8f88-c7795f2094b7
 :END:
 
 Stability is not about this wine. I've tasted it on multiple occasions and it filled the spectrum between mediocre orange and good one. This time it was even below. Very volatile, bergamot tea with spoon of honey and a lemon slice. Very murky, acidic and aggressive.
 
 ** Related
 :PROPERTIES:
-:ID:                     5660f6b5-1f9d-418d-8876-8d8e71eea4e0
+:ID:                     71ddcd7a-f7cb-48e3-b207-7b764a56b546
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <img class="flex-bottle" src="/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
   </a>
@@ -55,6 +56,7 @@ Stability is not about this wine. I've tasted it on multiple occasions and it fi
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+    <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
   </a>
@@ -65,6 +67,7 @@ Stability is not about this wine. I've tasted it on multiple occasions and it fi
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+    <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tiago Teles</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>

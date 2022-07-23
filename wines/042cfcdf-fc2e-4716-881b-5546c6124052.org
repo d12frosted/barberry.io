@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     da4b130a-d7ea-459b-8e4f-42fc6c36b9e3
+:ID:                     a01d5aa1-e2f5-44bc-a251-bd362977fda3
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     401f7c90-ced9-4fa9-85ec-2ba84144f175
+:ID:                     1b18f896-bee6-4ad2-9267-b9e75e0951ee
 :END:
 
 *** 2021-07-15 - ☆ 7.00
 :PROPERTIES:
-:ID:                     795e4bf1-7532-4b75-8617-94891bcf18e1
+:ID:                     3d479ecf-7539-4898-8a03-d729a271b958
 :END:
 
 Tasting new vintage and I must say that 2018 was much more interesting. This one is about soaked lilac flowers, VA, brine and yellow fruits. Feels like it has lost its character and merged with many other similar 'unique' natural wines.
 
 ** Related
 :PROPERTIES:
-:ID:                     6ed74095-efc5-4c30-8e6a-b6f92b572b73
+:ID:                     4f609243-b3f4-429e-8e3e-b3b2cf7cfa2b
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <img class="flex-bottle" src="/images/72/b542d8-fab8-4147-8436-297f41c46ade/2020-07-08-15-29-42-5EFAB626-9612-4DBF-A836-8295ED8E170B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <img class="flex-bottle" src="/images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Crazy Crazy - 2020</section>
   </a>

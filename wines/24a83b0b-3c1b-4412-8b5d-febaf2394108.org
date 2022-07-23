@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     5a342fa3-88bc-4b84-bae8-0e7c885e859e
+:ID:                     616634d7-653d-452b-9032-f2f2286583f2
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     355bebb5-b1e9-4143-a50e-9d34f9214d22
+:ID:                     6921db70-3b76-437b-bd7c-2755c6c0463c
 :END:
 
 It is said that Mr. Raúl de la Mota had a dream of making high quality wine from Malbec grapes in Mendoza. In 1970 Malbec was only on its way to becoming a star in these lands, yet Mr. Raúl de la Mota meets and shares his dream with a Brazilian transportation businessman, Mr. Bernardo C. Weinert. The story is stingy, so I don't know all the reasons for Mr. Bernardo C. Weinert to agree. But it is known that he fell in love with a 80 years old building in Carrodilla, Luján de Cuyo. So in 1975 they started to reconstruct the building and the winery itself. The first harvest was in 1977 and first release was in 1979.
@@ -25,61 +25,68 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 
 ** Ratings
 :PROPERTIES:
-:ID:                     34071990-cad6-40aa-a25e-7b52b1467507
+:ID:                     85e17ccc-dcf4-482e-a4dd-035f239d14e7
 :END:
 
 *** 2020-11-24 - ☆ 8.50
 :PROPERTIES:
-:ID:                     c156f5b4-a9c5-4998-875d-0d27b58c93a6
+:ID:                     1c679f21-c518-413d-9c83-c3b38f18745f
 :END:
 
 Alright, this was unexpected. Complex and (if I may) elegant. I would not guess New World wine here. Lots of blackberry, medicinal herbs, earth, smoke and meat. Powerful but rounding tannins. I didn't guess it's age, I thought that it's much younger, but this wine is already 11 years old. Has lots of potential. Great value.
 
 *** 2022-07-13 - ☆ 8.50
 :PROPERTIES:
-:ID:                     7533fd09-3200-47b8-bb66-40cb143d7b5c
+:ID:                     515c8b20-4027-4b33-82a6-435a8b30a56d
 :END:
 
 Since I have tasted this wine on multiple occasions, I knew what to expect. So I found pleasure in letting other people discover this wine for the first time. Incredible value. A mature blend of Cabernet Sauvignon, Malbec and Merlot in an old-world style. Lots of ripe dark fruits, mint, medicinal herbs, liquorice root, smoke, earth, sweet tobacco, oak and meat. Ripe tannin, good acidity, and almost perfect balance. Long and flavourful finish.
 
 ** Related
 :PROPERTIES:
-:ID:                     5d593904-a8b4-4d73-9d79-495e2000683b
+:ID:                     9b243e28-db90-4800-a84e-2cdae145b145
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+    <img class="flex-bottle" src="/images/1c/ef4a62-828f-47ca-8489-ea911196b860/2021-12-27-18-22-56-04855E08-0E50-4457-8FF8-5412B4C0E986-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Merlot - 2011</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+    <img class="flex-bottle" src="/images/60/de313a-fc2e-46dd-92d2-4793e97ef93b/2022-06-12-17-30-24-9FE270CC-0C50-4D90-9097-0FBBEC3BF09E.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/476f7a06-fd20-4887-a5fa-1d77f41309ce.html">
+    <img class="flex-bottle" src="/images/47/6f7a06-fd20-4887-a5fa-1d77f41309ce/2022-07-09-09-45-00-BC5887C7-AB85-42DC-B889-F780CE250FC6-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Lacrima Baccus</section>
     <section class="h text-bolder">Brut Reserva - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     4b57c0f1-4559-4fed-ba59-a252b0acb126
+:ID:                     1bde6197-4f83-411e-a48f-3833256d0f18
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp]]
@@ -18,7 +18,7 @@ Northern slope of the Etna volcano - contrada Feudo (Castiglione di Sicilia) con
 
 ** Producer
 :PROPERTIES:
-:ID:                     0a50d7eb-756d-43b3-89cd-6f95d63f1c18
+:ID:                     48ff39ea-07c4-4af2-ada7-fa0e6864d960
 :END:
 
 Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
@@ -34,29 +34,31 @@ Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 d
 
 ** Ratings
 :PROPERTIES:
-:ID:                     bda9f2d1-0f59-4fb7-b775-0c87f6e74c7f
+:ID:                     c3ac18c6-db63-49ab-b49c-272c5ce560f1
 :END:
 
 *** 2022-06-05 - ☆ 7.50
 :PROPERTIES:
-:ID:                     187bc889-12d4-4a61-9f12-e20a2595a8d5
+:ID:                     14abc525-6af4-455d-a14d-2a8cec66d55f
 :END:
 
 This bottle appeared in my cellar because I wanted to see Etna influence on this grape. I already had experience with that, but as part of Vino di Anna field blends, which far from being good study case. So Buonora (good time) shows expected level of acidity (grape, location) and minerality (location). It's not simple, yet feels a little bit empty in the taste. In the nose it's all about white stone fruits and white flowers. Fresh, with long aftertaste and flavours of white plum, peach, lemon without peel and pebbles. So overall it feels like missed opportunity as it could be better.
 
 ** Related
 :PROPERTIES:
-:ID:                     32b254be-df5d-49d5-b284-e37d9454f0a6
+:ID:                     76c5c768-9669-4a32-b82c-09bba33aa087
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/deba8d55-585b-464c-8b45-e2b97702d33f.html">
+    <img class="flex-bottle" src="/images/de/ba8d55-585b-464c-8b45-e2b97702d33f/2022-06-05-11-19-06-04DAD296-9B02-4899-ADDD-088BDDBF19FF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Barberani</section>
     <section class="h text-bolder">Foresco - 2019</section>
   </a>

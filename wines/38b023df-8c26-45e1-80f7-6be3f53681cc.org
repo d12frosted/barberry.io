@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     3e6fb5ff-7906-4167-9914-fa8cb9ffe07d
+:ID:                     468649e6-2faf-4eb1-9990-b1f2b4f3d36e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c.webp]]
@@ -18,7 +18,7 @@ This cuvée comes from a maceration of Sauvignon Gris (otherwise called Fié Gri
 
 ** Producer
 :PROPERTIES:
-:ID:                     562f17ef-3e4e-4896-a0cb-eaaa571cbcbe
+:ID:                     810e25f3-7d19-4321-8834-ffc7bd42fa04
 :END:
 
 Sometimes people who sell wine decide to try on a new role of a vine grower or even a winemaker. Éric Chevalier was a négociant with ten years of experience when he moved to his hometown of Saint-Philbert de Grandlieu, just southwest of Nantes. Next year, in 2006, he ended up taking over the family Domaine. His father, a vigneron, had stopped working the vineyards, and Éric was faced with a difficult choice. Despite being anything but enthusiastic, he was against replanting or selling vineyards. And instead, he decided not only to continue farming the Domaine but also to produce and bottle all of the family's result of hard work.
@@ -27,12 +27,12 @@ In 2020 Éric Chevalier acquired organic certification, a rare achievement in Lo
 
 ** Ratings
 :PROPERTIES:
-:ID:                     3c4c4858-418c-470b-a1bf-591d54f8c706
+:ID:                     bcd673d1-53b9-4bf1-860c-b54267293009
 :END:
 
 *** 2022-07-05 - ☆ 8.00
 :PROPERTIES:
-:ID:                     64d34191-25b1-4a6c-965e-a8076989b728
+:ID:                     f0002309-b424-4eb9-b070-cedde9074d10
 :END:
 
 Probably the strangest wine of the evening. At first, I thought it was flabby and dull (hey, Fíe Gris?). But then my excitement grew, and I started to enjoy this wine. Like a lot! Especially the way tannin and acidity play in the taste, twisting and overflowing each other. In the nose, it's non-mainstream and rather shy. Spoiled apricots, dark bread, ascorbic candy, smokiness, mango, flowers and subtle rot notes. Nice.
@@ -41,17 +41,19 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
 :PROPERTIES:
-:ID:                     5a7d2abd-bae2-4a26-a87d-ee5b581e805f
+:ID:                     46df6eff-35d0-4c0f-8e99-94b9ea743ed2
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
+    <img class="flex-bottle" src="/images/44/ee0d12-de03-42f2-83f0-502be8bd54b0/2022-06-21-14-32-56-92927A43-D648-451D-B84F-CB4DE7ED60EF-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">
+    <img class="flex-bottle" src="/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine du Pélican</section>
     <section class="h text-bolder">Savagnin Ouillé - 2016</section>
   </a>
@@ -62,16 +64,19 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp"></img>
     <section class="h text-small text-lighter">Patrick Sullivan</section>
     <section class="h text-bolder">Rain Field Blend - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/baf18c42-2e67-4108-967a-d540bc105779.html">
+    <img class="flex-bottle" src="/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp"></img>
     <section class="h text-small text-lighter">Cascina Bertolotto</section>
     <section class="h text-bolder">Spumante Brut Metodo Classico - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
+    <img class="flex-bottle" src="/images/dd/ee2b3f-3dcc-4ae6-9c11-31dea06d5d79/2022-05-08-18-05-34-IMG-0038.webp"></img>
     <section class="h text-small text-lighter">Pheasant's Tears</section>
     <section class="h text-bolder">Poliphonia - 2019</section>
   </a>

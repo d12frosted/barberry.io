@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     8a4128a3-ce49-4fbf-87fd-cdeb6464517f
+:ID:                     17c17320-a4d2-4bdf-af81-e722044b0587
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     9d28a4a9-07df-4b7e-98ee-16fb8ca3c88c
+:ID:                     fd1721d1-ba3e-4471-8762-1ef66018c825
 :END:
 
 Small German winery from Baden founded in 2006 by two wine college graduates Sven Enderle and Florian Moll. They were fortunate enough to get their hands on some pretty old plots of Pinot Noir sites (planted in 1953). They follow a philosophy of Low Intervention and Sustainable Vineyard Management.
@@ -25,39 +25,43 @@ Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consi
 
 ** Ratings
 :PROPERTIES:
-:ID:                     59efd907-dbec-4fc8-a556-2a797c61707c
+:ID:                     a5ec4d7c-fa84-4a03-9b6a-3c541459aa2c
 :END:
 
 *** 2022-01-13 - ☆ 7.50
 :PROPERTIES:
-:ID:                     8a35804a-cc65-4149-b4ca-a2ed01b88b4b
+:ID:                     becf7ecd-772e-45f9-b22a-3c68880a3b10
 :END:
 
 Tasted blind and guessed producer. Since it is my first time tasting this particular wine, I didn't guess the name (at least guessed that it's not Liaison). Aromatic bouquet with typical low intervention style notes. Acetone, red flowers, salami and truffles. While it has beautiful and complex bouquet, it doesn't deliver in the taste. Lacks balance, finish is too bitter, tannin is too powerful, aftertaste is too short. Could be better with time though.
 
 ** Related
 :PROPERTIES:
-:ID:                     5fdc0b78-63a3-47ba-bb40-536b7de2db9c
+:ID:                     1c7bbac4-e1b2-4d67-ac45-17e1cad07689
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
+    <img class="flex-bottle" src="/images/15/88f9ec-1616-449b-aaac-9d7a0de06655/2022-01-16-12-25-14-66975C43-3FDC-4319-891F-AEE7707C3315-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kelley Fox Wines</section>
     <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bencze</section>
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+    <img class="flex-bottle" src="/images/a6/049624-d554-4a4c-ab3c-eb1af3efcef0/2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
     <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+    <img class="flex-bottle" src="/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Roses De Jeanne</section>
     <section class="h text-bolder">Presle Millesime BdN - 2016</section>
   </a>

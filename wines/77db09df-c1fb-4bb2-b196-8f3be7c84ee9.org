@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     916ce634-7746-4704-8068-b5a23bb7f227
+:ID:                     07183261-d3c0-4cac-a925-4b262e30a2a4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/77/db09df-c1fb-4bb2-b196-8f3be7c84ee9/2021-12-27-18-27-05-3160D231-4536-4B48-B473-F2A581994F7E-1-105-c.webp]]
@@ -16,24 +16,26 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8cdc5bc9-7615-4f46-a55e-9d8329b19b29
+:ID:                     052bfff6-51e9-4d6f-be86-b2635d9a527c
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     4faea620-1178-4640-b535-15987a80e5c2
+:ID:                     7ec70dc8-8955-45cc-a99e-a6894328f9b1
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
+    <img class="flex-bottle" src="/images/3f/4758f2-4bf9-4d99-96c3-dd2f85517d8c/2020-10-28-09-14-24-65F97BB7-C578-4F0B-A691-E3B5CE63E570-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Rosso di Montalcino - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>

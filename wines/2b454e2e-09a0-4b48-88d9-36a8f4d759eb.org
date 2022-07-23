@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     21f39170-711d-4d31-9b87-1bd5de678170
+:ID:                     b5b3e9a6-9f52-4a7b-a789-1eca585a8a00
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp]]
@@ -16,51 +16,56 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     f5d9d906-790d-48cb-9cc3-2f9e4cf8c252
+:ID:                     9aba42c5-110e-4a35-b105-877eb00b9aa8
 :END:
 
 Run by Jean-Marie and Thierry Puzelat.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c1de4d1e-d70b-4f49-85e3-17eb2e2651ba
+:ID:                     f9045350-806b-40c6-b8af-b1c434259e6f
 :END:
 
 *** 2022-06-02 - ☆ 7.50
 :PROPERTIES:
-:ID:                     a88b0227-9090-425e-9ad6-0347951b3fb0
+:ID:                     14eef19f-e678-46ae-841f-c67b92e1c4fd
 :END:
 
 Very good Sauvignon Blanc in a slightly oxidative style. Expressive bouquet of gooseberry, grapefruit, baked pear and honey. It's fresh, even crunchy, with right amount of volume, good balance and long aftertaste. So overall you get non-mainstream SB that helps in on a hot summer day despite the volume and body.
 
 ** Related
 :PROPERTIES:
-:ID:                     5654d555-8fb6-4d2e-9c64-50b060eb30c7
+:ID:                     37e8bc65-dcdd-4a37-afd4-ee110d899a98
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
+    <img class="flex-bottle" src="/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
+    <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chateau Laffitte Carcasset</section>
     <section class="h text-bolder">Saint-Estephe Cru Bourgeois - 2016</section>
   </a>

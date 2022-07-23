@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     b6c04271-ee66-49db-a635-8064d684e464
+:ID:                     696fe67c-320c-44ae-b944-1c50df1166dd
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     1912b188-958c-4277-885b-e11ac50ab964
+:ID:                     2fd6f4b2-21e3-42e8-9877-5631ac81315f
 :END:
 
 Stanko Radikon is a legendary farmer and winemaker from a legendary region. He and his friends ([[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Gravner]]) started period of renaissance for amber wines - white wines with extended skin maceration. But of course, in town of Oslavia it was called "Slovenian" or "Friuli" style - hand-harvesting, skin contact, large and older barrel fermentation without any temperature control, no added yeasts or enzymes, and little to no use of sulfur.
@@ -29,54 +29,61 @@ After Stanko passing away in 2016, his son Saša took the winery in his hands. T
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c4730b0d-a0ab-4141-9072-067fbc4e1056
+:ID:                     74094a8f-b6fb-40d2-b68a-d35a11b047bb
 :END:
 
 *** 2022-01-11 - ☆ 9.00
 :PROPERTIES:
-:ID:                     393df3aa-e7cb-4773-a5e2-d28b5af690bc
+:ID:                     9d17dd78-798a-4cfb-a6bd-1b0654f444e3
 :END:
 
 Beautiful Ribolla Gialla at the right age. Opulent but delicate and slightly reductive bouquet full of apricot and quince jam, forest floor, dried apricots and nuts. Almost full-bodied, fresh with medium-high and round tannin. Almost perfectly balanced, flavourful, complex and sexy.
 
 ** Related
 :PROPERTIES:
-:ID:                     edc3cb8d-be30-4c8b-ac47-77bc45bd371e
+:ID:                     976ff358-0b09-40ad-870c-87856c18f693
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bb8ae1e3-0415-4012-ab06-55937df3cc10.html">
+    <img class="flex-bottle" src="/images/bb/8ae1e3-0415-4012-ab06-55937df3cc10/2021-03-20-09-27-04-A6B8D25C-4CB4-4360-BE7C-46DEA0AC36CE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Jakot - 2013</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">
+    <img class="flex-bottle" src="/images/e5/c2e4c9-4027-410f-8a20-e14079d83416/2020-08-13-08-57-34-ADE4EDAE-70E0-445D-A462-FB72F489EFBA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Slatnik - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
+    <img class="flex-bottle" src="/images/e9/365c42-85f2-472a-b2cb-c16985f36a4e/2021-03-20-09-18-16-549E62EC-36E7-4CC8-9A27-6839AFB2B85D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Slatnik - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+    <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cantina Alchemica</section>
     <section class="h text-bolder">Lanthano Bianco - 2013</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>

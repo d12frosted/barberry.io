@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     a8534030-3cc0-43c0-aad3-c7d372fb4690
+:ID:                     83a5aba3-3ec5-4a8a-873b-4d8ef5f6c7c4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/ce/63f4af-0443-440e-b997-3602ebee4d80/2020-09-20-10-16-38-A53DA59D-B5CB-4E4C-B3F8-69F419ACAACD-1-105-c.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     2488a292-277c-4f02-a5be-e6c3044521b4
+:ID:                     0b9d06b6-196b-46a4-bb5d-521503c7d6a3
 :END:
 
 *** 2021-02-27 - ☆ 8.25
 :PROPERTIES:
-:ID:                     f58ad9eb-8e9c-42c4-ac26-7d411a833d77
+:ID:                     2a1c5654-6e9c-41db-8e11-19ffb9a69411
 :END:
 
 Very charming Cinsault from 40+ years old vineyards. Barberry candy wrapped into leather sack. Cranberry, red apple, flint. Not profound, but multilayered. Well balanced, but still very young. Would love to taste it again in few years.
 
 ** Related
 :PROPERTIES:
-:ID:                     faca5569-3e5f-4e58-abc1-14fc3745dbdd
+:ID:                     a79315e4-2a9d-4935-94c1-9329c4b229b6
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Pofadder - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+    <img class="flex-bottle" src="/images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Skurfberg - 2020</section>
   </a>

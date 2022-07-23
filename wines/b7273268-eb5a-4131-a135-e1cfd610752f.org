@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f2f67d8f-3a9d-4536-8adc-28270e84f0fc
+:ID:                     b14372e8-8b7d-4e17-854a-2aa4d6dbca3b
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/b7/273268-eb5a-4131-a135-e1cfd610752f/2020-09-19-13-51-46-4498FB5C-565A-4914-9D31-4D826BB61A3D-1-105-c.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     ade2b8d8-04fc-4d51-9346-e88ec7ae238b
+:ID:                     6c0195f2-04cf-4b7c-93d0-af7b3062e666
 :END:
 
 *** 2020-09-18 - ☆ 7.00
 :PROPERTIES:
-:ID:                     3418bfd7-c760-4c88-9ade-4b1951174831
+:ID:                     e4ad0a66-dce4-493f-9850-2c4ef725d3e3
 :END:
 
 Good skin contact wine from Satu Mare, Romania. Fermenting yellow fruits, dried flowers, juniper, yeast. Tastes like oxidized green apple, same acidity and tannins. And if that matter, flavours.
 
 ** Related
 :PROPERTIES:
-:ID:                     0fce79e1-25df-4e98-af3f-d4cf66c9dfe6
+:ID:                     6db84ca5-2a4d-4dca-b6e2-e97778a14382
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">
+    <img class="flex-bottle" src="/images/36/9d38ae-163d-4c8d-bc21-1900c8b72a7d/2020-09-20-12-47-07-BD1F367A-87EA-43DE-9C3A-75B1D04AD231-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <img class="flex-bottle" src="/images/72/b542d8-fab8-4147-8436-297f41c46ade/2020-07-08-15-29-42-5EFAB626-9612-4DBF-A836-8295ED8E170B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2018</section>
   </a>

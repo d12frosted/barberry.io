@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e7a51577-94e9-40b9-82bd-fe6a99a328ef
+:ID:                     2f36543a-8898-4d0a-ad32-886e97894342
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp]]
@@ -16,24 +16,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     4da5e549-1f7c-4827-ac3d-fb933f37af4d
+:ID:                     93918bab-ce4f-4a92-9c4e-f84d529bb389
 :END:
 
 *** 2022-07-08 - ☆ 7.25
 :PROPERTIES:
-:ID:                     6ac4387d-0d81-4202-be31-ab65de1bd3ed
+:ID:                     21b9b7aa-c3c4-4414-94b4-f8910f18725d
 :END:
 
 Expressive black currant pie with notes of sweat, smelly cranberry, nail polish remover, and some common bakery spices. Woosh, not my grandmother's recipe for sure. At least she didn't add so many spices. On the palate, it's pretty aggressive, thanks to dry tannin, lifted acidity and flavours of VA. This Blauer Portugieser (my first one, by the way) is a typical example of low-intervention wine that nimbly surprises inexperienced people. Bright, expressive, and straightforward. Yet it has something to offer for a good value.
 
 ** Related
 :PROPERTIES:
-:ID:                     d72d0d7a-8495-4bd4-90a9-1ea3ed66a968
+:ID:                     339183dc-8e1c-4d32-af95-63129b171471
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <img class="flex-bottle" src="/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
   </a>
@@ -49,6 +50,7 @@ Expressive black currant pie with notes of sweat, smelly cranberry, nail polish 
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
+    <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp"></img>
     <section class="h text-small text-lighter">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Filagnotti - 2016</section>
   </a>

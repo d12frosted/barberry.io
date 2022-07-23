@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c897502b-8d6b-48a2-bcaa-cde154d65f94
+:ID:                     7934d4f8-d5b5-4e84-8a4c-c0c6ad467d02
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9e68c705-9e3f-4402-9a2c-6ef7b40f969c
+:ID:                     1216c69c-a8ac-42cd-b256-f955952e8ee9
 :END:
 
 *** 2021-12-21 - ☆ 8.00
 :PROPERTIES:
-:ID:                     fafd77d7-3185-4a2e-b476-c165032c2343
+:ID:                     7dd6a324-0588-46e4-b6fa-0a89f5fa66c8
 :END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
@@ -33,17 +33,19 @@ kind of overpriced.
 
 ** Related
 :PROPERTIES:
-:ID:                     cfc66356-1b97-47dd-abce-1895553e421e
+:ID:                     93a4060d-f000-4dae-a5c0-e9d6ce2876a2
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bérêche & Fils</section>
     <section class="h text-bolder">Brut Réserve - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <img class="flex-bottle" src="/images/10/8c69b0-4506-4e05-9da4-c73ccd053992/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Shabo</section>
     <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
   </a>
@@ -54,16 +56,19 @@ kind of overpriced.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
+    <img class="flex-bottle" src="/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée - NV</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     10756345-a156-4b3c-a14e-e6c8329517bd
+:ID:                     0510a473-8f71-45cd-b59e-9d7673378884
 :END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/5a281f27-88c8-473e-a9fd-0e589375b1e2][La Sorga]]
@@ -13,19 +13,19 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     4c7f17d0-91f7-4311-9a92-8bbdc756a7fe
+:ID:                     6346ec02-1a48-4681-8d4e-6d9041f97a3e
 :END:
 
 *** 2020-10-16 - ☆ 6.50
 :PROPERTIES:
-:ID:                     fee57f8d-ee79-4c90-a72a-c828a68e2705
+:ID:                     5dd288a0-319e-4967-b75c-39dffab9c137
 :END:
 
 Unexpectedly good wine from La Sorga, winery mostly famous for crazy and faulty natural wines. But S.M. 2018 is really good. Not sure if it just spent enough time to settle down or just a lucky bottle. Apple juice, yeast and light brett touch. Flavourful, rotten apples mixed with seeds and yeast. Very high acidity. Could be great in the hot summer day. Maybe even mixed with cold water.
 
 ** Related
 :PROPERTIES:
-:ID:                     0c86d798-1bb2-42d0-843d-726cfabd13a0
+:ID:                     e86878b8-9fb6-486d-8472-220b84eab095
 :END:
 
 #+begin_export html
@@ -41,6 +41,7 @@ Unexpectedly good wine from La Sorga, winery mostly famous for crazy and faulty 
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+    <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tiago Teles</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>

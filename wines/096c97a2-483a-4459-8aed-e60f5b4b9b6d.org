@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     001a193a-1fcc-4e0b-9b7c-f33d8afc1d3c
+:ID:                     7851e5d4-38e6-48db-8b7a-086201f8961a
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/09/6c97a2-483a-4459-8aed-e60f5b4b9b6d/2021-06-01-07-40-04-3FD8F12B-C3B9-40A9-A0B1-C5F7B55B9AD2-1-105-c.webp]]
@@ -16,74 +16,85 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     ae003ca4-d8ce-43c9-a4e9-6c131c11f1ac
+:ID:                     27c6fd50-9a86-4698-b5e3-a61b0a0eaee8
 :END:
 
 *** 2021-05-31 - ☆ 9.50
 :PROPERTIES:
-:ID:                     e4e3f450-96a6-4950-a88f-9769e9abdc97
+:ID:                     e286be47-9cbf-49b4-a872-64a8c628e371
 :END:
 
 Restrained and beautiful bouquet of barberry, wild strawberry, cherry confiture, and some gentle whispers of animal touch. Delicious and beautiful wine, juicy and perfectly balanced despite high acidity. Long aftertaste with flavours of strawberry and underbrush hints. Elegant, young and ready to enjoy. Giving it an extra point for elegance and balance with hope that its potential will make it even better with time.
 
 ** Related
 :PROPERTIES:
-:ID:                     954c4825-2718-4444-8f0a-a1b7a424919f
+:ID:                     66f01536-1c97-4b9f-8edf-6637b1e762ed
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1f40f56d-8790-4123-84ff-1478363ed829.html">
+    <img class="flex-bottle" src="/images/1f/40f56d-8790-4123-84ff-1478363ed829/2021-12-27-17-25-40-BAB30B5F-F441-4FF1-BB80-05210B39D4D1-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Bourgogne - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/345c98e3-665a-416f-83a7-b31d12e29361.html">
+    <img class="flex-bottle" src="/images/34/5c98e3-665a-416f-83a7-b31d12e29361/2021-12-27-17-27-44-0DAB7A51-B181-427A-834C-7C35D43BEDAA-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Savigny-Les-Beaune Les Bas Liards - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4ecbdb55-eebb-43df-9af7-b92c3144d2b5.html">
+    <img class="flex-bottle" src="/images/4e/cbdb55-eebb-43df-9af7-b92c3144d2b5/2021-12-27-17-27-31-37BCDFB8-BB74-4ACB-B014-35D786214378-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Beaune Les Mariages - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/52ed748f-89be-4be6-a619-8de5dbd79e8e.html">
+    <img class="flex-bottle" src="/images/52/ed748f-89be-4be6-a619-8de5dbd79e8e/2021-02-22-22-34-13-D8998030-242C-4793-9C7C-4E54D7360440-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Beaune 1er Cru Les Teurons - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/68a1b1da-f9e1-43d9-9ef4-acd3d2d31e55.html">
+    <img class="flex-bottle" src="/images/68/a1b1da-f9e1-43d9-9ef4-acd3d2d31e55/2021-06-08-07-49-23-05F44376-E818-4F18-858A-3BC7F90C9C96-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin 1er Cru Les Corbeaux - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/99480dba-cc0d-403e-9f93-a7b7331332ff.html">
+    <img class="flex-bottle" src="/images/99/480dba-cc0d-403e-9f93-a7b7331332ff/2021-06-02-10-56-53-4A356E56-AEBB-414E-AF60-822D7BFF96B4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Vieilles Vignes - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">
+    <img class="flex-bottle" src="/images/da/0ee939-d923-44f2-9aac-6c0dfa831964/2022-01-13-09-38-59-ED486F76-0CE5-42A7-BC12-15198E1C98B9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+    <img class="flex-bottle" src="/images/27/414711-c577-42e5-99ad-ad4de875534f/2021-06-01-07-40-18-FD9BBD6E-516F-486B-8DAA-35F22599D388-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Romanée-Conti</section>
     <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7.html">
+    <img class="flex-bottle" src="/images/2e/729911-2c1c-42fb-a45b-bd5413fffbe7/2021-06-01-07-39-13-26B5790F-F01B-43A5-821C-6C085F7C2AB0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Benoît Lahaye</section>
     <section class="h text-bolder">Rosé de Macération Champagne Grand Cru 'Bouzy' - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <img class="flex-bottle" src="/images/e7/7ba7fc-950c-4c76-b1ee-93d88ca7b801/2021-06-01-07-39-47-75FDFB8D-22FD-439D-893C-492C64205866-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jean Grivot</section>
     <section class="h text-bolder">Clos de Vougeot - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+    <img class="flex-bottle" src="/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Louis Jadot</section>
     <section class="h text-bolder">Échezeaux - 2013</section>
   </a>

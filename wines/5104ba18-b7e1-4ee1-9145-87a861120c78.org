@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     72cdba5d-2cd1-447d-a55f-71be7d15a229
+:ID:                     657942f8-fd92-477b-b3db-74599d164c21
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     65e53e2e-6f83-4da7-a10a-fe936799eb80
+:ID:                     37341d76-a83f-4f24-8761-1e6ba4946833
 :END:
 
 *** 2021-08-19 - ☆ 8.00
 :PROPERTIES:
-:ID:                     73531e78-ae11-45b0-affc-714c58033737
+:ID:                     ba12544b-5b01-4a80-8f94-4747e313ec91
 :END:
 
 It was really interesting to taste 2018 while my memory of 2006 is still fresh. Yes, unlike 2006 it is not 100% Tempranillo, and has some Garnacha, but still. Wonderful and serious rosé, still young with huge potential. Marzipan, strawberry, butter, vanilla, bakery. Quite sophisticated, quite delicate, fresh and well balanced.
 
 ** Related
 :PROPERTIES:
-:ID:                     d00bb686-f941-47ae-bf5d-de711476e49d
+:ID:                     d9de7c7f-b27e-4a3b-a3d7-9459e4025e7b
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/24b39022-f0cf-48da-b842-6a1268c7a2f8.html">
+    <img class="flex-bottle" src="/images/24/b39022-f0cf-48da-b842-6a1268c7a2f8/2021-11-14-11-55-27-C42E4C68-D30A-4132-8AFC-95D922D1C7C4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Tinto Reserva - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+    <img class="flex-bottle" src="/images/cd/bb0e56-a671-46e2-9ea2-5ca831c46d47/2021-07-14-08-46-13-D9599F9A-47F6-46EA-8BB4-704363D84E42-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <img class="flex-bottle" src="/images/4a/2db391-157a-45ac-9fcf-f44ad28d7548/2021-08-20-08-51-33-DA309637-829D-4D3D-88BF-0123CAE0775A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Orange - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>

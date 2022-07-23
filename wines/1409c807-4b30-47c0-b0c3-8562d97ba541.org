@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     04ceabbe-8da8-4016-9a21-a1b5bae580fc
+:ID:                     6a634b91-4fe1-4734-82d0-d10b667b7451
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/14/09c807-4b30-47c0-b0c3-8562d97ba541/2021-06-02-10-54-57-1065E2EE-3269-4A70-9024-8294D7832871-1-105-c.webp]]
@@ -16,14 +16,14 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     ceff56cf-6e6b-491b-a44f-2f581e7adcd0
+:ID:                     0b8a4a20-5af5-4599-b3f9-c8f6522491d5
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     dac84d1c-4d63-4a9c-aed1-96db0a47f9fb
+:ID:                     0102b944-2ca7-43b9-9a61-07f7f119fd54
 :END:
 
 #+begin_export html
@@ -34,6 +34,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+    <img class="flex-bottle" src="/images/e7/7ba7fc-950c-4c76-b1ee-93d88ca7b801/2021-06-01-07-39-47-75FDFB8D-22FD-439D-893C-492C64205866-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jean Grivot</section>
     <section class="h text-bolder">Clos de Vougeot - 2014</section>
   </a>

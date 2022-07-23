@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     41f79873-009e-4327-8540-5609266c5457
+:ID:                     aca3f325-80fe-48e3-b09c-0c5412bff7f0
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c4b4cb1f-64c9-4ea1-bcc5-7dfee71d69db
+:ID:                     8954a74c-1f6a-4db8-97ba-6dc6e9aba4a1
 :END:
 
 *** 2020-09-11 - ☆ 7.00
 :PROPERTIES:
-:ID:                     3876d982-8d07-4767-b607-959672c63b48
+:ID:                     818cd8c2-f543-4ee5-ac08-d84b32c6f309
 :END:
 
 Fresh Impression 2018 made of Grenache Blanc, Chardonnay, Melon de Bourgogne
@@ -31,22 +31,25 @@ evolving finish. Tastes like fermenting white fruits.
 
 ** Related
 :PROPERTIES:
-:ID:                     7d350ba2-1989-4900-9a59-7e3efe2dc404
+:ID:                     08af3c07-519e-4cf3-9201-7eb6189e837b
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
+    <img class="flex-bottle" src="/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">
+    <img class="flex-bottle" src="/images/36/9d38ae-163d-4c8d-bc21-1900c8b72a7d/2020-09-20-12-47-07-BD1F367A-87EA-43DE-9C3A-75B1D04AD231-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/67648a12-7d2c-481b-ba2f-707213642f7c.html">
+    <img class="flex-bottle" src="/images/67/648a12-7d2c-481b-ba2f-707213642f7c/2021-08-11-08-44-02-FBFF53FB-A541-4325-9C22-E4B78D151272-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Oh Yeah - 2020</section>
   </a>
@@ -57,26 +60,31 @@ evolving finish. Tastes like fermenting white fruits.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/72af4b22-a56f-4f04-a0e7-c6e3a6179600.html">
+    <img class="flex-bottle" src="/images/72/af4b22-a56f-4f04-a0e7-c6e3a6179600/2022-05-08-18-13-23-IMG-0052.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Big Bunch Theory Fresh Impression Red - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/805e6758-4d6a-4c21-9ab4-4045e6ea446c.html">
+    <img class="flex-bottle" src="/images/80/5e6758-4d6a-4c21-9ab4-4045e6ea446c/2021-08-11-08-32-01-12A14077-5720-4B54-B267-B83DADAE4C4D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Fresh Impression White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
+    <img class="flex-bottle" src="/images/e5/9e3ee3-cfb8-4f3d-8df3-8001d244a624/2021-08-11-08-35-32-0DFD44BE-D6D0-4353-8187-56ECFDF1ABF5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <img class="flex-bottle" src="/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cascina Tavijn</section>
     <section class="h text-bolder">Bandita - 2016</section>
   </a>

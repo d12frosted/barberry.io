@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     6406cc5b-ec40-4c56-a3f5-95d4444013a7
+:ID:                     6060d602-dc2f-432c-88b0-3e5a9003b4b4
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/d4/ae10ce-c086-4592-bd4e-37e41322918c/2022-07-08-09-31-06-1CD70F52-E6A6-485F-91F7-CA8F377070D6-1-105-c.webp]]
@@ -16,19 +16,20 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     cb11ee2a-3563-4a72-8f57-21ae487ecd46
+:ID:                     3fc896b7-e5e9-4277-a51e-1bae61a0423d
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     c2a60b61-3154-456f-a265-605dcf073a7c
+:ID:                     00902b82-faa2-40dd-8851-e251d0eef454
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/aa6dbbc8-14b0-4c32-b958-63c1385602ed.html">
+    <img class="flex-bottle" src="/images/aa/6dbbc8-14b0-4c32-b958-63c1385602ed/2022-07-08-09-32-25-C3A81E76-1CE3-4AFE-87FF-96C0F1F47FF3-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Piera Martellozzo</section>
     <section class="h text-bolder">Selezione di Piera Onedis Ribolla Gialla - NV</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     9863b15d-3236-42c3-a53f-b5390920ec58
+:ID:                     3643ea2f-0b13-4c78-a78a-c2e68b3145b8
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp]]
@@ -18,44 +18,49 @@ Fermentation happens in stainless vats. Then it is aged for 5 months in new fren
 
 ** Ratings
 :PROPERTIES:
-:ID:                     5872f98b-5714-41cf-9eec-58fb51da569b
+:ID:                     61ecee0a-84b4-4615-9c71-f6b46be4cf83
 :END:
 
 *** 2022-01-25 - ☆ 7.25
 :PROPERTIES:
-:ID:                     5cc9ec0f-f68a-4376-86e8-6646baa53ac3
+:ID:                     f2cab9aa-e212-471b-ac22-d6ce4136fb14
 :END:
 
 Unfortunately, slightly corked wine. Hence, the rating is lower than it could be. Youthful and intense. Red berries, cinnamon, menthol and oak. Full-bodied, fresh with powerful tannin. Good balance, good volume and friendly wine despite 15 abv.
 
 ** Related
 :PROPERTIES:
-:ID:                     14b483b2-082b-407f-b52d-80681dc822f4
+:ID:                     2197e329-1a42-45ed-88ee-c4afee8a2008
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Naveran</section>
     <section class="h text-bolder">Odisea - 2019</section>
   </a>

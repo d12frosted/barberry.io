@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     ff68a9bd-6840-4b56-8d8f-c46b70c3453a
+:ID:                     18e78ad3-a3f7-4ab6-b4cb-2ad7e9d4de3a
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/55/d3286d-d7ce-4659-abca-b0bee73944a9/2021-06-15-08-32-24-53AB4DC4-9B36-4AB1-97DB-F7347BED1549-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     cd199340-70f5-47af-aada-1dce07029c9c
+:ID:                     02b4ab88-193a-4419-9823-d91fbaa5b573
 :END:
 
 #+begin_quote
@@ -33,12 +33,12 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8858fe73-ebd8-4c78-849f-74256f4b9220
+:ID:                     594dadce-f0a5-4d2d-8ee6-6fe2ac16ae54
 :END:
 
 *** 2021-06-14 - ☆ 8.00
 :PROPERTIES:
-:ID:                     c06bcdea-7e98-42a6-bddb-f61e654ff74c
+:ID:                     787851e0-1dd3-4ddb-8a59-2e24cc5f58f0
 :END:
 
 Tasted blind. Was thinking about Sicilian Carricante or something from
@@ -50,12 +50,13 @@ and delicious.
 
 ** Related
 :PROPERTIES:
-:ID:                     c3ac070b-ce2a-4f1f-911d-60101ce622bf
+:ID:                     08397a27-00b6-4e48-a077-59977b45b8ec
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
+    <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp"></img>
     <section class="h text-small text-lighter">Sous Le Végétal</section>
     <section class="h text-bolder">Palli et Genesia - 2018</section>
   </a>

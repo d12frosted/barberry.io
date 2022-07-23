@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e22cdf0b-9ca0-4684-972c-1ad9b2daac1c
+:ID:                     4dce9474-980c-4946-9465-be9f8552d174
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/52/b83646-0cd4-49be-8356-f6d6ec7c7559/2021-08-25-23-27-35-0018144C-557E-41BB-A48E-2F567CAFAA21-1-102-o.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d67d3f4c-0d02-4b1a-a4d1-1a4ae4e4e8a4
+:ID:                     92baf90b-4638-42c6-a496-35abc4a1c566
 :END:
 
 *** 2021-08-25 - ☆ 8.00
 :PROPERTIES:
-:ID:                     896966b3-1ade-4eb1-8c15-61002807f334
+:ID:                     4c0c682c-6841-4c2c-86c1-e8a2e7c6d0ba
 :END:
 
 Elegant and sophisticated wine. Yellow fruits, nuts, quince jam, benzene notes and tilia with some bakery hints. High electric acidity, well balanced, has lots of power and potential. It's almost ready to kick me in the face. Long aftertaste with flavours of tilia honey and green apricot. Young yet delicious!
 
 ** Related
 :PROPERTIES:
-:ID:                     faa3910e-1c69-47a9-8eaf-c36509d11917
+:ID:                     c39ed9aa-7a91-47e8-b474-a694d3332af9
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+    <img class="flex-bottle" src="/images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+    <img class="flex-bottle" src="/images/83/d90838-5e63-43af-abc5-f5fb482bc36f/2021-11-26-07-56-58-413ECF5C-A714-4E30-9173-CC549B874B94-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
   </a>

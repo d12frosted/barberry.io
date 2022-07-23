@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     3a57923d-726d-4c8c-9af6-d66b02894b8d
+:ID:                     e1acefda-dd78-4dc5-bcb6-dd100400187a
 :END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/f17f45c4-3a53-41d6-8ce4-5af676a7af04][Ktima Papaioannou]]
@@ -13,24 +13,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     1d00f554-88a2-4bf8-bda1-aba33021dec3
+:ID:                     7a0c57d7-b866-487e-9f4c-02c9afd7863d
 :END:
 
 *** 2021-08-23 - ☆ 7.40
 :PROPERTIES:
-:ID:                     924f6be2-06d0-41b3-be1e-54dbd866d5d3
+:ID:                     d6e0e520-1d66-4dd2-a2dc-b96cd9e72f65
 :END:
 
 Unexpected beauty. Fresh, quaffable and delicate. White fruits, mandarins and white flowers. Well balanced, juicy with citrus finish. Simple and well made, perfect to chill.
 
 ** Related
 :PROPERTIES:
-:ID:                     12917c44-5f2a-4aa9-b5eb-cee3434728d6
+:ID:                     cb35ef9b-9f39-453f-9d2a-8239d7b4b372
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">
+    <img class="flex-bottle" src="/images/5c/c084ab-5d95-4346-a01b-eb4e27cb2c79/2022-06-12-17-36-57-0C50A37F-E0D3-45C0-BE46-168AEFD5EB67.webp"></img>
     <section class="h text-small text-lighter">Ktima Papaioannou</section>
     <section class="h text-bolder">Malagouzia - 2020</section>
   </a>

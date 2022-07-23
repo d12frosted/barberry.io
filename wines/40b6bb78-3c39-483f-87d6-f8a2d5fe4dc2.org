@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     bbba7a35-1fd7-448a-a9a1-54aa7fdc31f8
+:ID:                     2eb8c2d9-2797-4e55-9db3-f24e03ae45a7
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d706bfe4-a0c6-468a-b082-9f4808af39c1
+:ID:                     d0972777-7a55-416f-96bc-cdf139bb142f
 :END:
 
 *** 2022-05-31 - ☆ 7.50
 :PROPERTIES:
-:ID:                     7a12f645-5c56-4ccc-bf1d-0160e826b0f9
+:ID:                     13047bd6-8702-4a0b-890c-3e0f37121986
 :END:
 
 Good Merlot-based field blend. Nose full of overripe even slightly rotten cherry, anchovies and raw dough. Not complex, funny and fruity. Dizzy, but nobody's perfect. Flavours of cherry. Dark chocolate and soy sauce.
 
 ** Related
 :PROPERTIES:
-:ID:                     9b864b2e-2384-4c3f-825d-a76e95d01e8d
+:ID:                     eb1ef5a9-cbfb-405e-90e0-7b858e9deea9
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <img class="flex-bottle" src="/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
+    <img class="flex-bottle" src="/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">
+    <img class="flex-bottle" src="/images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp"></img>
     <section class="h text-small text-lighter">Craggy Range</section>
     <section class="h text-bolder">Gimblett Gravels Syrah - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">
+    <img class="flex-bottle" src="/images/5b/2f5a0f-a181-4421-a1bd-9248f685a076/2022-06-01-09-26-37-1E75F361-F74D-49A6-BA59-293397381BFF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Vinoman</section>
     <section class="h text-bolder">BLU Pinot Noir - 2019</section>
   </a>

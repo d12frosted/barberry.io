@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cb327124-c3d1-458c-8b6e-12a5a9a2c769
+:ID:                     138b75bd-6032-4791-bfe8-e15cf87c8586
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/72/b542d8-fab8-4147-8436-297f41c46ade/2020-07-08-15-29-42-5EFAB626-9612-4DBF-A836-8295ED8E170B-1-105-c.webp]]
@@ -16,50 +16,52 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     6a7c2dd2-cde7-4e33-a197-23b55ca91c70
+:ID:                     e3b932f7-2ab5-4bec-8ad5-b63938a0a62d
 :END:
 
 *** 2020-07-08 - ☆ 8.00
 :PROPERTIES:
-:ID:                     b6aee8ea-5ea5-4424-a750-848fd33424bb
+:ID:                     439d075a-1577-4401-8cc8-cb19bbd5764b
 :END:
 
 A discovery. I am not familiar with German wine and this orange wine made from grapes, most of which I haven't heard about before - Bacchus, Würzer, Müller-Thurgau, Silvaner, Scheurebe and Riesling. Skin contact for two weeks of two-thirds of the grapes. Result is delightful. Dried flowers, apricot, zest and tea. Perfect balance, structured, long finish. Great value.
 
 *** 2020-09-15 - ☆ 7.50
 :PROPERTIES:
-:ID:                     2346e434-bf57-4289-beed-dfe631d9e609
+:ID:                     ccf89aa5-bd85-4f3a-ac84-fca0bb90c59e
 :END:
 
 Tasting again after 2 months. Consistently good. Dried flowers, zest and tea. A little bit plain in the taste, but still good structured wine with skin contact. QPR here is very nice (even after the increase).
 
 *** 2020-09-18 - ☆ 7.50
 :PROPERTIES:
-:ID:                     3d578ee8-abff-417b-b943-fc101888a917
+:ID:                     c56c411a-2c46-4088-ab19-c6988c1b8178
 :END:
 
 See my previous notes. Dried flowers, tea and zest.
 
 *** 2021-10-09 - ☆ 7.00
 :PROPERTIES:
-:ID:                     4621b728-e60a-4bd3-9a80-2d8fe6d76a88
+:ID:                     499376fd-1c6e-4997-84ae-212a3d78dc92
 :END:
 
 Fading and not interesting anymore. Either a bottle variation or it's just the wine itself. In the nose it's quite simple - flowers, zest and VA. On the palate it lacks balance, but is more interesting thanks to good tannin and VA finish. So overall this wine is kind of OK, but there are better oranges out in the wild.
 
 ** Related
 :PROPERTIES:
-:ID:                     cdaca724-3e5e-43ef-913b-6b88d92d8b39
+:ID:                     04288bfa-3754-43cb-942b-ef79122223a2
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/042cfcdf-fc2e-4716-881b-5546c6124052.html">
+    <img class="flex-bottle" src="/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <img class="flex-bottle" src="/images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Crazy Crazy - 2020</section>
   </a>
@@ -70,16 +72,19 @@ Fading and not interesting anymore. Either a bottle variation or it's just the w
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">
+    <img class="flex-bottle" src="/images/36/9d38ae-163d-4c8d-bc21-1900c8b72a7d/2020-09-20-12-47-07-BD1F367A-87EA-43DE-9C3A-75B1D04AD231-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b7273268-eb5a-4131-a135-e1cfd610752f.html">
+    <img class="flex-bottle" src="/images/b7/273268-eb5a-4131-a135-e1cfd610752f/2020-09-19-13-51-46-4498FB5C-565A-4914-9D31-4D826BB61A3D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Edgar Brutler</section>
     <section class="h text-bolder">Saito - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">
+    <img class="flex-bottle" src="/images/ba/c7d8e2-273b-4d07-a747-4e8f437eebc7/2020-07-08-15-10-24-C03D8998-3AA6-4CDA-B1F8-6538AE60A3C4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Bianco - 2018</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f569da3c-5388-4554-a2e8-bb7ce9f556d2
+:ID:                     0f88ffaa-8486-4cf7-89ef-24ab34b7d4ce
 :END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
@@ -13,7 +13,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     73181434-b41b-4dd2-ba3d-ec0baa797c7a
+:ID:                     d737b5e9-244c-4c77-81af-848f80434382
 :END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
@@ -30,59 +30,67 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     ab3ab977-bb1b-4147-beb0-220c97bbd27e
+:ID:                     7863fc8e-1839-4e37-a4d9-6eab5630118b
 :END:
 
 *** 2021-12-09 - ☆ 8.00
 :PROPERTIES:
-:ID:                     a068965d-0424-4f74-8c08-ff2c2ddbfce1
+:ID:                     d46decfc-c2e4-4845-8920-ff1cd1c3cc5c
 :END:
 
 One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, strawberry, spices and some animal notes. Well balanced, fresh, elegant and just delicious. Quaffable, unfortunately, quaffable.
 
 ** Related
 :PROPERTIES:
-:ID:                     76fec38f-ef31-4690-9393-cba6eb1cdbea
+:ID:                     43309f21-7da2-4b99-a643-0d26b287412b
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/22085dbc-44c2-4b02-bb15-625d0395c818.html">
+    <img class="flex-bottle" src="/images/22/085dbc-44c2-4b02-bb15-625d0395c818/2021-06-23-08-56-50-DED9130B-37A4-41D5-97BA-04CFDE0030B4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/370e2f0f-46c0-464f-a27b-49894634e4c2.html">
+    <img class="flex-bottle" src="/images/37/0e2f0f-46c0-464f-a27b-49894634e4c2/2021-09-04-13-38-48-D4C72240-BE5B-4393-9C98-D98EB02B87CF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Rollaball - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
+    <img class="flex-bottle" src="/images/44/ee0d12-de03-42f2-83f0-502be8bd54b0/2022-06-21-14-32-56-92927A43-D648-451D-B84F-CB4DE7ED60EF-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <img class="flex-bottle" src="/images/4a/2db391-157a-45ac-9fcf-f44ad28d7548/2021-08-20-08-51-33-DA309637-829D-4D3D-88BF-0123CAE0775A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Orange - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4f6d8434-a726-4e9a-955a-745813fdd7d1.html">
+    <img class="flex-bottle" src="/images/4f/6d8434-a726-4e9a-955a-745813fdd7d1/2021-07-23-07-45-34-IMG-2663.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Marguerite - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6c45e619-c75e-43d1-9f11-2896fd46994b.html">
+    <img class="flex-bottle" src="/images/6c/45e619-c75e-43d1-9f11-2896fd46994b/2020-06-27-11-06-38-B6136489-237A-4123-A2D7-69C8D4F70B6B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Olla Rouge - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/bb9c19ad-0571-4346-9bda-088dfaa9a658.html">
+    <img class="flex-bottle" src="/images/bb/9c19ad-0571-4346-9bda-088dfaa9a658/2021-12-27-17-24-14-121A3348-5E44-4369-BF14-238B093A4CC9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">El Carner - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
+    <img class="flex-bottle" src="/images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2019</section>
   </a>
@@ -93,6 +101,7 @@ One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, s
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
+    <img class="flex-bottle" src="/images/cd/920007-4ce3-4985-8aef-24c39ad97437/2021-12-10-08-31-44-97153939-1A0B-464C-BFFD-949CB733033C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     392b0cf6-4c16-4b52-be77-a6634544d89b
+:ID:                     72504b92-af06-4c48-974b-fee3be1386f7
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/6f/8ecc8d-b962-4a1d-a305-6999b5e6c38e/2022-05-08-15-06-11-BD4FF34B-D5F9-4361-8BD4-4264952781AF-1-105-c.webp]]
@@ -16,39 +16,43 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     1207a821-1977-4ad7-aefe-78f01c28fafc
+:ID:                     88a402ec-3391-4abf-b601-f65bffc7ad7c
 :END:
 
 *** 2022-05-04 - ☆ 7.75
 :PROPERTIES:
-:ID:                     14e4a438-16bb-4275-a716-67276aeab970
+:ID:                     e95f6b23-5375-44a0-95c4-c6f63ae16863
 :END:
 
 Wonderful medium-full bodied blend of Cabernet Sauvignon, Merlot and Carménère from respected winery. Already showing complexity at this age, still has potential. As with many wines of this region, Terre di San Leonardo has high acidity, but lacks in tannin to get right volume. Regardless, it's delicious with long persistent aftertaste.
 
 ** Related
 :PROPERTIES:
-:ID:                     826e4735-6868-428b-b966-aa405be352b0
+:ID:                     cb331925-737e-4dd9-b31a-c7b190166d63
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/27c6bf4d-38f4-4488-b236-c7f205fd7f43.html">
+    <img class="flex-bottle" src="/images/27/c6bf4d-38f4-4488-b236-c7f205fd7f43/IMG-1302.webp"></img>
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">San Leonardo - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
+    <img class="flex-bottle" src="/images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp"></img>
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">Vette - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
+    <img class="flex-bottle" src="/images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Paul Benoit et Fils</section>
     <section class="h text-bolder">Pinot Arbois - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">
+    <img class="flex-bottle" src="/images/d3/1203d7-6889-4b84-b67a-05cafc0a5cef/2022-05-08-15-04-10-7148ED7D-4BAA-48DC-85F4-2B30BE7D41FE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Mud House</section>
     <section class="h text-bolder">Pinot Noir Central Otago - 2020</section>
   </a>

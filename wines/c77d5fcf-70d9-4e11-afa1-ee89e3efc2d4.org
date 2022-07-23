@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cd95dd14-665a-4d49-bf5c-07e7c711cf27
+:ID:                     73212e22-33ee-4e55-be41-f76ec3cd46f9
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/c7/7d5fcf-70d9-4e11-afa1-ee89e3efc2d4/2021-05-22-14-17-16-A29D082C-02E3-4779-8506-C695089F9866-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     c9b4f64d-aa2c-4686-9f9e-0f4dfda28339
+:ID:                     9c0442cd-1c37-419e-946c-87138e725147
 :END:
 
 Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
@@ -27,12 +27,12 @@ As they say, 'made from grapes'. And nothing more (except for a tiny bit of sulp
 
 ** Ratings
 :PROPERTIES:
-:ID:                     7fc5c77d-486e-452e-b218-eb0f110d1553
+:ID:                     1f3be44c-fc86-4663-8f69-07c5470f42a6
 :END:
 
 *** 2021-05-20 - ☆ 7.50
 :PROPERTIES:
-:ID:                     3287c1bb-ed43-4069-930a-643d603d597d
+:ID:                     12e88514-cff8-4262-9939-2221f868a24c
 :END:
 
 Volatile at the beginning and fruity after long breathing. Strawberry,
@@ -41,42 +41,49 @@ and interesting palate.
 
 ** Related
 :PROPERTIES:
-:ID:                     b284a1b3-2ba2-4bea-879c-c65cc5ccbd51
+:ID:                     861d7214-0251-411b-ac70-db74019cb8f0
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
+    <img class="flex-bottle" src="/images/2a/dba2d9-cc62-4e2b-bcec-5bc363fc2194/2020-11-07-10-05-32-4D059B94-51B5-4A46-95AE-357BE9C7517A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">
+    <img class="flex-bottle" src="/images/49/41eb84-f727-4196-a96c-502a5bc2137f/2022-07-22-20-01-31-5736B22E-0A5C-4064-B71E-78AE4122AAD4-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
+    <img class="flex-bottle" src="/images/5d/4114ef-7bb4-4274-8889-d349f7971daa/2022-07-21-07-35-44-DEEDE4DF-E60D-4DA4-88E5-438F0D616FC5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
+    <img class="flex-bottle" src="/images/8a/d2d430-ba67-47e0-a257-c05ffe537bff/2021-01-24-12-38-11-49D4C33F-85BC-48E9-99F7-558711E3AA97-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
+    <img class="flex-bottle" src="/images/a0/0de9a6-3e60-4ab4-8b81-279995809572/2022-06-21-14-29-45-EB85A16C-F636-4B32-A6DE-208899B4AA1C-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
+    <img class="flex-bottle" src="/images/cd/920007-4ce3-4985-8aef-24c39ad97437/2021-12-10-08-31-44-97153939-1A0B-464C-BFFD-949CB733033C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
+    <img class="flex-bottle" src="/images/d3/8aadd5-6c84-40a0-93c9-8ff6b7468553/2022-06-21-14-31-39-C73B544C-2B9B-4113-B737-A75DE735090F-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito Skin - 2019</section>
   </a>

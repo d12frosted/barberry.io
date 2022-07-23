@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     2ca39228-b175-45df-9fd8-d360cf72eb2e
+:ID:                     388f5a31-028f-4f29-abd5-898334fd9f6f
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/47/0a1738-5cc3-4aac-a09a-7ab314af4c00/2021-12-23-08-38-50-1103030B-2C05-432E-A71B-913F1B559FC8-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     20f5a67c-6e0b-4ee5-be0e-2a69ea81c315
+:ID:                     40b996ed-1ebc-407c-b489-39425f3c5b01
 :END:
 
 *** 2021-01-26 - ☆ 7.50
 :PROPERTIES:
-:ID:                     8c3d44c4-a3fc-4335-a2ab-5334da14cc41
+:ID:                     8e70a9b4-0c0b-487f-9f09-4945714b2efe
 :END:
 
 Crafted Aglianico from Taurasi. Black fruits, balsamic notes, leather
@@ -31,19 +31,19 @@ Better pair with some meat.
 
 ** Related
 :PROPERTIES:
-:ID:                     793db9fe-a585-402a-aac3-2597b0ebf92c
+:ID:                     56c85160-f07b-4123-9e4a-d0d058c49b89
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">
-    <img class="img-half" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Feudi di San Gregorio</section>
     <section class="h text-bolder">Serpico - 2005</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">
-    <img class="img-half" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Feudi di San Gregorio</section>
     <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
   </a>

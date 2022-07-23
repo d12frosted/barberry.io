@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     4f32df7f-15a3-49d9-b606-37e87915d784
+:ID:                     fec5d8c9-d8aa-48ed-a033-77661cc06c7a
 :END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]]
@@ -13,31 +13,32 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     b424cdb6-6ae6-467b-95ac-7e6f91f905f7
+:ID:                     af945af2-9d6f-4bf5-afb5-4967ad2d6fbb
 :END:
 
 One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c3157a5b-8c5e-4924-b164-c7b1bf47a0bd
+:ID:                     0ea9f3b3-01dd-41ea-9299-33fadb3d9fa9
 :END:
 
 *** 2021-07-23 - ☆ 7.25
 :PROPERTIES:
-:ID:                     6fe2d49a-6315-4868-98b2-2340f90d3089
+:ID:                     08cd213d-6a4b-4a62-85a8-bba1302fc08e
 :END:
 
 Plain and straight-forward wine. Glass full of mix of red fruits, fallen leaves and spices. Honest, well balanced, easy going and not pretentious. Ideal for summer parties.
 
 ** Related
 :PROPERTIES:
-:ID:                     7313d19b-2184-4ae0-a1ac-443cc83bca3e
+:ID:                     dcc2d9b3-44c6-4c44-b512-eaa0abf11d46
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4f6d8434-a726-4e9a-955a-745813fdd7d1.html">
+    <img class="flex-bottle" src="/images/4f/6d8434-a726-4e9a-955a-745813fdd7d1/2021-07-23-07-45-34-IMG-2663.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Cuvée Marguerite - 2020</section>
   </a>

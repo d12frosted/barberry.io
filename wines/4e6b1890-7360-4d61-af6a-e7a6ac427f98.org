@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c7fee5bd-cd4b-46cf-b060-d5d5be5132a3
+:ID:                     c9e20976-ee1f-4a6f-8f23-8b4f339069c7
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/6b1890-7360-4d61-af6a-e7a6ac427f98/2022-05-28-10-18-26-IMG-0238.webp]]
@@ -16,24 +16,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     3cc166fd-747d-402f-a635-5040d487db24
+:ID:                     fa5ff27f-5543-44d1-b335-afe9fd62ee66
 :END:
 
 *** 2022-05-27 - ☆ 6.50
 :PROPERTIES:
-:ID:                     96d41841-4558-4a41-b8c7-e28d697e619a
+:ID:                     34b47715-9e09-4708-b2b0-965113ce84bd
 :END:
 
 Light and easy going thanks to fruit-forward profile and 8.5 abv. Chill and enjoy these no name bubbles.
 
 ** Related
 :PROPERTIES:
-:ID:                     9b661cf8-6517-4dff-95d2-442ed59ab837
+:ID:                     cd72f070-8907-4e33-8446-e97ddf44e6ab
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0.html">
+    <img class="flex-bottle" src="/images/db/3a6fa1-c0df-4989-9814-0ba62b5ea7a0/2022-05-28-10-14-37-DA54A7F2-C753-4B5D-B92A-49FE6435CDF8-1-201-a.webp"></img>
     <section class="h text-small text-lighter">Borgo Solè</section>
     <section class="h text-bolder">Prosecco Brut - NV</section>
   </a>

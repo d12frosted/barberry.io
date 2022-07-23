@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     4214c7fa-107e-4bb2-abe7-488cf70247de
+:ID:                     2ba8c669-c0b7-48a3-b776-5dc094eb48ad
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     59cee542-8204-446a-b684-06d3e4593ea0
+:ID:                     40bb10ee-e981-4ae6-9f41-21148ef62c88
 :END:
 
 *** 2021-08-13 - ☆ 8.50
 :PROPERTIES:
-:ID:                     44607248-2927-4f1c-b12e-eac645fefa9a
+:ID:                     7b97417e-c189-4cc8-b7a9-ad7921f0d0de
 :END:
 
 Wonderful as always. Sophisticated and expressive bouquet: citrus,
@@ -30,47 +30,55 @@ crisp and delicious Sauvignon Blanc with long and flavourful finish.
 
 ** Related
 :PROPERTIES:
-:ID:                     b6345f56-65bb-4b5a-859e-82522c9e40cd
+:ID:                     dd8bbb06-bc0c-49d7-a505-7a24912b81bb
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">
+    <img class="flex-bottle" src="/images/10/032e11-4691-4634-8f36-ce7ed8c1dba2/2022-06-12-17-28-38-D9712012-722A-4AA8-9D81-D45EC3171A7E.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Temento Green - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0.html">
+    <img class="flex-bottle" src="/images/3a/f6dc13-151d-4cfa-a315-e3f68d6e04a0/2021-04-25-14-15-47-1585199E-316E-45FF-96CE-33F76C8849DE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Temento Green - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
+    <img class="flex-bottle" src="/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">
+    <img class="flex-bottle" src="/images/6e/9d1d22-6802-4fb7-a928-325b7f6ebf0e/2021-08-14-10-46-59-82273708-1D6B-4994-9A84-77A739C376AA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Grüner Veltliner Kamptaler Terrassen - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
+    <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c.webp"></img>
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
   </a>

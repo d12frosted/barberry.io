@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c16891f0-c128-43b0-b6bb-863197be7aa3
+:ID:                     d8ecb339-7aef-4a80-a3d6-dfc0d4c87a11
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9aa0bf1d-eb49-45dd-825e-3ddeb4d32558
+:ID:                     e25d1fce-1546-4291-b6b1-ab8cd77662a4
 :END:
 
 *** 2021-07-19 - ☆ 8.00
 :PROPERTIES:
-:ID:                     0dd1d458-ead9-418e-a967-c45988ac878d
+:ID:                     d48e318a-7806-4ddf-8a19-dbed5695dc2a
 :END:
 
 We decided to finish wonderful evening with this sweet Riesling. Rich bouquet full of honey, tropical fruits, peach and spices. Fresh, ripe and well balanced. Wonderful age and great QPR.
 
 ** Related
 :PROPERTIES:
-:ID:                     e267903d-204a-4ce6-a684-2795ca757b41
+:ID:                     510fccc4-a99b-42f4-b7f6-7846b8aa91e3
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
+    <img class="flex-bottle" src="/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Riesling Heiligenstein Lyra - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <img class="flex-bottle" src="/images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Fio Wein</section>
     <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
+    <img class="flex-bottle" src="/images/17/70821f-dd60-4149-9491-a95e838bd5d7/2021-07-20-09-18-17-64FA3893-9864-4121-981B-BD793D735C80-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ochota barrels</section>
     <section class="h text-bolder">kids of the black hole - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
+    <img class="flex-bottle" src="/images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Schloss Johannisberger</section>
     <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+    <img class="flex-bottle" src="/images/ee/cd139e-6555-46c7-927b-5b222d9f5583/2021-07-20-09-16-45-48107411-B181-4B9F-A767-28E6B3DD3301-1-105-c.webp"></img>
     <section class="h text-small text-lighter">F. X. Pichler</section>
     <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
   </a>

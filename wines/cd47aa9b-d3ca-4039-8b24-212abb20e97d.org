@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     24b97c71-0913-4da4-92a0-78b223b15aee
+:ID:                     3eec3e50-7e9a-427f-b37c-896a3c42f26f
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/cd/47aa9b-d3ca-4039-8b24-212abb20e97d/2021-11-11-09-56-27-B523C464-1845-4A2F-94E5-2C5281B43331-1-105-c.webp]]
@@ -16,64 +16,73 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d5577510-e2aa-40d9-ae84-4e087893a517
+:ID:                     866d42bf-2a12-41cc-8e25-1b4f9bae428c
 :END:
 
 *** 2021-11-09 - ☆ 8.00
 :PROPERTIES:
-:ID:                     1e8dd640-8f0e-4892-aa1f-1a7012007fa3
+:ID:                     6d06427b-5022-4182-9a3f-1042a6af5b6a
 :END:
 
 Zibibbo from Pantelleria by wonderful Marco de Bartoli. Complex, structured and fascinating orange showing dried herbs, tea, peach with sea water. Well balanced, fresh and quite light. Comparing to 2017 it is more complete and focused.
 
 ** Related
 :PROPERTIES:
-:ID:                     af733a77-133f-4716-94f7-0a54e331b602
+:ID:                     b833ccf5-5ed2-44e3-8480-aff383be9365
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+    <img class="flex-bottle" src="/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Lucido - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+    <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+    <img class="flex-bottle" src="/images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+    <img class="flex-bottle" src="/images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Rosso di Marco - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
+    <img class="flex-bottle" src="/images/83/5d717a-87e1-47dd-a5e3-7c848e3cf799/IMG-1281.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Integer Zibibbo - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
+    <img class="flex-bottle" src="/images/84/27fcbb-69fb-47cb-8274-28da2a485073/2020-11-28-15-53-46-C41097A8-5698-4523-BA7A-ADC149CCC49E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+    <img class="flex-bottle" src="/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2020-07-24-20-26-38-214F1F5C-1961-4272-911C-5768091A6EC8-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+    <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>

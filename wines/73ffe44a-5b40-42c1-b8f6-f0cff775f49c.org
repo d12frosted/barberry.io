@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     64f55fc3-0150-4401-9184-307ab85668f2
+:ID:                     3e5d29d4-9459-43e7-858f-a0aa9dbe55fe
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp]]
@@ -18,12 +18,12 @@ Barrel fermentation for seven months, along with partial MLF.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     1a9a663b-b3c1-4e13-a2bc-33f5bf0c00b0
+:ID:                     bb5fd815-6f32-459b-97ea-f7f06c268b52
 :END:
 
 *** 2021-09-25 - ☆ 7.50
 :PROPERTIES:
-:ID:                     b9e76e55-26d5-4929-8bff-919d57eddeb9
+:ID:                     ca020939-6d7b-400d-942f-f0fb0fe8a577
 :END:
 
 Compared to previous vintage, 2019 has less oak notes and more citrus
@@ -32,24 +32,26 @@ structure, fresh, with neat lemon finish.
 
 *** 2022-01-25 - ☆ 8.00
 :PROPERTIES:
-:ID:                     e395589f-c0fb-43a4-83fa-8efab1d8ff49
+:ID:                     d924e464-4f26-4c53-ab2f-aad4921eb5a7
 :END:
 
 One of my favourite Israeli wines. Easy to understand, yet has multiple layers to offer. Good combination of secondary and primary aromas - stone fruits, citrus, vanilla and butter. Oak is here and is well integrated, and less pronounced than in previous vintage. Dry, medium-full bodied, fresh and absurdly flavourful - popcorn, citrus, bakery and butter. Seems like Golan Highest Winery is on the right path.
 
 ** Related
 :PROPERTIES:
-:ID:                     c7abd630-e9d2-4907-ae16-cd3f205b0877
+:ID:                     bebb1f9b-42e5-4bef-bf13-8be0e929f354
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <img class="flex-bottle" src="/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2018</section>
   </a>
@@ -60,26 +62,31 @@ One of my favourite Israeli wines. Easy to understand, yet has multiple layers t
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bodegas Borsao</section>
     <section class="h text-bolder">Tres Picos - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Naveran</section>
     <section class="h text-bolder">Odisea - 2019</section>
   </a>

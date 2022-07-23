@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     4440823f-2fb0-4718-9187-e80cc1d6ca45
+:ID:                     8d1beb6e-4af7-4d7a-88bd-a8965041bf73
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/ba/c7d8e2-273b-4d07-a747-4e8f437eebc7/2020-07-08-15-10-24-C03D8998-3AA6-4CDA-B1F8-6538AE60A3C4-1-105-c.webp]]
@@ -36,59 +36,67 @@ This is without a doubt one of the best orange wines I've put to bottle!
 
 ** Ratings
 :PROPERTIES:
-:ID:                     e169ab0f-99f9-46e9-8da6-0417afb4e56f
+:ID:                     aaf896af-18d7-4243-b2e7-cccec39321f1
 :END:
 
 *** 2020-07-08 - ☆ 8.50
 :PROPERTIES:
-:ID:                     1412051b-ec95-48f8-97dd-5c76eabdb8c6
+:ID:                     ba7d4b8d-900c-49c9-bb1e-0163677559f6
 :END:
 
 Apparently, extra time before release is a good idea. I am glad that Momento Mori reached the point where they can afford this. Bianco is cohesive. Honey, wild flowers, kombucha or light beer, chalk. Well balanced, structured, long aftertaste, delicious. I want more!
 
 ** Related
 :PROPERTIES:
-:ID:                     455ce30b-d5f4-4997-89d3-804d581c6fbb
+:ID:                     71400991-0af9-462a-b7e5-52f5e5254f67
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+    <img class="flex-bottle" src="/images/26/122f9f-12ba-42ba-8d22-4f96de40fbd9/2021-07-14-08-45-53-83D900BD-3859-46A3-A629-FC5BCEEB7D6F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
+    <img class="flex-bottle" src="/images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Bianco - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+    <img class="flex-bottle" src="/images/7d/23e9f5-b78b-4892-9dd6-9f42b43c6817/2022-07-12-21-12-34-IMG-0738.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Fistful of Flowers - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943.html">
+    <img class="flex-bottle" src="/images/9c/98f1c3-0866-4cd9-9c0d-7a43fd269943/2022-07-23-10-32-08-E64E171C-455A-4A5E-8D09-72900E9CA7E1-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">The Incline - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <img class="flex-bottle" src="/images/b5/f2078a-01a2-4134-958c-d8ff543a7945/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Give up the Ghost - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">
+    <img class="flex-bottle" src="/images/e6/4ca4d6-24b2-4ef0-87f0-91e312785276/2020-08-15-09-35-51-3F2ED9B4-A482-4167-82E1-BCB10F82A4DE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Give up the Ghost - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
+    <img class="flex-bottle" src="/images/e6/ba9439-49db-4adc-ac90-aa17c75056cc/2021-01-20-21-49-29-0D06F122-FB4B-46C0-B43D-F39FB7D40E11-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>
     <section class="h text-bolder">Staring at the Sun - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
+    <img class="flex-bottle" src="/images/72/b542d8-fab8-4147-8436-297f41c46ade/2020-07-08-15-29-42-5EFAB626-9612-4DBF-A836-8295ED8E170B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Weiss - 2018</section>
   </a>

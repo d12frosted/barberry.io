@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     87155e39-3ea6-46f7-80c7-0cc66f53521b
+:ID:                     fd6cbcfe-8681-4e25-8f90-0e08343192a3
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/27/c6bf4d-38f4-4488-b236-c7f205fd7f43/IMG-1302.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     14166fb5-68ff-456d-b476-d6e1e61e8bd2
+:ID:                     30a1ebeb-2d27-4b91-b5fb-272c6fc3b464
 :END:
 
 *** 2019-11-21 - ☆ 9.00
 :PROPERTIES:
-:ID:                     0d99582b-f62d-4bc1-82bc-5c0ab3b343a3
+:ID:                     e664cc8d-5e57-46cd-a790-d4e4f6ef300a
 :END:
 
 Chocolate, prune, meat, earth, vanilla. Medium-low acidity, round and mature tannin, long aftertaste. Full bodied. Drink now!
 
 ** Related
 :PROPERTIES:
-:ID:                     e75fdc83-30ab-43e7-9577-2771d951ba48
+:ID:                     82f6a57c-259e-4ae3-a2ea-95b82b87b2ba
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
+    <img class="flex-bottle" src="/images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp"></img>
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">Vette - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">
+    <img class="flex-bottle" src="/images/6f/8ecc8d-b962-4a1d-a305-6999b5e6c38e/2022-05-08-15-06-11-BD4FF34B-D5F9-4361-8BD4-4264952781AF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">San Leonardo</section>
     <section class="h text-bolder">Terre di San Leonardo - 2014</section>
   </a>

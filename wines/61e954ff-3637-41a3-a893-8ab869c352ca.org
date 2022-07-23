@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c57c4d5b-fd09-4d20-b81a-05617ffaa65f
+:ID:                     7d14be37-0238-4893-af77-3c93e3cd988a
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/61/e954ff-3637-41a3-a893-8ab869c352ca/2021-12-17-15-38-12-6692CAE4-0D9C-455D-8053-5ED830A49256-1-105-c.webp]]
@@ -16,34 +16,37 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     534867eb-cc9c-4377-903d-2255903a6992
+:ID:                     47e3c7c6-5b14-46f5-a3ac-35e9f0232c43
 :END:
 
 *** 2022-01-03 - ☆ 8.00
 :PROPERTIES:
-:ID:                     c206e3dd-8e7b-4904-9e63-addf6104dec7
+:ID:                     e65624ea-d2eb-4def-8a66-13e5c9d71ba4
 :END:
 
 Great and not typical Australian Shiraz. Delicate and complex. Dark ruby colour. Aromatic and slightly reductive bouquet with blackberry, vanilla, cranberry and pepper. Unexpectedly crisp with dry medium tannin and good balance. Long and flavourful finish.
 
 ** Related
 :PROPERTIES:
-:ID:                     f1f08791-b601-47d1-ad75-bcffa10566ff
+:ID:                     aa617a21-7332-47e1-a653-d7927059d4d4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gentle Folk</section>
     <section class="h text-bolder">Summertown blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+    <img class="flex-bottle" src="/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Gentle Folk</section>
     <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1f40f56d-8790-4123-84ff-1478363ed829.html">
+    <img class="flex-bottle" src="/images/1f/40f56d-8790-4123-84ff-1478363ed829/2021-12-27-17-25-40-BAB30B5F-F441-4FF1-BB80-05210B39D4D1-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Bourgogne - 2019</section>
   </a>

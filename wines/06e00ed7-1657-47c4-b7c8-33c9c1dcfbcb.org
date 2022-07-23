@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     99fef927-9fc2-44f0-82ea-f87ec0eb5f4f
+:ID:                     21cb8c21-4004-4263-a703-be5fff6a745d
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c.webp]]
@@ -18,24 +18,26 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     f4901a52-c5ec-49a1-ab8a-860a71064126
+:ID:                     1fccbdf2-8671-47e9-99e9-603e9200897f
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     ee77e671-01aa-46b9-9041-00dbbef304ad
+:ID:                     72941ddb-afcc-4710-a323-78175ac46a44
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Els Vinyerons</section>
     <section class="h text-bolder">Lluerna - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-07-23-10-49-27-27DE2E96-DA05-4B12-AB16-06FB3A11CB03-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Els Vinyerons</section>
     <section class="h text-bolder">Pregadéu - 2020</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     d4a75cf2-c4dc-4307-aaaf-3a9eb9a81a30
+:ID:                     57996245-62a6-48cb-9a2d-ee7e31a9e59d
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/73/61e3ae-a0a0-494d-a027-63acd9abdded/2020-07-29-09-53-43-4D6FCC91-4989-4701-AD16-815B802B2389-1-105-c.webp]]
@@ -18,29 +18,31 @@ The blend is 59% Pinot Noir and Meunier (from Aÿ, Dizy and Hautvillers) and 41%
 
 ** Ratings
 :PROPERTIES:
-:ID:                     a51e3afa-d78d-49fe-9dc1-08030efb49d7
+:ID:                     02408e88-c8d7-4a8d-a0fa-74b6dd55bc81
 :END:
 
 *** 2020-07-26 - ☆ 10.00
 :PROPERTIES:
-:ID:                     3088359f-b569-401d-bced-70542ed9517b
+:ID:                     501f15ca-bab5-414a-9bf3-09a1edf4acc3
 :END:
 
 It was a pure joy and a surprise to find Cuvee 742 as I already gave up few months ago. Definitely a milestone for me. Cuvee 742 is complex multilayered wine. Baked apple, sunflower oil, pumpkin seeds, yeast, raw dough, butter, creme brulee and notes of plastic. Perfectly balanced, structured, evolving with very long finish with flavours of cider, burnt plastic and candy.
 
 ** Related
 :PROPERTIES:
-:ID:                     06f6fdc5-834b-4c17-83d7-b980f2f491db
+:ID:                     2972ce12-ad9c-4901-81c2-2e67c555a731
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
   </a>

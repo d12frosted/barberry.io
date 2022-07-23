@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     070f13ce-8e39-4586-ba30-ec668cd5bcd6
+:ID:                     743c2b2f-d721-4657-aaab-a3825018e49e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/4a/169cba-26aa-4d74-a03a-07a7bea905db/2022-06-08-08-40-30-8E9A0699-5012-4DDB-800C-88569D622FF1-1-105-c.webp]]
@@ -18,12 +18,12 @@ Note: I am not sure that appellation is correct. I am still struggling to read H
 
 ** Ratings
 :PROPERTIES:
-:ID:                     79a19d28-0200-454f-b3f1-fb3eccf096f1
+:ID:                     13a353f6-ece7-4193-93e4-34e955a4721f
 :END:
 
 *** 2022-06-07 - ☆ 8.00
 :PROPERTIES:
-:ID:                     1c8ad744-d126-4c72-bc6f-f3ef86ab725d
+:ID:                     9976fa26-9fda-4cbd-8f1a-418dea0658e9
 :END:
 
 Tasted blind. Since the list of white wines was known to me, the guess is obvious here. On the other hand, based on my tasting experience, I would think about some aged Chenin Blanc from Loire. Charming bouquet with nice machinery notes, quince jam, butter. Amazing acidity despite age with long finish and flavours of lemon juice and croissant with butter. Experience is rather thin as it lacks volume.
@@ -32,37 +32,43 @@ Wine #1 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] b
 
 ** Related
 :PROPERTIES:
-:ID:                     7c7f99dd-4fdb-4370-b941-eca9e165cdd1
+:ID:                     0ccec02f-cbd4-4f02-94e2-921636ddcbf1
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+    <img class="flex-bottle" src="/images/22/4602d5-c307-4bfc-b84a-bfeede982fc0/2022-06-08-09-17-25-IMG-0340.webp"></img>
     <section class="h text-small text-lighter">COZs</section>
     <section class="h text-bolder">vn-c2 bg - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
+    <img class="flex-bottle" src="/images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chandon</section>
     <section class="h text-bolder">Argentina Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Pofadder - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2009</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
+    <img class="flex-bottle" src="/images/9e/880b48-e667-429f-a5d8-222f6190cb3a/2022-06-08-08-58-22-90EF53B4-6E02-4143-8E8F-FC5BB22AC7FA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Simon Bize et Fils</section>
     <section class="h text-bolder">Bourgogne Les Perrières - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">J.M Dreyer</section>
     <section class="h text-bolder">Elios Pinot Noir - 2020</section>
   </a>

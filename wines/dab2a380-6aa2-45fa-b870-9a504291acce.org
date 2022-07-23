@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     ffc86b2e-81fa-41f5-b52c-94aefbddac76
+:ID:                     93a7afe4-7c97-476e-a336-3e3e821aae12
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/da/b2a380-6aa2-45fa-b870-9a504291acce/2020-12-27-13-22-01-3908C915-D6C2-4144-B8FD-A01F61E34A31-1-105-c.webp]]
@@ -38,34 +38,37 @@ gently stirred on its lees. Finally, the wine is bottled and left to mature for
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c902faf3-37fb-4a11-91a5-a420673ad1e4
+:ID:                     dc1dd7f4-6024-4af3-89ff-ad9f30dbb6bd
 :END:
 
 *** 2020-12-26 - ☆ 7.00
 :PROPERTIES:
-:ID:                     dd7077a0-1915-49be-b66b-d2ad67b6dfa3
+:ID:                     292848fe-02d1-473a-9647-73f2474b0a72
 :END:
 
 Ripe and profound. Black fruits, raw meat and herbal notes. Refreshing, with good acidity. But it is not as balanced as I would love it to be. Not sure if unlucky bottle. Ethanolic. Expected more.
 
 ** Related
 :PROPERTIES:
-:ID:                     833ec012-eeb7-4ea7-86d7-940462f06482
+:ID:                     39eb27b2-cbc4-41c4-960e-80ea911ba39e
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a4980711-6b29-4392-9585-17310170db4a.html">
+    <img class="flex-bottle" src="/images/a4/980711-6b29-4392-9585-17310170db4a/2022-07-02-09-13-54-614A1BD0-F934-4A70-8717-0E1244DA86C5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kir-Yianni</section>
     <section class="h text-bolder">Paranga Sparkling - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6.html">
+    <img class="flex-bottle" src="/images/06/33a0d6-7466-498e-ae11-e2a1c17165a6/2020-12-27-12-57-18-2464C91A-5488-4A95-8CF5-E781904FF949-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Codorníu</section>
     <section class="h text-bolder">Cava Clasico Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Herr Gewürtz - 2019</section>
   </a>

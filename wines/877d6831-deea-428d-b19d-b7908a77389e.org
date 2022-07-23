@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     1481eb15-68d8-49c4-b564-9d6ead43c5b3
+:ID:                     044038ce-8c0c-4cf3-9281-b574f5384a57
 :END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/6af33cac-4d40-4a63-9799-597578b5cb1c][Golan Heights Winery]]
@@ -13,29 +13,32 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d97f603b-289c-4876-a10e-65dcc126f15e
+:ID:                     182c2473-0c58-4e08-a9c5-8dc50d0708bf
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     ff2e47f0-7707-4afa-8ae3-c26a9f27c95f
+:ID:                     18f0dd89-3151-4179-804d-735fbb06e064
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <img class="flex-bottle" src="/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>

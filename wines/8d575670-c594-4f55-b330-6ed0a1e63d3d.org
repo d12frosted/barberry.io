@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     7326d2c4-0ce6-4a41-8b7e-0a3e41b5436f
+:ID:                     c3bd7a96-dd11-4f00-8170-d703ed3e1bba
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp]]
@@ -16,7 +16,7 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     32e527d8-08bb-420d-b993-5a5319f8e357
+:ID:                     9d335886-ff1e-4b9e-812b-c9fb60fc8cab
 :END:
 
 Many consider Joško Gravner to be the father of macerated white wine trend. Yet it's interesting that before his first amber wine, he was a rising star in the modern and technological winemaking scene. He confessed that he would purchase any new equipment he could find. But his life turned upside down after a trip to California back in 1987. California was (and maybe still) a destination for many winemakers as this region represents triumph and possibilities of new. No wonder, as Californian wines won Judgement of Paris in 1976. This event dramatically changed the wine world. Joško Gravner was taking the same path as Californian winemakers - oak, science, additives and all that cool stuff. But after tasting 1000 wines in 10 days, he was astonished by faceless and tasteless results. And he realised - this is the road to a dead end. Now he knew how not to produce wines.
@@ -35,44 +35,49 @@ And today, wines produced by Joško Gravner are treated as the highest manifesta
 
 ** Ratings
 :PROPERTIES:
-:ID:                     0e2ed930-54e6-4256-b9c1-6f1586c0bfbc
+:ID:                     c562441e-6c50-49e8-9b07-81b39a015596
 :END:
 
 *** 2022-01-11 - ☆ 9.00
 :PROPERTIES:
-:ID:                     ec3368d4-0a73-4580-ae1a-39dbff0b2fd8
+:ID:                     2b22469c-6e30-40f1-b21a-7cd6ad7c8418
 :END:
 
 Well crafted skin contact wine that spent quite some time in qvevri. I definitely like 2004 more than 2010 for being deeper, more interesting and less straight-forward. Deep amber colour. Complex, beautiful bouquet: old apricot jam, caramel, tea, medicinal herbs. Medium-full bodied, fresh with medium-high round tannin, Very long, evolving and flavourful aftertaste - caramel, nuts and condensed milk.
 
 ** Related
 :PROPERTIES:
-:ID:                     89becc47-6bb7-455b-a6e8-6571380625b0
+:ID:                     894558c8-8540-4dee-96f2-b9c93597da40
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">
+    <img class="flex-bottle" src="/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gravner</section>
     <section class="h text-bolder">Ribolla - 2010</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+    <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cantina Alchemica</section>
     <section class="h text-bolder">Lanthano Bianco - 2013</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     3c3aa372-a4b1-4ab2-9cbe-b95eec1465e8
+:ID:                     d545bc2a-de71-42ff-a07b-e2fb794d14f9
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     63497782-f0ba-4099-849c-b3c6d84de6c9
+:ID:                     95b9f3d4-5344-40f7-bf38-2b2c1f3520bc
 :END:
 
 *** 2021-07-16 - ☆ 7.50
 :PROPERTIES:
-:ID:                     6568ce1a-9c5b-4345-966d-deb241853211
+:ID:                     29564c96-0542-4eeb-8576-02e287311322
 :END:
 
 The first thing you notice is the glass cork. But then you forget
@@ -31,27 +31,31 @@ chamomile. Crisp and fresh.
 
 ** Related
 :PROPERTIES:
-:ID:                     02de9854-7937-4d7b-9448-65f574c32740
+:ID:                     92d67fd7-f498-4c8d-b035-451fec1fb8f3
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">
+    <img class="flex-bottle" src="/images/10/032e11-4691-4634-8f36-ce7ed8c1dba2/2022-06-12-17-28-38-D9712012-722A-4AA8-9D81-D45EC3171A7E.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Temento Green - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0.html">
+    <img class="flex-bottle" src="/images/3a/f6dc13-151d-4cfa-a315-e3f68d6e04a0/2021-04-25-14-15-47-1585199E-316E-45FF-96CE-33F76C8849DE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Temento Green - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
+    <img class="flex-bottle" src="/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
   </a>

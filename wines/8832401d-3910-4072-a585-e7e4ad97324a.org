@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f620c6e0-64b5-4983-bd83-c3ad32966a78
+:ID:                     76b76c77-b30f-47ce-bf4a-153d98b5deba
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp]]
@@ -16,41 +16,44 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     4a6d6458-611e-4a09-8083-0514a9c07354
+:ID:                     1430b0a6-6806-4504-851b-85f93ac32fd1
 :END:
 
 Fedellos trio consisting of Jesús Olivares, Curro Bareño and ???. Related project - [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]].
 
 ** Ratings
 :PROPERTIES:
-:ID:                     1c8c1dcb-e190-4768-b3e7-842c17fb8419
+:ID:                     f7ba7af6-4754-4717-aca4-89140220d425
 :END:
 
 *** 2022-06-08 - ☆ 7.50
 :PROPERTIES:
-:ID:                     a8f59cc8-d9f3-42c5-bdc0-ea10c00159f9
+:ID:                     1ca00a59-1658-418d-b9c7-0a34c5a7587d
 :END:
 
 A year ago I've tasted Conasbrancas 2019, now it's time for 2018! Highly enjoyable, though IMO this is one of those wines that should be consumed and not aged. Mix of stone fruits with oxidized apple, nettle, butter and oil. Fresh, nice citrus flavours with oily finish.  Overall it's a good field blend with short maceration.
 
 ** Related
 :PROPERTIES:
-:ID:                     1cb735a0-5955-4dee-a401-d01212bc011b
+:ID:                     8dafd768-8c2c-4e90-ac7a-240bd38609e0
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+    <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Fedellos do Couto</section>
     <section class="h text-bolder">Lomba dos Ares - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
+    <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Foradori</section>
     <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
   </a>

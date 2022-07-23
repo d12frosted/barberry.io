@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     5d4d630f-da85-4d79-a5cc-3b17e290efc2
+:ID:                     65ab54b9-4692-463f-a03f-76524d5a77af
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp]]
@@ -16,19 +16,19 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     a0d74870-8f5d-4d47-befc-6b26b29c120b
+:ID:                     9d935cd4-3330-4194-9eed-3efba2c004f1
 :END:
 
 Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct Jgia. All wines are hand made. Uses qvevri, of course. Annual production is less than 5000 bottles.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     bfdf515e-93d8-40d5-9089-f574a027ec97
+:ID:                     4cfbd664-351f-40ab-830f-af089fd6008e
 :END:
 
 *** 2021-05-25 - ☆ 7.75
 :PROPERTIES:
-:ID:                     db71c34b-0db6-451f-a343-337f31102ba4
+:ID:                     9632bcc4-fc5e-43f9-b766-24c56e0232b0
 :END:
 
 Skin Party #3. Interesting orange wine. Good example of rustic,
@@ -40,32 +40,37 @@ mostly because of the aroma, because the palate is one-dimensional and
 
 ** Related
 :PROPERTIES:
-:ID:                     c127947f-25c7-4743-aca4-aa1523e38f84
+:ID:                     4b4cc880-3ca2-4abc-9a7d-756fdf78405f
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614.html">
+    <img class="flex-bottle" src="/images/5d/c6ba4f-1e46-4feb-8b6e-4ab6ae31a614/2021-11-14-12-42-00-A92D013B-A1FB-4126-9235-AC856848BEDE-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Jgia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
+    <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
+    <img class="flex-bottle" src="/images/58/2c897e-478e-4853-8f7f-1cfbe777758d/2021-05-26-09-09-15-564E4B83-DAD6-4A72-9849-5B98D494B072-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Rot-Murlé Riesling Pur Vin Macération - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c.webp"></img>
     <section class="h text-small text-lighter">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>

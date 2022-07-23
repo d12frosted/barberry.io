@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     73394e77-b8ad-4e85-b89b-84038a3077e9
+:ID:                     2b482830-c15f-4b68-baf5-88d012e3bd5e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/de/295137-6c7a-406f-9821-d0e2e9f9ed2d/2021-10-02-10-49-11-AD36241D-4113-409A-910F-56C26831BDF4-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     89938dd0-4124-4bea-8ad6-4095ce197126
+:ID:                     ec80e287-1f30-4145-84de-b2de6d6a5af4
 :END:
 
 *** 2021-09-30 - ☆ 6.50
 :PROPERTIES:
-:ID:                     493c7347-0582-4082-a5fa-5fe346281778
+:ID:                     595f5f1c-abd7-44f7-9d1e-61cb1e0e1180
 :END:
 
 Typical Pinot Noir from Marlborough. Forest floor, spices, raw meat,
@@ -32,17 +32,19 @@ Medium-light body, friendly palate.
 
 ** Related
 :PROPERTIES:
-:ID:                     759cf3e7-9ecb-495c-b7b9-ff92a715c24d
+:ID:                     3156529c-5f06-4843-9e6a-7dc3f445028a
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
+    <img class="flex-bottle" src="/images/77/312847-db16-4aa4-ad60-59576ffa9b6f/2022-06-25-13-26-02-468B6893-5C8E-4FD1-A68A-526A39CE9000-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Letter Series T Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
+    <img class="flex-bottle" src="/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2018</section>
   </a>

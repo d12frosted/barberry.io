@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     15673284-efdc-4577-a142-0cb0844e28ba
+:ID:                     44f76c9d-4157-4dd8-b6ff-a603ef145383
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp]]
@@ -16,29 +16,31 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c452af6c-c5b5-4fb7-b120-f33e7b9a0bc5
+:ID:                     1c0e4e86-06f9-4454-a581-76e52f5c356e
 :END:
 
 *** 2022-06-02 - ☆ 7.50
 :PROPERTIES:
-:ID:                     0799f0a1-c143-4a66-be08-5d32d69bff12
+:ID:                     934bd811-a6f5-476a-9e3c-8a004c511fe6
 :END:
 
 Bordeaux is a rare guest in my glass. And so it's interesting. Black berries, jam, shitload of vanilla and some chocolate crumbles. Well balanced, tannin and ethanol are well integrated. Aftertaste is long and persistent, and flavourful. Seems like it has potential, but will I discover it? Only by accident.
 
 ** Related
 :PROPERTIES:
-:ID:                     e68c741c-a678-4393-82b6-f830e8d72bb4
+:ID:                     513250e3-d851-4973-b173-444abe7820e8
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+    <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     a83b8841-1904-458e-92db-ed624aadf2e6
+:ID:                     d848f785-2984-466e-a35f-b8a45e8143f0
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp]]
@@ -16,51 +16,56 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     1f6abd9b-9eac-4975-b4c3-a74bb89e0196
+:ID:                     41d482d1-22b1-46f2-bf1e-2c8b5fc51e52
 :END:
 
 Run by Jean-Marie and Thierry Puzelat.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     b7078b0b-a0ab-4a4b-916a-c99300e2389e
+:ID:                     cc33d4af-478a-4e95-822b-33464c155475
 :END:
 
 *** 2022-06-20 - ☆ 7.50
 :PROPERTIES:
-:ID:                     29547477-9a92-4266-8f6e-767fce5bfb2e
+:ID:                     c74b8a0d-b67f-4cf0-873c-af0dc45fd5e1
 :END:
 
 This is the third vintage that I taste and I consistently enjoy this wine. It changes every year, which is expected with low intervention style that Puzelat brothers use. Approachable bouquet with notes of citrus, pickles, kombucha, stone fruits and honey. Lifted acidity, long aftertaste that evolves from spicy ginger to lime and honey flavours. Not an easy wine, but worth sharing with people around.
 
 ** Related
 :PROPERTIES:
-:ID:                     1aa51ee1-d296-44e7-b8ea-020eecccdc2a
+:ID:                     6dcfe21f-210e-4e79-902c-994dde8b0bb4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+    <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+    <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <img class="flex-bottle" src="/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f40ec77a-9564-408b-9fad-7709e2fb6d93.html">
+    <img class="flex-bottle" src="/images/f4/0ec77a-9564-408b-9fad-7709e2fb6d93/2022-06-20-21-21-10-F0BE04CF-7418-4BEB-8FF2-7A08B968A7D7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jaume Serra</section>
     <section class="h text-bolder">Cava Organic Brut - NV</section>
   </a>

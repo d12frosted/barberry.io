@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     030241c0-39ca-42c7-9670-74afca4fbe74
+:ID:                     db8219a9-beaa-44c4-90a5-465638b0e3e1
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     db91e24a-c97d-4509-88fb-bc38aa85a452
+:ID:                     d718eba3-33a7-43cd-9ea3-0ef28854d6d8
 :END:
 
 *** 2022-01-25 - ☆ 7.00
 :PROPERTIES:
-:ID:                     4c7c9aa9-841d-4f80-a810-9fe0ce04d11d
+:ID:                     05b71e91-81a7-4352-ac12-e9d1fb424388
 :END:
 
 Pale yellow colour. Youthful and aromatic bouquet mostly showing secondary aromas - butter, cream and lemon. Off dry, light and fresh with good balance. Long flavourful aftertaste with notes of lemon meringue. Good price, easy going, delicate but too sweet for my taste.
 
 ** Related
 :PROPERTIES:
-:ID:                     a3092a4c-00d9-4a5d-a6b5-33f89fe9af25
+:ID:                     dc4c6389-5f33-4756-b8dd-07657692f17e
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
+    <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+    <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bodegas Borsao</section>
     <section class="h text-bolder">Tres Picos - 2019</section>
   </a>

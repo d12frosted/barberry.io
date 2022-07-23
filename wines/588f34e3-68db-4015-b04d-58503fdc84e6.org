@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     0b70b919-d505-4c31-be60-8a758820e066
+:ID:                     92d26004-5f89-4a72-8acf-d4de6eca1c70
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/58/8f34e3-68db-4015-b04d-58503fdc84e6/2020-12-21-10-57-50-8883D6A8-C597-4EA1-B7CC-AE2392CD2D66-1-105-c.webp]]
@@ -16,31 +16,32 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     fb4fa788-c5f7-4f8c-8e00-351cb638245f
+:ID:                     56dcde34-60e4-43d2-8e6e-9e43dec26b99
 :END:
 
 Producer from Bourgogne.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8c317e9c-3bb7-4aa6-af49-7b8aa960ab55
+:ID:                     9f3b41a7-df9a-461c-921c-2c49e55f443b
 :END:
 
 *** 2021-03-06 - ☆ 8.00
 :PROPERTIES:
-:ID:                     f5ac3c6a-c21a-4d74-aa7a-bc7d78929958
+:ID:                     4c6a22ab-592d-4f80-b5e8-c0b79102ea32
 :END:
 
 Fruit driven Pinot Noir of the famous fruity 2018. But it's elegant with good acidity and balance. Cherry, raspberry, milk chocolate and some hints of wet leaves. Delicious!
 
 ** Related
 :PROPERTIES:
-:ID:                     aefa539b-6d96-4e30-aa6c-7e9d3fe49d92
+:ID:                     929e0ddc-fb3a-4cad-b4a1-ad2988e22bac
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <img class="flex-bottle" src="/images/61/c7931d-0fce-40c1-9569-934fe0059dc1/2021-11-30-09-22-24-E0F94D15-30C7-4BB8-8EBE-3D26F67E829E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hudelot-Noëllat</section>
     <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
   </a>

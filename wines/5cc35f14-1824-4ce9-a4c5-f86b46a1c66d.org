@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     987f5e92-2a32-4078-bf69-e710b5ffb02a
+:ID:                     1f1ef482-3d6a-4964-abd9-a2f56a81b884
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/5c/c35f14-1824-4ce9-a4c5-f86b46a1c66d/2021-03-12-10-54-03-C7D66E26-A34A-4644-8F9C-51CD4D9D9EE8-1-105-c.webp]]
@@ -16,31 +16,32 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     f8bd76ef-efa3-4244-8f4e-aca2fca3e310
+:ID:                     afb3de1a-4f3f-40d4-9968-a37145995cc1
 :END:
 
 Janko Štekar owns 5 ha of vineyards in Goriška Brda that are located on steep slopes, at an altitude of 180 m, with s and sw exposure.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     3d156137-b924-4e95-99e8-26107acbd1c9
+:ID:                     625121e9-bcbd-43de-916b-49f09d281bad
 :END:
 
 *** 2021-05-23 - ☆ 8.00
 :PROPERTIES:
-:ID:                     f4c9c7e0-05ad-4ba9-aa3f-ba5e9264bd51
+:ID:                     f9027c80-5599-4c1d-ae52-f2ca09f496b9
 :END:
 
 Great Slovenian orange wine. VA, red apple, Jerez, orange peel and spices. Complex, interesting and not overwhelming. Took it on a family dinner and had to fight over it with my Mom, cause she loved this wine. Guess I've started a tradition of orange wines at parents place.
 
 ** Related
 :PROPERTIES:
-:ID:                     a522f648-cc06-4ff1-b293-885b46d28eba
+:ID:                     50b402d3-813a-46bf-ba9f-ea92774275fc
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     861fb79a-610b-4db4-a513-e271f25c2908
+:ID:                     5b631eff-4968-46c6-a8e3-71986b2c8a48
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/25/222939-23da-4fee-99de-28482c8f24e6/2021-09-18-10-32-46-33786B15-4A07-4E66-9C26-6C679D724F40-1-105-c.webp]]
@@ -18,36 +18,39 @@ This Chardonnay spent 9 months in oak barrels.
 
 ** Producer
 :PROPERTIES:
-:ID:                     85768599-26bb-4d40-a472-15ab8c13c94b
+:ID:                     e4df02c8-f281-491c-b4eb-b5aa51c86516
 :END:
 
 Famous producer from Argentina. They say that Catena family has resurrected Malbec.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d02c6df1-1189-4e60-8196-21bda9833569
+:ID:                     56bba653-63eb-419b-a5d1-1caa56205f92
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     5ced008f-770b-4e6e-a0d8-4f6263f94a58
+:ID:                     aa4df561-b4e2-43b7-9dff-2f6231fedbb4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+    <img class="flex-bottle" src="/images/3f/379a50-e386-49c9-a754-66b068648c81/2022-06-09-22-03-13-IMG-0389.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
+    <img class="flex-bottle" src="/images/70/1467bd-f72d-461f-a59e-5d7da0e98a8f/2020-10-18-13-53-29-398E0F67-117F-4535-9055-9779F45E327C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Argentino - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
+    <img class="flex-bottle" src="/images/e2/cc07f9-3466-4ab0-bc5b-aaace9681868/2022-06-12-17-34-19-19E382A8-52F8-4A88-949F-C14981A2175E.webp"></img>
     <section class="h text-small text-lighter">Bodega Catena Zapata</section>
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     1613823e-3ee5-47eb-a1bc-d6c15847d324
+:ID:                     5d4efe6a-dbb0-4df7-9a11-81cfd5ec6cc2
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/e0/80c035-c2fa-412a-bce9-007a9ba98063/2022-07-18-20-52-14-24597A98-119C-4834-8705-797EEF834D09-1-102-o.webp]]
@@ -16,34 +16,37 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     c2d7e7f5-0a50-4794-b146-61845e24a030
+:ID:                     5fa085e8-3521-43bb-a010-c59f6fe5478c
 :END:
 
 *** 2022-07-18 - ☆ 7.00
 :PROPERTIES:
-:ID:                     123d5e88-71fe-4a85-be24-d86f01d46328
+:ID:                     65bf498b-55dd-4bea-a8f8-0e2ed2e97c3c
 :END:
 
 Tasted on the go, so little time to properly asset it. Everyday wine. White flowers, subtle citrus notes, dried herbs and candies. Fresh, easy-going, light bitterness in the aftertaste.
 
 ** Related
 :PROPERTIES:
-:ID:                     691f6185-6249-43fb-8e7f-323cfc5c580b
+:ID:                     496d440c-7453-4bb0-9784-4c934efff743
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">
+    <img class="flex-bottle" src="/images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Comando G</section>
     <section class="h text-bolder">Rozas 1-er Cru - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">
+    <img class="flex-bottle" src="/images/33/9ca8d9-fc56-47b9-8947-fa94115b980d/2022-07-16-21-06-43-IMG-0788.webp"></img>
     <section class="h text-small text-lighter">Bel Colle</section>
     <section class="h text-bolder">Verduno Pelaverga - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+    <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp"></img>
     <section class="h text-small text-lighter">Loimer</section>
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>
   </a>

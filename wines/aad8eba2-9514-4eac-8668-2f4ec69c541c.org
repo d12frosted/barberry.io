@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     907f767c-09a3-4440-aee7-bf2367466587
+:ID:                     558648fe-10bf-4ec3-958e-8a8ad82759b1
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp]]
@@ -16,44 +16,49 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     8295f64b-baaa-439e-ad14-91afc4af063c
+:ID:                     3261e24b-22bc-45b3-967f-3c570903bb4b
 :END:
 
 *** 2022-07-02 - ☆ 5.25
 :PROPERTIES:
-:ID:                     e8d9bc49-eed0-4518-a40d-9ef44049c2fb
+:ID:                     b0ceae65-e8eb-4a9b-b74c-402479333f42
 :END:
 
 Part of diverse Félix Solís brand. This SB is straightforward yet faceless. Typical notes of gooseberry, tropical fruits with notes of citrus. Hey baby, this tropical bomb lacks acidity! Who would guess? Iggy Pop playing on the background doesn't approve my wine choice.
 
 ** Related
 :PROPERTIES:
-:ID:                     35c20b76-0be4-4431-8d34-274853db02ad
+:ID:                     09a0fb98-4aa2-4ce2-9bba-947a40389536
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
+    <img class="flex-bottle" src="/images/58/6fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812/2021-07-03-10-08-38-7D4FA3F4-CD46-406E-A9DE-CD1579B56C6A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Provetto Spumante Bianco Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">
+    <img class="flex-bottle" src="/images/61/7360e5-dd92-4fb8-9a63-efe5cb6547e3/2021-10-13-11-07-54-D76B7C34-9F49-49C6-A562-984B502FC6AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Kingpin Tinto - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">
+    <img class="flex-bottle" src="/images/a5/3b1e03-00ce-4d65-986e-fef9fd139c0c/2020-02-03-08-43-17-CAF26FE8-D1EF-45AC-BD2F-E471D8F27A20-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Félix Solís</section>
     <section class="h text-bolder">Viña Albali Gran Reserva de Familia - 2009</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a4980711-6b29-4392-9585-17310170db4a.html">
+    <img class="flex-bottle" src="/images/a4/980711-6b29-4392-9585-17310170db4a/2022-07-02-09-13-54-614A1BD0-F934-4A70-8717-0E1244DA86C5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Kir-Yianni</section>
     <section class="h text-bolder">Paranga Sparkling - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
+    <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Mas Pere</section>
     <section class="h text-bolder">Selecció Brut Cava - NV</section>
   </a>

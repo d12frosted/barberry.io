@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     f09280c2-8b66-4c40-8df5-c536fb08f4b7
+:ID:                     9d80ce5a-599d-44e8-86ea-9d6bb6e471f9
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c.webp]]
@@ -16,53 +16,57 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     578fcc66-3757-42e2-b760-6becfbad3cbe
+:ID:                     3fb0729d-6ee0-4e6c-a5d2-062ef963bbbc
 :END:
 
 *** 2020-05-10 - ☆ 8.00
 :PROPERTIES:
-:ID:                     2870efb4-1d7c-4601-a318-a341ad149252
+:ID:                     58a7acdc-bea9-497e-b974-67fa65c63393
 :END:
 
 Sunflower oil, caramelized pear, lemon. Great mousse, acidity. Everything in it's place. Long aftertaste. Flavors of apples and sunflower oil.
 
 *** 2020-11-21 - ☆ 8.50
 :PROPERTIES:
-:ID:                     eeab77d2-7289-44b9-a673-50d08da7b096
+:ID:                     41a710b7-4ca0-4375-936b-f2695a613cdb
 :END:
 
 Delicate and perfectly balanced wine. Tasting again in 6 months and I must say, that I love it much more now. Oil, pear, toast, lemon. Long finish with flavours of apple and oil.
 
 *** 2021-07-10 - ☆ 9.25
 :PROPERTIES:
-:ID:                     cc06dc09-bb65-42f9-ae14-894bcd369417
+:ID:                     91af0168-b52c-4573-b4f6-7bd78851f400
 :END:
 
 I've been tasting this wine periodically and now it become gorgeous. Oxidative style, Jerez, baked apple with honey, brioche, oil, chalk and sea breeze (hey iodine) and fried popcorn. Aroma matches the palate. Almost perfectly balanced, almost full bodied. Flavourful, fresh and delicious wine with very long aftertaste. Sky rocket QPR.
 
 ** Related
 :PROPERTIES:
-:ID:                     c0a73d6b-43f0-4dcd-80cc-3ea91db7ac92
+:ID:                     c9f31592-1c46-439a-aab9-e2ede58ac441
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
+    <img class="flex-bottle" src="/images/73/61e3ae-a0a0-494d-a027-63acd9abdded/2020-07-29-09-53-43-4D6FCC91-4989-4701-AD16-815B802B2389-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+    <img class="flex-bottle" src="/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Lucido - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+    <img class="flex-bottle" src="/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2015</section>
   </a>

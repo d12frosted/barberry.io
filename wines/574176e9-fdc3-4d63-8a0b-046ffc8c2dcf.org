@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     e0bbe186-7c77-437a-a997-06344edd7461
+:ID:                     600244c2-f1fb-48cf-b1b3-3aa3dd24863a
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp]]
@@ -18,29 +18,31 @@ I failed to keep track of this wine. Hard to tell how many bottles we finished p
 
 ** Ratings
 :PROPERTIES:
-:ID:                     9023fae8-67b1-4114-b6cf-2c9b698757e1
+:ID:                     d444c7ba-5cdc-423b-b46a-fa43229d2d05
 :END:
 
 *** 2021-05-08 - ☆ 7.25
 :PROPERTIES:
-:ID:                     b04b7fc4-3fb2-49fd-9696-c5b3493481ac
+:ID:                     db10f1a7-cda2-44b0-a00a-f245108748fc
 :END:
 
 Blind tasted and guessed new world Chardonnay. And since it turned out to be a wine from Isrel, we started to discuss this funny contradiction. Anyways, typical bouquet of tropical fruits, butter, vanilla, ripe apple and hazelnut. I surrendered to this wine thanks to notes of Roquefort cheese. MLF makes it well structured and rich, oak is well integrated. Pleasant, not overly fascinating, but hey what a QPR for this style.
 
 ** Related
 :PROPERTIES:
-:ID:                     a4ba202e-fb08-450c-9c99-116bd4a89fdf
+:ID:                     33a1c14a-7b33-4d95-b65b-ab47efe97574
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
+    <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>
@@ -51,6 +53,7 @@ Blind tasted and guessed new world Chardonnay. And since it turned out to be a w
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
     <section class="h text-small text-lighter">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>

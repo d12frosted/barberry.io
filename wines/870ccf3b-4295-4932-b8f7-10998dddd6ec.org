@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     5b9a61ac-fab1-483d-8589-41ba2ffacf25
+:ID:                     20a15d79-b4f2-4781-9b63-877a8de44a8a
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/87/0ccf3b-4295-4932-b8f7-10998dddd6ec/2021-09-07-10-53-00-53835200-DA5D-4B41-BB5A-9CDD23792753-1-105-c.webp]]
@@ -18,7 +18,7 @@ Pinot Noir vines were planted in 1971 in heavy, iron-rich clay soils with chalky
 
 ** Producer
 :PROPERTIES:
-:ID:                     5fc19f1d-249a-4788-8950-008b94f549f0
+:ID:                     43d227eb-ae64-4af1-8710-0e9b5a8261cb
 :END:
 
 Ulysse Collin is a legendary Champagne producer based in Congy. Owned by the family that actively growth vines since 1812 in Coteaux du Petit Morin (located in Marne but south of the Grand Crus in the Côte des Blancs). These days Olivier stands behind the name.
@@ -46,12 +46,12 @@ So far produces 6 distinct wines (each one from a singe vineyard):
 
 ** Ratings
 :PROPERTIES:
-:ID:                     bb4a567c-afe0-4be7-b0d2-00d3596668d2
+:ID:                     0a2fafe7-c6d7-42a1-8f72-bef2fab6b1d9
 :END:
 
 *** 2021-09-06 - ☆ 9.00
 :PROPERTIES:
-:ID:                     88de6b2b-b88d-4955-9c86-bf56d6d05080
+:ID:                     a0bd2b2a-9996-4071-a1e0-81c3494c2f34
 :END:
 
 Tasted as a part of [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]] dinner in 101 Bar.
@@ -60,37 +60,43 @@ Based on 2016 Pinot Noir, it spent 32 months on the lees. The result is expressi
 
 ** Related
 :PROPERTIES:
-:ID:                     246fe535-340a-42ff-8b87-0d4f780b12a2
+:ID:                     3f2b3cee-ea8f-4a9c-80f0-3f58cee2e358
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
+    <img class="flex-bottle" src="/images/09/fbe9bf-7fdf-43a9-869a-5186d39bcf30/2021-09-07-10-33-50-E6F349D6-DC1F-486B-8D2A-1DDC033F3CEC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/50353325-007d-429d-b70b-f9d40206fe8d.html">
+    <img class="flex-bottle" src="/images/50/353325-007d-429d-b70b-f9d40206fe8d/2022-06-12-10-33-04-D65986F2-EC26-4271-8BE4-CF93E626D350-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Roises Blanc de Blancs Extra Brut (2015) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
+    <img class="flex-bottle" src="/images/9e/6ddc62-a7f8-4b3e-9c50-f8ef00bcda06/2021-09-07-11-24-09-61B68BB1-1385-4699-9956-F7F96041E6E4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <img class="flex-bottle" src="/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
+    <img class="flex-bottle" src="/images/fa/32e9d0-b448-4094-9c58-3a371d9dfe33/2021-09-07-11-24-22-5CFCE1EF-DB19-4940-A6C3-B45320280A75-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Enfers Blanc des Blancs Extra Brut (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/01486ec5-881a-4912-88ed-3fb39fed582a.html">
+    <img class="flex-bottle" src="/images/01/486ec5-881a-4912-88ed-3fb39fed582a/2021-09-07-13-12-55-B4F3A2C5-6223-4589-9592-471FAD7EE335-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Dom Ruinart</section>
     <section class="h text-bolder">Blanc de Blancs - 1964</section>
   </a>

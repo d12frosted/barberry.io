@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     a0bbd415-915c-4f0f-88f0-0422a7a32adf
+:ID:                     2a410dde-29ca-49dc-a102-d4ae0f77d977
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp]]
@@ -16,19 +16,19 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     6ec9f314-0910-4f63-a648-d6c1d7a9ab38
+:ID:                     299c8f25-204b-4427-b5bf-c1b89cd38cb5
 :END:
 
 *** 2021-07-02 - ☆ 8.00
 :PROPERTIES:
-:ID:                     56dde604-3bb0-4110-b486-d07cd637a251
+:ID:                     1c966dbc-8010-419b-bc56-49702efae373
 :END:
 
 Amazing blanc de blancs from Jura. Slightly baked apples, ice cream, flowers, crème brûlée and toasts. Creamy texture, fresh and delicious. Perfect choice for easy going evening, when you want to relax, but still enjoy well made sophisticated bubbles.
 
 *** 2021-11-29 - ☆ 7.75
 :PROPERTIES:
-:ID:                     eea2996b-30df-422f-9221-a1251dc04a06
+:ID:                     5c39aecb-32e9-40b9-972a-d4bf47b4abf4
 :END:
 
 Tasted as part of Chefs dinner in 101 Bar.
@@ -37,7 +37,7 @@ Delicious as ever. Ice cream, crème brûlée, candied pear, baked apple, and Je
 
 *** 2021-12-21 - ☆ 7.50
 :PROPERTIES:
-:ID:                     02ad1b55-b115-42f5-962d-7199251c666e
+:ID:                     ab17b32e-2f84-412f-9d96-3ecd60eda772
 :END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
@@ -49,29 +49,32 @@ only problem is rising price.
 
 *** 2022-06-15 - ☆ 7.75
 :PROPERTIES:
-:ID:                     32a3bbc1-a11e-414f-bac2-9cce3b44ac41
+:ID:                     a3897e69-aea9-41b8-95b4-ead36b4716b7
 :END:
 
 One of my mothers favorite bubbles. As good as always, and quite consistent (unlike my rating). It's an ice cream with waffles in a liquid form. Add some Jerez notes together with pear lollipop and voilà! You've got a wonderful crémant. Almost perfectly balanced, great structure, creamy with a long aftertaste. Delicious.
 
 ** Related
 :PROPERTIES:
-:ID:                     0e6e0e4b-ded3-4bd5-9f74-feffe7160175
+:ID:                     c0a3eb67-5169-483d-bcf6-502fac3a70c2
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bérêche & Fils</section>
     <section class="h text-bolder">Brut Réserve - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <img class="flex-bottle" src="/images/10/8c69b0-4506-4e05-9da4-c73ccd053992/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Shabo</section>
     <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+    <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Billecart Salmon</section>
     <section class="h text-bolder">Brut Reserve - NV</section>
   </a>
@@ -82,41 +85,49 @@ One of my mothers favorite bubbles. As good as always, and quite consistent (unl
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
+    <img class="flex-bottle" src="/images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Mouzon-Leroux</section>
     <section class="h text-bolder">L'Atavique - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">
+    <img class="flex-bottle" src="/images/6c/2c4740-c3e0-44e9-9617-6246498ca0d6/2022-06-16-07-52-54-AA9F657A-02B4-4399-8E90-8F0EE0B2F1CF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Maison du Vigneron</section>
     <section class="h text-bolder">Crémant du Jura - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
+    <img class="flex-bottle" src="/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+    <img class="flex-bottle" src="/images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+    <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>

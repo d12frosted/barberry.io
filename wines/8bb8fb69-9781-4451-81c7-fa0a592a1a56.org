@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     81610b2b-15f9-4cf5-9166-01b1b1d89bda
+:ID:                     932a8021-7bfe-46b2-9fa7-b5569a2f14c0
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp]]
@@ -16,29 +16,32 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     0eb6df8f-7a77-450c-a627-2864b7c81e2f
+:ID:                     d3cf95ed-3599-454c-a4c8-1ab7a6f7ad3e
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     f816e1fb-3e04-4aba-8c09-d4be88a4986d
+:ID:                     065223c9-f414-4dca-809f-afcba9d5d550
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+    <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+    <img class="flex-bottle" src="/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
+    <img class="flex-bottle" src="/images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040.webp"></img>
     <section class="h text-small text-lighter">Lucy Margaux</section>
     <section class="h text-bolder">Vino Rosso - 2020</section>
   </a>

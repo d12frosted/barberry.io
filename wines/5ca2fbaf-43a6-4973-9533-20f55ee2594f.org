@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     c70e7ef4-4762-4f3d-bcab-98a6ba30b58e
+:ID:                     86750a82-d566-4649-ab2f-9445b7fc0f86
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp]]
@@ -18,7 +18,7 @@ Vrede is one of the wards of WO Hemel-en-Aarde Valley, where Hannes Storm cultiv
 
 ** Producer
 :PROPERTIES:
-:ID:                     16d88970-4b36-4e37-98b3-06fa1fba9690
+:ID:                     6d54e585-74ce-46b4-8feb-5c881a929920
 :END:
 
 Hannes Storm is a winemaker from South Africa dedicated to expressing terroirs of WO Hemel-en-Aarde Valley. After 12 vintages of working with Pinot Noir and Chardonnay, he discovered two tiny parcels of land with exceptional terroirs and planted them with Pinot Noir in 2008. His first vintage saw the light in 2012, and after 18 months in bottle, the wines were released in August 2014.
@@ -39,12 +39,12 @@ Interestingly, before Hennes Storm started own project, he worked as a winemaker
 
 ** Ratings
 :PROPERTIES:
-:ID:                     759c3b81-3245-429e-b6cf-f1bd7abeeb82
+:ID:                     24d9a89b-f801-4a06-ab9f-94f3f50096c1
 :END:
 
 *** 2021-09-14 - ☆ 9.00
 :PROPERTIES:
-:ID:                     74d70d87-d042-456f-8b27-dc2d6981fa39
+:ID:                     24a1cc32-7427-4923-b2b3-90c23c7cd907
 :END:
 
 Tasted as part of Na Uzbičči event.
@@ -53,7 +53,7 @@ Happy to taste this wine. Even if my excitement affects the score, it does so on
 
 *** 2021-12-08 - ☆ 8.50
 :PROPERTIES:
-:ID:                     3978c6f7-c80b-4536-bf7b-091018ef1b84
+:ID:                     0a19ec97-1dd9-4717-87ac-f45ee90fca97
 :END:
 
 Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]].
@@ -62,7 +62,7 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
 
 ** Related
 :PROPERTIES:
-:ID:                     b8d8b411-87c0-4030-8065-52b3bac2b01a
+:ID:                     fd17cc8b-0438-4490-87fc-4fdefd997ef7
 :END:
 
 #+begin_export html
@@ -73,6 +73,7 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+    <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
@@ -83,6 +84,7 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>

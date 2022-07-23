@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     45dac60d-3388-4b89-ba48-313d38e6db15
+:ID:                     df3b1a25-ef61-46ef-a9ef-e5233f2b045d
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c.webp]]
@@ -16,26 +16,26 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     2a0f0ac9-fd0a-412a-9b3f-82408f437ac8
+:ID:                     f8b76512-1a0b-4a32-829a-2420282b7083
 :END:
 
 *** 2020-06-12 - ☆ 8.50
 :PROPERTIES:
-:ID:                     6cf19f97-d578-4c16-a3e4-f8e486684872
+:ID:                     6d55651c-dc37-4ad6-8a48-26f8849909bd
 :END:
 
 Excellent wine. Baked apple, creme brulee, boiled condensed milk and touch of milk chocolate. Sophisticated. Great QPR.
 
 *** 2020-10-07 - ☆ 8.20
 :PROPERTIES:
-:ID:                     5fdb652b-0e8b-4b31-98d1-f30683c658f1
+:ID:                     1774cc68-1415-4511-a51a-cfafa0108ecb
 :END:
 
 Second try and second success. Open and bright aroma. Baked apple, apple seeds and fresh sunflower seeds, cream and lemon. Smooth and tasty. Flavours of apple and mushrooms. Great value.
 
 *** 2022-06-15 - ☆ 8.25
 :PROPERTIES:
-:ID:                     446b8d6b-678d-44e8-9776-5d9cbf5cc547
+:ID:                     8658c63d-7659-4657-99fd-21d9686a7e57
 :END:
 
 I feared that this wine will fail to show itself after [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]], but actually it turned out to be great complement. Precise, delicate and sophisticated. Lemon, sunflower seeds, apple seeds with some baked notes mixed with cream. Long aftertaste, almost perfect balance, good volume. Pleasure!
@@ -44,27 +44,31 @@ Based on 2017, 2016 and 2015, degorged in october 2020.
 
 ** Related
 :PROPERTIES:
-:ID:                     f4829a99-d2af-42e5-9bb7-0c4cbc0d75c1
+:ID:                     d7d8ce6e-1482-443d-bd9e-1a25e1804eeb
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">
+    <img class="flex-bottle" src="/images/6c/2c4740-c3e0-44e9-9617-6246498ca0d6/2022-06-16-07-52-54-AA9F657A-02B4-4399-8E90-8F0EE0B2F1CF-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Maison du Vigneron</section>
     <section class="h text-bolder">Crémant du Jura - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+    <img class="flex-bottle" src="/images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>

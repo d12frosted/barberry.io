@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     bc8bcee0-be12-47fd-b45a-f1a5e0d3818b
+:ID:                     0ce51269-a6e4-4f81-b81c-13582762860e
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     506c66ee-42d4-423a-b253-c18c11aa0d90
+:ID:                     a7396c33-0ebf-411f-9f49-dd81c48f2148
 :END:
 
 *** 2021-12-21 - ☆ 8.00
 :PROPERTIES:
-:ID:                     522b0d8e-f9ab-4908-9fda-b93bdbe888d1
+:ID:                     bf031cb3-6e73-400f-91e0-c1d8ca499d82
 :END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
@@ -32,22 +32,25 @@ One more loud name. And again, friendly and approachable. Has more volume than S
 
 ** Related
 :PROPERTIES:
-:ID:                     d02dc0bf-922a-4bf9-a081-525664be4498
+:ID:                     8c62f092-9d7f-43af-961b-7875e29755f4
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bérêche & Fils</section>
     <section class="h text-bolder">Brut Réserve - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">
+    <img class="flex-bottle" src="/images/10/8c69b0-4506-4e05-9da4-c73ccd053992/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Shabo</section>
     <section class="h text-bolder">Grand Reserve Extra Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+    <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Billecart Salmon</section>
     <section class="h text-bolder">Brut Reserve - NV</section>
   </a>
@@ -58,11 +61,13 @@ One more loud name. And again, friendly and approachable. Has more volume than S
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>

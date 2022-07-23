@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     3fc5adb1-7b6e-471b-acbb-9df160bb66b3
+:ID:                     872a8c55-bc66-4650-8b18-ad475fa03090
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-07-23-10-49-27-27DE2E96-DA05-4B12-AB16-06FB3A11CB03-1-105-c.webp]]
@@ -18,24 +18,26 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d29d9928-0859-4e49-b36c-045f2d43dc97
+:ID:                     4492e720-1910-4a9c-9ab8-6bb319cf9cbf
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     5172cbb1-2925-4195-bd4e-37bdae7fba55
+:ID:                     f08e2814-1b00-4f9d-92ac-0c621861f9a7
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">
+    <img class="flex-bottle" src="/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Els Vinyerons</section>
     <section class="h text-bolder">Saltamartí - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Els Vinyerons</section>
     <section class="h text-bolder">Lluerna - 2021</section>
   </a>

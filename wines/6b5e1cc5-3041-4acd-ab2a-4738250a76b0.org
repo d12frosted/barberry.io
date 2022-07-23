@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     220cd07a-ddb3-46e5-a380-1db1ec8b7c2b
+:ID:                     0534499e-ed76-4a14-823b-ca8c5fa04ba2
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/6b/5e1cc5-3041-4acd-ab2a-4738250a76b0/2022-06-09-21-36-08-IMG-0354.webp]]
@@ -16,34 +16,38 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     d7224dd0-cd82-448e-a747-2c2a809d5c1b
+:ID:                     5622ee2c-7214-4e1a-98b8-3f0d5f1dfd40
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     0556f42f-5372-4fe7-959f-104c6edcbc14
+:ID:                     03d4ef2a-d3a8-43ff-aa13-e7c81d66c49a
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/39b35863-a201-4f56-adce-1db43d9f327d.html">
+    <img class="flex-bottle" src="/images/39/b35863-a201-4f56-adce-1db43d9f327d/2022-01-13-09-44-29-70F73BB0-F877-4CC6-9F78-975FFB453122-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">Ultreia La Claudina - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">
+    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">La Del Vivo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b4b49d91-5c74-4c65-8f52-03afb240a57c.html">
+    <img class="flex-bottle" src="/images/b4/b49d91-5c74-4c65-8f52-03afb240a57c/2021-04-27-07-51-26-3D869102-7B58-4134-B9DA-1D6692222E4A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">La Poulosa - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
+    <img class="flex-bottle" src="/images/cf/948cb2-a538-43da-926a-cd71b4bb5705/2021-10-27-23-53-27-91550E9B-BD38-4027-8EDE-5463810E5BDA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">Ultreia De Valtuille - 2018</section>
   </a>

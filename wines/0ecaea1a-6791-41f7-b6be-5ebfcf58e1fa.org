@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cc9c4018-3bec-4af2-af07-ca081e69675e
+:ID:                     d26f1e67-ecd2-438e-9f03-0f8e31612f8c
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/0e/caea1a-6791-41f7-b6be-5ebfcf58e1fa/2021-11-26-07-45-09-ABF5C370-FF86-444A-B40E-D984D093380D-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     03f5a580-ae64-4301-b7a0-3286275b6e38
+:ID:                     146d8a8f-5383-4e90-9d75-0d9ed7db7a9e
 :END:
 
 *** 2021-11-25 - ☆ 9.00
 :PROPERTIES:
-:ID:                     c33e3d90-1706-4c6c-9030-f48658690ed6
+:ID:                     a090372d-d38f-4c68-9e8a-9ae2f0852bc6
 :END:
 
 Great wine. Complex and demanding style, that easily creates a wow effect. Even haters of traditional wine making fall in love in a blind tasting. All thanks to the wonderful Jerez-like bouquet with honey, vanilla, coconut, apple and candies. Long evolving aftertaste with flavours of Jerez, honey, coconut and candied fruits. Salty, fresh with great potential. 11 years old is the freshest release, still a baby.
@@ -30,22 +30,25 @@ Tasted as part of Galicia și Tondonia wine tasting event organized by [[barberr
 
 ** Related
 :PROPERTIES:
-:ID:                     8efcc0cd-2d31-4409-b23f-ffd6a01b31f6
+:ID:                     9e540b64-2844-454c-b69d-c19f58a46947
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+    <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2009</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+    <img class="flex-bottle" src="/images/b7/52a3ba-3b68-4e56-80a9-3857c04416a9/2020-11-15-11-08-15-50D84DC3-A8E5-4F2E-8BAB-ED8BD610BCC2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2008</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+    <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>

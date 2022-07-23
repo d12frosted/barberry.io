@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     6b5ee271-3826-473a-9fa3-e1860d1237bc
+:ID:                     678273d7-d4f7-4803-828e-4498552b28ed
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp]]
@@ -16,34 +16,37 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     95ad1685-4000-4e65-918d-8d4f41198e8f
+:ID:                     abc36bd7-ebd3-4cc3-8dab-d2847d70c718
 :END:
 
 *** 2022-06-27 - ☆ 7.20
 :PROPERTIES:
-:ID:                     07738560-b4e1-4585-a788-363fddff5412
+:ID:                     22de88b0-bc8a-48fd-bb62-3770d81d0154
 :END:
 
 Simple and somehow tired bouquet. Or was it me who was tired? Yellow apples, stone fruits, vanilla and melon. Slightly oily structure, medium acidity, long finish. Nice 5 years old table wine.
 
 ** Related
 :PROPERTIES:
-:ID:                     0f40dbce-211d-41ee-ad59-9330e46219fb
+:ID:                     78e52d19-7db2-4771-8442-b3a81c4773d6
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">
+    <img class="flex-bottle" src="/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
+    <img class="flex-bottle" src="/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">
+    <img class="flex-bottle" src="/images/2a/419f13-955d-4675-9ca1-a5800b73cd50/2022-06-09-21-40-35-IMG-0363.webp"></img>
     <section class="h text-small text-lighter">Spier Wines</section>
     <section class="h text-bolder">Signature Chenin Blanc - 2021</section>
   </a>

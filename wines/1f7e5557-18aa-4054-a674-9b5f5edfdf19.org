@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     2abe58c9-6611-4ff5-b762-5dd034befd9d
+:ID:                     9177b9a4-5ba7-4eff-aac2-c9d5a2c2ba2b
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp]]
@@ -16,12 +16,12 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     60fe34a5-3ecd-40d0-ab44-8a820587891f
+:ID:                     91251dff-6d55-4dc0-9cb7-1dd40388bdd4
 :END:
 
 *** 2021-08-10 - ☆ 7.25
 :PROPERTIES:
-:ID:                     32f71399-e325-4b56-9edf-43a8654685d5
+:ID:                     c31bcc5a-be39-44aa-933a-8a15c50d8fe2
 :END:
 
 Definitely I like 2019 more than 2018. But unfortunately, Go Together is closed and indistinct in a bad way. Blueberry jam, red fruits and very elegant (and really pleasant) hints of VA. Since it's tasty, refreshing and so easy going, I would take it on a picnic, but keep the price in mind.
@@ -30,22 +30,25 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
 
 ** Related
 :PROPERTIES:
-:ID:                     79a64aca-1001-4ade-acd8-05068d3e5770
+:ID:                     62d3190a-fd1a-427c-9418-e3f7d43be382
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">
+    <img class="flex-bottle" src="/images/36/9d38ae-163d-4c8d-bc21-1900c8b72a7d/2020-09-20-12-47-07-BD1F367A-87EA-43DE-9C3A-75B1D04AD231-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/41c61abd-bb8c-4a9c-be77-c2fe756581f3.html">
+    <img class="flex-bottle" src="/images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Fresh Impression White - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/67648a12-7d2c-481b-ba2f-707213642f7c.html">
+    <img class="flex-bottle" src="/images/67/648a12-7d2c-481b-ba2f-707213642f7c/2021-08-11-08-44-02-FBFF53FB-A541-4325-9C22-E4B78D151272-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Oh Yeah - 2020</section>
   </a>
@@ -56,21 +59,25 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/72af4b22-a56f-4f04-a0e7-c6e3a6179600.html">
+    <img class="flex-bottle" src="/images/72/af4b22-a56f-4f04-a0e7-c6e3a6179600/2022-05-08-18-13-23-IMG-0052.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Big Bunch Theory Fresh Impression Red - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/805e6758-4d6a-4c21-9ab4-4045e6ea446c.html">
+    <img class="flex-bottle" src="/images/80/5e6758-4d6a-4c21-9ab4-4045e6ea446c/2021-08-11-08-32-01-12A14077-5720-4B54-B267-B83DADAE4C4D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Fresh Impression White - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">
+    <img class="flex-bottle" src="/images/e5/9e3ee3-cfb8-4f3d-8df3-8001d244a624/2021-08-11-08-35-32-0DFD44BE-D6D0-4353-8187-56ECFDF1ABF5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
+    <img class="flex-bottle" src="/images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Spier Wines</section>
     <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>

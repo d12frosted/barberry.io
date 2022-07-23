@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     aa13f270-8e3f-41a7-8b38-707df0e39c81
+:ID:                     487c3af5-f5cf-4884-aaf8-4ccb172f606f
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/47/6f7a06-fd20-4887-a5fa-1d77f41309ce/2022-07-09-09-45-00-BC5887C7-AB85-42DC-B889-F780CE250FC6-1-105-c.webp]]
@@ -16,24 +16,25 @@
 
 ** Ratings
 :PROPERTIES:
-:ID:                     bacecde3-1e7e-4c43-ac53-433d53072f3d
+:ID:                     655576ea-1f5c-4494-9810-fde54800c337
 :END:
 
 *** 2022-07-13 - ☆ 7.20
 :PROPERTIES:
-:ID:                     4dc2fe22-9bcc-4a6f-b591-42fbb6bbd0ef
+:ID:                     8f23abf5-d715-4644-85c4-4ce681cc43a2
 :END:
 
 Typical Cava for an honest price. Yup, all those familiar notes of apple, plastic and toast. But if you let it warm a little bit, it opens up with something extra - cream soda and baked pear. It is well balanced, as dry as a desert (not to confuse with dessert), with clumsy taste evolution, and a funny aftertaste of burnt toast (unfortunately, we all know how they taste).
 
 ** Related
 :PROPERTIES:
-:ID:                     cb14b4d9-4144-4009-86f9-05ab0204b77b
+:ID:                     29a119de-84cc-4641-b953-d1ae256697fd
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+    <img class="flex-bottle" src="/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
   </a>

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     cd109ba3-21cd-4fdd-b47f-38e884d83d98
+:ID:                     f5c467b4-49f2-403f-ab9f-91f884364505
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2021-09-26-13-59-05-748C600F-92FF-4B4B-8332-073E71AFE82B-1-105-c.webp]]
@@ -16,26 +16,27 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     928e8f4d-b6b2-4308-b400-ef6de7d92dc7
+:ID:                     2e60adbc-0749-487d-826c-7609aca1ec3f
 :END:
 
 Descendant of wine makers, Francois Montand was raised in Champagne. But during WWII he moved to Jura, where he settled and started to produce sparkling wines in traditional method, but with no classification.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     986ee3af-4494-4bdf-baca-fb1055dac325
+:ID:                     592a15cb-5c1e-4b1f-b218-0958e2c78ab7
 :END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 :PROPERTIES:
-:ID:                     a6bc828c-8f90-47ef-a9bb-54e88d0591f1
+:ID:                     903d5f7e-753b-454d-adf8-822753ea971c
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
   </a>

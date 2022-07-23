@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:                     7472117f-b23e-4ef0-8e3f-7a1799f9528f
+:ID:                     9658e840-8c28-457e-8ce6-53d8b21e80ec
 :END:
 #+attr_html: :class wine-main-image
 [[file:/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp]]
@@ -16,19 +16,19 @@
 
 ** Producer
 :PROPERTIES:
-:ID:                     be4d17a7-6789-4b7c-a996-145b4b627811
+:ID:                     58d3d6ec-3874-421f-8d35-0c794d596151
 :END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
 :PROPERTIES:
-:ID:                     96faac21-ae1e-460a-b826-5896b942d325
+:ID:                     2759e12e-5093-42c2-9edb-5873d8b947b7
 :END:
 
 *** 2021-08-17 - ☆ 7.50
 :PROPERTIES:
-:ID:                     3f308c74-40e3-4041-981e-576bf5740c5b
+:ID:                     0a786b06-712d-48a9-9e8b-2bc30c89170d
 :END:
 
 Unexpected! Buns filled with pear jam, pomelo. Not complex, but tasty traditional method sparkling from Moravia. Interesting aftertaste of slightly rotten fruits and red berries.
@@ -37,24 +37,26 @@ Tasted as part of Divych Vechir.
 
 *** 2022-07-15 - ☆ 7.50
 :PROPERTIES:
-:ID:                     37cdffe9-ca09-473e-8665-7bd5388e1f64
+:ID:                     b0750a01-0880-421d-ace3-169d1aa58bb4
 :END:
 
 Apparently, it spent in contact with the skin longer than expected. Which resulted in a rosé gold colour and barely noticeable red berries aromas. Despite 10 months on lees, strong yeasty notes (think of bread). Slightly rotten apple, pomelo jam, and peach. Good acidity, long aftertaste with some evolution and bitter finish. Nice.
 
 ** Related
 :PROPERTIES:
-:ID:                     1fe2c42e-cb0a-4a92-8802-b5d952059e74
+:ID:                     712fde51-e95e-4b34-8f09-497dc7a6ba75
 :END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Ruby - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Herr Gewürtz - 2019</section>
   </a>
@@ -65,6 +67,7 @@ Apparently, it spent in contact with the skin longer than expected. Which result
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
+    <img class="flex-bottle" src="/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
   </a>
@@ -75,56 +78,67 @@ Apparently, it spent in contact with the skin longer than expected. Which result
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <img class="flex-bottle" src="/images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2022-07-16-18-29-34-FB85BCF7-9725-4DF9-B703-1BFB4F7B8213-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Jacques Lassaigne</section>
     <section class="h text-bolder">La Colline Inspirée - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
+    <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
     <section class="h text-bolder">Bland de Blancs - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">
+    <img class="flex-bottle" src="/images/61/c7931d-0fce-40c1-9569-934fe0059dc1/2021-11-30-09-22-24-E0F94D15-30C7-4BB8-8EBE-3D26F67E829E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hudelot-Noëllat</section>
     <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+    <img class="flex-bottle" src="/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Gentleman - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+    <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
+    <img class="flex-bottle" src="/images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Crazy Crazy - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">
+    <img class="flex-bottle" src="/images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2022-07-16-18-48-40-F45B1701-8B12-455A-BC70-C9A6471BF375-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">280 slm - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+    <img class="flex-bottle" src="/images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+    <img class="flex-bottle" src="/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ulysse Collin</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+    <img class="flex-bottle" src="/images/fb/e81e1f-f8e4-47d9-8fd5-a92b304bbe06/2022-07-16-18-25-36-F279F856-C3AC-4068-934A-638C352B5BB4-1-201-a.webp"></img>
     <section class="h text-small text-lighter">Ca Dei Zago</section>
     <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
