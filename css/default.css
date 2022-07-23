@@ -693,3 +693,7 @@ ul.rating-list {
     margin-inline-end: 0;
   }
 }
+
+mark {
+  background: var(--highlight-salient);
+}
