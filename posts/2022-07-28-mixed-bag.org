@@ -1,0 +1,218 @@
+:PROPERTIES:
+:ID:                     736ed612-db94-4435-ac9e-514d48d52d18
+:END:
+Selecting wines for an event is a tricky job. You build a story to tell. A story composed of fragments as small as grains. Sometimes it's on the surface, expressed by actions and printed words. Sometimes it's in the bottle, sensible and elusive. On the other hand, there is subjective reality consisting of availability and my desire to taste something new.
+
+Today we walk a circle. We start in Basket Range, only to walk back to Summertown as rebells of the wine industry.
+
+Wines of the evening:
+
+1. [[barberry:/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56][Lucy Margaux Pinot Gris Comme de Fleurs 2020]]
+2. [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco de Bartoli Integer Grillo 2018]]
+3. [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][La Biancara Sassaia 1997]]
+4. [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Tsikhelishvili Wines Alvani Rkatsiteli 2018]]
+5. [[barberry:/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d][La Stoppa Ageno 2018]]
+6. [[barberry:/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd][La Stoppa Ageno 2019]]
+7. [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Gentle Folk Summertown blanc 2019]]
+
+* Scores
+:PROPERTIES:
+:ID:                     bf52d371-75b3-4298-ad9a-6063679e028e
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|           | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-----------+---------+---------+---------+---------+---------+---------+---------|
+| Tetiana S |    3.50 |    3.00 |    3.20 |  *3.70* |    3.80 |    3.50 |    3.30 |
+| Dmytro S  |    3.80 |    3.10 |    3.30 |  *4.30* |    3.80 |  +2.90+ |    3.60 |
+| Mariia S  |    3.60 |    3.70 |  +3.30+ |    4.10 |    3.80 |    3.50 |  *4.30* |
+| Andrii S  |    3.60 |    3.90 |  +3.60+ |  *4.30* |    3.80 |    4.10 |    4.30 |
+| Maksym K  |    3.90 |  +3.40+ |    4.50 |    2.95 |    2.94 |    3.90 |  *4.60* |
+| Elvira K  |    3.50 |    3.60 |    3.90 |  *4.70* |    4.00 |  +3.00+ |    4.20 |
+| Ivietta K |  +3.00+ |    4.80 |    4.60 |    4.20 |    4.80 |  *4.50* |    3.20 |
+| Dmytro D  |  +3.50+ |  *4.00* |    3.80 |    3.80 |    3.50 |    4.00 |    4.00 |
+| Artem O   |    3.00 |    3.80 |    3.20 |  *4.80* |    4.20 |  +3.70+ |    4.50 |
+| Sofiia B  |  *4.00* |  +3.00+ |    3.50 |    3.90 |    4.00 |    3.30 |    4.30 |
+| Boris B   |  +3.60+ |    4.00 |  *4.20* |    4.20 |    4.00 |    3.80 |    4.10 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |  amean |   sdev | favourite | outcast |   price |      QPR |
+|---+--------+--------+-----------+---------+---------+----------|
+| 1 |   3.55 | 0.0916 |      1.00 |  +3.00+ |  776.00 |   1.5970 |
+| 2 |   3.66 | 0.2605 |      1.00 |    2.00 | 1150.00 |   1.2737 |
+| 3 |   3.74 | 0.2369 |      1.00 |    2.00 | 1591.00 |   1.0221 |
+| 4 | *4.09* | 0.2328 |    *5.00* |    0.00 | 1185.00 |   2.3086 |
+| 5 |   3.88 | 0.1860 |      0.00 |    0.00 | 1112.00 |   1.7946 |
+| 6 |   3.65 | 0.2079 |      1.00 |  +3.00+ |  603.00 |   2.3978 |
+| 7 |   4.04 | 0.2005 |      2.00 |    0.00 |  825.00 | *3.0733* |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Lucy Margaux Pinot Gris Comme de Fleurs 2020
+:PROPERTIES:
+:ID:                     bf2ea556-e33f-410d-bdb7-f1ec38a0c90c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-12-53-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]
+- name: [[barberry:/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56][Pinot Gris Comme de Fleurs]]
+- vintage: 2020
+- grapes: Pinot Gris
+- location: Basket Range, Adelaide Hills, South Australia
+- skin contact: up to 10 days
+- alcohol: 13.0
+- sugar: 0.3
+- price: 946 UAH
+- importer: Wine Bureau
+
+A bottle that you definitely notice on the shelve thanks to these catchy labels. A wide range of wines with little available information. Even the looks of the content tell about the style. And indeed, Anton Gerrard van Klopper is a convinced naturalist.
+
+Before starting his own winery, Anton worked in hospitality for 10 years, where he became interested in wines. He was curious: why did he like some wines more than others. There are many possible reasons, so he headed off to the University of Adelaide to complete a degree in oenology.
+
+For a few years after completing his degree, Anton travelled the world to gain valuable experience by working with other winemakers he respected. He slowly started to form his philosophy. It is typical for low intervention winemakers, but the year was 2002. You could not learn it from Google or university books.
+
+So, in 2002, Anton found a cherry orchard in Peramangk Country in the beautiful Basket Range area of the Adelaide Hills, South Australia. At the time, the Adelaide Hills was renowned as one of Australia’s premier cool-climate regions, with a growing reputation for Chardonnay, Shiraz and sparkling wines. It took some time for this region to become a hub for organic and biodynamic viticulture. And Anton played his part in this quest by convincing others to change the ways of farming.
+
+#+begin_quote
+The most challenging part of natural winemaking is to live with the naysayers who choose recipe over craft.
+
+Anton Gerrard van Klopper
+#+end_quote
+
+Anton walked a path from renegade to trailblazer for  Adelaide Hills, and now he can focus on his craft. Ha, if only it would be so simple. Remember that he worked in hospitality before starting a winery? In 2016 together with Jasper Button from Commune of Buttons, he opened a wine bar in the nearby hamlet of Summertown. The *Summertown Aristologist* gives Anton the freedom to treat people with wines and foods of his making. It turns out he never gave up on his culinary skills. And now, two of his crafts sing a single song.
+
+* Marco de Bartoli Integer Grillo 2018
+:PROPERTIES:
+:ID:                     0239eb45-fa9b-436d-909b-1be272b147c5
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-13-20-956B36B5-9791-4C33-892A-B18306380425-1-105-c.webp]]
+
+- producer: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco de Bartoli]]
+- name: [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Integer Grillo]]
+- vintage: 2018
+- grapes: Grillo
+- location: Western Sicily, Contrada Samperi, Marsala (TP)
+- appellation: Sicilia DOC
+- skin contact: 10 days (barrels), few months (clay amphoras)
+- alcohol: 13.0
+- sugar: 2.1
+- price: 1185 UAH
+- importer: Wine Bureau
+
+This Grillo comes from a 9 ha vineyard in Western Sicily, Contrada Samperi, Marsala. The average age of vines is over 20 years.
+
+Grapes are gently destemmed and softly pressed to start a spontaneous fermentation using indigenous yeasts. A small part of the batch is fermented in old barrels and macerated for 10 days. The remaining batch ferments in [[https://www.tava.it][handmade clay amphoras by Tava]] and goes on macerating for a few months. Both alcoholic and malolactic fermentations are completed in an environment with indirectly controlled temperature.
+
+3400 bottles produced.
+
+* La Biancara Sassaia 1997
+:PROPERTIES:
+:ID:                     915cb256-93a5-481f-bfe5-78a7d28e49fb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-18-13-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad][La Biancara]]
+- name: [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][Sassaia]]
+- vintage: 1997
+- grapes: Garganega
+- location: Veneto
+- appellation: Gambellara DOC
+- skin contact: ???
+- alcohol: 12.5
+- price: 1600 UAH
+- importer: Sabotage
+
+* Tsikhelishvili Wines Alvani Rkatsiteli 2018
+:PROPERTIES:
+:ID:                     42123d1f-6396-4386-a78c-e4332564433f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-19-34-A20D9690-16FB-4DCD-8066-31EE5BBF046A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili Wines]]
+- name: [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Alvani Rkatsiteli]]
+- vintage: 2018
+- grapes: Rkatsiteli
+- location: Kakhetia
+- skin contact: ???
+- alcohol: 15
+- price: 690 UAH
+- importer: Wine Bureau
+
+* La Stoppa Ageno 2018
+:PROPERTIES:
+:ID:                     b9f8c73d-9cd5-4c85-9053-f7b0251af5c2
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-22-03-24AC3F60-3789-4E21-A876-D59C079008A3-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]
+- name: [[barberry:/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d][Ageno]]
+- vintage: 2018
+- grapes: Malvasia di Candia Aromatica
+- location: Emilia-Romagna
+- skin contact: ???
+- alcohol: 13
+- sugar: 0.6
+- produced: 23800 bottles
+- price: 1150 UAH
+- importer: Wine Bureau
+
+* La Stoppa Ageno 2019
+:PROPERTIES:
+:ID:                     ec8a8769-e872-4ea3-8297-c666e50bbd72
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-22-12-053EFCCF-B1DD-4DC7-B39D-079515F3317B-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]
+- name: [[barberry:/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd][Ageno]]
+- vintage: 2019
+- grapes: Malvasia di Candia Aromatica
+- location: Emilia-Romagna
+- skin contact: ???
+- alcohol: 13.5
+- sugar: 0.6
+- produced: ??? bottles
+- price: 1150 UAH
+- importer: Wine Bureau
+
+* Gentle Folk Summertown blanc 2019
+:PROPERTIES:
+:ID:                     ab53c6f4-f4e2-410d-9a79-a6f3450d2fe0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-24-12-23-24-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]
+- name: [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Summertown blanc]]
+- vintage: 2019
+- grapes: Sauvignon Blanc
+- location: Basket Range, Adelaide Hills, South Australia
+- skin contact: ???
+- alcohol: 13.0
+- sugar: 2
+- price: 1400 UAH
+- importer: Wine Bureau
+
