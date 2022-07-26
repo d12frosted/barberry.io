@@ -1,3 +1,18 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9c/70888b-36fa-4db1-b07f-6522771d81ec/2021-04-04-12-20-41-E7AA4263-EF68-406F-88C4-5D03E7DB1B9D-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad][La Biancara]]
+- Vintage :: 2019
+- Location :: Italy, IGP Veneto
+- Grapes :: Garganega
+- Alcohol :: 11
+- Sugar :: 0.6
+- Price :: 380 UAH
+- Cellar :: N/A
+
+** Producer
+
 #+begin_quote
 I am never content. It’s in my DNA.
 #+end_quote
@@ -24,25 +39,25 @@ We all made wines with defects. They pleased extremist drinkers - not everyone.
 
 And today, Angiolino even works with Franco Giacosa, a retired enologist from Zonin, a giant producer that owns multiple estates around Italy. Franco Giacosa became intrigued with the challenge of making good wines with no additives. He even told Angiolino Maule: "You're a great viticulturist, but you're an awful winemaker."
 
-** Wines
+** Ratings
+
+*** 2021-04-02 - ☆ 7.50
+
+Thanks to some crazy 'natural' producers I started to appreciate clean style wines. Stone fruits, salt, citrus notes, cider. Well balanced, fresh, easy going (hey 11 abv), tasty. Good value for sure.
+
+** Related
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3bc5dec6-eae8-4fd6-8731-d726947aad66.html">
     <img class="flex-bottle" src="/images/3b/c5dec6-eae8-4fd6-8731-d726947aad66/2021-07-23-07-51-53-IMG-2660.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-small text-lighter">La Biancara</section>
     <section class="h text-bolder">Garg'n'go - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9c70888b-36fa-4db1-b07f-6522771d81ec.html">
-    <img class="flex-bottle" src="/images/9c/70888b-36fa-4db1-b07f-6522771d81ec/2021-04-04-12-20-41-E7AA4263-EF68-406F-88C4-5D03E7DB1B9D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
-    <section class="h text-bolder">Masieri - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
+  <a class="flex-item flex-item-right" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
     <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">La Biancara</section>
     <section class="h text-bolder">Sassaia - 1997</section>
   </a>
 

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     7e25b769-4f98-4274-b296-250a050d1fd2
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp]]
 
@@ -14,10 +11,53 @@
 - Price :: 1408 UAH
 - Cellar :: 1 bottle
 
+** Producer
+
+#+begin_quote
+I am never content. It’s in my DNA.
+#+end_quote
+
+The story of the famous La Biancara winery began in 1977 when 23-years old Angiolino Maule and his wife Rosamaria opened a bar/pizzeria to earn and save money. Who knows, maybe the earth and vines were calling him all the time, and he waited for the right moment? And after 2 years, the couple bought a farmhouse with about 15 acres of vineyard land, three of which were planted with old Garganega vines.
+
+In any case, he settled in Gambellara, an extension of Soave foothills in Veneto. These south-facing slopes are protected from Alpine northern winds by the southern Dolomites. The altitude here is between 150 and 250 meters. The hills are volcanic in origin and have rich, dark mineral soils with good amounts of fine clay.
+
+Just like in Soave, the principal white grape in Gambellara is Garganega, backed up with small amounts of Trebbiano. But what makes Angiolino Maule stand out is the biodynamic approach toward viticulture that he started to use from the very beginning of La Biancara. So for decades, Angiolino ploughs his 15 hectares. He doesn't use any soil treatments, chemical or otherwise. The result is a sustainable ecosystem that gives birth to healthy grapes. Of course, they are handpicked.
+
+For better or worse, Angiolino believes that the work in the cellar must be consistent with the work in the vines. Vinification, ageing and bottling involve no additives. Only indigenous yeast, no sulfur nor enzymes, no temperature control, no fining and no filtration.
+
+In the early 1990s, his life took a turn when he befriended a small group of Fruili extremists, including [[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Joško Gravner]] and [[barberry:/producers/9d3e931a-6a61-4857-aae8-345f86bdcd75][Stanko Radikon]], well known figures in the world of skin-contact wine. Angiolino limits maceration to no more than 3 days and protects his must from air to avoid Jerez-like oxidation found in more intense orange wines.
+
+#+begin_quote
+Oxidation makes all wines taste the same. You can’t tell if it’s Chardonnay, Garganega or Ribolla.
+#+end_quote
+
+This period was financially painful. Just like with Josko Gravner's wine, orders of his wine plummeted. And the same 1997 got devastating scores. Angiolino contemplated a return to his pizzaiolo job because he needed to feed his family. But luckily, a Japanese importer who admired his efforts committed to buying all the wine Maule could make, allowing him to continue.
+
+#+begin_quote
+We all made wines with defects. They pleased extremist drinkers - not everyone.
+#+end_quote
+
+And today, Angiolino even works with Franco Giacosa, a retired enologist from Zonin, a giant producer that owns multiple estates around Italy. Franco Giacosa became intrigued with the challenge of making good wines with no additives. He even told Angiolino Maule: "You're a great viticulturist, but you're an awful winemaker."
+
 ** Ratings
-:PROPERTIES:
-:ID:                     ec464be9-0ab0-4d7a-90bb-edc9720a8f98
-:END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3bc5dec6-eae8-4fd6-8731-d726947aad66.html">
+    <img class="flex-bottle" src="/images/3b/c5dec6-eae8-4fd6-8731-d726947aad66/2021-07-23-07-51-53-IMG-2660.webp"></img>
+    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h text-bolder">Garg'n'go - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9c70888b-36fa-4db1-b07f-6522771d81ec.html">
+    <img class="flex-bottle" src="/images/9c/70888b-36fa-4db1-b07f-6522771d81ec/2021-04-04-12-20-41-E7AA4263-EF68-406F-88C4-5D03E7DB1B9D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h text-bolder">Masieri - 2019</section>
+  </a>
+
+</div>
+#+end_export

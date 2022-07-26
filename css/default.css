@@ -388,6 +388,11 @@ article .img-float-right {
   }
 }
 
+figure {
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
 figcaption {
   color: var(--faded);
   font-size: var(--small-size);
