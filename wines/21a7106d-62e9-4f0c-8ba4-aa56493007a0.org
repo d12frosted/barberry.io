@@ -1,0 +1,39 @@
+#+attr_html: :class wine-main-image
+[[file:/images/21/a7106d-62e9-4f0c-8ba4-aa56493007a0/2022-07-27-07-15-36-87E5164E-6FA4-48B8-84DA-C68E96BAE06B-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/17e44f24-dcf0-4ad7-8782-c6b105db8554][Cinque Segni]]
+- Vintage :: 2020
+- Location :: Italy, Sicilia DOC
+- Grapes :: Grillo
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 547 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-07-26 - ☆ 7.25
+
+In my experience, atypical Grillo. Lots of green notes, like grass, lime, and green apricot. With time it opens up with some tropical notes, like passion fruit and melon. Bright acidity. It lacks balance and completeness. The palate is split into two parts. We can talk about evolution, which is present here, but in this case, it acts more like a bridge between these two parts.
+
+By the way, the clover on the label is ceramic. In case you wondered. Now you do, right?
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Els Vinyerons</section>
+    <section class="h text-bolder">Lluerna - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d45fd10b-9166-4551-a8be-0c295c96879c.html">
+    <img class="flex-bottle" src="/images/d4/5fd10b-9166-4551-a8be-0c295c96879c/2022-07-26-14-47-32-03953F74-2153-4C43-883B-C43C04E93DBC-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Francesco Boschis</section>
+    <section class="h text-bolder">Dogliani Vigne in Pianezzo - 2016</section>
+  </a>
+
+</div>
+#+end_export

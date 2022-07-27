@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/acb75785-ee20-419a-a21a-540f51157670.html">
+    <img class="flex-bottle" src="/images/ac/b75785-ee20-419a-a21a-540f51157670/2022-07-26-12-34-08-5264355E-3080-494E-BE69-E38268F7C4A8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Valtellina Superiore Valgella Riserva Carteria - 2014</section>
+  </a>
+
+</div>
+#+end_export

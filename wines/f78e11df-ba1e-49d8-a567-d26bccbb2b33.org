@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     85579080-9cf3-4c63-88ea-e3a35ba7adc9
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c.webp]]
 
@@ -17,9 +14,6 @@
 Pinot Noir vines were planted in 1971 in heavy, iron-rich clay soils with chalky limestone sub-soils. Hand-harvested, the clusters destemmed and the grapes gently pressed; the juice is fermented spontaneously and slowly (up to 6 months) with natural yeasts in mainly-used Burgundy barrels. Reserve wines are held in foudres and tonneaux. The wine is bottled without fining or filtering and aged on lees for 36 months.
 
 ** Producer
-:PROPERTIES:
-:ID:                     5f08e3a9-0ee3-4b05-b489-b8d27fff4a0b
-:END:
 
 Ulysse Collin is a legendary Champagne producer based in Congy. Owned by the family that actively growth vines since 1812 in Coteaux du Petit Morin (located in Marne but south of the Grand Crus in the Côte des Blancs). These days Olivier stands behind the name.
 
@@ -45,23 +39,14 @@ So far produces 6 distinct wines (each one from a singe vineyard):
 - Jardin d’Ulysse (first vintage is 015)
 
 ** Ratings
-:PROPERTIES:
-:ID:                     de65a365-4232-42de-bc25-f10798baa694
-:END:
 
 *** 2022-07-15 - ☆ 9.00
-:PROPERTIES:
-:ID:                     d1cf0d78-296b-48e8-a1b1-d0704fc7ec3c
-:END:
 
 Based on the 2017 Pinot Noir, it spent 32 months on the lees. A sophisticated and expressive bouquet full of cheese, apple seeds, honey, graphite, and red apple jam with Jerez notes. Elegant, precise, delicious and almost perfectly balanced. Good to drink it now. Incredible.
 
 Disgorged on 03/2021.
 
 ** Related
-:PROPERTIES:
-:ID:                     6574cfe4-4369-4db4-80ed-63bbc009b354
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -110,7 +95,7 @@ Disgorged on 03/2021.
   <a class="flex-item flex-item-right" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
     <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
-    <section class="h text-bolder">Bland de Blancs - 2017</section>
+    <section class="h text-bolder">Blanc de Blancs - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     b520ff2c-3257-45f5-85cc-30929862b030
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     2b86110b-35df-435c-8d91-25c4211fd79b
-:END:
 
 *** 2022-07-15 - ☆ 8.50
-:PROPERTIES:
-:ID:                     b50654c7-9e8c-46e7-bbe8-faa2a903bac8
-:END:
 
 It's not a secret that I love this winery. So you can imagine how happy I am to taste one more beautiful traditional sparkling crafted by Cà del Vént. Just like Lassaigne wines, it has some notes of pickles, but in this case - pickled apples. Some of them are not pickled but baked. Brioche, almond, white flowers, yeast. I love this expressive yet sincere and well-balanced style.
 
 ** Related
-:PROPERTIES:
-:ID:                     b39771b9-935f-4905-af57-73167c10eb25
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -59,7 +47,7 @@ It's not a secret that I love this winery. So you can imagine how happy I am to 
   <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
     <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
-    <section class="h text-bolder">Bland de Blancs - 2017</section>
+    <section class="h text-bolder">Blanc de Blancs - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">

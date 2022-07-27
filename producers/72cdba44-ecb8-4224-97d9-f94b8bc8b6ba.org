@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">
+    <img class="flex-bottle" src="/images/c6/b93312-f08f-408b-a355-0c821664eb1e/2022-07-26-11-46-04-5F32B2DD-2202-48BC-B916-DBC1444D1C48-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Piezas #4 Malvasia Seco - 2018</section>
+  </a>
+
+</div>
+#+end_export

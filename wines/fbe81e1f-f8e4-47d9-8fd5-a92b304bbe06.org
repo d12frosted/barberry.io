@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     ed671b45-5eeb-40e5-999d-c1e517af3559
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/fb/e81e1f-f8e4-47d9-8fd5-a92b304bbe06/2022-07-16-18-25-36-F279F856-C3AC-4068-934A-638C352B5BB4-1-201-a.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     a2acc45e-e031-404a-b19a-2c77f1957df0
-:END:
 
 *** 2022-07-15 - ☆ 7.40
-:PROPERTIES:
-:ID:                     903c8437-6621-48b8-8562-6ea004e499d7
-:END:
 
 A prosecco made in the traditional method without dosage. Sounds interesting! Result? Not so interesting. Flabby and shy. Flowers meet bread. Sour baked apple. Neat salty finish. That's it.
 
 ** Related
-:PROPERTIES:
-:ID:                     a7d52a80-0594-45b7-8d9a-0bb3d7c4fab7
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -48,7 +36,7 @@ A prosecco made in the traditional method without dosage. Sounds interesting! Re
   <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
     <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
-    <section class="h text-bolder">Bland de Blancs - 2017</section>
+    <section class="h text-bolder">Blanc de Blancs - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">

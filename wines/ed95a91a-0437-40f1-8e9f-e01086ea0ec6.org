@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     2294c7f3-3b52-428b-a054-a0744e7665fc
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp]]
 
@@ -15,37 +12,22 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     52385377-972a-41e0-83ed-433cb5bb92ed
-:END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     65fcb73b-4fc0-4668-96e3-b1339fc6a89c
-:END:
 
 *** 2021-08-17 - ☆ 7.50
-:PROPERTIES:
-:ID:                     2abc608b-7435-4d8d-a4c0-a6951fdd6f9f
-:END:
 
 Unexpected! Buns filled with pear jam, pomelo. Not complex, but tasty traditional method sparkling from Moravia. Interesting aftertaste of slightly rotten fruits and red berries.
 
 Tasted as part of Divych Vechir.
 
 *** 2022-07-15 - ☆ 7.50
-:PROPERTIES:
-:ID:                     c3df0acd-242a-45dc-b3f0-2036f8dcbd1e
-:END:
 
 Apparently, it spent in contact with the skin longer than expected. Which resulted in a rosé gold colour and barely noticeable red berries aromas. Despite 10 months on lees, strong yeasty notes (think of bread). Slightly rotten apple, pomelo jam, and peach. Good acidity, long aftertaste with some evolution and bitter finish. Nice.
 
 ** Related
-:PROPERTIES:
-:ID:                     a14adf40-087a-447c-8423-8f841dc24bb9
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -86,7 +68,7 @@ Apparently, it spent in contact with the skin longer than expected. Which result
   <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
     <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
-    <section class="h text-bolder">Bland de Blancs - 2017</section>
+    <section class="h text-bolder">Blanc de Blancs - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">

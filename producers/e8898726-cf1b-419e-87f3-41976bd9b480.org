@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">
+    <img class="flex-bottle" src="/images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">El Chibirique - 2017</section>
+  </a>
+
+</div>
+#+end_export

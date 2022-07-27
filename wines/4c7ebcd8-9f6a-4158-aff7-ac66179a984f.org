@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     50f82ce6-aab9-4e43-bf14-eeb16313ca6c
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     c71defce-010f-49ca-be9a-2ca9e153ca43
-:END:
 
 Guillaume d'Angerville, current owner of famous Le Domaine Marquis d'Angerville from Bourgogne, decided to create a new project in Jura after tasting a single bottle - Tissot’s Chardonnay Arbois Les Bruyères 2005.
 
@@ -28,26 +22,29 @@ Guillaume d’Angerville
 #+end_quote
 
 ** Ratings
-:PROPERTIES:
-:ID:                     6e160ec2-a555-46be-84e3-17d17bd8efa6
-:END:
 
 *** 2022-07-05 - ☆ 8.50
-:PROPERTIES:
-:ID:                     762e21ed-06a2-4cdc-8519-4ff81d162b15
-:END:
 
 Complex and multilayered Savagning in a clean (e.g. no flor) style. Ouillé! Fried sunflower seeds, lemon peel, sesame, honey, used leaves of aged Bái Mǔ Dān. And what an incredible acidity despite its age. Almost perfect balance, long aftertaste, vigorous and flavourful. Great wine, yet hard to appreciate on a blind tasting. Something I would love to buy and taste again in five or ten years.
 
 Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
-:PROPERTIES:
-:ID:                     35e80a28-e580-48e6-8137-fd50aab11527
-:END:
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4b3b5ce1-1779-425e-850b-d44e9f199db5.html">
+    <img class="flex-bottle" src="/images/4b/3b5ce1-1779-425e-850b-d44e9f199db5/2022-07-26-12-17-11-A950DABF-E644-40DA-83F3-4B1BD1ACDD56-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Domaine du Pélican</section>
+    <section class="h text-bolder">Trois Cépages - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e761d104-5798-43f7-9d5d-cbf763d587a5.html">
+    <img class="flex-bottle" src="/images/e7/61d104-5798-43f7-9d5d-cbf763d587a5/2022-07-26-12-16-09-20D7DD02-2D4F-4876-AC4D-D549069CFFDA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Domaine du Pélican</section>
+    <section class="h text-bolder">Poulsard - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
     <img class="flex-bottle" src="/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Éric Chevalier</section>

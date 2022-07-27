@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     19b4f4c7-be01-4bbe-9614-a89e38fe1ea2
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp]]
 
@@ -15,24 +12,27 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     10c3348c-e216-47df-941c-1463781deb30
-:END:
 
 *** 2021-07-19 - ☆ 8.80
-:PROPERTIES:
-:ID:                     580fd0eb-45dd-4ab0-9e16-08084947b690
-:END:
 
 Tasted blind. Beeswax, green apple, tilia and honey. After some time it becomes magnificent, bouquet enriches by honeysuckle and amber with some musk notes. Energetic, crisp and well balanced with high acidity. Lovely long aftertaste that evolves over time. It was the most interesting wine of the evening, no wonder it was named favourite by most of the people.
 
 ** Related
-:PROPERTIES:
-:ID:                     48175c3f-9dd1-4ca3-b731-57e88c49e352
-:END:
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">
+    <img class="flex-bottle" src="/images/6f/b68166-b9cb-464d-b0c0-97bf8f98cadb/2022-07-26-11-50-49-14820544-4EE6-4445-8B7B-8608A90A9B8C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Piu Piu Petnat Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/feae6677-5c09-4730-9a13-d96d7cb102cd.html">
+    <img class="flex-bottle" src="/images/fe/ae6677-5c09-4730-9a13-d96d7cb102cd/2021-06-27-10-05-21-78AC0732-9A01-4EE9-94AF-25BCB61359B2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Piu Piu Petnat - NV</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
     <img class="flex-bottle" src="/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>

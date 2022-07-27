@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">
+    <img class="flex-bottle" src="/images/2a/ec674b-19ba-4cc6-8337-6ca900703aa9/2022-07-26-11-55-59-B05B77CC-963A-4BE0-9F0B-EE0302AE53AD-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h text-bolder">Santorini - 2020</section>
+  </a>
+
+</div>
+#+end_export

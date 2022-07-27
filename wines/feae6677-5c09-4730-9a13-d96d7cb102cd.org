@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/fe/ae6677-5c09-4730-9a13-d96d7cb102cd/2021-06-27-10-05-21-78AC0732-9A01-4EE9-94AF-25BCB61359B2-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/aad9deac-2c65-40fd-bbca-79468226b673][Fio Wein]]
+- Vintage :: NV
+- Location :: Germany, Deutscher Wein
+- Grapes :: Riesling
+- Alcohol :: 11.5
+- Sugar :: NA
+- Price :: 630 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-06-26 - ☆ 7.25
+
+You don't expect much from petnats, and when it's summer, you just take a bottle as a refreshment. This one is not unique, simple and refreshing petnat. Green apple, cider, flint, yeast.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <img class="flex-bottle" src="/images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">
+    <img class="flex-bottle" src="/images/6f/b68166-b9cb-464d-b0c0-97bf8f98cadb/2022-07-26-11-50-49-14820544-4EE6-4445-8B7B-8608A90A9B8C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h text-bolder">Piu Piu Petnat Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+    <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp"></img>
+    <section class="h text-small text-lighter">Loimer</section>
+    <section class="h text-bolder">Gluegglich Glückliches - NV</section>
+  </a>
+
+</div>
+#+end_export
