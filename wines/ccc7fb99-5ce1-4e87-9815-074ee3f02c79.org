@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/cc/c7fb99-5ce1-4e87-9815-074ee3f02c79/2021-10-08-10-59-59-4B82BAA7-CBC8-469D-BB09-3F59A32B9069-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/e463ddb4-d593-4913-80e1-b841330d4cf6][Wasenhaus]]
+- Vintage :: 2019
+- Location :: Germany, Badischer Landwein
+- Grapes :: Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 0
+- Price :: 1150 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-10-05 - ☆ 8.00
+
+Great wine with potential, alas today it is still too young both in nose and on the palate. Regardless, Vulkan is sophisticated with notes of wild strawberries, pickles, violets and underbrush. Juicy, quaffable and highly enjoyable. Good classic style with delicate funky touch.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/21d131ca-0b4c-4cb1-bbcb-a014bb3f4517.html">
+    <img class="flex-bottle" src="/images/21/d131ca-0b4c-4cb1-bbcb-a014bb3f4517/2020-09-27-13-35-07-C7D18D38-CD30-4A79-BE4C-22424514C902-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Gutedel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/337a2bed-7c43-4f41-bfce-795d19f52a72.html">
+    <img class="flex-bottle" src="/images/33/7a2bed-7c43-4f41-bfce-795d19f52a72/2022-07-28-07-11-29-IMG-1035.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Spätburgunder - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8467ead0-fee2-4ba7-8472-26432a6a8958.html">
+    <img class="flex-bottle" src="/images/84/67ead0-fee2-4ba7-8472-26432a6a8958/2022-07-28-07-13-39-FADAD61B-FE27-4FEF-94A4-BDB625116221-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Vulkan - 2020</section>
+  </a>
+
+</div>
+#+end_export

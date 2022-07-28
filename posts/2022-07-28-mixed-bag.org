@@ -40,13 +40,13 @@ Our journey today is a circle. We head off Basket Range only to come back to Bas
 #+results: summary
 |   |  amean |   sdev | favourite | outcast |   price |      QPR |
 |---+--------+--------+-----------+---------+---------+----------|
-| 1 |   3.55 | 0.0916 |      1.00 |  +3.00+ |  776.00 |   1.5970 |
-| 2 |   3.66 | 0.2605 |      1.00 |    2.00 | 1150.00 |   1.2737 |
-| 3 |   3.74 | 0.2369 |      1.00 |    2.00 | 1591.00 |   1.0221 |
-| 4 | *4.09* | 0.2328 |    *5.00* |    0.00 | 1185.00 |   2.3086 |
-| 5 |   3.88 | 0.1860 |      0.00 |    0.00 | 1112.00 |   1.7946 |
-| 6 |   3.65 | 0.2079 |      1.00 |  +3.00+ |  603.00 |   2.3978 |
-| 7 |   4.04 | 0.2005 |      2.00 |    0.00 |  825.00 | *3.0733* |
+| 1 |   3.55 | 0.0916 |      1.00 |  +3.00+ |  946.00 |   1.3100 |
+| 2 |   3.66 | 0.2605 |      1.00 |    2.00 | 1185.00 |   1.2361 |
+| 3 |   3.74 | 0.2369 |      1.00 |    2.00 | 1600.00 |   1.0164 |
+| 4 | *4.09* | 0.2328 |    *5.00* |    0.00 |  690.00 | *3.9647* |
+| 5 |   3.88 | 0.1860 |      0.00 |    0.00 | 1150.00 |   1.7353 |
+| 6 |   3.65 | 0.2079 |      1.00 |  +3.00+ | 1150.00 |   1.2573 |
+| 7 |   4.04 | 0.2005 |      2.00 |    0.00 | 1400.00 |   1.8111 |
 
 How to read this table:
 
@@ -258,7 +258,7 @@ Gareth
 
 Their original Scary Gully vineyard is gone, but Gentle Folks managed to lease the 1.1 ha Cottell Family Vineyard. So this Sauvignon Blanc comes from a block sitting on schist, southwest facing (cold) at 620m and at 32 years of age on its own roots.
 
-Grapes are manually harvested, ferment is whole clusters. Half of the grapes undergo carbonic maceration for four days to two weeks. The other half direct pressed. The wine is fermented with ambient yeasts and left on skins for between two and six weeks before pressing into 500 litre used puncheons. Full malo occurs in the barrels. The wine is bottled without filtration or fining.
+Grapes are manually harvested, fermented in whole clusters. Half of the grapes undergo carbonic maceration for four days to two weeks. The other half direct pressed. The wine is fermented with ambient yeasts and left on skins for between two and six weeks before pressing into 500 litre used puncheons. Full malo occurs in the barrels. The wine is bottled without filtration or fining.
 
 * Conclusions
 :PROPERTIES:

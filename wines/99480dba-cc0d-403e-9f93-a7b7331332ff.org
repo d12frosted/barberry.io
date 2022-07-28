@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     0bdc8ac5-7ef7-4afc-942f-2eed543bc8dc
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/99/480dba-cc0d-403e-9f93-a7b7331332ff/2021-06-02-10-56-53-4A356E56-AEBB-414E-AF60-822D7BFF96B4-1-105-c.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     1fca7df8-14e2-467c-a172-c34d3805d2b0
-:END:
 
 *** 2021-08-14 - ☆ 8.50
-:PROPERTIES:
-:ID:                     a92c1177-2ed4-449c-8586-2d6d2b9b0a22
-:END:
 
 Beautiful and delicate bouquet. Cherry, cranberry, strawberry, red flowers with some chocolate and earthy hints. Silky, balanced, nuanced and sexy. Very young, would love to drink it again in few years. Unlike many other 2018 wines of this region, it is not overripe. So far, Rossignol-Trapet is one of my favourite domains from Côte d'Or.
 
 ** Related
-:PROPERTIES:
-:ID:                     1f358e7f-c3e9-4ac6-84c8-ff7220c75789
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -73,6 +61,12 @@ Beautiful and delicate bouquet. Cherry, cranberry, strawberry, red flowers with 
     <img class="flex-bottle" src="/images/da/0ee939-d923-44f2-9aac-6c0dfa831964/2022-01-13-09-38-59-ED486F76-0CE5-42A7-BC12-15198E1C98B9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/21d131ca-0b4c-4cb1-bbcb-a014bb3f4517.html">
+    <img class="flex-bottle" src="/images/21/d131ca-0b4c-4cb1-bbcb-a014bb3f4517/2020-09-27-13-35-07-C7D18D38-CD30-4A79-BE4C-22424514C902-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Gutedel - 2019</section>
   </a>
 
 </div>
