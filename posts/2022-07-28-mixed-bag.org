@@ -12,6 +12,7 @@ Our journey today is a circle. We head off Basket Range only to come back to Bas
 5. [[barberry:/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d][La Stoppa Ageno 2018]]
 6. [[barberry:/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd][La Stoppa Ageno 2019]]
 7. [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Gentle Folk Summertown blanc 2019]]
+8. (extra) [[barberry:/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a][Ktima Ligas Spira 2019]]
 
 * Scores
 :PROPERTIES:
@@ -21,32 +22,33 @@ Our journey today is a circle. We head off Basket Range only to come back to Bas
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|           | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-----------+---------+---------+---------+---------+---------+---------+---------|
-| Tetiana S |    3.50 |    3.00 |    3.20 |  *3.70* |    3.80 |    3.50 |    3.30 |
-| Dmytro S  |    3.80 |    3.10 |    3.30 |  *4.30* |    3.80 |  +2.90+ |    3.60 |
-| Mariia S  |    3.60 |    3.70 |  +3.30+ |    4.10 |    3.80 |    3.50 |  *4.30* |
-| Andrii S  |    3.60 |    3.90 |  +3.60+ |  *4.30* |    3.80 |    4.10 |    4.30 |
-| Maksym K  |    3.90 |  +3.40+ |    4.50 |    2.95 |    2.94 |    3.90 |  *4.60* |
-| Elvira K  |    3.50 |    3.60 |    3.90 |  *4.70* |    4.00 |  +3.00+ |    4.20 |
-| Ivietta K |  +3.00+ |    4.80 |    4.60 |    4.20 |    4.80 |  *4.50* |    3.20 |
-| Dmytro D  |  +3.50+ |  *4.00* |    3.80 |    3.80 |    3.50 |    4.00 |    4.00 |
-| Artem O   |    3.00 |    3.80 |    3.20 |  *4.80* |    4.20 |  +3.70+ |    4.50 |
-| Sofiia B  |  *4.00* |  +3.00+ |    3.50 |    3.90 |    4.00 |    3.30 |    4.30 |
-| Boris B   |  +3.60+ |    4.00 |  *4.20* |    4.20 |    4.00 |    3.80 |    4.10 |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Andrii S    |  +3.50+ |  *4.20* |    4.35 |    4.20 |    4.30 |    3.80 |    4.00 |    4.20 |
+| Viktoria    |    4.00 |  +3.80+ |  *4.50* |    3.70 |    4.60 |    3.30 |    4.00 |    4.40 |
+| Tetiana     |  *4.30* |    4.30 |    4.00 |  +2.00+ |    4.00 |    3.40 |    3.50 |    4.40 |
+| Dmytro      |    4.20 |    4.10 |    3.90 |  +3.40+ |  *4.40* |    3.60 |    4.10 |    4.60 |
+| Elvira      |    3.70 |    4.30 |  *4.40* |    3.90 |    4.50 |    4.00 |  +3.50+ |    4.50 |
+| Oleksandr Y |    3.80 |  *4.20* |    4.00 |  +3.40+ |    4.20 |    3.60 |    3.70 |    4.10 |
+| Oleksandr R |    3.50 |  *3.00* |    4.50 |  +2.30+ |    4.70 |    4.00 |    3.80 |    4.70 |
+| Artem       |    4.00 |  +3.30+ |    3.90 |  *4.00* |    4.50 |    4.40 |    4.20 |       - |
+| Vasyl       |    3.80 |    4.30 |    4.10 |    3.80 |    4.20 |  +3.00+ |  *4.10* |    4.30 |
+| Andrii P    |    4.30 |    3.80 |    4.00 |  +2.00+ |  *4.70* |    4.10 |    3.80 |    4.60 |
+| Boris B     |    3.80 |    4.20 |    4.30 |    4.10 |    4.20 |  +3.70+ |  *4.10* |    4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
 |   |  amean |   sdev | favourite | outcast |   price |      QPR |
 |---+--------+--------+-----------+---------+---------+----------|
-| 1 |   3.55 | 0.0916 |      1.00 |  +3.00+ |  946.00 |   1.3100 |
-| 2 |   3.66 | 0.2605 |      1.00 |    2.00 | 1185.00 |   1.2361 |
-| 3 |   3.74 | 0.2369 |      1.00 |    2.00 | 1600.00 |   1.0164 |
-| 4 | *4.09* | 0.2328 |    *5.00* |    0.00 |  690.00 | *3.9647* |
-| 5 |   3.88 | 0.1860 |      0.00 |    0.00 | 1150.00 |   1.7353 |
-| 6 |   3.65 | 0.2079 |      1.00 |  +3.00+ | 1150.00 |   1.2573 |
-| 7 |   4.04 | 0.2005 |      2.00 |    0.00 | 1400.00 |   1.8111 |
+| 1 |   3.90 | 0.0745 |      1.00 |    1.00 |  946.00 |   2.1847 |
+| 2 |   3.95 | 0.1770 |    *3.00* |    2.00 | 1185.00 |   1.8917 |
+| 3 |   4.18 | 0.0506 |      2.00 |    0.00 | 1600.00 |   1.9658 |
+| 4 |   3.35 | 0.6443 |      1.00 |  +5.00+ |  690.00 |   1.3642 |
+| 5 | *4.39* | 0.0481 |      2.00 |    0.00 | 1150.00 | *3.8225* |
+| 6 |   3.72 | 0.1451 |      0.00 |    2.00 | 1150.00 |   1.3774 |
+| 7 |   3.89 | 0.0554 |      2.00 |    1.00 | 1400.00 |   1.4565 |
+| 8 |   4.38 | 0.0476 |      0.00 |    0.00 | 1290.00 |   3.3491 |
 
 How to read this table:
 
@@ -260,10 +262,45 @@ Their original Scary Gully vineyard is gone, but Gentle Folks managed to lease t
 
 Grapes are manually harvested, fermented in whole clusters. Half of the grapes undergo carbonic maceration for four days to two weeks. The other half direct pressed. The wine is fermented with ambient yeasts and left on skins for between two and six weeks before pressing into 500 litre used puncheons. Full malo occurs in the barrels. The wine is bottled without filtration or fining.
 
+* Ktima Ligas Spira 2019
+:PROPERTIES:
+:ID:                     20c6d44c-cf45-4a09-ac4e-0db9cf5f9949
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-07-28-mixed-bag/2022-07-29-10-06-46-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/985badd4-6e4e-471e-a7f2-f2ec646f1b1a][Ktima Ligas]]
+- name: [[barberry:/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a][Spira]]
+- vintage: 2019 (?)
+- grapes: Xinomavro
+- location: Macedonia, Greece
+- skin contact: 2-6 weeks
+- alcohol: 13.5
+- sugar: 2
+- price: 1290 UAH
+- importer: Wine Bureau
+
+After tasting the story, we demanded more. Luckily, I had several extra bottles with me, so we got a chance to fulfil our desire. Technically, I am a terrible person for bringing a bottle of blanc de noir Xinomavro made in the Solera system to a wine tasting dedicated to skin contact wines. Nevertheless, no one doubted.
+
+What does the Solera system mean? It's a process for wine ageing by fractional blending. Basically, you blend older wines with younger wines to achieve specific 'average' age and consistent (or comparable) quality. In some way, it's a pyramid scheme for wine ageing.
+
+While it's labour intensive, it's easy to understand the basic principle behind the blending procedure.
+
+[[file:/images/2022-07-28-mixed-bag/2022-07-29-10-06-26-solera.webp]]
+
+We start from the bottom of this pyramid. Imagine that you already have Solera ready for bottling. You use only a portion of available wine (for example, 25%). You have filled bottles, but your Solera barrels are partially empty! Oh my, what to do? Of course, you transfer wine from =#1= line to Solera. But now barrels from =#2= line are partially empty! Oh my, what to do? Of course, you transfer wine from =#2= line to =#1= line. And so on, until you use the freshest wine you have. There is a homework question that I leave for you. What happens with the average age in Solera barrels?
+
 * Conclusions
 :PROPERTIES:
 :ID:                     139fa682-884f-4509-a8a4-4b18754fe56a
 :END:
 
-None yet. The blind tasting is planned for tomorrow.
+It was expected that [[barberry:/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d][Ageno 2018]] is going to be one of the top-rated wines. But listen, not only did the participants guess this wine, but they also noted the craftsmanship behind this wine. Giulio Armani, if you are reading this, you must be happy.
+
+I am sad that [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Tsikhelishvili Wines Alvani Rkatsiteli 2018]] was so controversial, but it makes sense if you consider its rustic nature and raw power. At least one person named it as favourite wine of the evening, which is nice.
+
+It is impossible to put in words my excitement from the event. But just believe me that it was stunning. Even the world of skin contact wines is vast and diverse. And that makes it incredible to look into the eyes of people who taste them blind. And the most important thing for me - everyone found something for them. And this sparks joy :)
+
+See you next time. Safe travels!
 
