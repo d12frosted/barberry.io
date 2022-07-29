@@ -1,18 +1,12 @@
-:PROPERTIES:
-:ID:                     1b12c2e0-7725-4579-9db8-d0da54fa9114
-:END:
 Small producer from Kakhetia. Cultivates Rkatsiteli, Mtsvane and almost extinct Jgia. All wines are hand made. Uses qvevri, of course. Annual production is less than 5000 bottles.
 
 ** Wines
-:PROPERTIES:
-:ID:                     55f8cc37-9ee2-4dc0-b5c4-99d0f5db3547
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
     <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 8.20</section>
     <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
   </a>
 

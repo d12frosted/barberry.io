@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     42d4a5ff-35fb-40f2-93e4-b9696aec8158
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     b7fa117b-a027-4539-8160-cded413d2a7f
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -23,7 +17,7 @@
 
   <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
     <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 8.50</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
   </a>
 

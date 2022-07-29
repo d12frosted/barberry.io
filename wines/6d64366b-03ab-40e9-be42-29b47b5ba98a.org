@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     0fe2114c-1365-4086-b04a-65f02d98fa39
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp]]
 
@@ -12,12 +9,61 @@
 - Alcohol :: 13.5
 - Sugar :: 2
 - Price :: 1135 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     df333f23-12b4-411a-87a2-3ecd41cac943
-:END:
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-07-28 - ☆ 8.20
 
+Easy to confuse with skin contact wine. After Solera wine by Victoria E. Torres Pecis, I was ready to experience it. But it was intriguing to see how other people would react. And they loved it! Blanc de Noirs aged with Solera system. Peach-flavoured ice tea, herbs, citrus, and well-integrated VA. Precise, easy going and juicy. Style I would love to see more on the market.
+
+Wine #8 (extra) on [[barberry:/posts/2022-07-28-mixed-bag][Mixed Bag Vol. 2: Orange]].
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+    <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Grillo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
+    <img class="flex-bottle" src="/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Gentle Folk</section>
+    <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
+    <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h text-bolder">Sassaia - 1997</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+    <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
+    <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
+  </a>
+
+</div>
+#+end_export
