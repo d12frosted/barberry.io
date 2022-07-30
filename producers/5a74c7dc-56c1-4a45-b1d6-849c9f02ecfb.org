@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/918312a7-56b9-4e31-95a0-e5529d7998a2.html">
+    <img class="flex-bottle" src="/images/91/8312a7-56b9-4e31-95a0-e5529d7998a2/2022-07-29-17-04-24-706230EC-D239-4923-B8D9-99D42DD582B4-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h text-bolder">Don Perdigón Pet-Nat - NV</section>
+  </a>
+
+</div>
+#+end_export

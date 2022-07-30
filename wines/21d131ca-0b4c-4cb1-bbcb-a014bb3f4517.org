@@ -43,7 +43,13 @@ Tasting again in almost a year and it makes a critical difference. Still has lot
     <section class="h text-bolder">Vulkan - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/99480dba-cc0d-403e-9f93-a7b7331332ff.html">
+  <a class="flex-item flex-item-right" href="/wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">
+    <img class="flex-bottle" src="/images/f5/0846a9-7384-4585-93e9-9a764ff76e2a/2022-07-30-10-48-32-51C8D344-3930-4C6B-99F0-E9CC849B61F2-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Spätburgunder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/99480dba-cc0d-403e-9f93-a7b7331332ff.html">
     <img class="flex-bottle" src="/images/99/480dba-cc0d-403e-9f93-a7b7331332ff/2021-06-02-10-56-53-4A356E56-AEBB-414E-AF60-822D7BFF96B4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Gevrey-Chambertin Vieilles Vignes - 2018</section>
