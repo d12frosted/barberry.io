@@ -603,8 +603,8 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 
 (cl-defun brb-delete (file)
   "Delete FILE."
+  (delete-file file)
   (let ((meta (concat file ".metadata")))
-    (delete-file file)
     (delete-file meta)))
 
 

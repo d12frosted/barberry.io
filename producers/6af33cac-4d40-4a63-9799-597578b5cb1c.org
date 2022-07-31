@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     fe515848-f85d-45c6-9500-5e23c2f51d48
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     c10ec406-f4fc-40fa-88d9-8f00e009ec68
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -22,7 +16,6 @@
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
-    <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h text-small text-lighter">★ 7.50</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>

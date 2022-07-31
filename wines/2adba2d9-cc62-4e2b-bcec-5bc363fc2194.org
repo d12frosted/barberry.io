@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     7c77622f-3051-4da2-a196-4f8eb022ee7c
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/2a/dba2d9-cc62-4e2b-bcec-5bc363fc2194/2020-11-07-10-05-32-4D059B94-51B5-4A46-95AE-357BE9C7517A-1-105-c.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     e2f821fc-ad79-4d8f-a18c-4b7ce56ae433
-:END:
 
 Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
 
@@ -26,14 +20,8 @@ In the 2015 they bough Bandits Kloof farm in the northern mountains of Swartland
 As they say, 'made from grapes'. And nothing more (except for a tiny bit of sulphites).
 
 ** Ratings
-:PROPERTIES:
-:ID:                     ed04ff54-f4bf-4c5d-9975-a4295fb06167
-:END:
 
 *** 2020-11-06 - ☆ 6.50
-:PROPERTIES:
-:ID:                     2e9a3383-e378-4973-a0e5-17a811e6efe5
-:END:
 
 3.2 Something completely unexpected. Skin contact (10 days) Chenin Blanc from
 Swartland, South Africa. Golden in colour, clean yet closed in nose. Flowers,
@@ -41,9 +29,6 @@ pear, and citrus. Great acidity, though restrained. I need to taste it again
 after it settles down after to road.
 
 ** Related
-:PROPERTIES:
-:ID:                     9a91f105-6909-43ce-828b-5a82a5959abe
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -89,7 +74,13 @@ after it settles down after to road.
     <section class="h text-bolder">El Bandito Skin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
+  <a class="flex-item flex-item-right" href="/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">
+    <img class="flex-bottle" src="/images/d7/faed1b-ff73-4f26-be36-633d6664ecfd/2022-07-31-12-09-30-1E74CDFE-F429-4293-B0E8-140EFDE593A0-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Follow Your Dreams - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
     <img class="flex-bottle" src="/images/fc/88aedd-69c9-4b23-97e0-efa6441bea38/2020-11-07-09-42-23-E7070E5C-0CCA-409E-9CD6-81AE5F257F62-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Costadila</section>
     <section class="h text-bolder">450 slm - 2019</section>
