@@ -1,0 +1,51 @@
+#+attr_html: :class wine-main-image
+[[file:/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
+- Vintage :: 2016
+- Location :: Italy, Etna DOC
+- Grapes :: Nerello Mascalese
+- Alcohol :: 14.5
+- Sugar :: 0.4
+- Price :: 1510 UAH
+- Cellar :: N/A
+
+** Producer
+
+They say that Girolamo Russo was a pianist in the past. Well, maybe he stopped playing music professionally, but I can say that he started to create music in the form of wine.
+
+Etna, Sicily, around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
+
+** Ratings
+
+*** 2021-11-02 - ☆ 9.00
+
+Wonderful Nerello Mascalese! Beautiful and attractive bouquet of jamon, black dried fruits, dried herbs, balsamic notes, tobacco and underbrush. Still energetic, complex and yet friendly. Delicious beauty that would only improve in few coming years.
+
+Tasted as part of Il Pirata event.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2018</section>
+  </a>
+
+</div>
+#+end_export

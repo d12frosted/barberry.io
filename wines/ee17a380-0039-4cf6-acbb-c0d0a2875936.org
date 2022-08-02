@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     fc3a5f01-e13e-4452-ae0e-ce0499b61076
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp]]
 
@@ -15,47 +12,41 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     04568be4-8d6a-4c01-88e3-561ab37ed05e
-:END:
 
 They say that Girolamo Russo was a pianist in the past. Well, maybe he stopped playing music professionally, but I can say that he started to create music in the form of wine.
 
 Etna, Sicily, around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     6405785d-e4dc-4cf3-8662-5d5ddb9d2160
-:END:
 
 *** 2021-07-13 - ☆ 7.25
-:PROPERTIES:
-:ID:                     510a024a-9676-4573-9db9-5542202b3293
-:END:
 
 Girolamo Russo is a producer that I am trying to discover for myself and every wine I taste lacks something to tick for me. Maybe they need to spend more time in bottle, don't know. Rosato is closed and elusive. White flowers, grapefruit, peach and cream. The palate is also creamy with flavours of peach and grapefruit. Overall it's nice, but restrained, so I could not fully enjoy this wine.
 
 *** 2021-08-19 - ☆ 8.00
-:PROPERTIES:
-:ID:                     ea5dfc7d-6c8d-4013-9c99-043731a06252
-:END:
 
 The last time I tasted this wine, I was disappointed. But then I tasted Nerina and it returned my faith in Russo. So now giving one more chance to Rosato. And it's wonderful! Delicate and sophisticated bouquet full of cheese with mold, grass, sea, spices, red currant. Medium+ acidity, well balanced, long aftertaste with flavours of gooseberry, red currant and nice iodine touch.
 
 *** 2022-06-01 - ☆ 8.50
-:PROPERTIES:
-:ID:                     65c1c5eb-68a3-4bd1-83db-10ac397d91af
-:END:
 
 Almost a year has passed since my last tasting of this wine. And it's as great as I remember it. Vivid, delicate and sophisticated. It bursts with notes of cheese, sea, spices, red currant, and cranberry. Almost perfectly balanced, vibrant, with amazing taste evolution behaving like a sea wave. Flavours of red currant, sour cheery, Sicilian orange and iodine. One of my favourite light rosé wines, despite bad first experience.
 
 ** Related
-:PROPERTIES:
-:ID:                     811b7c34-82f3-4030-8583-2ce71de37a0d
-:END:
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
     <img class="flex-bottle" src="/images/0a/942613-bbc6-4a56-a00b-c156bca2d4aa/2021-07-14-08-46-04-F0B2CA52-DA84-4739-8C7F-233801D8B6E7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos Cibonne</section>

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     e1f61957-a4d1-462d-82bc-498d2c7f19cb
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp]]
 
@@ -11,28 +8,23 @@
 - Grapes :: Sauvignon Blanc, Welschriesling, Pinot Blanc
 - Alcohol :: 12
 - Sugar :: 1.2
-- Price :: 475 UAH
+- Price :: 1100 UAH, 475 UAH
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     84a5eac2-d972-48c4-8f0a-26a5f5d9b503
-:END:
 
 *** 2021-07-16 - ☆ 7.50
-:PROPERTIES:
-:ID:                     a058738d-dcfa-49e3-b452-dc66d1249060
-:END:
 
-The first thing you notice is the glass cork. But then you forget
-about it, because Tement Blanc is delicious and drinkable. Restrained,
-but pleasant bouquet of honeydew, green apple, grapefruit and
-chamomile. Crisp and fresh.
+The first thing you notice is the glass cork. But then you forget about it, because Tement Blanc is delicious and drinkable. Restrained, but pleasant bouquet of honeydew, green apple, grapefruit and chamomile. Crisp and fresh.
+
+*** 2022-08-01 - ☆ 7.50
+
+Restrained bouquet mixing tropical fruits, citrus and flowers. Specifics? Honeydew, grapefruit and chamomile. Ah, and a green apple staying behind the corner. Crisp, fresh, but slightly dull.
+
+#+attr_html: :class img-half
+[[file:/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2022-08-02-08-56-52-80F0BD47-131A-4598-9788-B5BBDCAE5665-1-105-c.webp]]
 
 ** Related
-:PROPERTIES:
-:ID:                     fe04df57-6273-43e9-946f-2d3be52b5f3b
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -58,6 +50,12 @@ chamomile. Crisp and fresh.
     <img class="flex-bottle" src="/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Tement</section>
     <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
   </a>
 
 </div>

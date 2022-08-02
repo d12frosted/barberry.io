@@ -1,0 +1,57 @@
+#+attr_html: :class wine-main-image
+[[file:/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
+- Vintage :: 2017
+- Location :: Italy, Etna DOC
+- Grapes :: Nerello Mascalese
+- Alcohol :: 14
+- Sugar :: 1.5
+- Price :: 1150 UAH, 759 UAH
+- Cellar :: N/A
+
+** Producer
+
+They say that Girolamo Russo was a pianist in the past. Well, maybe he stopped playing music professionally, but I can say that he started to create music in the form of wine.
+
+Etna, Sicily, around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
+
+** Ratings
+
+*** 2020-05-23 - ☆ 8.00
+
+Giuseppe Russo makes magic with Nerello Mascalese on the slopes of mount Etna. I've opened my evening with this wine and I was happy about it. Red fruit, clove and flowers, hints of burnt oak. Delicate.
+
+*** 2021-01-02 - ☆ 8.00
+
+I am ready to drink Sicilian wines every day. Sour cherry, cherry nut, black pepper, thyme, cinnamon. Not simple, but still friendly Nerello Mascalese by Girolamo Russo. Perfectly balanced and well structured. Flavours of bruised cherry.
+
+*** 2022-08-01 - ☆ 8.00
+
+The last time I tasted this wine was more than 18 months ago. It became so much about jam, dried herbs, cloves, and other spices. And while in the nose there are few primary aromas, the palate still displays some fading youth in the form of grippy tannin and acidity. Delicious and sophisticated. However, it feels like you need to drink it over next year.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
+    <img class="flex-bottle" src="/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h text-bolder">Blanc - 2020</section>
+  </a>
+
+</div>
+#+end_export
