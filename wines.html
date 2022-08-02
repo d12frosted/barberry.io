@@ -1,0 +1,3477 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Wines">
+    <meta property="og:title" content="Barberry Garden" />
+    <meta property="og:description" content="Wines" />
+    <meta property="og:image" content="https://barberry.io/images/vino-logo.png" />
+    <meta property="og:url" content="https://barberry.io/wines.html" />
+    <meta property="og:type" content="article" />
+    <title>Barberry Garden - Wines</title>
+    <link rel="stylesheet" href="./css/default.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+    <script data-goatcounter="https://barberry.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="./">Barberry Garden</a>
+      </div>
+      <nav>
+        <a href="./posts.html">Posts</a>
+        <a href="./wines.html">Wines</a>
+        <a href="./reviews.html">Reviews</a>
+        <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'NfhrlI', true)">Subscribe</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <h1>Wines</h1>
+<link href="./library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css" rel="stylesheet">
+<script src="./library/jquery/dist/jquery.min.js"></script>
+<script src="./library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="./library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
+<script>
+function ratingSorter(a, b) {
+  const aa = a == '-' ? 0 : parseFloat(a);
+  const bb = b == '-' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function htmlSorter(a, b) {
+  return strSorter($(a).text(), $(b).text())
+}
+
+function strSorter(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
+}
+      </script>
+<div class="table-container">
+<table data-toggle="table" data-search="true" data-show-columns="true" data-show-columns-toggle-all="true" data-pagination="false" data-search-accent-neutralise="true" data-trim-on-search="false" data-search-highlight="true" class="wines-table">
+<thead>
+<tr class="header">
+<th data-sortable="true" data-field="county" data-sorter="strSorter">county</th>
+<th data-sortable="true" data-field="producer" data-sorter="htmlSorter">producer</th>
+<th data-sortable="true" data-field="name" data-sorter="htmlSorter">name</th>
+<th data-sortable="true" data-field="vintage" data-sorter="strSorter">vintage</th>
+<th data-sortable="true" data-field="grapes" data-sorter="strSorter">grapes</th>
+<th data-sortable="true" data-field="rate" data-sorter="ratingSorter">rate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/82fbe7e3-ad38-43d9-97ff-3a61452d5892.html">Adegas Guimaro</a></td>
+<td><a href="./wines/bcbf8abd-faff-4a86-a1a6-afae3ff1ace9.html">Camiño Real</a></td>
+<td>2017</td>
+<td>Brancellao, Mencía, Trousseau, Caiño</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/5a74c7dc-56c1-4a45-b1d6-849c9f02ecfb.html">Alfredo Maestro</a></td>
+<td><a href="./wines/918312a7-56b9-4e31-95a0-e5529d7998a2.html">Don Perdigón Pet-Nat</a></td>
+<td>NV</td>
+<td>Pinot Noir, Alicante Henri Bouschet</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8.html">Andre et Mireille Tissot</a></td>
+<td><a href="./wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">Arbois Vin Jaune Les Bruyeres</a></td>
+<td>2012</td>
+<td>Savagnin</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8.html">Andre et Mireille Tissot</a></td>
+<td><a href="./wines/f201f266-399a-4818-be01-3987e9280388.html">Singulier Trousseau</a></td>
+<td>2017</td>
+<td>Trousseau</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/5f49c6c1-3ce2-484a-96a4-cf48058e1f68.html">Arces</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/1357c3ce-cad1-4f2d-8473-4e05fd524a29.html">J’en veux encore !!!</a></td>
+<td>2019</td>
+<td>Gamay, Trousseau</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb.html">La Bubulle à Jeannot</a></td>
+<td>NV</td>
+<td>Gamay, Poulsard</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/2e22de49-4153-4f46-bef2-7806cd612810.html">La Graviere</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">Le Jaja du Fred</a></td>
+<td>2019</td>
+<td>Gamay, Grenache</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">Les Miracules</a></td>
+<td>2017</td>
+<td>Chardonnay</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6.html">Anne et J.F. Ganevat</a></td>
+<td><a href="./wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">Poulprix</a></td>
+<td>2018</td>
+<td>Enfariné Noir, Gamay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/429ad446-96ad-4005-8306-85656d7e2f6d.html">Bombolieri BB</a></td>
+<td>2016</td>
+<td>Frappato</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">Bombolieri BB</a></td>
+<td>2017</td>
+<td>Frappato</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">Fossa di Lupo FL</a></td>
+<td>2017</td>
+<td>Frappato</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/3f9bfb82-e694-43d5-80b1-11d91ac107e9.html">Grotte Alte</a></td>
+<td>2014</td>
+<td>Frappato, Nero d’Avola</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">Il Frappato</a></td>
+<td>2018</td>
+<td>Frappato</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">Pettineo PT</a></td>
+<td>2017</td>
+<td>Frappato</td>
+<td>8.75</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/06266426-66eb-463f-a4bc-3fd38f6e2543.html">SP68 Bianco</a></td>
+<td>2015</td>
+<td>Zibibbo, Albanello</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">SP68 Bianco</a></td>
+<td>2019</td>
+<td>Zibibbo, Albanella</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">SP68 Bianco</a></td>
+<td>2020</td>
+<td>Zibibbo, Albanello</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">SP68 Rosso</a></td>
+<td>2014</td>
+<td>Frappato, Nero d’Avola</td>
+<td>7.80</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">SP68 Rosso</a></td>
+<td>2019</td>
+<td>Frappato, Nero d’Avola</td>
+<td>7.69</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">Siccagno</a></td>
+<td>2015</td>
+<td>Nero d’Avola</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">Siccagno</a></td>
+<td>2017</td>
+<td>Nero d’Avola</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="./wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">Vino di Contrada SM</a></td>
+<td>2020</td>
+<td>Grillo</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/d94c2c51-81ef-4bd5-be56-6a28f19a8f2a.html">Bach</a></td>
+<td><a href="./wines/39d4f69e-1397-4e09-9577-48aa088f8dbe.html">Cava Gran Brut</a></td>
+<td>NV</td>
+<td>Macabeo, Xarel-lo, Parellada, Chardonnay</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/d94c2c51-81ef-4bd5-be56-6a28f19a8f2a.html">Bach</a></td>
+<td><a href="./wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">Extrísimo Brut</a></td>
+<td>NV</td>
+<td>Parellada, Xarel-lo, Macabeo</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/144fb467-3912-4fe2-8d07-d6077ce2dad0.html">Barberani</a></td>
+<td><a href="./wines/deba8d55-585b-464c-8b45-e2b97702d33f.html">Foresco</a></td>
+<td>2019</td>
+<td>Sangiovese, Merlot, Cabernet Sauvignon</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/39321d2b-1842-42d5-be3a-4a4edd3322de.html">Barton &amp; Guestier</a></td>
+<td><a href="./wines/1158f9e0-3925-40bc-976a-91337cfd8031.html">Chardonnay Réserve</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>5.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/baa19b82-af3c-4551-a6ab-58aa26301e51.html">Bel Colle</a></td>
+<td><a href="./wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">Verduno Pelaverga</a></td>
+<td>2020</td>
+<td>Pelaverga Piccolo</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Hungary</td>
+<td><a href="./producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee.html">Bencze</a></td>
+<td><a href="./wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">Virgo</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a216dc89-bf4f-4215-937f-73c3b1de5918.html">Benoît Lahaye</a></td>
+<td><a href="./wines/2e729911-2c1c-42fb-a45b-bd5413fffbe7.html">Rosé de Macération Champagne Grand Cru ‘Bouzy’</a></td>
+<td>NV</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/370e3e02-da43-4ea7-a0cc-982b0a104589.html">Bernard Dugat-Py</a></td>
+<td><a href="./wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">Gevrey-Chambertin 1er cru Champeaux</a></td>
+<td>2008</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/2885d4d0-203d-428f-b915-93f64018b112.html">Billecart Salmon</a></td>
+<td><a href="./wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">Brut Reserve</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Chardonnay, Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Argentina</td>
+<td><a href="./producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="./wines/25222939-23da-4fee-99de-28482c8f24e6.html">Appellation Tupungato Chardonnay</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Argentina</td>
+<td><a href="./producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="./wines/3f379a50-e386-49c9-a754-66b068648c81.html">Appellation Tupungato Chardonnay</a></td>
+<td>2020</td>
+<td>Chardonnay</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Argentina</td>
+<td><a href="./producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="./wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">Argentino</a></td>
+<td>2017</td>
+<td>Malbec</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Argentina</td>
+<td><a href="./producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="./wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">Catena Chardonnay</a></td>
+<td>2020</td>
+<td>Chardonnay</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/4b13b8f1-42fa-4963-b20c-6f649224ccf2.html">Bodegas Atalaya</a></td>
+<td><a href="./wines/3b659800-7834-4b86-89ff-76dba23dacd2.html">Laya</a></td>
+<td>2020</td>
+<td>Alicante Henri Bouschet, Monastrell</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/777ece9c-bbad-433b-8401-7deebf3f7f5d.html">Bodegas Borsao</a></td>
+<td><a href="./wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">Tres Picos</a></td>
+<td>2019</td>
+<td>Grenache</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2.html">Borgo Conventi</a></td>
+<td><a href="./wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51.html">Refosco dal Peduncolo Rosso</a></td>
+<td>2019</td>
+<td>Refosco dal Peduncolo Rosso</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/046e3c56-7323-4717-b54d-501d72d4df38.html">Borgo Solè</a></td>
+<td><a href="./wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0.html">Prosecco Brut</a></td>
+<td>NV</td>
+<td>Glera</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/e6ba325c-1910-4711-a487-437df960dce0.html">Bouchard Père et Fils</a></td>
+<td><a href="./wines/52d2c074-e418-43d0-9d99-d0dbeb1e0562.html">La Vignée Bourgogne Chardonnay</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1.html">Brancott Estate</a></td>
+<td><a href="./wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">Letter Series T Pinot Noir</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>New Zealand</td>
+<td><a href="./producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1.html">Brancott Estate</a></td>
+<td><a href="./wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">Pinot Noir</a></td>
+<td>2016</td>
+<td>Pinot Noir</td>
+<td>6.50</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1.html">Brancott Estate</a></td>
+<td><a href="./wines/f163c749-3095-462a-be4c-a809a616f767.html">Sauvignon Blanc</a></td>
+<td>2018</td>
+<td>Sauvignon Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/32bfad32-8fe1-4965-8663-429cc4e76306.html">Brotte S. A.</a></td>
+<td><a href="./wines/2e0fea48-5584-476d-b65d-4fe8e1b5f79c.html">Domaine Grosset Cairanne</a></td>
+<td>2019</td>
+<td>Syrah, Monastrell, Grenache</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/11da3d83-ca4a-4e23-a8f1-e8d1cf395b58.html">Bruno Paillard</a></td>
+<td><a href="./wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">Première Cuvée</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Chardonnay, Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/b9bef468-b428-41b8-a5a0-ecabdb129194.html">Buronfosse</a></td>
+<td><a href="./wines/b49bc925-ac23-44e8-a60a-8603fc977cac.html">Chardonnay Les Ammonites</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/18b6ff64-8c47-4ad7-8c3c-01176de9a865.html">Bérêche &amp; Fils</a></td>
+<td><a href="./wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">Brut Réserve</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Pinot Noir, Chardonnay</td>
+<td>8.22</td>
+</tr>
+<tr class="odd">
+<td>Portugal</td>
+<td><a href="./producers/d333df37-1bf6-4b6f-b48f-4ccf050126cf.html">COZs</a></td>
+<td><a href="./wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">vn-c2 bg</a></td>
+<td>2017</td>
+<td>Baga</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/38510d0a-7ae8-4409-bfbc-a3a5d9552ecf.html">Ca Dei Zago</a></td>
+<td><a href="./wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">Valdobbiadene Metodo Classico Dosaggio Zero</a></td>
+<td>2018</td>
+<td>Glera</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/9577517f-c2d5-4e73-ab30-68ab4619a10e.html">Calcarius</a></td>
+<td><a href="./wines/dd209658-bfc4-4863-a0cb-248673b162c0.html">Bombigiana</a></td>
+<td>2019</td>
+<td>Bombino Bianco</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/e782c2c3-4f80-4f8b-bd8b-a1b01ab8623b.html">Cantina Alchemica</a></td>
+<td><a href="./wines/4252a292-214e-4ee9-a997-3789f8abc431.html">Lanthano Bianco</a></td>
+<td>2013</td>
+<td>Field Blend</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/44a9f4a0-8f9f-4022-814c-360f2150997b.html">Cantina la Salute</a></td>
+<td><a href="./wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html">Sauvignon</a></td>
+<td>NV</td>
+<td>Sauvignon Blanc</td>
+<td>4.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/31385926-6778-424b-b91a-a2560eea4842.html">Casa Coste Piane</a></td>
+<td><a href="./wines/f07b112f-031d-490c-9c51-8af5fab9cede.html">Brichet Frizzante …Naturalmente</a></td>
+<td>NV</td>
+<td>Glera</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00.html">Cascina Bertolotto</a></td>
+<td><a href="./wines/baf18c42-2e67-4108-967a-d540bc105779.html">Spumante Brut Metodo Classico</a></td>
+<td>NV</td>
+<td>Pinot Noir, Chardonnay</td>
+<td>8.10</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62.html">Cascina Degli Ulivi</a></td>
+<td><a href="./wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">Filagnotti</a></td>
+<td>2016</td>
+<td>Cortese</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e.html">Cascina Tavijn</a></td>
+<td><a href="./wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">Bandita</a></td>
+<td>2016</td>
+<td>Barbera</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e.html">Cascina Tavijn</a></td>
+<td><a href="./wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">Bandita</a></td>
+<td>2019</td>
+<td>Barbera</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/97d477ce-5991-410f-9d9b-758c62080c5d.html">Castello dei Rampolla</a></td>
+<td><a href="./wines/4491b2e2-25b3-434a-bcbf-943a1c1eda97.html">Chianti Classico</a></td>
+<td>2018</td>
+<td>Cabernet Sauvignon, Merlot, Sangiovese</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Argentina</td>
+<td><a href="./producers/43f0dd89-0fb5-4f37-b5f9-3ebfc0c9bfa9.html">Chandon</a></td>
+<td><a href="./wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">Argentina Brut</a></td>
+<td>NV</td>
+<td>Chardonnay, Pinot Noir</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/61460d46-6c8d-41f3-ad9a-26fed046f622.html">Chateau Laffitte Carcasset</a></td>
+<td><a href="./wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">Saint-Estephe Cru Bourgeois</a></td>
+<td>2016</td>
+<td>Cabernet Sauvignon, Merlot, Cabernet Franc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/b47de2e7-c45e-4c1a-81e7-7555ace9741e.html">Chateau d’Arsac</a></td>
+<td><a href="./wines/abe4809a-958e-46f3-8b58-5575332beb1e.html">Margaux Cru Bourgeois</a></td>
+<td>2016</td>
+<td>Cabernet Sauvignon, Merlot</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/793833b0-702b-48d5-b0cd-baf3c3dcf1b3.html">Chateau d’Escurac</a></td>
+<td><a href="./wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9.html">Médoc Cru Bourgeois</a></td>
+<td>2011</td>
+<td>Merlot, Cabernet Sauvignon</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/21678ebe-7021-424e-8bbd-1e56fe722414.html">Chivite</a></td>
+<td><a href="./wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">Coleccion 125 Rosado</a></td>
+<td>2006</td>
+<td>Tempranillo</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/21678ebe-7021-424e-8bbd-1e56fe722414.html">Chivite</a></td>
+<td><a href="./wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">Coleccion 125 Rosado</a></td>
+<td>2018</td>
+<td>Tempranillo, Grenache</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/21678ebe-7021-424e-8bbd-1e56fe722414.html">Chivite</a></td>
+<td><a href="./wines/24b39022-f0cf-48da-b842-6a1268c7a2f8.html">Coleccion 125 Tinto Reserva</a></td>
+<td>2014</td>
+<td>Tempranillo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/17e44f24-dcf0-4ad7-8782-c6b105db8554.html">Cinque Segni</a></td>
+<td><a href="./wines/21a7106d-62e9-4f0c-8ba4-aa56493007a0.html">Vigna Pura Grillo</a></td>
+<td>2020</td>
+<td>Grillo</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/55f2f20d-fd2e-4381-9848-8c6547056b7c.html">Clos Cibonne</a></td>
+<td><a href="./wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">Cuvée Prestige Caroline Tibouren Rosé Cru Classé</a></td>
+<td>2018</td>
+<td>Tibouren, Grenache</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>New Zealand</td>
+<td><a href="./producers/c31a826a-e40f-4e98-8e96-f7c0fe1274e1.html">Clos Henri</a></td>
+<td><a href="./wines/3f72d155-544c-4bae-af24-d9a0f4f3f09a.html">Petit Clos Sauvignon Blanc</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1.html">Clos Lentiscus</a></td>
+<td><a href="./wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">Gentleman</a></td>
+<td>2016</td>
+<td>Malvasía de Sitges</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1.html">Clos Lentiscus</a></td>
+<td><a href="./wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">Sumoll Reserva Familia Blanc de Noirs Brut Nature</a></td>
+<td>2017</td>
+<td>Sumoll</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1.html">Clos Lentiscus</a></td>
+<td><a href="./wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">Syrah CRV Rosé Brut Nature</a></td>
+<td>NV</td>
+<td>Syrah</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="./wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">Le Petit Buisson</a></td>
+<td>2018</td>
+<td>Sauvignon Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="./wines/87349342-c0cd-4841-89aa-06d125c4c841.html">Le Petit Buisson</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="./wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">Le Petit Buisson</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="./wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">Vin Blanc</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/038f1c56-9c03-4716-80de-7b9740be0b16.html">Codorníu</a></td>
+<td><a href="./wines/0633a0d6-7466-498e-ae11-e2a1c17165a6.html">Cava Clasico Brut</a></td>
+<td>NV</td>
+<td>Macabeo, Xarel-lo, Parellada</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/038f1c56-9c03-4716-80de-7b9740be0b16.html">Codorníu</a></td>
+<td><a href="./wines/938343b2-010d-4abd-9c14-e5e6f6c88633.html">Cava Clasico Brut Nature</a></td>
+<td>NV</td>
+<td>Macabeo, Xarel-lo, Parellada</td>
+<td>7.30</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99.html">Colin-Morey Pierre-Yves</a></td>
+<td><a href="./wines/d42189bb-d2e7-483f-a342-5c825997921c.html">Saint-Aubin Premier Cru Cuvee Marguerite Blanc</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/68c429e4-a95c-4c9f-ae5a-152d0f691864.html">Colterenzio</a></td>
+<td><a href="./wines/7287f76a-ac95-4832-aedc-a5b0bb26aa17.html">Lagrein Rosе Classic Line</a></td>
+<td>2020</td>
+<td>Lagrein</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/eb753c76-29ab-4f89-b74e-657273987239.html">Comando G</a></td>
+<td><a href="./wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">Rozas 1-er Cru</a></td>
+<td>2018</td>
+<td>Grenache</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>Chile</td>
+<td><a href="./producers/6b682c47-5759-49f0-98d3-b74af0065304.html">Concha y Toro</a></td>
+<td><a href="./wines/ee50b000-a312-4fce-b420-744aaa529116.html">Casillero del Diablo Carmenere Reserva</a></td>
+<td>2019</td>
+<td>Carménère</td>
+<td>5.75</td>
+</tr>
+<tr class="odd">
+<td>Chile</td>
+<td><a href="./producers/6b682c47-5759-49f0-98d3-b74af0065304.html">Concha y Toro</a></td>
+<td><a href="./wines/82ef2f7d-3296-4f4c-83e9-42bd04688e9a.html">Casillero del Diablo Sauvignon Blanc</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8.html">Costadila</a></td>
+<td><a href="./wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">280 slm</a></td>
+<td>2019</td>
+<td>Glera, Verdicchio, Bianchetta Trevigiana</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8.html">Costadila</a></td>
+<td><a href="./wines/445a94bf-3819-4648-aded-091cbabaa8e9.html">330 slm</a></td>
+<td>2019</td>
+<td>Glera</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8.html">Costadila</a></td>
+<td><a href="./wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">450 slm</a></td>
+<td>2019</td>
+<td>Glera, Verdicchio</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8.html">Costadila</a></td>
+<td><a href="./wines/065720da-6456-4df3-9afb-8634b425580e.html">Móz</a></td>
+<td>2019</td>
+<td>Moscato Giallo, Glera</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/8ba4a237-515d-408f-8fa0-db15f9471ca0.html">Costador</a></td>
+<td><a href="./wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">Metamorphika Chenin Blanc</a></td>
+<td>2017</td>
+<td>Chenin Blanc</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>New Zealand</td>
+<td><a href="./producers/1c67e0d2-d88a-470d-b953-713eb163a35d.html">Craggy Range</a></td>
+<td><a href="./wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">Gimblett Gravels Syrah</a></td>
+<td>2018</td>
+<td>Syrah</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53.html">Crystallum</a></td>
+<td><a href="./wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e.html">Peter Max Pinot Noir</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/10c5a427-ee4a-4962-a855-a9bbfd135d39.html">Cà del Vént</a></td>
+<td><a href="./wines/1c498873-9026-4a72-b993-0c51235b0883.html">Memoria Brut Pas Operé VSQ</a></td>
+<td>2014</td>
+<td>Chardonnay, Pinot Noir</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/10c5a427-ee4a-4962-a855-a9bbfd135d39.html">Cà del Vént</a></td>
+<td><a href="./wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">Sogno Blanc de Blancs Pas Operé</a></td>
+<td>2014</td>
+<td>Chardonnay</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/10c5a427-ee4a-4962-a855-a9bbfd135d39.html">Cà del Vént</a></td>
+<td><a href="./wines/bf77c1a9-c3da-424d-8306-f94769b95a65.html">Sospiri Brut Riserva Pas Operé</a></td>
+<td>2011</td>
+<td>Chardonnay, Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/453cfd4a-8168-4a89-ba48-5561d768e0cd.html">De Fermo</a></td>
+<td><a href="./wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">Don Carlino Pecorino Colline Pescaresi</a></td>
+<td>2018</td>
+<td>Pecorino</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/5c152d2a-9300-45f2-8dbd-ec919a6df065.html">Descendientes de Jose Palacios</a></td>
+<td><a href="./wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">Louro</a></td>
+<td>2020</td>
+<td>Godello</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/4ea4cdd3-5ec7-4ebe-a464-749bc08652ff.html">Di Majo Norante</a></td>
+<td><a href="./wines/71690b8e-81d4-44ef-84ed-e13a8fea23ac.html">Sangiovese</a></td>
+<td>2017</td>
+<td>Sangiovese</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/f5ff399b-50e8-4f0f-9be5-9274caeab46c.html">Dom Ruinart</a></td>
+<td><a href="./wines/01486ec5-881a-4912-88ed-3fb39fed582a.html">Blanc de Blancs</a></td>
+<td>1964</td>
+<td>Chardonnay</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/1be418d2-93bd-4d7a-ab9e-e8b9d3e37210.html">Domain Ponsot</a></td>
+<td><a href="./wines/f8916b0f-81ee-4a28-9963-4544bfc955a8.html">Morey Saint Denis 1er Cru Cuvée des Alouettes</a></td>
+<td>2000</td>
+<td>Pinot Noir</td>
+<td>9.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/4d8a9840-22fc-4d2e-9ea6-aa02911aaf19.html">Domaine Antonin Guyon</a></td>
+<td><a href="./wines/4e3730aa-97c3-4c28-85c6-79ad33012ede.html">Côte de Beaune-Villages</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/296c1179-c4c9-4a7f-a9ae-046eaee639a8.html">Domaine Bruno Clair</a></td>
+<td><a href="./wines/d69e488f-ccb5-400d-a049-79cabc7443b9.html">Marsannay Blanc</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>8.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/1d173609-2c82-48db-882b-6db4708fff2f.html">Domaine Chantal Lescure</a></td>
+<td><a href="./wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">Vosne-Romanee 1er cru Les Suchots</a></td>
+<td>2011</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/5a5279d3-a4a4-4e09-82dd-799b5f78846f.html">Domaine George Noëllat</a></td>
+<td><a href="./wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">1er cru Les Boudots</a></td>
+<td>2004</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/2aa29381-9a73-40cf-8849-3151bf10e880.html">Domaine Guyon</a></td>
+<td><a href="./wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">Echezaux Grand Cru</a></td>
+<td>2008</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/ec88273a-3cd1-476a-8a5d-4848f8fb1a9e.html">Domaine Gérard Seguin</a></td>
+<td><a href="./wines/37a1355b-9237-4529-8e7b-a158db929006.html">Gevrey-Chambertin 1er Cru Craipillot</a></td>
+<td>2015</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/ecaf4296-a793-496e-ae68-390c8d25ed0e.html">Domaine Huet</a></td>
+<td><a href="./wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">Le Haut-Lieu Sec</a></td>
+<td>2017</td>
+<td>Chenin Blanc</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/fb17990c-6efd-4fab-afe7-72c1d40817a7.html">Domaine Patrick Baudouin</a></td>
+<td><a href="./wines/b23f15d6-d997-4d38-bd77-bc40959699de.html">Le Cornillard Anjou</a></td>
+<td>2014</td>
+<td>Chenin Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/52ed748f-89be-4be6-a619-8de5dbd79e8e.html">Beaune 1er Cru Les Teurons</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/4ecbdb55-eebb-43df-9af7-b92c3144d2b5.html">Beaune Les Mariages</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/1f40f56d-8790-4123-84ff-1478363ed829.html">Bourgogne</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/68a1b1da-f9e1-43d9-9ef4-acd3d2d31e55.html">Gevrey-Chambertin 1er Cru Les Corbeaux</a></td>
+<td>2014</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/da0ee939-d923-44f2-9aac-6c0dfa831964.html">Gevrey-Chambertin Aux Ételois</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/99480dba-cc0d-403e-9f93-a7b7331332ff.html">Gevrey-Chambertin Vieilles Vignes</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">Latricières-Chambertin</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>9.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/919b524d-134f-422c-b146-1904d7641d87.html">Domaine Rossignol-Trapet</a></td>
+<td><a href="./wines/345c98e3-665a-416f-83a7-b31d12e29361.html">Savigny-Les-Beaune Les Bas Liards</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/0049dd51-fe96-4d40-b2df-e4f7c948c5c0.html">Domaine Sigalas</a></td>
+<td><a href="./wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">Santorini</a></td>
+<td>2020</td>
+<td>Assyrtiko</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a9b716fd-81f4-47dd-8cbf-96cccebac781.html">Domaine Stephane Magnien</a></td>
+<td><a href="./wines/1f2bb282-357e-468d-9016-6b4cb34bb75c.html">Morey-Saint-Denis 1er Cru Les Monts-Luisants</a></td>
+<td>2008</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/28e1fbe5-34b6-43ab-942a-5695459c90ae.html">Domaine Trapet Pere et Fils</a></td>
+<td><a href="./wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">Gevrey-Chambertin Ostrea</a></td>
+<td>2012</td>
+<td>Pinot Noir</td>
+<td>8.20</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a81dda9d-2b3f-4c48-bf03-8cb7bf1cb646.html">Domaine de la Romanée-Conti</a></td>
+<td><a href="./wines/27414711-c577-42e5-99ad-ad4de875534f.html">Romanée-Saint-Vivant</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>10.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/461a005a-3007-46a9-8ab4-f716429379fa.html">Domaine de la Taille Aux Loups</a></td>
+<td><a href="./wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">Bretonniere Cuvée Parcellaire Monopole</a></td>
+<td>2017</td>
+<td>Chenin Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/461a005a-3007-46a9-8ab4-f716429379fa.html">Domaine de la Taille Aux Loups</a></td>
+<td><a href="./wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">Montlouis Sur Loire Clos Michet</a></td>
+<td>2017</td>
+<td>Chenin Blanc</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/461a005a-3007-46a9-8ab4-f716429379fa.html">Domaine de la Taille Aux Loups</a></td>
+<td><a href="./wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">Montlouis sur Loire Clos de Mosny Monopole</a></td>
+<td>2015</td>
+<td>Chenin Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/1798690d-483b-4f80-a136-93eb9552e48b.html">Domaine de la Touraize</a></td>
+<td><a href="./wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">Crémant du Jura Millésimé</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="./wines/e761d104-5798-43f7-9d5d-cbf763d587a5.html">Poulsard</a></td>
+<td>2018</td>
+<td>Poulsard</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="./wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">Savagnin Ouillé</a></td>
+<td>2016</td>
+<td>Savagnin</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="./wines/4b3b5ce1-1779-425e-850b-d44e9f199db5.html">Trois Cépages</a></td>
+<td>2018</td>
+<td>Pinot Noir, Trousseau, Poulsard</td>
+<td>8.20</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/4f806b48-cd9d-4648-8d9c-9ec59a0131ce.html">Dr. Loosen</a></td>
+<td><a href="./wines/1556c739-e540-4a37-8395-fe88259d2eba.html">Wehlener Sonnenuhr Riesling Auslese Prädikatswein</a></td>
+<td>2007</td>
+<td>Riesling</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/c889ae32-a1bc-444e-8aef-16826b33a2e4.html">Egly-Ouriet</a></td>
+<td><a href="./wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">Brut Grand Cru (d2020)</a></td>
+<td>NV</td>
+<td>Chardonnay, Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="./wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">Lluerna</a></td>
+<td>2021</td>
+<td>Xarel-lo</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="./wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">Pregadéu</a></td>
+<td>2020</td>
+<td>Xarel-lo</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="./wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">Saltamartí</a></td>
+<td>2020</td>
+<td>Tempranillo</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/5774d37d-7ca7-444c-b981-29ad5a290846.html">Enderle&amp;Moll</a></td>
+<td><a href="./wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">Buntsandstein</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/8a4b6382-a081-456e-ba46-f0eed90f1463.html">F. X. Pichler</a></td>
+<td><a href="./wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">Riesling Loibenberg Smaragd</a></td>
+<td>2018</td>
+<td>Riesling</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/14fa74e7-0434-4db1-9491-759de4595c0d.html">Fattoria Romeo del Castello</a></td>
+<td><a href="./wines/acc24d74-9556-479d-a9bd-bada0cccfe7e.html">Allegracore</a></td>
+<td>2016</td>
+<td>Nerello Mascalese</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/0608acc9-e36c-4cff-970e-0f2489d3011a.html">Fedellos do Couto</a></td>
+<td><a href="./wines/8832401d-3910-4072-a585-e7e4ad97324a.html">Conasbrancas</a></td>
+<td>2018</td>
+<td>Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/0608acc9-e36c-4cff-970e-0f2489d3011a.html">Fedellos do Couto</a></td>
+<td><a href="./wines/19ea08b3-6109-4771-a003-46a3be90c659.html">Conasbrancas</a></td>
+<td>2019</td>
+<td>Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/0608acc9-e36c-4cff-970e-0f2489d3011a.html">Fedellos do Couto</a></td>
+<td><a href="./wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">Lomba dos Ares</a></td>
+<td>2017</td>
+<td>Mencía, Mouratón, Alicante Henri Bouschet, Caiño, Trousseau</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>New Zealand</td>
+<td><a href="./producers/86dc3674-f53b-4b77-9d80-07d10dbd1249.html">Fernway</a></td>
+<td><a href="./wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf.html">Sauvignon Blanc</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/e9a07255-1376-4b70-bbf2-0d358bff215a.html">Feudi di San Gregorio</a></td>
+<td><a href="./wines/470a1738-5cc3-4aac-a09a-7ab314af4c00.html">Piano di Montevergine Taurasi</a></td>
+<td>2014</td>
+<td>Aglianico</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/e9a07255-1376-4b70-bbf2-0d358bff215a.html">Feudi di San Gregorio</a></td>
+<td><a href="./wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">Selve Di Luoti Taurasi</a></td>
+<td>1998</td>
+<td>Aglianico</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/e9a07255-1376-4b70-bbf2-0d358bff215a.html">Feudi di San Gregorio</a></td>
+<td><a href="./wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">Serpico</a></td>
+<td>2005</td>
+<td>Aglianico</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/aad9deac-2c65-40fd-bbca-79468226b673.html">Fio Wein</a></td>
+<td><a href="./wines/feae6677-5c09-4730-9a13-d96d7cb102cd.html">Piu Piu Petnat</a></td>
+<td>NV</td>
+<td>Riesling</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/aad9deac-2c65-40fd-bbca-79468226b673.html">Fio Wein</a></td>
+<td><a href="./wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">Piu Piu Petnat Rosé</a></td>
+<td>NV</td>
+<td>Dornfelder</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/aad9deac-2c65-40fd-bbca-79468226b673.html">Fio Wein</a></td>
+<td><a href="./wines/1003f92f-f182-4775-8602-32d132fa62d5.html">Riesling Qualitätswein</a></td>
+<td>2014</td>
+<td>Riesling</td>
+<td>8.80</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae.html">Foradori</a></td>
+<td><a href="./wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">Fontanasanta Manzoni Bianco</a></td>
+<td>2019</td>
+<td>Manzoni Bianco</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae.html">Foradori</a></td>
+<td><a href="./wines/d85eeda5-d057-4e25-8314-167d4bf89471.html">Sgarzon</a></td>
+<td>2018</td>
+<td>Teroldego</td>
+<td>6.75</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/fbc72411-4089-4209-9367-08fcea803a53.html">Francesco Boschis</a></td>
+<td><a href="./wines/d45fd10b-9166-4551-a8be-0c295c96879c.html">Dogliani Vigne in Pianezzo</a></td>
+<td>2016</td>
+<td>Dolcetto</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3.html">Francois Montand</a></td>
+<td><a href="./wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">Brut Blanc de Blancs</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3.html">Francois Montand</a></td>
+<td><a href="./wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">Méthode Traditionnelle Brut Rosé</a></td>
+<td>NV</td>
+<td>Grenache, Cinsault</td>
+<td>7.22</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a></td>
+<td><a href="./wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">Entre Ciel &amp; Terre (2013)</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a></td>
+<td><a href="./wines/40a31b63-1452-4566-9557-b9f078ff6d64.html">Entre Ciel &amp; Terre (2014)</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Pinot Noir, Chardonnay</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a></td>
+<td><a href="./wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">L’Âme de la Terre Millésime</a></td>
+<td>2006</td>
+<td>Pinot Meunier, Chardonnay, Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a></td>
+<td><a href="./wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">Origin’elle</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Chardonnay, Pinot Noir</td>
+<td>8.38</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83.html">Félix Solís</a></td>
+<td><a href="./wines/617360e5-dd92-4fb8-9a63-efe5cb6547e3.html">Kingpin Tinto</a></td>
+<td>NV</td>
+<td>Tempranillo, Syrah, Cabernet Sauvignon</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83.html">Félix Solís</a></td>
+<td><a href="./wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">Provetto Spumante Bianco Brut</a></td>
+<td>NV</td>
+<td>Macabeo, Airén</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>New Zealand</td>
+<td><a href="./producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83.html">Félix Solís</a></td>
+<td><a href="./wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">Pulpo Sauvignon Blanc</a></td>
+<td>NV</td>
+<td>Sauvignon Blanc</td>
+<td>5.25</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83.html">Félix Solís</a></td>
+<td><a href="./wines/a53b1e03-00ce-4d65-986e-fef9fd139c0c.html">Viña Albali Gran Reserva de Familia</a></td>
+<td>2009</td>
+<td>Cabernet Sauvignon, Tempranillo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/166e9d27-3a90-4f30-a042-a39ebe67b04e.html">Gentle Folk</a></td>
+<td><a href="./wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">Oakbank Shiraz</a></td>
+<td>2019</td>
+<td>Syrah</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/166e9d27-3a90-4f30-a042-a39ebe67b04e.html">Gentle Folk</a></td>
+<td><a href="./wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">Piccadilly Chardonnay</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/166e9d27-3a90-4f30-a042-a39ebe67b04e.html">Gentle Folk</a></td>
+<td><a href="./wines/930fb85c-691f-4692-8372-30e03660a72a.html">Summertown blanc</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e.html">Girolamo Russo</a></td>
+<td><a href="./wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">Etna Rosato</a></td>
+<td>2019</td>
+<td>Nerello Mascalese</td>
+<td>7.92</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e.html">Girolamo Russo</a></td>
+<td><a href="./wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">Etna Rosso A Rina</a></td>
+<td>2017</td>
+<td>Nerello Mascalese</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e.html">Girolamo Russo</a></td>
+<td><a href="./wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">Etna Rosso Feudo</a></td>
+<td>2016</td>
+<td>Nerello Mascalese</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Israel</td>
+<td><a href="./producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="./wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">Chardonnay Yarden</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>Israel</td>
+<td><a href="./producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="./wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">Chardonnay Yarden</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Israel</td>
+<td><a href="./producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="./wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">Mount Hermon White</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc, Chardonnay</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Israel</td>
+<td><a href="./producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="./wines/877d6831-deea-428d-b19d-b7908a77389e.html">Viognier Yarden</a></td>
+<td>2017</td>
+<td>Viognier</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/bd1ae49f-3ec6-4701-b633-832d29f929f8.html">Gravner</a></td>
+<td><a href="./wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">Ribolla</a></td>
+<td>2010</td>
+<td>Ribolla Gialla</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/bd1ae49f-3ec6-4701-b633-832d29f929f8.html">Gravner</a></td>
+<td><a href="./wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">Ribolla Anfora</a></td>
+<td>2004</td>
+<td>Ribolla Gialla</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/b70877a6-4710-4cdc-9c42-abf921b5c722.html">Grimaldi</a></td>
+<td><a href="./wines/6edeac40-1d7c-40d4-b5c3-bf82058a6baf.html">Barolo</a></td>
+<td>2010</td>
+<td>Nebbiolo</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/6eea1b5f-c6e2-4ace-96a6-826481fbc6c7.html">Guido Porro</a></td>
+<td><a href="./wines/c93696fa-e43d-429e-b617-67a770c5f78d.html">Barbera d’Alba</a></td>
+<td>2018</td>
+<td>Barbera</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb.html">Gérard Bertrand</a></td>
+<td><a href="./wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">Cote des Roses Rouge</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>7.40</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb.html">Gérard Bertrand</a></td>
+<td><a href="./wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">Héritage Kosmos 888</a></td>
+<td>2019</td>
+<td>Grenache, Syrah, Monastrell</td>
+<td>7.60</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/370d0459-21f1-46c5-aa90-e01458bb5be0.html">Heinrich</a></td>
+<td><a href="./wines/366086d0-9688-4be8-bdac-9b20162de445.html">Blaufränkisch</a></td>
+<td>2017</td>
+<td>Blaufrankisch</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>Portugal</td>
+<td><a href="./producers/603ce74a-32ef-448a-9ede-2d350b9c557b.html">Henriques &amp; Henriques</a></td>
+<td><a href="./wines/64ddc69b-b7a5-45b5-bd67-ee325450f038.html">Boal Single Harvest</a></td>
+<td>2000</td>
+<td>Boal</td>
+<td>8.67</td>
+</tr>
+<tr class="odd">
+<td>Portugal</td>
+<td><a href="./producers/603ce74a-32ef-448a-9ede-2d350b9c557b.html">Henriques &amp; Henriques</a></td>
+<td><a href="./wines/54468301-969e-41f6-a3f1-404cc7608364.html">Malvasia 15y</a></td>
+<td>NV</td>
+<td>Malvasia Fina</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/f918c836-e7f1-4d27-a7d6-707cd508dffe.html">Hoya de Cadenas</a></td>
+<td><a href="./wines/a29c13d9-1345-44a6-b7ea-36630afd1b14.html">Cava Brut Nature</a></td>
+<td>NV</td>
+<td>Macabeo, Chardonnay</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/0b683b5c-7557-44dd-99c0-0690a88ee329.html">Hubert Lamy</a></td>
+<td><a href="./wines/955b917f-feda-45dd-9ffc-2548a8e4a5d8.html">Saint-Aubin 1er Cru Clos du Meix</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/0a96a61f-5052-42e7-9dfb-bea9ccc1445d.html">Hubert Lignier</a></td>
+<td><a href="./wines/b951da6c-6a38-4355-ab9f-6abe92b2d0b1.html">Morey Saint Denis 1er Cru les Blanchards</a></td>
+<td>2009</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/19e67244-0219-4309-bd91-d790aefd5a3f.html">Hudelot-Noëllat</a></td>
+<td><a href="./wines/588f34e3-68db-4015-b04d-58503fdc84e6.html">Bourgogne Pinot Noir</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/19e67244-0219-4309-bd91-d790aefd5a3f.html">Hudelot-Noëllat</a></td>
+<td><a href="./wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">Bourgogne Pinot Noir</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Hungary</td>
+<td><a href="./producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="./wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">Hárslevelű Lindenleaf</a></td>
+<td>2019</td>
+<td>Hárslevelű</td>
+<td>6.50</td>
+</tr>
+<tr class="even">
+<td>Hungary</td>
+<td><a href="./producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="./wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">Karašica PetNat Hárslevelű</a></td>
+<td>2019</td>
+<td>Hárslevelű</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Hungary</td>
+<td><a href="./producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="./wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">Karašica PetNat Hárslevelű</a></td>
+<td>2020</td>
+<td>Hárslevelű</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Hungary</td>
+<td><a href="./producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="./wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">Villányi Portugieser</a></td>
+<td>2020</td>
+<td>Blauer Portugieser</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/0ff20e4a-b84c-48dc-b592-5d7619ba7f28.html">Illuminati</a></td>
+<td><a href="./wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">Costalupo</a></td>
+<td>2021</td>
+<td>Chardonnay, Trebbiano, Passerina</td>
+<td>6.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/92c049ed-0591-418d-8f2b-8d20726b8654.html">J.M Dreyer</a></td>
+<td><a href="./wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">Elios Pinot Noir</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="./wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">Classic Cabernet Sauvignon</a></td>
+<td>2016</td>
+<td>Cabernet Sauvignon</td>
+<td>6.00</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="./wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">Classic Chardonnay</a></td>
+<td>2017</td>
+<td>Chardonnay</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="./wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">Sparkling Rosé</a></td>
+<td>NV</td>
+<td>Pinot Noir, Chardonnay</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5.html">Jacques Lassaigne</a></td>
+<td><a href="./wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">La Colline Inspirée</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca.html">Jacquesson</a></td>
+<td><a href="./wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">Cuvee 743 Grand Vin</a></td>
+<td>NV</td>
+<td>Chardonnay, Pinot Noir, Pinot Meunier</td>
+<td>8.58</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca.html">Jacquesson</a></td>
+<td><a href="./wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">Cuvée 742 Extra Brut (2014)</a></td>
+<td>NV</td>
+<td>Pinot Noir, Pinot Meunier, Chardonnay</td>
+<td>10.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca.html">Jacquesson</a></td>
+<td><a href="./wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">Cuvée 744 Grand Vin (2016)</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Chardonnay, Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a.html">Jaume Serra</a></td>
+<td><a href="./wines/1d25ec11-e30c-4b90-b800-0e6fb959c312.html">Cava Brut Nature</a></td>
+<td>NV</td>
+<td>Xarel-lo, Parellada, Macabeo</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a.html">Jaume Serra</a></td>
+<td><a href="./wines/f40ec77a-9564-408b-9fad-7709e2fb6d93.html">Cava Organic Brut</a></td>
+<td>NV</td>
+<td>Macabeo</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7ccd7bff-82b4-4834-ba80-31924e56b364.html">Jean Grivot</a></td>
+<td><a href="./wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">Bourgougne Pinot Noir</a></td>
+<td>2016</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/7ccd7bff-82b4-4834-ba80-31924e56b364.html">Jean Grivot</a></td>
+<td><a href="./wines/1409c807-4b30-47c0-b0c3-8562d97ba541.html">Bourgougne Pinot Noir</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7ccd7bff-82b4-4834-ba80-31924e56b364.html">Jean Grivot</a></td>
+<td><a href="./wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">Clos de Vougeot</a></td>
+<td>2014</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1.html">Jumping Juice</a></td>
+<td><a href="./wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1.html">Pinot Noir</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/27f09c7c-610f-4111-9ae2-13d02596411e.html">Juvé y Camps</a></td>
+<td><a href="./wines/52fe7333-bad2-4d23-b733-a3520704b5d2.html">Reserva de la Familia Gran Reserva Brut Nature</a></td>
+<td>2017</td>
+<td>Macabeo, Xarel-lo, Parellada</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>USA</td>
+<td><a href="./producers/4b773c92-4385-47de-8809-18412637ef72.html">Kelley Fox Wines</a></td>
+<td><a href="./wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">Mirabai Pinot Noir</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/0c387201-a91c-4c54-b798-5ef20e028411.html">Kir-Yianni</a></td>
+<td><a href="./wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">Kali Riza</a></td>
+<td>2017</td>
+<td>Xinomavro</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/0c387201-a91c-4c54-b798-5ef20e028411.html">Kir-Yianni</a></td>
+<td><a href="./wines/a4980711-6b29-4392-9585-17310170db4a.html">Paranga Sparkling</a></td>
+<td>NV</td>
+<td>Xinomavro, Chardonnay, Muscat Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Slovenia</td>
+<td><a href="./producers/306b9b05-0245-4f1e-8576-0a34a5908ad1.html">Kmetija Štekar</a></td>
+<td><a href="./wines/5cc35f14-1824-4ce9-a4c5-f86b46a1c66d.html">Jankot</a></td>
+<td>2018</td>
+<td>Tocai Friulano</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Slovenia</td>
+<td><a href="./producers/306b9b05-0245-4f1e-8576-0a34a5908ad1.html">Kmetija Štekar</a></td>
+<td><a href="./wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">Rebula Prilo</a></td>
+<td>2015</td>
+<td>Ribolla Gialla</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Czech Republic</td>
+<td><a href="./producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="./wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">Blanc de Noir Sekt</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Czech Republic</td>
+<td><a href="./producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="./wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">Herr Gewürtz</a></td>
+<td>2019</td>
+<td>Gewürztraminer</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Czech Republic</td>
+<td><a href="./producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="./wines/c798671c-483f-46dd-9bee-5700002f97e2.html">Pinot Noir</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Czech Republic</td>
+<td><a href="./producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="./wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">Ruby</a></td>
+<td>2020</td>
+<td>Zweigelt, Pinot Noir, Saint-Laurent, Merlot, Cabernet Sauvignon</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/985badd4-6e4e-471e-a7f2-f2ec646f1b1a.html">Ktima Ligas</a></td>
+<td><a href="./wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">Spira</a></td>
+<td>2019</td>
+<td>Xinomavro</td>
+<td>8.20</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/f17f45c4-3a53-41d6-8ce4-5af676a7af04.html">Ktima Papaioannou</a></td>
+<td><a href="./wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8.html">Malagouzia</a></td>
+<td>2019</td>
+<td>Malagousia</td>
+<td>7.40</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/f17f45c4-3a53-41d6-8ce4-5af676a7af04.html">Ktima Papaioannou</a></td>
+<td><a href="./wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">Malagouzia</a></td>
+<td>2020</td>
+<td>Malagousia</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad.html">La Biancara</a></td>
+<td><a href="./wines/3bc5dec6-eae8-4fd6-8731-d726947aad66.html">Garg’n’go</a></td>
+<td>2019</td>
+<td>Garganega</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad.html">La Biancara</a></td>
+<td><a href="./wines/9c70888b-36fa-4db1-b07f-6522771d81ec.html">Masieri</a></td>
+<td>2019</td>
+<td>Garganega</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad.html">La Biancara</a></td>
+<td><a href="./wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">Sassaia</a></td>
+<td>1997</td>
+<td>Garganega</td>
+<td>8.60</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/5a281f27-88c8-473e-a9fd-0e589375b1e2.html">La Sorga</a></td>
+<td><a href="./wines/8fa18910-506d-4487-b682-c6099bc38df5.html">S.M.</a></td>
+<td>2018</td>
+<td>Marsanne, Sauvignon Blanc</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="./wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">Ageno</a></td>
+<td>2015</td>
+<td>Malvasia di Candia Aromatica, Ortrugo, Trebbiano</td>
+<td>8.54</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="./wines/f72778c8-5571-403e-a386-20cffdbf1459.html">Ageno</a></td>
+<td>2017</td>
+<td>Malvasia di Candia Aromatica, Ortrugo, Trebbiano</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="./wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">Ageno</a></td>
+<td>2018</td>
+<td>Malvasia di Candia Aromatica</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="./wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">Ageno</a></td>
+<td>2019</td>
+<td>Malvasia di Candia Aromatica, Ortrugo, Trebbiano</td>
+<td>7.83</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/ee9d5512-7266-49dd-90ba-07e0d7a7dd7c.html">Lacrima Baccus</a></td>
+<td><a href="./wines/476f7a06-fd20-4887-a5fa-1d77f41309ce.html">Brut Reserva</a></td>
+<td>2019</td>
+<td>Macabeo, Xarel-lo, Parellada</td>
+<td>7.20</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/d6df0bde-0385-452c-8ec9-43cd9341e5ec.html">Lamiable</a></td>
+<td><a href="./wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">Cuvee Pheerie</a></td>
+<td>2013</td>
+<td>Chardonnay</td>
+<td>8.38</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/48efd2e7-0def-4827-a30f-3f9c37944258.html">Le Domaine Marquis d’Angerville</a></td>
+<td><a href="./wines/4fb6854f-bece-4bc3-b30d-589a80668230.html">Volnay 1er cru Champans</a></td>
+<td>2010</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Hungary</td>
+<td><a href="./producers/5d056c7d-d1f4-478f-a63c-9b69e18a38bf.html">Lenkey Pinceszet</a></td>
+<td><a href="./wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">Betsek Korposd Furmint</a></td>
+<td>2011</td>
+<td>Furmint</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/f1833780-e704-4017-a518-b32a2baf5f2e.html">Les Vignes De Paradis</a></td>
+<td><a href="./wines/084f2900-816b-4687-bceb-9fe28995f7cc.html">Chenin</a></td>
+<td>2019</td>
+<td>Chenin Blanc</td>
+<td>7.40</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/f1833780-e704-4017-a518-b32a2baf5f2e.html">Les Vignes De Paradis</a></td>
+<td><a href="./wines/969b7bbf-2917-476f-859b-fcb1fb9f8bb3.html">Pinot Gris M…</a></td>
+<td>2019</td>
+<td>Pinot Gris</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff.html">Loimer</a></td>
+<td><a href="./wines/f506a040-1940-496a-9901-0bb471948800.html">Gluegglich Glückliches</a></td>
+<td>NV</td>
+<td>Zierfandler, Riesling, Chardonnay, Rotgipfler, Savagnin</td>
+<td>7.12</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff.html">Loimer</a></td>
+<td><a href="./wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">Pet Nat</a></td>
+<td>2020</td>
+<td>Grüner Veltliner, Muskateller</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/84e281b6-57b7-42f2-a790-181a3b6e11bb.html">Louis Jadot</a></td>
+<td><a href="./wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">Échezeaux</a></td>
+<td>2013</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="./wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">Le Sauvignon Sensuel</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="./wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">Pinot Gris Comme de Fleurs</a></td>
+<td>2020</td>
+<td>Pinot Gris</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="./wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">Vin de Soif</a></td>
+<td>2020</td>
+<td>Syrah</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="./wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">Vino Rosso</a></td>
+<td>2020</td>
+<td>Merlot, Pinot Noir, Field Blend</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Chile</td>
+<td><a href="./producers/c31688b5-ff1d-4074-b47a-3b2c2c8e5ac4.html">Luis Felipe Edwards</a></td>
+<td><a href="./wines/fe706fbf-c139-4372-98b7-afe4249f0ce1.html">Sauvignon Blanc</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Chile</td>
+<td><a href="./producers/c31688b5-ff1d-4074-b47a-3b2c2c8e5ac4.html">Luis Felipe Edwards</a></td>
+<td><a href="./wines/2d1710fb-5361-48d5-93c5-963b5db134a8.html">Sauvignon Blanc Reserva</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.25</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7aee6dea-ad2d-4f38-9980-e14de49f0268.html">Maison du Vigneron</a></td>
+<td><a href="./wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">Crémant du Jura</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/97bee62d-6e14-4f79-a95d-37893c50a84e.html">Marc Hebrart</a></td>
+<td><a href="./wines/bef62097-f916-4554-a591-42c380412d7b.html">Premier Cru Blanc de Blancs</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">Grappoli del Grillo</a></td>
+<td>2018</td>
+<td>Grillo</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">Grappoli del Grillo</a></td>
+<td>2019</td>
+<td>Grillo</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">Integer Grillo</a></td>
+<td>2018</td>
+<td>Grillo</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">Integer Zibibbo</a></td>
+<td>2017</td>
+<td>Zibibbo</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">Integer Zibibbo</a></td>
+<td>2019</td>
+<td>Zibibbo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">Lucido</a></td>
+<td>2019</td>
+<td>Catarratto</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">Pietra Nera</a></td>
+<td>2018</td>
+<td>Zibibbo</td>
+<td>8.38</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">Rosso di Marco</a></td>
+<td>2017</td>
+<td>Perricone</td>
+<td>6.80</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">Terzavia</a></td>
+<td>2018</td>
+<td>Grillo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco de Bartoli</a></td>
+<td><a href="./wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">Vigna La Miccia Marsala Superiore Oro</a></td>
+<td>2016</td>
+<td>Grillo</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/269e5124-0361-4c4c-932d-ea4b91d5163b.html">Marlborough Sun</a></td>
+<td><a href="./wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">Sauvignon Blanc</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc.html">Marto</a></td>
+<td><a href="./wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">Al Dente</a></td>
+<td>2018</td>
+<td>Pinot Blanc, Pinot Grigio, Pinot Noir</td>
+<td>7.17</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc.html">Marto</a></td>
+<td><a href="./wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">Crazy Crazy</a></td>
+<td>2020</td>
+<td>Müller-Thurgau, Würzer, Huxelrebe</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc.html">Marto</a></td>
+<td><a href="./wines/72b542d8-fab8-4147-8436-297f41c46ade.html">Weiss</a></td>
+<td>2018</td>
+<td>Bacchus, Würzer, Riesling, Müller-Thurgau, Silvaner, Scheurebe</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc.html">Marto</a></td>
+<td><a href="./wines/042cfcdf-fc2e-4716-881b-5546c6124052.html">Weiss</a></td>
+<td>2019</td>
+<td>Bacchus, Würzer, Scheurebe, Riesling, Müller-Thurgau, Silvaner</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/17f9db0d-ae08-4f3e-9c2d-b9094e7ca315.html">Mas Pere</a></td>
+<td><a href="./wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">Selecció Brut Cava</a></td>
+<td>NV</td>
+<td>Macabeo, Parellada, Xarel-lo</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/beb5669b-5c8c-4c11-ac52-37d225a86bc3.html">Ace of Spades</a></td>
+<td>2019</td>
+<td>Monastrell, Cariñena</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">Brutal Orange</a></td>
+<td>2020</td>
+<td>Macabeo</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">Brutal Rouge</a></td>
+<td>2019</td>
+<td>Syrah, Muscat Blanc</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">Cuvée Alexandria</a></td>
+<td>2019</td>
+<td>Zibibbo</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/22085dbc-44c2-4b02-bb15-625d0395c818.html">Cuvée Alexandria</a></td>
+<td>2020</td>
+<td>Zibibbo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/4f6d8434-a726-4e9a-955a-745813fdd7d1.html">Cuvée Marguerite</a></td>
+<td>2020</td>
+<td>Macabeo, Zibibbo, Muskateller</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/bb9c19ad-0571-4346-9bda-088dfaa9a658.html">El Carner</a></td>
+<td>2020</td>
+<td>Grenache, Macabeo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/308e3982-753f-4251-96fd-29379e2e0de0.html">Mambo Sun</a></td>
+<td>2020</td>
+<td>Grenache</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/6c45e619-c75e-43d1-9f11-2896fd46994b.html">Olla Rouge</a></td>
+<td>2019</td>
+<td>Grenache, Macabeo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="./wines/370e2f0f-46c0-464f-a27b-49894634e4c2.html">Rollaball</a></td>
+<td>2020</td>
+<td>Monastrell, Cariñena</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">Bianco</a></td>
+<td>2018</td>
+<td>Fiano, Greco di Tufo, Chardonnay</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">Bianco</a></td>
+<td>2019</td>
+<td>Fiano, Greco di Tufo, Chardonnay</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">Cardinia Rangers Rosé</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">Fistful of Flowers</a></td>
+<td>2020</td>
+<td>Vermentino, Moscato Giallo</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">Give up the Ghost</a></td>
+<td>2018</td>
+<td>Greco di Tufo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">Give up the Ghost</a></td>
+<td>2019</td>
+<td>Greco di Tufo</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">Staring at the Sun</a></td>
+<td>2019</td>
+<td>Fiano, Vermentino, Moscato Giallo</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="./wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943.html">The Incline</a></td>
+<td>2018</td>
+<td>Syrah</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/81bfd5b7-36b2-4127-91b4-e81f16da69cd.html">Mouzon-Leroux</a></td>
+<td><a href="./wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">L’Atavique</a></td>
+<td>NV</td>
+<td>Pinot Noir, Chardonnay</td>
+<td>8.32</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/cd1b94b8-6014-440d-8876-b6897a61770e.html">Muchada-Leclapart</a></td>
+<td><a href="./wines/fef3962b-3fbb-469d-a068-6f75275ce4c3.html">Elixir</a></td>
+<td>2017</td>
+<td>Zibibbo, Palomino</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/7eb768d3-a775-458d-a29c-9a6df3da6216.html">Mud House</a></td>
+<td><a href="./wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">Pinot Noir Central Otago</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/d39488ac-3cfd-4c03-a490-8c8ed9781861.html">Naveran</a></td>
+<td><a href="./wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">Odisea</a></td>
+<td>2019</td>
+<td>Chardonnay, Parellada</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/5fc06935-eb1a-4edd-833a-df0217836334.html">Ochota barrels</a></td>
+<td><a href="./wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">kids of the black hole</a></td>
+<td>2019</td>
+<td>Riesling</td>
+<td>8.60</td>
+</tr>
+<tr class="odd">
+<td>Hungary</td>
+<td><a href="./producers/e21e6c03-77df-461c-9fee-d57ac8ea8132.html">Oremus</a></td>
+<td><a href="./wines/600a50e9-e2db-47b4-805d-acf0cfa9b018.html">Mandolás</a></td>
+<td>2016</td>
+<td>Furmint</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/72af4b22-a56f-4f04-a0e7-c6e3a6179600.html">Big Bunch Theory Fresh Impression Red</a></td>
+<td>2020</td>
+<td>Grenache, Gamay, Poulsard, Trousseau</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/41c61abd-bb8c-4a9c-be77-c2fe756581f3.html">Fresh Impression White</a></td>
+<td>2018</td>
+<td>Garnacha Blanca, Chardonnay, Poulsard, Melon de Bourgogne</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/805e6758-4d6a-4c21-9ab4-4045e6ea446c.html">Fresh Impression White</a></td>
+<td>2019</td>
+<td>Garnacha Blanca, Chardonnay, Poulsard, Melon de Bourgogne</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/369d38ae-163d-4c8d-bc21-1900c8b72a7d.html">Go Together Red</a></td>
+<td>2018</td>
+<td>Gamay, Grenache, Trousseau, Savagnin</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">Go Together Red</a></td>
+<td>2019</td>
+<td>Gamay, Grenache, Trousseau, Savagnin</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/67648a12-7d2c-481b-ba2f-707213642f7c.html">Oh Yeah</a></td>
+<td>2020</td>
+<td>Savagnin</td>
+<td>6.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">Silk Blue</a></td>
+<td>2020</td>
+<td>Poulsard, Trousseau</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="./wines/e59e3ee3-cfb8-4f3d-8df3-8001d244a624.html">Three views of a secret</a></td>
+<td>2020</td>
+<td>Gewürztraminer</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/ebcf71da-35d2-45d4-9b87-178179c0b573.html">Patrick Sullivan</a></td>
+<td><a href="./wines/e3066d69-912c-4727-ae59-de6327702828.html">Baw Baw Shire Chardonnay</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/ebcf71da-35d2-45d4-9b87-178179c0b573.html">Patrick Sullivan</a></td>
+<td><a href="./wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">Bullswamp</a></td>
+<td>2019</td>
+<td>Chardonnay</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/ebcf71da-35d2-45d4-9b87-178179c0b573.html">Patrick Sullivan</a></td>
+<td><a href="./wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">Rain Field Blend</a></td>
+<td>2019</td>
+<td>Cabernet Franc, Pinot Grigio</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/20bee0c4-c9a6-42e6-ac4b-c1c04e1aeceb.html">Paul Benoit et Fils</a></td>
+<td><a href="./wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">Pinot Arbois</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="./producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="./wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">Kakhuri Mtsvivani</a></td>
+<td>2018</td>
+<td>Kakhuri Mtsvivani</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Georgia</td>
+<td><a href="./producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="./wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">Mtsvane</a></td>
+<td>2012</td>
+<td>Mtsvane</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="./producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="./wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">Poliphonia</a></td>
+<td>2019</td>
+<td>Field Blend</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Georgia</td>
+<td><a href="./producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="./wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">Rkatsiteli</a></td>
+<td>2012</td>
+<td>Rkatsiteli</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="./producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="./wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">Rkatsiteli</a></td>
+<td>2018</td>
+<td>Rkatsiteli</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/a20e448a-2939-4cf6-8389-8ebda0bef069.html">Philippe de Charmille</a></td>
+<td><a href="./wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">Crémant de Loire Brut</a></td>
+<td>NV</td>
+<td>Chenin Blanc, Cabernet Franc, Chardonnay</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/720ba05b-16d2-4224-8041-1e6c72825df1.html">Piera Martellozzo</a></td>
+<td><a href="./wines/aa6dbbc8-14b0-4c32-b958-63c1385602ed.html">Selezione di Piera Onedis Ribolla Gialla</a></td>
+<td>NV</td>
+<td>Ribolla Gialla</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/720ba05b-16d2-4224-8041-1e6c72825df1.html">Piera Martellozzo</a></td>
+<td><a href="./wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">Terre Magre Ribolla Gialla</a></td>
+<td>NV</td>
+<td>Ribolla Gialla</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="./wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">Cremant d’Alsace</a></td>
+<td>2017</td>
+<td>Pinot Blanc, Pinot Gris</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="./wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">Crémant d’Alsace</a></td>
+<td>2018</td>
+<td>Auxerrois blanc</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="./wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">Gewurztraminer Grand Cru Steinert Macération Pur Vin</a></td>
+<td>2017</td>
+<td>Gewürztraminer</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="./wines/254bfd3b-9d98-409c-b1fc-86f6c2591024.html">Gewürztraminer Macération Pur Vin</a></td>
+<td>2018</td>
+<td>Gewürztraminer</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="./wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">Rot-Murlé Riesling Pur Vin Macération</a></td>
+<td>2018</td>
+<td>Riesling</td>
+<td>6.75</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/e147a780-82d4-4e75-b5ba-5ddd761056ba.html">Pierre Trichet</a></td>
+<td><a href="./wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">L’Authentique Premier Cru Brut</a></td>
+<td>NV</td>
+<td>Pinot Meunier, Pinot Noir, Chardonnay</td>
+<td>7.10</td>
+</tr>
+<tr class="even">
+<td>Ukraine</td>
+<td><a href="./producers/b5174081-18ee-4abd-8964-971a4439e44b.html">Prince Trubetskoi Winery</a></td>
+<td><a href="./wines/5d1362c2-a73e-4d28-ba46-650254235397.html">Blanc de Blancs</a></td>
+<td>2017</td>
+<td>Chardonnay</td>
+<td>5.50</td>
+</tr>
+<tr class="odd">
+<td>Ukraine</td>
+<td><a href="./producers/b5174081-18ee-4abd-8964-971a4439e44b.html">Prince Trubetskoi Winery</a></td>
+<td><a href="./wines/40446507-1360-4b49-ad97-a3877d58cdfe.html">Grand Reserve Оксамит України</a></td>
+<td>2016</td>
+<td>Cabernet Sauvignon</td>
+<td>4.00</td>
+</tr>
+<tr class="even">
+<td>Portugal</td>
+<td><a href="./producers/24f3412e-d51f-403c-8129-e54a1a8d1c1f.html">Quinta de Chocapalha</a></td>
+<td><a href="./wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">Branco</a></td>
+<td>2017</td>
+<td>Viosinho, Arinto, Verdelho</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/9d3e931a-6a61-4857-aae8-345f86bdcd75.html">Radikon</a></td>
+<td><a href="./wines/bb8ae1e3-0415-4012-ab06-55937df3cc10.html">Jakot</a></td>
+<td>2013</td>
+<td>Tocai Friulano</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/9d3e931a-6a61-4857-aae8-345f86bdcd75.html">Radikon</a></td>
+<td><a href="./wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">Ribolla</a></td>
+<td>2007</td>
+<td>Ribolla Gialla</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/9d3e931a-6a61-4857-aae8-345f86bdcd75.html">Radikon</a></td>
+<td><a href="./wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">Slatnik</a></td>
+<td>2017</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/9d3e931a-6a61-4857-aae8-345f86bdcd75.html">Radikon</a></td>
+<td><a href="./wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">Slatnik</a></td>
+<td>2018</td>
+<td>Chardonnay, Tocai Friulano</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/4654ba3e-7c28-40fe-80b4-6639e8ff26e4.html">Raoul Clerget</a></td>
+<td><a href="./wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">Chablis</a></td>
+<td>2018</td>
+<td>Chardonnay</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/4654ba3e-7c28-40fe-80b4-6639e8ff26e4.html">Raoul Clerget</a></td>
+<td><a href="./wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">Crémant de Bourgogne Brut</a></td>
+<td>NV</td>
+<td>Chardonnay, Gamay, Pinot Noir</td>
+<td>7.25</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/506d95ca-6d9a-4931-9f16-cd3e9f6dac8e.html">Raventós i Blanc</a></td>
+<td><a href="./wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">Blanc de Blancs Extra Brut</a></td>
+<td>2018</td>
+<td>Xarel-lo, Macabeo, Parellada, Malvasía de Sitges</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/2fe18e47-ec51-4372-9072-a3e522007d7a.html">Raúl Pérez</a></td>
+<td><a href="./wines/6b5e1cc5-3041-4acd-ab2a-4738250a76b0.html">La Clave</a></td>
+<td>2018</td>
+<td>Mencía</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/2fe18e47-ec51-4372-9072-a3e522007d7a.html">Raúl Pérez</a></td>
+<td><a href="./wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">La Del Vivo</a></td>
+<td>2018</td>
+<td>Godello</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/2fe18e47-ec51-4372-9072-a3e522007d7a.html">Raúl Pérez</a></td>
+<td><a href="./wines/b4b49d91-5c74-4c65-8f52-03afb240a57c.html">La Poulosa</a></td>
+<td>2017</td>
+<td>Mencía</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/2fe18e47-ec51-4372-9072-a3e522007d7a.html">Raúl Pérez</a></td>
+<td><a href="./wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">Ultreia De Valtuille</a></td>
+<td>2018</td>
+<td>Mencía</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/2fe18e47-ec51-4372-9072-a3e522007d7a.html">Raúl Pérez</a></td>
+<td><a href="./wines/39b35863-a201-4f56-adce-1db43d9f327d.html">Ultreia La Claudina</a></td>
+<td>2018</td>
+<td>Godello</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/7e19d0e5-c26c-4a0e-84be-5261974e6e83.html">Robert Moncuit</a></td>
+<td><a href="./wines/ea15e397-8149-405d-992d-63878cb0cebf.html">Les Grands Blancs Grand Cru</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/96bfa5bd-eeca-4fe1-ab3d-ceeb3fb76346.html">Roses De Jeanne</a></td>
+<td><a href="./wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">Presle Millesime BdN</a></td>
+<td>2016</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0.html">Sadie Family</a></td>
+<td><a href="./wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">Pofadder</a></td>
+<td>2018</td>
+<td>Cinsault</td>
+<td>8.25</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0.html">Sadie Family</a></td>
+<td><a href="./wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">Pofadder</a></td>
+<td>2020</td>
+<td>Cinsault</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0.html">Sadie Family</a></td>
+<td><a href="./wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">Skurfberg</a></td>
+<td>2020</td>
+<td>Chenin Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11.html">Saint Clair</a></td>
+<td><a href="./wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">Origin Pinot Noir Marlborough</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9.html">San Leonardo</a></td>
+<td><a href="./wines/27c6bf4d-38f4-4488-b236-c7f205fd7f43.html">San Leonardo</a></td>
+<td>2007</td>
+<td>Cabernet Sauvignon, Cabernet Franc, Merlot</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9.html">San Leonardo</a></td>
+<td><a href="./wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">Terre di San Leonardo</a></td>
+<td>2014</td>
+<td>Cabernet Sauvignon, Merlot, Carménère</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9.html">San Leonardo</a></td>
+<td><a href="./wines/43c2c852-f191-4755-b648-7791aacc9fce.html">Vette</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Chile</td>
+<td><a href="./producers/1dc2cf9e-9933-46a8-9b6e-4c6cd5a6b0ea.html">San Pedro</a></td>
+<td><a href="./wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4.html">Gato Negro Merlot</a></td>
+<td>2020</td>
+<td>Merlot</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/2fd367c5-4450-4a7d-bb9c-b953f573745d.html">Sandro Fay</a></td>
+<td><a href="./wines/acb75785-ee20-419a-a21a-540f51157670.html">Valtellina Superiore Valgella Riserva Carteria</a></td>
+<td>2014</td>
+<td>Nebbiolo</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/052c0c72-41f7-42f4-bfa9-db85cd4defa7.html">Santoro</a></td>
+<td><a href="./wines/941bc26f-a55c-4cad-b146-a659248257de.html">Primitivo</a></td>
+<td>2019</td>
+<td>Primitivo</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/9fa9b26e-cc11-4535-a603-35bfcf4f67ea.html">Savella</a></td>
+<td><a href="./wines/52d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b.html">Pinot Grigio</a></td>
+<td>2020</td>
+<td>Pinot Grigio</td>
+<td>6.50</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/1de816a2-2144-494c-8cf3-0d466b602b15.html">Schloss Johannisberger</a></td>
+<td><a href="./wines/b9972612-deb1-4a2c-910f-42901592cc46.html">Bronzelack Trocken Qualitätswein</a></td>
+<td>2020</td>
+<td>Riesling</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Ukraine</td>
+<td><a href="./producers/0032e65d-003c-41e8-8e5c-116397e9efbf.html">Shabo</a></td>
+<td><a href="./wines/108c69b0-4506-4e05-9da4-c73ccd053992.html">Grand Reserve Extra Brut</a></td>
+<td>NV</td>
+<td>Chardonnay, Pinot Noir</td>
+<td>5.00</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="./wines/5a4c0e3b-7f11-46bb-8f17-69588434b9ee.html">Liatiko</a></td>
+<td>2020</td>
+<td>Liatiko</td>
+<td>5.00</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="./wines/15040117-337e-43f7-aae4-d74e7ea92d5e.html">Thrapsathiri</a></td>
+<td>2020</td>
+<td>Thrapsathiri</td>
+<td>3.00</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="./wines/d43bf6e9-bdd8-4805-953a-e23e28699260.html">Vidiano Old Vines</a></td>
+<td>2020</td>
+<td>Vidiano</td>
+<td>5.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/6badeeaf-9e31-4af7-8720-d771de5790f2.html">Simon Bize et Fils</a></td>
+<td><a href="./wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">Bourgogne Les Perrières</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/cfa1293d-4c36-4cb6-8a44-0b5d4aee7654.html">Sizarini</a></td>
+<td><a href="./wines/ea476527-6fc9-4400-9827-dbf63cc3299a.html">Pinot Grigio</a></td>
+<td>2020</td>
+<td>Pinot Grigio</td>
+<td>5.25</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/9aa8e659-5a4e-4480-b4c0-96056882f353.html">Soco Vinicola</a></td>
+<td><a href="./wines/d6c6820e-99c0-4c12-a1ab-348f9473de3e.html">Soco Blanco</a></td>
+<td>2020</td>
+<td>Malvasía Volcánica, Palomino, Diego</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed.html">Sous Le Végétal</a></td>
+<td><a href="./wines/55d3286d-d7ce-4659-abca-b0bee73944a9.html">Octave</a></td>
+<td>2018</td>
+<td>Muscat de Samos</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed.html">Sous Le Végétal</a></td>
+<td><a href="./wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">Palli et Genesia</a></td>
+<td>2018</td>
+<td>Muscat de Samos</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/7f36c99b-3225-4883-b12d-11e5a75bfa12.html">Spier Wines</a></td>
+<td><a href="./wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">Chenin Blanc 21 Gables</a></td>
+<td>2019</td>
+<td>Chenin Blanc</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/7f36c99b-3225-4883-b12d-11e5a75bfa12.html">Spier Wines</a></td>
+<td><a href="./wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">Signature Chenin Blanc</a></td>
+<td>2021</td>
+<td>Chenin Blanc</td>
+<td>7.40</td>
+</tr>
+<tr class="even">
+<td>New Zealand</td>
+<td><a href="./producers/bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c.html">Spy Valley</a></td>
+<td><a href="./wines/7652700d-3edc-46fa-8e74-624826b23830.html">Satellite Sauvignon Blanc</a></td>
+<td>2021</td>
+<td>Sauvignon Blanc</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/62aaead8-0c95-4b5e-867f-9e8f8e4e5832.html">Stella di Campalto</a></td>
+<td><a href="./wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">Choltempo Fiorello</a></td>
+<td>NV</td>
+<td>Sangiovese, Tannat, Arinarnoa, Marcelan, Lagrein</td>
+<td>8.75</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/62aaead8-0c95-4b5e-867f-9e8f8e4e5832.html">Stella di Campalto</a></td>
+<td><a href="./wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">Rosso di Montalcino</a></td>
+<td>2014</td>
+<td>Sangiovese</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/62aaead8-0c95-4b5e-867f-9e8f8e4e5832.html">Stella di Campalto</a></td>
+<td><a href="./wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">Rosso di Montalcino</a></td>
+<td>2016</td>
+<td>Sangiovese</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/6f989a26-3b14-4aeb-96b8-2c5133741728.html">Stellenbosch Hills</a></td>
+<td><a href="./wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">Chenin Blanc</a></td>
+<td>2019</td>
+<td>Chenin Blanc</td>
+<td>7.20</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c.html">Storm</a></td>
+<td><a href="./wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">Ridge Pinot Noir</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c.html">Storm</a></td>
+<td><a href="./wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">Vrede Pinot Noir</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>8.75</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c.html">Storm</a></td>
+<td><a href="./wines/b837734a-480c-455b-98e6-25a04b7095ff.html">Vrede Pinot Noir</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/e8898726-cf1b-419e-87f3-41976bd9b480.html">Suertes del Marques</a></td>
+<td><a href="./wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">El Chibirique</a></td>
+<td>2017</td>
+<td>Listán Negro</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da.html">Tasca</a></td>
+<td><a href="./wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">Tenuta Regaleali Nozze d’Oro</a></td>
+<td>2018</td>
+<td>Sauvignon Blanc, Inzolia</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da.html">Tasca</a></td>
+<td><a href="./wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">Tenuta Tascante Buonora</a></td>
+<td>2019</td>
+<td>Carricante</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td><a href="./producers/b98bcfad-8174-498b-9f8a-d4180ec288b5.html">Ten Minutes by Tractor</a></td>
+<td><a href="./wines/100555ef-0137-4e0f-aa66-e49f8d3f355e.html">McCutcheon Chardonnay</a></td>
+<td>2017</td>
+<td></td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/76d73220-0673-4868-99a9-dc6f8e3dcdd8.html">Terra Fresca</a></td>
+<td><a href="./wines/4e6b1890-7360-4d61-af6a-e7a6ac427f98.html">frizzante</a></td>
+<td>NV</td>
+<td>Unknown</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4.html">Baby Bandito Chin Up</a></td>
+<td>2020</td>
+<td>Cinsault</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">Baby Bandito Chin Up</a></td>
+<td>2021</td>
+<td>Cinsault</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">Baby Bandito Follow Your Dreams</a></td>
+<td>2021</td>
+<td>Cariñena</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">Baby Bandito Stay Brave</a></td>
+<td>2017</td>
+<td>Chenin Blanc</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">Baby Bandito Stay Brave</a></td>
+<td>2019</td>
+<td>Chenin Blanc</td>
+<td>6.88</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">Baby Bandito Stay Brave</a></td>
+<td>2021</td>
+<td>Chenin Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">El Bandito I Wish I was a Ninja</a></td>
+<td>2021</td>
+<td>Colombard</td>
+<td>7.20</td>
+</tr>
+<tr class="even">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">El Bandito I am the Ninja</a></td>
+<td>2020</td>
+<td>Chenin Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>South Africa</td>
+<td><a href="./producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="./wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">El Bandito Skin</a></td>
+<td>2019</td>
+<td>Chenin Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>USA</td>
+<td><a href="./producers/ac1f138e-7907-4148-b0df-b803faeb42ef.html">The Hilt</a></td>
+<td><a href="./wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">Estate Pinot Noir</a></td>
+<td>2017</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/dbc80a5b-3294-4c28-959c-1f65b7f1decd.html">Thymiopoulos</a></td>
+<td><a href="./wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f.html">Xinomavro Young Vines</a></td>
+<td>2017</td>
+<td>Xinomavro</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Greece</td>
+<td><a href="./producers/dbc80a5b-3294-4c28-959c-1f65b7f1decd.html">Thymiopoulos</a></td>
+<td><a href="./wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">Xinomavro Young Vines</a></td>
+<td>2018</td>
+<td>Xinomavro</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Portugal</td>
+<td><a href="./producers/9b7d5999-fe0e-4517-ace4-c0573ccbb5b4.html">Tiago Teles</a></td>
+<td><a href="./wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">Gilda Tinto</a></td>
+<td>2012</td>
+<td>Merlot, Castelão Fritters, Tinto Cão</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Portugal</td>
+<td><a href="./producers/9b7d5999-fe0e-4517-ace4-c0573ccbb5b4.html">Tiago Teles</a></td>
+<td><a href="./wines/ea9b241a-ec1f-4814-ad56-899d497fe95a.html">Raiz Red</a></td>
+<td>2017</td>
+<td>Alfrocheiro Preto, Touriga Nacional</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/8b223828-b1d0-4f0c-bb09-37958397e1e3.html">Trossos</a></td>
+<td><a href="./wines/ac087d27-5f55-4c5f-bd52-b75f29c236fd.html">Sants</a></td>
+<td>2018</td>
+<td>Garnacha Blanca</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="./producers/5b7283e3-a195-4382-901f-04bd6e393d94.html">Tsikhelishvili Wines</a></td>
+<td><a href="./wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">Alvani Rkatsiteli</a></td>
+<td>2018</td>
+<td>Rkatsiteli</td>
+<td>8.20</td>
+</tr>
+<tr class="odd">
+<td>Georgia</td>
+<td><a href="./producers/5b7283e3-a195-4382-901f-04bd6e393d94.html">Tsikhelishvili Wines</a></td>
+<td><a href="./wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614.html">Jgia</a></td>
+<td>2018</td>
+<td>Jgia</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="./producers/5b7283e3-a195-4382-901f-04bd6e393d94.html">Tsikhelishvili Wines</a></td>
+<td><a href="./wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">Mtsvane</a></td>
+<td>2018</td>
+<td>Mtsvane, Rkatsiteli</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/8c3c5d3f-8266-47f2-b91f-08512bee881f.html">Tussock Jumper</a></td>
+<td><a href="./wines/23988fb0-28dd-4efa-82fa-4680a2710517.html">Pinot Grigio</a></td>
+<td>2018</td>
+<td>Pinot Grigio</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Australia</td>
+<td><a href="./producers/5166bbee-f282-41d3-a92d-08890f2ce175.html">Two Hands</a></td>
+<td><a href="./wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd.html">Sexy Beast</a></td>
+<td>2019</td>
+<td>Cabernet Sauvignon</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">Les Enfers Blanc des Blancs Extra Brut (2014)</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>10.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/870ccf3b-4295-4932-b8f7-10998dddd6ec.html">Les Maillons Blanc de Noirs Extra Brut (2016)</a></td>
+<td>NV</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">Les Maillons Blanc de Noirs Extra Brut (2017)</a></td>
+<td>NV</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">Les Pierrières Blanc des Blancs Extra Brut (2017)</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>10.00</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007)</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="./wines/50353325-007d-429d-b70b-f9d40206fe8d.html">Les Roises Blanc de Blancs Extra Brut (2015)</a></td>
+<td>NV</td>
+<td>Chardonnay</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba.html">Victoria E. Torres Pecis</a></td>
+<td><a href="./wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">Piezas #4 Malvasia Seco</a></td>
+<td>2018</td>
+<td>Malvasia di Candia Aromatica</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba.html">Victoria E. Torres Pecis</a></td>
+<td><a href="./wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">Vino de Solera de Listán Blanco</a></td>
+<td>2013</td>
+<td>Palomino</td>
+<td>8.80</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/040a275b-2e16-4d7a-a557-036bf44d85df.html">Villa Calicantus</a></td>
+<td><a href="./wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">Sollazzo</a></td>
+<td>2018</td>
+<td>Corvina, Molinara, Rondinella, Sangiovese</td>
+<td>7.20</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/040a275b-2e16-4d7a-a557-036bf44d85df.html">Villa Calicantus</a></td>
+<td><a href="./wines/76c88c36-a8b2-4aac-baf1-7a97765f99cd.html">Soracuna</a></td>
+<td>2018</td>
+<td>Corvina, Rondinella, Molinara, Merlot</td>
+<td>7.80</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/ecfc448d-b029-4031-916c-93c5bac91f68.html">Villa Clara</a></td>
+<td><a href="./wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">Cava Brut</a></td>
+<td>NV</td>
+<td>Macabeo, Parellada</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/207c456f-75f3-4f37-9870-8cbccfdb4724.html">Villa Puccini</a></td>
+<td><a href="./wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023.html">Chianti Riserva</a></td>
+<td>2016</td>
+<td>Sangiovese, Canaiolo, Cabernet Sauvignon</td>
+<td>6.50</td>
+</tr>
+<tr class="odd">
+<td>Ukraine</td>
+<td><a href="./producers/1360c306-3364-428a-a606-7f44dfbef128.html">Vinoman</a></td>
+<td><a href="./wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">BLU Pinot Noir</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/4182582c-a43d-4b29-afea-93fdb6352e44.html">Viña Pomal</a></td>
+<td><a href="./wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">Viura Malvasia</a></td>
+<td>2017</td>
+<td>Macabeo, Malvasia di Candia Aromatica</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">Viña Tondonia</a></td>
+<td><a href="./wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">Blanco Reserva</a></td>
+<td>2008</td>
+<td>Malvasia di Candia Aromatica</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">Viña Tondonia</a></td>
+<td><a href="./wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">Blanco Reserva</a></td>
+<td>2009</td>
+<td>Macabeo, Malvasia di Candia Aromatica</td>
+<td>9.00</td>
+</tr>
+<tr class="odd">
+<td>Spain</td>
+<td><a href="./producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">Viña Tondonia</a></td>
+<td><a href="./wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">Blanco Reserva</a></td>
+<td>2010</td>
+<td>Macabeo, Malvasia di Candia Aromatica</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td><a href="./producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">Viña Tondonia</a></td>
+<td><a href="./wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">Blanco Viña Gravonia Crianza</a></td>
+<td>2013</td>
+<td>Macabeo</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="./wines/21d131ca-0b4c-4cb1-bbcb-a014bb3f4517.html">Gutedel</a></td>
+<td>2019</td>
+<td>Chasselas</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="./wines/337a2bed-7c43-4f41-bfce-795d19f52a72.html">Spätburgunder</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="./wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">Spätburgunder</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Germany</td>
+<td><a href="./producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="./wines/ccc7fb99-5ce1-4e87-9815-074ee3f02c79.html">Vulkan</a></td>
+<td>2019</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="./wines/8467ead0-fee2-4ba7-8472-26432a6a8958.html">Vulkan</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Switzerland</td>
+<td><a href="./producers/63bc4f28-ab71-47ff-95c5-4d484eeb2b95.html">Weinbau Markus Ruch</a></td>
+<td><a href="./wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">Klettgau Pinot Noir</a></td>
+<td>2018</td>
+<td>Pinot Noir</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Argentina</td>
+<td><a href="./producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="./wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">Cabernet Sauvignon</a></td>
+<td>2010</td>
+<td>Cabernet Sauvignon</td>
+<td>7.75</td>
+</tr>
+<tr class="even">
+<td>Argentina</td>
+<td><a href="./producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="./wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">Carrascal Chardonnay</a></td>
+<td>2021</td>
+<td>Chardonnay</td>
+<td>7.40</td>
+</tr>
+<tr class="odd">
+<td>Argentina</td>
+<td><a href="./producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="./wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">Cavas de Weinert Cask Selection</a></td>
+<td>2009</td>
+<td>Cabernet Sauvignon, Malbec, Merlot</td>
+<td>8.50</td>
+</tr>
+<tr class="even">
+<td>Argentina</td>
+<td><a href="./producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="./wines/1cef4a62-828f-47ca-8489-ea911196b860.html">Merlot</a></td>
+<td>2011</td>
+<td>Merlot</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Argentina</td>
+<td><a href="./producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="./wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">Montfleury</a></td>
+<td>2020</td>
+<td>Pinot Noir</td>
+<td>7.40</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="./wines/9e046e12-6366-4d23-8657-ee421ad00794.html">Brut Rosé</a></td>
+<td>NV</td>
+<td>Pinot Noir, Saint-Laurent, Zweigelt</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="./wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">Grüner Veltliner Kamptaler Terrassen</a></td>
+<td>2019</td>
+<td>Grüner Veltliner</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="./wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">Hauswein Grüner Veltliner</a></td>
+<td>2021</td>
+<td>Grüner Veltliner</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="./wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">Riesling Heiligenstein Lyra</a></td>
+<td>2018</td>
+<td>Riesling</td>
+<td>9.00</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="./wines/cdd63749-d893-457a-b852-06a407e52c84.html">Zweigelt</a></td>
+<td>2015</td>
+<td>Zweigelt</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>România</td>
+<td><a href="./producers/4201bdfd-2fab-4d05-9fd9-0154225a5a7b.html">Weingut Edgar Brutler</a></td>
+<td><a href="./wines/b7273268-eb5a-4131-a135-e1cfd610752f.html">Saito</a></td>
+<td>2018</td>
+<td></td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="./wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">Blanc</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc, Welschriesling, Pinot Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="./wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">Blanc Reserve</a></td>
+<td>2017</td>
+<td>Sauvignon Blanc, Welschriesling, Pinot Blanc</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="./wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">Sauvignon Blanc Südsteiermark Spätfüllung</a></td>
+<td>2017</td>
+<td>Sauvignon Blanc</td>
+<td>8.50</td>
+</tr>
+<tr class="odd">
+<td>Austria</td>
+<td><a href="./producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="./wines/3af6dc13-151d-4cfa-a315-e3f68d6e04a0.html">Temento Green</a></td>
+<td>2019</td>
+<td>Sauvignon Blanc</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>Austria</td>
+<td><a href="./producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="./wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">Temento Green</a></td>
+<td>2020</td>
+<td>Sauvignon Blanc, Welschriesling</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td><a href="./producers/0d5b050e-52f9-42f9-9403-65b219de680e.html">Weinland Rheingau</a></td>
+<td><a href="./wines/d475d86d-a8a1-4466-8dce-40252032232d.html">Rüdesheimer Burgweg Riesling Trocken</a></td>
+<td>2021</td>
+<td>Riesling</td>
+<td>7.30</td>
+</tr>
+<tr class="even">
+<td>Italy</td>
+<td><a href="./producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5.html">Zeni</a></td>
+<td><a href="./wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">Garganega Veronese Vigne Alte</a></td>
+<td>2018</td>
+<td>Garganega</td>
+<td>7.00</td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td><a href="./producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5.html">Zeni</a></td>
+<td><a href="./wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b.html">Garganega Veronesse Vigne Alte</a></td>
+<td>2020</td>
+<td>Garganega</td>
+<td>7.00</td>
+</tr>
+<tr class="even">
+<td>France</td>
+<td><a href="./producers/3d5928c7-97f8-4a20-bad4-14a91e1ec7c9.html">Éric Chevalier</a></td>
+<td><a href="./wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">Cirrus</a></td>
+<td>2018</td>
+<td>Sauvignon Gris</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Greece</td>
+<td><a href="./producers/95d71a6e-ca7e-4b66-82a9-279ee08acdcb.html">Ρίζες 2</a></td>
+<td><a href="./wines/bbdbad91-d8e2-419c-9a2a-da23ab73e015.html">Βιδιανό - Ασύρτικο (Vidiano - Assyrtiko)</a></td>
+<td>2020</td>
+<td>Vidiano, Assyrtiko</td>
+<td>1.50</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+    </main>
+
+    <footer>
+      Site proudly generated by
+      <a href="https://github.com/d12frosted/vulpea">Vulpea</a>,
+      <a href="https://github.com/d12frosted/vino">Vino</a>
+      and
+      <a href="http://jaspervdj.be/hakyll">Hakyll</a>
+    </footer>
+
+    <!-- MailerLite Universal -->
+    <script>
+      (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+                                                     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+                               n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+      (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+      ml('account', '82250');
+    </script>
+    <!-- End MailerLite Universal -->
+
+  </body>
+</html>
