@@ -47,5 +47,11 @@ Tasted as part of Il Pirata event.
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
+  </a>
+
 </div>
 #+end_export
