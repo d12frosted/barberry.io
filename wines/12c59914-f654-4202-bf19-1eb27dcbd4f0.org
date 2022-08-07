@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     c2486ffb-92bd-4757-8ff9-1bb336d4df1a
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp]]
 
@@ -15,14 +12,8 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     2ad5143e-b135-493a-8188-7527d23694c2
-:END:
 
 *** 2021-12-21 - ☆ 8.00
-:PROPERTIES:
-:ID:                     616a48fc-5e8e-4d06-aa8c-fb1e01777dfe
-:END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
 
@@ -32,9 +23,6 @@ mousse, good volume, fresh and well balanced. Tasty, not complex and
 kind of overpriced.
 
 ** Related
-:PROPERTIES:
-:ID:                     a218496b-c5ba-4cea-91e4-1791c70d31e2
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -51,6 +39,7 @@ kind of overpriced.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>

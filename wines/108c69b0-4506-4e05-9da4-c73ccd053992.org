@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     d2004355-6cf3-4996-9398-d3f5fc5bfa12
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/10/8c69b0-4506-4e05-9da4-c73ccd053992/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp]]
 
@@ -15,23 +12,14 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     95335ef1-de70-46ee-8518-1f89d78a2ef9
-:END:
 
 *** 2021-12-21 - ☆ 5.00
-:PROPERTIES:
-:ID:                     6fd9fa66-1e52-4a17-a36e-520d27a66cfe
-:END:
 
 Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
 
 Seriously, I did my best to enjoy this wine. And on the nose it's good, simple and fruit-forward but good. Apples, oak touch, candied pear. No signs of stated 36 months on lees, but ok. The real problem is the taste - apple seeds and nothing more. To the point that there is no pleasure in drinking it, so I could not finish even 5cl. So the score is mostly for nose.
 
 ** Related
-:PROPERTIES:
-:ID:                     36e3f8e2-0b54-4fb7-95d6-2313abb3af01
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -48,6 +36,7 @@ Seriously, I did my best to enjoy this wine. And on the nose it's good, simple a
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>

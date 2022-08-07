@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     713e00cd-55b8-438d-aae7-9db05812b0f9
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     a01fbf77-1391-4fdf-ba6c-ccc47ca6effa
-:END:
 
 Wonderful winemaker from Champagne.
 
@@ -32,30 +26,18 @@ Guilde to Goodwine #38
 #+end_quote
 
 ** Ratings
-:PROPERTIES:
-:ID:                     1508e6aa-f11f-4b96-b3de-d421a95c409e
-:END:
 
 *** 2021-02-06 - ☆ 8.25
-:PROPERTIES:
-:ID:                     bb7a3bf0-7b0e-40a1-b276-2eef0b776eba
-:END:
 
 In love with Bedel wines. Rich, complex and so yummy. Oxidative notes, baked apples, Jerez and lemon tart. While being powerful, it is not heavy, and well balanced.
 
 *** 2021-08-17 - ☆ 8.50
-:PROPERTIES:
-:ID:                     48d0e6cb-7d6f-4297-a6dd-840ba4de2ffb
-:END:
 
 Lovely expressive and oxidative Bedel-style. Baked apples with honey, toast, pear, roasted nuts, Jerez, lemon tart, oil. Sophisticated, but friendly and approachable, rich and powerful. Delicious as hell.
 
 Tasted as part of Divych Vechir event.
 
 ** Related
-:PROPERTIES:
-:ID:                     7a0219b7-fb2d-426c-94b8-c3ce7b96c079
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -78,6 +60,7 @@ Tasted as part of Divych Vechir event.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>

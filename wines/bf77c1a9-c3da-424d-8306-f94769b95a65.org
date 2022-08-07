@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     eaf2d97a-1a33-4ad0-80e7-295c369537fb
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/bf/77c1a9-c3da-424d-8306-f94769b95a65/2021-12-27-18-44-25-B467424A-B015-4E87-ABE2-6A26CB7C9065-1-105-c.webp]]
 
@@ -17,20 +14,15 @@
 75% Chardonnay, 25% Pinot Noir.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     301e62aa-387a-45e0-96f1-9a0f15351234
-:END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
-:PROPERTIES:
-:ID:                     b17f04bf-e36d-4eb7-bc50-b68b87fbc92e
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>

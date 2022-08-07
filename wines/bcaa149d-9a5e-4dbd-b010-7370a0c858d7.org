@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     607a5954-7bc7-4c1f-89bf-c02eeb2d8245
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     b970e5c0-88db-460d-a0e8-5cf7f47cb9ec
-:END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
 
@@ -32,14 +26,8 @@ The birth of their first child made Tom reconsider moving back to South Africa, 
 Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     70add46b-5b80-4304-af55-8b9cc936b56e
-:END:
 
 *** 2020-07-22 - ☆ 7.00
-:PROPERTIES:
-:ID:                     5a2bdd53-e63f-48cf-8ede-499f292023e6
-:END:
 
 I feared that this will be devastating, brutal experience. Not sure if I just
 became more tolerant, or it's just a mismatch of wine with its name, but I
@@ -47,9 +35,6 @@ enjoyed the bottle. Lots of red fruits, sour beer and Raclette. A little bit
 funky, but tasty.
 
 *** 2020-12-18 - ☆ 7.50
-:PROPERTIES:
-:ID:                     ab2f673d-9a0e-4280-9dbd-5affb002e4db
-:END:
 
 Tasting again in almost 5 months, and now I like it a little bit more
 as it become deeper and less nervous. Reductive sour notes and burst
@@ -57,9 +42,6 @@ of red fruits. Not simple. Fresh, flavours of black fruits, well
 integrated reductive character.
 
 ** Related
-:PROPERTIES:
-:ID:                     f0fc3e7e-62e9-4353-93ce-8726e9ac145d
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -121,6 +103,7 @@ integrated reductive character.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+    <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>

@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     3aa35e89-8f35-4313-a439-a222a2b69db9
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     2ae79f4b-047b-4f9d-a27d-42dc111dede9
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -21,7 +15,13 @@
     <section class="h text-bolder">Montlouis Sur Loire Clos Michet - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+  <a class="flex-item flex-item-left" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
+    <img class="flex-bottle" src="/images/38/f3bf0d-21eb-4214-a52a-259ffa5b8b7b/2022-08-07-11-25-47-BA97EBD2-6F39-431B-8A91-0169F6889932-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Montlouis Sur Loire Clos Michet - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
     <img class="flex-bottle" src="/images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 8.50</section>
     <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>

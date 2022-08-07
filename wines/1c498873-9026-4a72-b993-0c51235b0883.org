@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:                     d86c5f9f-feda-40c4-848e-9b8c9ba3e5dc
-:END:
+#+attr_html: :class wine-main-image
+[[file:/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp]]
+
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]
 - Vintage :: 2014
@@ -8,43 +8,32 @@
 - Grapes :: Chardonnay, Pinot Noir
 - Alcohol :: 12.5
 - Sugar :: NA
-- Price :: 1412 UAH, 1518 UAH, 1650 UAH
+- Price :: 1412 UAH, 1518 UAH, 1650 UAH, 1790 UAH
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     ed92a3b8-d813-4a80-ba0c-a57d69484ea5
-:END:
 
 *** 2020-12-18 - ☆ 8.00
-:PROPERTIES:
-:ID:                     a00e4c84-2ef7-4668-ab2a-9a2946a6b60f
-:END:
 
 Very cool traditional style sparkling that decided to drop Franciacorta DOCG from the label. Powerful and rich nose, with oxidative notes, apple tart, honey. Well balanced, but lacks freshness (just a tiny bit). I am very happy to witness great effort.
 
 *** 2021-08-17 - ☆ 8.25
-:PROPERTIES:
-:ID:                     6d559281-c982-44b1-a5c7-392c913317c2
-:END:
 
 Tasted as part of Divych Vechir.
 
 Beautiful wine. Tasting again in almost a year and it become even better. Sea breeze, cream, dough, mildew (in a very good way), marzipan, baked apples, ginger. Sophisticated, expressive, delicious but friendly and approachable. I agree with people who say that it lacks acidity to achieve perfection. Definitely great alternative to Champagne, good QPR. Hope to taste other wines from this range.
 
 *** 2021-12-21 - ☆ 8.50
-:PROPERTIES:
-:ID:                     d37301b0-0064-45bb-8672-1c0eed73f673
-:END:
-
-Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
 
 Constantly delivers. Wonderful table wine (!). Charming bouquet full of nuts, baked apples, soaked apples, honey, ginger, citrus and toast. Complex, and demanding. Well balanced, right volume, tasty with long and flavourful aftertaste. Definitely one of my favourite traditional sparkling wines. And great value, btw.
 
+Tasted as part of [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles]] event.
+
+*** 2022-08-06 - ☆ 8.25
+
+As delicious as ever. Some say that it begins to fade away, but IMO it's still alive and kicks. Multilayered, intense and complex. High acidity, almost perfectly balanced. Baked apple, pickles, wet matches, nuts, honey, ginger, toast and citrus.
+
 ** Related
-:PROPERTIES:
-:ID:                     6d2373c9-c7dc-448a-8179-72dd95e7cf16
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -84,22 +73,34 @@ Constantly delivers. Wonderful table wine (!). Charming bouquet full of nuts, ba
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+  <a class="flex-item flex-item-left" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
+    <img class="flex-bottle" src="/images/38/f3bf0d-21eb-4214-a52a-259ffa5b8b7b/2022-08-07-11-25-47-BA97EBD2-6F39-431B-8A91-0169F6889932-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis Sur Loire Clos Michet - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
     <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
+  <a class="flex-item flex-item-left" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
     <img class="flex-bottle" src="/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
+  <a class="flex-item flex-item-right" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
     <img class="flex-bottle" src="/images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">
+    <img class="flex-bottle" src="/images/cd/47aa9b-d3ca-4039-8b24-212abb20e97d/2022-08-07-11-26-17-1042A662-7747-448C-93C5-87AA4027CE8A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
