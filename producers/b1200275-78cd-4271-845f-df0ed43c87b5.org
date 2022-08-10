@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1a0b96a9-34e1-4ae9-b077-6803d902ce94.html">
+    <img class="flex-bottle" src="/images/1a/0b96a9-34e1-4ae9-b077-6803d902ce94/2022-08-10-08-36-34-B173538C-8070-41B0-95AD-0DD9A9E08DDA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h text-bolder">Code: Miss Mavrud - 2021</section>
+  </a>
+
+</div>
+#+end_export

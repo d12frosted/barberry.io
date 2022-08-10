@@ -33,7 +33,13 @@ Something is off with this macerated Pinot Gris (hehe, the colour is like Madeir
     <section class="h text-bolder">Chenin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
+  <a class="flex-item flex-item-right" href="/wines/1a0b96a9-34e1-4ae9-b077-6803d902ce94.html">
+    <img class="flex-bottle" src="/images/1a/0b96a9-34e1-4ae9-b077-6803d902ce94/2022-08-10-08-36-34-B173538C-8070-41B0-95AD-0DD9A9E08DDA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Linar Winery</section>
+    <section class="h text-bolder">Code: Miss Mavrud - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
     <img class="flex-bottle" src="/images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371.webp"></img>
     <section class="h text-small text-lighter">Markus Molitor</section>
     <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
