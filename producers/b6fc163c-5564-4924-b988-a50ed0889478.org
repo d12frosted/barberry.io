@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
+    <img class="flex-bottle" src="/images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
+  </a>
+
+</div>
+#+end_export

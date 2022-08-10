@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     51abd3a4-cc64-42b4-ab54-87383fc79c23
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/96/9b7bbf-2917-476f-859b-fcb1fb9f8bb3/2022-07-23-10-29-38-5B85905C-BE43-4CB6-ACA2-F895C52DA593-1-105-c.webp]]
 
@@ -12,28 +9,21 @@
 - Alcohol :: 13
 - Sugar :: 0.25
 - Price :: 765 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     47a155c4-53de-43a6-9715-273b8aebe215
-:END:
 
 Dominique Lucas is a 5th generation winemaker who migrated from his native Burgundy, frustrated with the region's reliance on chemicals. He is focused on making Chasselas in the Savoie that stands with the best white wines of France. Les Vignes de Paradis is located on the shores of Lake Geneva (Lac Leman).
 
 His vines are separated into 27 parcels of different soil composition. All are harvested by hand. Most of them are Chasselas, but he also has tiny parcels of Savagnin, Pinot Gris, Gamay, Chardonnay and Chenin Blanc. These are not old vines, but in the right hands...
 
 ** Ratings
-:PROPERTIES:
-:ID:                     6cb23060-07d4-4012-9cd1-5964019957c4
-:END:
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-08-09 - ☆ 7.25
+
+Something is off with this macerated Pinot Gris (hehe, the colour is like Madeira with a pink hue). The combination of skin contact and oxidation intrigues me, but the result is not fascinating. Slightly rotten apricot that also started its transformation into dried apricot. Rumpled peach. Dried herbs with some nuts. Unpleasant bitterness in the aftertaste and overall empty aftertaste turn me off.
 
 ** Related
-:PROPERTIES:
-:ID:                     ca675af5-9edd-4e68-a699-6b8047eeeb1c
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -41,6 +31,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/08/4f2900-816b-4687-bceb-9fe28995f7cc/2022-05-08-16-14-07-C8EB9916-4DCA-4E14-81F1-C4A8C12D814D-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Les Vignes De Paradis</section>
     <section class="h text-bolder">Chenin - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
+    <img class="flex-bottle" src="/images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371.webp"></img>
+    <section class="h text-small text-lighter">Markus Molitor</section>
+    <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
   </a>
 
 </div>

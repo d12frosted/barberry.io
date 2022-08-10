@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     453bb2e8-2871-48ea-8f7a-0316f195594f
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     30adce64-2ff8-4145-91ae-193adf1f570a
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -15,13 +9,19 @@
     <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
+  <a class="flex-item flex-item-right" href="/wines/31530272-f7ba-4e7b-bb2f-c1128376058a.html">
+    <img class="flex-bottle" src="/images/31/530272-f7ba-4e7b-bb2f-c1128376058a/2022-08-09-08-39-28-604456D3-656E-40D6-9900-686579C8837A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Rosso di Montalcino - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
     <img class="flex-bottle" src="/images/3f/4758f2-4bf9-4d99-96c3-dd2f85517d8c/2020-10-28-09-14-24-65F97BB7-C578-4F0B-A691-E3B5CE63E570-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 9.00</section>
     <section class="h text-bolder">Rosso di Montalcino - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
+  <a class="flex-item flex-item-right" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
     <img class="flex-bottle" src="/images/77/db09df-c1fb-4bb2-b196-8f3be7c84ee9/2021-12-27-18-27-05-3160D231-4536-4B48-B473-F2A581994F7E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ -</section>
     <section class="h text-bolder">Rosso di Montalcino - 2016</section>

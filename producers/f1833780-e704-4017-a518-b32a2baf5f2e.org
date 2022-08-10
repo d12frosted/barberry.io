@@ -1,14 +1,8 @@
-:PROPERTIES:
-:ID:                     70ffa648-d335-4c8c-9019-a1fae061cb7a
-:END:
 Dominique Lucas is a 5th generation winemaker who migrated from his native Burgundy, frustrated with the region's reliance on chemicals. He is focused on making Chasselas in the Savoie that stands with the best white wines of France. Les Vignes de Paradis is located on the shores of Lake Geneva (Lac Leman).
 
 His vines are separated into 27 parcels of different soil composition. All are harvested by hand. Most of them are Chasselas, but he also has tiny parcels of Savagnin, Pinot Gris, Gamay, Chardonnay and Chenin Blanc. These are not old vines, but in the right hands...
 
 ** Wines
-:PROPERTIES:
-:ID:                     9c7bfb5e-8da6-4413-89a7-c39420f9600d
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -20,7 +14,7 @@ His vines are separated into 27 parcels of different soil composition. All are h
 
   <a class="flex-item flex-item-right" href="/wines/969b7bbf-2917-476f-859b-fcb1fb9f8bb3.html">
     <img class="flex-bottle" src="/images/96/9b7bbf-2917-476f-859b-fcb1fb9f8bb3/2022-07-23-10-29-38-5B85905C-BE43-4CB6-ACA2-F895C52DA593-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 7.25</section>
     <section class="h text-bolder">Pinot Gris M... - 2019</section>
   </a>
 

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     4cbe9029-2353-4e7f-bbef-537f5e22487e
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp]]
 
@@ -15,14 +12,8 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     22c1e818-e731-41ce-b5b0-169acc100d8f
-:END:
 
 *** 2021-05-06 - ☆ 9.00
-:PROPERTIES:
-:ID:                     77787f7a-3bf2-4621-a9b7-2f0db54b245c
-:END:
 
 Mind blowing wine by gorgeous Stella di Campalto. Elegant and precise,
 field blend of Sangiovese, Tannat, Arinarnoa, Marcelan and Lagrein of
@@ -35,9 +26,6 @@ spend hours with a glass of sexy and juicy wine like this.
 тіло. Соковите та просто смачнюще. 4.5
 
 *** 2021-11-29 - ☆ 8.50
-:PROPERTIES:
-:ID:                     c73f5a6e-5dec-4db6-a0d5-e2b7cc044414
-:END:
 
 Beautiful as always. Elegant and precise bouquet: red flowers, cherry,
 strawberry, truffles and nut husk. Perfectly balanced and silky. Good
@@ -45,43 +33,46 @@ volume and persistent aftertaste. Turns out only around 300 bottles of
 this wine is produced every 3 years.
 
 ** Related
-:PROPERTIES:
-:ID:                     65815098-3002-4cc2-a57b-de72954f852c
-:END:
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
+  <a class="flex-item flex-item-left" href="/wines/31530272-f7ba-4e7b-bb2f-c1128376058a.html">
+    <img class="flex-bottle" src="/images/31/530272-f7ba-4e7b-bb2f-c1128376058a/2022-08-09-08-39-28-604456D3-656E-40D6-9900-686579C8837A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h text-bolder">Rosso di Montalcino - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f4758f2-4bf9-4d99-96c3-dd2f85517d8c.html">
     <img class="flex-bottle" src="/images/3f/4758f2-4bf9-4d99-96c3-dd2f85517d8c/2020-10-28-09-14-24-65F97BB7-C578-4F0B-A691-E3B5CE63E570-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Rosso di Montalcino - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
+  <a class="flex-item flex-item-left" href="/wines/77db09df-c1fb-4bb2-b196-8f3be7c84ee9.html">
     <img class="flex-bottle" src="/images/77/db09df-c1fb-4bb2-b196-8f3be7c84ee9/2021-12-27-18-27-05-3160D231-4536-4B48-B473-F2A581994F7E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Stella di Campalto</section>
     <section class="h text-bolder">Rosso di Montalcino - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+  <a class="flex-item flex-item-right" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
     <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
+  <a class="flex-item flex-item-left" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
     <img class="flex-bottle" src="/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Pierre Frick</section>
     <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+  <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
     <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine de la Touraize</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
