@@ -1,0 +1,12 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Amour de Deutz - 2009</section>
+  </a>
+
+</div>
+#+end_export
