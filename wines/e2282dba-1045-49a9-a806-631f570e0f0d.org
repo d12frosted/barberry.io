@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/e2/282dba-1045-49a9-a806-631f570e0f0d/2022-08-12-11-50-44-IMG-1437.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/5fc06935-eb1a-4edd-833a-df0217836334][Ochota barrels]]
+- Vintage :: 2019
+- Location :: Australia, Adelaide Hills
+- Grapes :: Gamay
+- Alcohol :: 12.4
+- Sugar :: 1
+- Price :: 997 UAH
+- Cellar :: 1 bottle
+
+Three clones planted in 1985.
+
+** Producer
+
+Ochota barrels began as passion of Taras and Amber during their surf trip along the Mexican west coast in a Volkswagen campervan in late 2000. After visiting several amazing wineries and beautiful surf spots, they decided to make holistic wines back in their homeland in South Australia.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
+    <img class="flex-bottle" src="/images/17/70821f-dd60-4149-9491-a95e838bd5d7/2021-07-20-09-18-17-64FA3893-9864-4121-981B-BD793D735C80-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Ochota barrels</section>
+    <section class="h text-bolder">kids of the black hole - 2019</section>
+  </a>
+
+</div>
+#+end_export

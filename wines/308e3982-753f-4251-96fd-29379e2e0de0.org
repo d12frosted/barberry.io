@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     a5cdc063-6b7b-4faa-aa10-835087b58a6f
-:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
 - Vintage :: 2020
@@ -12,9 +9,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     de2685c2-2ea0-43b5-af73-ee953bfd922a
-:END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
 
@@ -29,21 +23,12 @@ The birth of their first child made Tom reconsider moving back to South Africa, 
 Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     72613460-2b73-42be-8ec2-6e1f6abb4976
-:END:
 
 *** 2021-12-09 - ☆ 8.00
-:PROPERTIES:
-:ID:                     80009baf-1b51-40c8-8851-ed53dc1847f4
-:END:
 
 One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, strawberry, spices and some animal notes. Well balanced, fresh, elegant and just delicious. Quaffable, unfortunately, quaffable.
 
 ** Related
-:PROPERTIES:
-:ID:                     752216ce-9abc-4ea2-96ee-e6ae8e117d14
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -100,13 +85,19 @@ One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, s
     <section class="h text-bolder">Ace of Spades - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
+  <a class="flex-item flex-item-right" href="/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22.html">
+    <img class="flex-bottle" src="/images/d6/ffcdcc-661f-4e9e-bcfa-93446faf8f22/2022-08-12-12-05-19-IMG-1451.webp"></img>
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
     <img class="flex-bottle" src="/images/cd/920007-4ce3-4985-8aef-24c39ad97437/2021-12-10-08-31-44-97153939-1A0B-464C-BFFD-949CB733033C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>

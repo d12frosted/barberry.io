@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     9a5b4e3d-933c-46cb-8296-9c1caaf688af
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     64d3b466-35a9-41d6-80b9-946a096350dc
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -25,6 +19,11 @@
     <img class="flex-bottle" src="/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.50</section>
     <section class="h text-bolder">Sauvignon Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ba94148b-5ed1-447a-bd61-f6a3c7b2a0f1.html">
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
 </div>

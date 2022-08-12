@@ -43,5 +43,10 @@ Aside from catching label displaying the history of Malbec from Catena perspecti
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/44db7f60-5701-4ae4-801a-c0d39e82def1.html">
+    <section class="h text-small text-lighter">Alex Craighead</section>
+    <section class="h text-bolder">DON Nelson Pinot Noir - 2018</section>
+  </a>
+
 </div>
 #+end_export

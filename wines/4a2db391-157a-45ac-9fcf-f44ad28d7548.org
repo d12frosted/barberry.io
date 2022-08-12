@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     66ca5bcc-0225-4a25-bd71-68f81d28c1d8
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4a/2db391-157a-45ac-9fcf-f44ad28d7548/2021-08-20-08-51-33-DA309637-829D-4D3D-88BF-0123CAE0775A-1-105-c.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     bfc651e3-b3b2-4621-a382-b1d691fb4cd6
-:END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
 
@@ -32,21 +26,12 @@ The birth of their first child made Tom reconsider moving back to South Africa, 
 Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     e60f8bdf-f987-4432-b0e6-b2223d717c7e
-:END:
 
 *** 2021-08-19 - ☆ 7.50
-:PROPERTIES:
-:ID:                     c282f1bd-6fb4-4dd4-908f-297eea3e6c81
-:END:
 
 Young, but quaffable orange. Peach compote with bergamot tea and well integrated VA that only add complexity. Well balanced and juicy. Seemingly has potential, so need to taste it again in few months.
 
 ** Related
-:PROPERTIES:
-:ID:                     79a338e9-b25d-49c6-8786-6c838e9d2054
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -102,19 +87,25 @@ Young, but quaffable orange. Peach compote with bergamot tea and well integrated
     <section class="h text-bolder">Ace of Spades - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
+  <a class="flex-item flex-item-right" href="/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22.html">
+    <img class="flex-bottle" src="/images/d6/ffcdcc-661f-4e9e-bcfa-93446faf8f22/2022-08-12-12-05-19-IMG-1451.webp"></img>
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
     <img class="flex-bottle" src="/images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
     <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
     <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>

@@ -1,0 +1,34 @@
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/9880c5f6-e77b-4171-9e0f-069b9c4fcae0][Alex Craighead]]
+- Vintage :: 2018
+- Location :: New Zealand, Nelson
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: 0.1
+- Price :: 745 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-10-28 - ☆ 4.50
+
+Some time ago I tasted Brutal by Alex Craighead and I wasn't happy about this acquaintance. Typically flawed low intervention wine. But then I though that it's a good idea to give a chance to his Pinot Noir. So here I am reevaluating my life choices that led me to this moment. Pricey and faulty. Instant noodles with spices, sour cherry and cucumber pickled in the acetone. VA is horrible here and leaks to the taste. Thanks, I'll pass.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5d58df70-237b-49d5-b236-b91ce5c45eba.html">
+    <img class="flex-bottle" src="/images/5d/58df70-237b-49d5-b236-b91ce5c45eba/2022-08-12-12-23-30-IMG-1459.webp"></img>
+    <section class="h text-small text-lighter">Alex Craighead</section>
+    <section class="h text-bolder">Kindeli Verano - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
+    <img class="flex-bottle" src="/images/70/1467bd-f72d-461f-a59e-5d7da0e98a8f/2020-10-18-13-53-29-398E0F67-117F-4535-9055-9779F45E327C-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Argentino - 2017</section>
+  </a>
+
+</div>
+#+end_export

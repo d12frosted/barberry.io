@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     cea59504-bbc2-494c-9fed-5f58394d5a48
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/77/312847-db16-4aa4-ad60-59576ffa9b6f/2022-06-25-13-26-02-468B6893-5C8E-4FD1-A68A-526A39CE9000-1-105-c.webp]]
 
@@ -15,37 +12,33 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     3f264133-bb4f-4a66-9daf-0f58f9f89d5d
-:END:
 
 *** 2022-06-24 - ☆ 7.20
-:PROPERTIES:
-:ID:                     ef426256-6a7e-4642-aafa-a2e7d8512562
-:END:
 
 Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy and easy going thanks to 12.5 abv.
 
 ** Related
-:PROPERTIES:
-:ID:                     15f4abad-7bd5-42fa-9438-0b82319e227a
-:END:
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
+  <a class="flex-item flex-item-left" href="/wines/ba94148b-5ed1-447a-bd61-f6a3c7b2a0f1.html">
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
     <img class="flex-bottle" src="/images/de/295137-6c7a-406f-9821-d0e2e9f9ed2d/2021-10-02-10-49-11-AD36241D-4113-409A-910F-56C26831BDF4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Pinot Noir - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
+  <a class="flex-item flex-item-left" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
     <img class="flex-bottle" src="/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">
+  <a class="flex-item flex-item-right" href="/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">
     <img class="flex-bottle" src="/images/a0/e5d240-0e7b-4e88-a738-6524e38596dc/2022-06-25-13-47-50-F0215729-4CFE-4BD5-814D-CB4F7E32CD20-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Pomal</section>
     <section class="h text-bolder">Viura Malvasia - 2017</section>

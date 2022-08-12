@@ -27,7 +27,13 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+  <a class="flex-item flex-item-right" href="/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e.html">
+    <img class="flex-bottle" src="/images/2b/df5b08-d90a-4cf9-b69d-fb3d0ffefd2e/2022-08-12-12-07-05-IMG-1453.webp"></img>
+    <section class="h text-small text-lighter">Cà del Vént</section>
+    <section class="h text-bolder">Anima Brut Rosé Pas Operé VSQ - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
     <img class="flex-bottle" src="/images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Cà del Vént</section>
     <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>

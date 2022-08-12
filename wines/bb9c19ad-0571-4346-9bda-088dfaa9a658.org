@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     7ee5a683-a584-4dea-a9c3-b356ea7bf5b8
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/bb/9c19ad-0571-4346-9bda-088dfaa9a658/2021-12-27-17-24-14-121A3348-5E44-4369-BF14-238B093A4CC9-1-105-c.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     845b3482-777b-4103-82a2-4915f54fac6b
-:END:
 
 Domaine Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. As of 2022, they own 15 hectares of vineyards around the village of Calce. Vines are between 30 and 115 years old. Their focus is on the indigenous varieties of Northern Catalunya, including Grenache Gris, Maccabeu, Muscat d'Alexandrie (also known as Zibbibo), Lladonner Pelut (the Catalan Grenache), Carignan, and Mourvedre. Their wines are gentler in terms of alcohols, tannins and oak influence, more lively wines in terms of acidity or, ideally, deeper mineral sensations of freshness.
 
@@ -32,21 +26,12 @@ The birth of their first child made Tom reconsider moving back to South Africa, 
 Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     1d3c159e-3107-4745-91e8-652b33462591
-:END:
 
 *** 2022-01-15 - ☆ 8.00
-:PROPERTIES:
-:ID:                     867fe9fb-6c2f-4a22-9b80-78b8a3419d97
-:END:
 
 Blend of Grenache and Macabeo, no wonder it's something in-between red and rosé wine. Cloudy deep copper colour. Youthful and aromatic bouquet. Peach, acetone, white plum and tea. Medium bodied, fresh, round and medium tannin, almost perfectly balanced, long and flavourful aftertaste. Acetone and peach ice tea on the palate. Delicious and sophisticated wine.
 
 ** Related
-:PROPERTIES:
-:ID:                     b71b637d-71d3-4b31-82c4-63772c691ba1
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -100,6 +85,12 @@ Blend of Grenache and Macabeo, no wonder it's something in-between red and rosé
   <a class="flex-item flex-item-left" href="/wines/beb5669b-5c8c-4c11-ac52-37d225a86bc3.html">
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Ace of Spades - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22.html">
+    <img class="flex-bottle" src="/images/d6/ffcdcc-661f-4e9e-bcfa-93446faf8f22/2022-08-12-12-05-19-IMG-1451.webp"></img>
+    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2020</section>
   </a>
 
 </div>

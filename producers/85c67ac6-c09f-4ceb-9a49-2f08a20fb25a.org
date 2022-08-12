@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1712fbad-bd80-496b-a42c-fbba26f058f9.html">
+    <img class="flex-bottle" src="/images/17/12fbad-bd80-496b-a42c-fbba26f058f9/2022-08-12-12-19-18-IMG-1457.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Audrey - 2018</section>
+  </a>
+
+</div>
+#+end_export

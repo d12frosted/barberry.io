@@ -41,7 +41,13 @@ As expected, not your typical wine from Bardolino. Elegant and sophisticated. No
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+  <a class="flex-item flex-item-left" href="/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b.html">
+    <img class="flex-bottle" src="/images/5f/b42b2f-6d7d-4a31-98b2-d157c96cf41b/2022-08-12-12-03-19-IMG-1448.webp"></img>
+    <section class="h text-small text-lighter">Villa Calicantus</section>
+    <section class="h text-bolder">Chiar'otto Bardolino Classico Chiaretto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
     <section class="h text-small text-lighter">Villa Calicantus</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>

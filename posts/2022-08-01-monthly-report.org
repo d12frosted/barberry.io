@@ -41,7 +41,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | Australia      |     5 | 1 021.95 UAH |  7.82 | 2.2065 |
 | Austria        |     4 | 564.64 UAH   |  7.13 | 2.4144 |
 | Hungary        |     4 | 660.52 UAH   |  7.51 | 2.6975 |
-| Germany        |     4 | 918.75 UAH   |  7.91 | 2.8010 |
+| Germany        |     4 | 900.36 UAH   |  7.91 | 2.8480 |
 | Argentina      |     3 | 562.86 UAH   |  7.90 | 4.3237 |
 | South Africa   |     3 | 607.93 UAH   |  7.58 | 2.9454 |
 | Georgia        |     2 | 646.50 UAH   |  7.86 | 3.4607 |
@@ -80,7 +80,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |    2013 |     1 | 1 707.00 UAH |  8.80 | 2.6127 |
 |    2009 |     1 | 897.57 UAH   |  8.50 | 3.9230 |
 |    1997 |     1 | 1 408.00 UAH |  8.60 | 2.7044 |
-|      NV |    15 | 1 000.47 UAH |  7.23 | 2.5656 |
+|      NV |    15 | 995.57 UAH   |  7.23 | 2.5794 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -162,7 +162,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Gewürztraminer               |     1 | 800.00 UAH   |  7.50 | 2.0733 |
 | Malvasía Volcánica           |     1 | 1 024.00 UAH |  7.50 | 1.6197 |
 | Diego                        |     1 | 1 024.00 UAH |  7.50 | 1.6197 |
-| Dornfelder                   |     1 | 763.00 UAH   |  7.50 | 2.1738 |
+| Dornfelder                   |     1 | 689.43 UAH   |  7.50 | 2.4058 |
 | Brancellao                   |     1 | 826.00 UAH   |  7.50 | 2.0080 |
 | Mencía                       |     1 | 826.00 UAH   |  7.50 | 2.0080 |
 | Caiño                        |     1 | 826.00 UAH   |  7.50 | 2.0080 |
@@ -303,7 +303,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-25 | Spain          | [[barberry:/producers/cd1b94b8-6014-440d-8876-b6897a61770e][Muchada-Leclapart]]        | [[barberry:/wines/fef3962b-3fbb-469d-a068-6f75275ce4c3][Muchada-Leclapart Elixir 2017]]      |    2017 | 8.00 | 1.4563 |
 | 2022-07-25 | France         | [[barberry:/producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261][Domaine du Pélican]]       | [[barberry:/wines/4b3b5ce1-1779-425e-850b-d44e9f199db5][Domaine du Pélican Trois Cépages 2018]] |    2018 | 8.20 | 1.7147 |
 | 2022-07-25 | Greece         | [[barberry:/producers/0049dd51-fe96-4d40-b2df-e4f7c948c5c0][Domaine Sigalas]]          | [[barberry:/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9][Domaine Sigalas Santorini 2020]]     |    2020 | 7.50 | 1.4652 |
-| 2022-07-25 | Germany        | [[barberry:/producers/aad9deac-2c65-40fd-bbca-79468226b673][Fio Wein]]                 | [[barberry:/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb][Fio Wein Piu Piu Petnat Rosé NV]]    |      NV | 7.50 | 2.1738 |
+| 2022-07-25 | Germany        | [[barberry:/producers/aad9deac-2c65-40fd-bbca-79468226b673][Fio Wein]]                 | [[barberry:/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb][Fio Wein Piu Piu Petnat Rosé NV]]    |      NV | 7.50 | 2.4058 |
 | 2022-07-25 | Spain          | [[barberry:/producers/82fbe7e3-ad38-43d9-97ff-3a61452d5892][Adegas Guimaro]]           | [[barberry:/wines/bcbf8abd-faff-4a86-a1a6-afae3ff1ace9][Adegas Guimaro Camiño Real 2017]]    |    2017 | 7.50 | 2.0080 |
 | 2022-07-25 | Italy          | [[barberry:/producers/2fd367c5-4450-4a7d-bb9c-b953f573745d][Sandro Fay]]               | [[barberry:/wines/acb75785-ee20-419a-a21a-540f51157670][Sandro Fay Valtellina Superiore Valgella Riserva Carteria 2014]] |    2014 | 8.00 | 1.4159 |
 | 2022-07-25 | Spain          | [[barberry:/producers/e8898726-cf1b-419e-87f3-41976bd9b480][Suertes del Marques]]      | [[barberry:/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549][Suertes del Marques El Chibirique 2017]] |    2017 | 8.00 | 1.5686 |
