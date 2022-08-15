@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     9f393661-ad8a-4e10-9e2c-2e3ac567b237
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     73423868-acf4-4d7f-8f09-3dd8953be7dd
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -13,6 +7,12 @@
     <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.75</section>
     <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d03f1347-20e4-4c41-a412-ffb297c912ae.html">
+    <img class="flex-bottle" src="/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Origin Sylvaner Macération - 2020</section>
   </a>
 
 </div>

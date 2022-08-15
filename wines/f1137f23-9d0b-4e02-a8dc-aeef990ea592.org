@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     9324e6e4-53ae-40fb-9c7a-f013ef012b0d
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp]]
 
@@ -15,57 +12,54 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     08b76018-7870-4ac9-8c30-d835ca0b5ea8
-:END:
 
 *** 2022-06-07 - ☆ 7.75
-:PROPERTIES:
-:ID:                     8f8893cf-3936-4c6e-890a-0002b7b739bb
-:END:
 
 Tasted blind. My guesses were around [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]] and  [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]], but with influence from Sextant. Entry-level funky-style wine. Slightly restrained and simple in the nose with notes of sweet cherry, cranberry and spoiled jam. But it pays well in the taste. Fizzy at the beginning, salty with flavours of spoiled strawberry-cranberry jam but with the right volume and evolution based on jamminess. I would take it on a picnic, chill a little bit, and then chill together with a bottle or two of this wine.
 
 Wine #4 on [[barberry:/posts/2022-06-07-blind-tasting][a blind tasting event]] by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]] in 101 Bar.
 
 ** Related
-:PROPERTIES:
-:ID:                     661e43d2-45ec-47ff-bb9a-9e1f6d102851
-:END:
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
+  <a class="flex-item flex-item-left" href="/wines/d03f1347-20e4-4c41-a412-ffb297c912ae.html">
+    <img class="flex-bottle" src="/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Sylvaner Macération - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">
     <img class="flex-bottle" src="/images/22/4602d5-c307-4bfc-b84a-bfeede982fc0/2022-06-08-09-17-25-IMG-0340.webp"></img>
     <section class="h text-small text-lighter">COZs</section>
     <section class="h text-bolder">vn-c2 bg - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
+  <a class="flex-item flex-item-left" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
     <img class="flex-bottle" src="/images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chandon</section>
     <section class="h text-bolder">Argentina Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+  <a class="flex-item flex-item-right" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
     <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Sadie Family</section>
     <section class="h text-bolder">Pofadder - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
+  <a class="flex-item flex-item-left" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
     <img class="flex-bottle" src="/images/4a/169cba-26aa-4d74-a03a-07a7bea905db/2022-06-08-08-40-30-8E9A0699-5012-4DDB-800C-88569D622FF1-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Lenkey Pinceszet</section>
     <section class="h text-bolder">Betsek Korposd Furmint - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
     <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
+  <a class="flex-item flex-item-left" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
     <img class="flex-bottle" src="/images/9e/880b48-e667-429f-a5d8-222f6190cb3a/2022-06-08-08-58-22-90EF53B4-6E02-4143-8E8F-FC5BB22AC7FA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Simon Bize et Fils</section>
     <section class="h text-bolder">Bourgogne Les Perrières - 2017</section>

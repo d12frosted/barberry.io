@@ -1,0 +1,37 @@
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/53e31c1f-70b3-4504-897d-fe020167f48c][Denavolo]]
+- Vintage :: 2018
+- Location :: Italy, IGP Emilia
+- Grapes :: Ortrugo, Marsanne, Malvasia di Candia Aromatica
+- Alcohol :: 10.5
+- Sugar :: NA
+- Price :: NA
+- Cellar :: N/A
+
+** Producer
+
+When Giulio Armani is not busy with [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]], he produces his own wine - Denavolo (macerated for 6 months), Denavolino (similar to Denavolo, but grapes are from lower altitude) and Catavela (macerated from 7 days). His wines are comparable to famous [[barberry:/wines/1f4e920e-bfd4-4624-8445-fa8480962c17][La Stoppa Ageno 2015]].
+
+** Ratings
+
+*** 2020-08-28 - ☆ 6.50
+
+It was a nice revelation that Denavolo is a side project of Giulio Armani, oenologist of [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]. Hence big expectations from this wine, considering my love for [[barberry:/wines/1f4e920e-bfd4-4624-8445-fa8480962c17][La Stoppa Ageno 2015]]. First thing you get - massive brett attack (in a bad way). So let it breathe for some time. But even then brett, IPA, dried herbs, apples, hints of honey. Despite the long maceration on the skin (AFAIK around 6 months), it doesn't feel like over-tannic, but rather medium or medium-high, with sour acidity. Long finish, apple flavours. Definitely memorable wine. People say that it should rest in the bottle for some time. I agree and wonder how it will perform in few months or even a year.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/667f7cf0-ca79-4a69-9a23-79544c95dcfa.html">
+    <section class="h text-small text-lighter">Denavolo</section>
+    <section class="h text-bolder">Dinavolino - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e32109c0-1655-4e47-9df4-d4f6fadefd40.html">
+    <img class="flex-bottle" src="/images/e3/2109c0-1655-4e47-9df4-d4f6fadefd40/2022-08-14-11-17-16-E9828D20-9CC3-4EA8-B146-24A41B97E5A9-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Denavolo</section>
+    <section class="h text-bolder">Dinavolino - 2020</section>
+  </a>
+
+</div>
+#+end_export
