@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/e6b1b575-a7bd-429e-8873-1a44944edb05][Planeta]]
+- Vintage :: 2019
+- Location :: Italy, Etna DOC
+- Grapes :: Carricante
+- Alcohol :: 12.5
+- Sugar :: 0.9
+- Price :: 745 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-08-15 - ☆ 7.50
+
+Well made but lacks true Etna soul. Yet a safe bet for a diverse company of convives. Fresh, sophisticated, well-balanced and even delicate. Nice combination of tropical notes (hey, melon), herbs, apples and citrus. Would be pleased to drink it again.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8135d180-7cff-453f-b417-eea3746498d8.html">
+    <img class="flex-bottle" src="/images/81/35d180-7cff-453f-b417-eea3746498d8/2022-08-16-09-41-18-IMG-4769-e1559177556877.webp"></img>
+    <section class="h text-small text-lighter">Suertes del Marques</section>
+    <section class="h text-bolder">La Solana - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d03f1347-20e4-4c41-a412-ffb297c912ae.html">
+    <img class="flex-bottle" src="/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Sylvaner Macération - 2020</section>
+  </a>
+
+</div>
+#+end_export

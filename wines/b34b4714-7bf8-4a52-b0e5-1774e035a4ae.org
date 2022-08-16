@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     371caedd-a4d5-4bf0-ac77-5cf0857f9bec
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp]]
 
@@ -17,9 +14,6 @@
 Made of 30-40 years old vines. The Cabernet Franc is fermented using carbonic maceration and the Pinot Gris is fermented on skins in stainless steel for one month. All wines are then transferred to puncheon to settle out and come together.
 
 ** Producer
-:PROPERTIES:
-:ID:                     fa120b1e-f96a-4f82-ab9a-8e28dc811dcb
-:END:
 
 Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Don't believe me? Just take a closer look!
 
@@ -38,30 +32,18 @@ See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
 [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Read more...]]
 
 ** Ratings
-:PROPERTIES:
-:ID:                     ced3de87-6c27-4d25-a4db-21c5e08f3980
-:END:
 
 *** 2021-05-27 - ☆ 8.00
-:PROPERTIES:
-:ID:                     c7d2cfee-8382-486f-ab5e-dc40aed9b178
-:END:
 
 Unexpectedly well structured and easy going 'natural' wine, with wonderful and not simple bouquet of overripe plum, pomegranate, ripe strawberry, underbrush and red flowers. Light, delicious and well balanced.
 
 *** 2022-07-05 - ☆ 8.00
-:PROPERTIES:
-:ID:                     1835eb0c-8b26-4c09-b9de-5630b5db46a3
-:END:
 
 Incredible as always. I enjoy this style of wine in between light red and rich rosé. Rain is a subtle story. Forest berries compote, white pepper, pomegranate, underbrush and red flowers. Almost perfectly balanced, juicy and delicious. I would drink this wine every day. Casually.
 
 Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
-:PROPERTIES:
-:ID:                     ece0765e-46f4-4ae7-8542-1dcda8c3bbbe
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -102,6 +84,7 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp"></img>
     <section class="h text-small text-lighter">Villa Calicantus</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     717a6eae-8ebf-4693-9358-606309804643
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp]]
 
@@ -15,30 +12,18 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     8ae47d33-a4e0-43c0-b162-46b2c3318866
-:END:
 
 A winery with story stretching back to 1816. Initially owned by Galantini family, now run by Traversa family. Cascina Bertolotto is located at an altitude of 400 meters above sea level and bordering the Langhe region, Piedmont.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     95487cf8-8f6f-44e7-b14f-b288c94a8b5d
-:END:
 
 *** 2022-05-30 - ☆ 8.00
-:PROPERTIES:
-:ID:                     e54cbbd1-e732-483a-a87e-743f886393d5
-:END:
 
 Unexpected gem. I found it by accident, lost behind a wall of mediocre crowd-pleasing Champagne labels. Based on 2009, spent at least 60 months on lees. Sunflower oil, baked apples, toast and amber. Well balanced, good balance and volume with long and persistent aftertaste. Despite age it's still vigorous. Look, it's not a masterpiece, but definitely worth checking and buying again.
 
 Date of dégorgemenent: July 2016.
 
 *** 2022-07-05 - ☆ 8.20
-:PROPERTIES:
-:ID:                     46308031-86ee-4d06-9b32-16c7d590384c
-:END:
 
 Served blind and I enjoyed the expression on other people's faces. Truly, it's a hidden gem. Intense and rewarding. Baked apples, sunflower oil, toast and amber. Well balanced, it has good (e.g. high) acidity and long persistent and flavourful aftertaste. Again, it's not complex yet delicious and well made. Good choice for those who enjoy Champagne.
 
@@ -47,9 +32,6 @@ Date of dégorgemenent: January 2017.
 Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
-:PROPERTIES:
-:ID:                     f8d18e0d-da25-456d-b90d-f05c3395cb59
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -72,6 +54,7 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp"></img>
     <section class="h text-small text-lighter">Villa Calicantus</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>

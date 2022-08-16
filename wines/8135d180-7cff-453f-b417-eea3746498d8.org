@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/81/35d180-7cff-453f-b417-eea3746498d8/2022-08-16-09-41-18-IMG-4769-e1559177556877.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/e8898726-cf1b-419e-87f3-41976bd9b480][Suertes del Marques]]
+- Vintage :: 2017
+- Location :: Spain, Valle de la Orotava DO
+- Grapes :: Listán Negro
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 839 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-08-15 - ☆ 7.25
+
+Hehe, La Solana is like kissing an erupting volcano. Wait, stop imaging it! Bear with me for a while. In the nose, it has little fruits, mostly SO2, spices, wet cellar and pomegranate. Tasting it is like licking a stone covered with moss and shit (?!). Damn, SO2. Other than that, it's delicate and tasty. Maybe it just needs much more aeration. Not sure what's wrong with me, but I would like to taste it again.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">
+    <img class="flex-bottle" src="/images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Suertes del Marques</section>
+    <section class="h text-bolder">El Chibirique - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a9209b03-ecbd-44f9-a5dd-b13fae5e9f99.html">
+    <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069.webp"></img>
+    <section class="h text-small text-lighter">Planeta</section>
+    <section class="h text-bolder">Etna Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d03f1347-20e4-4c41-a412-ffb297c912ae.html">
+    <img class="flex-bottle" src="/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Sylvaner Macération - 2020</section>
+  </a>
+
+</div>
+#+end_export

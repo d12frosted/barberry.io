@@ -9,11 +9,15 @@
 - Alcohol :: 13
 - Sugar :: 1.2
 - Price :: 716 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-08-15 - ☆ 7.75
+
+This macerated Silvaner is not a blockbuster, yet I believe it to be a good entry-level orange wine. Not crazy, yet it unveils what you can expect from macerated whites - both in terms of the bouquet and the palate. The aroma is subtle and displays rotten apricots, mandarin skin, and dried herbs. The palate is fresh, tannin is present yet not grippy, and well-integrated thanks to short skin contact and longer time in oak. Good price.
+
+[[file:/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-16-08-24-48-26D23E5B-628F-4371-8E14-C2A9A6AA7534-1-105-c.webp]]
 
 ** Related
 
@@ -23,6 +27,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">J.M Dreyer</section>
     <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8135d180-7cff-453f-b417-eea3746498d8.html">
+    <img class="flex-bottle" src="/images/81/35d180-7cff-453f-b417-eea3746498d8/2022-08-16-09-41-18-IMG-4769-e1559177556877.webp"></img>
+    <section class="h text-small text-lighter">Suertes del Marques</section>
+    <section class="h text-bolder">La Solana - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a9209b03-ecbd-44f9-a5dd-b13fae5e9f99.html">
+    <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069.webp"></img>
+    <section class="h text-small text-lighter">Planeta</section>
+    <section class="h text-bolder">Etna Bianco - 2019</section>
   </a>
 
 </div>

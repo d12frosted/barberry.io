@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     ca2ebb62-545d-4c13-9f2b-fdfe035b8a41
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c.webp]]
 
@@ -17,32 +14,20 @@
 This cuvée comes from a maceration of Sauvignon Gris (otherwise called Fié Gris), in whole bunches for 3 to 4 weeks. Aging on lees for 11 to 12 months.
 
 ** Producer
-:PROPERTIES:
-:ID:                     15f555d0-dd98-4f46-a0be-a5889051b212
-:END:
 
 Sometimes people who sell wine decide to try on a new role of a vine grower or even a winemaker. Éric Chevalier was a négociant with ten years of experience when he moved to his hometown of Saint-Philbert de Grandlieu, just southwest of Nantes. Next year, in 2006, he ended up taking over the family Domaine. His father, a vigneron, had stopped working the vineyards, and Éric was faced with a difficult choice. Despite being anything but enthusiastic, he was against replanting or selling vineyards. And instead, he decided not only to continue farming the Domaine but also to produce and bottle all of the family's result of hard work.
 
 In 2020 Éric Chevalier acquired organic certification, a rare achievement in Loire Valley. Especially considering the difficult climate and region's love for high yields. In addition, Éric Chevalier is one of the few people still planting and producing wines from Fié Gris.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     026ce83b-15d8-4d37-8a7e-d0911b88b351
-:END:
 
 *** 2022-07-05 - ☆ 8.00
-:PROPERTIES:
-:ID:                     cbc13472-5834-4d9e-bfb1-6d1fc3bf6c9c
-:END:
 
 Probably the strangest wine of the evening. At first, I thought it was flabby and dull (hey, Fíe Gris?). But then my excitement grew, and I started to enjoy this wine. Like a lot! Especially the way tannin and acidity play in the taste, twisting and overflowing each other. In the nose, it's non-mainstream and rather shy. Spoiled apricots, dark bread, ascorbic candy, smokiness, mango, flowers and subtle rot notes. Nice.
 
 Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
 
 ** Related
-:PROPERTIES:
-:ID:                     dde72dfb-b066-4f09-bcb0-9767d4065160
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -59,6 +44,7 @@ Tasted as part of [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp"></img>
     <section class="h text-small text-lighter">Villa Calicantus</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>

@@ -48,6 +48,7 @@ As expected, not your typical wine from Bardolino. Elegant and sophisticated. No
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
+    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp"></img>
     <section class="h text-small text-lighter">Villa Calicantus</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>
