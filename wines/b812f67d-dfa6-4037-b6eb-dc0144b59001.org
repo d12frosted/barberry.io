@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     5aa5e2de-8620-432d-b33d-820b0ce87e93
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/b8/12f67d-dfa6-4037-b6eb-dc0144b59001/2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c.webp]]
 
@@ -15,16 +12,10 @@
 - Cellar :: 1 bottle
 
 ** Ratings
-:PROPERTIES:
-:ID:                     db8bb9f3-1908-4029-8669-5cb3ffe791e9
-:END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
-:PROPERTIES:
-:ID:                     caf66050-290b-4097-a7d5-43356430c451
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -53,7 +44,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
-    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0368.webp"></img>
+    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>

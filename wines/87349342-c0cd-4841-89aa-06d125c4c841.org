@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     727c6af8-00f6-4843-bbfb-006efd7b227d
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp]]
 
@@ -15,35 +12,20 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     33486faa-66a8-43a2-b799-9d394ea3b798
-:END:
 
 Run by Jean-Marie and Thierry Puzelat.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     8f99d0fd-4f51-4cbe-a171-04bbc1f4239b
-:END:
 
 *** 2020-09-11 - ☆ 7.00
-:PROPERTIES:
-:ID:                     a10248e3-22d7-4648-8197-92ba50ea8e59
-:END:
 
 Alright, take some cactus, wrap it with pear candy, smear with honey and sprinkle with black currant leaves. That's how you get Le Petit Buisson. 2019 is not in the Touraine AOC anymore, but in generic VdF. Hopefully it didn't make Jean-Marie and Thierry Puzelat cry. After all, they have this bright sweetie to relax.
 
 *** 2020-11-24 - ☆ 7.50
-:PROPERTIES:
-:ID:                     ed73a9b0-7a23-4ab1-a13d-f758d2a3f53a
-:END:
 
 Tasting again in two months and it makes a difference. Yellow fruits and bread, yeast and nuts, hints of cactus soaked in acacia honey. You bet, it is aromatic! Acidity is aggressive, but very short. A little bit fizzy at first. Flavours of almonds and peach.
 
 ** Related
-:PROPERTIES:
-:ID:                     7751ee6e-5835-481a-9ca5-1e7cdf757ddf
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -83,13 +65,19 @@ Tasting again in two months and it makes a difference. Yellow fruits and bread, 
     <section class="h text-bolder">Bandita - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+  <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+    <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Skerpioen - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
     <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+  <a class="flex-item flex-item-left" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Al Dente - 2018</section>
   </a>

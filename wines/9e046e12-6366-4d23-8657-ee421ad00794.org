@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     dcb5d893-2b16-48ae-8c8d-16977b3d142d
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp]]
 
@@ -34,14 +31,8 @@ Bründlmayer
 #+end_quote
 
 ** Ratings
-:PROPERTIES:
-:ID:                     1d509f56-53be-419e-b3a0-6a69f723b900
-:END:
 
 *** 2020-11-24 - ☆ 8.00
-:PROPERTIES:
-:ID:                     9df5cb04-a43b-4895-b2d2-1ab89d6bb5cf
-:END:
 
 4.0 Amazing traditional sparkling from Austria. 2 years on lees. Wild
 strawberry, nuts, toast bread. Refreshing, long and evolving aftertaste.
@@ -49,18 +40,12 @@ Flavours of cream and wild strawberries. Wonderful Champagne alternative. I am
 impressed.
 
 *** 2021-07-04 - ☆ 8.00
-:PROPERTIES:
-:ID:                     2ab2fea5-04e4-4733-881e-ec03af15f0f5
-:END:
 
 Amazing traditional sparking rosé. Cheese popcorn, wild red berries,
 and toast bread. Refreshing with long and evolving aftertaste, creamy
 texture with red currant flavours. Nice.
 
 *** 2021-07-13 - ☆ 8.00
-:PROPERTIES:
-:ID:                     33f8651f-532f-4715-8dfb-8dd1b644a9c7
-:END:
 
 We had a Rosé Petals Party (just a respectable name for a rosé wine
 binge). And what a party without sparkling? When it comes to rosé,
@@ -70,9 +55,6 @@ enjoyable. Fistful of strawberries, wild red berries, toast and
 popcorn. Sharp and refreshing.
 
 *** 2021-09-02 - ☆ 8.00
-:PROPERTIES:
-:ID:                     081d2fc8-ca7a-465b-8305-9f052e9e4363
-:END:
 
 Rose Sparkling wine tasting event at Goodwine TSUM.
 
@@ -82,16 +64,10 @@ toast. Well balanced, good acidity, wonderful mousse with ripe red
 currant flavours.
 
 *** 2022-05-16 - ☆ 8.00
-:PROPERTIES:
-:ID:                     75bac956-d9e4-43ba-abd8-32e412bf7573
-:END:
 
 Constantly delivers. One of my favourite rosé sparkling wines. Nice combination of red berries like red currant and toasty notes. Sharp, refreshing, well balanced with long aftertaste.
 
 ** Related
-:PROPERTIES:
-:ID:                     3781b3b6-5358-4863-b6eb-101166a8305c
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -143,24 +119,30 @@ Constantly delivers. One of my favourite rosé sparkling wines. Nice combination
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+  <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+    <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Skerpioen - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
     <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+  <a class="flex-item flex-item-left" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
     <img class="flex-bottle" src="/images/cd/bb0e56-a671-46e2-9ea2-5ca831c46d47/2021-07-14-08-46-13-D9599F9A-47F6-46EA-8BB4-704363D84E42-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
+  <a class="flex-item flex-item-right" href="/wines/e3102bb4-81d9-4f82-86aa-4fc322706590.html">
     <section class="h text-small text-lighter">Marto</section>
     <section class="h text-bolder">Al Dente - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
     <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>

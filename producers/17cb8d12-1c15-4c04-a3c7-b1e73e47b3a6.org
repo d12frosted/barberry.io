@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     c09e546c-c7ba-45e2-b703-75b9aceb1c74
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     8fb03c45-dc51-4795-a16c-a1fa6305f18b
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -40,8 +34,8 @@
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
-    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0368.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
 

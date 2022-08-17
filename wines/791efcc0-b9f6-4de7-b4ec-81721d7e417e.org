@@ -1,8 +1,5 @@
-:PROPERTIES:
-:ID:                     97d7e262-5fa6-488a-8179-834c49c9cf95
-:END:
 #+attr_html: :class wine-main-image
-[[file:/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0368.webp]]
+[[file:/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6][Anne et J.F. Ganevat]]
@@ -12,19 +9,15 @@
 - Alcohol :: 14
 - Sugar :: 1
 - Price :: 1813 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     d6db056c-b23e-48fc-b9f0-a0e20b3558eb
-:END:
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-08-16 - ☆ 8.50
+
+Hey, it's a baked apple with honey and nuts. Someone decided to add some salt and yeasty cheese. And I have no objections! Because it makes sense to combine it all. It has a volume of a man with a big belly. It hardly fits in the biggest glass. And it's a miracle that it does! Ripe, delicious and sophisticated Chardonnay. The bottle is empty, but the salty aftertaste sticks for a long time.
 
 ** Related
-:PROPERTIES:
-:ID:                     6086cfe2-4810-43ef-932d-26d259b5b5ac
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -62,6 +55,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/b8/12f67d-dfa6-4037-b6eb-dc0144b59001/2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Le Jaja du Fred - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+    <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Alessandro Viola</section>
+    <section class="h text-bolder">Le mie Origini - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+    <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h text-bolder">Skerpioen - 2018</section>
   </a>
 
 </div>

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     1612684b-bbf9-46a3-b9f4-3fe5aef9e339
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/97/02605f-3ee2-47ca-af73-037b8a4e6c23/2021-11-14-12-46-08-2C51E28D-3C4F-421D-AFC0-4434D0130F23-1-105-c.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     da9e95f0-7f91-4acf-9b59-4e5b1191311d
-:END:
 
 *** 2021-11-22 - ☆ 8.00
-:PROPERTIES:
-:ID:                     ba314717-c045-4037-8c6a-f2d3363de97e
-:END:
 
 Neat blend of Gamay and Enfariné Noir. Nose showing notes of cranberry, violets, cherry and dog rose. Sophisticated, young, quaffable and well balanced.
 
 ** Related
-:PROPERTIES:
-:ID:                     830d9c62-5c48-4aa5-9e79-ce7a87bae844
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -58,7 +46,7 @@ Neat blend of Gamay and Enfariné Noir. Nose showing notes of cranberry, violets
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
-    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0368.webp"></img>
+    <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp"></img>
     <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
