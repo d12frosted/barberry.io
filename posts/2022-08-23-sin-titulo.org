@@ -1,0 +1,243 @@
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-12-04-24-IMG-1794.webp]]
+
+Everything gets weird when autumn hits your doorstep. It seems that the weather can't decide what role to play. Should it be chilly, or should it be hot? Oh, rain is also an option, right? Luckily, there is a remedy  - *almost red wines*. They can be rosé, or they can be light red. Oh, something in-between is also an option, right?
+
+Right! So this is our plan for the evening.
+
+1. [[barberry:/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb][Anne et J.F. Ganevat La Bubulle à Jeannot]]
+2. [[barberry:/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b][Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019]]
+3. [[barberry:/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22][Matassa Tattouine Rouge 2020]]
+4. [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]]
+5. [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][An Approach To Relaxation Sucette 2018]]
+6. [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
+7. [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Alex Craighead Kindeli Verano 2020]]
+8. [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Jauma Audrey 2018]]
+
+* Scores
+:PROPERTIES:
+:ID:                     64e23a5c-8b69-4cf1-92b4-c594216ea6e8
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Andrii S    |  +3.50+ |  *4.20* |    4.35 |    4.20 |    4.30 |    3.80 |    4.00 |    4.20 |
+| Viktoria    |    4.00 |  +3.80+ |  *4.50* |    3.70 |    4.60 |    3.30 |    4.00 |    4.40 |
+| Tetiana     |  *4.30* |    4.30 |    4.00 |  +2.00+ |    4.00 |    3.40 |    3.50 |    4.40 |
+| Dmytro      |    4.20 |    4.10 |    3.90 |  +3.40+ |  *4.40* |    3.60 |    4.10 |    4.60 |
+| Elvira      |    3.70 |    4.30 |  *4.40* |    3.90 |    4.50 |    4.00 |  +3.50+ |    4.50 |
+| Oleksandr Y |    3.80 |  *4.20* |    4.00 |  +3.40+ |    4.20 |    3.60 |    3.70 |    4.10 |
+| Oleksandr R |    3.50 |    3.00 |  *4.50* |  +2.30+ |    4.70 |    4.00 |    3.80 |    4.70 |
+| Artem       |    4.00 |  +3.30+ |    3.90 |  *4.00* |    4.50 |    4.40 |    4.20 |       - |
+| Vasyl       |    3.80 |    4.30 |    4.10 |    3.80 |    4.20 |  +3.00+ |  *4.10* |    4.30 |
+| Andrii P    |    4.30 |    3.80 |    4.00 |  +2.00+ |  *4.70* |    4.10 |    3.80 |    4.60 |
+| Boris B     |    3.80 |    4.20 |    4.30 |    4.10 |    4.20 |  +3.70+ |  *4.10* |    4.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |  amean |   sdev | favourite | outcast |   price |      QPR |
+|---+--------+--------+-----------+---------+---------+----------|
+| 1 |   3.90 | 0.0745 |      1.00 |    1.00 |  946.00 |   2.1847 |
+| 2 |   3.95 | 0.1770 |      2.00 |    2.00 | 1185.00 |   1.8917 |
+| 3 |   4.18 | 0.0506 |    *3.00* |    0.00 | 1600.00 |   1.9658 |
+| 4 |   3.35 | 0.6443 |      1.00 |  +5.00+ |  690.00 |   1.3642 |
+| 5 | *4.39* | 0.0481 |      2.00 |    0.00 | 1150.00 | *3.8225* |
+| 6 |   3.72 | 0.1451 |      0.00 |    2.00 | 1150.00 |   1.3774 |
+| 7 |   3.89 | 0.0554 |      2.00 |    1.00 | 1400.00 |   1.4565 |
+| 8 |   4.38 | 0.0476 |      0.00 |    0.00 | 1290.00 |   3.3491 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Anne et J.F. Ganevat La Bubulle à Jeannot
+:PROPERTIES:
+:ID:                     c040cfd3-1080-43ba-9682-2c43bda2e04d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-16-17-23-37-CDAA8355-B702-4905-AADC-99BE74F47CD4-1-105-c.webp]]
+
+- producer: [[barberry:/producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6][Anne et J.F. Ganevat]]
+- name: [[barberry:/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb][La Bubulle à Jeannot]]
+- vintage: NV
+- grapes: Gamay, Poulsard
+- appellation: Vin de Table
+- location: Jura, France
+- alcohol: 12.0
+- sugar: 1.0
+- price: 955 UAH
+- importer: Wine Bureau
+
+???
+
+* Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019
+:PROPERTIES:
+:ID:                     4353341d-d40e-45d9-9dfb-75038b0cbb40
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-07-41-09-2DD68EDF-3B51-4388-92D2-44CAA7EEA574-1-105-c.webp]]
+
+- producer: [[barberry:/producers/040a275b-2e16-4d7a-a557-036bf44d85df][Villa Calicantus]]
+- name: [[barberry:/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b][Chiar'otto Bardolino Classico Chiaretto]]
+- vintage: 2019
+- grapes: Corvina, Rondinella, Molinara, Sangiovese
+- appellation: Bardolino DOC
+- location: Bardolino, Veneto, Italy
+- alcohol: 12.0
+- sugar: ???
+- price: 702 UAH
+- importer: Roots
+
+Chiar'otto is a wordplay and a tribute to Daniele's nuclear family. Chiaretto (meaning "pale" in Italian) is the name used for rosé wines produced near the shores of Lake Garda. Chiara is Daniele's wife. And "otto" is the Italian word for the number 8, which is the number of the month in which Anna, the daughter of Chiara and Daniele, was born.
+
+Made of traditional grapes of the Bardolino region from 54 years old vines. 9001 bottles produced.
+
+In case you are not familiar with the [[barberry:/producers/040a275b-2e16-4d7a-a557-036bf44d85df][story behind Villa Calicantus]], take some time and read it.
+
+* Matassa Tattouine Rouge 2020
+:PROPERTIES:
+:ID:                     247b6b26-8728-45fe-a0d8-b67ba73bc395
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-07-41-23-4FF9F27A-13CF-4121-B73D-BC72B1929DC8-1-105-c.webp]]
+
+- producer: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
+- name: [[barberry:/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22][Tattouine Rouge]]
+- vintage: 2020
+- grapes: Grenache Gris, Carignan
+- appellation: Vin de Table
+- location: Languedoc-Roussillon, France
+- alcohol: 10.0
+- sugar: 0.5
+- price: 955 UAH
+- importer: Wine Bureau
+
+Tattouine Rouge? A deserted moon-like sphere on a label? If the corners of your lips are not dancing, you might be living under a rock. My congratulations, Patrick! On the other hand, Louis/Dressner says the name comes from a single vineyard of red schist soils named Tattouine (and not Tatooine, by the way).
+
+In any case, it's a light and delicate blend of Grenache Gris and Carignan made in [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] style. I have already shared the story of Matassa, so not going to repeat it here. But in case you are curious, [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][CLICK HERE]] to find out more.
+
+* Victoria E. Torres Pecis Sin Titulo NG 2017
+:PROPERTIES:
+:ID:                     3ed31521-fbe8-4e9e-90e8-ab0242f9bf73
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-10-58-34-8AAA6955-3EC6-4433-B0BD-D70E7E371524-1-105-c.webp]]
+
+- producer: [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]
+- name: [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Sin Titulo NG]]
+- vintage: 2017
+- grapes: Negramoll
+- appellation: La Palma DO
+- location: La Palma, Canary Islands, Spain
+- alcohol: 13.5
+- sugar: ???
+- price: 997 UAH
+- importer: Roots
+
+Yes, this wine comes from the Canary Islands, specifically from the most north-westerly island - La Palma, La isla bonita as they call it. I know, it's crazy. Western Sahara is on the same latitude! The soils are volcanic and covered with picón, the dark ashy sand. The terrain is rugged. Climatic conditions are extreme. Vineyards are constantly whipped by Atlantic winds. Yet, people grow vines here and even manage to produce wines. There are 18 winemakers on the island, but Victoria Torres Pecis is the only one exported outside Spain.
+
+#+attr_html: :class img-half
+#+caption: Photo by [[https://www.bowlerwine.com/][bowlerwine.com]]
+[[file:/images/2022-08-23-sin-titulo/IMG-5542.webp]]
+
+#+begin_quote
+I am like the Listán Blanco. Very resistant.
+#+end_quote
+
+Victoria Torres Pecis is the sole owner and caretaker of her family's centenarian winery in Fuencaliente. Her father died in 2014. And since then, she has been working alone against the elements and harsh conditions of the island. Victoria learned the winemaking craft by watching her father use an old lagar (dating from 1885) to press grapes and vinify them in chestnut barrels. And not much has changed in the winery over time. It is small, with few stainless steel tanks, old American and French oak, and chestnut barrels. Only native yeasts and no temperature control.
+
+In total, Victoria works on 4.7 hectares: 2 of them are her property, and the rest she rents. She also purchases the grapes from the farmers she works closely with. And all these vineyards are scattered around the island - from the southern tip to the west side of Roque de Los Muchachos. That also means that the altitude varies - some are at 1500 m above sea level. All vines are ungrafted (as mentioned on the labels) because phylloxera never reached The Canaries. And she works with quite old vines - some are older than 130 years!
+
+Victoria makes a "Sin Titulo" (without a name) bottling every vintage, but the wine is always a one-off. For example, in 2016 Sin Titulo was an oxidative white, but in 2017 it is a red made from Negramoll. The idea is to blend grapes from the first plot harvested (August in 2017) and then from the last plot picked (October/November). It turns out, that it takes around 3 months to harvest all the plots around the island - the weather and elevation allow it. The first goes into an oak barrel and the second into stainless steel. Both see nine months on lees, where they pick up some colour and texture.
+
+2017 is a vintage of very low yields. Mostly because of hail. So only 1200 bottles were produced.
+
+* An Approach To Relaxation Sucette 2018
+:PROPERTIES:
+:ID:                     f1e894b9-2b5f-4c54-8e07-863069cfe914
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-10-58-42-6E0051E3-B4E5-4ACB-8178-C616EAA24CAC-1-105-c.webp]]
+
+- producer: [[barberry:/producers/a5a9432f-8e72-459e-8462-ec0a0bb1fe2a][An Approach To Relaxation]]
+- name: [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][Sucette]]
+- vintage: 2018
+- grapes: Grenache
+- location: Barossa Valley
+- alcohol: 14.5
+- sugar: 0.55
+- price: 1529 UAH
+- importer: Wine Bureau
+
+* Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014
+:PROPERTIES:
+:ID:                     b639b821-dc0d-43b9-bf8a-3164a13a9ae8
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-10-58-47-BA1D86FC-89C7-4FAA-B41A-5D705F0B0BB9-1-105-c.webp]]
+
+- producer: [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]
+- name: [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Anima Brut Rosé Pas Operé VSQ]]
+- vintage: 2014
+- grapes: Pinot Noir
+- location: ???
+- alcohol: 13.0
+- sugar: 1.6
+- price: 1477 UAH
+- importer: Wine Bureau
+
+* Alex Craighead Kindeli Verano 2020
+:PROPERTIES:
+:ID:                     fd55d5e6-1191-4e44-a24d-3d5186a2d70b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-10-58-56-0121BC8C-65CA-497C-A5AE-F29B11B04B63-1-105-c.webp]]
+
+- producer: [[barberry:/producers/9880c5f6-e77b-4171-9e0f-069b9c4fcae0][Alex Craighead]]
+- name: [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Kindeli Verano]]
+- vintage: 2020
+- grapes: Riesling, Syrah, Sauvignon Blanc, Chardonnay, Gewürztraminer, Pinot Grigio, Pinot Noir
+- location: Nelson, New Zealand
+- alcohol: 13.0
+- sugar: 1.0
+- price: 802 UAH
+- importer: Wine Bureau
+
+* Jauma Audrey 2018
+:PROPERTIES:
+:ID:                     6470736f-ee56-4aa7-8293-23634f81ce3d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-08-23-sin-titulo/2022-08-17-10-59-06-C7CBC140-BC10-4675-B99D-699E47021D10-1-105-c.webp]]
+
+- producer: [[barberry:/producers/85c67ac6-c09f-4ceb-9a49-2f08a20fb25a][Jauma]]
+- name: [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Audrey]]
+- vintage: 2018
+- grapes: Shiraz
+- location: ???
+- alcohol: 10.5
+- sugar: 1.0
+- price: 787 UAH
+- importer: Wine Bureau
+
+* Conclusion
+:PROPERTIES:
+:ID:                     d99064f9-3193-4905-b9a1-ca6eddf0b382
+:END:
+

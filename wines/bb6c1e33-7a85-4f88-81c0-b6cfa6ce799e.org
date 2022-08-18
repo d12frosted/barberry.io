@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/bb/6c1e33-7a85-4f88-81c0-b6cfa6ce799e/2020-09-20-10-14-08-A3926C74-7B45-4BF0-A53D-85DF04570002-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/a5a9432f-8e72-459e-8462-ec0a0bb1fe2a][An Approach To Relaxation]]
+- Vintage :: 2017
+- Location :: Australia, Barossa Valley
+- Grapes :: Grenache
+- Alcohol :: 14.5
+- Sugar :: 0.35
+- Price :: 1590 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-12-31 - ☆ 9.00
+
+Sexy and sophisticated wine from ~150 and 80 years old vines. Pine, barnyard, plum, cranberry, strawberry. Meditative wine, medium light, ephemeral. Flavours of pine and strawberry-plum pie. Long aftertaste, silky and elegant, but still profound. Not typical Grenache from Barossa (Vine Vale).
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a.html">
+    <img class="flex-bottle" src="/images/19/72ae47-ec40-46f1-82c5-f48d39a28a5a/2022-08-12-11-57-49-IMG-1443.webp"></img>
+    <section class="h text-small text-lighter">An Approach To Relaxation</section>
+    <section class="h text-bolder">Sucette - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
+  </a>
+
+</div>
+#+end_export
