@@ -1,6 +1,6 @@
 [[file:/images/2022-08-23-sin-titulo/2022-08-17-12-04-24-IMG-1794.webp]]
 
-Everything gets weird when autumn hits your doorstep. It seems that the weather can't decide what role to play. Should it be chilly, or should it be hot? Oh, rain is also an option, right? Luckily, there is a remedy  - *almost red wines*. They can be rosé, or they can be light red. Oh, something in-between is also an option, right?
+Everything gets weird when autumn hits your doorstep. It seems that the weather can't decide what role to play. Should it be chilly, or should it be hot? Oh, rain is also an option, right? Luckily, there is a remedy  - *almost red wines*. They can be rosé, or they can be light-to-medium red. Oh, something in-between is also an option, right?
 
 Right! So this is our plan for the evening.
 
@@ -176,17 +176,29 @@ Victoria makes a "Sin Titulo" (without a name) bottling every vintage, but the w
 - name: [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][Sucette]]
 - vintage: 2018
 - grapes: Grenache
-- location: Barossa Valley
+- location: Vine Vale, Barossa Valley, South Australia, Australia
 - alcohol: 14.5
 - sugar: 0.55
 - price: 1529 UAH
 - importer: Wine Bureau
 
-#+begin_quote
-We are two Americans, living in Amsterdam, making wine in Australia...
+Carla & Richard Rza Betts are Americans living in Amsterdam and making wine in Barossa Valley, Australia. They travel a lot (like 250 days a year), so it makes sense to have Amsterdam as a home (or a base). But why Australia? Because they own one of the oldest Grenache vineyards on the planet. The Rza Block is in the heart of the sandy Vine Vale region in the eastern part of Barossa Valley in South Australia. The vineyard was planted somewhere between 1860 - 1880.
 
-Makes a ton of sense, right?
-#+end_quote
+The respectable age of the vines is not the only curious fact about Rza Block. While the rest of Barossa tends to have heavier red clay soils, Vine Vale is quite different as it has a significant deposit of fine sandy soil. The sand comes from the weathered granite and quartzite of the Barossa Ranges and Eden Valley. It gets to Vine Vale via the gullies that drain out of the hills down towards the Valley floor. The sand doesn't give much to the colour. But it contributes high-toned aromatics to the wine. Arguably, it's more important.
+
+#+attr_html: :class img-half img-float-left :alt before
+[[file:/images/2022-08-23-sin-titulo/rb3.webp]]
+
+#+attr_html: :class img-half img-float-right :alt after
+[[file:/images/2022-08-23-sin-titulo/IMG-9844-3-2.webp]]
+
+#+begin_export html
+<br class="clear-both">
+#+end_export
+
+And there's more! The same gullies also bring wind, which is as important as the sand, because they create a big diurnal shift, cooling the vineyards at night, and preserving acidity and freshness. To illustrate: it can be 38C on a summer day. But because of the wind, it can be as low as 10C in the evening.
+
+Sucette is 100% Grenache, with the majority of fruits coming from Rza Block. The small percentage of remaining grapes comes from a highly aromatic 90-year-old vineyard a few blocks away from Rza Block.
 
 * Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014
 :PROPERTIES:
