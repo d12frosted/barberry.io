@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     cd1536a3-824c-4cee-8787-b635fd5f4c38
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     b30d63f6-c56e-4961-96a4-e1078c193553
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -17,7 +11,7 @@
 
   <a class="flex-item flex-item-right" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
     <img class="flex-bottle" src="/images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 8.00</section>
     <section class="h text-bolder">Bianco - 2019</section>
   </a>
 

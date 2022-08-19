@@ -1,18 +1,12 @@
-:PROPERTIES:
-:ID:                     35d07e24-3bc1-4679-9d50-8e8c35d57a13
-:END:
 Project by Valentina Passalacqua. Based in Puglia.
 
 ** Wines
-:PROPERTIES:
-:ID:                     702bc356-873a-45e2-93af-bbcfd24da219
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/dd209658-bfc4-4863-a0cb-248673b162c0.html">
     <img class="flex-bottle" src="/images/dd/209658-bfc4-4863-a0cb-248673b162c0/2022-07-23-10-40-26-9D4089F6-0772-4981-A79D-53AB533E6EC6-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 7.40</section>
     <section class="h text-bolder">Bombigiana - 2019</section>
   </a>
 
