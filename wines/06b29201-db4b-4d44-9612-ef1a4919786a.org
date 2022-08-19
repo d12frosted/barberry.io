@@ -1,3 +1,6 @@
+#+attr_html: :class wine-main-image
+[[file:/images/06/b29201-db4b-4d44-9612-ef1a4919786a/2020-08-29-12-24-25-95804198-634B-4367-9630-51FEFC0BABC1-1-105-c.webp]]
+
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/53e31c1f-70b3-4504-897d-fe020167f48c][Denavolo]]
 - Vintage :: 2018
@@ -23,6 +26,7 @@ It was a nice revelation that Denavolo is a side project of Giulio Armani, oenol
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/667f7cf0-ca79-4a69-9a23-79544c95dcfa.html">
+    <img class="flex-bottle" src="/images/66/7f7cf0-ca79-4a69-9a23-79544c95dcfa/2020-09-17-23-29-05-38EC41E0-0FD5-430B-A8F3-E21F8A1AD361-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Denavolo</section>
     <section class="h text-bolder">Dinavolino - 2019</section>
   </a>

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     bcd64a8a-c009-4b45-8a2a-6e09e46c5ac0
-:END:
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5][Zeni]]
 - Vintage :: 2018
@@ -12,21 +9,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     8f4d8c45-c784-4098-a944-e21ae05d7157
-:END:
 
 *** 2020-03-05 - ☆ 7.00
-:PROPERTIES:
-:ID:                     37ee9fe2-d974-4422-87c6-db739080f6a4
-:END:
 
 Simple wine with pleasant white floral notes, acacia and pear.
 
 ** Related
-:PROPERTIES:
-:ID:                     3b2680a0-db19-4939-a472-543563bc63ce
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -37,6 +25,7 @@ Simple wine with pleasant white floral notes, acacia and pear.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">
+    <img class="flex-bottle" src="/images/19/8bd5e1-40d9-4046-b3c8-45b22a3afb34/2020-12-31-14-54-45-9707923D-EF81-496E-A66B-4F521D29E26F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bach</section>
     <section class="h text-bolder">Extrísimo Brut - NV</section>
   </a>
