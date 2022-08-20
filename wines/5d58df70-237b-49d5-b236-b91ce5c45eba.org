@@ -20,6 +20,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/44db7f60-5701-4ae4-801a-c0d39e82def1.html">
+    <img class="flex-bottle" src="/images/44/db7f60-5701-4ae4-801a-c0d39e82def1/2020-10-27-10-14-19-6C66B9A2-9AE9-47FD-BF62-0A95DE8FE36C-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Alex Craighead</section>
     <section class="h text-bolder">DON Nelson Pinot Noir - 2018</section>
   </a>
