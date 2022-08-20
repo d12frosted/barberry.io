@@ -26,7 +26,7 @@
   --h4-size: 1.6rem;
   --code-size: 1.4rem;
   --default-size: 1.6rem;
-  --small-size: 1.4rem;
+  --small-size: 1.2rem;
 
 
   --header-font: "Alegreya Sans", sans-serif;
@@ -439,8 +439,8 @@ ul.rating-list {
 }
 
 .wines-table {
-  font-size: 1.4rem;
-  font-family: var(--header-font);
+  font-size: var(--small-size);
+  font-family: var(--default-font);
 }
 
 .flex-container, .flex-item {
