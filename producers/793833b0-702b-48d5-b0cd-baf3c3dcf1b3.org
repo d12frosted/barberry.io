@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     f1e011a6-da9c-4d2a-9840-a1fd3c73e80f
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     c95beeda-8edd-423c-be0e-7bb41446b93e
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9.html">
+    <img class="flex-bottle" src="/images/93/6a61b9-776f-48fd-9b90-c5cc6be91cc9/2021-12-17-18-38-52-E4075636-BDB3-4D46-A228-E8DBB7D92640-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.50</section>
     <section class="h text-bolder">Médoc Cru Bourgeois - 2011</section>
   </a>

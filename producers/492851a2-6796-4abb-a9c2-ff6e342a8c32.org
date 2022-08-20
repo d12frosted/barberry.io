@@ -10,6 +10,7 @@
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b042bbfa-6aae-4c9b-af7f-84ac379f40e3.html">
+    <img class="flex-bottle" src="/images/b0/42bbfa-6aae-4c9b-af7f-84ac379f40e3/2021-07-08-09-13-44-8AE9A10D-AB90-41AF-9697-D0C3AD8D10D8-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 8.00</section>
     <section class="h text-bolder">Pian del Ciampolo - 2018</section>
   </a>

@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     0e92d5a2-e09e-4ddc-840a-9f92522b08e0
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     7328d5af-920c-4173-8cc1-48a57f52788a
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f8916b0f-81ee-4a28-9963-4544bfc955a8.html">
+    <img class="flex-bottle" src="/images/f8/916b0f-81ee-4a28-9963-4544bfc955a8/2022-01-02-10-46-49-102899DE-622C-4615-BFDE-E66EC5897FA2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 9.25</section>
     <section class="h text-bolder">Morey Saint Denis 1er Cru Cuvée des Alouettes - 2000</section>
   </a>

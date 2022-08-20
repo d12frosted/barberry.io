@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:                     1d3ae045-1025-4e8f-b3a0-eb74e3a06d90
-:END:
+#+attr_html: :class wine-main-image
+[[file:/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c.webp]]
+
 - Type :: Rose Sparkling, Brut nature
 - Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
 - Vintage :: 2017
@@ -12,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     026a6edd-770c-4c84-a684-88090726d48a
-:END:
 
 *** 2021-05-21 - ☆ 7.00
-:PROPERTIES:
-:ID:                     26bf70dd-ab9a-46f3-8d0c-93e537535579
-:END:
 
 Traditional method sparkling rosé made of Sumoll. Barberry, apple, toasts and... well, that's it. Simple yet fresh and pleasant wine.
 
 ** Related
-:PROPERTIES:
-:ID:                     d1f2d1c0-104d-4531-92a2-f34742fb4f68
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -37,6 +28,7 @@ Traditional method sparkling rosé made of Sumoll. Barberry, apple, toasts and..
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
+    <img class="flex-bottle" src="/images/f9/67170b-4418-45f3-8d3f-5be4cb53843d/2021-06-15-08-10-09-C9DD6CFC-AB46-4C40-BF43-8A848D144AB9-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Syrah CRV Rosé Brut Nature - NV</section>
   </a>

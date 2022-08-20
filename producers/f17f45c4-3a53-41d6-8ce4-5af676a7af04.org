@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     8cefc4eb-f282-411e-bc66-465d5bd96161
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     00ad84a1-e5ee-485c-8caa-ef581052c13d
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8.html">
+    <img class="flex-bottle" src="/images/a1/7ed4c7-1a7f-45f5-8530-29b7dc9889a8/2021-08-24-09-13-34-A064E7DB-B3AA-4809-9F65-EF5A4BC3F241-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.40</section>
     <section class="h text-bolder">Malagouzia - 2019</section>
   </a>

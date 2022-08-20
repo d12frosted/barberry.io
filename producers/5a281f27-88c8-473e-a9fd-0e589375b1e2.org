@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     ba66d541-084d-4d6e-a95b-42c4dad937dc
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     2a28b756-38d2-4374-8f7f-9632cc1b0243
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
+    <img class="flex-bottle" src="/images/8f/a18910-506d-4487-b682-c6099bc38df5/2020-10-17-10-03-55-EDD91F2E-EF7B-4D1A-A2CE-84BBFC084706-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 6.50</section>
     <section class="h text-bolder">S.M. - 2018</section>
   </a>

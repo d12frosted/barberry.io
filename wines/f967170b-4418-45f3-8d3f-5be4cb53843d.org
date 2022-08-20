@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:                     ac557b08-3c02-446d-a131-42aafd598424
-:END:
+#+attr_html: :class wine-main-image
+[[file:/images/f9/67170b-4418-45f3-8d3f-5be4cb53843d/2021-06-15-08-10-09-C9DD6CFC-AB46-4C40-BF43-8A848D144AB9-1-102-o.webp]]
+
 - Type :: Rose Sparkling, Brut nature
 - Producer :: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
 - Vintage :: NV
@@ -12,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     e69dd9a4-d67f-427f-ae00-f043be6a0f97
-:END:
 
 *** 2021-06-14 - ☆ 7.25
-:PROPERTIES:
-:ID:                     e7e2649b-be1f-4129-bc2b-ac51c148c759
-:END:
 
 Sparkling wines made of Syrah is not something I drink every month. And unlike Peppermint Paddock, this one is traditional method rosé. A little bit of VA, wild red berries, raw meat with notes of fermented stuff. Rich, even profound, with long aftertaste full of fermented strawberry with nice mineral finish. Overall it's good, but the palate is not fascinating and lacks acidity. With aeration quickly becomes dull.
 
 ** Related
-:PROPERTIES:
-:ID:                     dffda2d3-2c0f-4872-85a2-6470191a3bf1
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -37,6 +28,7 @@ Sparkling wines made of Syrah is not something I drink every month. And unlike P
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+    <img class="flex-bottle" src="/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Clos Lentiscus</section>
     <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
   </a>

@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     18f7c889-7b66-42a6-a887-607597754e7b
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/5c/c084ab-5d95-4346-a01b-eb4e27cb2c79/2022-06-12-17-36-57-0C50A37F-E0D3-45C0-BE46-168AEFD5EB67.webp]]
 
@@ -15,25 +12,17 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     260a9b9a-c81c-40f9-a887-58e8b02eb17e
-:END:
 
 *** 2022-06-12 - ☆ 7.25
-:PROPERTIES:
-:ID:                     47d85646-8a9f-4d84-97a4-2dba7dc28179
-:END:
 
 Up to expectations and up to its price tag. Stone fruits, quince, white flowers and some mandarins. Well balanced, slightly oily yet juicy, simple, lacks acidity, but enjoyable if chilled properly. Something to drink right before going to bed or with food.
 
 ** Related
-:PROPERTIES:
-:ID:                     71a2fd9d-651d-412b-9e3e-ca9f977f231e
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a17ed4c7-1a7f-45f5-8530-29b7dc9889a8.html">
+    <img class="flex-bottle" src="/images/a1/7ed4c7-1a7f-45f5-8530-29b7dc9889a8/2021-08-24-09-13-34-A064E7DB-B3AA-4809-9F65-EF5A4BC3F241-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ktima Papaioannou</section>
     <section class="h text-bolder">Malagouzia - 2019</section>
   </a>
