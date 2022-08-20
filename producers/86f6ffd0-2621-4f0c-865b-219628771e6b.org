@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/caddc632-9062-4f70-9d54-8b44fb6fe84e.html">
+    <img class="flex-bottle" src="/images/ca/ddc632-9062-4f70-9d54-8b44fb6fe84e/2022-08-20-10-24-53-7537CA06-5565-43B1-98F4-9A04686ECA7D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Melonix - 2017</section>
+  </a>
+
+</div>
+#+end_export

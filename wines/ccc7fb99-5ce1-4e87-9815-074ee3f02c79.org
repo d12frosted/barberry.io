@@ -39,7 +39,13 @@ Great wine with potential, alas today it is still too young both in nose and on 
     <section class="h text-bolder">Vulkan - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">
+  <a class="flex-item flex-item-right" href="/wines/eeb4d4b9-5df4-4893-9a90-e7d063c1c324.html">
+    <img class="flex-bottle" src="/images/ee/b4d4b9-5df4-4893-9a90-e7d063c1c324/2022-08-20-10-40-12-9E9831A2-7675-407D-9E89-4E6436AE266E-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Wasenhaus</section>
+    <section class="h text-bolder">Filzen - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">
     <img class="flex-bottle" src="/images/f5/0846a9-7384-4585-93e9-9a764ff76e2a/2022-07-30-10-48-32-51C8D344-3930-4C6B-99F0-E9CC849B61F2-1-102-o.webp"></img>
     <section class="h text-small text-lighter">Wasenhaus</section>
     <section class="h text-bolder">Spätburgunder - 2020</section>

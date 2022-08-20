@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     d307220d-3663-4096-9aae-e47af797cad1
-:END:
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]
 - Vintage :: 2019
@@ -12,21 +9,12 @@
 - Cellar :: N/A
 
 ** Producer
-:PROPERTIES:
-:ID:                     3bdb283c-ab72-46b0-992c-bd86dcebd7f6
-:END:
 
 Small wine producer from Czech Republic.
 
 ** Ratings
-:PROPERTIES:
-:ID:                     1d7c78ac-1ab7-49fb-9631-84101da86ce1
-:END:
 
 *** 2021-12-15 - ☆ 7.50
-:PROPERTIES:
-:ID:                     bae98afa-8376-463b-88ba-954ce1b7803b
-:END:
 
 Unexpectedly neat Pinot Noir. Not complex, bug good. Dust, red forest
 berries, animalistic notes, strawberry and acetone. So all-in-all it
@@ -35,9 +23,6 @@ does it quite well. Not overwhelming, fresh, juicy and slightly crazy
 profile. Good value.
 
 ** Related
-:PROPERTIES:
-:ID:                     dfe7493e-58e8-46d9-9350-cb23739fc16a
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -57,6 +42,12 @@ profile. Good value.
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
+    <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Alta Alella</section>
+    <section class="h text-bolder">Aus Pet Nat - 2020</section>
   </a>
 
 </div>

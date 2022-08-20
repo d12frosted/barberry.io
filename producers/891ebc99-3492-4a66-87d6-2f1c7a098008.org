@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/16128b7b-90b3-4b66-ac2a-994178f0f6f2.html">
+    <img class="flex-bottle" src="/images/16/128b7b-90b3-4b66-ac2a-994178f0f6f2/2022-08-20-10-41-48-C6645716-C847-4A44-91AB-5EC24CBC2378-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.80</section>
+    <section class="h text-bolder">A Liberdade - 2019</section>
+  </a>
+
+</div>
+#+end_export

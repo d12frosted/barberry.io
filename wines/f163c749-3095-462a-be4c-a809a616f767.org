@@ -47,5 +47,23 @@ and tasty. Liked for balanced and acidity.
     <section class="h text-bolder">Chablis - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/dc03aa64-676f-49f0-a813-4adeeff703f2.html">
+    <img class="flex-bottle" src="/images/dc/03aa64-676f-49f0-a813-4adeeff703f2/2021-03-03-20-14-46-7069F3DF-EDEF-485B-B78F-D6201F15F5C1-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Sauvignon Blanc Reserve - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ea445548-2b5e-45b0-b985-33f8589b1f52.html">
+    <img class="flex-bottle" src="/images/ea/445548-2b5e-45b0-b985-33f8589b1f52/2021-03-03-19-58-22-4F3D6572-CE2B-4151-B129-C11454F07AE6-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Albariño - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ffc29f89-1b63-4c09-8f6d-a0077962e90f.html">
+    <img class="flex-bottle" src="/images/ff/c29f89-1b63-4c09-8f6d-a0077962e90f/2022-08-20-10-52-44-0024A8F7-0A04-4081-B87D-77A41FEC425A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Arbina - 2017</section>
+  </a>
+
 </div>
 #+end_export

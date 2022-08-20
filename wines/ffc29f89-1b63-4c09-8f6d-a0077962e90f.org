@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ff/c29f89-1b63-4c09-8f6d-a0077962e90f/2022-08-20-10-52-44-0024A8F7-0A04-4081-B87D-77A41FEC425A-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/06a2adf5-5f66-47e8-9d78-41eaef001e34][Beykush]]
+- Vintage :: 2017
+- Location :: Ukraine, Mykolaiv Oblast
+- Grapes :: Rkatsiteli
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 649 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-03-02 - ☆ 7.50
+
+Interesting result. So far the only Beykush wine that I enjoyed drinking. Soaked apricots in petrol, pickles, dried stone fruits, persimmon. Soft, well balanced.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52ac7f99-cf2f-4590-b19d-141f3aa2c217.html">
+    <img class="flex-bottle" src="/images/52/ac7f99-cf2f-4590-b19d-141f3aa2c217/2022-08-20-10-32-36-3C6BE3AB-B559-4183-BF9C-A95E85752B6D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Chardonnay Reserve - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dc03aa64-676f-49f0-a813-4adeeff703f2.html">
+    <img class="flex-bottle" src="/images/dc/03aa64-676f-49f0-a813-4adeeff703f2/2021-03-03-20-14-46-7069F3DF-EDEF-485B-B78F-D6201F15F5C1-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Sauvignon Blanc Reserve - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ea445548-2b5e-45b0-b985-33f8589b1f52.html">
+    <img class="flex-bottle" src="/images/ea/445548-2b5e-45b0-b985-33f8589b1f52/2021-03-03-19-58-22-4F3D6572-CE2B-4151-B129-C11454F07AE6-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Beykush</section>
+    <section class="h text-bolder">Albariño - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
+    <img class="flex-bottle" src="/images/8c/a732d2-d35b-4b9a-9b01-e68fc2ebe3d4/2021-03-03-20-24-22-564DA641-3048-4F67-81B9-3C96CC9AC232-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Raoul Clerget</section>
+    <section class="h text-bolder">Chablis - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
+    <img class="flex-bottle" src="/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

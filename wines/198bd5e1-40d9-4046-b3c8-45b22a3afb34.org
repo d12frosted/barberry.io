@@ -36,5 +36,11 @@ I took this bottle with little expectations and now I think that it was not fair
     <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
+    <img class="flex-bottle" src="/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bret Brothers</section>
+    <section class="h text-bolder">Macon-Villages Cuvee Ephemere - 2017</section>
+  </a>
+
 </div>
 #+end_export
