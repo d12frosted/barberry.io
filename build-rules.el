@@ -212,12 +212,11 @@ Access to full ITEMS for related wines."
            (related (brb-public-items (brb-related-wines note) items))
            (images (vulpea-note-meta-get-list note "images")))
       (insert
+       "#+attr_html: :class wine-main-image\n"
        (if images
-           (concat
-            "#+attr_html: :class wine-main-image\n"
-            (car images)
-            "\n\n")
-         "")
+           (car images)
+         "[[file:/images/unknown-wine.webp]]")
+       "\n\n"
        "- Type :: "
        (s-capitalize colour)
        " "
@@ -330,9 +329,11 @@ Access to full ITEMS for related wines."
                         "flex-item-right")))
             (insert
              "  <a class=\"flex-item " pos "\" href=\"/wines/" id ".html\">\n"
-             (if img-item
-                 (concat "    <img class=\"flex-bottle\" src=\"/" (porg-item-target-rel img-item) "\"></img>\n")
-               "")
+             (concat "    <img class=\"flex-bottle\" src=\"/"
+                     (if img-item
+                         (porg-item-target-rel img-item)
+                       "images/unknown-wine.webp")
+                     "\"></img>\n")
              "    <section class=\"h text-small text-lighter\">" (vulpea-note-title producer) "</section>\n"
              "    <section class=\"h text-bolder\">" name " - " vintage "</section>\n"
              "  </a>\n\n")))
@@ -395,9 +396,12 @@ Access to full ITEMS for related wines."
                             "flex-item-right")))
                 (insert
                  "  <a class=\"flex-item " pos "\" href=\"/wines/" id ".html\">\n"
-                 (if img-item
-                     (concat "    <img class=\"flex-bottle\" src=\"/" (porg-item-target-rel img-item) "\"></img>\n")
-                   "")
+                 (concat "    <img class=\"flex-bottle\" src=\"/"
+                         (if img-item
+                             (porg-item-target-rel img-item)
+                           "images/unknown-wine.webp")
+                         "\"></img>\n")
+
                  "    <section class=\"h text-small text-lighter\">★ "
                  (if (vulpea-note-meta-get it "ratings")
                      (format "%.2f" (vulpea-note-meta-get it "rating" 'number))

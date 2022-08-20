@@ -25,6 +25,7 @@ fig and musk finish.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Jean Grivot</section>
     <section class="h text-bolder">Bourgougne Pinot Noir - 2016</section>
   </a>

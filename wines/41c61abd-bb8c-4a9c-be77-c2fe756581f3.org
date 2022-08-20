@@ -43,6 +43,7 @@ evolving finish. Tastes like fermenting white fruits.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>

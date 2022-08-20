@@ -1,16 +1,11 @@
-:PROPERTIES:
-:ID:                     0b16222b-1d29-4407-9702-60028dd564e2
-:END:
 One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
 
 ** Wines
-:PROPERTIES:
-:ID:                     cd2fd4b2-5590-4fc4-ade9-ee905e545755
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">★ 7.25</section>
     <section class="h text-bolder">Pinot Noir - 2020</section>
   </a>

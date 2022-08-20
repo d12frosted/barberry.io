@@ -28,6 +28,7 @@ I have tasted this wine on multiple occasions. Every time my experience was rath
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
   </a>

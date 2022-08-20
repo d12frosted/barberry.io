@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     c8bc6610-fcc8-44f2-a2c2-066519d7b74b
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     ad624bf1-0af0-4c22-80c0-e54405b77897
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">★ 7.00</section>
     <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
   </a>

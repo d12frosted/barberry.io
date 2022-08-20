@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     8fe0de58-dc32-4a18-b8a7-f7d0157e3a24
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/67/648a12-7d2c-481b-ba2f-707213642f7c/2021-08-11-08-44-02-FBFF53FB-A541-4325-9C22-E4B78D151272-1-105-c.webp]]
 
@@ -15,23 +12,14 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     75f6d008-1149-4d4b-b400-b41e43065272
-:END:
 
 *** 2021-08-10 - ☆ 6.50
-:PROPERTIES:
-:ID:                     b4a1c92b-7146-4f3a-95d2-1171a68b9a6d
-:END:
 
 Too young, unfocused and not structured. Medicinal herbs, white plum, VA, salted pomelo with canned pineapple. Seems like it has potential, but requires much more time in the bottle.
 
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
-:PROPERTIES:
-:ID:                     c8db737b-6f1d-4cf4-932d-c81aebd91bba
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -54,6 +42,7 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>

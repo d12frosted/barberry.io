@@ -28,6 +28,7 @@ Simple and not demanding Pet-Nat. Apple, yeast and soap. Weak mousse. Bad value.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Krasna Hora</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>

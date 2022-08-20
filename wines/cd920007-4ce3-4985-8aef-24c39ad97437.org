@@ -80,6 +80,7 @@ and well balanced.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Mambo Sun - 2020</section>
   </a>

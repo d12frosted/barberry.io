@@ -1,11 +1,5 @@
-:PROPERTIES:
-:ID:                     cd30217b-6682-4852-97b9-2ad1bb071cc2
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     193aa945-c26b-4d8b-af1e-d43405fa067c
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -46,6 +40,7 @@
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">★ 7.00</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>

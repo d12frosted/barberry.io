@@ -32,6 +32,7 @@ Medium-light body, friendly palate.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ba94148b-5ed1-447a-bd61-f6a3c7b2a0f1.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>

@@ -1,3 +1,6 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
 - Vintage :: 2020
@@ -81,6 +84,7 @@ One more juicy beauty by Matassa. Fruit-forward bouquet: raspberry bubble-gum, s
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/beb5669b-5c8c-4c11-ac52-37d225a86bc3.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Ace of Spades - 2019</section>
   </a>

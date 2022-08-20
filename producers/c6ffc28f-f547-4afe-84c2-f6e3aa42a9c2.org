@@ -1,12 +1,6 @@
-:PROPERTIES:
-:ID:                     114b54ad-5fd3-4dfb-928d-459a9c53f488
-:END:
 Small wine producer from Czech Republic.
 
 ** Wines
-:PROPERTIES:
-:ID:                     03e79d90-94ec-4ee9-8608-da172711be63
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -23,6 +17,7 @@ Small wine producer from Czech Republic.
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">★ 7.50</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>

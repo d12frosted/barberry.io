@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     e2bb7784-3ccc-4856-9d97-e170bed273e3
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     14bbdf46-d9a6-415a-a7f2-b95c7aa954e7
-:END:
 
 *** 2021-12-09 - ☆ 7.25
-:PROPERTIES:
-:ID:                     4f3980eb-2e0b-4b17-8aec-eca17c718c53
-:END:
 
 Simple Trousseau from Arbois. Cranberry, cherry and notes of coffee (maybe someone is hiding coffee beans near me?). Looks like someone had too much oak. Nice acidity, good volume, but lacks depth.
 
 ** Related
-:PROPERTIES:
-:ID:                     a2eaa84e-7fef-4901-98fa-38e56af3e1f8
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -40,6 +28,7 @@ Simple Trousseau from Arbois. Cranberry, cherry and notes of coffee (maybe someo
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Mambo Sun - 2020</section>
   </a>

@@ -40,6 +40,7 @@
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Zeni</section>
     <section class="h text-bolder">Garganega Veronese Vigne Alte - 2018</section>
   </a>

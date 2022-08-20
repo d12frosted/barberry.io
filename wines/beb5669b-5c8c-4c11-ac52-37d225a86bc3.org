@@ -1,3 +1,6 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
 - Vintage :: 2019
@@ -42,6 +45,7 @@ cherry and barn. Good, almost clean style.
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Mambo Sun - 2020</section>
   </a>

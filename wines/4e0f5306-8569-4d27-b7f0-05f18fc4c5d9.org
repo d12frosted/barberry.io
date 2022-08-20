@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     e5fedcfc-fa4c-4149-ae72-0be363966478
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp]]
 
@@ -15,21 +12,12 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     2d56c7fe-1a34-4aa4-902c-9b1fd0a4f8c5
-:END:
 
 *** 2021-08-10 - ☆ 7.75
-:PROPERTIES:
-:ID:                     27fd9464-9340-4f6b-aad7-cbb9f6033151
-:END:
 
 Tasted blind and guessed only the New World part. Strict and sophisticated bouquet: gooseberry, stone fruits, freshly cut grass. A little bit off-dry, but tasty and very gastronomic. Long aftertaste, flavours of grass and stone fruits. Didn't expect such a good wine from Spier Wines. My apologies.
 
 ** Related
-:PROPERTIES:
-:ID:                     98d9801c-9ef7-46d9-80d7-285d95806f2b
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -52,6 +40,7 @@ Tasted blind and guessed only the New World part. Strict and sophisticated bouqu
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>

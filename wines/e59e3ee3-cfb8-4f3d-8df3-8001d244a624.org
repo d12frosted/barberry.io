@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     16d42ecd-791e-40fe-b5d1-9e276360599d
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/e5/9e3ee3-cfb8-4f3d-8df3-8001d244a624/2021-08-11-08-35-32-0DFD44BE-D6D0-4353-8187-56ECFDF1ABF5-1-105-c.webp]]
 
@@ -15,23 +12,14 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     4aa52d1a-4d95-42b1-b1e2-d409640ecf2c
-:END:
 
 *** 2021-08-10 - ☆ 7.75
-:PROPERTIES:
-:ID:                     e5558b22-dfef-45a4-9374-75e7d51cdc07
-:END:
 
 This one is interesting. Maybe it worth buying a bottle and storing it for a year or so to fully open its potential. Bouquet is seemingly simple and straight-forward, but it actually has complexity to offer: rose petals, honey, white plum and pleasant hints of VA. Fresh, easy going wine with flavours of pear candy and medicinal herbs.
 
 Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]] in 101 Bar.
 
 ** Related
-:PROPERTIES:
-:ID:                     406c6207-a995-4171-b39d-966c292e7dea
-:END:
 
 #+begin_export html
 <div class="flex-container">
@@ -60,6 +48,7 @@ Tasted together with [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220]
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>

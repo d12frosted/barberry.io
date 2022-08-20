@@ -38,6 +38,7 @@ A bottle variation. More smokey than the previous one. It's still a black curran
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
   </a>

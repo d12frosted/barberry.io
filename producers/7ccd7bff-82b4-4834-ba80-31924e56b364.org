@@ -1,15 +1,10 @@
-:PROPERTIES:
-:ID:                     cb206af8-94d0-4dfd-ba28-c085569ec9eb
-:END:
 
 ** Wines
-:PROPERTIES:
-:ID:                     f36f9059-cea8-4e68-9bc0-8478efccd5a7
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">★ 8.00</section>
     <section class="h text-bolder">Bourgougne Pinot Noir - 2016</section>
   </a>

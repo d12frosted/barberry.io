@@ -22,6 +22,7 @@ Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ba94148b-5ed1-447a-bd61-f6a3c7b2a0f1.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
