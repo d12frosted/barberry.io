@@ -1,0 +1,62 @@
+#+attr_html: :class wine-main-image
+[[file:/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da][Tasca]]
+- Vintage :: 2019
+- Location :: Italy, Sicilia DOC
+- Grapes :: Grillo
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 627 UAH
+- Cellar :: N/A
+
+** Producer
+
+Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
+
+- Tenuta Regaleali
+- Tenuta Capofaro
+- Tenuta Tascante
+- Fondazione Whitaker
+- Tenuta Sallier de La Tour
+
+#+caption: Image is taken from https://www.tascadalmerita.it/
+[[file:/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
+
+** Ratings
+
+*** 2022-08-21 - ☆ 7.25
+
+The horse of the fairies... Apparently, I forgot how to ride. Ah, wait, I am not a fairy. Silly me. Do I enjoy this wine? Yes! Do I want to buy a second bottle? No. This Grillo is tired of the world of the living. It is restrained and not confident. So here I am, helping it to return to the circle of life. Stone fruits, honey, pomelo, and moss-covered pebbles. Medium-bodied, slightly oily with moderately astringent aftertaste (like licking one of the mentioned moss-covered pebbles). At least it has some mineral aftertaste.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/653c1641-771c-4df8-baee-ee42e31af38a.html">
+    <img class="flex-bottle" src="/images/65/3c1641-771c-4df8-baee-ee42e31af38a/2020-08-12-08-04-34-CFA56B8F-5280-40EB-B95E-9013ECAF101F-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nero d'Avola - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+    <img class="flex-bottle" src="/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8dfdca77-2842-4f8e-8eb0-b95ac5b96902.html">
+    <img class="flex-bottle" src="/images/8d/fdca77-2842-4f8e-8eb0-b95ac5b96902/2022-08-21-13-33-24-52A151CC-1859-4836-B02C-6E386564C8C8-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Witwe Dr. H. Thanisch Erben Müller-Burggraef</section>
+    <section class="h text-bolder">Bernkasteler Riesling Kabinett Trocken - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,56 @@
+#+attr_html: :class wine-main-image
+[[file:/images/65/3c1641-771c-4df8-baee-ee42e31af38a/2020-08-12-08-04-34-CFA56B8F-5280-40EB-B95E-9013ECAF101F-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da][Tasca]]
+- Vintage :: 2017
+- Location :: Italy, Sicilia DOC
+- Grapes :: Nero d'Avola
+- Alcohol :: 13
+- Sugar :: 0.1
+- Price :: 345 UAH
+- Cellar :: N/A
+
+** Producer
+
+Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 different estates:
+
+- Tenuta Regaleali
+- Tenuta Capofaro
+- Tenuta Tascante
+- Fondazione Whitaker
+- Tenuta Sallier de La Tour
+
+#+caption: Image is taken from https://www.tascadalmerita.it/
+[[file:/images/65/3c1641-771c-4df8-baee-ee42e31af38a/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
+
+** Ratings
+
+*** 2020-08-11 - ☆ 5.50
+
+Dinner wine. Too sweet, lacks body and character. But fine otherwise.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/691d0b6c-4baf-4026-9f7a-36e86f81a007.html">
+    <img class="flex-bottle" src="/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Grillo Cavallo Delle Fate - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+    <img class="flex-bottle" src="/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
+  </a>
+
+</div>
+#+end_export
