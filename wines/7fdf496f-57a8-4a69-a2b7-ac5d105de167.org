@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]
+- Vintage :: 2019
+- Location :: France, Crémant de Limoux AOC
+- Grapes :: Chenin Blanc, Chardonnay
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 686 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-08-20 - ☆ 7.25
+
+Pretty decent Crémant. In the nose, it combines lemon peel, green apple and some highly aromatic evening flowers. All that on the canvas made of crème brûlée. Not complex, easy-going and tasty.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
+    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
+    <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/10a8b59c-4358-4e9c-b7fb-639a964910d3.html">
+    <img class="flex-bottle" src="/images/10/a8b59c-4358-4e9c-b7fb-639a964910d3/2022-06-09-21-59-00-IMG-0387.webp"></img>
+    <section class="h text-small text-lighter">Le Vendangeur Masque</section>
+    <section class="h text-bolder">Caravan - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6af7fcda-8b81-46eb-9ffd-10bbc0c8d790.html">
+    <img class="flex-bottle" src="/images/6a/f7fcda-8b81-46eb-9ffd-10bbc0c8d790/2022-08-21-13-27-32-43854C44-C25E-4F3E-9D1F-8A2F99732F71-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tiefgang</section>
+    <section class="h text-bolder">Kalkstein Spätburgunder Trocken - 2016</section>
+  </a>
+
+</div>
+#+end_export

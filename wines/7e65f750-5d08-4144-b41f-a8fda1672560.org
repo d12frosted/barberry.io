@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     02e3aa79-d15b-4d5a-8475-d5a01706ceea
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp]]
 
@@ -15,43 +12,40 @@
 - Cellar :: N/A
 
 ** Ratings
-:PROPERTIES:
-:ID:                     4dea5645-f01b-488f-8ba5-095d6751c195
-:END:
 
 *** 2022-07-16 - ☆ 7.40
-:PROPERTIES:
-:ID:                     97781f0c-3ccf-439f-b5ca-1b3ea9eab8ec
-:END:
 
 I wanted something easy-going to be a background for a pleasant conversation, and I got it. Cherry, spices, wet forest floor and smokiness. Fresh, juicy, well-balanced, and flavourful: spices and smoked cherry. Better served chilled.
 
 ** Related
-:PROPERTIES:
-:ID:                     392dfbca-1943-4ded-aa9e-8c6516b5e5e3
-:END:
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
+  <a class="flex-item flex-item-left" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
+    <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">An 825 Crémant de Limoux Brut - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
     <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+  <a class="flex-item flex-item-left" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
     <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
     <section class="h text-small text-lighter">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+  <a class="flex-item flex-item-right" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
     <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
     <section class="h text-small text-lighter">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
+  <a class="flex-item flex-item-left" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
     <img class="flex-bottle" src="/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Villa Clara</section>
     <section class="h text-bolder">Cava Brut - NV</section>
