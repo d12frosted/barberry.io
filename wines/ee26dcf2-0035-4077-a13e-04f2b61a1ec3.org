@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ee/26dcf2-0035-4077-a13e-04f2b61a1ec3/2022-08-22-21-58-10-E924EE87-BEE4-4FF8-B302-C35C817F55E0-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/95146412-bfcf-4724-8c50-a4d0ea63fc5a][Tiefgang]]
+- Vintage :: 2017
+- Location :: Germany, Pfalz
+- Grapes :: Pinot Noir
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 335 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6af7fcda-8b81-46eb-9ffd-10bbc0c8d790.html">
+    <img class="flex-bottle" src="/images/6a/f7fcda-8b81-46eb-9ffd-10bbc0c8d790/2022-08-21-13-27-32-43854C44-C25E-4F3E-9D1F-8A2F99732F71-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tiefgang</section>
+    <section class="h text-bolder">Kalkstein Spätburgunder Trocken - 2016</section>
+  </a>
+
+</div>
+#+end_export

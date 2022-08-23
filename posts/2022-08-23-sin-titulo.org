@@ -11,7 +11,13 @@ Right! So this is our plan for the evening.
 5. [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][An Approach To Relaxation Sucette 2018]]
 6. [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
 7. [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Alex Craighead Kindeli Verano 2020]]
-8. [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Jauma Audrey 2018]]
+8. [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Jauma Audrey's Fairygarten 2018]]
+
+Ordering wines is one of the most challenging problems I face when planning a wine tasting event. It's also a controversial topic because everyone has their own opinion. I bet some of you would, for example, put Sucette at the end of this list and Jauma at the beginning. But aside from body and volume, I need to consider one critical aspect of these events. Most of the participants are casuals (in a good sense). And while we can drink and enjoy eight wines, our perception becomes dulled by the end. So from my experience, the most complex wines should be in the middle. Body and alcohol levels matter, but I am ready to experiment to deliver the maximum out of these wines.
+
+So the story here is simple. We start with non-complex wines while we enjoy our food. Then with Matassa, we build the road to more complex and intriguing wines. I expected Cà del Vént to be a crescendo of this tasting that also resets us and lets us lay low to finish on light and easy stuff.
+
+Did it work? Read further!
 
 * Scores
 :PROPERTIES:
@@ -40,14 +46,14 @@ Right! So this is our plan for the evening.
 #+results: summary
 |   |  amean |   sdev | favourite | outcast |   price |      QPR |
 |---+--------+--------+-----------+---------+---------+----------|
-| 1 |   3.90 | 0.0745 |      1.00 |    1.00 |  946.00 |   2.1847 |
-| 2 |   3.95 | 0.1770 |      2.00 |    2.00 | 1185.00 |   1.8917 |
-| 3 |   4.18 | 0.0506 |    *3.00* |    0.00 | 1600.00 |   1.9658 |
-| 4 |   3.35 | 0.6443 |      1.00 |  +5.00+ |  690.00 |   1.3642 |
-| 5 | *4.39* | 0.0481 |      2.00 |    0.00 | 1150.00 | *3.8225* |
-| 6 |   3.72 | 0.1451 |      0.00 |    2.00 | 1150.00 |   1.3774 |
-| 7 |   3.89 | 0.0554 |      2.00 |    1.00 | 1400.00 |   1.4565 |
-| 8 |   4.38 | 0.0476 |      0.00 |    0.00 | 1290.00 |   3.3491 |
+| 1 |   3.90 | 0.0745 |      1.00 |    1.00 |  955.00 |   2.1641 |
+| 2 |   3.95 | 0.1770 |      2.00 |    2.00 |  702.00 |   3.1933 |
+| 3 |   4.18 | 0.0506 |    *3.00* |    0.00 |  955.00 |   3.2935 |
+| 4 |   3.35 | 0.6443 |      1.00 |  +5.00+ |  997.00 |   0.9441 |
+| 5 | *4.39* | 0.0481 |      2.00 |    0.00 | 1529.00 |   2.8750 |
+| 6 |   3.72 | 0.1451 |      0.00 |    2.00 | 1477.00 |   1.0725 |
+| 7 |   3.89 | 0.0554 |      2.00 |    1.00 |  802.00 |   2.5425 |
+| 8 |   4.38 | 0.0476 |      0.00 |    0.00 |  787.00 | *5.4897* |
 
 How to read this table:
 
@@ -58,7 +64,7 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
-* Anne et J.F. Ganevat La Bubulle à Jeannot
+* Anne et J.F. Ganevat La Bubulle à Jeannot NV
 :PROPERTIES:
 :ID:                     c040cfd3-1080-43ba-9682-2c43bda2e04d
 :END:
@@ -77,7 +83,7 @@ How to read this table:
 - price: 955 UAH
 - importer: Wine Bureau
 
-???
+A rosé Pétillant Naturel by Jean-François Ganevat, a rock-star naturalist from Jura. But don't be mistaken. This particular wine is not made uniquely from Jura grapes. Together with his sister Anne (hence Anne et J.F. Ganevat), they source grapes from Alsace, Beaujolais, and Savoie. This decision was made after consecutive vintages of losing large portions of the harvest. Anne and Jean-François even went so far as to purchase vines in the Beaujolais. Each Vin de France cuvée is a blend of estate fruit from the Jura and purchased (or estate) fruit from another region. In the case of La Bubulle à Jeannot, Poulsard comes from Jura and Gamay - from Beaujolais.
 
 * Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019
 :PROPERTIES:
@@ -226,6 +232,10 @@ After gaining experience, the property reaches 6.5 hectares merging some neighbo
 
 As you might know, to be allowed to write any designation like Franciacorta DOCG, you have to pass an evaluation by the tasting commission. In 2015 Cà del Vént was rejected because its wines did not suit the appellation standards. Formally commission said that these wines are too rich and complex. Since then Cà del Vént is not bound by any restrictions other than its own. High standards, and a strong identity made by the soil and the season.
 
+The base wine for this rosé spent 7 months in French oak 225 litres Taransaud barriques. The second fermentation started with the addition of grape sugar. Overall, it spent 45 months on lees. After the disgorgement, sparkling VSQ is filled ONLY with wine from other bottles belonging to the same lot, without adding sugar or any liqueur d'expedition. This is what Cà del Vént means by Pas Operé (unprocessed). Not to confuse with Pas dosé - no added sugar.
+
+As far as I understand, the label depicts cracks on the granite block. They occur by the procedures used to quarry the stone.
+
 * Alex Craighead Kindeli Verano 2020
 :PROPERTIES:
 :ID:                     fd55d5e6-1191-4e44-a24d-3d5186a2d70b
@@ -244,7 +254,13 @@ As you might know, to be allowed to write any designation like Franciacorta DOCG
 - price: 802 UAH
 - importer: Wine Bureau
 
-* Jauma Audrey 2018
+Kindeli wines are the product of Alex Craighead and Josefina Venturino. Alex, born in Australia and raised in New Zealand, studied wine and soon after began to travel the world to gain experience from other winemakers in various regions. That's how he met Josefina, a landscape architect from Argentina. Eventually, they moved to New Zealand.
+
+From day zero, they were experimenting with low intervention winemaking. In 2014 they released their first wines in Martinborough. In 2016 they moved to Nelson, where they bought an existing organic winery and vineyard. In other words, they moved from the southern part of the Northern Island to the northern part of the Southern Island. Are you confused? You shouldn't be.
+
+On 4.5 hectares of clay soils in Upper Moutere, Alex and Josefina cultivate 14 various varieties. In addition, they lease another three vineyards totalling another 9.5 hectares.
+
+* Jauma Audrey's Fairygarten 2018
 :PROPERTIES:
 :ID:                     6470736f-ee56-4aa7-8293-23634f81ce3d
 :END:
@@ -253,17 +269,42 @@ As you might know, to be allowed to write any designation like Franciacorta DOCG
 [[file:/images/2022-08-23-sin-titulo/2022-08-17-10-59-06-C7CBC140-BC10-4675-B99D-699E47021D10-1-105-c.webp]]
 
 - producer: [[barberry:/producers/85c67ac6-c09f-4ceb-9a49-2f08a20fb25a][Jauma]]
-- name: [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Audrey]]
+- name: [[barberry:/wines/1712fbad-bd80-496b-a42c-fbba26f058f9][Audrey's Fairygarten]]
 - vintage: 2018
 - grapes: Shiraz
-- location: ???
+- location: Lenswood, Peramangk Country, Adelaide Hills, South Australia, Australia
 - alcohol: 10.5
 - sugar: 1.0
 - price: 787 UAH
 - importer: Wine Bureau
 
+Adelaide Hills is home to many incredible wineries that turn the perception of Australian wines upside down. They can be light, fun and still be fine and complex. Jauma is a small farm and winery from Lenswood, Peramangk Country. The name comes after the Catalan variant of its owner's first name - James Erskine, award-winning ex-sommelier and now a prominent winemaker.
+
+Akin to Anton van Klopper from [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]], James worked in the hospitality business before jumping the fence to the world of wines. Over the years, James earnt an Honours Degree in Agricultural Science (Oenology), a sommelier of the year gong, and topped the class at the Court of Master Sommeliers exams in Melbourne in 2008.
+
+Yet winemaking attracted James. Even at the peak of his sommelier career, James spent plenty of hours among the vines. As a member of The Natural Selection Theory, he worked on experimental wines with Sam Hughes, Anton van Klopper, and Tom Shobbrook.
+
+From this experience, Jauma was born in 2010. Their first harvest happened in the same year. James sourced grapes from McLaren Vale instead of Adelaide Hills. In 2011 he met a like-minded grower in Fiona Wood. Since then, she has helped James with leased vineyards.
+
+Jauma Farm in Lenswood, Peramangk Country, was purchased by James in 2018. He planted it with Chenin Blanc, Savagnin, Cabernet Franc, Gewürztraminer, Pinot Gris and Sauvignon Blanc. And in the years to come, we shall see wines produced from James' own grapes.
+
+#+caption: Photo by [[https://www.jauma.com/home][jauma.com]]
+[[file:/images/2022-08-23-sin-titulo/2022-08-22-13-03-26-a13178-19225d71ca0a44b59b25f30e96c930ce~mv2.webp]]
+
+#+begin_quote
+Harvested from the early ripening crown of Ralph Woods' dry grown shiraz ridge in Clarendon.  This ironstone rich outcrop combined with an early harvest choice, carbonic fermentation in the winery and a slight spritz produces a super vibrant and pretty wine backed up with lashings of minerality. Roses, raspberries and tangy sherbet.
+
+James Erskine via [[https://notwasted.com.au][notwasted.com.au]]
+#+end_quote
+
 * Conclusion
 :PROPERTIES:
 :ID:                     d99064f9-3193-4905-b9a1-ca6eddf0b382
 :END:
+
+1. Talk about crazy times (independence and rockets).
+2. Mention some memorable wines.
+3. Talk about the order. Did it work or no?
+
+Everyone was nervous because Ukraine celebrates Independence Day on the 24th of August. And since russia has started a war against Ukraine, some feared possible strikes on civilian locations around this date. And despite this all, we still decided to gather for a cosy wine tasting event. Well, this is the reality we live in.
 

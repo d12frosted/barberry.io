@@ -34,7 +34,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 #+results: countries-data
 | country        | count | p avg        | r rms |    qpr |
 |----------------+-------+--------------+-------+--------|
-| Italy          |    22 | 918.52 UAH   |  7.81 | 2.6829 |
+| Italy          |    22 | 918.19 UAH   |  7.81 | 2.6845 |
 | Spain          |    17 | 842.60 UAH   |  7.44 | 2.9860 |
 | France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
@@ -80,7 +80,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |    2013 |     1 | 1 707.00 UAH |  8.80 | 2.6127 |
 |    2009 |     1 | 897.57 UAH   |  8.50 | 3.9230 |
 |    1997 |     1 | 1 408.00 UAH |  8.60 | 2.7044 |
-|      NV |    15 | 995.57 UAH   |  7.23 | 2.5794 |
+|      NV |    15 | 995.08 UAH   |  7.23 | 2.5817 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -102,8 +102,8 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
-| Chardonnay                   |    12 | 891.09 UAH   |  7.35 | 2.9638 |
-| Pinot Noir                   |    12 | 1 220.42 UAH |  7.88 | 2.6177 |
+| Chardonnay                   |    12 | 890.48 UAH   |  7.35 | 2.9663 |
+| Pinot Noir                   |    12 | 1 219.80 UAH |  7.88 | 2.6206 |
 | Macabeo                      |     5 | 357.20 UAH   |  6.66 | 3.4788 |
 | Xarel-lo                     |     5 | 377.25 UAH   |  6.77 | 3.5195 |
 | Parellada                    |     4 | 365.25 UAH   |  6.46 | 3.0807 |
@@ -260,7 +260,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-05 | France         | [[barberry:/producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261][Domaine du Pélican]]       | [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pélican Savagnin Ouillé 2016]] |    2016 | 8.50 | 2.3271 |
 | 2022-07-05 | Georgia        | [[barberry:/producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad][Pheasant's Tears]]         | [[barberry:/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79][Pheasant's Tears Poliphonia 2019]]   |    2019 | 7.50 | 2.7506 |
 | 2022-07-05 | France         | [[barberry:/producers/3d5928c7-97f8-4a20-bad4-14a91e1ec7c9][Éric Chevalier]]           | [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]         |    2018 | 8.00 | 2.2695 |
-| 2022-07-05 | Italy          | [[barberry:/producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00][Cascina Bertolotto]]       | [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Cascina Bertolotto Spumante Brut Metodo Classico NV]] |      NV | 8.20 | 3.2354 |
+| 2022-07-05 | Italy          | [[barberry:/producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00][Cascina Bertolotto]]       | [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Cascina Bertolotto Spumante Brut Metodo Classico NV]] |      NV | 8.20 | 3.2633 |
 | 2022-07-05 | France         | [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]                  | [[barberry:/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0][Matassa Cuvée Alexandria 2019]]      |    2019 | 8.50 | 3.5033 |
 | 2022-07-07 | Czech Republic | [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]              | [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Krasna Hora Ruby 2020]]              |    2020 | 7.50 | 4.0160 |
 | 2022-07-07 | Australia      | [[barberry:/producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2][Jacob's Creek]]            | [[barberry:/wines/764bd923-7614-4d69-ac9c-556694bb1c9f][Jacob's Creek Sparkling Rosé]]       |      NV | 7.00 | 2.2586 |

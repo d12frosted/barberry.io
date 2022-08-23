@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9b361ede-7b7f-479e-ac22-6990def2034e.html">
+    <img class="flex-bottle" src="/images/9b/361ede-7b7f-479e-ac22-6990def2034e/2022-08-22-21-44-39-D2DB245C-7258-436A-8AAA-FC9433803FFB-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h text-bolder">Crémant d'Alsace - NV</section>
+  </a>
+
+</div>
+#+end_export
