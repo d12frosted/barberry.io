@@ -17,7 +17,12 @@ Ordering wines is one of the most challenging problems I face when planning a wi
 
 So the story here is simple. We start with non-complex wines while we enjoy our food. Then with Matassa, we build the road to more complex and intriguing wines. I expected Cà del Vént to be a crescendo of this tasting that also resets us and lets us lay low to finish on light and easy stuff.
 
-Did it work? Read further!
+Did it work? I think, yes. The first two wines played well with food. Not too complex, yet pleasant. Then we enjoyed more sophisticated wines with Anima Brut being the pinnacle of the evening. Some would say that the last two were redundant, but hey - there are people who enjoyed them more than previous wines.
+
+That being said, I am going to continue with this kind of order, where the most complex and interesting wines are located in the middle.
+
+#+caption: Photo by Elvira Kantiieva (The Incline was an extra bottle that didn't participate in tasting)
+[[file:/images/2022-08-23-sin-titulo/2022-08-24-12-40-08-IMG-9940.webp]]
 
 * Scores
 :PROPERTIES:
@@ -29,31 +34,32 @@ Did it work? Read further!
 #+results: scores
 |             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
 |-------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Andrii S    |  +3.50+ |  *4.20* |    4.35 |    4.20 |    4.30 |    3.80 |    4.00 |    4.20 |
-| Viktoria    |    4.00 |  +3.80+ |  *4.50* |    3.70 |    4.60 |    3.30 |    4.00 |    4.40 |
-| Tetiana     |  *4.30* |    4.30 |    4.00 |  +2.00+ |    4.00 |    3.40 |    3.50 |    4.40 |
-| Dmytro      |    4.20 |    4.10 |    3.90 |  +3.40+ |  *4.40* |    3.60 |    4.10 |    4.60 |
-| Elvira      |    3.70 |    4.30 |  *4.40* |    3.90 |    4.50 |    4.00 |  +3.50+ |    4.50 |
-| Oleksandr Y |    3.80 |  *4.20* |    4.00 |  +3.40+ |    4.20 |    3.60 |    3.70 |    4.10 |
-| Oleksandr R |    3.50 |    3.00 |  *4.50* |  +2.30+ |    4.70 |    4.00 |    3.80 |    4.70 |
-| Artem       |    4.00 |  +3.30+ |    3.90 |  *4.00* |    4.50 |    4.40 |    4.20 |       - |
-| Vasyl       |    3.80 |    4.30 |    4.10 |    3.80 |    4.20 |  +3.00+ |  *4.10* |    4.30 |
-| Andrii P    |    4.30 |    3.80 |    4.00 |  +2.00+ |  *4.70* |    4.10 |    3.80 |    4.60 |
-| Boris B     |    3.80 |    4.20 |    4.30 |    4.10 |    4.20 |  +3.70+ |  *4.10* |    4.00 |
+| Oleksandr R |    3.00 |  +2.80+ |    3.80 |    4.00 |    3.00 |  *4.20* |    4.00 |    3.50 |
+| Andrii S    |    3.60 |    3.40 |    3.90 |    3.70 |  +3.30+ |  *4.40* |    3.90 |    4.00 |
+| Tania S     |    4.00 |    3.00 |    3.30 |  +2.70+ |    3.40 |    4.00 |    3.80 |  *4.40* |
+| Dmytro S    |    3.90 |    3.60 |    4.10 |  +3.20+ |    3.10 |    4.00 |  *4.30* |    3.90 |
+| Ivietta K   |    4.00 |  +3.80+ |    4.30 |    4.20 |  *4.80* |    3.80 |    4.40 |    3.90 |
+| Dmytro D    |    4.00 |    3.50 |    3.80 |    4.30 |  *4.50* |    3.90 |  +3.00+ |    3.40 |
+| Maksym K    |    2.90 |    3.00 |    3.10 |  +2.80+ |    3.50 |  *4.10* |       - |       - |
+| Elivra K    |    4.00 |    3.80 |  *4.00* |    3.80 |    3.70 |    4.30 |  +3.60+ |    3.70 |
+| Oleksandr Y |    3.80 |    4.00 |  *4.10* |    3.50 |  +3.40+ |    4.20 |    3.90 |    4.10 |
+| Olena H     |    3.90 |    3.80 |    3.80 |    3.70 |    3.80 |  *4.00* |    4.00 |  +3.60+ |
+| Kateryna K  |    4.00 |  +3.20+ |    4.00 |    3.80 |    4.30 |  *4.70* |    3.20 |    4.00 |
+| Boris B     |    3.80 |    3.70 |    4.00 |  *4.20* |    4.50 |    4.20 |    3.80 |  +3.70+ |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
 |   |  amean |   sdev | favourite | outcast |   price |      QPR |
 |---+--------+--------+-----------+---------+---------+----------|
-| 1 |   3.90 | 0.0745 |      1.00 |    1.00 |  955.00 |   2.1641 |
-| 2 |   3.95 | 0.1770 |      2.00 |    2.00 |  702.00 |   3.1933 |
-| 3 |   4.18 | 0.0506 |    *3.00* |    0.00 |  955.00 |   3.2935 |
-| 4 |   3.35 | 0.6443 |      1.00 |  +5.00+ |  997.00 |   0.9441 |
-| 5 | *4.39* | 0.0481 |      2.00 |    0.00 | 1529.00 |   2.8750 |
-| 6 |   3.72 | 0.1451 |      0.00 |    2.00 | 1477.00 |   1.0725 |
-| 7 |   3.89 | 0.0554 |      2.00 |    1.00 |  802.00 |   2.5425 |
-| 8 |   4.38 | 0.0476 |      0.00 |    0.00 |  787.00 | *5.4897* |
+| 1 |   3.74 | 0.1391 |      0.00 |    0.00 |  955.00 |   1.7159 |
+| 2 |   3.47 | 0.1372 |      0.00 |  +3.00+ |  702.00 |   1.5822 |
+| 3 |   3.85 | 0.1058 |      2.00 |    0.00 |  955.00 |   2.0100 |
+| 4 |   3.66 | 0.2541 |      1.00 |  +3.00+ |  997.00 |   1.4581 |
+| 5 |   3.77 | 0.3352 |      2.00 |    2.00 | 1529.00 |   1.1249 |
+| 6 | *4.15* | 0.0542 |    *5.00* |    0.00 | 1477.00 |   2.0418 |
+| 7 |   3.81 | 0.1590 |      1.00 |    2.00 |  802.00 |   2.2539 |
+| 8 |   3.84 | 0.0769 |      1.00 |    2.00 |  787.00 | *2.3906* |
 
 How to read this table:
 
@@ -302,9 +308,11 @@ James Erskine via [[https://notwasted.com.au][notwasted.com.au]]
 :ID:                     d99064f9-3193-4905-b9a1-ca6eddf0b382
 :END:
 
-1. Talk about crazy times (independence and rockets).
-2. Mention some memorable wines.
-3. Talk about the order. Did it work or no?
+Many people were nervous because Ukraine celebrates Independence Day on the 24th of August. And due to the war started by russia, some feared possible strikes on civilian locations around this date. Despite the mood, we decided to gather for a wine tasting event. After all, this is the reality we live in. How was it? Incredibly warm, interesting and competitive.
 
-Everyone was nervous because Ukraine celebrates Independence Day on the 24th of August. And since russia has started a war against Ukraine, some feared possible strikes on civilian locations around this date. And despite this all, we still decided to gather for a cosy wine tasting event. Well, this is the reality we live in.
+The person who guessed the most got a little present - "[[https://www.yakaboo.ua/ua/raisin-100-velikih-natural-nih-emocijnih-vin.html][Raisin: 100 Grands vins naturels d’émotion]]" (UA edition). And even though there was only one present, I guess everyone gained something over the evening.
+
+Thanks to everyone who participated and those few who read these reports.
+
+Happy Independence Day! And see you next time.
 
