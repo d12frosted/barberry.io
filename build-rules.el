@@ -742,7 +742,15 @@ Basically, keep only public notes."
                            :file-mod #'file-name-fix-attachment
                            :filter #'brb-supported-image-p
                            :owner note)
-                          ratings)))))))
+                          ratings))
+                        (list
+                         (porg-rule-output
+                          :id (concat (vulpea-note-id note) ".json")
+                          :type "json"
+                          :item note
+                          :file (concat "wines/" (vulpea-note-id note) ".json")
+                          :hard-deps (porg-rule-output-hard-deps output)
+                          :soft-deps (porg-rule-output-soft-deps output))))))))
   
   (porg-rule
    :name "producers"
@@ -842,6 +850,63 @@ Basically, keep only public notes."
                "grapes" (mapconcat
                          #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
          (when rating (list "rating" (format "%.2f" rating)))))))
+   :clean #'brb-delete)
+
+  (porg-compiler
+   :name "wine-json"
+   :match (-rpartial #'porg-rule-output-that :type "json"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :hash #'porg-sha1sum
+   :build
+   (lambda (item items _cache)
+     (let* ((note (porg-item-item item))
+            (colour (vulpea-note-meta-get note "colour"))
+            (carbonation (vulpea-note-meta-get note "carbonation"))
+            (sweetness (vulpea-note-meta-get note "sweetness"))
+            (roa (or (vulpea-note-meta-get note "region" 'note)
+                     (vulpea-note-meta-get note "appellation" 'note)))
+            (country (vulpea-note-meta-get roa "country" 'note))
+            (producer (vulpea-note-meta-get note "producer" 'note))
+            (grapes (vulpea-note-meta-get-list note "grapes" 'note))
+            (vintage (or (vulpea-note-meta-get note "vintage") "NV"))
+            (alcohol (vulpea-note-meta-get note "alcohol"))
+            (sugar (or (vulpea-note-meta-get note "sugar") "NA"))
+            (prices (vulpea-note-meta-get-list note "price"))
+            (available (vulpea-note-meta-get note "available" 'number))
+            (rating (vulpea-note-meta-get note "rating"))
+            (images (vulpea-note-meta-get-list note "images" 'link))
+            (image (when images (car images)))
+            (image (when image (s-chop-prefix "attachment:" image)))
+            (image (when image (gethash (concat (vulpea-note-id note) ":" image) items)))
+            (json-encoding-pretty-print t))
+       (with-current-buffer (find-file-noselect (porg-item-target-abs item))
+         (delete-region (point-min) (point-max))
+         (insert
+          (json-encode
+           (list
+            :id (vulpea-note-id note)
+            :name (vulpea-note-title note)
+            :producer (list :id (vulpea-note-id producer)
+                            :name (vulpea-note-title producer))
+            :vintage vintage
+            :colour colour
+            :carbonation carbonation
+            :sweetness sweetness
+            :country (list :id (vulpea-note-id country)
+                           :name (vulpea-note-title country))
+            :grapes (apply #'vector
+                           (--map (list :id (vulpea-note-id it)
+                                        :name (vulpea-note-title it))
+                                  grapes))
+            :alcohol alcohol
+            :sugar sugar
+            :prices prices
+            :available available
+            :image (if image
+                       (porg-item-target-rel image)
+                     "images/unknown-wine.webp")
+            :rating rating)))
+         (save-buffer))))
    :clean #'brb-delete)
 
   (porg-compiler

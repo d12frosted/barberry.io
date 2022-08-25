@@ -108,6 +108,10 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" wineCtx
         >>= relativizeUrls
 
+  match "wines/*.json" $ do
+    route idRoute
+    compile copyFileCompiler
+
   create ["wines.html"] $ do
     route idRoute
     compile $ do
