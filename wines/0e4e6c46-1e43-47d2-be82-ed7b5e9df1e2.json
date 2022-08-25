@@ -1,0 +1,30 @@
+{
+  "id": "0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2",
+  "name": "Clos du Tue-Boeuf Le Petit Buisson 2018",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.7",
+  "sugar": "0",
+  "prices": [
+    "620 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp",
+  "rating": "7.5"
+}

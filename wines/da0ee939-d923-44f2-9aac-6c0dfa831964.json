@@ -1,0 +1,30 @@
+{
+  "id": "da0ee939-d923-44f2-9aac-6c0dfa831964",
+  "name": "Domaine Rossignol-Trapet Gevrey-Chambertin Aux Ételois 2019",
+  "producer": {
+    "id": "919b524d-134f-422c-b146-1904d7641d87",
+    "name": "Domaine Rossignol-Trapet"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.3",
+  "prices": [
+    "3350 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/da/0ee939-d923-44f2-9aac-6c0dfa831964/2022-01-13-09-38-59-ED486F76-0CE5-42A7-BC12-15198E1C98B9-1-105-c.webp",
+  "rating": "8.5"
+}

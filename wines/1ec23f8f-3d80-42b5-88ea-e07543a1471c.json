@@ -1,0 +1,30 @@
+{
+  "id": "1ec23f8f-3d80-42b5-88ea-e07543a1471c",
+  "name": "Craggy Range Gimblett Gravels Syrah 2018",
+  "producer": {
+    "id": "1c67e0d2-d88a-470d-b953-713eb163a35d",
+    "name": "Craggy Range"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "901 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp",
+  "rating": "8.0"
+}

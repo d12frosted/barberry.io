@@ -1,0 +1,30 @@
+{
+  "id": "1972ae47-ec40-46f1-82c5-f48d39a28a5a",
+  "name": "An Approach To Relaxation Sucette 2018",
+  "producer": {
+    "id": "a5a9432f-8e72-459e-8462-ec0a0bb1fe2a",
+    "name": "An Approach To Relaxation"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0.55",
+  "prices": [
+    "1529 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/19/72ae47-ec40-46f1-82c5-f48d39a28a5a/2022-08-12-11-57-49-IMG-1443.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f8916b0f-81ee-4a28-9963-4544bfc955a8",
+  "name": "Domain Ponsot Morey Saint Denis 1er Cru Cuvée des Alouettes 2000",
+  "producer": {
+    "id": "1be418d2-93bd-4d7a-ab9e-e8b9d3e37210",
+    "name": "Domain Ponsot"
+  },
+  "vintage": "2000",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.7",
+  "sugar": "1",
+  "prices": [
+    "7000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f8/916b0f-81ee-4a28-9963-4544bfc955a8/2022-01-02-10-46-49-102899DE-622C-4615-BFDE-E66EC5897FA2-1-105-c.webp",
+  "rating": "9.25"
+}

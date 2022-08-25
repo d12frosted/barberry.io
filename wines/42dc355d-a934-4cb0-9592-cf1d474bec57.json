@@ -1,0 +1,30 @@
+{
+  "id": "42dc355d-a934-4cb0-9592-cf1d474bec57",
+  "name": "Sadie Family Pofadder 2020",
+  "producer": {
+    "id": "c7f2173e-1b32-4e44-8da0-bd36f04b3ae0",
+    "name": "Sadie Family"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.4",
+  "prices": [
+    "1619 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c.webp",
+  "rating": "8.5"
+}

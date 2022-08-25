@@ -1,0 +1,30 @@
+{
+  "id": "6d64366b-03ab-40e9-be42-29b47b5ba98a",
+  "name": "Ktima Ligas Spira 2019",
+  "producer": {
+    "id": "985badd4-6e4e-471e-a7f2-f2ec646f1b1a",
+    "name": "Ktima Ligas"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "7f460e26-c200-4020-9244-a321d130c570",
+      "name": "Xinomavro"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "1135 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp",
+  "rating": "8.2"
+}

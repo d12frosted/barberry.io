@@ -1,0 +1,30 @@
+{
+  "id": "4ec81725-dadc-4a70-b58e-d5a8550b03b8",
+  "name": "Marco de Bartoli Integer Grillo 2018",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco de Bartoli"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.1",
+  "prices": [
+    "1035 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp",
+  "rating": "8.5"
+}

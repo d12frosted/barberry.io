@@ -1,0 +1,42 @@
+{
+  "id": "5fb42b2f-6d7d-4a31-98b2-d157c96cf41b",
+  "name": "Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019",
+  "producer": {
+    "id": "040a275b-2e16-4d7a-a557-036bf44d85df",
+    "name": "Villa Calicantus"
+  },
+  "vintage": "2019",
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "13653c43-13e8-49d8-8fe4-1cc8cfa18ed5",
+      "name": "Corvina"
+    },
+    {
+      "id": "7f50d397-21fa-425e-904e-1256fce6321f",
+      "name": "Rondinella"
+    },
+    {
+      "id": "fa2e46fa-ab1c-4250-885b-b3395f0b078c",
+      "name": "Molinara"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "702 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5f/b42b2f-6d7d-4a31-98b2-d157c96cf41b/2022-08-12-12-03-19-IMG-1448.webp",
+  "rating": "7.4"
+}

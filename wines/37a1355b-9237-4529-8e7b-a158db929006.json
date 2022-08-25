@@ -1,0 +1,30 @@
+{
+  "id": "37a1355b-9237-4529-8e7b-a158db929006",
+  "name": "Domaine Gérard Seguin Gevrey-Chambertin 1er Cru Craipillot 2015",
+  "producer": {
+    "id": "ec88273a-3cd1-476a-8a5d-4848f8fb1a9e",
+    "name": "Domaine Gérard Seguin"
+  },
+  "vintage": "2015",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "2270 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/37/a1355b-9237-4529-8e7b-a158db929006/2021-09-01-22-20-05-A2739E41-92FB-4805-B08A-76FDB689B7B8-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "8467ead0-fee2-4ba7-8472-26432a6a8958",
+  "name": "Wasenhaus Vulkan 2020",
+  "producer": {
+    "id": "e463ddb4-d593-4913-80e1-b841330d4cf6",
+    "name": "Wasenhaus"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1278 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/84/67ead0-fee2-4ba7-8472-26432a6a8958/2022-07-28-07-13-39-FADAD61B-FE27-4FEF-94A4-BDB625116221-1-105-c.webp",
+  "rating": "9.0"
+}

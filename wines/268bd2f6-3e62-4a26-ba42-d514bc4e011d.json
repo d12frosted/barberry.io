@@ -1,0 +1,34 @@
+{
+  "id": "268bd2f6-3e62-4a26-ba42-d514bc4e011d",
+  "name": "Chandon Argentina Brut NV",
+  "producer": {
+    "id": "43f0dd89-0fb5-4f37-b5f9-3ebfc0c9bfa9",
+    "name": "Chandon"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "902 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp",
+  "rating": "7.0"
+}

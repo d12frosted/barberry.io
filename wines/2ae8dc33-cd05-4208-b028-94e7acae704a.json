@@ -1,0 +1,30 @@
+{
+  "id": "2ae8dc33-cd05-4208-b028-94e7acae704a",
+  "name": "La Cave Apicole Java 2021",
+  "producer": {
+    "id": "59245419-a7e7-4fe5-b8f0-ad77d901bb9e",
+    "name": "La Cave Apicole"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2a/e8dc33-cd05-4208-b028-94e7acae704a/2022-08-20-11-14-08-FBD2E899-2FD6-472C-943B-318C7E141403-1-105-c.webp",
+  "rating": "7.0"
+}

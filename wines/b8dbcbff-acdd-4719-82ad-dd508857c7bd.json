@@ -1,0 +1,30 @@
+{
+  "id": "b8dbcbff-acdd-4719-82ad-dd508857c7bd",
+  "name": "Brancaia Cabernet Sauvignon 2016",
+  "producer": {
+    "id": "8492d584-6a21-4af7-9fe5-f08f41534d2a",
+    "name": "Brancaia"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/dbcbff-acdd-4719-82ad-dd508857c7bd/2022-08-03-22-15-11-CA1002AA-3E35-4F46-8E12-F2C55F97F11E-1-105-c.webp",
+  "rating": "8.0"
+}

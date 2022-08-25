@@ -1,0 +1,30 @@
+{
+  "id": "8dfdca77-2842-4f8e-8eb0-b95ac5b96902",
+  "name": "Witwe Dr. H. Thanisch Erben Müller-Burggraef Bernkasteler Riesling Kabinett Trocken 2020",
+  "producer": {
+    "id": "8719755f-55a4-4550-bda0-80a4ea72d38f",
+    "name": "Witwe Dr. H. Thanisch Erben Müller-Burggraef"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "444 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8d/fdca77-2842-4f8e-8eb0-b95ac5b96902/2022-08-21-13-33-24-52A151CC-1859-4836-B02C-6E386564C8C8-1-105-c.webp",
+  "rating": "7.0"
+}

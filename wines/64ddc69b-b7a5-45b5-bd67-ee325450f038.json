@@ -1,0 +1,31 @@
+{
+  "id": "64ddc69b-b7a5-45b5-bd67-ee325450f038",
+  "name": "Henriques & Henriques Boal Single Harvest 2000",
+  "producer": {
+    "id": "603ce74a-32ef-448a-9ede-2d350b9c557b",
+    "name": "Henriques & Henriques"
+  },
+  "vintage": "2000",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "edbaa4d5-420c-4ad3-ae88-87f3d645ff69",
+      "name": "Boal"
+    }
+  ],
+  "alcohol": "20",
+  "sugar": "96.1",
+  "prices": [
+    "1790 UAH",
+    "1497 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463.webp",
+  "rating": "8.666666666666666"
+}

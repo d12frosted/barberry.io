@@ -1,0 +1,46 @@
+{
+  "id": "c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0",
+  "name": "Stella di Campalto Choltempo Fiorello NV",
+  "producer": {
+    "id": "62aaead8-0c95-4b5e-867f-9e8f8e4e5832",
+    "name": "Stella di Campalto"
+  },
+  "vintage": "NV",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "d431a78c-93df-4a12-83ca-0a99055a9a29",
+      "name": "Tannat"
+    },
+    {
+      "id": "e4b46198-967e-4f0e-9e74-dfb7f157fded",
+      "name": "Arinarnoa"
+    },
+    {
+      "id": "008bfcbd-c1c1-4e99-acaf-b2c8bde62eb1",
+      "name": "Marcelan"
+    },
+    {
+      "id": "40c09e63-1fcc-4c21-b9e0-c89bcf30eae9",
+      "name": "Lagrein"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0",
+  "prices": [
+    "1850 UAH"
+  ],
+  "available": 0,
+  "image": "images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp",
+  "rating": "8.75"
+}

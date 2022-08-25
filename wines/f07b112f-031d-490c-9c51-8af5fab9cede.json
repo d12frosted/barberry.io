@@ -1,0 +1,31 @@
+{
+  "id": "f07b112f-031d-490c-9c51-8af5fab9cede",
+  "name": "Casa Coste Piane Brichet Frizzante ...Naturalmente",
+  "producer": {
+    "id": "31385926-6778-424b-b91a-a2560eea4842",
+    "name": "Casa Coste Piane"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "653 UAH",
+    "726 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f0/7b112f-031d-490c-9c51-8af5fab9cede/2022-07-02-09-11-38-189E4BF5-84AA-439B-A919-AAAB8080FCFB-1-105-c.webp",
+  "rating": "NA"
+}

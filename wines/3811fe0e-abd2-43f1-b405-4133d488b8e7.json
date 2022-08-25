@@ -1,0 +1,30 @@
+{
+  "id": "3811fe0e-abd2-43f1-b405-4133d488b8e7",
+  "name": "Marco de Bartoli Terzavia 2018",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco de Bartoli"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "3",
+  "prices": [
+    "930 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp",
+  "rating": "8.0"
+}

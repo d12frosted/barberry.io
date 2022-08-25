@@ -1,0 +1,30 @@
+{
+  "id": "eecd139e-6555-46c7-927b-5b222d9f5583",
+  "name": "F. X. Pichler Riesling Loibenberg Smaragd 2018",
+  "producer": {
+    "id": "8a4b6382-a081-456e-ba46-f0eed90f1463",
+    "name": "F. X. Pichler"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "5",
+  "prices": [
+    "1450 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ee/cd139e-6555-46c7-927b-5b222d9f5583/2021-07-20-09-16-45-48107411-B181-4B9F-A767-28E6B3DD3301-1-105-c.webp",
+  "rating": "7.5"
+}

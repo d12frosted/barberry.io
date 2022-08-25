@@ -1,0 +1,30 @@
+{
+  "id": "e59e3ee3-cfb8-4f3d-8df3-8001d244a624",
+  "name": "Patrice Beguet Three views of a secret 2020",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "892 UAH"
+  ],
+  "available": 0,
+  "image": "images/e5/9e3ee3-cfb8-4f3d-8df3-8001d244a624/2021-08-11-08-35-32-0DFD44BE-D6D0-4353-8187-56ECFDF1ABF5-1-105-c.webp",
+  "rating": "7.75"
+}

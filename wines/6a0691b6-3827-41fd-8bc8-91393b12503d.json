@@ -1,0 +1,38 @@
+{
+  "id": "6a0691b6-3827-41fd-8bc8-91393b12503d",
+  "name": "Illuminati Costalupo 2021",
+  "producer": {
+    "id": "0ff20e4a-b84c-48dc-b592-5d7619ba7f28",
+    "name": "Illuminati"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    },
+    {
+      "id": "42ebcc49-18ec-4be6-8258-9451f7b85864",
+      "name": "Passerina"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "222 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c.webp",
+  "rating": "6.5"
+}

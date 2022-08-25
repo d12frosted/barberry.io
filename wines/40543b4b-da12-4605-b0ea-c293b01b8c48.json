@@ -1,0 +1,30 @@
+{
+  "id": "40543b4b-da12-4605-b0ea-c293b01b8c48",
+  "name": "Hummel Hárslevelű Lindenleaf 2019",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "cd6123c7-241e-4d0a-b857-837900bea31e",
+      "name": "Hárslevelű"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.6",
+  "prices": [
+    "570 UAH"
+  ],
+  "available": 0,
+  "image": "images/40/543b4b-da12-4605-b0ea-c293b01b8c48/2020-10-17-10-36-01-1FF02925-4058-4BDF-9549-1C0EA1A0E5C1-1-105-c.webp",
+  "rating": "6.5"
+}

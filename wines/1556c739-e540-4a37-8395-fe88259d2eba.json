@@ -1,0 +1,30 @@
+{
+  "id": "1556c739-e540-4a37-8395-fe88259d2eba",
+  "name": "Dr. Loosen Wehlener Sonnenuhr Riesling Auslese Prädikatswein 2007",
+  "producer": {
+    "id": "4f806b48-cd9d-4648-8d9c-9ec59a0131ce",
+    "name": "Dr. Loosen"
+  },
+  "vintage": "2007",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "7.5",
+  "sugar": "97",
+  "prices": [
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c.webp",
+  "rating": "8.0"
+}

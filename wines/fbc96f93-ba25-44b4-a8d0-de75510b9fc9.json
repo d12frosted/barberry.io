@@ -1,0 +1,30 @@
+{
+  "id": "fbc96f93-ba25-44b4-a8d0-de75510b9fc9",
+  "name": "Louis Jadot Échezeaux 2013",
+  "producer": {
+    "id": "84e281b6-57b7-42f2-a790-181a3b6e11bb",
+    "name": "Louis Jadot"
+  },
+  "vintage": "2013",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.6",
+  "prices": [
+    "5900 UAH"
+  ],
+  "available": 0,
+  "image": "images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c.webp",
+  "rating": "8.5"
+}

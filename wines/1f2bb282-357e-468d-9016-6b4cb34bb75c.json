@@ -1,0 +1,30 @@
+{
+  "id": "1f2bb282-357e-468d-9016-6b4cb34bb75c",
+  "name": "Domaine Stephane Magnien Morey-Saint-Denis 1er Cru Les Monts-Luisants 2008",
+  "producer": {
+    "id": "a9b716fd-81f4-47dd-8cbf-96cccebac781",
+    "name": "Domaine Stephane Magnien"
+  },
+  "vintage": "2008",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "2080 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1f/2bb282-357e-468d-9016-6b4cb34bb75c/2021-10-21-15-02-19-C460DDBA-7F8B-4B2C-B2C0-351EB70F5C49-1-105-c.webp",
+  "rating": "NA"
+}

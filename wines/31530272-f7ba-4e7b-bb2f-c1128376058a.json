@@ -1,0 +1,30 @@
+{
+  "id": "31530272-f7ba-4e7b-bb2f-c1128376058a",
+  "name": "Stella di Campalto Rosso di Montalcino 2013",
+  "producer": {
+    "id": "62aaead8-0c95-4b5e-867f-9e8f8e4e5832",
+    "name": "Stella di Campalto"
+  },
+  "vintage": "2013",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0",
+  "prices": [
+    "3100 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/31/530272-f7ba-4e7b-bb2f-c1128376058a/2022-08-09-08-39-28-604456D3-656E-40D6-9900-686579C8837A-1-105-c.webp",
+  "rating": "NA"
+}

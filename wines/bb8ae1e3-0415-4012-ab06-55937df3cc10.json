@@ -1,0 +1,30 @@
+{
+  "id": "bb8ae1e3-0415-4012-ab06-55937df3cc10",
+  "name": "Radikon Jakot 2013",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2013",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.2",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bb/8ae1e3-0415-4012-ab06-55937df3cc10/2021-03-20-09-27-04-A6B8D25C-4CB4-4360-BE7C-46DEA0AC36CE-1-105-c.webp",
+  "rating": "8.5"
+}

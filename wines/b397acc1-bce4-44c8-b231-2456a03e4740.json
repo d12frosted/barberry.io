@@ -1,0 +1,35 @@
+{
+  "id": "b397acc1-bce4-44c8-b231-2456a03e4740",
+  "name": "Francois Montand Méthode Traditionnelle Brut Rosé NV",
+  "producer": {
+    "id": "8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3",
+    "name": "Francois Montand"
+  },
+  "vintage": "NV",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "10",
+  "prices": [
+    "232 UAH",
+    "245 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp",
+  "rating": "7.216666666666666"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "76c88c36-a8b2-4aac-baf1-7a97765f99cd",
+  "name": "Villa Calicantus Soracuna 2018",
+  "producer": {
+    "id": "040a275b-2e16-4d7a-a557-036bf44d85df",
+    "name": "Villa Calicantus"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "13653c43-13e8-49d8-8fe4-1cc8cfa18ed5",
+      "name": "Corvina"
+    },
+    {
+      "id": "7f50d397-21fa-425e-904e-1256fce6321f",
+      "name": "Rondinella"
+    },
+    {
+      "id": "fa2e46fa-ab1c-4250-885b-b3395f0b078c",
+      "name": "Molinara"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "726 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/c88c36-a8b2-4aac-baf1-7a97765f99cd/2022-07-21-19-31-03-FA17426A-8AFC-4766-9118-BAA4486AA54C-1-102-o.webp",
+  "rating": "7.800000000000001"
+}

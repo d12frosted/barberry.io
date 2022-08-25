@@ -1,0 +1,38 @@
+{
+  "id": "06b29201-db4b-4d44-9612-ef1a4919786a",
+  "name": "Denavolo Dinavolino 2018",
+  "producer": {
+    "id": "53e31c1f-70b3-4504-897d-fe020167f48c",
+    "name": "Denavolo"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "66fcf1da-06da-4177-9ec3-66d12e070dc6",
+      "name": "Ortrugo"
+    },
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "NA"
+  ],
+  "available": 0,
+  "image": "images/06/b29201-db4b-4d44-9612-ef1a4919786a/2020-08-29-12-24-25-95804198-634B-4367-9630-51FEFC0BABC1-1-105-c.webp",
+  "rating": "6.5"
+}

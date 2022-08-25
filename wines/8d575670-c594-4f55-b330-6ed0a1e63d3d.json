@@ -1,0 +1,30 @@
+{
+  "id": "8d575670-c594-4f55-b330-6ed0a1e63d3d",
+  "name": "Gravner Ribolla Anfora 2004",
+  "producer": {
+    "id": "bd1ae49f-3ec6-4701-b633-832d29f929f8",
+    "name": "Gravner"
+  },
+  "vintage": "2004",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3",
+  "prices": [
+    "2900 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp",
+  "rating": "9.0"
+}

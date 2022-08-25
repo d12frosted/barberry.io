@@ -1,0 +1,30 @@
+{
+  "id": "c15d6dfa-47c0-44e8-8103-015892c1bfcf",
+  "name": "Fernway Sauvignon Blanc 2019",
+  "producer": {
+    "id": "86dc3674-f53b-4b77-9d80-07d10dbd1249",
+    "name": "Fernway"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c1/5d6dfa-47c0-44e8-8103-015892c1bfcf/2022-05-22-20-27-08-44C67BBA-B48A-4A60-8796-9E804551DD21-1-105-c.webp",
+  "rating": "7.0"
+}

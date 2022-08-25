@@ -1,0 +1,30 @@
+{
+  "id": "ee50b000-a312-4fce-b420-744aaa529116",
+  "name": "Concha y Toro Casillero del Diablo Carmenere Reserva 2019",
+  "producer": {
+    "id": "6b682c47-5759-49f0-98d3-b74af0065304",
+    "name": "Concha y Toro"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "d0734331-9775-4415-aeeb-aefc412ed4f0",
+      "name": "Carménère"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "450 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ee/50b000-a312-4fce-b420-744aaa529116/2022-05-21-10-30-30-B4A8E648-D83F-4A9A-8A04-BAF5FDC68AC1-1-105-c.webp",
+  "rating": "5.75"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4941eb84-f727-4196-a96c-502a5bc2137f",
+  "name": "Testalonga Baby Bandito Stay Brave 2021",
+  "producer": {
+    "id": "28888340-61d4-42b7-9aa6-25ae9bf77e08",
+    "name": "Testalonga"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "640 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/49/41eb84-f727-4196-a96c-502a5bc2137f/2022-07-22-20-01-31-5736B22E-0A5C-4064-B71E-78AE4122AAD4-1-102-o.webp",
+  "rating": "7.5"
+}

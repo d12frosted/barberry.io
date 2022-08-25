@@ -1,0 +1,31 @@
+{
+  "id": "b17345a2-36ee-4fdf-b083-fc6019941931",
+  "name": "Marlborough Sun Sauvignon Blanc 2020",
+  "producer": {
+    "id": "269e5124-0361-4c4c-932d-ea4b91d5163b",
+    "name": "Marlborough Sun"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "385 UAH",
+    "800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c.webp",
+  "rating": "7.25"
+}

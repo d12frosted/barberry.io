@@ -1,0 +1,38 @@
+{
+  "id": "b042bbfa-6aae-4c9b-af7f-84ac379f40e3",
+  "name": "Montevertine Pian del Ciampolo 2018",
+  "producer": {
+    "id": "492851a2-6796-4abb-a9c2-ff6e342a8c32",
+    "name": "Montevertine"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "a3cb4b44-31bc-44bb-96ce-a5bde6c14d4f",
+      "name": "Canaiolo"
+    },
+    {
+      "id": "cbb1ba5d-14d1-40ef-8fde-329598f70029",
+      "name": "Colorino"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "814 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b0/42bbfa-6aae-4c9b-af7f-84ac379f40e3/2021-07-08-09-13-44-8AE9A10D-AB90-41AF-9697-D0C3AD8D10D8-1-105-c.webp",
+  "rating": "8.0"
+}

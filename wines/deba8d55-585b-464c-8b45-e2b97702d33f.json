@@ -1,0 +1,38 @@
+{
+  "id": "deba8d55-585b-464c-8b45-e2b97702d33f",
+  "name": "Barberani Foresco 2019",
+  "producer": {
+    "id": "144fb467-3912-4fe2-8d07-d6077ce2dad0",
+    "name": "Barberani"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "675 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/de/ba8d55-585b-464c-8b45-e2b97702d33f/2022-06-05-11-19-06-04DAD296-9B02-4899-ADDD-088BDDBF19FF-1-105-c.webp",
+  "rating": "7.25"
+}

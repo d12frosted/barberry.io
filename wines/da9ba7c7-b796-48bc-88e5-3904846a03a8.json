@@ -1,0 +1,30 @@
+{
+  "id": "da9ba7c7-b796-48bc-88e5-3904846a03a8",
+  "name": "Arianna Occhipinti Siccagno 2015",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2015",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "920 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c.webp",
+  "rating": "8.0"
+}

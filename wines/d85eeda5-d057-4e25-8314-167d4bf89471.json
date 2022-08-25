@@ -1,0 +1,30 @@
+{
+  "id": "d85eeda5-d057-4e25-8314-167d4bf89471",
+  "name": "Foradori Sgarzon 2018",
+  "producer": {
+    "id": "4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae",
+    "name": "Foradori"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "7dd8824f-7408-40a5-8bb8-e349b1f1b8aa",
+      "name": "Teroldego"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.1",
+  "prices": [
+    "899 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d8/5eeda5-d057-4e25-8314-167d4bf89471/2020-06-13-10-15-57-ADEEE46C-5EF7-4F6A-9F82-976D8D763035-1-105-c.webp",
+  "rating": "6.75"
+}

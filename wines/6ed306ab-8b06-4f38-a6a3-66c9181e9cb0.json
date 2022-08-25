@@ -1,0 +1,30 @@
+{
+  "id": "6ed306ab-8b06-4f38-a6a3-66c9181e9cb0",
+  "name": "Domaine de la Taille Aux Loups Montlouis sur Loire Clos de Mosny Monopole 2015",
+  "producer": {
+    "id": "461a005a-3007-46a9-8ab4-f716429379fa",
+    "name": "Domaine de la Taille Aux Loups"
+  },
+  "vintage": "2015",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "1100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c.webp",
+  "rating": "8.5"
+}

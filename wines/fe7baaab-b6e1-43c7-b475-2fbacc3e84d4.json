@@ -1,0 +1,35 @@
+{
+  "id": "fe7baaab-b6e1-43c7-b475-2fbacc3e84d4",
+  "name": "Arianna Occhipinti SP68 Bianco 2020",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "63532852-c67a-4b8d-ac42-1ae9be28610e",
+      "name": "Albanello"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.6",
+  "prices": [
+    "918 UAH",
+    "835 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp",
+  "rating": "7.666666666666667"
+}

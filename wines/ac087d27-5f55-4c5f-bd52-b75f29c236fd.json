@@ -1,0 +1,30 @@
+{
+  "id": "ac087d27-5f55-4c5f-bd52-b75f29c236fd",
+  "name": "Trossos Sants 2018",
+  "producer": {
+    "id": "8b223828-b1d0-4f0c-bb09-37958397e1e3",
+    "name": "Trossos"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "cc12506c-075a-4f65-b3cc-0d7a07f6c305",
+      "name": "Garnacha Blanca"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.6",
+  "prices": [
+    "767 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ac/087d27-5f55-4c5f-bd52-b75f29c236fd/2022-06-09-21-46-04-IMG-0371.webp",
+  "rating": "8.0"
+}

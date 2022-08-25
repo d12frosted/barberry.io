@@ -1,0 +1,30 @@
+{
+  "id": "cc578854-bc1a-461b-a0e7-b014793711c3",
+  "name": "Enderle&Moll Buntsandstein 2018",
+  "producer": {
+    "id": "5774d37d-7ca7-444c-b981-29ad5a290846",
+    "name": "Enderle&Moll"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.6",
+  "prices": [
+    "1186 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp",
+  "rating": "7.5"
+}

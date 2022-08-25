@@ -1,0 +1,38 @@
+{
+  "id": "4b3b5ce1-1779-425e-850b-d44e9f199db5",
+  "name": "Domaine du Pélican Trois Cépages 2018",
+  "producer": {
+    "id": "99e4fd27-b7ad-41c5-8986-65e5ae9ab261",
+    "name": "Domaine du Pélican"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    },
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1629 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4b/3b5ce1-1779-425e-850b-d44e9f199db5/2022-07-26-12-17-11-A950DABF-E644-40DA-83F3-4B1BD1ACDD56-1-105-c.webp",
+  "rating": "8.2"
+}

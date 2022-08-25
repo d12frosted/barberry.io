@@ -1,0 +1,30 @@
+{
+  "id": "d69e488f-ccb5-400d-a049-79cabc7443b9",
+  "name": "Domaine Bruno Clair Marsannay Blanc 2018",
+  "producer": {
+    "id": "296c1179-c4c9-4a7f-a9ae-046eaee639a8",
+    "name": "Domaine Bruno Clair"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.3",
+  "prices": [
+    "969 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/9e488f-ccb5-400d-a049-79cabc7443b9/2021-08-18-10-33-17-162EA8FB-EE36-4E4D-B3B3-6D6084C971C8-1-105-c.webp",
+  "rating": "8.25"
+}

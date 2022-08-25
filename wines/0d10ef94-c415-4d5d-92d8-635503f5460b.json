@@ -1,0 +1,30 @@
+{
+  "id": "0d10ef94-c415-4d5d-92d8-635503f5460b",
+  "name": "Domaine Guyon Echezaux Grand Cru 2008",
+  "producer": {
+    "id": "2aa29381-9a73-40cf-8849-3151bf10e880",
+    "name": "Domaine Guyon"
+  },
+  "vintage": "2008",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "6300 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0d/10ef94-c415-4d5d-92d8-635503f5460b/2021-08-27-16-54-46-4F775A73-E23D-40FD-BECB-8EE5B2D4AAC1-1-105-c.webp",
+  "rating": "9.0"
+}

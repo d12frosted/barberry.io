@@ -1,0 +1,30 @@
+{
+  "id": "2a419f13-955d-4675-9ca1-a5800b73cd50",
+  "name": "Spier Wines Signature Chenin Blanc 2021",
+  "producer": {
+    "id": "7f36c99b-3225-4883-b12d-11e5a75bfa12",
+    "name": "Spier Wines"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "278 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2a/419f13-955d-4675-9ca1-a5800b73cd50/2022-06-09-21-40-35-IMG-0363.webp",
+  "rating": "7.4"
+}

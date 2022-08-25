@@ -1,0 +1,30 @@
+{
+  "id": "ad694be5-b034-4587-8c7a-b7e1da05c101",
+  "name": "Clos Lentiscus Gentleman 2016",
+  "producer": {
+    "id": "7ee0380b-9c4c-4328-89e2-c44f9dfda9c1",
+    "name": "Clos Lentiscus"
+  },
+  "vintage": "2016",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "af0beed3-1f8b-4c8c-9eb9-0fa3b5d4f2a7",
+      "name": "Malvasía de Sitges"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "2.3",
+  "prices": [
+    "820 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp",
+  "rating": "7.25"
+}

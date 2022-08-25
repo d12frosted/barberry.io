@@ -1,0 +1,30 @@
+{
+  "id": "1b9610bc-f390-46f5-989f-da6771f01eef",
+  "name": "Jacob's Creek Classic Chardonnay 2017",
+  "producer": {
+    "id": "e73a711d-d8ce-41e7-8f6e-58728a674bb2",
+    "name": "Jacob's Creek"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.8",
+  "sugar": "NA",
+  "prices": [
+    "400 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp",
+  "rating": "7.199999999999999"
+}

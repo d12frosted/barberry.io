@@ -1,0 +1,30 @@
+{
+  "id": "b4b49d91-5c74-4c65-8f52-03afb240a57c",
+  "name": "Raúl Pérez La Poulosa 2017",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.65",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b4/b49d91-5c74-4c65-8f52-03afb240a57c/2021-04-27-07-51-26-3D869102-7B58-4134-B9DA-1D6692222E4A-1-105-c.webp",
+  "rating": "8.5"
+}

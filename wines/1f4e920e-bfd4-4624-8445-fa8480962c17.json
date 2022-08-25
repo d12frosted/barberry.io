@@ -1,0 +1,39 @@
+{
+  "id": "1f4e920e-bfd4-4624-8445-fa8480962c17",
+  "name": "La Stoppa Ageno 2015",
+  "producer": {
+    "id": "e852c48c-eb2b-48ec-90f2-1ac7f0203073",
+    "name": "La Stoppa"
+  },
+  "vintage": "2015",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "66fcf1da-06da-4177-9ec3-66d12e070dc6",
+      "name": "Ortrugo"
+    },
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "1090 UAH",
+    "890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp",
+  "rating": "8.541666666666666"
+}

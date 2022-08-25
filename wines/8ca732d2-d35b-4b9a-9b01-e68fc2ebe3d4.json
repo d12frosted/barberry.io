@@ -1,0 +1,30 @@
+{
+  "id": "8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4",
+  "name": "Raoul Clerget Chablis 2018",
+  "producer": {
+    "id": "4654ba3e-7c28-40fe-80b4-6639e8ff26e4",
+    "name": "Raoul Clerget"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "625 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8c/a732d2-d35b-4b9a-9b01-e68fc2ebe3d4/2021-03-03-20-24-22-564DA641-3048-4F67-81B9-3C96CC9AC232-1-105-c.webp",
+  "rating": "7.0"
+}

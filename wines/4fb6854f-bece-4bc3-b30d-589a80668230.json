@@ -1,0 +1,30 @@
+{
+  "id": "4fb6854f-bece-4bc3-b30d-589a80668230",
+  "name": "Le Domaine Marquis d'Angerville Volnay 1er cru Champans 2010",
+  "producer": {
+    "id": "48efd2e7-0def-4827-a30f-3f9c37944258",
+    "name": "Le Domaine Marquis d'Angerville"
+  },
+  "vintage": "2010",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "5000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4f/b6854f-bece-4bc3-b30d-589a80668230/2021-08-27-15-49-37-17F46471-F312-4C02-B603-10A9ADE62975-1-105-c.webp",
+  "rating": "9.0"
+}

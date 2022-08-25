@@ -1,0 +1,30 @@
+{
+  "id": "f50846a9-7384-4585-93e9-9a764ff76e2a",
+  "name": "Wasenhaus Spätburgunder 2020",
+  "producer": {
+    "id": "e463ddb4-d593-4913-80e1-b841330d4cf6",
+    "name": "Wasenhaus"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "874 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f5/0846a9-7384-4585-93e9-9a764ff76e2a/2022-07-30-10-48-32-51C8D344-3930-4C6B-99F0-E9CC849B61F2-1-102-o.webp",
+  "rating": "8.0"
+}

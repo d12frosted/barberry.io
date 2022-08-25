@@ -1,0 +1,30 @@
+{
+  "id": "c3b432f9-61d2-46f2-beb9-b8e826d571c1",
+  "name": "Jumping Juice Pinot Noir 2020",
+  "producer": {
+    "id": "8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1",
+    "name": "Jumping Juice"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.69",
+  "prices": [
+    "542 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.25"
+}

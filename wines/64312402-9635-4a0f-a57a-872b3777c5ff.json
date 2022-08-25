@@ -1,0 +1,30 @@
+{
+  "id": "64312402-9635-4a0f-a57a-872b3777c5ff",
+  "name": "Ochota barrels slint chardonnay 2020",
+  "producer": {
+    "id": "5fc06935-eb1a-4edd-833a-df0217836334",
+    "name": "Ochota barrels"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.3",
+  "sugar": "NA",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/64/312402-9635-4a0f-a57a-872b3777c5ff/2022-08-20-10-46-42-436EBED3-7AAD-433B-8A46-B0EB107101B8-1-105-c.webp",
+  "rating": "8.0"
+}

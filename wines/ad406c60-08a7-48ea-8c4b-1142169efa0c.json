@@ -1,0 +1,30 @@
+{
+  "id": "ad406c60-08a7-48ea-8c4b-1142169efa0c",
+  "name": "Bava Cor de Chasse 2020",
+  "producer": {
+    "id": "df91d97f-23f5-42dc-8fbd-eed5efcd72b4",
+    "name": "Bava"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8fcdc5eb-9b69-40a0-8546-c53f01e3611e",
+      "name": "Cortese"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "715 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ad/406c60-08a7-48ea-8c4b-1142169efa0c/2022-08-24-14-02-02-39BE2E47-3A05-4E87-9B4C-60E8AC5D804D-1-105-c.webp",
+  "rating": "7.4"
+}

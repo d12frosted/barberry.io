@@ -1,0 +1,30 @@
+{
+  "id": "a9209b03-ecbd-44f9-a5dd-b13fae5e9f99",
+  "name": "Planeta Etna Bianco 2019",
+  "producer": {
+    "id": "e6b1b575-a7bd-429e-8873-1a44944edb05",
+    "name": "Planeta"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.9",
+  "prices": [
+    "745 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069.webp",
+  "rating": "7.5"
+}

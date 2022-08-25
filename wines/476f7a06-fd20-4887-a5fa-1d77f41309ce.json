@@ -1,0 +1,38 @@
+{
+  "id": "476f7a06-fd20-4887-a5fa-1d77f41309ce",
+  "name": "Lacrima Baccus Brut Reserva 2019",
+  "producer": {
+    "id": "ee9d5512-7266-49dd-90ba-07e0d7a7dd7c",
+    "name": "Lacrima Baccus"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "299 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/47/6f7a06-fd20-4887-a5fa-1d77f41309ce/2022-07-09-09-45-00-BC5887C7-AB85-42DC-B889-F780CE250FC6-1-105-c.webp",
+  "rating": "7.199999999999999"
+}

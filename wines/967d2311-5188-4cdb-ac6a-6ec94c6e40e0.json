@@ -1,0 +1,30 @@
+{
+  "id": "967d2311-5188-4cdb-ac6a-6ec94c6e40e0",
+  "name": "Storm Ridge Pinot Noir 2017",
+  "producer": {
+    "id": "0baccd0b-6ff4-4a49-bdb1-a509b1c1314c",
+    "name": "Storm"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "3",
+  "prices": [
+    "1320 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2021-03-08-19-42-55-D61BBD30-E91F-45BE-8D2B-1C1A2B33B9B7-1-105-c.webp",
+  "rating": "8.0"
+}

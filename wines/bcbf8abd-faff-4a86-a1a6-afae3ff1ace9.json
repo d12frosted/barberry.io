@@ -1,0 +1,42 @@
+{
+  "id": "bcbf8abd-faff-4a86-a1a6-afae3ff1ace9",
+  "name": "Adegas Guimaro Camiño Real 2017",
+  "producer": {
+    "id": "82fbe7e3-ad38-43d9-97ff-3a61452d5892",
+    "name": "Adegas Guimaro"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "0abf9645-30e0-4115-bf68-7191fa551b8d",
+      "name": "Brancellao"
+    },
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    },
+    {
+      "id": "18b53271-24c4-4939-9394-48b63304001a",
+      "name": "Caiño"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "826 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bc/bf8abd-faff-4a86-a1a6-afae3ff1ace9/2022-07-26-12-20-24-4F7D795C-176B-4C48-9040-A69D8374DEFA-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5cc35f14-1824-4ce9-a4c5-f86b46a1c66d",
+  "name": "Kmetija Štekar Jankot 2018",
+  "producer": {
+    "id": "306b9b05-0245-4f1e-8576-0a34a5908ad1",
+    "name": "Kmetija Štekar"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "6.8",
+  "prices": [
+    "950 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5c/c35f14-1824-4ce9-a4c5-f86b46a1c66d/2021-03-12-10-54-03-C7D66E26-A34A-4644-8F9C-51CD4D9D9EE8-1-105-c.webp",
+  "rating": "8.0"
+}

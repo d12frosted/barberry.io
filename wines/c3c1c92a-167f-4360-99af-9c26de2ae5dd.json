@@ -1,0 +1,31 @@
+{
+  "id": "c3c1c92a-167f-4360-99af-9c26de2ae5dd",
+  "name": "Two Hands Sexy Beast 2019",
+  "producer": {
+    "id": "5166bbee-f282-41d3-a92d-08890f2ce175",
+    "name": "Two Hands"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "14.1",
+  "sugar": "0.73",
+  "prices": [
+    "730 UAH",
+    "664 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c3/c1c92a-167f-4360-99af-9c26de2ae5dd/2021-11-14-11-03-59-14FA9A85-B2D0-4CE3-862D-B887CF642BC8-1-102-o.webp",
+  "rating": "7.5"
+}

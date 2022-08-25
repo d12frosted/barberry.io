@@ -1,0 +1,30 @@
+{
+  "id": "3ca3a174-d541-4c3c-a988-dc286fb421d7",
+  "name": "Paul Benoit et Fils Pinot Arbois 2018",
+  "producer": {
+    "id": "20bee0c4-c9a6-42e6-ac4b-c1c04e1aeceb",
+    "name": "Paul Benoit et Fils"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "693 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c.webp",
+  "rating": "7.5"
+}

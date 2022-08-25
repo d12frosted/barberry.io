@@ -1,0 +1,30 @@
+{
+  "id": "b837734a-480c-455b-98e6-25a04b7095ff",
+  "name": "Storm Vrede Pinot Noir 2019",
+  "producer": {
+    "id": "0baccd0b-6ff4-4a49-bdb1-a509b1c1314c",
+    "name": "Storm"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "3",
+  "prices": [
+    "1190 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp",
+  "rating": "8.5"
+}

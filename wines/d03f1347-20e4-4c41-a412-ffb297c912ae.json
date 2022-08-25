@@ -1,0 +1,30 @@
+{
+  "id": "d03f1347-20e4-4c41-a412-ffb297c912ae",
+  "name": "J.M Dreyer Origin Sylvaner Macération 2020",
+  "producer": {
+    "id": "92c049ed-0591-418d-8f2b-8d20726b8654",
+    "name": "J.M Dreyer"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "768bf3f9-74f1-4174-8689-806726fd6f38",
+      "name": "Silvaner"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.2",
+  "prices": [
+    "716 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp",
+  "rating": "7.75"
+}

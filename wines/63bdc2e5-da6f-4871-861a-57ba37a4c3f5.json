@@ -1,0 +1,31 @@
+{
+  "id": "63bdc2e5-da6f-4871-861a-57ba37a4c3f5",
+  "name": "Domaine de la Touraize Savagnin oxydatif 2016",
+  "producer": {
+    "id": "1798690d-483b-4f80-a136-93eb9552e48b",
+    "name": "Domaine de la Touraize"
+  },
+  "vintage": "2016",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1293 UAH",
+    "915 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2022-08-17-10-33-10-02E59099-F76E-4D80-A5F5-FD94E1D10CE7-1-105-c.webp",
+  "rating": "8.5"
+}

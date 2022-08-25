@@ -1,0 +1,38 @@
+{
+  "id": "2e0fea48-5584-476d-b65d-4fe8e1b5f79c",
+  "name": "Brotte S. A. Domaine Grosset Cairanne 2019",
+  "producer": {
+    "id": "32bfad32-8fe1-4965-8663-429cc4e76306",
+    "name": "Brotte S. A."
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "2",
+  "prices": [
+    "445 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/2e/0fea48-5584-476d-b65d-4fe8e1b5f79c/2022-06-09-21-38-11-9B209353-5FBE-4CCE-BF4C-E6E1FE705D7A-1-102-o.webp",
+  "rating": "NA"
+}

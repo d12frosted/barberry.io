@@ -1,0 +1,30 @@
+{
+  "id": "1cef4a62-828f-47ca-8489-ea911196b860",
+  "name": "Weinert Merlot 2011",
+  "producer": {
+    "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
+    "name": "Weinert"
+  },
+  "vintage": "2011",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2.68",
+  "prices": [
+    "472 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1c/ef4a62-828f-47ca-8489-ea911196b860/2021-12-27-18-22-56-04855E08-0E50-4457-8FF8-5412B4C0E986-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "762727eb-e3c6-443d-8c0e-915bba9854f3",
+  "name": "Bodegas Borsao Tres Picos 2019",
+  "producer": {
+    "id": "777ece9c-bbad-433b-8401-7deebf3f7f5d",
+    "name": "Bodegas Borsao"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "1.8",
+  "prices": [
+    "585 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp",
+  "rating": "7.25"
+}

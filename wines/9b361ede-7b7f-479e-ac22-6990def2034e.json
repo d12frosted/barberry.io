@@ -1,0 +1,38 @@
+{
+  "id": "9b361ede-7b7f-479e-ac22-6990def2034e",
+  "name": "Lucien Albrecht Crémant d'Alsace Brut NV",
+  "producer": {
+    "id": "41cf4cf1-e204-4e8f-9dd2-b54ec55ffefa",
+    "name": "Lucien Albrecht"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c933109e-faba-42a3-a608-d91ad3cc7875",
+      "name": "Auxerrois blanc"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "fa96ba31-182e-4da7-9d88-30a63e686997",
+      "name": "Pinot Grigio"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "572 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9b/361ede-7b7f-479e-ac22-6990def2034e/2022-08-22-21-44-39-D2DB245C-7258-436A-8AAA-FC9433803FFB-1-105-c.webp",
+  "rating": "7.4"
+}

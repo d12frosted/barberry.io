@@ -1,0 +1,30 @@
+{
+  "id": "c1d0ba4c-5caf-45ce-b242-9104dfb15ad7",
+  "name": "Roses De Jeanne Presle Millesime BdN 2016",
+  "producer": {
+    "id": "96bfa5bd-eeca-4fe1-ab3d-ceeb3fb76346",
+    "name": "Roses De Jeanne"
+  },
+  "vintage": "2016",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "3300 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp",
+  "rating": "8.5"
+}

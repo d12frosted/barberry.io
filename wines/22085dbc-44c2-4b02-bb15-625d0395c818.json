@@ -1,0 +1,30 @@
+{
+  "id": "22085dbc-44c2-4b02-bb15-625d0395c818",
+  "name": "Matassa Cuvée Alexandria 2020",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.5",
+  "prices": [
+    "878 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/22/085dbc-44c2-4b02-bb15-625d0395c818/2021-06-23-08-56-50-DED9130B-37A4-41D5-97BA-04CFDE0030B4-1-105-c.webp",
+  "rating": "8.0"
+}

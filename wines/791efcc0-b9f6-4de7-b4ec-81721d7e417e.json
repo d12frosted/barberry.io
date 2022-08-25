@@ -1,0 +1,30 @@
+{
+  "id": "791efcc0-b9f6-4de7-b4ec-81721d7e417e",
+  "name": "Anne et J.F. Ganevat Les Miracules 2017",
+  "producer": {
+    "id": "17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6",
+    "name": "Anne et J.F. Ganevat"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "1813 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp",
+  "rating": "8.5"
+}

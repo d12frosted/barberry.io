@@ -1,0 +1,30 @@
+{
+  "id": "f201f266-399a-4818-be01-3987e9280388",
+  "name": "Andre et Mireille Tissot Singulier Trousseau 2017",
+  "producer": {
+    "id": "e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8",
+    "name": "Andre et Mireille Tissot"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1075 UAH"
+  ],
+  "available": 0,
+  "image": "images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c.webp",
+  "rating": "7.25"
+}

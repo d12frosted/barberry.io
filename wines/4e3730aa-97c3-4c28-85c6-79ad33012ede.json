@@ -1,0 +1,30 @@
+{
+  "id": "4e3730aa-97c3-4c28-85c6-79ad33012ede",
+  "name": "Domaine Antonin Guyon Côte de Beaune-Villages 2017",
+  "producer": {
+    "id": "4d8a9840-22fc-4d2e-9ea6-aa02911aaf19",
+    "name": "Domaine Antonin Guyon"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.7",
+  "prices": [
+    "916 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4e/3730aa-97c3-4c28-85c6-79ad33012ede/2021-10-21-14-58-06-AA5FB352-A035-40BE-826B-88BF4F159C36-1-105-c.webp",
+  "rating": "NA"
+}

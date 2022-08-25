@@ -1,0 +1,31 @@
+{
+  "id": "bb907d04-20ee-4ba6-b628-f766ac981a3c",
+  "name": "Alessandro Viola Blanc De Blancs Metodo Classico Pas dose NV",
+  "producer": {
+    "id": "f25fbb5a-7339-433c-8a73-17c6157afc1e",
+    "name": "Alessandro Viola"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "795 UAH",
+    "910 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp",
+  "rating": "8.166666666666666"
+}

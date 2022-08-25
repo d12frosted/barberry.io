@@ -1,0 +1,30 @@
+{
+  "id": "e5c2e4c9-4027-410f-8a20-e14079d83416",
+  "name": "Radikon Slatnik 2017",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.1",
+  "prices": [
+    "955 UAH"
+  ],
+  "available": 0,
+  "image": "images/e5/c2e4c9-4027-410f-8a20-e14079d83416/2020-08-13-08-57-34-ADE4EDAE-70E0-445D-A462-FB72F489EFBA-1-105-c.webp",
+  "rating": "8.0"
+}

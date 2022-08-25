@@ -1,0 +1,30 @@
+{
+  "id": "52b83646-0cd4-49be-8356-f6d6ec7c7559",
+  "name": "Domaine de la Taille Aux Loups Montlouis Sur Loire Clos Michet 2017",
+  "producer": {
+    "id": "461a005a-3007-46a9-8ab4-f716429379fa",
+    "name": "Domaine de la Taille Aux Loups"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "900 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/52/b83646-0cd4-49be-8356-f6d6ec7c7559/2021-08-25-23-27-35-0018144C-557E-41BB-A48E-2F567CAFAA21-1-102-o.webp",
+  "rating": "8.0"
+}

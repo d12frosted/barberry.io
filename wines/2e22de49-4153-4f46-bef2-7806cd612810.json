@@ -1,0 +1,30 @@
+{
+  "id": "2e22de49-4153-4f46-bef2-7806cd612810",
+  "name": "Anne et J.F. Ganevat La Graviere 2018",
+  "producer": {
+    "id": "17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6",
+    "name": "Anne et J.F. Ganevat"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.4",
+  "sugar": "1",
+  "prices": [
+    "1293 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2e/22de49-4153-4f46-bef2-7806cd612810/2021-08-18-10-33-38-22BFC91A-1343-4B19-8EDF-8B537419E72F-1-105-c.webp",
+  "rating": "9.0"
+}

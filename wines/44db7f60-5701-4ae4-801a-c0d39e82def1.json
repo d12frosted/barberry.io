@@ -1,0 +1,30 @@
+{
+  "id": "44db7f60-5701-4ae4-801a-c0d39e82def1",
+  "name": "Alex Craighead DON Nelson Pinot Noir 2018",
+  "producer": {
+    "id": "9880c5f6-e77b-4171-9e0f-069b9c4fcae0",
+    "name": "Alex Craighead"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.1",
+  "prices": [
+    "745 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/44/db7f60-5701-4ae4-801a-c0d39e82def1/2020-10-27-10-14-19-6C66B9A2-9AE9-47FD-BF62-0A95DE8FE36C-1-105-c.webp",
+  "rating": "4.5"
+}

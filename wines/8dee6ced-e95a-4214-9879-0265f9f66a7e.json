@@ -1,0 +1,30 @@
+{
+  "id": "8dee6ced-e95a-4214-9879-0265f9f66a7e",
+  "name": "Bret Brothers Pouilly-Fuissé Climat La Roche 2017",
+  "producer": {
+    "id": "4eb32a6f-ea37-4f9a-a470-d062d4465b67",
+    "name": "Bret Brothers"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1511 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8d/ee6ced-e95a-4214-9879-0265f9f66a7e/2022-08-20-10-30-09-78CD0502-5902-4C44-A638-AC66C3DCB0FF-1-105-c.webp",
+  "rating": "8.25"
+}

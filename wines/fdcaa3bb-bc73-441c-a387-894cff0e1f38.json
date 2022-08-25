@@ -1,0 +1,38 @@
+{
+  "id": "fdcaa3bb-bc73-441c-a387-894cff0e1f38",
+  "name": "Gérard Bertrand Héritage Kosmos 888 2019",
+  "producer": {
+    "id": "3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb",
+    "name": "Gérard Bertrand"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "985 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp",
+  "rating": "7.6"
+}

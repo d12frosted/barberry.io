@@ -1,0 +1,30 @@
+{
+  "id": "e9124b43-5978-4720-8e8c-c16b5c4bf330",
+  "name": "Gentle Folk Piccadilly Chardonnay 2019",
+  "producer": {
+    "id": "166e9d27-3a90-4f30-a042-a39ebe67b04e",
+    "name": "Gentle Folk"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.3",
+  "prices": [
+    "1092 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp",
+  "rating": "8.0"
+}

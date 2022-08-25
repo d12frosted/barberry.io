@@ -1,0 +1,30 @@
+{
+  "id": "969b7bbf-2917-476f-859b-fcb1fb9f8bb3",
+  "name": "Les Vignes De Paradis Pinot Gris M... 2019",
+  "producer": {
+    "id": "f1833780-e704-4017-a518-b32a2baf5f2e",
+    "name": "Les Vignes De Paradis"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.25",
+  "prices": [
+    "765 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/96/9b7bbf-2917-476f-859b-fcb1fb9f8bb3/2022-07-23-10-29-38-5B85905C-BE43-4CB6-ACA2-F895C52DA593-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b869e1d7-0bc5-4eaa-ab69-a436b48ba75a",
+  "name": "Victoria E. Torres Pecis Sin Titulo NG 2017",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "e88f1ca0-56bc-44c1-8a47-0d8e47de1270",
+      "name": "Negramoll"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "997 UAH",
+    "1102 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/69e1d7-0bc5-4eaa-ab69-a436b48ba75a/2022-08-12-12-23-48-IMG-1462.webp",
+  "rating": "8.5"
+}

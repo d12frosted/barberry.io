@@ -1,0 +1,31 @@
+{
+  "id": "cdd63749-d893-457a-b852-06a407e52c84",
+  "name": "Weingut Bründlmayer Zweigelt 2015",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "2015",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "9a31e7c4-1ca4-4f5d-8c18-b5687058fb8d",
+      "name": "Zweigelt"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "478 UAH",
+    "515 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp",
+  "rating": "7.5"
+}

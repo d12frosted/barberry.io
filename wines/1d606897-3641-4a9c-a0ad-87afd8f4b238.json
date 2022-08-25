@@ -1,0 +1,30 @@
+{
+  "id": "1d606897-3641-4a9c-a0ad-87afd8f4b238",
+  "name": "Comando G Rozas 1-er Cru 2018",
+  "producer": {
+    "id": "eb753c76-29ab-4f89-b74e-657273987239",
+    "name": "Comando G"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1762 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp",
+  "rating": "8.25"
+}

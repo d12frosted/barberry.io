@@ -1,0 +1,42 @@
+{
+  "id": "10a8b59c-4358-4e9c-b7fb-639a964910d3",
+  "name": "Le Vendangeur Masque Caravan 2019",
+  "producer": {
+    "id": "94247fc7-1b15-4e01-bad1-5148617aab7e",
+    "name": "Le Vendangeur Masque"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "a067bded-65a9-4e5d-b0d4-f81eb5f88990",
+      "name": "Aligoté"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/10/a8b59c-4358-4e9c-b7fb-639a964910d3/2022-06-09-21-59-00-IMG-0387.webp",
+  "rating": "8.0"
+}

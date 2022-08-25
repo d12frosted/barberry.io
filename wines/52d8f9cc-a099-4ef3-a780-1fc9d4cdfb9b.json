@@ -1,0 +1,30 @@
+{
+  "id": "52d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b",
+  "name": "Savella Pinot Grigio 2020",
+  "producer": {
+    "id": "9fa9b26e-cc11-4535-a603-35bfcf4f67ea",
+    "name": "Savella"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "fa96ba31-182e-4da7-9d88-30a63e686997",
+      "name": "Pinot Grigio"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "300 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/52/d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b/2022-05-26-09-59-55-F61CE254-A3CE-4EC2-8C5F-0271029A50EE-1-105-c.webp",
+  "rating": "6.5"
+}

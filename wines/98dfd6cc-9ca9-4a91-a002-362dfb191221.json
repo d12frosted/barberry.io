@@ -1,0 +1,30 @@
+{
+  "id": "98dfd6cc-9ca9-4a91-a002-362dfb191221",
+  "name": "Domaine George Noëllat 1er cru Les Boudots 2004",
+  "producer": {
+    "id": "5a5279d3-a4a4-4e09-82dd-799b5f78846f",
+    "name": "Domaine George Noëllat"
+  },
+  "vintage": "2004",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "3700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/98/dfd6cc-9ca9-4a91-a002-362dfb191221/2021-08-27-16-06-18-FCE6702E-6975-4D46-A5D1-674BD9AAD57B-1-105-c.webp",
+  "rating": "8.0"
+}

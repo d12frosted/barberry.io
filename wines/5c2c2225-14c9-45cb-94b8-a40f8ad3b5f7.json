@@ -1,0 +1,31 @@
+{
+  "id": "5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7",
+  "name": "Weinert Cabernet Sauvignon 2010",
+  "producer": {
+    "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
+    "name": "Weinert"
+  },
+  "vintage": "2010",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "3.58",
+  "prices": [
+    "489 UAH",
+    "555 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c.webp",
+  "rating": "7.75"
+}

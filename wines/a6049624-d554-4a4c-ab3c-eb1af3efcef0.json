@@ -1,0 +1,30 @@
+{
+  "id": "a6049624-d554-4a4c-ab3c-eb1af3efcef0",
+  "name": "Weinbau Markus Ruch Klettgau Pinot Noir 2018",
+  "producer": {
+    "id": "63bc4f28-ab71-47ff-95c5-4d484eeb2b95",
+    "name": "Weinbau Markus Ruch"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "aa638cff-5281-49ca-8299-201ac18905cd",
+    "name": "Switzerland"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1002 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a6/049624-d554-4a4c-ab3c-eb1af3efcef0/2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp",
+  "rating": "8.0"
+}

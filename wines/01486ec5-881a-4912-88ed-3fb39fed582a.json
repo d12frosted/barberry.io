@@ -1,0 +1,30 @@
+{
+  "id": "01486ec5-881a-4912-88ed-3fb39fed582a",
+  "name": "Dom Ruinart Blanc de Blancs 1964",
+  "producer": {
+    "id": "f5ff399b-50e8-4f0f-9be5-9274caeab46c",
+    "name": "Dom Ruinart"
+  },
+  "vintage": "1964",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "8000 UAH"
+  ],
+  "available": 0,
+  "image": "images/01/486ec5-881a-4912-88ed-3fb39fed582a/2021-09-07-13-12-55-B4F3A2C5-6223-4589-9592-471FAD7EE335-1-105-c.webp",
+  "rating": "7.5"
+}

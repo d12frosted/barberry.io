@@ -1,0 +1,30 @@
+{
+  "id": "caddc632-9062-4f70-9d54-8b44fb6fe84e",
+  "name": "Domaines Landron Melonix 2017",
+  "producer": {
+    "id": "86f6ffd0-2621-4f0c-865b-219628771e6b",
+    "name": "Domaines Landron"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "04c93352-c3f9-475f-b1eb-ae5549034d0b",
+      "name": "Melon de Bourgogne"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "860 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ca/ddc632-9062-4f70-9d54-8b44fb6fe84e/2022-08-20-10-24-53-7537CA06-5565-43B1-98F4-9A04686ECA7D-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a66b26d0-a279-48d7-a7a4-f8e2d5d9609f",
+  "name": "Raúl Pérez La Del Vivo 2018",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.8",
+  "prices": [
+    "730 UAH",
+    "619 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp",
+  "rating": "8.25"
+}

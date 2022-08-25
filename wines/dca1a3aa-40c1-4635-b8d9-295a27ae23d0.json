@@ -1,0 +1,30 @@
+{
+  "id": "dca1a3aa-40c1-4635-b8d9-295a27ae23d0",
+  "name": "The Hilt Estate Pinot Noir 2017",
+  "producer": {
+    "id": "ac1f138e-7907-4148-b0df-b803faeb42ef",
+    "name": "The Hilt"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.2",
+  "sugar": "1",
+  "prices": [
+    "1990 UAH"
+  ],
+  "available": 0,
+  "image": "images/dc/a1a3aa-40c1-4635-b8d9-295a27ae23d0/2021-08-27-17-25-38-89F25E83-DCE8-4563-97F0-0C701FD490AF-1-105-c.webp",
+  "rating": "7.5"
+}

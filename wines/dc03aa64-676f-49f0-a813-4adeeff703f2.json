@@ -1,0 +1,30 @@
+{
+  "id": "dc03aa64-676f-49f0-a813-4adeeff703f2",
+  "name": "Beykush Sauvignon Blanc Reserve 2018",
+  "producer": {
+    "id": "06a2adf5-5f66-47e8-9d78-41eaef001e34",
+    "name": "Beykush"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "480 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dc/03aa64-676f-49f0-a813-4adeeff703f2/2021-03-03-20-14-46-7069F3DF-EDEF-485B-B78F-D6201F15F5C1-1-105-c.webp",
+  "rating": "6.0"
+}

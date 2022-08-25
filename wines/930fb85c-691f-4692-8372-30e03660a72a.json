@@ -1,0 +1,30 @@
+{
+  "id": "930fb85c-691f-4692-8372-30e03660a72a",
+  "name": "Gentle Folk Summertown blanc 2019",
+  "producer": {
+    "id": "166e9d27-3a90-4f30-a042-a39ebe67b04e",
+    "name": "Gentle Folk"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "1232 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp",
+  "rating": "8.5"
+}

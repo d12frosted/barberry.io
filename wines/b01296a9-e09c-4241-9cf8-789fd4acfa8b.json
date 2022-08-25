@@ -1,0 +1,34 @@
+{
+  "id": "b01296a9-e09c-4241-9cf8-789fd4acfa8b",
+  "name": "Tsikhelishvili Wines Mtsvane 2018",
+  "producer": {
+    "id": "5b7283e3-a195-4382-901f-04bd6e393d94",
+    "name": "Tsikhelishvili Wines"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "50618c67-59a1-4219-b8f8-a9b207a7a92d",
+      "name": "Mtsvane"
+    },
+    {
+      "id": "afb94792-cd0f-43a3-889f-cc4abfa36ff5",
+      "name": "Rkatsiteli"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2.51",
+  "prices": [
+    "790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp",
+  "rating": "7.75"
+}

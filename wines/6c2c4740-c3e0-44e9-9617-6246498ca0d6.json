@@ -1,0 +1,30 @@
+{
+  "id": "6c2c4740-c3e0-44e9-9617-6246498ca0d6",
+  "name": "Maison du Vigneron Crémant du Jura",
+  "producer": {
+    "id": "7aee6dea-ad2d-4f38-9980-e14de49f0268",
+    "name": "Maison du Vigneron"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "11",
+  "prices": [
+    "450 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6c/2c4740-c3e0-44e9-9617-6246498ca0d6/2022-06-16-07-52-54-AA9F657A-02B4-4399-8E90-8F0EE0B2F1CF-1-105-c.webp",
+  "rating": "7.199999999999999"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "25222939-23da-4fee-99de-28482c8f24e6",
+  "name": "Bodega Catena Zapata Appellation Tupungato Chardonnay 2019",
+  "producer": {
+    "id": "4547425b-4629-45d5-886b-581416693d89",
+    "name": "Bodega Catena Zapata"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.68",
+  "prices": [
+    "413 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/25/222939-23da-4fee-99de-28482c8f24e6/2021-09-18-10-32-46-33786B15-4A07-4E66-9C26-6C679D724F40-1-105-c.webp",
+  "rating": "NA"
+}

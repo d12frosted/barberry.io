@@ -1,0 +1,37 @@
+{
+  "id": "9fa2fcd7-07c0-40ac-b824-37a885885ad6",
+  "name": "Arianna Occhipinti SP68 Rosso 2019",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    },
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.8",
+  "prices": [
+    "918 UAH",
+    "835 UAH",
+    "730 UAH",
+    "606 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c.webp",
+  "rating": "7.6875"
+}

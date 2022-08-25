@@ -1,0 +1,38 @@
+{
+  "id": "e080c035-c2fa-412a-bce9-007a9ba98063",
+  "name": "Quinta de Chocapalha Branco 2017",
+  "producer": {
+    "id": "24f3412e-d51f-403c-8129-e54a1a8d1c1f",
+    "name": "Quinta de Chocapalha"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "9bb53cf8-2e9f-432c-b0dd-1a6779352471",
+      "name": "Viosinho"
+    },
+    {
+      "id": "78bc05d6-9db0-4828-873d-ac827994b097",
+      "name": "Arinto"
+    },
+    {
+      "id": "4e6564c9-de73-4352-a8b9-684d92808b68",
+      "name": "Verdelho"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "518 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e0/80c035-c2fa-412a-bce9-007a9ba98063/2022-07-18-20-52-14-24597A98-119C-4834-8705-797EEF834D09-1-102-o.webp",
+  "rating": "7.0"
+}

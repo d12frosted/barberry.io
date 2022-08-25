@@ -1,0 +1,31 @@
+{
+  "id": "a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac",
+  "name": "Descendientes de Jose Palacios Louro 2020",
+  "producer": {
+    "id": "5c152d2a-9300-45f2-8dbd-ec919a6df065",
+    "name": "Descendientes de Jose Palacios"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.2",
+  "prices": [
+    "540 UAH",
+    "619 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a9/ce10b3-c64a-4a32-9490-b7e3ffb0d0ac/2022-01-13-09-59-05-383B22A4-9F2E-4CB3-B703-F2BABEDEF9E9-1-105-c.webp",
+  "rating": "8.0"
+}

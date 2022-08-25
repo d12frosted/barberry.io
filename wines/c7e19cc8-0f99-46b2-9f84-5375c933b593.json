@@ -1,0 +1,30 @@
+{
+  "id": "c7e19cc8-0f99-46b2-9f84-5375c933b593",
+  "name": "Pierre Frick Crémant d'Alsace 2018",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c933109e-faba-42a3-a608-d91ad3cc7875",
+      "name": "Auxerrois blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "910 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c.webp",
+  "rating": "8.0"
+}

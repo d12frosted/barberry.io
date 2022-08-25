@@ -1,0 +1,31 @@
+{
+  "id": "acc24d74-9556-479d-a9bd-bada0cccfe7e",
+  "name": "Fattoria Romeo del Castello Allegracore 2016",
+  "producer": {
+    "id": "14fa74e7-0434-4db1-9491-759de4595c0d",
+    "name": "Fattoria Romeo del Castello"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "930 UAH",
+    "1033 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ac/c24d74-9556-479d-a9bd-bada0cccfe7e/2022-07-02-08-55-26-CCA3B8C3-C143-4A93-8510-9EDF9AB15C67-1-105-c.webp",
+  "rating": "NA"
+}

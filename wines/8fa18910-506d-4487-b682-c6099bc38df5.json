@@ -1,0 +1,34 @@
+{
+  "id": "8fa18910-506d-4487-b682-c6099bc38df5",
+  "name": "La Sorga S.M. 2018",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "2",
+  "prices": [
+    "700 UAH"
+  ],
+  "available": 0,
+  "image": "images/8f/a18910-506d-4487-b682-c6099bc38df5/2020-10-17-10-03-55-EDD91F2E-EF7B-4D1A-A2CE-84BBFC084706-1-105-c.webp",
+  "rating": "6.5"
+}

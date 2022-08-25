@@ -1,0 +1,30 @@
+{
+  "id": "3af6dc13-151d-4cfa-a315-e3f68d6e04a0",
+  "name": "Weingut Tement Temento Green 2019",
+  "producer": {
+    "id": "10ab4cea-5852-45b1-94bc-97e93fe33956",
+    "name": "Weingut Tement"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1",
+  "prices": [
+    "399 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3a/f6dc13-151d-4cfa-a315-e3f68d6e04a0/2021-04-25-14-15-47-1585199E-316E-45FF-96CE-33F76C8849DE-1-105-c.webp",
+  "rating": "7.0"
+}

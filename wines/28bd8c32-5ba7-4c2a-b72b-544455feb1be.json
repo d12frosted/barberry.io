@@ -1,0 +1,32 @@
+{
+  "id": "28bd8c32-5ba7-4c2a-b72b-544455feb1be",
+  "name": "Cascina Tavijn Bandita 2019",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "4.99",
+  "prices": [
+    "610 UAH",
+    "568 UAH",
+    "454 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/28/bd8c32-5ba7-4c2a-b72b-544455feb1be/2022-05-08-18-10-52-IMG-0048.webp",
+  "rating": "7.75"
+}

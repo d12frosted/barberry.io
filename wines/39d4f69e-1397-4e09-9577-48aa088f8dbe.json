@@ -1,0 +1,42 @@
+{
+  "id": "39d4f69e-1397-4e09-9577-48aa088f8dbe",
+  "name": "Bach Cava Gran Brut",
+  "producer": {
+    "id": "d94c2c51-81ef-4bd5-be56-6a28f19a8f2a",
+    "name": "Bach"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "472 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/39/d4f69e-1397-4e09-9577-48aa088f8dbe/2022-07-01-22-06-14-87D78DA9-448B-4AA9-8DD2-9E310FEA7EE6-1-105-c.webp",
+  "rating": "6.0"
+}

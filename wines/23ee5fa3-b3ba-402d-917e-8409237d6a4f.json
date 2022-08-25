@@ -1,0 +1,30 @@
+{
+  "id": "23ee5fa3-b3ba-402d-917e-8409237d6a4f",
+  "name": "Thymiopoulos Xinomavro Young Vines 2017",
+  "producer": {
+    "id": "dbc80a5b-3294-4c28-959c-1f65b7f1decd",
+    "name": "Thymiopoulos"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "7f460e26-c200-4020-9244-a321d130c570",
+      "name": "Xinomavro"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3.1",
+  "prices": [
+    "359 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350.webp",
+  "rating": "7.0"
+}

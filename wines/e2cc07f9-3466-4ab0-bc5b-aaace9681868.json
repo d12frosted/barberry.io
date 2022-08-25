@@ -1,0 +1,30 @@
+{
+  "id": "e2cc07f9-3466-4ab0-bc5b-aaace9681868",
+  "name": "Bodega Catena Zapata Catena Chardonnay 2020",
+  "producer": {
+    "id": "4547425b-4629-45d5-886b-581416693d89",
+    "name": "Bodega Catena Zapata"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "455 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e2/cc07f9-3466-4ab0-bc5b-aaace9681868/2022-06-12-17-34-19-19E382A8-52F8-4A88-949F-C14981A2175E.webp",
+  "rating": "7.4"
+}

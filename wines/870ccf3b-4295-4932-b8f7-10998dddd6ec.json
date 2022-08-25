@@ -1,0 +1,30 @@
+{
+  "id": "870ccf3b-4295-4932-b8f7-10998dddd6ec",
+  "name": "Ulysse Collin Les Maillons Blanc de Noirs Extra Brut (2016) NV",
+  "producer": {
+    "id": "7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46",
+    "name": "Ulysse Collin"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2900 UAH"
+  ],
+  "available": 0,
+  "image": "images/87/0ccf3b-4295-4932-b8f7-10998dddd6ec/2021-09-07-10-53-00-53835200-DA5D-4B41-BB5A-9CDD23792753-1-105-c.webp",
+  "rating": "9.0"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "9513b9da-ac70-472c-953a-7cd9e5946b47",
+  "name": "Sadie Family Skurfberg 2020",
+  "producer": {
+    "id": "c7f2173e-1b32-4e44-8da0-bd36f04b3ae0",
+    "name": "Sadie Family"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.4",
+  "prices": [
+    "1282 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c.webp",
+  "rating": "8.5"
+}

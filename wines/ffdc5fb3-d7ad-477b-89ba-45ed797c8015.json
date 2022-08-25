@@ -1,0 +1,30 @@
+{
+  "id": "ffdc5fb3-d7ad-477b-89ba-45ed797c8015",
+  "name": "Clos Lentiscus Sumoll Reserva Familia Blanc de Noirs Brut Nature 2017",
+  "producer": {
+    "id": "7ee0380b-9c4c-4328-89e2-c44f9dfda9c1",
+    "name": "Clos Lentiscus"
+  },
+  "vintage": "2017",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "1b4d4101-e064-4c9a-aff7-f38b5bd1ef63",
+      "name": "Sumoll"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0,
+  "image": "images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c.webp",
+  "rating": "7.0"
+}

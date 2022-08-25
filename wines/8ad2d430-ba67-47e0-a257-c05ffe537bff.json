@@ -1,0 +1,30 @@
+{
+  "id": "8ad2d430-ba67-47e0-a257-c05ffe537bff",
+  "name": "Testalonga Baby Bandito Stay Brave 2019",
+  "producer": {
+    "id": "28888340-61d4-42b7-9aa6-25ae9bf77e08",
+    "name": "Testalonga"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.7",
+  "prices": [
+    "590 UAH"
+  ],
+  "available": 0,
+  "image": "images/8a/d2d430-ba67-47e0-a257-c05ffe537bff/2021-01-24-12-38-11-49D4C33F-85BC-48E9-99F7-558711E3AA97-1-105-c.webp",
+  "rating": "6.875"
+}

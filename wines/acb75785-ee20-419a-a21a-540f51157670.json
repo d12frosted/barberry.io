@@ -1,0 +1,30 @@
+{
+  "id": "acb75785-ee20-419a-a21a-540f51157670",
+  "name": "Sandro Fay Valtellina Superiore Valgella Riserva Carteria 2014",
+  "producer": {
+    "id": "2fd367c5-4450-4a7d-bb9c-b953f573745d",
+    "name": "Sandro Fay"
+  },
+  "vintage": "2014",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1695 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ac/b75785-ee20-419a-a21a-540f51157670/2022-07-26-12-34-08-5264355E-3080-494E-BE69-E38268F7C4A8-1-105-c.webp",
+  "rating": "8.0"
+}

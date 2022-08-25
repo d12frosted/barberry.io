@@ -1,0 +1,30 @@
+{
+  "id": "39b35863-a201-4f56-adce-1db43d9f327d",
+  "name": "Raúl Pérez Ultreia La Claudina 2018",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.2",
+  "prices": [
+    "1402 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/39/b35863-a201-4f56-adce-1db43d9f327d/2022-01-13-09-44-29-70F73BB0-F877-4CC6-9F78-975FFB453122-1-105-c.webp",
+  "rating": "8.5"
+}

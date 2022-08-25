@@ -1,0 +1,25 @@
+{
+  "id": "14bfdb67-e5c3-48cb-b555-5f0acf303b79",
+  "name": "La Biancara Sassaia 2018",
+  "producer": {
+    "id": "b896c5d5-53f9-4a09-864f-3cf25810c9ad",
+    "name": "La Biancara"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "653 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/14/bfdb67-e5c3-48cb-b555-5f0acf303b79/2022-08-14-11-41-34-4EB47FF8-7206-464B-A93D-3C2757DFC8A3-1-105-c.webp",
+  "rating": "7.5"
+}

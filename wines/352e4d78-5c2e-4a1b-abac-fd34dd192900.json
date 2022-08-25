@@ -1,0 +1,30 @@
+{
+  "id": "352e4d78-5c2e-4a1b-abac-fd34dd192900",
+  "name": "Krasna Hora Herr Gewürtz 2019",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.1",
+  "prices": [
+    "469 UAH"
+  ],
+  "available": 0,
+  "image": "images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp",
+  "rating": "7.0"
+}

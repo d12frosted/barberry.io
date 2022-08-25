@@ -1,0 +1,30 @@
+{
+  "id": "e77ba7fc-950c-4c76-b1ee-93d88ca7b801",
+  "name": "Jean Grivot Clos de Vougeot 2014",
+  "producer": {
+    "id": "7ccd7bff-82b4-4834-ba80-31924e56b364",
+    "name": "Jean Grivot"
+  },
+  "vintage": "2014",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "8400 UAH"
+  ],
+  "available": 0,
+  "image": "images/e7/7ba7fc-950c-4c76-b1ee-93d88ca7b801/2021-06-01-07-39-47-75FDFB8D-22FD-439D-893C-492C64205866-1-105-c.webp",
+  "rating": "9.0"
+}

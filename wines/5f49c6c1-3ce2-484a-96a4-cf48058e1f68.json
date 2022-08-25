@@ -1,0 +1,30 @@
+{
+  "id": "5f49c6c1-3ce2-484a-96a4-cf48058e1f68",
+  "name": "Anne et J.F. Ganevat Arces 2018",
+  "producer": {
+    "id": "17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6",
+    "name": "Anne et J.F. Ganevat"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.7",
+  "sugar": "1",
+  "prices": [
+    "1092 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5f/49c6c1-3ce2-484a-96a4-cf48058e1f68/2021-09-01-22-21-49-4A81CD18-7FE4-4713-9A13-2567667D3E5D-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3b659800-7834-4b86-89ff-76dba23dacd2",
+  "name": "Bodegas Atalaya Laya 2020",
+  "producer": {
+    "id": "4b13b8f1-42fa-4963-b20c-6f649224ccf2",
+    "name": "Bodegas Atalaya"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "b6846384-2132-4c97-b5c9-360acd53f497",
+      "name": "Alicante Henri Bouschet"
+    },
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "5",
+  "prices": [
+    "269 UAH",
+    "227 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/3b/659800-7834-4b86-89ff-76dba23dacd2/2021-10-21-14-47-31-5445E444-2B57-44FA-AAAE-CE2905EBF20B-1-105-c.webp",
+  "rating": "5.5"
+}

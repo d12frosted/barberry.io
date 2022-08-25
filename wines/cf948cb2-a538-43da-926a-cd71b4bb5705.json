@@ -1,0 +1,30 @@
+{
+  "id": "cf948cb2-a538-43da-926a-cd71b4bb5705",
+  "name": "Raúl Pérez Ultreia De Valtuille 2018",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.6",
+  "prices": [
+    "1450 UAH"
+  ],
+  "available": 0,
+  "image": "images/cf/948cb2-a538-43da-926a-cd71b4bb5705/2021-10-27-23-53-27-91550E9B-BD38-4027-8EDE-5463810E5BDA-1-105-c.webp",
+  "rating": "8.5"
+}

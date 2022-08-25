@@ -1,0 +1,30 @@
+{
+  "id": "588f34e3-68db-4015-b04d-58503fdc84e6",
+  "name": "Hudelot-Noëllat Bourgogne Pinot Noir 2018",
+  "producer": {
+    "id": "19e67244-0219-4309-bd91-d790aefd5a3f",
+    "name": "Hudelot-Noëllat"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "854 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/58/8f34e3-68db-4015-b04d-58503fdc84e6/2020-12-21-10-57-50-8883D6A8-C597-4EA1-B7CC-AE2392CD2D66-1-105-c.webp",
+  "rating": "8.0"
+}

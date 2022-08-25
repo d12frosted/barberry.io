@@ -1,0 +1,30 @@
+{
+  "id": "6019c3fc-f761-4f54-8e39-ab1fadecaa97",
+  "name": "De Fermo Don Carlino Pecorino Colline Pescaresi 2018",
+  "producer": {
+    "id": "453cfd4a-8168-4a89-ba48-5561d768e0cd",
+    "name": "De Fermo"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "96e1e317-9a57-42c6-aac7-6ad42cb42fdc",
+      "name": "Pecorino"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1003 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/60/19c3fc-f761-4f54-8e39-ab1fadecaa97/2022-07-28-07-04-22-665F5858-0629-42FD-AAD9-20E7F8CD5E60-1-105-c.webp",
+  "rating": "8.25"
+}

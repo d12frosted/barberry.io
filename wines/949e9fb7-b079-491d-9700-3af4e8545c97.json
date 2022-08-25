@@ -1,0 +1,31 @@
+{
+  "id": "949e9fb7-b079-491d-9700-3af4e8545c97",
+  "name": "Domaine de la Touraize Crémant du Jura Millésimé 2018",
+  "producer": {
+    "id": "1798690d-483b-4f80-a136-93eb9552e48b",
+    "name": "Domaine de la Touraize"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "820 UAH",
+    "758 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp",
+  "rating": "7.75"
+}

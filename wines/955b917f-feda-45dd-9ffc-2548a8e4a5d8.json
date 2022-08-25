@@ -1,0 +1,31 @@
+{
+  "id": "955b917f-feda-45dd-9ffc-2548a8e4a5d8",
+  "name": "Hubert Lamy Saint-Aubin 1er Cru Clos du Meix 2018",
+  "producer": {
+    "id": "0b683b5c-7557-44dd-99c0-0690a88ee329",
+    "name": "Hubert Lamy"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1793 UAH",
+    "1650 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/95/5b917f-feda-45dd-9ffc-2548a8e4a5d8/2021-08-18-10-32-37-57EC7679-E717-459B-B78F-B02C0CCE7620-1-105-c.webp",
+  "rating": "7.5"
+}

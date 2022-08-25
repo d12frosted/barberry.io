@@ -1,0 +1,30 @@
+{
+  "id": "e9577901-8db7-4178-bc60-462ccdee35c3",
+  "name": "Arianna Occhipinti Vino di Contrada SM 2020",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "1619 UAH"
+  ],
+  "available": 0,
+  "image": "images/e9/577901-8db7-4178-bc60-462ccdee35c3/2021-12-04-10-50-08-A8CE70A4-CBCC-409F-A8B5-11CF8FE7C245-1-105-c.webp",
+  "rating": "7.75"
+}

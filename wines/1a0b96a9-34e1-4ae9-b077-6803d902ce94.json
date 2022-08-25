@@ -1,0 +1,30 @@
+{
+  "id": "1a0b96a9-34e1-4ae9-b077-6803d902ce94",
+  "name": "Linar Winery Code: Miss Mavrud 2021",
+  "producer": {
+    "id": "b1200275-78cd-4271-845f-df0ed43c87b5",
+    "name": "Linar Winery"
+  },
+  "vintage": "2021",
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "af37fb33-f015-49be-b3fd-3424f84b10fa",
+    "name": "Bulgaria"
+  },
+  "grapes": [
+    {
+      "id": "d2aaafc7-b6ef-4c55-9835-dbe469f94766",
+      "name": "Mavrud"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "400 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1a/0b96a9-34e1-4ae9-b077-6803d902ce94/2022-08-10-08-36-34-B173538C-8070-41B0-95AD-0DD9A9E08DDA-1-105-c.webp",
+  "rating": "7.0"
+}

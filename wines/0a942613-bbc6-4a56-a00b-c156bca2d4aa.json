@@ -1,0 +1,34 @@
+{
+  "id": "0a942613-bbc6-4a56-a00b-c156bca2d4aa",
+  "name": "Clos Cibonne Cuvée Prestige Caroline Tibouren Rosé Cru Classé 2018",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2018",
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.7",
+  "prices": [
+    "997 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0a/942613-bbc6-4a56-a00b-c156bca2d4aa/2021-07-14-08-46-04-F0B2CA52-DA84-4739-8C7F-233801D8B6E7-1-105-c.webp",
+  "rating": "8.25"
+}

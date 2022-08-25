@@ -1,0 +1,30 @@
+{
+  "id": "de295137-6c7a-406f-9821-d0e2e9f9ed2d",
+  "name": "Brancott Estate Pinot Noir 2016",
+  "producer": {
+    "id": "cb3d4d47-89e2-4f60-b950-c6b6711b26d1",
+    "name": "Brancott Estate"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "349 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/de/295137-6c7a-406f-9821-d0e2e9f9ed2d/2021-10-02-10-49-11-AD36241D-4113-409A-910F-56C26831BDF4-1-105-c.webp",
+  "rating": "6.5"
+}

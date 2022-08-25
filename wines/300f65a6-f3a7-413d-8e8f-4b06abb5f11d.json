@@ -1,0 +1,30 @@
+{
+  "id": "300f65a6-f3a7-413d-8e8f-4b06abb5f11d",
+  "name": "La Stoppa Ageno 2018",
+  "producer": {
+    "id": "e852c48c-eb2b-48ec-90f2-1ac7f0203073",
+    "name": "La Stoppa"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.6",
+  "prices": [
+    "1012 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c.webp",
+  "rating": "8.5"
+}

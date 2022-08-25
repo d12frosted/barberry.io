@@ -1,0 +1,42 @@
+{
+  "id": "a8368368-f075-4ed0-ae7c-3b881cb2c402",
+  "name": "La Cave Apicole Carbo Culte 2018",
+  "producer": {
+    "id": "59245419-a7e7-4fe5-b8f0-ad77d901bb9e",
+    "name": "La Cave Apicole"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cafd94a8-0661-4a8d-91f4-7780f8111d58",
+      "name": "Lledoner Pelut"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "13.6",
+  "sugar": "0",
+  "prices": [
+    "450 UAH"
+  ],
+  "available": 0,
+  "image": "images/a8/368368-f075-4ed0-ae7c-3b881cb2c402/2021-06-26-10-48-15-AF884B91-C697-4C72-8ED2-38C2E93BBC37-1-105-c.webp",
+  "rating": "7.0"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "d6c593fa-52e7-46db-9097-fe38802ee9d5",
+  "name": "Costadila 280 slm 2019",
+  "producer": {
+    "id": "d2866fb4-6a9f-4499-a330-da6d9d4720d8",
+    "name": "Costadila"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    },
+    {
+      "id": "64804675-05c7-4c4b-8b19-0cef3afe989c",
+      "name": "Verdicchio"
+    },
+    {
+      "id": "d07a751c-325d-4cea-be13-706349491031",
+      "name": "Bianchetta Trevigiana"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "2",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2022-07-16-18-48-40-F45B1701-8B12-455A-BC70-C9A6471BF375-1-105-c.webp",
+  "rating": "7.199999999999999"
+}

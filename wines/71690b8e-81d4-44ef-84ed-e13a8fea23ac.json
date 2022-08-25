@@ -1,0 +1,30 @@
+{
+  "id": "71690b8e-81d4-44ef-84ed-e13a8fea23ac",
+  "name": "Di Majo Norante Sangiovese 2017",
+  "producer": {
+    "id": "4ea4cdd3-5ec7-4ebe-a464-749bc08652ff",
+    "name": "Di Majo Norante"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "423 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/71/690b8e-81d4-44ef-84ed-e13a8fea23ac/2022-06-09-22-15-54-IMG-0398.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ea445548-2b5e-45b0-b985-33f8589b1f52",
+  "name": "Beykush Albariño 2018",
+  "producer": {
+    "id": "06a2adf5-5f66-47e8-9d78-41eaef001e34",
+    "name": "Beykush"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "295 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ea/445548-2b5e-45b0-b985-33f8589b1f52/2021-03-03-19-58-22-4F3D6572-CE2B-4151-B129-C11454F07AE6-1-105-c.webp",
+  "rating": "5.0"
+}

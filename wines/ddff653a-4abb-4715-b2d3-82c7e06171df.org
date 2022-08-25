@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     123c7bf5-0304-4ad9-8174-37549cfa9148
-:END:
 #+attr_html: :class wine-main-image
 [[file:/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp]]
 
@@ -15,9 +12,6 @@
 - Cellar :: 1 bottle
 
 ** Producer
-:PROPERTIES:
-:ID:                     790e42c4-5d93-4c28-8529-95832e64a752
-:END:
 
 #+begin_quote
 Sous le Végétal is a collaborative wine project between Jason Ligas of Domine Ligas and Patrick Bouju of Domaine la Bohéme. This project finds them on the beautiful island of Samos in Greece, located one mile off the coast of Turkey.
@@ -32,16 +26,10 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 #+end_quote
 
 ** Ratings
-:PROPERTIES:
-:ID:                     64386401-af98-470f-9d4f-1e03668b66d5
-:END:
 
 There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
-:PROPERTIES:
-:ID:                     c9b01801-f674-46f2-a8b9-47c82ab0f4bf
-:END:
 
 #+begin_export html
 <div class="flex-container">

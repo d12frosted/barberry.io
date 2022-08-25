@@ -1,0 +1,30 @@
+{
+  "id": "2c77d1e3-bf8e-457a-afb3-bf1f5176f549",
+  "name": "Suertes del Marques El Chibirique 2017",
+  "producer": {
+    "id": "e8898726-cf1b-419e-87f3-41976bd9b480",
+    "name": "Suertes del Marques"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "be8ce46e-df1c-4cdc-94b7-675296816ddf",
+      "name": "Listán Negro"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1530 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c.webp",
+  "rating": "8.0"
+}

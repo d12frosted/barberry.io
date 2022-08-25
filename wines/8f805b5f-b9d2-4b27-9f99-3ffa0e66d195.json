@@ -1,0 +1,31 @@
+{
+  "id": "8f805b5f-b9d2-4b27-9f99-3ffa0e66d195",
+  "name": "Hummel Villányi Portugieser 2020",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.4",
+  "prices": [
+    "475 UAH",
+    "462 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp",
+  "rating": "7.25"
+}

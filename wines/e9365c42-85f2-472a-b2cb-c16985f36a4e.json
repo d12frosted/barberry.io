@@ -1,0 +1,34 @@
+{
+  "id": "e9365c42-85f2-472a-b2cb-c16985f36a4e",
+  "name": "Radikon Slatnik 2018",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.1",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e9/365c42-85f2-472a-b2cb-c16985f36a4e/2021-03-20-09-18-16-549E62EC-36E7-4CC8-9A27-6839AFB2B85D-1-105-c.webp",
+  "rating": "8.0"
+}

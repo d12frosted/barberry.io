@@ -1,0 +1,30 @@
+{
+  "id": "3f72d155-544c-4bae-af24-d9a0f4f3f09a",
+  "name": "Clos Henri Petit Clos Sauvignon Blanc 2020",
+  "producer": {
+    "id": "c31a826a-e40f-4e98-8e96-f7c0fe1274e1",
+    "name": "Clos Henri"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "555 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3f/72d155-544c-4bae-af24-d9a0f4f3f09a/2022-06-25-13-20-25-750A8360-761E-469B-B99C-7A23292DA3FA-1-105-c.webp",
+  "rating": "NA"
+}

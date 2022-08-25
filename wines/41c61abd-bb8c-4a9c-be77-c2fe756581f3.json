@@ -1,0 +1,42 @@
+{
+  "id": "41c61abd-bb8c-4a9c-be77-c2fe756581f3",
+  "name": "Patrice Beguet Fresh Impression White 2018",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cc12506c-075a-4f65-b3cc-0d7a07f6c305",
+      "name": "Garnacha Blanca"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    },
+    {
+      "id": "04c93352-c3f9-475f-b1eb-ae5549034d0b",
+      "name": "Melon de Bourgogne"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "2",
+  "prices": [
+    "530 UAH"
+  ],
+  "available": 0,
+  "image": "images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp",
+  "rating": "7.0"
+}

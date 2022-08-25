@@ -1,0 +1,30 @@
+{
+  "id": "c798671c-483f-46dd-9bee-5700002f97e2",
+  "name": "Krasna Hora Pinot Noir 2019",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.4",
+  "prices": [
+    "499 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.5"
+}

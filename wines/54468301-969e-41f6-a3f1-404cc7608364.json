@@ -1,0 +1,30 @@
+{
+  "id": "54468301-969e-41f6-a3f1-404cc7608364",
+  "name": "Henriques & Henriques Malvasia 15y",
+  "producer": {
+    "id": "603ce74a-32ef-448a-9ede-2d350b9c557b",
+    "name": "Henriques & Henriques"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "b5d8a605-bf4a-4f48-a92a-0fc3cf8966a9",
+      "name": "Malvasia Fina"
+    }
+  ],
+  "alcohol": "20",
+  "sugar": "109",
+  "prices": [
+    "900 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/54/468301-969e-41f6-a3f1-404cc7608364/2022-06-15-07-35-09-58AA2157-1BAF-4A6E-8D25-90D981612C95-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "c41d60a7-b441-43cb-8d8a-ca05fed8b2b4",
+  "name": "San Pedro Gato Negro Merlot 2020",
+  "producer": {
+    "id": "1dc2cf9e-9933-46a8-9b6e-4c6cd5a6b0ea",
+    "name": "San Pedro"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "240 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c4/1d60a7-b441-43cb-8d8a-ca05fed8b2b4/2022-05-20-08-38-42-0B289E70-A100-4E60-A1EA-EE33FB59C21E-1-105-c.webp",
+  "rating": "6.0"
+}

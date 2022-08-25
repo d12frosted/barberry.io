@@ -1,0 +1,30 @@
+{
+  "id": "6704809d-a8b9-45d6-8271-c0ee155027ba",
+  "name": "Hummel Karašica PetNat Hárslevelű 2019",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "cd6123c7-241e-4d0a-b857-837900bea31e",
+      "name": "Hárslevelű"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.8",
+  "prices": [
+    "740 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "6.0"
+}

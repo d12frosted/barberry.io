@@ -1,0 +1,34 @@
+{
+  "id": "6c45e619-c75e-43d1-9f11-2896fd46994b",
+  "name": "Matassa Olla Rouge 2019",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "584 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6c/45e619-c75e-43d1-9f11-2896fd46994b/2020-06-27-11-06-38-B6136489-237A-4123-A2D7-69C8D4F70B6B-1-105-c.webp",
+  "rating": "8.0"
+}

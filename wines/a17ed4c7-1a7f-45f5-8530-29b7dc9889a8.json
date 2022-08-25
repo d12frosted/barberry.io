@@ -1,0 +1,30 @@
+{
+  "id": "a17ed4c7-1a7f-45f5-8530-29b7dc9889a8",
+  "name": "Ktima Papaioannou Malagouzia 2019",
+  "producer": {
+    "id": "f17f45c4-3a53-41d6-8ce4-5af676a7af04",
+    "name": "Ktima Papaioannou"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "48efe047-b3fd-4e59-b8d4-92f636776211",
+      "name": "Malagousia"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.2",
+  "prices": [
+    "315 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a1/7ed4c7-1a7f-45f5-8530-29b7dc9889a8/2021-08-24-09-13-34-A064E7DB-B3AA-4809-9F65-EF5A4BC3F241-1-105-c.webp",
+  "rating": "7.4"
+}

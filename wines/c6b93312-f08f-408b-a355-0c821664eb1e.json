@@ -1,0 +1,30 @@
+{
+  "id": "c6b93312-f08f-408b-a355-0c821664eb1e",
+  "name": "Victoria E. Torres Pecis Piezas #4 Malvasia Seco 2018",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1542 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c6/b93312-f08f-408b-a355-0c821664eb1e/2022-07-26-11-46-04-5F32B2DD-2202-48BC-B916-DBC1444D1C48-1-105-c.webp",
+  "rating": "8.0"
+}

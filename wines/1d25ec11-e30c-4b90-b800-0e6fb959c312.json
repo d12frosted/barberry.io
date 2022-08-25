@@ -1,0 +1,39 @@
+{
+  "id": "1d25ec11-e30c-4b90-b800-0e6fb959c312",
+  "name": "Jaume Serra Cava Brut Nature NV",
+  "producer": {
+    "id": "e51a0d85-d950-4605-aa06-c232d4b9fc5a",
+    "name": "Jaume Serra"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.5",
+  "prices": [
+    "239 UAH",
+    "200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1d/25ec11-e30c-4b90-b800-0e6fb959c312/2022-06-15-07-02-19-F3976D47-4376-42A2-A19F-9C18F4C1B343-1-105-c.webp",
+  "rating": "6.5"
+}

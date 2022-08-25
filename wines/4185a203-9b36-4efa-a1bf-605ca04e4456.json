@@ -1,0 +1,31 @@
+{
+  "id": "4185a203-9b36-4efa-a1bf-605ca04e4456",
+  "name": "Donnafugata Ben Rye 2015",
+  "producer": {
+    "id": "a1187765-bf6b-44f7-babe-471eeafa097b",
+    "name": "Donnafugata"
+  },
+  "vintage": "2015",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "193",
+  "prices": [
+    "1257 UAH",
+    "847 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/41/85a203-9b36-4efa-a1bf-605ca04e4456/2022-08-10-10-50-47-8CAE8E97-9EE2-4928-935D-A131B0FEA3B7-1-105-c.webp",
+  "rating": "9.875"
+}

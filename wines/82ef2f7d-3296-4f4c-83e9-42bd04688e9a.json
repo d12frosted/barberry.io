@@ -1,0 +1,30 @@
+{
+  "id": "82ef2f7d-3296-4f4c-83e9-42bd04688e9a",
+  "name": "Concha y Toro Casillero del Diablo Sauvignon Blanc 2020",
+  "producer": {
+    "id": "6b682c47-5759-49f0-98d3-b74af0065304",
+    "name": "Concha y Toro"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "440 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/82/ef2f7d-3296-4f4c-83e9-42bd04688e9a/2022-05-25-08-46-19-2C36D494-5F76-49B3-BE00-D6B645076458-1-105-c.webp",
+  "rating": "7.25"
+}

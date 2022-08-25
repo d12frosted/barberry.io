@@ -1,0 +1,30 @@
+{
+  "id": "4e0f5306-8569-4d27-b7f0-05f18fc4c5d9",
+  "name": "Spier Wines Chenin Blanc 21 Gables 2019",
+  "producer": {
+    "id": "7f36c99b-3225-4883-b12d-11e5a75bfa12",
+    "name": "Spier Wines"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "6.9",
+  "prices": [
+    "789 UAH"
+  ],
+  "available": 0,
+  "image": "images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp",
+  "rating": "7.75"
+}

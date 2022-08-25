@@ -1,0 +1,34 @@
+{
+  "id": "3f9bfb82-e694-43d5-80b1-11d91ac107e9",
+  "name": "Arianna Occhipinti Grotte Alte 2014",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2014",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    },
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "1480 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3f/9bfb82-e694-43d5-80b1-11d91ac107e9/2020-03-06-08-34-38-688201BA-04DE-4981-8C31-BB249EDC2425-1-105-c.webp",
+  "rating": "9.0"
+}

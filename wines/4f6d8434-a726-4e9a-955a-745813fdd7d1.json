@@ -1,0 +1,38 @@
+{
+  "id": "4f6d8434-a726-4e9a-955a-745813fdd7d1",
+  "name": "Matassa Cuvée Marguerite 2020",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "5dd1f18b-e500-4993-9d13-99f4ae4e5ba2",
+      "name": "Muskateller"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.5",
+  "prices": [
+    "865 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4f/6d8434-a726-4e9a-955a-745813fdd7d1/2021-07-23-07-45-34-IMG-2663.webp",
+  "rating": "8.0"
+}

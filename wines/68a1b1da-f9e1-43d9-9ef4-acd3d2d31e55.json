@@ -1,0 +1,30 @@
+{
+  "id": "68a1b1da-f9e1-43d9-9ef4-acd3d2d31e55",
+  "name": "Domaine Rossignol-Trapet Gevrey-Chambertin 1er Cru Les Corbeaux 2014",
+  "producer": {
+    "id": "919b524d-134f-422c-b146-1904d7641d87",
+    "name": "Domaine Rossignol-Trapet"
+  },
+  "vintage": "2014",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "3400 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/68/a1b1da-f9e1-43d9-9ef4-acd3d2d31e55/2021-06-08-07-49-23-05F44376-E818-4F18-858A-3BC7F90C9C96-1-105-c.webp",
+  "rating": "NA"
+}

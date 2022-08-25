@@ -1,0 +1,35 @@
+{
+  "id": "065720da-6456-4df3-9afb-8634b425580e",
+  "name": "Costadila Móz 2019",
+  "producer": {
+    "id": "d2866fb4-6a9f-4499-a330-da6d9d4720d8",
+    "name": "Costadila"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "4471f387-4053-41ae-889b-fceb8faa5ec2",
+      "name": "Moscato Giallo"
+    },
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "2",
+  "prices": [
+    "630 UAH",
+    "590 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c.webp",
+  "rating": "8.0"
+}

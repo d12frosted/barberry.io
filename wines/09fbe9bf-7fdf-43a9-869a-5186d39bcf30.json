@@ -1,0 +1,30 @@
+{
+  "id": "09fbe9bf-7fdf-43a9-869a-5186d39bcf30",
+  "name": "Ulysse Collin Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) NV",
+  "producer": {
+    "id": "7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46",
+    "name": "Ulysse Collin"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "7600 UAH"
+  ],
+  "available": 0,
+  "image": "images/09/fbe9bf-7fdf-43a9-869a-5186d39bcf30/2021-09-07-10-33-50-E6F349D6-DC1F-486B-8D2A-1DDC033F3CEC-1-105-c.webp",
+  "rating": "8.0"
+}

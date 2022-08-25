@@ -1,0 +1,30 @@
+{
+  "id": "a9d857b0-83af-4fbc-82ba-14ed79e22aba",
+  "name": "Pheasant's Tears Mtsvane 2012",
+  "producer": {
+    "id": "337f6bbd-4050-4ca8-bb4e-a274716e7fad",
+    "name": "Pheasant's Tears"
+  },
+  "vintage": "2012",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "50618c67-59a1-4219-b8f8-a9b207a7a92d",
+      "name": "Mtsvane"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "4",
+  "prices": [
+    "615 UAH"
+  ],
+  "available": 0,
+  "image": "images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c.webp",
+  "rating": "5.5"
+}

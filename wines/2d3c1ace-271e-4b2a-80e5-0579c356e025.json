@@ -1,0 +1,30 @@
+{
+  "id": "2d3c1ace-271e-4b2a-80e5-0579c356e025",
+  "name": "La Biancara Sassaia 2019",
+  "producer": {
+    "id": "b896c5d5-53f9-4a09-864f-3cf25810c9ad",
+    "name": "La Biancara"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "653 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2d/3c1ace-271e-4b2a-80e5-0579c356e025/2022-08-14-11-30-09-D013AC0E-B17E-470F-BE64-49C235C42A4E-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "43c2c852-f191-4755-b648-7791aacc9fce",
+  "name": "San Leonardo Vette 2019",
+  "producer": {
+    "id": "d9bdc982-8002-4ac7-be0b-c3c5eb0337a9",
+    "name": "San Leonardo"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "760 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp",
+  "rating": "7.5"
+}

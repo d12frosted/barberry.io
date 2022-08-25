@@ -1,0 +1,30 @@
+{
+  "id": "d80bf3be-6a53-45ae-97d9-11bb03df727b",
+  "name": "Viña Tondonia Blanco Viña Gravonia Crianza 2013",
+  "producer": {
+    "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
+    "name": "Viña Tondonia"
+  },
+  "vintage": "2013",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.5",
+  "prices": [
+    "890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp",
+  "rating": "8.0"
+}

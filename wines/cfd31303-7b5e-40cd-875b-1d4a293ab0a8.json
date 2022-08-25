@@ -1,0 +1,38 @@
+{
+  "id": "cfd31303-7b5e-40cd-875b-1d4a293ab0a8",
+  "name": "Marto Crazy Crazy 2020",
+  "producer": {
+    "id": "547556c5-86ba-4b9e-a7f9-7776e6963cfc",
+    "name": "Marto"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    },
+    {
+      "id": "3e5e800d-b3b2-4efd-a631-eb0ecfe6f06a",
+      "name": "Würzer"
+    },
+    {
+      "id": "c745dd31-f711-4953-bec5-fa9eddb86e5d",
+      "name": "Huxelrebe"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "0",
+  "prices": [
+    "760 UAH"
+  ],
+  "available": 0,
+  "image": "images/cf/d31303-7b5e-40cd-875b-1d4a293ab0a8/2022-07-16-09-33-07-681B33E0-E5EF-476B-B850-2A828E587CED-1-105-c.webp",
+  "rating": "7.0"
+}

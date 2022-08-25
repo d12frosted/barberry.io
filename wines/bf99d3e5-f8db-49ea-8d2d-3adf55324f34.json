@@ -1,0 +1,30 @@
+{
+  "id": "bf99d3e5-f8db-49ea-8d2d-3adf55324f34",
+  "name": "Bret Brothers Macon-Villages Cuvee Ephemere 2017",
+  "producer": {
+    "id": "4eb32a6f-ea37-4f9a-a470-d062d4465b67",
+    "name": "Bret Brothers"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.6",
+  "prices": [
+    "630 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c.webp",
+  "rating": "8.0"
+}

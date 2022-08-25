@@ -1,0 +1,30 @@
+{
+  "id": "4b64ac23-a856-4589-bfa2-ea6d06348f5c",
+  "name": "Pierre Frick Gewurztraminer Grand Cru Steinert Macération Pur Vin 2017",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.6",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp",
+  "rating": "7.75"
+}

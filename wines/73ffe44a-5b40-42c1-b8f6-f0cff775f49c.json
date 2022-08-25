@@ -1,0 +1,31 @@
+{
+  "id": "73ffe44a-5b40-42c1-b8f6-f0cff775f49c",
+  "name": "Golan Heights Winery Chardonnay Yarden 2019",
+  "producer": {
+    "id": "6af33cac-4d40-4a63-9799-597578b5cb1c",
+    "name": "Golan Heights Winery"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "88c84102-40e4-4870-9905-1b3c8c4652f9",
+    "name": "Israel"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3.6",
+  "prices": [
+    "488 UAH",
+    "531 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp",
+  "rating": "7.75"
+}
