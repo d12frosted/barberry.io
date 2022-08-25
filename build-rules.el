@@ -885,7 +885,8 @@ Basically, keep only public notes."
           (json-encode
            (list
             :id (vulpea-note-id note)
-            :name (vulpea-note-title note)
+            :name (vulpea-note-meta-get note "name")
+            :full-name (vulpea-note-title note)
             :producer (list :id (vulpea-note-id producer)
                             :name (vulpea-note-title producer))
             :vintage vintage
