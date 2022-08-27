@@ -49,6 +49,10 @@ Expressive and slightly reductive bouquet. Honey, pear, mandarin, peach. Good ac
 
 I like how this bottle develops. Less reductive, more round and delicious. Dried herbs, honey, mandarin, orange peel peach, and yellow apple. I would love to taste it in a few years.
 
+*** 2022-08-26 - ☆ 7.50
+
+More reductive than the previous bottle. Zibibbo-driven bouquet: yellow apple, dried herbs, not very fresh water, and honey. It is well balanced but IMO lacks freshness.
+
 ** Related
 
 #+begin_export html
@@ -155,16 +159,40 @@ I like how this bottle develops. Less reductive, more round and delicious. Dried
     <section class="h text-bolder">Perfect Day - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bcf84367-38ec-4954-87d8-32b3a541d067.html">
+  <a class="flex-item flex-item-right" href="/wines/ad471dc4-21f7-401b-9337-44dd53442098.html">
+    <img class="flex-bottle" src="/images/ad/471dc4-21f7-401b-9337-44dd53442098/2022-08-27-12-35-48-photo-2022-08-27 12.35.40.webp"></img>
+    <section class="h text-small text-lighter">Valentino Butussi</section>
+    <section class="h text-bolder">Cabernet Franc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bcf84367-38ec-4954-87d8-32b3a541d067.html">
     <img class="flex-bottle" src="/images/bc/f84367-38ec-4954-87d8-32b3a541d067/2022-08-14-12-06-47-573A0B75-7A85-473D-B2B7-1C0E38B824A7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Weinbau Wenzel</section>
     <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
+  <a class="flex-item flex-item-right" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
     <img class="flex-bottle" src="/images/e2/282dba-1045-49a9-a806-631f570e0f0d/2022-08-12-11-50-44-IMG-1437.webp"></img>
     <section class="h text-small text-lighter">Ochota barrels</section>
     <section class="h text-bolder">the price of silence gamay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
+    <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000.webp"></img>
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
+    <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vignaverde - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h text-small text-lighter">COS</section>
+    <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
 </div>

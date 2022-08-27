@@ -73,19 +73,25 @@ This wine impressed me when I tasted it for the first time a year ago. So I was 
     <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+  <a class="flex-item flex-item-left" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
+    <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vignaverde - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Marco de Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">
+  <a class="flex-item flex-item-left" href="/wines/00b11947-5699-4382-95bb-bd7d1e0d51f5.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Jean Grivot</section>
     <section class="h text-bolder">Bourgougne Pinot Noir - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
+  <a class="flex-item flex-item-right" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
     <img class="flex-bottle" src="/images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1.webp"></img>
     <section class="h text-small text-lighter">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2019</section>

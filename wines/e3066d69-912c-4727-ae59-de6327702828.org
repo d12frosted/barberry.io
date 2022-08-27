@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 0
 - Price :: 1127 UAH, 1040 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -35,6 +35,10 @@ See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
 
 More simple and friendly than Bullswamp, but still very attractive. Bouquet full of yellow stone fruits, yellow apple, melon, apple flowers and hints of nuts. Fresh and evolving palate that starts with apple hints and transforms into bakery and nuts. The taste is more interesting than aroma with long and pleasant aftertaste. Neat.
 
+*** 2022-08-26 - ☆ 8.25
+
+Great! Attractive bouquet: stone fruits, citrus, bread, apple, white flowers and wet stone. Fresh, precise and deliciously long aftertaste with flavours of apple, lemon and croissant.
+
 ** Related
 
 #+begin_export html
@@ -49,6 +53,30 @@ More simple and friendly than Bullswamp, but still very attractive. Bouquet full
     <img class="flex-bottle" src="/images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Patrick Sullivan</section>
     <section class="h text-bolder">Bullswamp - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ad471dc4-21f7-401b-9337-44dd53442098.html">
+    <img class="flex-bottle" src="/images/ad/471dc4-21f7-401b-9337-44dd53442098/2022-08-27-12-35-48-photo-2022-08-27 12.35.40.webp"></img>
+    <section class="h text-small text-lighter">Valentino Butussi</section>
+    <section class="h text-bolder">Cabernet Franc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
+    <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Marco de Bartoli</section>
+    <section class="h text-bolder">Vignaverde - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h text-small text-lighter">COS</section>
+    <section class="h text-bolder">Frappato - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 
 </div>

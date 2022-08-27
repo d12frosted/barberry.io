@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     91c96a45-1607-4684-956d-ccac83432782
-:END:
 Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Don't believe me? Just take a closer look!
 
 #+begin_quote
@@ -16,15 +13,12 @@ After some time, he gained enough experience, knowledge and confidence to start 
 See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
 
 ** Wines
-:PROPERTIES:
-:ID:                     790bd7f4-9d26-4d4c-8c96-4437b7086e44
-:END:
 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
     <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-small text-lighter">★ 8.12</section>
     <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
   </a>
 

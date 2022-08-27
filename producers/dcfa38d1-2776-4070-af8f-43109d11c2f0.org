@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ad471dc4-21f7-401b-9337-44dd53442098.html">
+    <img class="flex-bottle" src="/images/ad/471dc4-21f7-401b-9337-44dd53442098/2022-08-27-12-35-48-photo-2022-08-27 12.35.40.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Cabernet Franc - 2018</section>
+  </a>
+
+</div>
+#+end_export
