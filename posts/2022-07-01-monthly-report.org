@@ -50,7 +50,7 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 |--------------+-------+--------------+-------+--------|
 | France       |    17 | 953.83 UAH   |  7.76 | 2.4275 |
 | Spain        |     9 | 652.07 UAH   |  7.46 | 3.1905 |
-| Italy        |     8 | 605.53 UAH   |  7.46 | 3.2337 |
+| Italy        |     8 | 602.60 UAH   |  7.46 | 3.2484 |
 | South Africa |     8 | 972.88 UAH   |  7.90 | 3.0287 |
 | Australia    |     4 | 638.75 UAH   |  7.02 | 2.2402 |
 | New Zealand  |     3 | 547.26 UAH   |  6.99 | 2.2701 |
@@ -86,7 +86,7 @@ On the other hand, I've tasted several older bottles. The oldest of them is [[ba
 |---------+-------+--------------+-------+--------|
 |    2021 |     5 | 389.00 UAH   |  6.99 | 3.8935 |
 |    2020 |    11 | 783.57 UAH   |  7.55 | 2.5888 |
-|    2019 |    14 | 690.45 UAH   |  7.59 | 3.1008 |
+|    2019 |    14 | 688.77 UAH   |  7.59 | 3.1096 |
 |    2018 |     5 | 804.32 UAH   |  7.85 | 2.7552 |
 |    2017 |     7 | 809.71 UAH   |  7.48 | 2.4656 |
 |    2016 |     3 | 763.00 UAH   |  7.04 | 1.6808 |
@@ -156,7 +156,7 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 | Riesling                     |     1 | 310.00 UAH   |  7.30 | 4.6340 |
 | Trebbiano                    |     1 | 222.00 UAH   |  6.50 | 3.7320 |
 | Passerina                    |     1 | 222.00 UAH   |  6.50 | 3.7320 |
-| Refosco dal Peduncolo Rosso  |     1 | 565.00 UAH   |  7.50 | 2.9356 |
+| Refosco dal Peduncolo Rosso  |     1 | 541.53 UAH   |  7.50 | 3.0628 |
 
 #+name: grapes-data
 #+begin_src elisp :exports results
@@ -245,7 +245,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-27 | Australia    | [[barberry:/producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2][Jacob's Creek]]                  | [[barberry:/wines/1b9610bc-f390-46f5-989f-da6771f01eef][Jacob's Creek Classic Chardonnay 2017]]                                      |    2017 | 7.20 | 3.3453 |
 | 2022-06-28 | Italy        | [[barberry:/producers/0ff20e4a-b84c-48dc-b592-5d7619ba7f28][Illuminati]]                     | [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Illuminati Costalupo 2021]]                                                  |    2021 | 6.50 | 3.7320 |
 | 2022-06-28 | Australia    | [[barberry:/producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2][Jacob's Creek]]                  | [[barberry:/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b][Jacob's Creek Classic Cabernet Sauvignon 2016]]                              |    2016 | 6.00 | 1.5000 |
-| 2022-06-29 | Italy        | [[barberry:/producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2][Borgo Conventi]]                 | [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Borgo Conventi Refosco dal Peduncolo Rosso 2019]]                            |    2019 | 7.50 | 2.9356 |
+| 2022-06-29 | Italy        | [[barberry:/producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2][Borgo Conventi]]                 | [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Borgo Conventi Refosco dal Peduncolo Rosso 2019]]                            |    2019 | 7.50 | 3.0628 |
 | 2022-06-29 | South Africa | [[barberry:/producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53][Crystallum]]                     | [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Crystallum Peter Max Pinot Noir 2018]]                                       |    2018 | 8.25 | 3.4385 |
 | 2022-06-30 | France       | [[barberry:/producers/97bee62d-6e14-4f79-a95d-37893c50a84e][Marc Hebrart]]                   | [[barberry:/wines/bef62097-f916-4554-a591-42c380412d7b][Marc Hebrart Premier Cru Blanc de Blancs]]                                   |      NV | 8.00 | 1.9098 |
 

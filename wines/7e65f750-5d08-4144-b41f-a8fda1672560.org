@@ -21,31 +21,37 @@ I wanted something easy-going to be a background for a pleasant conversation, an
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
+  <a class="flex-item flex-item-left" href="/wines/71e50fde-98ae-4aa7-92fa-77dd2e6a6383.html">
+    <img class="flex-bottle" src="/images/71/e50fde-98ae-4aa7-92fa-77dd2e6a6383/2022-08-29-16-52-44-0AF634D1-2852-48F9-BB75-FF01F92C85BA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">An 1618 Picpoul de Pinet - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
     <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">An 825 Crémant de Limoux Brut - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
+  <a class="flex-item flex-item-left" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
     <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+  <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
     <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
     <section class="h text-small text-lighter">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+  <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
     <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
     <section class="h text-small text-lighter">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
+  <a class="flex-item flex-item-right" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
     <img class="flex-bottle" src="/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Villa Clara</section>
     <section class="h text-bolder">Cava Brut - NV</section>

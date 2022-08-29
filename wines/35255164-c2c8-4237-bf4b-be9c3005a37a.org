@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/aed0fb5b-1db0-4897-b28b-fd39b2bded97][Lyme Bay]]
+- Vintage :: 2018
+- Location :: England, Devon
+- Grapes :: Bacchus
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 819 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
+    <img class="flex-bottle" src="/images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp"></img>
+    <section class="h text-small text-lighter">Lyme Bay</section>
+    <section class="h text-bolder">Bacchus - 2020</section>
+  </a>
+
+</div>
+#+end_export

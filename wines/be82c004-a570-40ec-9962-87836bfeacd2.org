@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/be/82c004-a570-40ec-9962-87836bfeacd2/2022-08-29-17-01-01-FA938315-D1DD-43B4-9119-2B10C5A9F7B8-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]
+- Vintage :: 2018
+- Location :: Germany, Landwein Oberrhein
+- Grapes :: Pinot Noir
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 1682 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1a73439a-6bbe-4621-a76f-567b9d436876.html">
+    <img class="flex-bottle" src="/images/1a/73439a-6bbe-4621-a76f-567b9d436876/2022-08-29-16-59-05-03EE99A4-572E-48BC-808F-D772DF37FC32-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Tomislav Marković</section>
+    <section class="h text-bolder">Quo Vadis - 2019</section>
+  </a>
+
+</div>
+#+end_export

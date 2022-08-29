@@ -1,0 +1,31 @@
+{
+  "id": "d840815b-ea70-4b31-913d-7e447d89a2bd",
+  "name": "Effusíon",
+  "full-name": "Domaine Patrick Baudouin Effusíon 2019",
+  "producer": {
+    "id": "fb17990c-6efd-4fab-afe7-72c1d40817a7",
+    "name": "Domaine Patrick Baudouin"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "699 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d8/40815b-ea70-4b31-913d-7e447d89a2bd/2022-08-29-20-52-18-IMG-1868.webp",
+  "rating": "NA"
+}

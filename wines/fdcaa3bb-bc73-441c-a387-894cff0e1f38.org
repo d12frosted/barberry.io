@@ -25,13 +25,19 @@ Drink now, or store for few years to come. Tannin is still firm and rough, but w
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
+  <a class="flex-item flex-item-left" href="/wines/71e50fde-98ae-4aa7-92fa-77dd2e6a6383.html">
+    <img class="flex-bottle" src="/images/71/e50fde-98ae-4aa7-92fa-77dd2e6a6383/2022-08-29-16-52-44-0AF634D1-2852-48F9-BB75-FF01F92C85BA-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h text-bolder">An 1618 Picpoul de Pinet - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
     <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
+  <a class="flex-item flex-item-left" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
     <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Gérard Bertrand</section>
     <section class="h text-bolder">An 825 Crémant de Limoux Brut - 2019</section>
