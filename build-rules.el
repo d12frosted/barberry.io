@@ -174,7 +174,7 @@ HARD-DEPS. But in this case these are functions on
              (publish (or (vulpea-note-meta-get note "publish") "false"))
              (hide (or (vulpea-note-meta-get note "hide") "false"))
 
-             (meta (if (functionp metadata) (funcall metadata item) metadata))
+             (meta (if (functionp metadata) (funcall metadata item items) metadata))
              (meta (-concat (list "publish" publish
                                   "hide" hide
                                   "title" (vulpea-note-title note))
@@ -837,7 +837,7 @@ Basically, keep only public notes."
    (brb-make-publish
     :copy-fn #'brb-build-wine
     :metadata
-    (lambda (item)
+    (lambda (item _items)
       (let* ((note (porg-item-item item))
              (rating (vulpea-note-meta-get note "rating"))
              (rating (unless (string-equal rating "NA") (string-to-number rating))))
@@ -923,21 +923,22 @@ Basically, keep only public notes."
    :build
    (brb-make-publish
     :copy-fn #'brb-build-producer
-    :metadata (lambda (item)
-                (when-let* ((note (porg-item-item item))
-                            (meta-file (concat (porg-item-target-abs item) ".metadata"))
-                            (publish (vulpea-note-meta-get note "publish"))
-                            (publish (string-equal publish "true")))
-                  (vulpea-utils-with-note note
-                    (let ((date (vulpea-buffer-prop-get "date"))
-                          (language (vulpea-buffer-prop-get "language"))
-                          (tags (vulpea-buffer-prop-get-list "tags")))
-                      (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
-                      (unless language (user-error "Producer '%s' is missing language" (vulpea-note-title note)))
-                      (list
-                       "date" (org-read-date nil nil date)
-                       "language" language
-                       "tags" (string-join (-distinct (-concat '("producer") tags)) ", ")))))))
+    :metadata
+    (lambda (item _items)
+      (when-let* ((note (porg-item-item item))
+                  (meta-file (concat (porg-item-target-abs item) ".metadata"))
+                  (publish (vulpea-note-meta-get note "publish"))
+                  (publish (string-equal publish "true")))
+        (vulpea-utils-with-note note
+          (let ((date (vulpea-buffer-prop-get "date"))
+                (language (vulpea-buffer-prop-get "language"))
+                (tags (vulpea-buffer-prop-get-list "tags")))
+            (unless date (user-error "Post '%s' is missing date" (vulpea-note-title note)))
+            (unless language (user-error "Producer '%s' is missing language" (vulpea-note-title note)))
+            (list
+             "date" (org-read-date nil nil date)
+             "language" language
+             "tags" (string-join (-distinct (-concat '("producer") tags)) ", ")))))))
    :clean #'brb-delete)
 
   (porg-compiler
@@ -949,7 +950,7 @@ Basically, keep only public notes."
    (brb-make-publish
     :copy-fn #'brb-build-post
     :metadata
-    (lambda (item)
+    (lambda (item items)
       (let ((note (porg-item-item item)))
         (vulpea-utils-with-note note
           (let ((date (vulpea-buffer-prop-get "date"))
@@ -966,11 +967,17 @@ Basically, keep only public notes."
                    "language" language
                    "author" author)
              (when image
-               (list "image"
-                     (concat
-                      (file-name-as-directory
-                       (concat "images/" (file-name-base (porg-item-target-rel item))))
-                      (file-name-fix-attachment image "jpeg"))))
+               (let ((image-item (gethash (concat (vulpea-note-id note)
+                                                  ":"
+                                                  (file-name-fix-attachment
+                                                   (s-chop-prefix "attachment:" image)
+                                                   "webp"))
+                                          items)))
+                 (list "image" (porg-item-target-rel image-item)
+                       "image-width" (shell-command-to-string
+                                      (format "identify -format '%%w' '%s'" (porg-item-target-abs image-item)))
+                       "image-height" (shell-command-to-string
+                                       (format "identify -format '%%h' '%s'" (porg-item-target-abs image-item))))))
              (when description
                (list "description" description))
              (when tags

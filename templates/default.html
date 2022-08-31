@@ -12,11 +12,13 @@
     <meta property="og:description" content="$if(description)$$description$$else$$title$$endif$" />
     $if(image)$
     <meta property="og:image" content="https://barberry.io/$image$" />
-    $else$
+    <meta property="og:image:width" content="$image-width$">
+    <meta property="og:image:height" content="$image-height$">
+    $else$$if(index-page)$
     <meta property="og:image" content="https://barberry.io/images/vino-logo.png" />
     <meta property="og:image:width" content="1024">
     <meta property="og:image:height" content="1024">
-    $endif$
+    $endif$$endif$
     <meta property="og:url" content="https://barberry.io$url$" />
     <meta property="og:type" content="article" />
 
