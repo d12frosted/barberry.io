@@ -116,8 +116,7 @@ HARD-DEPS. But in this case these are functions on
                              :file (funcall file note)
                              :soft-deps (when soft-deps (funcall soft-deps note))
                              :hard-deps (when hard-deps (funcall hard-deps note)))))
-      (-concat (list note-output)
-               (porg-attachments-output
+      (-concat (porg-attachments-output
                 note
                 :dir (if attach-dir
                          (funcall attach-dir note-output)
@@ -127,7 +126,8 @@ HARD-DEPS. But in this case these are functions on
                 :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
                 :filter (or attach-filter #'brb-supported-image-p))
                (when outputs-extra
-                 (funcall outputs-extra note-output))))))
+                 (funcall outputs-extra note-output))
+               (list note-output)))))
 
 (cl-defun brb-make-publish (&key copy-fn metadata)
   "Create public function with COPY-FN and METADATA."
