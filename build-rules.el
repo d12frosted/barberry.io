@@ -124,7 +124,7 @@ HARD-DEPS. But in this case these are functions on
                        (let ((name (directory-from-uuid
                                     (file-name-base (porg-rule-output-file note-output)))))
                          (concat "images/" name)))
-                :file-mod #'file-name-fix-attachment
+                :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
                 :filter (or attach-filter #'brb-supported-image-p))
                (when outputs-extra
                  (funcall outputs-extra note-output))))))
@@ -149,7 +149,7 @@ HARD-DEPS. But in this case these are functions on
          :sanitize-attachment-fn
          (lambda (link)
            (let* ((path (org-ml-get-property :path link))
-                  (path (file-name-fix-attachment path))
+                  (path (file-name-fix-attachment path "webp"))
                   (dir (directory-from-uuid (file-name-base target))))
              (->> link
                   (org-ml-set-property :path (format "/images/%s/%s" dir path))
@@ -320,7 +320,10 @@ Access to full ITEMS for related wines."
                  (id (vulpea-note-id note))
                  (img (vulpea-note-meta-get note "images" 'link))
                  (img-item (when img
-                             (gethash (concat id ":" (s-chop-prefix "attachment:" img)) items)))
+                             (gethash (concat id ":" (file-name-fix-attachment
+                                                      (s-chop-prefix "attachment:" img)
+                                                      "webp"))
+                                      items)))
                  (producer (vulpea-note-meta-get note "producer" 'note))
                  (name (vulpea-note-meta-get note "name"))
                  (vintage (or (vulpea-note-meta-get note "vintage") "NV"))
@@ -388,7 +391,10 @@ Access to full ITEMS for related wines."
               (let* ((id (vulpea-note-id it))
                      (img (vulpea-note-meta-get it "images" 'link))
                      (img-item (when img
-                                 (gethash (concat id ":" (s-chop-prefix "attachment:" img)) items)))
+                                 (gethash (concat id ":" (file-name-fix-attachment
+                                                          (s-chop-prefix "attachment:" img)
+                                                          "webp"))
+                                          items)))
                      (name (vulpea-note-meta-get it "name"))
                      (vintage (or (vulpea-note-meta-get it "vintage") "NV"))
                      (pos (if (= (mod it-index 2) 0)
@@ -613,11 +619,9 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 
 
 
-(defun file-name-fix-attachment (file-name)
-  "Fix attachment FILE-NAME."
-  (let* ((ext-old (file-name-extension file-name))
-         ;; (ext-new (s-downcase (if (string-equal ext-old "heic") "jpeg" ext-old)))
-         (ext-new "webp"))
+(defun file-name-fix-attachment (file-name ext-new)
+  "Fix attachment FILE-NAME with EXT-NEW."
+  (let ((ext-old (file-name-extension file-name)))
     (concat (s-replace "_" "-" (s-chop-suffix ext-old file-name)) ext-new)))
 
 (defun directory-from-uuid (uuid)
@@ -730,7 +734,7 @@ Basically, keep only public notes."
                          producer
                          :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
                                 (concat "images/" name))
-                         :file-mod #'file-name-fix-attachment
+                         :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
                          :filter #'brb-supported-image-p
                          :owner note)
                         (-flatten
@@ -739,7 +743,7 @@ Basically, keep only public notes."
                            it
                            :dir (let ((name (directory-from-uuid (file-name-base (porg-rule-output-file output)))))
                                   (concat "images/" name))
-                           :file-mod #'file-name-fix-attachment
+                           :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
                            :filter #'brb-supported-image-p
                            :owner note)
                           ratings))
@@ -877,6 +881,7 @@ Basically, keep only public notes."
             (images (vulpea-note-meta-get-list note "images" 'link))
             (image (when images (car images)))
             (image (when image (s-chop-prefix "attachment:" image)))
+            (image (when image (file-name-fix-attachment image "webp")))
             (image (when image (gethash (concat (vulpea-note-id note) ":" image) items)))
             (json-encoding-pretty-print t))
        (with-current-buffer (find-file-noselect (porg-item-target-abs item))
@@ -965,7 +970,7 @@ Basically, keep only public notes."
                      (concat
                       (file-name-as-directory
                        (concat "images/" (file-name-base (porg-item-target-rel item))))
-                      (file-name-fix-attachment image))))
+                      (file-name-fix-attachment image "jpeg"))))
              (when description
                (list "description" description))
              (when tags

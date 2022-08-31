@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:                     bacc8cf1-886f-4be0-b43d-8cea8893b416
-:END:
 This site is still in active development, but over the last two weeks, many things were implemented. So I thought it would be nice to emphasize some of the delivered goodies. And know that I would gladly hear your opinion on each and every aspect, so share your feedback!
 
 Let's start with visual stuff. And the most apparent change in this regard is the set of used fonts. While in Emacs, I use [[https://github.com/adobe-fonts/source-code-pro][Source Code Pro]] exclusively, it’s not that good for reading texts. So instead, this site is using a combination of 3 fonts - [[https://fonts.google.com/specimen/Cormorant+Garamond?query=Cormorant+Garamond][Cormorant Garamond]] as the main serif font, [[https://fonts.google.com/specimen/Alegreya+Sans?query=Alegreya+Sans][Alegreya Sans]] as sans-serif for headers and alike, and [[https://github.com/adobe-fonts/source-code-pro][Source Code Pro]] for code sections (which are not popular here).
