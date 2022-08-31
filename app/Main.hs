@@ -146,6 +146,7 @@ main = hakyll $ do
             listField "posts" postCtx (return posts)
               <> field "intro" (const . return . itemBody $ intro)
               <> field "latest-reviews" (const . return . itemBody $ reviews)
+              <> constField "index-page" "true"
               <> defaultContext
 
       getResourceBody
