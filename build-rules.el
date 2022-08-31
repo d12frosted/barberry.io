@@ -971,7 +971,7 @@ Basically, keep only public notes."
                                                   ":"
                                                   (file-name-fix-attachment
                                                    (s-chop-prefix "attachment:" image)
-                                                   "webp"))
+                                                   "jpeg"))
                                           items)))
                  (list "image" (porg-item-target-rel image-item)
                        "image-width" (shell-command-to-string
