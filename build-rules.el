@@ -975,9 +975,11 @@ Basically, keep only public notes."
                                           items)))
                  (list "image" (porg-item-target-rel image-item)
                        "image-width" (shell-command-to-string
-                                      (format "identify -format '%%w' '%s'" (porg-item-target-abs image-item)))
+                                         (format "identify -format '%%w' '%s'"
+                                                 (porg-item-target-abs image-item)))
                        "image-height" (shell-command-to-string
-                                       (format "identify -format '%%h' '%s'" (porg-item-target-abs image-item))))))
+                                          (format "identify -format '%%h' '%s'"
+                                                  (porg-item-target-abs image-item))))))
              (when description
                (list "description" description))
              (when tags

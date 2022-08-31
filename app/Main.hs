@@ -162,6 +162,8 @@ postCtx :: Context String
 postCtx =
   dateField "date" "%B %e, %Y"
     <> modificationDateField "update" "%B %e, %Y"
+    <> dateField "date-iso" "%F"
+    <> modificationDateField "update-iso" "%F"
     <> defaultContext
 
 wineCtx :: Context String
@@ -171,6 +173,8 @@ producerCtx :: Context String
 producerCtx =
   dateField "date" "%B %e, %Y"
     <> modificationDateField "update" "%B %e, %Y"
+    <> dateField "date-iso" "%F"
+    <> modificationDateField "update-iso" "%F"
     <> defaultContext
 
 --------------------------------------------------------------------------------

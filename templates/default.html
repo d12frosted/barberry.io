@@ -8,6 +8,7 @@
     <title>$if(index-page)$Barberry Garden$else$$title$ | Barberry Garden$endif$</title>
     <meta name="description" content="$if(description)$$description$$else$$title$$endif$">
 
+    <meta property="og:site_name" content="Barberry Garden">
     <meta property="og:title" content="$if(index-page)$Barberry Garden$else$$title$ | Barberry Garden$endif$" />
     <meta property="og:description" content="$if(description)$$description$$else$$title$$endif$" />
     $if(image)$
@@ -20,7 +21,16 @@
     <meta property="og:image:height" content="1024">
     $endif$$endif$
     <meta property="og:url" content="https://barberry.io$url$" />
+    <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="article" />
+    $if(date-iso)$
+    <meta property="article:published_time" content="$date-iso$">
+    $endif$
+    $if(update-iso)$
+    <meta property="article:modified_time" content="$update-iso$">
+    $endif$
+    <meta property="article:author:first_name" content="Boris">
+    <meta property="article:author:last_name" content="Buliga">
 
     <link rel="stylesheet" href="/css/default.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
