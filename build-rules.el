@@ -163,6 +163,8 @@ HARD-DEPS. But in this case these are functions on
 
              (hash-b (porg-sha1sum (porg-item-target-abs item)))
 
+             (meta (if (functionp metadata) (funcall metadata item items) metadata))
+
              (update (when (file-exists-p meta-file)
                        (with-current-buffer (find-file-noselect meta-file)
                          (goto-char (point-min))
@@ -171,10 +173,13 @@ HARD-DEPS. But in this case these are functions on
              (update (or (and (string-equal hash-a hash-b) update)
                          (format-time-string "%F")))
 
+             (date (lax-plist-get meta "date"))
+             (update (or (and date (org-time< update date) date)
+                         update))
+
              (publish (or (vulpea-note-meta-get note "publish") "false"))
              (hide (or (vulpea-note-meta-get note "hide") "false"))
 
-             (meta (if (functionp metadata) (funcall metadata item items) metadata))
              (meta (-concat (list "publish" publish
                                   "hide" hide
                                   "title" (vulpea-note-title note))
