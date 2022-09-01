@@ -863,20 +863,17 @@ Basically, keep only public notes."
                "grapes" (mapconcat
                          #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
          (when rating (list "rating" (format "%.2f" rating)))
-         (when image
-           (let ((image-item (gethash (concat (vulpea-note-id note)
-                                              ":"
-                                              (file-name-fix-attachment
-                                               (s-chop-prefix "attachment:" image)
-                                               "jpeg"))
-                                      items)))
-             (list "image" (porg-item-target-rel image-item)
+         (if image
+             (list "image" (porg-item-target-rel image)
                    "image-width" (shell-command-to-string
                                   (format "identify -format '%%w' '%s'"
-                                          (porg-item-target-abs image-item)))
+                                          (porg-item-target-abs image)))
                    "image-height" (shell-command-to-string
                                    (format "identify -format '%%h' '%s'"
-                                           (porg-item-target-abs image-item))))))))))
+                                           (porg-item-target-abs image))))
+           (list "image" "images/unknown-wine.jpeg"
+                   "image-width" "960"
+                   "image-height" "1280"))))))
    :clean #'brb-delete)
 
   (porg-compiler
