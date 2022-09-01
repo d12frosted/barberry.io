@@ -849,7 +849,7 @@ Basically, keep only public notes."
              (images (vulpea-note-meta-get-list note "images" 'link))
              (image (when images (car images)))
              (image (when image (s-chop-prefix "attachment:" image)))
-             (image (when image (file-name-fix-attachment image "webp")))
+             (image (when image (file-name-fix-attachment image "jpeg")))
              (image (when image (gethash (concat (vulpea-note-id note) ":" image) items))))
         (-concat
          (list "producer" (vulpea-note-meta-get note "producer" 'note)
