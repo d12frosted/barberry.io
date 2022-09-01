@@ -842,11 +842,15 @@ Basically, keep only public notes."
    (brb-make-publish
     :copy-fn #'brb-build-wine
     :metadata
-    (lambda (item _items)
+    (lambda (item items)
       (let* ((note (porg-item-item item))
              (rating (vulpea-note-meta-get note "rating"))
-             (rating (unless (string-equal rating "NA") (string-to-number rating))))
-
+             (rating (unless (string-equal rating "NA") (string-to-number rating)))
+             (images (vulpea-note-meta-get-list note "images" 'link))
+             (image (when images (car images)))
+             (image (when image (s-chop-prefix "attachment:" image)))
+             (image (when image (file-name-fix-attachment image "webp")))
+             (image (when image (gethash (concat (vulpea-note-id note) ":" image) items))))
         (-concat
          (list "producer" (vulpea-note-meta-get note "producer" 'note)
                "name" (vulpea-note-meta-get note "name")
@@ -858,7 +862,21 @@ Basically, keep only public notes."
                           'note)
                "grapes" (mapconcat
                          #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
-         (when rating (list "rating" (format "%.2f" rating)))))))
+         (when rating (list "rating" (format "%.2f" rating)))
+         (when image
+           (let ((image-item (gethash (concat (vulpea-note-id note)
+                                              ":"
+                                              (file-name-fix-attachment
+                                               (s-chop-prefix "attachment:" image)
+                                               "jpeg"))
+                                      items)))
+             (list "image" (porg-item-target-rel image-item)
+                   "image-width" (shell-command-to-string
+                                  (format "identify -format '%%w' '%s'"
+                                          (porg-item-target-abs image-item)))
+                   "image-height" (shell-command-to-string
+                                   (format "identify -format '%%h' '%s'"
+                                           (porg-item-target-abs image-item))))))))))
    :clean #'brb-delete)
 
   (porg-compiler

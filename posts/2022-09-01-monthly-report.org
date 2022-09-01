@@ -334,8 +334,8 @@ Besides novelties, I am happy to see some other rather rare grapes. Like Ruchè,
 | 2022-08-27 | Italy        | [[barberry:/producers/df91d97f-23f5-42dc-8fbd-eed5efcd72b4][Bava]]                               | [[barberry:/wines/e5ee19b5-c687-49fd-8e11-0878288cd5a5][Bava Ruché 2019]]                    |    2019 | 7.40 | 1.9411 |
 | 2022-08-27 | Germany      | [[barberry:/producers/95146412-bfcf-4724-8c50-a4d0ea63fc5a][Tiefgang]]                           | [[barberry:/wines/ee26dcf2-0035-4077-a13e-04f2b61a1ec3][Tiefgang Kalkstein Spätburgunder Trocken 2017]] |    2017 | 7.00 | 3.4722 |
 | 2022-08-28 | Spain        | [[barberry:/producers/f918c836-e7f1-4d27-a7d6-707cd508dffe][Hoya de Cadenas]]                    | [[barberry:/wines/72663116-30b6-46b7-b74f-73483f66e1cc][Hoya de Cadenas Cava Brut Rosé]]     |      NV | 7.00 | 5.1016 |
-| 2022-08-29 | France       | [[barberry:/producers/fb17990c-6efd-4fab-afe7-72c1d40817a7][Domaine Patrick Baudouin]]           | [[barberry:/wines/d840815b-ea70-4b31-913d-7e447d89a2bd][Domaine Patrick Baudouin Effusíon 2019]] |    2019 | 7.50 | 2.3728 |
 | 2022-08-29 | France       | [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]                    | [[barberry:/wines/71e50fde-98ae-4aa7-92fa-77dd2e6a6383][Gérard Bertrand An 1618 Picpoul de Pinet 2019]] |    2019 | 7.00 | 2.9152 |
+| 2022-08-30 | France       | [[barberry:/producers/fb17990c-6efd-4fab-afe7-72c1d40817a7][Domaine Patrick Baudouin]]           | [[barberry:/wines/d840815b-ea70-4b31-913d-7e447d89a2bd][Domaine Patrick Baudouin Effusíon 2019]] |    2019 | 7.50 | 2.3728 |
 
 #+name: ratings-data
 #+begin_src elisp :exports results
