@@ -1,68 +1,90 @@
 #+attr_html: :class wine-main-image
-[[file:/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c.webp]]
+[[file:/images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c.webp]]
 
-- Type :: White Still, Dry
-- Producer :: [[barberry:/producers/29f7257e-733a-4cd0-bef1-7a2bdbe51ed3][Bott Frigyes]]
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee][Bencze]]
 - Vintage :: 2019
-- Location :: Slovakia, Južnoslovenská vinohradnícka oblasť
-- Grapes :: Juhfark
-- Alcohol :: 13
+- Location :: Hungary, Balatonfelvidék OFJ
+- Grapes :: Pinot Noir
+- Alcohol :: 12.5
 - Sugar :: NA
-- Price :: 795 UAH
+- Price :: 840 UAH
 - Cellar :: N/A
 
 ** Ratings
 
-*** 2022-09-02 - ☆ 7.50
+*** 2022-09-02 - ☆ 7.00
 
-Juhfark from Slovakia! Two novelties in one bottle. It spent a week on skins. Fermentation and ageing for 8 months in Hungarian oak. Result? It speaks in pebbles and mountain rivers. Oh, and boiled lemons (there is nothing bad about boiling lemons, right?). Salty in the taste. And the aftertaste is long and evolving. Juicy and delicious.
-
-Wine #2 on volcanic wines tasting by Oleksandr Meier.
+I clearly don't understand this style. It's like learning about bitter herbs (like thyme, rosemary, and wormwood) for the first time and using them every-bloody-where with all the zeal of a person touched by the bliss of discovery. Add some cranberries, sweat (don't want to know whose sweat it is) and other VA stuff. Ok, it has some flowers as well as more fruits. Light body, high acidity, lack of balance. And despite these numerous descriptors, it feels rather simple.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
+  <a class="flex-item flex-item-left" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
+    <img class="flex-bottle" src="/images/60/eb654c-b828-4c1f-adde-9ebab8360b5d/2022-08-12-11-47-56-IMG-1431.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Riesling - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+    <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Virgo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fcdd93ba-1a1a-4a9d-967d-c360e0f5a954.html">
+    <img class="flex-bottle" src="/images/fc/dd93ba-1a1a-4a9d-967d-c360e0f5a954/2020-03-30-19-07-55-F980B198-BBF9-43E6-A90A-DB839D14BF9A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Atlas - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
     <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-09-03-15-14-14-E68C1CB7-2DA5-4C01-B78D-2E336C030AEB-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Pinot Noir - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33.html">
+  <a class="flex-item flex-item-left" href="/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33.html">
     <img class="flex-bottle" src="/images/0b/1bf5a6-9132-4046-85e3-fb9889607b33/2022-09-03-09-54-44-BDE5B783-B712-4D40-9AE7-E88A363448E4-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Filippi</section>
     <section class="h text-bolder">Soave Colli Scaligeri Castelcerino - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/227e3ccc-3136-4a0d-ac55-b57f780dff25.html">
+  <a class="flex-item flex-item-right" href="/wines/227e3ccc-3136-4a0d-ac55-b57f780dff25.html">
     <img class="flex-bottle" src="/images/22/7e3ccc-3136-4a0d-ac55-b57f780dff25/2022-09-03-16-22-27-7FE634DC-571C-4E77-92B0-52711C95953B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Wasenhaus</section>
     <section class="h text-bolder">Vulkan - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">
+  <a class="flex-item flex-item-left" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">
     <img class="flex-bottle" src="/images/2a/ec674b-19ba-4cc6-8337-6ca900703aa9/2022-07-26-11-55-59-B05B77CC-963A-4BE0-9F0B-EE0302AE53AD-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaine Sigalas</section>
     <section class="h text-bolder">Santorini - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3171f223-b386-4b4f-9870-ede738f53f7a.html">
+  <a class="flex-item flex-item-right" href="/wines/3171f223-b386-4b4f-9870-ede738f53f7a.html">
     <img class="flex-bottle" src="/images/31/71f223-b386-4b4f-9870-ede738f53f7a/2022-09-03-12-17-02-0BA9D59B-373C-4877-93F9-8282261DF495-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Fercsy - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
+  <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
     <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-03-16-52-05-2F4B9626-C38C-4ACA-9EDC-FDD156DC12A9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Valentina Passalacqua</section>
     <section class="h text-bolder">Sintonia - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
+  <a class="flex-item flex-item-right" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
     <img class="flex-bottle" src="/images/4b/ac6da8-95e1-4c49-bcfc-f7b8e672d543/2022-09-03-15-18-07-C1B3AC4D-ABDF-4A7E-99B6-C5A3AF8FD5A0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
+    <img class="flex-bottle" src="/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bott Frigyes</section>
+    <section class="h text-bolder">Juhfark - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
@@ -77,31 +99,25 @@ Wine #2 on volcanic wines tasting by Oleksandr Meier.
     <section class="h text-bolder">Munjebel VA - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b564a7b1-37b0-48c2-b781-16103bc016c1.html">
-    <img class="flex-bottle" src="/images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bencze</section>
-    <section class="h text-bolder">Atlas - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4.html">
+  <a class="flex-item flex-item-right" href="/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4.html">
     <img class="flex-bottle" src="/images/be/2a9fd4-3b19-4e77-bf63-23e1a04a2ca4/2022-09-03-15-09-46-E04AE10C-7637-41D1-81A8-96D647B28DB9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Csury - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c0acd31a-42df-449b-8667-24de166fe520.html">
+  <a class="flex-item flex-item-left" href="/wines/c0acd31a-42df-449b-8667-24de166fe520.html">
     <img class="flex-bottle" src="/images/c0/acd31a-42df-449b-8667-24de166fe520/2022-09-03-11-48-57-0F6BE269-39B7-4CC3-BB10-DFDD536F7D05-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Resi - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
+  <a class="flex-item flex-item-right" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
     <img class="flex-bottle" src="/images/c1/31fb36-151e-415d-aa76-23f4dff142b7/2022-09-03-15-59-31-IMG-1927.webp"></img>
     <section class="h text-small text-lighter">Marco De Bartoli</section>
     <section class="h text-bolder">Pietra Nera - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
+  <a class="flex-item flex-item-left" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
     <img class="flex-bottle" src="/images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-07-28-07-15-49-DF41BAED-0E2E-4241-994E-57B767C360F1-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Vino de Solera de Listán Blanco - 2013</section>

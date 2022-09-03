@@ -119,28 +119,40 @@ Wine #3 on volcanic wines tasting by Oleksandr Meier.
     <section class="h text-bolder">Fercsy - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
+  <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
+    <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-03-16-52-05-2F4B9626-C38C-4ACA-9EDC-FDD156DC12A9-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Valentina Passalacqua</section>
+    <section class="h text-bolder">Sintonia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
     <img class="flex-bottle" src="/images/4b/ac6da8-95e1-4c49-bcfc-f7b8e672d543/2022-09-03-15-18-07-C1B3AC4D-ABDF-4A7E-99B6-C5A3AF8FD5A0-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
+  <a class="flex-item flex-item-left" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
     <img class="flex-bottle" src="/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bott Frigyes</section>
     <section class="h text-bolder">Juhfark - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
+  <a class="flex-item flex-item-right" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h text-small text-lighter">Antoniolo</section>
     <section class="h text-bolder">Gattinara - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/72499131-58aa-4bdb-8956-38f3fb189c90.html">
+  <a class="flex-item flex-item-left" href="/wines/72499131-58aa-4bdb-8956-38f3fb189c90.html">
     <img class="flex-bottle" src="/images/72/499131-58aa-4bdb-8956-38f3fb189c90/2022-09-03-16-10-54-27FD1C4A-5733-4A26-986B-509718202E9D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Frank Cornelissen</section>
     <section class="h text-bolder">Munjebel VA - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b564a7b1-37b0-48c2-b781-16103bc016c1.html">
+    <img class="flex-bottle" src="/images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Atlas - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4.html">

@@ -27,6 +27,18 @@ Not as crazy as I remember it. Or maybe I become crazier, and my "waterline" mov
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/b564a7b1-37b0-48c2-b781-16103bc016c1.html">
+    <img class="flex-bottle" src="/images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Atlas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fcdd93ba-1a1a-4a9d-967d-c360e0f5a954.html">
+    <img class="flex-bottle" src="/images/fc/dd93ba-1a1a-4a9d-967d-c360e0f5a954/2020-03-30-19-07-55-F980B198-BBF9-43E6-A90A-DB839D14BF9A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h text-bolder">Atlas - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
     <img class="flex-bottle" src="/images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Momento Mori</section>

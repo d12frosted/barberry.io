@@ -1,0 +1,18 @@
+Crazy wine producer from Puglia. Her projects:
+
+- [[barberry:/producers/9577517f-c2d5-4e73-ab30-68ab4619a10e][Calcarius]]
+- Valentina
+- 9 is enough
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
+    <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-03-16-52-05-2F4B9626-C38C-4ACA-9EDC-FDD156DC12A9-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h text-bolder">Sintonia - 2019</section>
+  </a>
+
+</div>
+#+end_export
