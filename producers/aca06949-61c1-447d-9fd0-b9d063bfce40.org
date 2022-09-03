@@ -6,7 +6,7 @@ Wine producer from Gattinara.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-small text-lighter">★ 8.25</section>
     <section class="h text-bolder">Gattinara - 2014</section>
   </a>
 

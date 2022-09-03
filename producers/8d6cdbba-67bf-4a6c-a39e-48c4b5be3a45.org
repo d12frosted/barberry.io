@@ -4,8 +4,8 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <img class="flex-bottle" src="/images/c1/31fb36-151e-415d-aa76-23f4dff142b7/2022-09-03-15-59-31-IMG-1927.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
     <section class="h text-bolder">Pietra Nera - 2020</section>
   </a>
 

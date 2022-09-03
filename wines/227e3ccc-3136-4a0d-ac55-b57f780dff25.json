@@ -20,12 +20,13 @@
       "name": "Pinot Noir"
     }
   ],
-  "alcohol": "12.511111111111111",
+  "alcohol": "13",
   "sugar": "NA",
   "prices": [
+    "2300 UAH",
     "1490 UAH"
   ],
-  "available": 1.0,
-  "image": "images/unknown-wine.webp",
-  "rating": "NA"
+  "available": 0.0,
+  "image": "images/22/7e3ccc-3136-4a0d-ac55-b57f780dff25/2022-09-03-16-22-27-7FE634DC-571C-4E77-92B0-52711C95953B-1-105-c.webp",
+  "rating": "8.5"
 }
