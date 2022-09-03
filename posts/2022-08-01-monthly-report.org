@@ -43,7 +43,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | Hungary        |     4 | 660.52 UAH   |  7.51 | 2.6975 |
 | Germany        |     4 | 900.36 UAH   |  7.91 | 2.8480 |
 | Argentina      |     3 | 562.86 UAH   |  7.90 | 4.3237 |
-| South Africa   |     3 | 607.93 UAH   |  7.58 | 2.9454 |
+| South Africa   |     3 | 614.36 UAH   |  7.58 | 2.9190 |
 | Georgia        |     2 | 646.50 UAH   |  7.86 | 3.4607 |
 | Czech Republic |     2 | 603.35 UAH   |  7.50 | 3.2012 |
 | New Zealand    |     1 | 367.00 UAH   |  5.25 | 1.0421 |
@@ -70,7 +70,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 #+results: vintages-data
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
-|    2021 |     6 | 487.34 UAH   |  7.43 | 3.5473 |
+|    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
 |    2020 |    22 | 727.37 UAH   |  7.04 | 2.7159 |
 |    2019 |    12 | 861.25 UAH   |  7.74 | 2.7691 |
 |    2018 |    16 | 1 102.58 UAH |  8.01 | 2.5451 |
@@ -183,7 +183,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Tempranillo                  |     1 | 334.00 UAH   |  7.40 | 4.6202 |
 | Alicante Henri Bouschet      |     1 | 620.00 UAH   |  7.20 | 2.1583 |
 | Barbera                      |     1 | 547.98 UAH   |  7.75 | 3.6345 |
-| Cariñena                     |     1 | 602.00 UAH   |  7.50 | 2.7552 |
+| Cariñena                     |     1 | 621.29 UAH   |  7.50 | 2.6696 |
 
 #+name: grapes-data
 #+begin_src elisp :exports results
@@ -319,7 +319,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-27 | Spain          | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]] | [[barberry:/wines/c765bf10-f52c-4c91-bf86-c80c1027c587][Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013]] |    2013 | 8.80 | 2.6127 |
 | 2022-07-27 | Italy          | [[barberry:/producers/720ba05b-16d2-4224-8041-1e6c72825df1][Piera Martellozzo]]        | [[barberry:/wines/d4ae10ce-c086-4592-bd4e-37e41322918c][Piera Martellozzo Terre Magre Ribolla Gialla NV]] |      NV | 7.50 | 3.2206 |
 | 2022-07-28 | Australia      | [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]             | [[barberry:/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56][Lucy Margaux Pinot Gris Comme de Fleurs 2020]] |    2020 | 7.50 | 1.7533 |
-| 2022-07-28 | Italy          | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco de Bartoli]]         | [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco de Bartoli Integer Grillo 2018]] |    2018 | 8.50 | 3.4021 |
+| 2022-07-28 | Italy          | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]         | [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco de Bartoli Integer Grillo 2018]] |    2018 | 8.50 | 3.4021 |
 | 2022-07-28 | Italy          | [[barberry:/producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad][La Biancara]]              | [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][La Biancara Sassaia 1997]]           |    1997 | 8.60 | 2.7044 |
 | 2022-07-28 | Georgia        | [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili Wines]]     | [[barberry:/wines/f315c7e4-18d2-4508-ac31-4198302b44aa][Tsikhelishvili Wines Alvani Rkatsiteli 2018]] |    2018 | 8.20 | 4.0481 |
 | 2022-07-28 | Italy          | [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]                | [[barberry:/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd][La Stoppa Ageno 2019]]               |    2019 | 6.50 | 0.8035 |
@@ -335,7 +335,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-29 | Spain          | [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]            | [[barberry:/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb][Els Vinyerons Saltamartí 2020]]      |    2020 | 7.40 | 4.6202 |
 | 2022-07-29 | Spain          | [[barberry:/producers/5a74c7dc-56c1-4a45-b1d6-849c9f02ecfb][Alfredo Maestro]]          | [[barberry:/wines/918312a7-56b9-4e31-95a0-e5529d7998a2][Alfredo Maestro Don Perdigón Pet-Nat]] |      NV | 7.20 | 2.1583 |
 | 2022-07-30 | Italy          | [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]           | [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]        |    2019 | 7.75 | 3.6345 |
-| 2022-07-31 | South Africa   | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]               | [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Testalonga Baby Bandito Follow Your Dreams 2021]] |    2021 | 7.50 | 2.7552 |
+| 2022-07-31 | South Africa   | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]               | [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Testalonga Baby Bandito Follow Your Dreams 2021]] |    2021 | 7.50 | 2.6696 |
 
 #+name: ratings-data
 #+begin_src elisp :exports results

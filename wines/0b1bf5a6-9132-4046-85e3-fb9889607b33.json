@@ -1,0 +1,31 @@
+{
+  "id": "0b1bf5a6-9132-4046-85e3-fb9889607b33",
+  "name": "Soave Colli Scaligeri Castelcerino",
+  "full-name": "Filippi Soave Colli Scaligeri Castelcerino 2019",
+  "producer": {
+    "id": "30053364-5420-43b0-8c58-67b5349e61c9",
+    "name": "Filippi"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "810 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/0b/1bf5a6-9132-4046-85e3-fb9889607b33/2022-09-03-09-54-44-BDE5B783-B712-4D40-9AE7-E88A363448E4-1-105-c.webp",
+  "rating": "NA"
+}

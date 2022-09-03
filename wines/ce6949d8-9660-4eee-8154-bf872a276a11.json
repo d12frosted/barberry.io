@@ -1,0 +1,32 @@
+{
+  "id": "ce6949d8-9660-4eee-8154-bf872a276a11",
+  "name": "Versante Nord",
+  "full-name": "Eduardo Torres Acosta Versante Nord 2017",
+  "producer": {
+    "id": "8ec40fe8-c539-48c3-9099-ab61bc24bca0",
+    "name": "Eduardo Torres Acosta"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0",
+  "prices": [
+    "870 UAH",
+    "680 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ce/6949d8-9660-4eee-8154-bf872a276a11/2022-09-03-09-51-21-IMG-1964.webp",
+  "rating": "8.5"
+}

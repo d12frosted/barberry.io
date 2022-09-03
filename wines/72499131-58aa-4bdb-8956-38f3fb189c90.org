@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/1dcb5f50-069b-4f63-9810-3b1c2b0a8ed8][Frank Cornelissen]]
+- Vintage :: 2017
+- Location :: Italy, IGP Terre Siciliane
+- Grapes :: Nerello Mascalese
+- Alcohol :: 15
+- Sugar :: 1
+- Price :: 1702 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a832277a-746d-415b-9ddf-bb8beec059f8.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h text-small text-lighter">Frank Cornelissen</section>
+    <section class="h text-bolder">Munjebel FM - 2017</section>
+  </a>
+
+</div>
+#+end_export

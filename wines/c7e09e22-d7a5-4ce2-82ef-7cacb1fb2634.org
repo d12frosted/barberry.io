@@ -1,0 +1,59 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c7/e09e22-d7a5-4ce2-82ef-7cacb1fb2634/2022-09-02-09-30-54-D9D47279-5BF2-4A51-AC24-05B6E5821A3F-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]]
+- Vintage :: 2018
+- Location :: Australia, Gippsland
+- Grapes :: Chardonnay
+- Alcohol :: 12.8
+- Sugar :: NA
+- Price :: 1620 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Patrick Sullivan works with his wife Megan in Yarra Valley to produce authentic wines on their farm in the Strezleki ranges, Baw Baw Shire, Gippsland, Australia. Patrick portrays himself as a farmer and not a winemaker. His vines are pure, intriguing and honest. His labels are catchy. Don't believe me? Just take a closer look!
+
+#+begin_quote
+I do not put myself in the category of Natural Wines. I only make wine. Natural Wine is a constructed term that I do not like very much. I make wine in the way I like it and in the style that I like to drink and I do not feel better than someone who acidifies or uses selected yeasts. I do not do it because I do not like it. I do it differently.
+
+Patrick Sullivan
+#+end_quote
+
+Patrick's path to winemaking began at a young age. Some say that at age of 12, he spent time planting vines during the school break. His personal site says that his first vinous "whiff" came whilst climbing the hills on a farm his family once owned. In any case, this initial spark developed into fascination and determination. So after finishing high school, Patrick spent two years travelling in Europe to learn winemaking techniques. His love for the craft only grew, so once he returned to his homeland, he studied botany and actuarial science. After post-graduate, Patrick wanted to learn from somebody. And so he went on to gain invaluable experience by working alongside respected winemakers (such as Stuart Proud, William Downie, Anna Martens and Eric Narioo) in various organically and biodynamically managed vineyards in Victoria.
+
+After some time, he gained enough experience, knowledge and confidence to start own projects.
+
+See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
+
+[[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Read more...]]
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+    <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp"></img>
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Rain Field Blend - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">
+    <img class="flex-bottle" src="/images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Bullswamp - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
+    <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000.webp"></img>
+    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
+  </a>
+
+</div>
+#+end_export

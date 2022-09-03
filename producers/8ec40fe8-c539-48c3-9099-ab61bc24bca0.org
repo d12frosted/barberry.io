@@ -1,0 +1,14 @@
+Rising winemaker from Etna. Started from helping his father on winery, then worked on [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]] winery. Now he produces wines under his own label. His vineyards are mostly located on high altitudes - 700-950 meters. Before 2018 he produced his wines on [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]] winery.
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ce6949d8-9660-4eee-8154-bf872a276a11.html">
+    <img class="flex-bottle" src="/images/ce/6949d8-9660-4eee-8154-bf872a276a11/2022-09-03-09-51-21-IMG-1964.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Versante Nord - 2017</section>
+  </a>
+
+</div>
+#+end_export

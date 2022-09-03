@@ -1,0 +1,31 @@
+{
+  "id": "4bac6da8-95e1-4c49-bcfc-f7b8e672d543",
+  "name": "Villányi Portugieser",
+  "full-name": "Hummel Villányi Portugieser 2021",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2021",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4b/ac6da8-95e1-4c49-bcfc-f7b8e672d543/2022-09-03-15-18-07-C1B3AC4D-ABDF-4A7E-99B6-C5A3AF8FD5A0-1-105-c.webp",
+  "rating": "7.4"
+}

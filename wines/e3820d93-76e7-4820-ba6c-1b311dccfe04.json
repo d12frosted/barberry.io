@@ -1,0 +1,35 @@
+{
+  "id": "e3820d93-76e7-4820-ba6c-1b311dccfe04",
+  "name": "Rouillon Cheverny",
+  "full-name": "Clos du Tue-Boeuf Rouillon Cheverny 2020",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.29",
+  "sugar": "0.36",
+  "prices": [
+    "820 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e3/820d93-76e7-4820-ba6c-1b311dccfe04/2022-09-02-09-32-14-8BF36FB5-A268-498C-A163-CA3225C83A88-1-105-c.webp",
+  "rating": "NA"
+}

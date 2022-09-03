@@ -1,0 +1,31 @@
+{
+  "id": "c0acd31a-42df-449b-8667-24de166fe520",
+  "name": "Resi",
+  "full-name": "Hummel Resi 2019",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2019",
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "227909b1-36db-47b7-a229-e7f5542644fc",
+      "name": "Rèze"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "ХХХ UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c0/acd31a-42df-449b-8667-24de166fe520/2022-09-03-11-48-57-0F6BE269-39B7-4CC3-BB10-DFDD536F7D05-1-105-c.webp",
+  "rating": "7.5"
+}

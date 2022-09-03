@@ -1,0 +1,31 @@
+{
+  "id": "c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634",
+  "name": "Baw Baw Shire Ada River Chardonnay",
+  "full-name": "Patrick Sullivan Baw Baw Shire Ada River Chardonnay 2018",
+  "producer": {
+    "id": "ebcf71da-35d2-45d4-9b87-178179c0b573",
+    "name": "Patrick Sullivan"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.8",
+  "sugar": "NA",
+  "prices": [
+    "1620 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c7/e09e22-d7a5-4ce2-82ef-7cacb1fb2634/2022-09-02-09-30-54-D9D47279-5BF2-4A51-AC24-05B6E5821A3F-1-105-c.webp",
+  "rating": "NA"
+}

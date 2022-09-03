@@ -1,0 +1,31 @@
+{
+  "id": "3171f223-b386-4b4f-9870-ede738f53f7a",
+  "name": "Fercsy",
+  "full-name": "Hummel Fercsy 2021",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2021",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/31/71f223-b386-4b4f-9870-ede738f53f7a/2022-09-03-12-17-02-0BA9D59B-373C-4877-93F9-8282261DF495-1-105-c.webp",
+  "rating": "7.4"
+}
