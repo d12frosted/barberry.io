@@ -1,7 +1,7 @@
 {
   "id": "3171f223-b386-4b4f-9870-ede738f53f7a",
-  "name": "Fercsy",
-  "full-name": "Hummel Fercsy 2021",
+  "name": "Schiller Fercsy",
+  "full-name": "Hummel Schiller Fercsy 2021",
   "producer": {
     "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
     "name": "Hummel"
@@ -16,12 +16,16 @@
   },
   "grapes": [
     {
+      "id": "217c46e8-bc5f-45c3-8bd1-4f4bddfac69e",
+      "name": "Blaufrankisch"
+    },
+    {
       "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
       "name": "Blauer Portugieser"
     }
   ],
-  "alcohol": "13",
-  "sugar": "NA",
+  "alcohol": "13.1",
+  "sugar": "1.1",
   "prices": [
     "XXX UAH"
   ],
