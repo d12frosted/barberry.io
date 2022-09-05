@@ -1,7 +1,7 @@
 {
   "id": "f07b112f-031d-490c-9c51-8af5fab9cede",
   "name": "Brichet Frizzante ...Naturalmente",
-  "full-name": "Casa Coste Piane Brichet Frizzante ...Naturalmente",
+  "full-name": "Casa Coste Piane Brichet Frizzante ...Naturalmente NV",
   "producer": {
     "id": "31385926-6778-424b-b91a-a2560eea4842",
     "name": "Casa Coste Piane"
@@ -18,6 +18,10 @@
     {
       "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
       "name": "Glera"
+    },
+    {
+      "id": "a72ba59b-041a-4ed8-a7dd-b005dd160824",
+      "name": "Verdiso"
     }
   ],
   "alcohol": "11",
