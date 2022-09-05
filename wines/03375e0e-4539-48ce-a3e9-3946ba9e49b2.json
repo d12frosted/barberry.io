@@ -1,0 +1,31 @@
+{
+  "id": "03375e0e-4539-48ce-a3e9-3946ba9e49b2",
+  "name": "Grenache",
+  "full-name": "Planères Grenache 2017",
+  "producer": {
+    "id": "2a47fde1-d981-4701-a165-b4f9f3fa1343",
+    "name": "Planères"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "189 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/03/375e0e-4539-48ce-a3e9-3946ba9e49b2/2022-09-05-20-40-34-IMG-2008.webp",
+  "rating": "NA"
+}
