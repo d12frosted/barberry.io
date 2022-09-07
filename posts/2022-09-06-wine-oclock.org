@@ -1,0 +1,210 @@
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-08-52-35-451815F1-CFF2-45CD-9047-CCC219C9662A-1-105-c.webp]]
+
+Section is under construction.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+1. [[barberry:/wines/f07b112f-031d-490c-9c51-8af5fab9cede][Casa Coste Piane Brichet Frizzante ...Naturalmente NV]]
+2. [[barberry:/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3][Cume do Avia Arraiano Tinto 2019]]
+3. [[barberry:/wines/5599b29d-ec02-4869-8d18-1e2eff71636e][Fedellos do Couto Lomba dos Ares 2017]]
+4. [[barberry:/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195][Hummel Villányi Portugieser 2020]]
+5. [[barberry:/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956][Pierre Frick Cremant d'Alsace 2017]]
+
+* Scores
+:PROPERTIES:
+:ID:                     61e88290-ba1b-4470-bc81-378dcebc11ba
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|            | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|------------+---------+---------+---------+---------+---------|
+| Yulia K    |    3.00 | *4.00*  | *4.50*  |    3.50 | 2.50    |
+| Kateryna K |    2.50 | 4.00    | *4.50*  |    3.80 | *4.20*  |
+| Olena M    |    2.00 | *3.50*  | *4.00*  |    3.80 | 3.00    |
+| Daria N    |    2.00 | *5.00*  | 3.00    |  *3.50* | 2.00    |
+| Karyna S   |    3.00 | -       | 3.50    |  *3.80* | *4.00*  |
+| Anna Zr    |  *3.00* | 2.50    | 3.50    |    3.00 | *4.30*  |
+| Kateryna S |  *4.00* | 3.00    | 3.50    |    3.00 | *4.20*  |
+| Boris B    |    3.50 | *3.80*  | *4.00*  |    3.70 | 4.00    |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|   |  amean |   sdev | favourite |  price |      QPR |
+|---+--------+--------+-----------+--------+----------|
+| 1 |   2.88 | 0.4219 | 2.00      | 653.00 |   0.7871 |
+| 2 |   3.69 | 0.5498 | *4.00*    | 616.00 |   2.4542 |
+| 3 | *3.81* | 0.2461 | *4.00*    | 676.00 | *2.6874* |
+| 4 |   3.51 | 0.1011 | 2.00      | 462.00 |   2.5618 |
+| 5 |   3.52 | 0.7019 | *4.00*    | 754.00 |   1.5973 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Casa Coste Piane Brichet Frizzante ...Naturalmente NV
+:PROPERTIES:
+:ID:                     ea1ea5b2-44f5-40e4-a403-d82e1f596522
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-09-53-19-189E4BF5-84AA-439B-A919-AAAB8080FCFB-1-105-c.webp]]
+
+- producer: [[barberry:/producers/31385926-6778-424b-b91a-a2560eea4842][Casa Coste Piane]]
+- name: [[barberry:/wines/f07b112f-031d-490c-9c51-8af5fab9cede][Brichet Frizzante ...Naturalmente]]
+- vintage: NV
+- grapes: Glera
+- appellation: IGP Colli Trevigiani
+- location: Veneto, Italy
+- alcohol: 11.0
+- sugar: ???
+- price: 726 UAH
+- importer: Roots
+
+You know Prosecco, right? Yup, those flowery and easy bubbles from the north of Italy. The story behind this region success (and fall that comes in hand with success) is fascinating! Though, that's not our focus today. What's important for us is that Prosecco has several prestigious sub-zones, including Valdobbiadene, where Casa Coste Piane is located. And imagine! Loris Follador got this farm with 60+ years old vines and winemaking techniques from his father, who in turn got this all from his father. Loris Follador is a lucky guy with a fortunate legacy. Somehow this family ignored all the 'improvements' from the 60s, so they don't meddle much with vines and wines.
+
+Brichet is made of 95% Glera and 5% Verdiso blend that come from a tiny (0.25-hectare) plot of the same name. These are old, steeply terraced vines on white, stony, limestone-y, scrappy soils that lie outside of the Valdobbiaddene DOCG, hence the IGP Colli Trevigiani classification. The plot was acquired in 2008.
+
+They use a pneumatic press to... well, press the grapes. Gently and slowly. The must is partially fermented in the cold cellar. And then the sweet must is separated from the still juice using a paper filter. And then there is a reunion date happening in the winter to get bubbles. There is no disgorgement, so there is sediment in the bottle, making a fine old-fashioned Col Fondo Prosecco. But most importantly, these lees cells add complexity over time.
+
+* Cume do Avia Arraiano Tinto 2019
+:PROPERTIES:
+:ID:                     efa8e460-5b42-49a3-9f7b-a9a04eb856cb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-09-53-42-805A0F50-5283-4565-9B21-4AAC2EC76ED1-1-105-c.webp]]
+
+- producer: [[barberry:/producers/1a59a1cb-fe8a-4724-b084-c5eef925d567][Cume do Avia]]
+- name: [[barberry:/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3][Arraiano Tinto]]
+- vintage: 2019
+- grapes: Treixadura, Godello, Torrontés
+- appellation: Vino de Mesa
+- location: Galicia, Spain
+- alcohol: 10.5
+- sugar: 1
+- price: 649 UAH
+- importer: Roots
+
+There are few viticultural regions as dramatic, wild, and diverse as Ribeira Sacra. Being a boundary between the cool, rainy Atlantic coast and Spain's hot, dry interior, Ribeira Sacra enjoys the best and the worst of the two domains. The main threats to viticulture are the storms that blow in from the Atlantic, bringing plenty of rain and wind; and morning fogs. A paradise for fungus. And yet people grow vines and make wines here. Some locals even practice organic and biodynamic farming. And that's truly heroic.
+
+Among them are brothers Diego and Álvaro Colarte. Together with their cousins, they made a "completely irrational and unwise decision" to downshift from industrial Vigo to the family's village. All that awaited them in 2005 was a ruin and a derelict vineyard. Eira dos Mouros land (named after mythological elves who safeguarded local knowledge) was abandoned by their ancestors in 1942! On a hill (a Cume) overlooking river Avia (hence the name of the winery), they restored the barren land by planting thirteen different indigenous grapes on a mosaic of terroirs - granite, grey and red schist, sand, clay, slate.
+
+#+begin_quote
+We put our youth into the project
+
+~ Diego
+#+end_quote
+
+This project was a genuine test of their determination and strength. On one hand, it was not backed by any family wealth. The quartet had to take out loans to buy all the necessary equipment. On the other hand, they could not rely on the knowledge and experience of other people. "The past of these forgotten grapes has been erased, leaving no one to discuss the ideal practices for them. Much knowledge was discarded with the introduction of chemicals to the vineyards after the second World War and there is no manual or record. We are trying to reinvent and rebuild this lost history," Diego explained.
+
+In 2008 they planted their first vines, and in 2012 finally made their first wines (or rather "vinification tests", as Diego calls them). It's sad and funny at the same time, but prior to this point, none of them had any winemaking experience.
+
+In 2015, they began to find more enological stability and a clear direction in the cellar. After a decade of struggles, their doubt began to lift. Only to face yet another challenge in the form of mildew plague that is common in this humid region. It wiped out nearly their entire 2016 vintage with leftovers of morale. Just imagine this situation! They were on the brink of financial ruin, exhausted and almost broken.
+
+Yet the next year was a blessing and inspiration. The tribe managed to craft wines that tasted like their dreams. And they were well received by the market. A happy point in their story full of challenges and doubts.
+
+* Fedellos do Couto Lomba dos Ares 2017
+:PROPERTIES:
+:ID:                     ebbe1899-190d-4ce7-b466-b7e505b2582e
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-09-54-00-E809154C-F58A-4F04-A02D-4D20E1C204CC-1-105-c.webp]]
+
+- producer: [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]]
+- name: [[barberry:/wines/5599b29d-ec02-4869-8d18-1e2eff71636e][Lomba dos Ares]]
+- vintage: 2017
+- grapes: Mencía, Mouratón, Garnacha Tintorera, Caiño, Bastardo
+- appellation: Vino de Mesa
+- location: Galicia, Spain
+- alcohol: 12.5
+- sugar: 1
+- price: 1100 UAH (???, 676 UAH)
+- importer: Wine Bureau
+
+Ribeira Sacra is currently one of the most talked-about places in the wine world, not only for its scenery but for affordable, refreshing, and complex wines made from indigenous varieties like Mencía (a sleeker expression than in Bierzo), Mourantón, Garnacha Tintorera (widely planted after phylloxera), Caño, Bastardo (a.k.a. Trousseau), Grao Negro, Sousón, Godello, Doña Blanca, Palomino, and other grapes. Not the most popular and known bunch, isn't it?
+
+Luis Taboada comes from an old family that owned Pazo do Couto, an ancient manor dating to the 12th century that produced a wide array of agricultural products. Recognizing the value of his ancient, north- and east-facing vineyards, he teamed up with viticulturist Pablo Soldavini, a proponent of organic farming and winemakers Curro Bareño and Jesús Olivares to found Fedellos do Couto in 2011. According to PanLex, Fedellos roughly translates as 'brats'. So the name of the winery is - Brats from Couto (estate).
+
+Curro Bareño and Jesús Olivares are also known for [[barberry:/producers/77579d36-240c-4859-83d2-f3c69fc41c91][Ca' di Mat]] and [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]]. After parting (when?) their ways with Luis Taboada leaving DO Ribeira Sacra (deemed atypical!), they decided to merge Fedellos do Couto with [[barberry:/producers/5f079311-f61e-4b9a-849e-d3736d0c3f4b][Peixes]] to become a single project - Fedellos.
+
+Lomba dos Ares is a village wine from their oldest and steepest vineyards on the west bank of the Bibei river. Practically a field blend from ~70 years old vines. These grapes are grown on granite, schist, and sand soils. The altitude is 450–650 meters. Lomba dos Ares in a natural yeast co-fermentation of all used varieties aged in foudre and a few neutral 300-500L French oak barrels.
+
+* Hummel Villányi Portugieser 2020
+:PROPERTIES:
+:ID:                     9dba3011-ffca-42b2-8a2c-c6b321d73b70
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-09-54-28-7254823E-73B2-4946-B8E6-D47B00B46982-1-105-c.webp]]
+
+- producer: [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]
+- name: [[barberry:/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195][Villányi Portugieser]]
+- vintage: 2020
+- grapes: Blauer Portugieser
+- appellation: Villány DHC
+- location: Villány, Hungary
+- alcohol: 13.5
+- sugar: 1.4
+- price: 475 UAH
+- importer: Sabotage (Wine Bureau)
+
+Section is under construction.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* Pierre Frick Cremant d'Alsace 2017
+:PROPERTIES:
+:ID:                     e4af4e91-b282-41ea-b2f9-c2950fe4da71
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-06-wine-oclock/2022-09-07-09-54-54-39184D4A-A751-4846-A992-E918C36C51AE-1-105-c.webp]]
+
+- producer: [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]
+- name: [[barberry:/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956][Cremant d'Alsace]]
+- vintage: 2017
+- grapes: Pinot Blanc, Pinot Gris
+- appellation: Crémant d'Alsace AOC
+- location: Alsace, France
+- alcohol: 13.0
+- sugar: 1
+- price: 754 UAH
+- importer: Wine Bureau
+
+Section is under construction.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* Conclusion
+:PROPERTIES:
+:ID:                     2161fd0d-ffdf-4f0d-8f8e-4f2ec5bb289b
+:END:
+
+Section is under construction.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* Resources
+:PROPERTIES:
+:ID:                     c085e91a-5853-446f-98d4-8430c25c3591
+:END:
+
+- https://www.europeancellars.com
+- https://www.bowlerwine.com
+- https://www.indigowine.com
+- https://www.casacostepiane.it
+- https://thesourceimports.com
+- https://wanderlustwine.co.uk
+- https://www.rawwine.com
+- https://www.pierrefrick.com
+- https://www.weingut-hummel.com (and tech sheets)
+
