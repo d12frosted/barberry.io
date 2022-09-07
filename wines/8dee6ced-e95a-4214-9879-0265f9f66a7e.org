@@ -21,67 +21,73 @@ Tasted blind. My guess was Chardonnay from France (no specific region). Oak is o
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
+  <a class="flex-item flex-item-left" href="/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e.html">
+    <img class="flex-bottle" src="/images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024.webp"></img>
+    <section class="h text-small text-lighter">Bret Brothers</section>
+    <section class="h text-bolder">Pouilly-Loché Climat La Colonge - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
     <img class="flex-bottle" src="/images/61/4af4ec-0890-4399-a8c8-fed13468bdea/2021-01-06-14-40-20-45F2CFC7-9F40-4227-B958-065AE0F8770B-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bret Brothers</section>
     <section class="h text-bolder">Macon-Chardonnay Climat Les Crays - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
+  <a class="flex-item flex-item-left" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
     <img class="flex-bottle" src="/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Bret Brothers</section>
     <section class="h text-bolder">Macon-Villages Cuvee Ephemere - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/16128b7b-90b3-4b66-ac2a-994178f0f6f2.html">
+  <a class="flex-item flex-item-right" href="/wines/16128b7b-90b3-4b66-ac2a-994178f0f6f2.html">
     <img class="flex-bottle" src="/images/16/128b7b-90b3-4b66-ac2a-994178f0f6f2/2022-08-20-10-41-48-C6645716-C847-4A44-91AB-5EC24CBC2378-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Antonio Madeira</section>
     <section class="h text-bolder">A Liberdade - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2ae8dc33-cd05-4208-b028-94e7acae704a.html">
+  <a class="flex-item flex-item-left" href="/wines/2ae8dc33-cd05-4208-b028-94e7acae704a.html">
     <img class="flex-bottle" src="/images/2a/e8dc33-cd05-4208-b028-94e7acae704a/2022-08-20-11-14-08-FBD2E899-2FD6-472C-943B-318C7E141403-1-105-c.webp"></img>
     <section class="h text-small text-lighter">La Cave Apicole</section>
     <section class="h text-bolder">Java - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/52ac7f99-cf2f-4590-b19d-141f3aa2c217.html">
+  <a class="flex-item flex-item-right" href="/wines/52ac7f99-cf2f-4590-b19d-141f3aa2c217.html">
     <img class="flex-bottle" src="/images/52/ac7f99-cf2f-4590-b19d-141f3aa2c217/2022-08-20-10-32-36-3C6BE3AB-B559-4183-BF9C-A95E85752B6D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Beykush</section>
     <section class="h text-bolder">Chardonnay Reserve - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/64312402-9635-4a0f-a57a-872b3777c5ff.html">
+  <a class="flex-item flex-item-left" href="/wines/64312402-9635-4a0f-a57a-872b3777c5ff.html">
     <img class="flex-bottle" src="/images/64/312402-9635-4a0f-a57a-872b3777c5ff/2022-08-20-10-46-42-436EBED3-7AAD-433B-8A46-B0EB107101B8-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Ochota barrels</section>
     <section class="h text-bolder">slint chardonnay - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/651f7930-578b-41fb-98f1-ca1bca0e057a.html">
+  <a class="flex-item flex-item-right" href="/wines/651f7930-578b-41fb-98f1-ca1bca0e057a.html">
     <img class="flex-bottle" src="/images/65/1f7930-578b-41fb-98f1-ca1bca0e057a/2022-08-20-10-38-38-CF2E0CE0-8D26-491F-A6B7-C5996F828615-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Alta Alella</section>
     <section class="h text-bolder">Asarvos - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7255156f-7c94-489d-99c3-8ad58578a1df.html">
+  <a class="flex-item flex-item-left" href="/wines/7255156f-7c94-489d-99c3-8ad58578a1df.html">
     <img class="flex-bottle" src="/images/72/55156f-7c94-489d-99c3-8ad58578a1df/2022-08-20-10-36-31-DAE6B32E-0E7E-4E49-B8C1-F64966B230D2-1-105-c.webp"></img>
     <section class="h text-small text-lighter">I Vigneri</section>
     <section class="h text-bolder">Aurora - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/746646a7-c2d0-49e7-827d-1c2fee94fc66.html">
+  <a class="flex-item flex-item-right" href="/wines/746646a7-c2d0-49e7-827d-1c2fee94fc66.html">
     <img class="flex-bottle" src="/images/74/6646a7-c2d0-49e7-827d-1c2fee94fc66/2022-08-20-10-43-59-4F425655-952B-4245-B369-224F51BD3A98-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Château de Béru</section>
     <section class="h text-bolder">Chablis Montserre - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/caddc632-9062-4f70-9d54-8b44fb6fe84e.html">
+  <a class="flex-item flex-item-left" href="/wines/caddc632-9062-4f70-9d54-8b44fb6fe84e.html">
     <img class="flex-bottle" src="/images/ca/ddc632-9062-4f70-9d54-8b44fb6fe84e/2022-08-20-10-24-53-7537CA06-5565-43B1-98F4-9A04686ECA7D-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Domaines Landron</section>
     <section class="h text-bolder">Melonix - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eeb4d4b9-5df4-4893-9a90-e7d063c1c324.html">
+  <a class="flex-item flex-item-right" href="/wines/eeb4d4b9-5df4-4893-9a90-e7d063c1c324.html">
     <img class="flex-bottle" src="/images/ee/b4d4b9-5df4-4893-9a90-e7d063c1c324/2022-08-20-10-40-12-9E9831A2-7675-407D-9E89-4E6436AE266E-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Wasenhaus</section>
     <section class="h text-bolder">Filzen - 2018</section>

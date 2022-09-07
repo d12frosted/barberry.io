@@ -1,0 +1,31 @@
+{
+  "id": "0209f5d1-a27d-45a1-8497-c3aeafe79c6e",
+  "name": "Pouilly-Loché Climat La Colonge",
+  "full-name": "Bret Brothers Pouilly-Loché Climat La Colonge 2018",
+  "producer": {
+    "id": "4eb32a6f-ea37-4f9a-a470-d062d4465b67",
+    "name": "Bret Brothers"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.7",
+  "prices": [
+    "1070 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024.webp",
+  "rating": "NA"
+}

@@ -1,12 +1,12 @@
 {
   "id": "065720da-6456-4df3-9afb-8634b425580e",
   "name": "Móz",
-  "full-name": "Costadila Móz 2019",
+  "full-name": "Costadila Móz NV",
   "producer": {
     "id": "d2866fb4-6a9f-4499-a330-da6d9d4720d8",
     "name": "Costadila"
   },
-  "vintage": "2019",
+  "vintage": "NV",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "dry",
@@ -27,10 +27,11 @@
   "alcohol": "10.5",
   "sugar": "2",
   "prices": [
+    "573 UAH",
     "630 UAH",
     "590 UAH"
   ],
-  "available": 0.0,
+  "available": 1.0,
   "image": "images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c.webp",
   "rating": "8.0"
 }

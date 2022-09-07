@@ -1,0 +1,31 @@
+{
+  "id": "d21146fb-da8c-4e4a-8197-8eb341d531e9",
+  "name": "Sálvora",
+  "full-name": "Rodrigo Méndez Sálvora 2017",
+  "producer": {
+    "id": "2d248b79-e202-497b-9cff-b59fb04c5ffc",
+    "name": "Rodrigo Méndez"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1163 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d2/1146fb-da8c-4e4a-8197-8eb341d531e9/2022-09-06-16-33-49-IMG-2032.webp",
+  "rating": "NA"
+}

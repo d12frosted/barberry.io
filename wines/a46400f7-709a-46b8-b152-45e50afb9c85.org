@@ -21,7 +21,13 @@ Interesting blend of Brancellao, Mencía and Merenzao, though in a slightly arti
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
+  <a class="flex-item flex-item-left" href="/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a.html">
+    <img class="flex-bottle" src="/images/2f/91824d-cecb-4c83-b755-ac3b70f9936a/2022-09-06-16-35-28-IMG-2035.webp"></img>
+    <section class="h text-small text-lighter">Vino di Anna</section>
+    <section class="h text-bolder">Qvevri 'Don Alfio' - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
     <img class="flex-bottle" src="/images/cf/948cb2-a538-43da-926a-cd71b4bb5705/2021-10-27-23-53-27-91550E9B-BD38-4027-8EDE-5463810E5BDA-1-105-c.webp"></img>
     <section class="h text-small text-lighter">Raúl Pérez</section>
     <section class="h text-bolder">Ultreia De Valtuille - 2018</section>

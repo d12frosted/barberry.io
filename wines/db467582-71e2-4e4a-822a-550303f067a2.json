@@ -1,0 +1,31 @@
+{
+  "id": "db467582-71e2-4e4a-822a-550303f067a2",
+  "name": "Fuoripista Pinot Grigio",
+  "full-name": "Foradori Fuoripista Pinot Grigio 2014",
+  "producer": {
+    "id": "4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae",
+    "name": "Foradori"
+  },
+  "vintage": "2014",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "fa96ba31-182e-4da7-9d88-30a63e686997",
+      "name": "Pinot Grigio"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.7",
+  "prices": [
+    "1627 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/db/467582-71e2-4e4a-822a-550303f067a2/2022-09-06-16-02-35-IMG-2029.webp",
+  "rating": "NA"
+}
