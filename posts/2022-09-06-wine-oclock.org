@@ -1,8 +1,8 @@
 [[file:/images/2022-09-06-wine-oclock/2022-09-07-08-52-35-451815F1-CFF2-45CD-9047-CCC219C9662A-1-105-c.webp]]
 
-Section is under construction.
+Imagine a situation. A small party to celebrate independence day (a week after the actual date). Small talks, happiness and all that drive. And then, one person asks me if I am free for wine drinking on Tuesday. Of course, I am; count me in. Yet I didn't plan to organise any wine tasting events until Monday evening when another person asked for that. Well, it's only a pleasure.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Since I had a rough idea of how many people will actually come, I prepared 7 wines for this evening to have the freedom to make a final choice depending on the situation. And here are the wines that we tasted.
 
 1. [[barberry:/wines/f07b112f-031d-490c-9c51-8af5fab9cede][Casa Coste Piane Brichet Frizzante ...Naturalmente NV]]
 2. [[barberry:/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3][Cume do Avia Arraiano Tinto 2019]]
@@ -32,13 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|   |  amean |   sdev | favourite |  price |      QPR |
-|---+--------+--------+-----------+--------+----------|
-| 1 |   2.88 | 0.4219 | 2.00      | 653.00 |   0.7871 |
-| 2 |   3.69 | 0.5498 | *4.00*    | 616.00 |   2.4542 |
-| 3 | *3.81* | 0.2461 | *4.00*    | 676.00 | *2.6874* |
-| 4 |   3.51 | 0.1011 | 2.00      | 462.00 |   2.5618 |
-| 5 |   3.52 | 0.7019 | *4.00*    | 754.00 |   1.5973 |
+|   |  amean |    rms |   sdev | favourite |  price |      QPR |
+|---+--------+--------+--------+-----------+--------+----------|
+| 1 |   2.88 |   2.95 | 0.4219 | 2.00      | 653.00 |   0.7871 |
+| 2 |   3.69 |   3.76 | 0.5498 | *4.00*    | 616.00 |   2.4542 |
+| 3 | *3.81* | *3.84* | 0.2461 | *4.00*    | 676.00 | *2.6874* |
+| 4 |   3.51 |   3.53 | 0.1011 | 2.00      | 462.00 |   2.5618 |
+| 5 |   3.52 |   3.62 | 0.7019 | *4.00*    | 754.00 |   1.5973 |
 
 How to read this table:
 
@@ -157,9 +157,9 @@ Lomba dos Ares is a village wine from their oldest and steepest vineyards on the
 - price: 475 UAH
 - importer: Sabotage (Wine Bureau)
 
-Section is under construction.
+Horst Hummel was born near Stuttgart. His family is a Schwabian/Hungarian mix. His great-grandfather was a winemaker in the Austro-Hungarian empire. In 1997 Horst visited Hungary, mostly to get a sense of his family origins. Passionate about wine, he wanted to visit the best winemaking regions during that trip. And so he came to Villány (southern Hungary). And he fell in love with the climate and wine culture. Horst casually asked his hosts about the price for vineyards. And just within days, he became a happy owner of a plot in Villány. By 1998 Hummel winery was up and running. Today Horst lives in Berlin but often commutes back and force between his home and Villány.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Weingut Hummel practices organic farming since 2008 and follows biodynamic principles since 2016. On the 7.5 ha vineyards, they grow Kékfrankos, Portugieser, Merlot, Cabernet Franc, Cabernet Sauvignon, Furmint, Traminer, and Hárslevelű.
 
 * Pierre Frick Cremant d'Alsace 2017
 :PROPERTIES:
@@ -180,18 +180,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - price: 754 UAH
 - importer: Wine Bureau
 
-Section is under construction.
+At this point, I propose to avoid obvious jokes about the winemaker's family name. Even though they are fitting. Look, Pierre Frick is a winemaker in the twelfth generation. He looks over 12 ha of vineyards split into plots: Bergweingarten, Bihl, Rot Murlé, Strangenberg, Steinert, Vorbourg and Eichberg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The estate farms organically since 1970 and biodynamically since 1981. Only indigenous yeasts, no fining, no filtering, no correction and no other mumbo jumbo. They just let the wines develop their own "lively, healthy and authentic character".
 
 * Conclusion
 :PROPERTIES:
 :ID:                     2161fd0d-ffdf-4f0d-8f8e-4f2ec5bb289b
 :END:
 
-Section is under construction.
+Despite hasty preparations and all the uncertainty, this event was good. And while it has the lowest average rating among other events of this year (only 3.54), three wines got into the top 20 best-valued wines (compared to wines from other events we organised this year). I am glad that my experiment with two Galician wines played well. And it makes me happy that participants appreciated [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]] and [[barberry:/producers/1a59a1cb-fe8a-4724-b084-c5eef925d567][Cume do Avia]].
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+And traditionally, the person who guessed the most during blind tasting received a small present. This time it was [[https://www.amazon.com/Cork-Dork-Wine-Fueled-Sommeliers-Scientists/dp/0143128094][Cork Dork by Bianca Bosker]] ([[https://www.yakaboo.ua/ua/shibleni-na-vini-mandrivka-u-vishukanij-svit-somel-e.html][UA edition]]), an inspiring (and sometimes frightening) story about love for wine.
+
+But most importantly, I am happy to see new faces and all this interest in the wine world. All the questions asked, all the excitement and disappointment, and all these emotions we had. It all matters and inspires.
+
+Safe travels, and see you soon! Thanks for reading.
 
 * Resources
 :PROPERTIES:
@@ -207,4 +211,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - https://www.rawwine.com
 - https://www.pierrefrick.com
 - https://www.weingut-hummel.com (and tech sheets)
+- https://www.palinkerie.com/
 
