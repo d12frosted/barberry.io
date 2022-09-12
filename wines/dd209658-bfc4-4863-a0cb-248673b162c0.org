@@ -13,7 +13,7 @@
 
 ** Producer
 
-Project by Valentina Passalacqua. Based in Puglia.
+Project by [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]. Based in Puglia.
 
 ** Ratings
 
@@ -27,13 +27,13 @@ Throw a party, bring a bottle or two by Valentina Passalacqua and I will come. N
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
     <img class="flex-bottle" src="/images/60/eb654c-b828-4c1f-adde-9ebab8360b5d/2022-08-12-11-47-56-IMG-1431.webp"></img>
-    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h">Bencze</section>
     <section class="h text-bolder">Riesling - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
     <img class="flex-bottle" src="/images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Momento Mori</section>
+    <section class="h">Momento Mori</section>
     <section class="h text-bolder">Bianco - 2019</section>
   </a>
 

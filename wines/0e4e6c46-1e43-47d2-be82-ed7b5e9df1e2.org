@@ -29,37 +29,37 @@ Super pleasant, clean and fresh wine. On the background of yeast, there are ripe
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
     <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
     <img class="flex-bottle" src="/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
     <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04.html">
     <img class="flex-bottle" src="/images/e3/820d93-76e7-4820-ba6c-1b311dccfe04/2022-09-02-09-32-14-8BF36FB5-A268-498C-A163-CA3225C83A88-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Rouillon Cheverny - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
     <img class="flex-bottle" src="/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
     <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Stella di Campalto</section>
+    <section class="h">Stella di Campalto</section>
     <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 

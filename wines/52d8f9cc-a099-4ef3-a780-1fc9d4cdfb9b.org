@@ -23,7 +23,7 @@ Unexpectedly good. Simple yet pleasant and refreshing. Notes of pear mixed with 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html">
     <img class="flex-bottle" src="/images/f8/700904-7523-4355-b681-9ba9f2aa85c4/2022-05-26-11-18-19-IMG-0233.webp"></img>
-    <section class="h text-small text-lighter">Cantina la Salute</section>
+    <section class="h">Cantina la Salute</section>
     <section class="h text-bolder">Sauvignon - NV</section>
   </a>
 

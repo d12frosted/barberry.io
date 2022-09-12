@@ -51,25 +51,25 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2021-03-08-19-42-55-D61BBD30-E91F-45BE-8D2B-1C1A2B33B9B7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Storm</section>
+    <section class="h">Storm</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
     <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Storm</section>
+    <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
+    <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Arbois Vin Jaune Les Bruyeres - 2012</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
     <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacquesson</section>
+    <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 

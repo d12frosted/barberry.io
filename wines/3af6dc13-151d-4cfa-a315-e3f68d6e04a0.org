@@ -23,25 +23,25 @@ Oh boy, that's some wonderfully refreshing Sauvignon Blanc. Green apple, goosebe
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
     <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h">Weingut Tement</section>
     <section class="h text-bolder">Blanc Reserve - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">
     <img class="flex-bottle" src="/images/10/032e11-4691-4634-8f36-ce7ed8c1dba2/2022-06-12-17-28-38-D9712012-722A-4AA8-9D81-D45EC3171A7E.webp"></img>
-    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h">Weingut Tement</section>
     <section class="h text-bolder">Temento Green - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
     <img class="flex-bottle" src="/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h">Weingut Tement</section>
     <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b7ff4247-f4c0-48cf-829c-f735ddeb4e22.html">
     <img class="flex-bottle" src="/images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weingut Tement</section>
+    <section class="h">Weingut Tement</section>
     <section class="h text-bolder">Blanc - 2020</section>
   </a>
 

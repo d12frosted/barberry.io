@@ -27,13 +27,13 @@ A delicious blend of Riesling, Sauvignon Blanc with a tiny bit of Chardonnay and
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6af7fcda-8b81-46eb-9ffd-10bbc0c8d790.html">
     <img class="flex-bottle" src="/images/6a/f7fcda-8b81-46eb-9ffd-10bbc0c8d790/2022-08-21-13-27-32-43854C44-C25E-4F3E-9D1F-8A2F99732F71-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tiefgang</section>
+    <section class="h">Tiefgang</section>
     <section class="h text-bolder">Kalkstein Spätburgunder Trocken - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
     <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">An 825 Crémant de Limoux Brut - 2019</section>
   </a>
 

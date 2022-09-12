@@ -21,7 +21,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
     <img class="flex-bottle" src="/images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp"></img>
-    <section class="h text-small text-lighter">Lyme Bay</section>
+    <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Bacchus - 2020</section>
   </a>
 

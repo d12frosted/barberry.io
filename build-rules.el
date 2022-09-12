@@ -342,7 +342,7 @@ Access to full ITEMS for related wines."
                          (porg-item-target-rel img-item)
                        "images/unknown-wine.webp")
                      "\"></img>\n")
-             "    <section class=\"h text-small text-lighter\">" (vulpea-note-title producer) "</section>\n"
+             "    <section class=\"h\">" (vulpea-note-title producer) "</section>\n"
              "    <section class=\"h text-bolder\">" name " - " vintage "</section>\n"
              "  </a>\n\n")))
         (insert
@@ -829,7 +829,7 @@ Basically, keep only public notes."
    :filter (-rpartial #'porg-item-that :type "note"
                       :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
    :target "pages/reviews-latest.org"
-   :publish (-rpartial #'brb-publish-ratings 12)))
+   :publish (-rpartial #'brb-publish-ratings 8)))
 
  :compilers
  (list

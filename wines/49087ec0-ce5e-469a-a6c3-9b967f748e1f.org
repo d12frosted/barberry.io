@@ -23,13 +23,13 @@ More than a year ago on a blind tasting party I've tried Chablis by [[barberry:/
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8ca732d2-d35b-4b9a-9b01-e68fc2ebe3d4.html">
     <img class="flex-bottle" src="/images/8c/a732d2-d35b-4b9a-9b01-e68fc2ebe3d4/2021-03-03-20-24-22-564DA641-3048-4F67-81B9-3C96CC9AC232-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Raoul Clerget</section>
+    <section class="h">Raoul Clerget</section>
     <section class="h text-bolder">Chablis - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
     <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 

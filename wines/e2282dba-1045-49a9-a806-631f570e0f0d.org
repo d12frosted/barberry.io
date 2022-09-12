@@ -29,49 +29,49 @@ What a beautiful Gamay by late Taras Ochota. In a blind tasting, I would confuse
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1770821f-dd60-4149-9491-a95e838bd5d7.html">
     <img class="flex-bottle" src="/images/17/70821f-dd60-4149-9491-a95e838bd5d7/2021-07-20-09-18-17-64FA3893-9864-4121-981B-BD793D735C80-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Ochota barrels</section>
+    <section class="h">Ochota barrels</section>
     <section class="h text-bolder">kids of the black hole - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64312402-9635-4a0f-a57a-872b3777c5ff.html">
     <img class="flex-bottle" src="/images/64/312402-9635-4a0f-a57a-872b3777c5ff/2022-08-20-10-46-42-436EBED3-7AAD-433B-8A46-B0EB107101B8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Ochota barrels</section>
+    <section class="h">Ochota barrels</section>
     <section class="h text-bolder">slint chardonnay - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/14bfdb67-e5c3-48cb-b555-5f0acf303b79.html">
     <img class="flex-bottle" src="/images/14/bfdb67-e5c3-48cb-b555-5f0acf303b79/2022-08-14-11-41-34-4EB47FF8-7206-464B-A93D-3C2757DFC8A3-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2d3c1ace-271e-4b2a-80e5-0579c356e025.html">
     <img class="flex-bottle" src="/images/2d/3c1ace-271e-4b2a-80e5-0579c356e025/2022-08-14-11-30-09-D013AC0E-B17E-470F-BE64-49C235C42A4E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3bbce93c-f276-4b2e-9992-122e946891e0.html">
     <img class="flex-bottle" src="/images/3b/bce93c-f276-4b2e-9992-122e946891e0/2022-08-14-12-34-01-8AF7A7B2-2982-451B-B93E-A2E52F673F99-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Ca' di Mat</section>
+    <section class="h">Ca' di Mat</section>
     <section class="h text-bolder">Andrinal - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661.html">
     <img class="flex-bottle" src="/images/9d/e8ffb2-0758-48cf-b43c-5ec7a2010661/2022-08-14-11-52-47-77D2A2F0-F519-437F-BE7C-3515F3D3E6F0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Pittnauer</section>
+    <section class="h">Pittnauer</section>
     <section class="h text-bolder">Perfect Day - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/bcf84367-38ec-4954-87d8-32b3a541d067.html">
     <img class="flex-bottle" src="/images/bc/f84367-38ec-4954-87d8-32b3a541d067/2022-08-14-12-06-47-573A0B75-7A85-473D-B2B7-1C0E38B824A7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weinbau Wenzel</section>
+    <section class="h">Weinbau Wenzel</section>
     <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 

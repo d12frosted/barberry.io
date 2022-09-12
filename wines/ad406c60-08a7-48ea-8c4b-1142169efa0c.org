@@ -23,7 +23,7 @@ Obvious ageing on lees thanks to notes of cheese and yeast that smells like chee
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e5ee19b5-c687-49fd-8e11-0878288cd5a5.html">
     <img class="flex-bottle" src="/images/e5/ee19b5-c687-49fd-8e11-0878288cd5a5/2022-08-24-14-00-10-01C9E9F1-6DE0-48E3-AD0A-47F882D76D55-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bava</section>
+    <section class="h">Bava</section>
     <section class="h text-bolder">Ruché - 2019</section>
   </a>
 

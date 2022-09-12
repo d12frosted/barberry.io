@@ -23,13 +23,13 @@ Pale straw colour. Nose is dominated by green apple and nectarine with hints of 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
     <img class="flex-bottle" src="/images/8f/e19c6a-4169-4e27-bf89-512c429c6725/2022-06-26-17-22-16-89EEF1FC-9732-4B32-A5A4-20F5FF65CF48-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Stellenbosch Hills</section>
+    <section class="h">Stellenbosch Hills</section>
     <section class="h text-bolder">Chenin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">
     <img class="flex-bottle" src="/images/e2/cc07f9-3466-4ab0-bc5b-aaace9681868/2022-06-12-17-34-19-19E382A8-52F8-4A88-949F-C14981A2175E.webp"></img>
-    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h">Bodega Catena Zapata</section>
     <section class="h text-bolder">Catena Chardonnay - 2020</section>
   </a>
 

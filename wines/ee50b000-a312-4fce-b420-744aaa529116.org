@@ -23,13 +23,13 @@ Haven't tasted this wine for a long time and it kind of reminds me why in genera
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/82ef2f7d-3296-4f4c-83e9-42bd04688e9a.html">
     <img class="flex-bottle" src="/images/82/ef2f7d-3296-4f4c-83e9-42bd04688e9a/2022-05-25-08-46-19-2C36D494-5F76-49B3-BE00-D6B645076458-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Concha y Toro</section>
+    <section class="h">Concha y Toro</section>
     <section class="h text-bolder">Casillero del Diablo Sauvignon Blanc - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
     <img class="flex-bottle" src="/images/d4/2317ae-b258-4c87-9fe0-5d94ad9bfaf6/2021-12-17-18-29-40-4EE43126-146C-4C5A-A507-F4DB70F5A1C0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Lamiable</section>
+    <section class="h">Lamiable</section>
     <section class="h text-bolder">Cuvee Pheerie - 2013</section>
   </a>
 

@@ -27,25 +27,25 @@ Light and sexy blend of 5 grapes from Moravia. The bouquet is calm, with notes o
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
     <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Herr Gewürtz - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
     <img class="flex-bottle" src="/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
   </a>
 

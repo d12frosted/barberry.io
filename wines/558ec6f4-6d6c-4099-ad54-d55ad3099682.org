@@ -29,43 +29,43 @@ Tasted already multiple bottles, and confirm that this is a discovery. Again, it
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
     <img class="flex-bottle" src="/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/73ffe44a-5b40-42c1-b8f6-f0cff775f49c.html">
     <img class="flex-bottle" src="/images/73/ffe44a-5b40-42c1-b8f6-f0cff775f49c/2022-01-13-09-58-30-2834C7EB-AD0A-483C-BC31-B1A579FF78C2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Chardonnay Yarden - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
     <img class="flex-bottle" src="/images/87/7d6831-deea-428d-b19d-b7908a77389e/2022-06-12-17-32-22-FD28EF14-DF03-405B-AA06-8A6EA800F3A3.webp"></img>
-    <section class="h text-small text-lighter">Golan Heights Winery</section>
+    <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Viognier Yarden - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
     <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
-    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
     <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
-    <section class="h text-small text-lighter">Spy Valley</section>
+    <section class="h">Spy Valley</section>
     <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
     <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2021-12-27-18-33-45-9D5CF52D-9AB7-4F51-9AFF-D9F5D7609EA5-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Francoise Bedel</section>
+    <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
     <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Viña Tondonia</section>
+    <section class="h">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>
 

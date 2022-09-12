@@ -23,13 +23,13 @@ Bottle 73 out of 267. Pinot Noir from the North of Ukraine. And actually interes
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">
     <img class="flex-bottle" src="/images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp"></img>
-    <section class="h text-small text-lighter">Craggy Range</section>
+    <section class="h">Craggy Range</section>
     <section class="h text-bolder">Gimblett Gravels Syrah - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
     <img class="flex-bottle" src="/images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040.webp"></img>
-    <section class="h text-small text-lighter">Lucy Margaux</section>
+    <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Vino Rosso - 2020</section>
   </a>
 

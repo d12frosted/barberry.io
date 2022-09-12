@@ -51,25 +51,25 @@ Thanks to some crazy 'natural' producers I started to appreciate clean style win
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/14bfdb67-e5c3-48cb-b555-5f0acf303b79.html">
     <img class="flex-bottle" src="/images/14/bfdb67-e5c3-48cb-b555-5f0acf303b79/2022-08-14-11-41-34-4EB47FF8-7206-464B-A93D-3C2757DFC8A3-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2d3c1ace-271e-4b2a-80e5-0579c356e025.html">
     <img class="flex-bottle" src="/images/2d/3c1ace-271e-4b2a-80e5-0579c356e025/2022-08-14-11-30-09-D013AC0E-B17E-470F-BE64-49C235C42A4E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3bc5dec6-eae8-4fd6-8731-d726947aad66.html">
     <img class="flex-bottle" src="/images/3b/c5dec6-eae8-4fd6-8731-d726947aad66/2021-07-23-07-51-53-IMG-2660.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Garg'n'go - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
     <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 1997</section>
   </a>
 

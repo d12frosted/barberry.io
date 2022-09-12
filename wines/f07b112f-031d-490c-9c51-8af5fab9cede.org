@@ -31,31 +31,31 @@ Brichet is a wine that is more interesting on paper than in glass. Yup, it's wel
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/03375e0e-4539-48ce-a3e9-3946ba9e49b2.html">
     <img class="flex-bottle" src="/images/03/375e0e-4539-48ce-a3e9-3946ba9e49b2/2022-09-05-20-40-34-IMG-2008.webp"></img>
-    <section class="h text-small text-lighter">Planères</section>
+    <section class="h">Planères</section>
     <section class="h text-bolder">Grenache - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
     <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Fedellos do Couto</section>
+    <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Lomba dos Ares - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
     <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
     <img class="flex-bottle" src="/images/bf/de04c3-3a3b-4e38-9448-21bf3f5d52a3/2022-09-05-20-50-30-IMG-2012.webp"></img>
-    <section class="h text-small text-lighter">Cume do Avia</section>
+    <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 

@@ -29,7 +29,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
     <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Cantina Alchemica</section>
+    <section class="h">Cantina Alchemica</section>
     <section class="h text-bolder">Lanthano Bianco - 2013</section>
   </a>
 

@@ -23,13 +23,13 @@ Conca del Riu Anoia is one more step out of big Cava DO. And it has all the righ
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
     <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045.webp"></img>
-    <section class="h text-small text-lighter">Saint Clair</section>
+    <section class="h">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
     <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Francois Montand</section>
+    <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
   </a>
 

@@ -23,25 +23,25 @@ Decent and friendly Pinot Noir. Dark and red berries on the forest floor. Juicy 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ba94148b-5ed1-447a-bd61-f6a3c7b2a0f1.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/de295137-6c7a-406f-9821-d0e2e9f9ed2d.html">
     <img class="flex-bottle" src="/images/de/295137-6c7a-406f-9821-d0e2e9f9ed2d/2021-10-02-10-49-11-AD36241D-4113-409A-910F-56C26831BDF4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h">Brancott Estate</section>
     <section class="h text-bolder">Pinot Noir - 2016</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f163c749-3095-462a-be4c-a809a616f767.html">
     <img class="flex-bottle" src="/images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h">Brancott Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">
     <img class="flex-bottle" src="/images/a0/e5d240-0e7b-4e88-a738-6524e38596dc/2022-06-25-13-47-50-F0215729-4CFE-4BD5-814D-CB4F7E32CD20-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Viña Pomal</section>
+    <section class="h">Viña Pomal</section>
     <section class="h text-bolder">Viura Malvasia - 2017</section>
   </a>
 

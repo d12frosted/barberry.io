@@ -29,25 +29,25 @@ Tasted blind and guessed producer. Since it is my first time tasting this partic
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1588f9ec-1616-449b-aaac-9d7a0de06655.html">
     <img class="flex-bottle" src="/images/15/88f9ec-1616-449b-aaac-9d7a0de06655/2022-01-16-12-25-14-66975C43-3FDC-4319-891F-AEE7707C3315-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Kelley Fox Wines</section>
+    <section class="h">Kelley Fox Wines</section>
     <section class="h text-bolder">Mirabai Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
     <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bencze</section>
+    <section class="h">Bencze</section>
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
     <img class="flex-bottle" src="/images/a6/049624-d554-4a4c-ab3c-eb1af3efcef0/2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weinbau Markus Ruch</section>
+    <section class="h">Weinbau Markus Ruch</section>
     <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
     <img class="flex-bottle" src="/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Roses De Jeanne</section>
+    <section class="h">Roses De Jeanne</section>
     <section class="h text-bolder">Presle Millesime BdN - 2016</section>
   </a>
 

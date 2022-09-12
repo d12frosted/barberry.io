@@ -25,25 +25,25 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
     <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
     <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
     <img class="flex-bottle" src="/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
     <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 

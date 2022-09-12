@@ -23,7 +23,7 @@ This is a teenager Cortese that decided to become a punk. But its parents accept
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
   </a>
 

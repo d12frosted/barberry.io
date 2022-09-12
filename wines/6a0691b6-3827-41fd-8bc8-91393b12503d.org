@@ -23,7 +23,7 @@ According to the producer site, Costalupo is a blend of 3 grapes - Chardonnay, T
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">
     <img class="flex-bottle" src="/images/20/d59f9a-394a-4b90-840e-bf7ab45a833b/2022-06-25-13-43-36-E1C12154-BB87-4F5C-B90E-D08938BAF933-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h">Jacob's Creek</section>
     <section class="h text-bolder">Classic Cabernet Sauvignon - 2016</section>
   </a>
 

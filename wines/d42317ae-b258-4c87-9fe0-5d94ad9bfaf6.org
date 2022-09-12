@@ -32,7 +32,7 @@ Amazing value. Considering that it spent 84 months on lees, the price under $50 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ee50b000-a312-4fce-b420-744aaa529116.html">
     <img class="flex-bottle" src="/images/ee/50b000-a312-4fce-b420-744aaa529116/2022-05-21-10-30-30-B4A8E648-D83F-4A9A-8A04-BAF5FDC68AC1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Concha y Toro</section>
+    <section class="h">Concha y Toro</section>
     <section class="h text-bolder">Casillero del Diablo Carmenere Reserva - 2019</section>
   </a>
 

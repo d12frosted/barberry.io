@@ -23,19 +23,19 @@ Traditional method sparkling rosé made of Sumoll. Barberry, apple, toasts and..
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
     <img class="flex-bottle" src="/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Gentleman - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
     <img class="flex-bottle" src="/images/f9/67170b-4418-45f3-8d3f-5be4cb53843d/2021-06-15-08-10-09-C9DD6CFC-AB46-4C40-BF43-8A848D144AB9-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Clos Lentiscus</section>
+    <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Syrah CRV Rosé Brut Nature - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
     <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Fedellos do Couto</section>
+    <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>
 

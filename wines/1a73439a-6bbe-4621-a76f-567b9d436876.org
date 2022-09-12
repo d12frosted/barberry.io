@@ -31,7 +31,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/be82c004-a570-40ec-9962-87836bfeacd2.html">
     <img class="flex-bottle" src="/images/be/82c004-a570-40ec-9962-87836bfeacd2/2022-08-29-17-01-01-FA938315-D1DD-43B4-9119-2B10C5A9F7B8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tomislav Marković</section>
+    <section class="h">Tomislav Marković</section>
     <section class="h text-bolder">Parabole - 2018</section>
   </a>
 

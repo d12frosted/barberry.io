@@ -33,31 +33,31 @@ Deep amber colour and of course it's cloudy. Powerful bouquet with secondary and
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
     <img class="flex-bottle" src="/images/76/7a24b9-3ae4-4ea9-9955-a4c7157e6afe/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Cantina Alchemica</section>
+    <section class="h">Cantina Alchemica</section>
     <section class="h text-bolder">M Rosso - 2006</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
     <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Stoppa</section>
+    <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
     <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Radikon</section>
+    <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
     <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Gravner</section>
+    <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Kmetija Štekar</section>
+    <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>
 

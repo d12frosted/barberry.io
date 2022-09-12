@@ -23,31 +23,31 @@ Good, but not fascinating. Maybe requires a slower pace to fully enjoy it. Raw m
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b393d9cb-bde1-4785-a061-4a1a9c074ad5.html">
     <img class="flex-bottle" src="/images/b3/93d9cb-bde1-4785-a061-4a1a9c074ad5/2022-08-09-14-28-23-E0712BAA-DA8B-4F15-B792-8D99650BBF00-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Alberto Oggero</section>
+    <section class="h">Alberto Oggero</section>
     <section class="h text-bolder">Roero Arneis - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
     <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Alessandro Viola</section>
+    <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Le mie Origini - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2022-08-17-10-33-10-02E59099-F76E-4D80-A5F5-FD94E1D10CE7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine de la Touraize</section>
+    <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
     <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369.webp"></img>
-    <section class="h text-small text-lighter">Anne et J.F. Ganevat</section>
+    <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
     <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Sadie Family</section>
+    <section class="h">Sadie Family</section>
     <section class="h text-bolder">Skerpioen - 2018</section>
   </a>
 

@@ -23,25 +23,25 @@ Wonderful medium-full bodied blend of Cabernet Sauvignon, Merlot and Carménère
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/27c6bf4d-38f4-4488-b236-c7f205fd7f43.html">
     <img class="flex-bottle" src="/images/27/c6bf4d-38f4-4488-b236-c7f205fd7f43/IMG-1302.webp"></img>
-    <section class="h text-small text-lighter">San Leonardo</section>
+    <section class="h">San Leonardo</section>
     <section class="h text-bolder">San Leonardo - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/43c2c852-f191-4755-b648-7791aacc9fce.html">
     <img class="flex-bottle" src="/images/43/c2c852-f191-4755-b648-7791aacc9fce/2022-06-25-13-40-46-99152A43-3EAB-4210-81B2-F02792627453-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">San Leonardo</section>
+    <section class="h">San Leonardo</section>
     <section class="h text-bolder">Vette - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
     <img class="flex-bottle" src="/images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Paul Benoit et Fils</section>
+    <section class="h">Paul Benoit et Fils</section>
     <section class="h text-bolder">Pinot Arbois - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">
     <img class="flex-bottle" src="/images/d3/1203d7-6889-4b84-b67a-05cafc0a5cef/2022-05-08-15-04-10-7148ED7D-4BAA-48DC-85F4-2B30BE7D41FE-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Mud House</section>
+    <section class="h">Mud House</section>
     <section class="h text-bolder">Pinot Noir Central Otago - 2020</section>
   </a>
 

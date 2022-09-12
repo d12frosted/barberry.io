@@ -27,13 +27,13 @@ Plain and straight-forward wine. Glass full of mix of red fruits, fallen leaves 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3bc5dec6-eae8-4fd6-8731-d726947aad66.html">
     <img class="flex-bottle" src="/images/3b/c5dec6-eae8-4fd6-8731-d726947aad66/2021-07-23-07-51-53-IMG-2660.webp"></img>
-    <section class="h text-small text-lighter">La Biancara</section>
+    <section class="h">La Biancara</section>
     <section class="h text-bolder">Garg'n'go - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4f6d8434-a726-4e9a-955a-745813fdd7d1.html">
     <img class="flex-bottle" src="/images/4f/6d8434-a726-4e9a-955a-745813fdd7d1/2021-07-23-07-45-34-IMG-2663.webp"></img>
-    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h">Matassa</section>
     <section class="h text-bolder">Cuvée Marguerite - 2020</section>
   </a>
 

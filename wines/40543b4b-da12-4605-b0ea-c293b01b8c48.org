@@ -37,61 +37,61 @@ Stability is not about this wine. I've tasted it on multiple occasions and it fi
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
     <img class="flex-bottle" src="/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
     <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-09-03-15-14-14-E68C1CB7-2DA5-4C01-B78D-2E336C030AEB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Pinot Noir - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3171f223-b386-4b4f-9870-ede738f53f7a.html">
     <img class="flex-bottle" src="/images/31/71f223-b386-4b4f-9870-ede738f53f7a/2022-09-03-12-17-02-0BA9D59B-373C-4877-93F9-8282261DF495-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Schiller Fercsy - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
     <img class="flex-bottle" src="/images/4b/ac6da8-95e1-4c49-bcfc-f7b8e672d543/2022-09-03-15-18-07-C1B3AC4D-ABDF-4A7E-99B6-C5A3AF8FD5A0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4.html">
     <img class="flex-bottle" src="/images/be/2a9fd4-3b19-4e77-bf63-23e1a04a2ca4/2022-09-03-15-09-46-E04AE10C-7637-41D1-81A8-96D647B28DB9-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Csury - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c0acd31a-42df-449b-8667-24de166fe520.html">
     <img class="flex-bottle" src="/images/c0/acd31a-42df-449b-8667-24de166fe520/2022-09-03-11-48-57-0F6BE269-39B7-4CC3-BB10-DFDD536F7D05-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Resi - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
     <img class="flex-bottle" src="/images/8f/a18910-506d-4487-b682-c6099bc38df5/2020-10-17-10-03-55-EDD91F2E-EF7B-4D1A-A2CE-84BBFC084706-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Sorga</section>
+    <section class="h">La Sorga</section>
     <section class="h text-bolder">S.M. - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
     <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tiago Teles</section>
+    <section class="h">Tiago Teles</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 

@@ -37,85 +37,85 @@ An expected bottle variation. Again. Less smoky than other bottles I tasted, yet
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">
     <img class="flex-bottle" src="/images/04/28e6c1-e095-499f-8c38-ede9e2dc2f64/2022-07-16-10-01-54-EF7C93D2-1874-46F1-B05D-21A15AC6D9F2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
     <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-09-03-15-14-14-E68C1CB7-2DA5-4C01-B78D-2E336C030AEB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Pinot Noir - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3171f223-b386-4b4f-9870-ede738f53f7a.html">
     <img class="flex-bottle" src="/images/31/71f223-b386-4b4f-9870-ede738f53f7a/2022-09-03-12-17-02-0BA9D59B-373C-4877-93F9-8282261DF495-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Schiller Fercsy - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
     <img class="flex-bottle" src="/images/40/543b4b-da12-4605-b0ea-c293b01b8c48/2020-10-17-10-36-01-1FF02925-4058-4BDF-9549-1C0EA1A0E5C1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543.html">
     <img class="flex-bottle" src="/images/4b/ac6da8-95e1-4c49-bcfc-f7b8e672d543/2022-09-03-15-18-07-C1B3AC4D-ABDF-4A7E-99B6-C5A3AF8FD5A0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4.html">
     <img class="flex-bottle" src="/images/be/2a9fd4-3b19-4e77-bf63-23e1a04a2ca4/2022-09-03-15-09-46-E04AE10C-7637-41D1-81A8-96D647B28DB9-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Csury - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c0acd31a-42df-449b-8667-24de166fe520.html">
     <img class="flex-bottle" src="/images/c0/acd31a-42df-449b-8667-24de166fe520/2022-09-03-11-48-57-0F6BE269-39B7-4CC3-BB10-DFDD536F7D05-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Hummel</section>
+    <section class="h">Hummel</section>
     <section class="h text-bolder">Resi - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/03375e0e-4539-48ce-a3e9-3946ba9e49b2.html">
     <img class="flex-bottle" src="/images/03/375e0e-4539-48ce-a3e9-3946ba9e49b2/2022-09-05-20-40-34-IMG-2008.webp"></img>
-    <section class="h text-small text-lighter">Planères</section>
+    <section class="h">Planères</section>
     <section class="h text-bolder">Grenache - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
     <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Fedellos do Couto</section>
+    <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Lomba dos Ares - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
     <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Pierre Frick</section>
+    <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
     <img class="flex-bottle" src="/images/bf/de04c3-3a3b-4e38-9448-21bf3f5d52a3/2022-09-05-20-50-30-IMG-2012.webp"></img>
-    <section class="h text-small text-lighter">Cume do Avia</section>
+    <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
     <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp"></img>
-    <section class="h text-small text-lighter">Cascina Degli Ulivi</section>
+    <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Filagnotti - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f07b112f-031d-490c-9c51-8af5fab9cede.html">
     <img class="flex-bottle" src="/images/f0/7b112f-031d-490c-9c51-8af5fab9cede/2022-07-02-09-11-38-189E4BF5-84AA-439B-A919-AAAB8080FCFB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Casa Coste Piane</section>
+    <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Brichet Frizzante ...Naturalmente - NV</section>
   </a>
 

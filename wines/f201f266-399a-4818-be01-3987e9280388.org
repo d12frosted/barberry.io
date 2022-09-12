@@ -23,19 +23,19 @@ Simple Trousseau from Arbois. Cranberry, cherry and notes of coffee (maybe someo
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Andre et Mireille Tissot</section>
+    <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Arbois Vin Jaune Les Bruyeres - 2012</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/308e3982-753f-4251-96fd-29379e2e0de0.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Matassa</section>
+    <section class="h">Matassa</section>
     <section class="h text-bolder">Mambo Sun - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
     <img class="flex-bottle" src="/images/cd/920007-4ce3-4985-8aef-24c39ad97437/2021-12-10-08-31-44-97153939-1A0B-464C-BFFD-949CB733033C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
 

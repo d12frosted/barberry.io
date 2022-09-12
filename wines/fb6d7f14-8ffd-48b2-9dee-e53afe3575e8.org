@@ -31,25 +31,25 @@ Tasted as part of Il Pirata event.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
     <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp"></img>
-    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
     <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Girolamo Russo</section>
+    <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
     <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
     <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Alessandro Viola</section>
+    <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
   </a>
 

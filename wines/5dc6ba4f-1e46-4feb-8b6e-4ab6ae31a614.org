@@ -40,13 +40,13 @@ wonderful QPR.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
     <img class="flex-bottle" src="/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Mtsvane - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
     <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tsikhelishvili Wines</section>
+    <section class="h">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
   </a>
 

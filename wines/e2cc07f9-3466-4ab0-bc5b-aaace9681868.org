@@ -27,31 +27,31 @@ Up to expectations, easy going and friendly Chardonnay that is approachable yet 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25222939-23da-4fee-99de-28482c8f24e6.html">
     <img class="flex-bottle" src="/images/25/222939-23da-4fee-99de-28482c8f24e6/2021-09-18-10-32-46-33786B15-4A07-4E66-9C26-6C679D724F40-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
     <img class="flex-bottle" src="/images/3f/379a50-e386-49c9-a754-66b068648c81/2022-06-09-22-03-13-IMG-0389.webp"></img>
-    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">
     <img class="flex-bottle" src="/images/70/1467bd-f72d-461f-a59e-5d7da0e98a8f/2020-10-18-13-53-29-398E0F67-117F-4535-9055-9779F45E327C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bodega Catena Zapata</section>
+    <section class="h">Bodega Catena Zapata</section>
     <section class="h text-bolder">Argentino - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
     <img class="flex-bottle" src="/images/8f/e19c6a-4169-4e27-bf89-512c429c6725/2022-06-26-17-22-16-89EEF1FC-9732-4B32-A5A4-20F5FF65CF48-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Stellenbosch Hills</section>
+    <section class="h">Stellenbosch Hills</section>
     <section class="h text-bolder">Chenin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d475d86d-a8a1-4466-8dce-40252032232d.html">
     <img class="flex-bottle" src="/images/d4/75d86d-a8a1-4466-8dce-40252032232d/2022-06-27-06-26-30-8F09B65A-07A1-42C6-89FB-8A1A6725CCF5-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Weinland Rheingau</section>
+    <section class="h">Weinland Rheingau</section>
     <section class="h text-bolder">Rüdesheimer Burgweg Riesling Trocken - 2021</section>
   </a>
 

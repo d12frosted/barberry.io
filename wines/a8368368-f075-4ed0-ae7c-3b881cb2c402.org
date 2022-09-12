@@ -23,7 +23,7 @@ Clean red fruits compote with random spices and ripe red apple. I would take it 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2ae8dc33-cd05-4208-b028-94e7acae704a.html">
     <img class="flex-bottle" src="/images/2a/e8dc33-cd05-4208-b028-94e7acae704a/2022-08-20-11-14-08-FBD2E899-2FD6-472C-943B-318C7E141403-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">La Cave Apicole</section>
+    <section class="h">La Cave Apicole</section>
     <section class="h text-bolder">Java - 2021</section>
   </a>
 

@@ -33,49 +33,49 @@ and interesting palate.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
     <img class="flex-bottle" src="/images/2a/dba2d9-cc62-4e2b-bcec-5bc363fc2194/2020-11-07-10-05-32-4D059B94-51B5-4A46-95AE-357BE9C7517A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">
     <img class="flex-bottle" src="/images/49/41eb84-f727-4196-a96c-502a5bc2137f/2022-07-22-20-01-31-5736B22E-0A5C-4064-B71E-78AE4122AAD4-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
     <img class="flex-bottle" src="/images/5d/4114ef-7bb4-4274-8889-d349f7971daa/2022-07-21-07-35-44-DEEDE4DF-E60D-4DA4-88E5-438F0D616FC5-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">
     <img class="flex-bottle" src="/images/8a/d2d430-ba67-47e0-a257-c05ffe537bff/2021-01-24-12-38-11-49D4C33F-85BC-48E9-99F7-558711E3AA97-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
     <img class="flex-bottle" src="/images/a0/0de9a6-3e60-4ab4-8b81-279995809572/2022-06-21-14-29-45-EB85A16C-F636-4B32-A6DE-208899B4AA1C-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cd920007-4ce3-4985-8aef-24c39ad97437.html">
     <img class="flex-bottle" src="/images/cd/920007-4ce3-4985-8aef-24c39ad97437/2021-12-10-08-31-44-97153939-1A0B-464C-BFFD-949CB733033C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
     <img class="flex-bottle" src="/images/d3/8aadd5-6c84-40a0-93c9-8ff6b7468553/2022-06-21-14-31-39-C73B544C-2B9B-4113-B737-A75DE735090F-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito Skin - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">
     <img class="flex-bottle" src="/images/d7/faed1b-ff73-4f26-be36-633d6664ecfd/2022-07-31-12-09-30-1E74CDFE-F429-4293-B0E8-140EFDE593A0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Testalonga</section>
+    <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Follow Your Dreams - 2021</section>
   </a>
 

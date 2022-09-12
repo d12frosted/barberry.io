@@ -23,25 +23,25 @@ For the last few days, I consumed too many Pet Nats. Why? I don't know. Do I lov
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
     <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp"></img>
-    <section class="h text-small text-lighter">Loimer</section>
+    <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
     <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
-    <section class="h text-small text-lighter">Pierre Trichet</section>
+    <section class="h">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
     <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
-    <section class="h text-small text-lighter">Gérard Bertrand</section>
+    <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">
     <img class="flex-bottle" src="/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Villa Clara</section>
+    <section class="h">Villa Clara</section>
     <section class="h text-bolder">Cava Brut - NV</section>
   </a>
 

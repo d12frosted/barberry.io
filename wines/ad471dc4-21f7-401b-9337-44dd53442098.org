@@ -23,25 +23,25 @@ Unexpectedly nice Cabernet Franc. And luckily not bell-pepper-driven. Black frui
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
     <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000.webp"></img>
-    <section class="h text-small text-lighter">Patrick Sullivan</section>
+    <section class="h">Patrick Sullivan</section>
     <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
     <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Marco De Bartoli</section>
+    <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Vignaverde - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">COS</section>
+    <section class="h">COS</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Arianna Occhipinti</section>
+    <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 

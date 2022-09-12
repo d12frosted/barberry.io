@@ -23,7 +23,7 @@ I definitely enjoy amount and quality of technical information on the official s
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5d1362c2-a73e-4d28-ba46-650254235397.html">
     <img class="flex-bottle" src="/images/5d/1362c2-a73e-4d28-ba46-650254235397/2022-07-16-11-55-26-A20B4768-9EA5-45F9-A094-42DBF22B9344-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Prince Trubetskoi Winery</section>
+    <section class="h">Prince Trubetskoi Winery</section>
     <section class="h text-bolder">Blanc de Blancs - 2017</section>
   </a>
 

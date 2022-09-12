@@ -27,37 +27,37 @@ Tasted on the go, so little time to properly asset it. Completely different from
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
     <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
-    <section class="h text-small text-lighter">Loimer</section>
+    <section class="h">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/15de3767-34e7-41b3-9c94-0f1373e00e22.html">
     <img class="flex-bottle" src="/images/15/de3767-34e7-41b3-9c94-0f1373e00e22/2021-06-27-10-39-52-6FA867D8-AEBD-48C3-8CAA-891B1903B9F1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Cume do Avia</section>
+    <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Arraiano Tinto - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">
     <img class="flex-bottle" src="/images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Comando G</section>
+    <section class="h">Comando G</section>
     <section class="h text-bolder">Rozas 1-er Cru - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">
     <img class="flex-bottle" src="/images/33/9ca8d9-fc56-47b9-8947-fa94115b980d/2022-07-16-21-06-43-IMG-0788.webp"></img>
-    <section class="h text-small text-lighter">Bel Colle</section>
+    <section class="h">Bel Colle</section>
     <section class="h text-bolder">Verduno Pelaverga - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">
     <img class="flex-bottle" src="/images/e0/80c035-c2fa-412a-bce9-007a9ba98063/2022-07-18-20-52-14-24597A98-119C-4834-8705-797EEF834D09-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">Quinta de Chocapalha</section>
+    <section class="h">Quinta de Chocapalha</section>
     <section class="h text-bolder">Branco - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/feae6677-5c09-4730-9a13-d96d7cb102cd.html">
     <img class="flex-bottle" src="/images/fe/ae6677-5c09-4730-9a13-d96d7cb102cd/2021-06-27-10-05-21-78AC0732-9A01-4EE9-94AF-25BCB61359B2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Fio Wein</section>
+    <section class="h">Fio Wein</section>
     <section class="h text-bolder">Piu Piu Petnat - NV</section>
   </a>
 

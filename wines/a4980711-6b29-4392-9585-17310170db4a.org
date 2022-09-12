@@ -25,19 +25,19 @@ I was sceptical about this wine. But it turned out to be 'an everyday luxury' sp
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/dab2a380-6aa2-45fa-b870-9a504291acce.html">
     <img class="flex-bottle" src="/images/da/b2a380-6aa2-45fa-b870-9a504291acce/2020-12-27-13-22-01-3908C915-D6C2-4144-B8FD-A01F61E34A31-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Kir-Yianni</section>
+    <section class="h">Kir-Yianni</section>
     <section class="h text-bolder">Kali Riza - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">
     <img class="flex-bottle" src="/images/aa/d8eba2-9514-4eac-8668-2f4ec69c541c/2022-07-02-16-30-16-FD8AA6FE-C621-4B5E-84B2-C0910A29D85B.webp"></img>
-    <section class="h text-small text-lighter">Félix Solís</section>
+    <section class="h">Félix Solís</section>
     <section class="h text-bolder">Pulpo Sauvignon Blanc - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
     <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Mas Pere</section>
+    <section class="h">Mas Pere</section>
     <section class="h text-bolder">Selecció Brut Cava - NV</section>
   </a>
 

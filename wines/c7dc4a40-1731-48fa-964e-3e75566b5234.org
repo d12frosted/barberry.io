@@ -21,7 +21,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
     <img class="flex-bottle" src="/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861.webp"></img>
-    <section class="h text-small text-lighter">Lyme Bay</section>
+    <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Bacchus Block - 2018</section>
   </a>
 

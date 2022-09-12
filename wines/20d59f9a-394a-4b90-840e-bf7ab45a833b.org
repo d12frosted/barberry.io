@@ -23,19 +23,19 @@ Honestly, I was expecting it to be dead at this point. But it's still alive. It 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">
     <img class="flex-bottle" src="/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h">Jacob's Creek</section>
     <section class="h text-bolder">Classic Chardonnay - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">
     <img class="flex-bottle" src="/images/76/4bd923-7614-4d69-ac9c-556694bb1c9f/2022-07-08-07-42-03-636D9CC8-8CED-467A-A97D-7E0006FFFC6A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h">Jacob's Creek</section>
     <section class="h text-bolder">Sparkling Rosé - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">
     <img class="flex-bottle" src="/images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Illuminati</section>
+    <section class="h">Illuminati</section>
     <section class="h text-bolder">Costalupo - 2021</section>
   </a>
 

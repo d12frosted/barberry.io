@@ -23,13 +23,13 @@ Jokes aside, sometimes you need a basic wine, as straightforward as a door. Cons
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6af7fcda-8b81-46eb-9ffd-10bbc0c8d790.html">
     <img class="flex-bottle" src="/images/6a/f7fcda-8b81-46eb-9ffd-10bbc0c8d790/2022-08-21-13-27-32-43854C44-C25E-4F3E-9D1F-8A2F99732F71-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tiefgang</section>
+    <section class="h">Tiefgang</section>
     <section class="h text-bolder">Kalkstein Spätburgunder Trocken - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e5ee19b5-c687-49fd-8e11-0878288cd5a5.html">
     <img class="flex-bottle" src="/images/e5/ee19b5-c687-49fd-8e11-0878288cd5a5/2022-08-24-14-00-10-01C9E9F1-6DE0-48E3-AD0A-47F882D76D55-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bava</section>
+    <section class="h">Bava</section>
     <section class="h text-bolder">Ruché - 2019</section>
   </a>
 

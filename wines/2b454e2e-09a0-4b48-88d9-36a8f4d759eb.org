@@ -27,37 +27,37 @@ Very good Sauvignon Blanc in a slightly oxidative style. Expressive bouquet of g
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
     <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">
     <img class="flex-bottle" src="/images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
     <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04.html">
     <img class="flex-bottle" src="/images/e3/820d93-76e7-4820-ba6c-1b311dccfe04/2022-09-02-09-32-14-8BF36FB5-A268-498C-A163-CA3225C83A88-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Rouillon Cheverny - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
     <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Storm</section>
+    <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
     <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Chateau Laffitte Carcasset</section>
+    <section class="h">Chateau Laffitte Carcasset</section>
     <section class="h text-bolder">Saint-Estephe Cru Bourgeois - 2016</section>
   </a>
 

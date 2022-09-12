@@ -23,13 +23,13 @@ In spite of 2018 that I tasted a year ago, this bottle jumped into my hands acci
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b042bbfa-6aae-4c9b-af7f-84ac379f40e3.html">
     <img class="flex-bottle" src="/images/b0/42bbfa-6aae-4c9b-af7f-84ac379f40e3/2021-07-08-09-13-44-8AE9A10D-AB90-41AF-9697-D0C3AD8D10D8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Montevertine</section>
+    <section class="h">Montevertine</section>
     <section class="h text-bolder">Pian del Ciampolo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/76eeb8f3-6999-43cc-9a7f-5187de72fc36.html">
     <img class="flex-bottle" src="/images/76/eeb8f3-6999-43cc-9a7f-5187de72fc36/2022-08-29-16-21-23-F9AA96AF-77BE-4A44-B4DD-EF5443E00008-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Perricone Guarnaccio - 2018</section>
   </a>
 

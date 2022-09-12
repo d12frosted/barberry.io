@@ -23,13 +23,13 @@ A bright and fresh combination of pear, butter and flowers with citrus notes. Me
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
     <img class="flex-bottle" src="/images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Spier Wines</section>
+    <section class="h">Spier Wines</section>
     <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">
     <img class="flex-bottle" src="/images/1b/9610bc-f390-46f5-989f-da6771f01eef/2022-06-25-13-42-27-13A4CAAD-EC4E-4317-B0FE-DC5633FBA758-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Jacob's Creek</section>
+    <section class="h">Jacob's Creek</section>
     <section class="h text-bolder">Classic Chardonnay - 2017</section>
   </a>
 

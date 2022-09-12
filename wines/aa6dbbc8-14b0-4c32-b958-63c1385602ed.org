@@ -23,7 +23,7 @@ Ribolla Gialla, long Charmat Method (9 months on lees). It sounds like something
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">
     <img class="flex-bottle" src="/images/d4/ae10ce-c086-4592-bd4e-37e41322918c/2022-07-08-09-31-06-1CD70F52-E6A6-485F-91F7-CA8F377070D6-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Piera Martellozzo</section>
+    <section class="h">Piera Martellozzo</section>
     <section class="h text-bolder">Terre Magre Ribolla Gialla - NV</section>
   </a>
 

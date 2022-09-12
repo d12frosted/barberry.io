@@ -39,37 +39,37 @@ Elegant and wonderful bouquet, already showing maturity, but still has energy. R
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
     <img class="flex-bottle" src="/images/0d/10ef94-c415-4d5d-92d8-635503f5460b/2021-08-27-16-54-46-4F775A73-E23D-40FD-BECB-8EE5B2D4AAC1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine Guyon</section>
+    <section class="h">Domaine Guyon</section>
     <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2bda63b5-ffd3-4361-a793-f3122825adbb.html">
     <img class="flex-bottle" src="/images/2b/da63b5-ffd3-4361-a793-f3122825adbb/2021-08-27-16-40-06-C0C8E884-98F3-4673-A462-63D9EF1A2728-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine Chantal Lescure</section>
+    <section class="h">Domaine Chantal Lescure</section>
     <section class="h text-bolder">Vosne-Romanee 1er cru Les Suchots - 2011</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3b558b9b-f239-4ad3-b48b-17c07d8d2dfa.html">
     <img class="flex-bottle" src="/images/3b/558b9b-f239-4ad3-b48b-17c07d8d2dfa/2021-08-27-16-30-42-A4C8239E-FF62-4DA1-9058-ACA5239143EC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Bernard Dugat-Py</section>
+    <section class="h">Bernard Dugat-Py</section>
     <section class="h text-bolder">Gevrey-Chambertin 1er cru Champeaux - 2008</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8cbe57db-77d3-4d08-9332-86f4635e118d.html">
     <img class="flex-bottle" src="/images/8c/be57db-77d3-4d08-9332-86f4635e118d/2021-08-27-16-19-40-2B80C1F9-D18C-4E70-BB7C-B2DFF6CCE1C5-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine Trapet Pere et Fils</section>
+    <section class="h">Domaine Trapet Pere et Fils</section>
     <section class="h text-bolder">Gevrey-Chambertin Ostrea - 2012</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/98dfd6cc-9ca9-4a91-a002-362dfb191221.html">
     <img class="flex-bottle" src="/images/98/dfd6cc-9ca9-4a91-a002-362dfb191221/2021-08-27-16-06-18-FCE6702E-6975-4D46-A5D1-674BD9AAD57B-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine George Noëllat</section>
+    <section class="h">Domaine George Noëllat</section>
     <section class="h text-bolder">1er cru Les Boudots - 2004</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">
     <img class="flex-bottle" src="/images/dc/a1a3aa-40c1-4635-b8d9-295a27ae23d0/2021-08-27-17-25-38-89F25E83-DCE8-4563-97F0-0C701FD490AF-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">The Hilt</section>
+    <section class="h">The Hilt</section>
     <section class="h text-bolder">Estate Pinot Noir - 2017</section>
   </a>
 

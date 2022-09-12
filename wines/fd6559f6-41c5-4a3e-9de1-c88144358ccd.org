@@ -23,13 +23,13 @@ Bordeaux is a rare guest in my glass. And so it's interesting. Black berries, ja
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
     <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Clos du Tue-Boeuf</section>
+    <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
     <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Storm</section>
+    <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 

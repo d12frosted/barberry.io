@@ -23,13 +23,13 @@ Simple and not demanding Pet-Nat. Apple, yeast and soap. Weak mousse. Bad value.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/651f7930-578b-41fb-98f1-ca1bca0e057a.html">
     <img class="flex-bottle" src="/images/65/1f7930-578b-41fb-98f1-ca1bca0e057a/2022-08-20-10-38-38-CF2E0CE0-8D26-491F-A6B7-C5996F828615-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Alta Alella</section>
+    <section class="h">Alta Alella</section>
     <section class="h text-bolder">Asarvos - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">Krasna Hora</section>
+    <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>
 

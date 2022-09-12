@@ -23,7 +23,7 @@ A wine that I would gladly drink somewhere on a tropical island, enjoying the vi
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/691d0b6c-4baf-4026-9f7a-36e86f81a007.html">
     <img class="flex-bottle" src="/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp"></img>
-    <section class="h text-small text-lighter">Tasca</section>
+    <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Grillo Cavallo Delle Fate - 2019</section>
   </a>
 

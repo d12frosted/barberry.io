@@ -26,13 +26,13 @@ Better pair with some meat.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">
     <img class="flex-bottle" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Feudi di San Gregorio</section>
+    <section class="h">Feudi di San Gregorio</section>
     <section class="h text-bolder">Serpico - 2005</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">
     <img class="flex-bottle" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Feudi di San Gregorio</section>
+    <section class="h">Feudi di San Gregorio</section>
     <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
   </a>
 

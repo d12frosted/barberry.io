@@ -25,7 +25,7 @@ When it comes to pebbles, I really love those covered with moss. Maybe because i
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b23f15d6-d997-4d38-bd77-bc40959699de.html">
     <img class="flex-bottle" src="/images/b2/3f15d6-d997-4d38-bd77-bc40959699de/2021-10-18-21-41-47-34480A54-4F80-46FD-949B-7F1BABBDED2E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Domaine Patrick Baudouin</section>
+    <section class="h">Domaine Patrick Baudouin</section>
     <section class="h text-bolder">Le Cornillard Anjou - 2014</section>
   </a>
 

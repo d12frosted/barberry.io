@@ -27,7 +27,7 @@ One of those brands I avoided for a long time, but then life settled everything 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">
     <img class="flex-bottle" src="/images/77/312847-db16-4aa4-ad60-59576ffa9b6f/2022-06-25-13-26-02-468B6893-5C8E-4FD1-A68A-526A39CE9000-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">Brancott Estate</section>
+    <section class="h">Brancott Estate</section>
     <section class="h text-bolder">Letter Series T Pinot Noir - 2019</section>
   </a>
 
