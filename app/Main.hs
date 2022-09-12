@@ -143,7 +143,7 @@ main = hakyll $ do
       intro <- load "pages/intro.org"
       reviews <- load "pages/reviews-latest.org"
       let indexCtx =
-            listField "posts" postCtx (return posts)
+            listField "posts" postCtx (return $ take 8 posts)
               <> field "intro" (const . return . itemBody $ intro)
               <> field "latest-reviews" (const . return . itemBody $ reviews)
               <> constField "index-page" "true"
