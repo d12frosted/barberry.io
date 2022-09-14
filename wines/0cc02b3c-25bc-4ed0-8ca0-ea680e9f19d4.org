@@ -17,20 +17,34 @@
 
 Good ol' typical Pinot Noir from Marlborough with expected notes of strawberry jam, some dark berries and wet forest floor. Smooth, almost silky on the palate, long aftertaste with flavours of strawberry stew mixed with sweet tobacco and wet earth. Yummy. Finished bottle without noticing it.
 
+*** 2022-09-12 - ☆ 7.50
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
+  <a class="flex-item flex-item-left" href="/wines/3e2783a1-a59f-438e-8f56-a5fcd12d262b.html">
+    <img class="flex-bottle" src="/images/3e/2783a1-a59f-438e-8f56-a5fcd12d262b/2022-09-14-12-24-02-8EB1BD00-DFD3-4F74-AEBE-77231627409A-1-105-c.webp"></img>
+    <section class="h">Baron de Brane</section>
+    <section class="h text-bolder">Margaux - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
     <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp"></img>
     <section class="h">Raventós i Blanc</section>
     <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
     <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2021-09-26-13-58-56-A4D3E804-B831-4039-9AAD-D7AA61A70D99-1-105-c.webp"></img>
     <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fc50b325-92a3-406e-924c-dd0c4b936cb7.html">
+    <img class="flex-bottle" src="/images/fc/50b325-92a3-406e-924c-dd0c4b936cb7/2022-09-13-17-20-37-96965787-8289-4D2D-954F-29883F4B5D82-1-105-c.webp"></img>
+    <section class="h">Caravaglio</section>
+    <section class="h text-bolder">Salina - 2019</section>
   </a>
 
 </div>

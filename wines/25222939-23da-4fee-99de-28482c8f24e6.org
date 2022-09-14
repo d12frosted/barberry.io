@@ -25,10 +25,22 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
+  <a class="flex-item flex-item-left" href="/wines/2de3fd09-db65-496a-a89b-ef3792991247.html">
+    <img class="flex-bottle" src="/images/2d/e3fd09-db65-496a-a89b-ef3792991247/2022-09-14-15-01-18-E6A6FBDE-F44F-4A6D-AB35-B205B94785E4-1-105-c.webp"></img>
+    <section class="h">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation San Carlos Cabernet Franc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f379a50-e386-49c9-a754-66b068648c81.html">
     <img class="flex-bottle" src="/images/3f/379a50-e386-49c9-a754-66b068648c81/2022-06-09-22-03-13-IMG-0389.webp"></img>
     <section class="h">Bodega Catena Zapata</section>
     <section class="h text-bolder">Appellation Tupungato Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4e23b052-277f-40dc-8a71-52a5de7edd3f.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Bodega Catena Zapata</section>
+    <section class="h text-bolder">Appellation San Carlos Cabernet Franc - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/701467bd-f72d-461f-a59e-5d7da0e98a8f.html">

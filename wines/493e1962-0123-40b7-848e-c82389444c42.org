@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/49/3e1962-0123-40b7-848e-c82389444c42/2022-09-14-15-05-54-729A5FDE-173B-4D2B-9D26-5C3C47237997-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/8fc3ed06-8aa9-4137-a026-b236d34bf569][Lo Zoccolaio]]
+- Vintage :: 2019
+- Location :: Italy, Barbera d'Alba DOC
+- Grapes :: 
+- Alcohol :: 14.5
+- Sugar :: NA
+- Price :: 629 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/489fb974-cb44-460d-a9b3-b9469d7700b8.html">
+    <img class="flex-bottle" src="/images/48/9fb974-cb44-460d-a9b3-b9469d7700b8/2020-10-08-10-37-02-A34A7B9D-C2F9-49F5-B69D-46441F0D1C4A-1-105-c.webp"></img>
+    <section class="h">Lo Zoccolaio</section>
+    <section class="h text-bolder">Barbera d'Alba Sucule - 2016</section>
+  </a>
+
+</div>
+#+end_export

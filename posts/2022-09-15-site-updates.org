@@ -1,0 +1,105 @@
+This site is still in development. It's not as active as during the first month of its existence, but I still have plenty of ideas I explore whenever I have time and inspiration. A lot of stuff has been implemented since [[barberry:/posts/2022-06-16-site-updates][the last report]], so I figured it calls for a new post.
+
+* Text and fonts
+:PROPERTIES:
+:ID:                     e9556c59-3f14-42a0-a52a-28e739d6e469
+:END:
+
+The default font has changed because the previous one doesn't contain all the charsets I need. [[https://fonts.google.com/specimen/Alegreya+Sans?query=Alegreya+Sans][Alegreya Sans]] is used for headers, [[https://fonts.google.com/specimen/Source+Code+Pro?query=Source+Code+Pro][Source Code Pro]] is used for verbatim and code blocks, and [[https://fonts.google.com/specimen/M+PLUS+Rounded+1c?query=M+PLUS+Rounded+1c][M PLUS Rounded 1c]] is used as the default font. Aside from supporting more codepoints, M PLUS renders better on various screens (at least to my experience).
+
+In addition, the text is no longer justified and instead is left-aligned. The Internet overflows with articles explaining why text justification is not a good idea for the Web.
+
+* Home page
+:PROPERTIES:
+:ID:                     e6becef3-68bb-4388-ac6f-5b72d30ac328
+:END:
+
+The posts section now contains only 8 of the latest articles. There is a link to the full list, but now it occupies less space, which is nice.
+
+The latest reviews section now contains a minimum of 8 reviews (vs 12 before). While not a big deal for most days, in some cases, it drastically reduces the number of linked reviews. I don't list the exact number of reviews because I want to avoid cutting any of the days. For example, on the 2nd of September, I tasted 15 wines. I want all of them to be present.
+
+* Wine page
+:PROPERTIES:
+:ID:                     940e9627-b37a-4f12-9532-74222b7ff477
+:END:
+
+** Related wines
+:PROPERTIES:
+:ID:                     0b174965-6da7-4a3f-aaaa-7e8b84e14ccd
+:END:
+
+Related wines are now displayed on the wine page. Related wines are wines by the same producers or those tasted on the same days. At this moment, there is no limit on related wines number, so some pages are uncomfortably big.
+
+#+attr_html: :class img-half
+[[file:/images/2022-09-15-site-updates/2022-09-12-08-54-46-Screenshot 2022-09-11 at 21.00.39.webp]]
+
+One of the ideas is to provide the ability to switch between different views - plates and a table.
+
+** Missing image
+:PROPERTIES:
+:ID:                     2b7f6403-cbaf-4568-a76d-ffb9deb59c55
+:END:
+
+#+attr_html: :class img-half
+[[file:/images/2022-09-15-site-updates/2022-09-11-21-03-57-Screenshot 2022-09-11 at 21.03.37.webp]]
+
+Unfortunately, I have no photos of some wines. For such cases, I added a dummy photo to use instead. If you want to make a better photo, I would be happy.
+
+* Producer page
+:PROPERTIES:
+:ID:                     128a6201-7ae8-4cde-9a0c-3973535f8460
+:END:
+
+A new page type is added! Every producer has their own page now. This page contains any public notes I have on this producer and links to all wines of this producer.
+
+Unfortunately, very few producers have meaningful content, so I am going to double-post them as articles to make them more visible.
+
+You can find links to producers all over the place. And now you can see them as well - one of the perks of my publishing flow.
+
+* SEO
+:PROPERTIES:
+:ID:                     55b52195-bfe6-4940-9c57-5faeb16a953f
+:END:
+
+Open Graph metadata is provided by most of the pages now (with few notable exceptions). And that means some good-looking links when you share them on social media.
+
+#+attr_html: :class img-half img-float-left :alt article
+[[file:/images/2022-09-15-site-updates/2022-09-12-08-51-40-Screenshot 2022-09-12 at 08.50.59.webp]]
+
+#+attr_html: :class img-half img-float-right :alt wine
+[[file:/images/2022-09-15-site-updates/2022-09-12-09-14-38-Screenshot 2022-09-12 at 09.14.24.webp]]
+
+#+begin_export html
+<br class="clear-both">
+#+end_export
+
+* Other goodies
+:PROPERTIES:
+:ID:                     f6c0b75c-8946-4950-8cd5-d9e66d8b013f
+:END:
+
+The update date is now calculated automatically whenever the content changes. Nothing sophisticated. The system compares hashes to determine if there was a change. Meaning that even whitespace changes lead to update date changes. In addition, the update date can't be before the post date (sharing because some readers reported this funny artefact).
+
+The sorting capabilities of wine tables are improved. Accents, letter cases, and links are all properly handed.
+
+Searching in the tables got some improvements as well. Accents are neutralised, meaning that 'Cote' matches 'Côte'. You can type a space in the search query! I know it's crazy, but the underlying library doesn't allow spaces by default. Fixed that annoyance. In addition, matching strings are highlighted.
+
+* Development
+:PROPERTIES:
+:ID:                     c63d81c8-aede-434a-b6e9-b89b8f375eac
+:END:
+
+The core library that I use is available as a separate package. It's called [[https://github.com/d12frosted/publicatorg][publicatorg]] (because it publishes Org mode files). I am already using it for a few other projects. In short, publicatorg provides a way to match Vulpea notes into any targets and output them using user-defined compilers. Publicatorg supports incremental builds (including dependency-triggered changes). It's an extremely simple library but supports the flows required for this site's existence.
+
+Take a look at [[https://github.com/d12frosted/publicatorg/blob/f6f9af255f76487388a2c439878d6e167f877e78/test/publicatorg-test.el#L41-L82][the example project]] defined in the library's tests.
+
+With the appearance of publicatorg, several things were improved. I did a pretty dumb thing to include some 'content' information in the cache. And you know, it's dumb because you can't nuke your cache anymore. I did it because I needed one feature ASAP, but happy that the cache contains only... cache now!
+
+Another major improvement is related to change detection related to dependencies. Basically, dependency change triggers a rebuild. It also supports chained changes (or N-level dependency triggers). The only downside - it takes more time (~1min) to calculate the hash of every output (at the moment of writing, 3315 output files, not counting metadata files). But at least the system is more precise.
+
+* Acknowledgements
+:PROPERTIES:
+:ID:                     9ffe7d9c-b3d1-48c9-b6a0-63671b46eb71
+:END:
+
+Many thanks to Dmytro Kostiuchenko, who reported many issues over the last months.

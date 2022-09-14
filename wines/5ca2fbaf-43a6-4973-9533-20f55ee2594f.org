@@ -73,5 +73,11 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
+    <img class="flex-bottle" src="/images/50/40b17f-02d9-4088-8764-707cf0032439/2022-09-14-15-08-37-F1EAADBD-2ABA-4558-93CF-ECDB1BB67695-1-105-c.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
+  </a>
+
 </div>
 #+end_export

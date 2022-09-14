@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3e2783a1-a59f-438e-8f56-a5fcd12d262b.html">
+    <img class="flex-bottle" src="/images/3e/2783a1-a59f-438e-8f56-a5fcd12d262b/2022-09-14-12-24-02-8EB1BD00-DFD3-4F74-AEBE-77231627409A-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h text-bolder">Margaux - 2010</section>
+  </a>
+
+</div>
+#+end_export

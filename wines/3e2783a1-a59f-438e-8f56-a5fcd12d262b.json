@@ -1,0 +1,35 @@
+{
+  "id": "3e2783a1-a59f-438e-8f56-a5fcd12d262b",
+  "name": "Margaux",
+  "full-name": "Baron de Brane Margaux 2010",
+  "producer": {
+    "id": "d1c65bcd-19bf-4faf-86ba-6b666eba0e2d",
+    "name": "Baron de Brane"
+  },
+  "vintage": "2010",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "2590 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3e/2783a1-a59f-438e-8f56-a5fcd12d262b/2022-09-14-12-24-02-8EB1BD00-DFD3-4F74-AEBE-77231627409A-1-105-c.webp",
+  "rating": "7.75"
+}

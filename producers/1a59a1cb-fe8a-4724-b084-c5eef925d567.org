@@ -32,5 +32,11 @@ Yet the next year was a blessing and inspiration. The tribe managed to craft win
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/00f19a1c-96a2-4340-b34c-c27a7cfbb737.html">
+    <img class="flex-bottle" src="/images/00/f19a1c-96a2-4340-b34c-c27a7cfbb737/2022-09-14-14-59-09-A2DE4A16-637D-4945-8EC5-CFA2846D1C10-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Colleita #7 - 2019</section>
+  </a>
+
 </div>
 #+end_export

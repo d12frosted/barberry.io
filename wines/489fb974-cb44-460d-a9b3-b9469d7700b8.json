@@ -1,0 +1,31 @@
+{
+  "id": "489fb974-cb44-460d-a9b3-b9469d7700b8",
+  "name": "Barbera d'Alba Sucule",
+  "full-name": "Lo Zoccolaio Barbera d'Alba Sucule 2016",
+  "producer": {
+    "id": "8fc3ed06-8aa9-4137-a026-b236d34bf569",
+    "name": "Lo Zoccolaio"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2",
+  "prices": [
+    "439 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/48/9fb974-cb44-460d-a9b3-b9469d7700b8/2020-10-08-10-37-02-A34A7B9D-C2F9-49F5-B69D-46441F0D1C4A-1-105-c.webp",
+  "rating": "8.0"
+}

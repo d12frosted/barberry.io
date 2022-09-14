@@ -1,0 +1,31 @@
+{
+  "id": "fc50b325-92a3-406e-924c-dd0c4b936cb7",
+  "name": "Salina",
+  "full-name": "Caravaglio Salina 2019",
+  "producer": {
+    "id": "3ed1fd98-0c17-486e-957d-84a8fc10cd0a",
+    "name": "Caravaglio"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fc/50b325-92a3-406e-924c-dd0c4b936cb7/2022-09-13-17-20-37-96965787-8289-4D2D-954F-29883F4B5D82-1-105-c.webp",
+  "rating": "7.5"
+}

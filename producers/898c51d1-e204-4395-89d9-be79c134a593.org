@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6.html">
+    <img class="flex-bottle" src="/images/16/66a061-db29-41fb-bda4-1ab1e605ebb6/2022-09-14-14-52-12-56EA3890-F176-4305-B7DA-E8C7BE2A8170-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Cerro Añon Reserva - 2018</section>
+  </a>
+
+</div>
+#+end_export
