@@ -89,7 +89,6 @@ sub {
 }
 
 img.bg-logo {
-  width: 50%;
   max-width: 256px;
   display: block;
   float: none;

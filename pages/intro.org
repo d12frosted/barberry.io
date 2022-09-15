@@ -1,4 +1,4 @@
-#+attr_html: :class bg-logo
+#+attr_html: :class bg-logo :width 128 :height 128
 [[file:/images/vino-logo-256.webp]]
 
 Welcome to *Barberry Garden*, a place where we drink wine and talk about wine.
