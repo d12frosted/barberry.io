@@ -136,6 +136,20 @@ main = hakyll $ do
         >>= loadAndApplyTemplate "templates/default.html" ctx
         >>= relativizeUrls
 
+  match "pages/subscribe.html" $ do
+    route $ gsubRoute "pages/" (const "")
+    compile $ do
+      let subscribeCtx = defaultContext
+      getResourceBody
+        >>= applyAsTemplate subscribeCtx
+        >>= loadAndApplyTemplate "templates/default.html" subscribeCtx
+        >>= relativizeUrls
+
+  match "pages/ml-subscribe.html" $ do
+    route $ gsubRoute "pages/" (const "")
+    compile $ do
+      getResourceBody >>= relativizeUrls
+
   match "pages/index.html" $ do
     route $ gsubRoute "pages/" (const "")
     compile $ do

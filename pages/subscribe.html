@@ -1,0 +1,22 @@
+---
+title: Subscribe
+---
+
+<div>
+  <iframe id="ml-frame"
+          src="/ml-subscribe.html"
+          frameborder="0"
+          style="width: 100%;">
+  </iframe>
+</div>
+
+<script>
+  var frame = document.getElementById("ml-frame");
+  console.log(frame);
+  frame.onload = function() {
+    console.log(">>> loaded");
+    frame.style.width = frame.contentWindow.document.body.scrollWidth + 'px';
+    frame.style.height = frame.contentWindow.document.body.scrollHeight + 'px';
+    console.log(`$${frame.contentWindow.document.body.scrollHeight} x $${frame.contentWindow.document.body.scrollWidth}`);
+  }
+</script>

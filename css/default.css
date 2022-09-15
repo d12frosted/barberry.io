@@ -20,14 +20,17 @@
   --highlight-salient: #F7FCE3;
   --highlight-critical: #EFC6BE;
 
-  --h1-size: 2.8rem;
-  --h2-size: 2.4rem;
-  --h3-size: 2.0rem;
-  --h4-size: 1.6rem;
-  --code-size: 1.4rem;
-  --default-size: 1.6rem;
-  --small-size: 1.2rem;
-
+  --size-mult: 1.0;
+  /* --size-mult: 0.625; */
+  --title-size: calc(1.8rem * var(--size-mult));
+  --h1-size: calc(2.8rem * var(--size-mult));
+  --h2-size: calc(2.4rem * var(--size-mult));
+  --h3-size: calc(2.0rem * var(--size-mult));
+  --h4-size: calc(1.6rem * var(--size-mult));
+  --code-size: calc(1.4rem * var(--size-mult));
+  --default-size: calc(1.6rem * var(--size-mult));
+  --smaller-size: calc(1.4rem * var(--size-mult));
+  --small-size: calc(1.2rem * var(--size-mult));
 
   --header-font: "Alegreya Sans", sans-serif;
   --code-font: "Source Code Pro", monospace;
@@ -110,7 +113,7 @@ nav {
 }
 
 nav a {
-  font-size: 1.8rem;
+  font-size: var(--h2-size);
   font-weight: bold;
   color: var(--foreground);
   text-decoration: none;
@@ -121,7 +124,7 @@ footer {
   margin-top: 3rem;
   padding: 1.2rem 0;
   border-top: 0.2rem solid var(--subtle);
-  font-size: 1.2rem;
+  font-size: var(--small-size);
   color: var(--faded);
   clear: both;
 }
@@ -234,7 +237,7 @@ h3 span.material-symbols-outlined {
 }
 
 article .subtitle {
-  font-size: 1.4rem;
+  font-size: var(--smaller-size);
   color: var(--faded);
 }
 
@@ -292,7 +295,7 @@ figure {
 
 figcaption {
   color: var(--faded);
-  font-size: var(--small-size);
+  font-size: var(--smaller-size);
   text-align: center;
   margin-top: 0.6rem;
 }
@@ -315,7 +318,7 @@ article blockquote {
 }
 
 article table {
-  font-size: 1.4rem;
+  font-size: var(--smaller-size);
   margin: 0 auto;
 }
 
@@ -500,9 +503,10 @@ ul.rating-list {
     margin: 1rem auto 3rem;
   }
   .logo a {
-    font-size: 2.4rem;
+    font-size: var(--h2-size);
   }
   nav a {
+    font-size: var(--h2-size);
     display: block;
     line-height: 1.6;
   }
@@ -529,9 +533,10 @@ ul.rating-list {
     margin: 1rem auto 3rem;
   }
   .logo a {
-    font-size: 2.4rem;
+    font-size: var(--h2-size);
   }
   nav a {
+    font-size: var(--title-size);
     display: inline;
     margin: 0 0.6rem;
   }
@@ -539,7 +544,7 @@ ul.rating-list {
 
 @media (min-width: 800px) {
   body {
-    width: 60rem;
+    width: calc(60rem * var(--size-mult));
     margin: 0 auto !important;
     padding: 0;
   }
@@ -554,6 +559,7 @@ ul.rating-list {
   nav a {
     margin: 0 0 0 1.2rem;
     display: inline;
+    font-size: var(--title-size);
   }
   footer {
     text-align: right;
@@ -564,7 +570,7 @@ ul.rating-list {
   }
   .logo a {
     float: left;
-    font-size: 1.8rem;
+    font-size: var(--title-size);
   }
   img.bg-logo {
     display: block;
