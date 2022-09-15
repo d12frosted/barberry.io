@@ -9,9 +9,29 @@
 - Alcohol :: 14
 - Sugar :: NA
 - Price :: 475 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-09-14 - ☆ 7.50
 
+Straight-forward Rioja bomb. Fruit-forward with notes of oak, vanilla and some hints of sweet tobacco. Powerful, well-made, well-balanced. The aftertaste is long and warm. Not fascinating, but it has some charm. Ah, wait, it's not charm, it's decent QPR.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
+    <img class="flex-bottle" src="/images/36/2be9a4-0c7e-4802-b742-a82a1d87232a/2020-12-22-08-21-27-F66B47B5-6A11-4F38-9867-7A6F69DAA959-1-105-c.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Cerro Añon Reserva - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/00f19a1c-96a2-4340-b34c-c27a7cfbb737.html">
+    <img class="flex-bottle" src="/images/00/f19a1c-96a2-4340-b34c-c27a7cfbb737/2022-09-14-14-59-09-A2DE4A16-637D-4945-8EC5-CFA2846D1C10-1-105-c.webp"></img>
+    <section class="h">Cume do Avia</section>
+    <section class="h text-bolder">Colleita #7 - 2019</section>
+  </a>
+
+</div>
+#+end_export
