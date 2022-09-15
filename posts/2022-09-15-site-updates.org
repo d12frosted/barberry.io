@@ -18,6 +18,8 @@ The posts section now contains only 8 of the latest articles. There is a link to
 
 The latest reviews section now contains a minimum of 8 reviews (vs 12 before). While not a big deal for most days, in some cases, it drastically reduces the number of linked reviews. I don't list the exact number of reviews because I want to avoid cutting any of the days. For example, on the 2nd of September, I tasted 15 wines. I want all of them to be present.
 
+The subscription flow was moved to a separate page to avoid loading mostly unused assets.
+
 * Wine page
 :PROPERTIES:
 :ID:                     940e9627-b37a-4f12-9532-74222b7ff477
