@@ -255,8 +255,10 @@ article img {
   display: block;
 }
 
-article .img-half {
-  max-width: calc(50% - 0.6rem);
+@media (min-width: 800px) {
+  article .img-half {
+    max-width: calc(50% - 0.6rem);
+  }
 }
 
 article .img-float-left {
