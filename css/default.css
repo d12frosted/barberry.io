@@ -165,11 +165,11 @@ h3 {
 }
 
 .text-lighter {
-  font-weight: lighter;
+  font-weight: 300;
 }
 
 .text-bolder {
-  font-weight: bolder;
+  font-weight: 700;
 }
 
 .text-small {
