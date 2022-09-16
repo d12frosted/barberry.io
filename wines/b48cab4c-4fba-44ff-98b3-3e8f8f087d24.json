@@ -1,0 +1,31 @@
+{
+  "id": "b48cab4c-4fba-44ff-98b3-3e8f8f087d24",
+  "name": "Malvazija",
+  "full-name": "Škerk Malvazija 2016",
+  "producer": {
+    "id": "ee20a0e3-c5ed-4cd2-9603-2e774fb7a1c8",
+    "name": "Škerk"
+  },
+  "vintage": "2016",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.1",
+  "prices": [
+    "999 UAH"
+  ],
+  "available": 0,
+  "image": "images/b4/8cab4c-4fba-44ff-98b3-3e8f8f087d24/2020-07-29-08-40-35-5BBFC392-3A80-4C32-B114-59F172DE2C65-1-105-c.webp",
+  "rating": "8.0"
+}

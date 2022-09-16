@@ -23,7 +23,7 @@ Wine #7 on [[barberry:/posts/2022-07-28-mixed-bag][Mixed Bag Vol. 2: Orange]].
 
 *** 2022-09-15 - ☆ 8.00
 
-It turned out that it was not the last bottle. So I tasted it again to confirm the status of my personal guilty pleasure. And despite not being as impressive as the first time, I genuinely enjoyed it. Again, the same old Dirol gum with watermelon flavour. Banana, pumpkin seeds, grass, and some VA notes. Fresh, voluminous and persistent. A candy.
+It turned out that it was not the last bottle. So I tasted it again to confirm the status of my personal guilty pleasure. And despite not being as impressive as the first time, I genuinely enjoyed it. Again, the same old Dirol gum with watermelon flavour. Banana, pumpkin seeds, grass, and some VA notes. Strange, but this time there were Jerez-like notes as well. Fresh, voluminous and persistent. A candy.
 
 ** Related
 
@@ -65,10 +65,22 @@ It turned out that it was not the last bottle. So I tasted it again to confirm t
     <section class="h text-bolder">Ageno - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+  <a class="flex-item flex-item-left" href="/wines/4d3cc054-f510-409b-8278-2b6cdb439b7a.html">
+    <img class="flex-bottle" src="/images/4d/3cc054-f510-409b-8278-2b6cdb439b7a/QvWyMUehSCORzOpkp18etg.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
     <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03.html">
+    <img class="flex-bottle" src="/images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c.webp"></img>
+    <section class="h">Marguet</section>
+    <section class="h text-bolder">Shaman 17 Grand Cru - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">
@@ -83,10 +95,22 @@ It turned out that it was not the last bottle. So I tasted it again to confirm t
     <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
+  <a class="flex-item flex-item-right" href="/wines/a050a3c3-e72d-4b7e-8577-9e32cd850872.html">
+    <img class="flex-bottle" src="/images/a0/50a3c3-e72d-4b7e-8577-9e32cd850872/2022-09-16-10-08-34-02B3A0D3-0FFE-4DCF-B90B-7B35A77748E7-1-105-c.webp"></img>
+    <section class="h">Škerk</section>
+    <section class="h text-bolder">Ograde - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
     <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
     <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 1997</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ceaf515d-9fda-46c1-8acc-3da2621ffd19.html">
+    <img class="flex-bottle" src="/images/ce/af515d-9fda-46c1-8acc-3da2621ffd19/2022-09-16-09-21-46-5CB4DBF6-706D-4C62-A1F0-2D5FC8363526-1-105-c.webp"></img>
+    <section class="h">Pruneto</section>
+    <section class="h text-bolder">Chianti Classico - 2013</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">

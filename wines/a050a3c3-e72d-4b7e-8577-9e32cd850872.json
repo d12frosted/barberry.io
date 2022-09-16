@@ -1,0 +1,43 @@
+{
+  "id": "a050a3c3-e72d-4b7e-8577-9e32cd850872",
+  "name": "Ograde",
+  "full-name": "Škerk Ograde 2017",
+  "producer": {
+    "id": "ee20a0e3-c5ed-4cd2-9603-2e774fb7a1c8",
+    "name": "Škerk"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "947f03f5-d565-4af9-8a99-8adbaa2897b2",
+      "name": "Vitovska"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "fa96ba31-182e-4da7-9d88-30a63e686997",
+      "name": "Pinot Grigio"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.1",
+  "prices": [
+    "1215 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a0/50a3c3-e72d-4b7e-8577-9e32cd850872/2022-09-16-10-08-34-02B3A0D3-0FFE-4DCF-B90B-7B35A77748E7-1-105-c.webp",
+  "rating": "8.5"
+}

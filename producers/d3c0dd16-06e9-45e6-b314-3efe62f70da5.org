@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ceaf515d-9fda-46c1-8acc-3da2621ffd19.html">
+    <img class="flex-bottle" src="/images/ce/af515d-9fda-46c1-8acc-3da2621ffd19/2022-09-16-09-21-46-5CB4DBF6-706D-4C62-A1F0-2D5FC8363526-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 7.53</section>
+    <section class="h text-bolder">Chianti Classico - 2013</section>
+  </a>
+
+</div>
+#+end_export

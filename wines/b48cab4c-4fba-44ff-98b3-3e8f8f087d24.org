@@ -1,0 +1,31 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b4/8cab4c-4fba-44ff-98b3-3e8f8f087d24/2020-07-29-08-40-35-5BBFC392-3A80-4C32-B114-59F172DE2C65-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/ee20a0e3-c5ed-4cd2-9603-2e774fb7a1c8][Škerk]]
+- Vintage :: 2016
+- Location :: Italy, IGP Venezia Giulia
+- Grapes :: Malvasia di Candia Aromatica
+- Alcohol :: 14
+- Sugar :: 0.1
+- Price :: 999 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-07-25 - ☆ 8.00
+
+Very pleasant and meditative orange. Peach, tea, apricot jam and tulips. Medium acidity, low tannins and very long aftertaste with flavors of pine nuts and sour apples. Balanced and tasty.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a050a3c3-e72d-4b7e-8577-9e32cd850872.html">
+    <img class="flex-bottle" src="/images/a0/50a3c3-e72d-4b7e-8577-9e32cd850872/2022-09-16-10-08-34-02B3A0D3-0FFE-4DCF-B90B-7B35A77748E7-1-105-c.webp"></img>
+    <section class="h">Škerk</section>
+    <section class="h text-bolder">Ograde - 2017</section>
+  </a>
+
+</div>
+#+end_export
