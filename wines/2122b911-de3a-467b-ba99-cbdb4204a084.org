@@ -1,0 +1,61 @@
+#+attr_html: :class wine-main-image
+[[file:/images/21/22b911-de3a-467b-ba99-cbdb4204a084/2022-09-16-08-25-56-EB80E708-0A64-4938-8E36-E967F0C1488C-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/92c049ed-0591-418d-8f2b-8d20726b8654][J.M Dreyer]]
+- Vintage :: 2020
+- Location :: France, Alsace AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: 2.2
+- Price :: 903 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-09-15 - ☆ 7.75
+
+One more beauty to act as a gateway to the world of 'natural wines'. It's bright, it's juicy, it's fruity, and it offers some crazy notes. Dark cherry, bruised cherry, dark berries, and hair spray. VA is not disturbing here; it only increases complexity. Medium acidity, soft tannin, taste evolution, and pleasantly sweet and sweaty finish.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d03f1347-20e4-4c41-a412-ffb297c912ae.html">
+    <img class="flex-bottle" src="/images/d0/3f1347-20e4-4c41-a412-ffb297c912ae/2022-08-14-11-28-40-3BD04DD6-ED18-4800-AA47-C6A60DD1C818-1-105-c.webp"></img>
+    <section class="h">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Sylvaner Macération - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+    <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
+    <section class="h">J.M Dreyer</section>
+    <section class="h text-bolder">Elios Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/12d18471-695a-43bb-b31b-08c9c358069f.html">
+    <img class="flex-bottle" src="/images/12/d18471-695a-43bb-b31b-08c9c358069f/2022-01-13-09-58-15-0CA94A32-77A5-4B05-AF9D-F79B4BFF2F2D-1-105-c.webp"></img>
+    <section class="h">Rita & Rudolf Trossen</section>
+    <section class="h text-bolder">Schieferstern Purus Riesling trocken - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
+    <img class="flex-bottle" src="/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp"></img>
+    <section class="h">Patrice Beguet</section>
+    <section class="h text-bolder">Go Together Red - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
+    <img class="flex-bottle" src="/images/fc/88aedd-69c9-4b23-97e0-efa6441bea38/2020-11-07-09-42-23-E7070E5C-0CCA-409E-9CD6-81AE5F257F62-1-105-c.webp"></img>
+    <section class="h">Costadila</section>
+    <section class="h text-bolder">450 slm - NV</section>
+  </a>
+
+</div>
+#+end_export

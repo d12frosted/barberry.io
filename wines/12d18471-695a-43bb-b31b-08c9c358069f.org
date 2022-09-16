@@ -1,0 +1,59 @@
+#+attr_html: :class wine-main-image
+[[file:/images/12/d18471-695a-43bb-b31b-08c9c358069f/2022-01-13-09-58-15-0CA94A32-77A5-4B05-AF9D-F79B4BFF2F2D-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/dae4f7cc-e606-4b89-aa61-e0e10d7f50a9][Rita & Rudolf Trossen]]
+- Vintage :: 2018
+- Location :: Germany, Landwein der Mosel
+- Grapes :: Riesling
+- Alcohol :: 12
+- Sugar :: 2.4
+- Price :: 1025 UAH, 795 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-01-16 - ☆ 7.75
+
+White flowers like jasmine, salted pebbles, apples, grapefruit and petroleum hints. Dry, slightly fizzy, crisp, good volume and taste evolution. Flavourful - fermenting lemon, sea rocks and cider. Delicious and mineral. Great, but fizziness slightly ruins experience.
+
+*** 2022-09-15 - ☆ 7.75
+
+More developed than at the beginning of the year (obviously?). An expressive bouquet, it's full of yellow fruits, salted pebbles, grapefruit and petroleum. Not overly complex, medium body, good volume, crunchy fresh, long aftertaste with mineral touch and flavours of apple seeds.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/85f17ebb-1523-4b9f-a940-36415c2e4f86.html">
+    <img class="flex-bottle" src="/images/85/f17ebb-1523-4b9f-a940-36415c2e4f86/2021-05-22-14-55-47-E76ACAA8-F43F-4EF2-8F6A-1FC0426FB792-1-105-c.webp"></img>
+    <section class="h">Rita & Rudolf Trossen</section>
+    <section class="h text-bolder">Schieferblume Riesling Trocken Qualitätswein - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
+    <img class="flex-bottle" src="/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp"></img>
+    <section class="h">Patrice Beguet</section>
+    <section class="h text-bolder">Go Together Red - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2122b911-de3a-467b-ba99-cbdb4204a084.html">
+    <img class="flex-bottle" src="/images/21/22b911-de3a-467b-ba99-cbdb4204a084/2022-09-16-08-25-56-EB80E708-0A64-4938-8E36-E967F0C1488C-1-105-c.webp"></img>
+    <section class="h">J.M Dreyer</section>
+    <section class="h text-bolder">Anigma Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc88aedd-69c9-4b23-97e0-efa6441bea38.html">
+    <img class="flex-bottle" src="/images/fc/88aedd-69c9-4b23-97e0-efa6441bea38/2020-11-07-09-42-23-E7070E5C-0CCA-409E-9CD6-81AE5F257F62-1-105-c.webp"></img>
+    <section class="h">Costadila</section>
+    <section class="h text-bolder">450 slm - NV</section>
+  </a>
+
+</div>
+#+end_export

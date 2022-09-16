@@ -1,0 +1,31 @@
+{
+  "id": "2122b911-de3a-467b-ba99-cbdb4204a084",
+  "name": "Anigma Pinot Noir",
+  "full-name": "J.M Dreyer Anigma Pinot Noir 2020",
+  "producer": {
+    "id": "92c049ed-0591-418d-8f2b-8d20726b8654",
+    "name": "J.M Dreyer"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.2",
+  "prices": [
+    "903 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/22b911-de3a-467b-ba99-cbdb4204a084/2022-09-16-08-25-56-EB80E708-0A64-4938-8E36-E967F0C1488C-1-105-c.webp",
+  "rating": "7.75"
+}

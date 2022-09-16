@@ -38,7 +38,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | Spain          |    17 | 842.60 UAH   |  7.44 | 2.9860 |
 | France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
-| Australia      |     5 | 1 021.95 UAH |  7.82 | 2.2065 |
+| Australia      |     5 | 1 002.11 UAH |  7.82 | 2.2731 |
 | Austria        |     4 | 564.64 UAH   |  7.13 | 2.4144 |
 | Hungary        |     4 | 660.52 UAH   |  7.51 | 2.6975 |
 | Germany        |     4 | 900.36 UAH   |  7.91 | 2.8480 |
@@ -72,7 +72,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |---------+-------+--------------+-------+--------|
 |    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
 |    2020 |    22 | 727.37 UAH   |  7.04 | 2.7159 |
-|    2019 |    12 | 861.25 UAH   |  7.74 | 2.7691 |
+|    2019 |    12 | 852.99 UAH   |  7.74 | 2.7914 |
 |    2018 |    16 | 1 102.58 UAH |  8.01 | 2.5451 |
 |    2017 |     7 | 1 011.86 UAH |  7.41 | 1.8298 |
 |    2016 |     5 | 918.82 UAH   |  7.82 | 2.5769 |
@@ -109,7 +109,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Parellada                    |     4 | 365.25 UAH   |  6.46 | 3.0807 |
 | Merlot                       |     4 | 775.89 UAH   |  7.90 | 3.2828 |
 | Malvasia di Candia Aromatica |     4 | 1 149.29 UAH |  7.92 | 2.6115 |
-| Sauvignon Blanc              |     3 | 786.33 UAH   |  7.21 | 2.1616 |
+| Sauvignon Blanc              |     3 | 753.26 UAH   |  7.21 | 2.2738 |
 | Cabernet Sauvignon           |     3 | 792.52 UAH   |  7.93 | 3.4158 |
 | Palomino                     |     3 | 1 459.67 UAH |  8.12 | 1.9639 |
 | Xinomavro                    |     2 | 825.12 UAH   |  7.86 | 2.8652 |
@@ -325,7 +325,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-28 | Italy          | [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]                | [[barberry:/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd][La Stoppa Ageno 2019]]               |    2019 | 6.50 | 0.8035 |
 | 2022-07-28 | Italy          | [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]                | [[barberry:/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d][La Stoppa Ageno 2018]]               |    2018 | 8.50 | 3.4794 |
 | 2022-07-28 | Greece         | [[barberry:/producers/985badd4-6e4e-471e-a7f2-f2ec646f1b1a][Ktima Ligas]]              | [[barberry:/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a][Ktima Ligas Spira 2019]]             |    2019 | 8.20 | 2.4609 |
-| 2022-07-28 | Australia      | [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]              | [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Gentle Folk Summertown blanc 2019]]  |    2019 | 8.50 | 2.8581 |
+| 2022-07-28 | Australia      | [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]              | [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Gentle Folk Summertown blanc 2019]]  |    2019 | 8.50 | 3.1084 |
 | 2022-07-29 | Greece         | [[barberry:/producers/95d71a6e-ca7e-4b66-82a9-279ee08acdcb][Ρίζες 2]]                  | [[barberry:/wines/bbdbad91-d8e2-419c-9a2a-da23ab73e015][Ρίζες 2 Βιδιανό - Ασύρτικο Vidiano - Assyrtiko 2020]] |    2020 | 1.50 | 0.1225 |
 | 2022-07-29 | Greece         | [[barberry:/producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e][Shima L.P Winery]]         | [[barberry:/wines/5a4c0e3b-7f11-46bb-8f17-69588434b9ee][Shima L.P Winery Liatiko 2020]]      |    2020 | 5.00 | 0.4431 |
 | 2022-07-29 | Greece         | [[barberry:/producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e][Shima L.P Winery]]         | [[barberry:/wines/15040117-337e-43f7-aae4-d74e7ea92d5e][Shima L.P Winery Thrapsathiri 2020]] |    2020 | 3.00 | 0.1772 |

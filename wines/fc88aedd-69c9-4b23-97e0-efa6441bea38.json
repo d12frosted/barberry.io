@@ -1,12 +1,12 @@
 {
   "id": "fc88aedd-69c9-4b23-97e0-efa6441bea38",
   "name": "450 slm",
-  "full-name": "Costadila 450 slm 2019",
+  "full-name": "Costadila 450 slm NV",
   "producer": {
     "id": "d2866fb4-6a9f-4499-a330-da6d9d4720d8",
     "name": "Costadila"
   },
-  "vintage": "2019",
+  "vintage": "NV",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -27,9 +27,10 @@
   "alcohol": "10.5",
   "sugar": "2",
   "prices": [
+    "630 UAH",
     "590 UAH"
   ],
   "available": 0.0,
   "image": "images/fc/88aedd-69c9-4b23-97e0-efa6441bea38/2020-11-07-09-42-23-E7070E5C-0CCA-409E-9CD6-81AE5F257F62-1-105-c.webp",
-  "rating": "7.5"
+  "rating": "6.75"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "85f17ebb-1523-4b9f-a940-36415c2e4f86",
+  "name": "Schieferblume Riesling Trocken Qualitätswein",
+  "full-name": "Rita & Rudolf Trossen Schieferblume Riesling Trocken Qualitätswein 2019",
+  "producer": {
+    "id": "dae4f7cc-e606-4b89-aa61-e0e10d7f50a9",
+    "name": "Rita & Rudolf Trossen"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "5",
+  "prices": [
+    "630 UAH"
+  ],
+  "available": 0,
+  "image": "images/85/f17ebb-1523-4b9f-a940-36415c2e4f86/2021-05-22-14-55-47-E76ACAA8-F43F-4EF2-8F6A-1FC0426FB792-1-105-c.webp",
+  "rating": "7.25"
+}
