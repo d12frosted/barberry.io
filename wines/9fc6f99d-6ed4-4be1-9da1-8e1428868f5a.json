@@ -1,0 +1,31 @@
+{
+  "id": "9fc6f99d-6ed4-4be1-9da1-8e1428868f5a",
+  "name": "Porcupine Ridge Cabernet Sauvignon",
+  "full-name": "Boekenhoutskloof Porcupine Ridge Cabernet Sauvignon 2019",
+  "producer": {
+    "id": "db59c4a0-6c6d-48c4-8e40-466dcdf79f79",
+    "name": "Boekenhoutskloof"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "360 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9f/c6f99d-6ed4-4be1-9da1-8e1428868f5a/2022-09-17-20-10-31-IMG-2252.webp",
+  "rating": "NA"
+}

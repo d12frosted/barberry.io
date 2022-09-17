@@ -1,0 +1,43 @@
+{
+  "id": "849dafd4-c8d6-4ec7-a265-25ccf1f72e32",
+  "name": "Cubillo Crianza",
+  "full-name": "Viña Tondonia Cubillo Crianza 2014",
+  "producer": {
+    "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
+    "name": "Viña Tondonia"
+  },
+  "vintage": "2014",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "b928d23b-ff32-4ed2-9d54-8fffe2632eea",
+      "name": "Tintilia"
+    },
+    {
+      "id": "abe7a255-d91f-4edd-91df-d80e766b5642",
+      "name": "Graciano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "616 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp",
+  "rating": "NA"
+}

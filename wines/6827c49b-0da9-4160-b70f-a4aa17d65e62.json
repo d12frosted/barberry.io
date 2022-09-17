@@ -1,0 +1,31 @@
+{
+  "id": "6827c49b-0da9-4160-b70f-a4aa17d65e62",
+  "name": "Savigny-les-Beaune",
+  "full-name": "Sarnin-Berrux Savigny-les-Beaune 2017",
+  "producer": {
+    "id": "114302ea-341a-4631-ba59-18e9b0691b0c",
+    "name": "Sarnin-Berrux"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3",
+  "prices": [
+    "1350 UAH"
+  ],
+  "available": 0,
+  "image": "images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c.webp",
+  "rating": "8.5"
+}

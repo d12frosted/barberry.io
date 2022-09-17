@@ -1,0 +1,31 @@
+{
+  "id": "22fcdd3e-aee0-45e6-909d-a4f6a74666ca",
+  "name": "Pinotage Signature",
+  "full-name": "Spier Wines Pinotage Signature 2018",
+  "producer": {
+    "id": "7f36c99b-3225-4883-b12d-11e5a75bfa12",
+    "name": "Spier Wines"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "96976408-68dc-46f6-88e4-bc4254c7c279",
+      "name": "Pinotage"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.5",
+  "prices": [
+    "235 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/22/fcdd3e-aee0-45e6-909d-a4f6a74666ca/2020-09-24-08-25-50-FE22AF78-E105-4B45-AF47-E714EDAEBA36-1-105-c.webp",
+  "rating": "5.0"
+}

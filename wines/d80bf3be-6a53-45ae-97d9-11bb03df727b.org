@@ -31,10 +31,22 @@ P. S. It's funny that I have a photo of this wine from my last tasting, but no t
     <section class="h text-bolder">Blanco Reserva - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+  <a class="flex-item flex-item-right" href="/wines/3fb511fa-b0d8-45e4-b873-bd1edd50a543.html">
+    <img class="flex-bottle" src="/images/3f/b511fa-b0d8-45e4-b873-bd1edd50a543/2022-09-17-20-55-09-IMG-2229.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Bosconia Reserva - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
     <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
     <section class="h">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Reserva - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
+    <img class="flex-bottle" src="/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Cubillo Crianza - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
@@ -43,25 +55,31 @@ P. S. It's funny that I have a photo of this wine from my last tasting, but no t
     <section class="h text-bolder">Blanco Reserva - 2008</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+  <a class="flex-item flex-item-right" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
+    <img class="flex-bottle" src="/images/ca/7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc/2022-09-17-20-20-14-IMG-2244.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
     <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+  <a class="flex-item flex-item-right" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
     <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
+  <a class="flex-item flex-item-left" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
     <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
     <section class="h">Spy Valley</section>
     <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
     <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2021-12-27-18-33-45-9D5CF52D-9AB7-4F51-9AFF-D9F5D7609EA5-1-105-c.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>

@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6dc614b9-ea55-4585-8731-0da5814308f7.html">
+    <img class="flex-bottle" src="/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">SAIGNéE - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6827c49b-0da9-4160-b70f-a4aa17d65e62.html">
+    <img class="flex-bottle" src="/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h text-bolder">Savigny-les-Beaune - 2017</section>
+  </a>
+
+</div>
+#+end_export

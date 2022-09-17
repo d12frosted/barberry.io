@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/114302ea-341a-4631-ba59-18e9b0691b0c][Sarnin-Berrux]]
+- Vintage :: 2017
+- Location :: France, Savigny-les-Beaune AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 3
+- Price :: 1350 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-11-29 - ☆ 8.50
+
+Amazing Chardonnay! Intensive nose 'clearly' showing traces of lees ageing and oxidation. Apple, dough, lemon, pineapple and vanilla. On the palate it is balanced, fresh with long aftertaste and flavours of lemon and pineapple. Love this combination of deep and complex bouquet with fresh lemon-like palate.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6dc614b9-ea55-4585-8731-0da5814308f7.html">
+    <img class="flex-bottle" src="/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">SAIGNéE - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
+    <section class="h">Domaine de la Touraize</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
+    <section class="h">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+    <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2019</section>
+  </a>
+
+</div>
+#+end_export
