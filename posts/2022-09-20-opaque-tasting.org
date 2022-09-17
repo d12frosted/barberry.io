@@ -8,12 +8,96 @@ A (professional) sensory analysis of wine breaks it down using eyes, nose, and m
 
 Honestly, I feared that I would not be able to gather enough people for this format. On one hand, it's more nerdy and wine-focused than our usual events. On the other hand, glasses are pricey and are hard to find. Yet, we have enough people to taste 4 wines. Unfortunately, every person has only one glass, so we taste them sequentially, but in 'pairs'. Meaning, we taste the first two wines, vote, reveal, and then repeat with the second pair.
 
-The plan is to start with a pretty classical pair. A delicate Pinot Noir and oaked Chardonnay, both from Burgundy. And then to try with a more tricky pair - light Cariñena from South Africa and white Châteauneuf du Pape.
+We start with a classical pair - a delicate Pinot Noir and oaked Chardonnay, both from Burgundy. Then we have a more slippery combination - light Cariñena from South Africa and white Châteauneuf du Pape. And as a bonus, for the brave mood, we have a jokingly tricky mix of macerated Pinot Gris from Alsace (even the colour is deceiving) and a light rosé from Umbria.
 
 1. [[barberry:/wines/345c98e3-665a-416f-83a7-b31d12e29361][Domaine Rossignol-Trapet Savigny-Les-Beaune Les Bas Liards 2019]]
 2. [[barberry:/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e][Bret Brothers Pouilly-Loché Climat La Colonge 2018]]
 3. [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Testalonga Baby Bandito Follow Your Dreams 2021]]
 4. [[barberry:/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5][Le Vieux Télégraphe Châteauneuf du Pape Clos La Roquète 2020]]
+5. (bonus) [[barberry:/wines/4b4e3ce1-235d-4f81-b79b-90371a3d74fc][Pierre Frick Pinoit Gris Macération Pur Vin 2019]]
+6. (bonus) [[barberry:/wines/39a934ab-0f33-4466-894b-72d822ce15d4][Valentina Passalacqua Sintonia 2019]]
+
+* Domaine Rossignol-Trapet Savigny-Les-Beaune Les Bas Liards 2019
+:PROPERTIES:
+:ID:                     80609057-3097-40e8-bdb4-9feaf702b975
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-20-opaque-tasting/2021-12-27-17-27-44-0DAB7A51-B181-427A-834C-7C35D43BEDAA-1-102-o.webp]]
+
+- producer: [[barberry:/producers/919b524d-134f-422c-b146-1904d7641d87][Domaine Rossignol-Trapet]]
+- name: [[barberry:/wines/345c98e3-665a-416f-83a7-b31d12e29361][Savigny-Les-Beaune Les Bas Liards]]
+- vintage: 2019
+- grapes: Pinot Noir
+- appellation: Savigny-les-Beaune AOC
+- location: Côte de Beaune, Côte d'Or, Burgundy, France
+- alcohol: 13
+- sugar: 0.1
+- price: 976 UAH
+
+A land of small vineyards owned by peasant farmers who eat in three-star restaurants, ride on luxury cars, do the dirty work on the vineyards and winery and sell the most expensive wines in the world. Burgundy is a complex and highly detailed region containing about a third of wine appellations in France. Land that qualifies for one of Burgundy's better appellations is so valuable that it rarely passes out of the family. Often it becomes part of a complex inheritance system which requires all property to be shared equally among the children. As a result, the whole region is a carpet made of incredibly small scraps.
+
+Domaine Rossignol-Trapet was established through the alliance of two families. The Rossignols were winemakers since the 16th century in Volnay. The Trapets - since the 18th century in Gevrey-Chambertin. Domaine owns 14 ha of old vineyards in the renowned villages of Beaune, Savigny-les-Beaune and Gevrey-Chambertin. Most of them are Pinot Noir, and only 0.7 ha are Chardonnay.
+
+Nicolas and David Rossignol have been running the Domaine since the 1990s. They produce sophisticated, gorgeous and elegant wines. In my inexperienced taste, Domaine Rossignol-Trapet is among the best Pinot Noir producers you can find in Ukraine.
+
+Les Bas Liards comes from 35-years old vines in Savigny-Les-Beaune, Côte de Beaune (southern part of famous Côte d'Or, or Golden Slope). Hand-picked, sorted and destemmed, it is fermented in barrels. Around 10% of oak is new.
+
+I picked Les Bas Liards for this evening because its elegant, even feminine, palate might trick you considering our setting. In hopes to create a wow effect and to confuse you even further, I decided to place it before the oaked Chardonnay.
+
+* Bret Brothers Pouilly-Loché Climat La Colonge 2018
+:PROPERTIES:
+:ID:                     36a53f6a-1a33-4354-a676-2255cb45833c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-20-opaque-tasting/2022-09-06-15-59-14-IMG-2024.webp]]
+
+- producer: [[barberry:/producers/4eb32a6f-ea37-4f9a-a470-d062d4465b67][Bret Brothers]]
+- name: [[barberry:/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e][Pouilly-Loché Climat La Colonge]]
+- vintage: 2018
+- grapes: Chardonnay
+- appellation: Pouilly-Loché AOC
+- location: Mâconnais, Burgundy, France
+- alcohol: 12.5
+- sugar: 0.7
+- price: 1070 UAH
+
+* Testalonga Baby Bandito Follow Your Dreams 2021
+:PROPERTIES:
+:ID:                     8c1ca703-a063-4e5c-8bc3-7c0e855ae700
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-20-opaque-tasting/2022-07-31-12-09-30-1E74CDFE-F429-4293-B0E8-140EFDE593A0-1-105-c.webp]]
+
+- producer: [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]
+- name: [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Baby Bandito Follow Your Dreams]]
+- vintage: 2021
+- grapes: Cariñena
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 12
+- sugar: N/A
+- price: 640 UAH
+
+* Le Vieux Télégraphe Châteauneuf du Pape Clos La Roquète 2020
+:PROPERTIES:
+:ID:                     30275d38-1289-4f89-8fe4-dfd78c53ccda
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-09-20-opaque-tasting/2022-09-05-20-46-47-IMG-2010.webp]]
+
+- producer: [[barberry:/producers/6f4c96c0-8d4e-4d80-b0b4-abfe900c8186][Le Vieux Télégraphe]]
+- name: [[barberry:/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5][Châteauneuf du Pape Clos La Roquète]]
+- vintage: 2020
+- grapes: Garnacha Blanca, Clairette, Roussanne
+- appellation: Châteauneuf-du-Pape AOC
+- location: Rhône, France
+- alcohol: 13.5
+- sugar: 1.8
+- price: 1282 UAH
 
 * Resources
 :PROPERTIES:
@@ -22,4 +106,5 @@ The plan is to start with a pretty classical pair. A delicate Pinot Noir and oak
 
 - [[https://www.winespectator.com/articles/test-your-tasting-talent-with-black-wine-glasses-16068][Test Your Tasting Talent With Black Wine Glasses | Wine Spectator]]
 - [[https://www.westlakevillageinn.com/the-blind-tasting/][Black Glass Wine Tasting | Westlake Village Inn]]
+- [[https://www.jancisrobinson.com/learn/wine-regions/france/burgundy][Burgundy | JancisRobinson.com]]
 
