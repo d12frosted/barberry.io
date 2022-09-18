@@ -1,19 +1,21 @@
 #+attr_html: :class wine-main-image
-[[file:/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp]]
+[[file:/images/93/636b4c-fff4-4f4f-928f-79a4a742c2ce/2021-11-30-09-16-36-E911DF71-119C-4797-839E-F89036CE99F1-1-105-c.webp]]
 
-- Type :: Red Still, Dry
+- Type :: White Still, Dry
 - Producer :: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][Viña Tondonia]]
-- Vintage :: 2014
+- Vintage :: 2001
 - Location :: Spain, Rioja DOC
-- Grapes :: Tempranillo, Grenache, Tintilia, Graciano
-- Alcohol :: 13.5
-- Sugar :: NA
-- Price :: 616 UAH
-- Cellar :: 1 bottle
+- Grapes :: Macabeo, Malvasia di Candia Aromatica
+- Alcohol :: 12.5
+- Sugar :: 2.5
+- Price :: 3500 UAH
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2021-11-29 - ☆ 9.50
+
+I consider myself lucky to taste 20 years old Gran Reserva Blanco. Fantastic experience. Interestingly, it is not as pompous as recent Reserva release. While being rich in the nose, it is restrained and more delicate. Complex bouquet: apple candy, dried grass, fennel, mushrooms, Jerez, dried dough, honey and white flowers. Multilayered and fresh palate, with nice salty lemon touch. Great and demanding wine. And it still has potential.
 
 ** Related
 
@@ -37,10 +39,10 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Blanco Reserva - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/93636b4c-fff4-4f4f-928f-79a4a742c2ce.html">
-    <img class="flex-bottle" src="/images/93/636b4c-fff4-4f4f-928f-79a4a742c2ce/2021-11-30-09-16-36-E911DF71-119C-4797-839E-F89036CE99F1-1-105-c.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
+    <img class="flex-bottle" src="/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp"></img>
     <section class="h">Viña Tondonia</section>
-    <section class="h text-bolder">Blanco Gran Reserva - 2001</section>
+    <section class="h text-bolder">Cubillo Crianza - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
@@ -65,6 +67,30 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h">Viña Tondonia</section>
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6827c49b-0da9-4160-b70f-a4aa17d65e62.html">
+    <img class="flex-bottle" src="/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">Savigny-les-Beaune - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
+    <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
+    <section class="h">Domaine de la Touraize</section>
+    <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
+    <section class="h">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+    <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>
 
 </div>

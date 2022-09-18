@@ -1,21 +1,25 @@
 #+attr_html: :class wine-main-image
-[[file:/images/b7/52a3ba-3b68-4e56-80a9-3857c04416a9/2020-11-15-11-08-15-50D84DC3-A8E5-4F2E-8BAB-ED8BD610BCC2-1-105-c.webp]]
+[[file:/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c.webp]]
 
-- Type :: White Still, Dry
+- Type :: Rose Still, Dry
 - Producer :: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][Viña Tondonia]]
-- Vintage :: 2008
+- Vintage :: 2010
 - Location :: Spain, Rioja DOC
-- Grapes :: Malvasia di Candia Aromatica
-- Alcohol :: 12.5
+- Grapes :: Tempranillo, Grenache, Macabeo
+- Alcohol :: 13
 - Sugar :: NA
 - Price :: 
 - Cellar :: N/A
 
 ** Ratings
 
-*** 2020-11-13 - ☆ 7.50
+*** 2020-11-10 - ☆ 8.50
 
-3.8 As with rosé, hard to guess the age, as this wine feels much younger than it actually is. It seems that most of their wines are like this.Opulent aroma, nuts grapefruit, butter. Very charming. Powerful taste, but short aftertaste, which ruins experience for me.
+Amazing rosé! Just think about it - 10 years old rosé! Complex aroma, butter, rose petals, grapefruit, almonds and caramel. Refreshing with long aftertaste. Simply wow.
+
+*** 2021-05-06 - ☆ 8.50
+
+Well, having a chance to taste this cosmic rosé again is something. Wonderful bouquet, caramel, red flowers, grapefruit, butter. Complex, tasty, balanced with long aftertaste. Not your typical rosé, but rather a bomb!
 
 ** Related
 
@@ -51,10 +55,10 @@
     <section class="h text-bolder">Blanco Gran Reserva - 2001</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
-    <img class="flex-bottle" src="/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+    <img class="flex-bottle" src="/images/b7/52a3ba-3b68-4e56-80a9-3857c04416a9/2020-11-15-11-08-15-50D84DC3-A8E5-4F2E-8BAB-ED8BD610BCC2-1-105-c.webp"></img>
     <section class="h">Viña Tondonia</section>
-    <section class="h text-bolder">Rosé Gran Reserva - 2010</section>
+    <section class="h text-bolder">Blanco Reserva - 2008</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
@@ -69,10 +73,28 @@
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a832277a-746d-415b-9ddf-bb8beec059f8.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Frank Cornelissen</section>
-    <section class="h text-bolder">Munjebel FM - 2017</section>
+  <a class="flex-item flex-item-left" href="/wines/0e4e6c46-1e43-47d2-be82-ed7b5e9df1e2.html">
+    <img class="flex-bottle" src="/images/0e/4e6c46-1e43-47d2-be82-ed7b5e9df1e2/2021-05-08-07-10-39-F3FE1426-B8FF-45BB-93EA-CCC0077DCDE0-1-105-c.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Le Petit Buisson - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b64ac23-a856-4589-bfa2-ea6d06348f5c.html">
+    <img class="flex-bottle" src="/images/4b/64ac23-a856-4589-bfa2-ea6d06348f5c/2021-05-08-13-39-39-EFB2DE08-66CA-4570-87E5-66310859F192-1-105-c.webp"></img>
+    <section class="h">Pierre Frick</section>
+    <section class="h text-bolder">Gewurztraminer Grand Cru Steinert Macération Pur Vin - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">
+    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp"></img>
+    <section class="h">Raúl Pérez</section>
+    <section class="h text-bolder">La Del Vivo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c0268d8c-65f3-40ed-abe0-3b1d6fe7aeb0.html">
+    <img class="flex-bottle" src="/images/c0/268d8c-65f3-40ed-abe0-3b1d6fe7aeb0/2021-11-30-09-14-23-8BEBC211-0875-44F1-A453-DA169F0912AC-1-105-c.webp"></img>
+    <section class="h">Stella di Campalto</section>
+    <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
 </div>
