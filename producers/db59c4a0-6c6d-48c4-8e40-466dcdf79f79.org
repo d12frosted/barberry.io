@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a.html">
     <img class="flex-bottle" src="/images/9f/c6f99d-6ed4-4be1-9da1-8e1428868f5a/2022-09-17-20-10-31-IMG-2252.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-small text-lighter">★ 6.50</section>
     <section class="h text-bolder">Porcupine Ridge Cabernet Sauvignon - 2019</section>
   </a>
 
