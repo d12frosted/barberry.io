@@ -10,19 +10,25 @@ Curro Bareño and Jesús Olivares are also known for [[barberry:/producers/77579
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
+  <a class="flex-item flex-item-left" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
+    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp"></img>
+    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h text-bolder">Bastarda - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
     <img class="flex-bottle" src="/images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp"></img>
     <section class="h text-small text-lighter">★ 7.50</section>
     <section class="h text-bolder">Conasbrancas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+  <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
     <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.75</section>
     <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+  <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
     <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp"></img>
     <section class="h text-small text-lighter">★ 7.88</section>
     <section class="h text-bolder">Lomba dos Ares - 2017</section>

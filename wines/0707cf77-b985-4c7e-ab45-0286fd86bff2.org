@@ -1,14 +1,14 @@
 #+attr_html: :class wine-main-image
-[[file:/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp]]
+[[file:/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp]]
 
-- Type :: White Still, Dry
+- Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]]
-- Vintage :: 2019
+- Vintage :: 2017
 - Location :: Spain, Vino de Mesa
-- Grapes :: Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés
+- Grapes :: Trousseau
 - Alcohol :: 12.5
 - Sugar :: 1
-- Price :: 598 UAH, 650 UAH
+- Price :: 1024 UAH, 990 UAH
 - Cellar :: 1 bottle
 
 ** Producer
@@ -23,18 +23,28 @@ Curro Bareño and Jesús Olivares are also known for [[barberry:/producers/77579
 
 ** Ratings
 
-*** 2021-05-21 - ☆ 7.75
+*** 2021-03-23 - ☆ 8.00
 
-Field blend (Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés and who knows what else) by lovely Fedellos trio. Rich nose, full of stone fruits, dill and nettle, butter, citrus and flint. Clean, fresh and tasty.
+Unexpected gem. Light pomegranate colour. Rich aroma of wild strawberry stew, bell pepper and wet forest floor. Highly attractive, elegant and sophisticated wine. Medium-light body, perfectly balanced. Love it.
+
+*** 2021-04-06 - ☆ 8.00
+
+I've got a lovely present. Bastardo (Trousseau Noir?) from Galicia. Pale garnet colour. Wet forest floor, wild strawberry stew, cherry with animal touch. Sophisticated and elegant. Medium-light body, perfectly balanced. Beautiful and self-sustained wine.
+
+*** 2021-11-25 - ☆ 8.00
+
+Tasted as part of Galicia și Tondonia wine tasting event organized by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]] in Chaika, Kyiv.
+
+I definitely should drink it blindly, because every time I see Fedellos do Couto, my heart fills with joy and it affects my perception. Delicate and light Bastardo (Trousseau) with some complexity. Wild strawberry, jam and forest floor. Fresh, long delicious aftertaste. Sexy style.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
-    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c.webp"></img>
     <section class="h">Fedellos do Couto</section>
-    <section class="h text-bolder">Bastarda - 2017</section>
+    <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
@@ -49,16 +59,10 @@ Field blend (Doña Blanca, Godello, Albariño, Treixadura, Lado, Torrontés and 
     <section class="h text-bolder">Conasbrancas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/85f17ebb-1523-4b9f-a940-36415c2e4f86.html">
-    <img class="flex-bottle" src="/images/85/f17ebb-1523-4b9f-a940-36415c2e4f86/2021-05-22-14-55-47-E76ACAA8-F43F-4EF2-8F6A-1FC0426FB792-1-105-c.webp"></img>
-    <section class="h">Rita & Rudolf Trossen</section>
-    <section class="h text-bolder">Schieferblume Riesling Trocken Qualitätswein - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
-    <img class="flex-bottle" src="/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c.webp"></img>
-    <section class="h">Clos Lentiscus</section>
-    <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  <a class="flex-item flex-item-right" href="/wines/0ecaea1a-6791-41f7-b6be-5ebfcf58e1fa.html">
+    <img class="flex-bottle" src="/images/0e/caea1a-6791-41f7-b6be-5ebfcf58e1fa/2021-11-26-07-45-09-ABF5C370-FF86-444A-B40E-D984D093380D-1-105-c.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2010</section>
   </a>
 
 </div>

@@ -71,5 +71,11 @@ Tasted as part of Galicia și Tondonia wine tasting event organized by [[barberr
     <section class="h text-bolder">Blanco Viña Gravonia Crianza - 2013</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
+    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Bastarda - 2017</section>
+  </a>
+
 </div>
 #+end_export
