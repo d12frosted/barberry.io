@@ -1,0 +1,31 @@
+{
+  "id": "a13e9a37-d92d-469f-9a4c-dec058e0ae4a",
+  "name": "La Vizcaína Las Gundiñas Lomas de Valtuille",
+  "full-name": "Raúl Pérez La Vizcaína Las Gundiñas Lomas de Valtuille 2019",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.5",
+  "prices": [
+    "759 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a1/3e9a37-d92d-469f-9a4c-dec058e0ae4a/2022-09-20-15-58-46-IMG-2321.webp",
+  "rating": "NA"
+}

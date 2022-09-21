@@ -1,0 +1,32 @@
+{
+  "id": "e463f4c4-0217-4f34-a587-d7a9bf384a92",
+  "name": "Morgon Classique",
+  "full-name": "Jean Foillard Morgon Classique 2018",
+  "producer": {
+    "id": "c03bbb9a-0e74-4e99-a4aa-aad5f7c4b26f",
+    "name": "Jean Foillard"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "569 UAH",
+    "651 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e4/63f4c4-0217-4f34-a587-d7a9bf384a92/2020-12-03-10-59-27-4380D26F-EDC0-45FC-9A65-975CD5189E89-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5434ad31-8f1f-4e7a-8daf-22f888c3a71c",
+  "name": "Carrascal Corte Clasico",
+  "full-name": "Weinert Carrascal Corte Clasico",
+  "producer": {
+    "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
+    "name": "Weinert"
+  },
+  "vintage": "NV",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "2.45",
+  "prices": [
+    "455 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/54/34ad31-8f1f-4e7a-8daf-22f888c3a71c/2022-09-20-16-01-36-IMG-2327.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e774ec91-9bb0-424f-b7c1-010f9b9a3869",
+  "name": "Dos Canotos",
+  "full-name": "Cume do Avia Dos Canotos 2019",
+  "producer": {
+    "id": "1a59a1cb-fe8a-4724-b084-c5eef925d567",
+    "name": "Cume do Avia"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "551d72c7-0071-49a4-9585-4f47d36f29c8",
+      "name": "Caíño Longo"
+    },
+    {
+      "id": "0abf9645-30e0-4115-bf68-7191fa551b8d",
+      "name": "Brancellao"
+    },
+    {
+      "id": "6892b78e-fd9f-4b23-8843-9415de9a1d00",
+      "name": "Sousón"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "806 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e7/74ec91-9bb0-424f-b7c1-010f9b9a3869/2022-09-20-15-52-14-IMG-2310.webp",
+  "rating": "NA"
+}

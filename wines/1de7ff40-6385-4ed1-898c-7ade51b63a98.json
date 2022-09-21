@@ -1,0 +1,31 @@
+{
+  "id": "1de7ff40-6385-4ed1-898c-7ade51b63a98",
+  "name": "Cabernet Sauvignon",
+  "full-name": "Weinert Cabernet Sauvignon 2011",
+  "producer": {
+    "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
+    "name": "Weinert"
+  },
+  "vintage": "2011",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "626 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1d/e7ff40-6385-4ed1-898c-7ade51b63a98/2022-09-20-15-43-17-IMG-2295.webp",
+  "rating": "NA"
+}

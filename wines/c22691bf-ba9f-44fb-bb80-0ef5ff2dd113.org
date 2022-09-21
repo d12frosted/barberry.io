@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c2/2691bf-ba9f-44fb-bb80-0ef5ff2dd113/2022-09-20-16-06-18-IMG-2335.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/5166bbee-f282-41d3-a92d-08890f2ce175][Two Hands]]
+- Vintage :: 2020
+- Location :: Australia, Barossa Valley
+- Grapes :: Syrah
+- Alcohol :: 14.2
+- Sugar :: 0.3
+- Price :: 730 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd.html">
+    <img class="flex-bottle" src="/images/c3/c1c92a-167f-4360-99af-9c26de2ae5dd/2021-11-14-11-03-59-14FA9A85-B2D0-4CE3-862D-B887CF642BC8-1-102-o.webp"></img>
+    <section class="h">Two Hands</section>
+    <section class="h text-bolder">Sexy Beast - 2019</section>
+  </a>
+
+</div>
+#+end_export

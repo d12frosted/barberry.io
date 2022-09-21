@@ -1,0 +1,31 @@
+{
+  "id": "c99af144-3659-4c39-8982-179e4883c28b",
+  "name": "Petit Clos Pinot Noir",
+  "full-name": "Clos Henri Petit Clos Pinot Noir 2018",
+  "producer": {
+    "id": "c31a826a-e40f-4e98-8e96-f7c0fe1274e1",
+    "name": "Clos Henri"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c9/9af144-3659-4c39-8982-179e4883c28b/2022-09-20-15-55-33-IMG-2318.webp",
+  "rating": "NA"
+}

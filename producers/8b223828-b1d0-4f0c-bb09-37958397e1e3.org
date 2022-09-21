@@ -10,5 +10,11 @@ Alfredo Arribas, the same person behind Portal del Priorat, created his second w
     <section class="h text-bolder">Sants - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b.html">
+    <img class="flex-bottle" src="/images/f9/13d77f-17a6-4b79-b8b3-41967cdf315b/2022-09-20-15-44-58-IMG-2297.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Vells - 2018</section>
+  </a>
+
 </div>
 #+end_export

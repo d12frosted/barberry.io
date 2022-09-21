@@ -1,0 +1,31 @@
+{
+  "id": "ca3d3054-7103-44b0-b6ca-cce904867620",
+  "name": "Haus Klosterberg Pinot Noir",
+  "full-name": "Markus Molitor Haus Klosterberg Pinot Noir 2018",
+  "producer": {
+    "id": "b6fc163c-5564-4924-b988-a50ed0889478",
+    "name": "Markus Molitor"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "641 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ca/3d3054-7103-44b0-b6ca-cce904867620/2022-09-20-16-07-38-IMG-2338.webp",
+  "rating": "NA"
+}
