@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 0.9
 - Price :: 593 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -23,7 +23,9 @@ Today her children help with the winery. Emilio, the eldest, is responsible for 
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-09-22 - ☆ 7.50
+
+Easy and quaffable Teroldego. Not complex, but almost perfectly balanced. Juicy and fresh palate. Aromas of red currant, cherry and spices.
 
 ** Related
 
@@ -45,6 +47,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/db/467582-71e2-4e4a-822a-550303f067a2/2022-09-06-16-02-35-IMG-2029.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Fuoripista Pinot Grigio - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/30c525bd-570e-46da-9d48-0a68da83dab9.html">
+    <img class="flex-bottle" src="/images/30/c525bd-570e-46da-9d48-0a68da83dab9/2022-09-20-15-50-41-IMG-2307.webp"></img>
+    <section class="h">Cuevas de Arom</section>
+    <section class="h text-bolder">Pedra Forca Garnacha & Syrah - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/44de7f1e-1cf5-4489-be2e-ba0529e305e2.html">
+    <img class="flex-bottle" src="/images/44/de7f1e-1cf5-4489-be2e-ba0529e305e2/2022-09-20-15-54-14-IMG-2315.webp"></img>
+    <section class="h">Clos Henri</section>
+    <section class="h text-bolder">Bel Echo River Stones Pinot Noir - 2017</section>
   </a>
 
 </div>
