@@ -4,14 +4,34 @@
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/1f6ac2c8-8bcf-4f58-8f7d-9d9d7a26361c][Domaine Fournier Père et Fils]]
 - Vintage :: 2020
-- Location :: France, IGP Val de Loire
+- Location :: France, Vin de Table (France)
 - Grapes :: Sauvignon Blanc
-- Alcohol :: 13.5
+- Alcohol :: 12.0
 - Sugar :: NA
 - Price :: 595 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-09-21 - ☆ 7.00
 
+A Sauvignon Blanc from Vallée de la Loire. Light yellow colour. Expressive and not complicated nose: green apricot, citrus, peaches and tropical fruits. Fresh, round, with a rather short and bitter finish. Not bad.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
+    <img class="flex-bottle" src="/images/b8/12f67d-dfa6-4037-b6eb-dc0144b59001/2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c.webp"></img>
+    <section class="h">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Le Jaja du Fred - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">
+    <img class="flex-bottle" src="/images/f0/ca7444-7d73-4df6-a42b-9368a4f9f32e/2021-12-27-18-35-57-8A00A13D-100B-469D-A773-A350D24F31C5-1-105-c.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Brut Grand Cru (d2020) - NV</section>
+  </a>
+
+</div>
+#+end_export

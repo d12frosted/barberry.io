@@ -1,0 +1,31 @@
+{
+  "id": "56b7ca27-321e-47ed-bb32-edad8190acf6",
+  "name": "Wallhäuser Pfarrgarten Riesling",
+  "full-name": "Weingut Mindnich Wallhäuser Pfarrgarten Riesling 2021",
+  "producer": {
+    "id": "fe0f2833-304d-481d-ac7d-b71cc685097c",
+    "name": "Weingut Mindnich"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "400 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/56/b7ca27-321e-47ed-bb32-edad8190acf6/2022-09-22-09-16-40-A8E4ABCC-019D-4BDE-AAB2-50DEC16FE2CA-1-105-c.webp",
+  "rating": "NA"
+}

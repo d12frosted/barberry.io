@@ -14,7 +14,12 @@
     "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
     "name": "Italy"
   },
-  "grapes": [],
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
   "alcohol": "14.5",
   "sugar": "NA",
   "prices": [
