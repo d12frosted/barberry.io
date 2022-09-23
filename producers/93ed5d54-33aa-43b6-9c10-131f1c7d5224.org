@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/72b01643-222c-41ca-a512-263814270455.html">
+    <img class="flex-bottle" src="/images/72/b01643-222c-41ca-a512-263814270455/2022-09-23-21-25-00-IMG-2402.webp"></img>
+    <section class="h text-small text-lighter">★ 7.12</section>
+    <section class="h text-bolder">Third Generation Chardonnay - 2018</section>
+  </a>
+
+</div>
+#+end_export

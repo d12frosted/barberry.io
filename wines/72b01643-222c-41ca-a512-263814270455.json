@@ -1,0 +1,31 @@
+{
+  "id": "72b01643-222c-41ca-a512-263814270455",
+  "name": "Third Generation Chardonnay",
+  "full-name": "Nugan Estate Third Generation Chardonnay 2018",
+  "producer": {
+    "id": "93ed5d54-33aa-43b6-9c10-131f1c7d5224",
+    "name": "Nugan Estate"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "3.8",
+  "prices": [
+    "199 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/72/b01643-222c-41ca-a512-263814270455/2022-09-23-21-25-00-IMG-2402.webp",
+  "rating": "7.125"
+}
