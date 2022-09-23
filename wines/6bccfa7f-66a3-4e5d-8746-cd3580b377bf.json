@@ -1,0 +1,31 @@
+{
+  "id": "6bccfa7f-66a3-4e5d-8746-cd3580b377bf",
+  "name": "Pintia",
+  "full-name": "Vega Sicilia Pintia 2016",
+  "producer": {
+    "id": "81f2be35-3c3e-488d-9a92-cbb84ee3b4f0",
+    "name": "Vega Sicilia"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "1.6",
+  "prices": [
+    "1947 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6b/ccfa7f-66a3-4e5d-8746-cd3580b377bf/2022-09-23-21-12-29-IMG-2423.webp",
+  "rating": "NA"
+}

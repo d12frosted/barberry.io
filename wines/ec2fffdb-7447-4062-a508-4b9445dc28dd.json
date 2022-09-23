@@ -1,0 +1,31 @@
+{
+  "id": "ec2fffdb-7447-4062-a508-4b9445dc28dd",
+  "name": "Bourgougne",
+  "full-name": "Domaine Rossignol-Trapet Bourgougne 2020",
+  "producer": {
+    "id": "919b524d-134f-422c-b146-1904d7641d87",
+    "name": "Domaine Rossignol-Trapet"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "997 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ec/2fffdb-7447-4062-a508-4b9445dc28dd/2022-09-23-21-19-33-IMG-2407.webp",
+  "rating": "NA"
+}

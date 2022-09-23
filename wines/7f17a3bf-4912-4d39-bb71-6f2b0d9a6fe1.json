@@ -1,0 +1,31 @@
+{
+  "id": "7f17a3bf-4912-4d39-bb71-6f2b0d9a6fe1",
+  "name": "Little Creek Pinot Noir",
+  "full-name": "Gentle Folk Little Creek Pinot Noir 2020",
+  "producer": {
+    "id": "166e9d27-3a90-4f30-a042-a39ebe67b04e",
+    "name": "Gentle Folk"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.3",
+  "prices": [
+    "1187 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7f/17a3bf-4912-4d39-bb71-6f2b0d9a6fe1/2022-09-23-21-14-21-IMG-2413.webp",
+  "rating": "NA"
+}

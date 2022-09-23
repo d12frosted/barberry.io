@@ -69,7 +69,13 @@ Beautiful and delicate bouquet. Cherry, cranberry, strawberry, red flowers with 
     <section class="h text-bolder">Gevrey-Chambertin Aux Ételois - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/21d131ca-0b4c-4cb1-bbcb-a014bb3f4517.html">
+  <a class="flex-item flex-item-right" href="/wines/ec2fffdb-7447-4062-a508-4b9445dc28dd.html">
+    <img class="flex-bottle" src="/images/ec/2fffdb-7447-4062-a508-4b9445dc28dd/2022-09-23-21-19-33-IMG-2407.webp"></img>
+    <section class="h">Domaine Rossignol-Trapet</section>
+    <section class="h text-bolder">Bourgougne - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/21d131ca-0b4c-4cb1-bbcb-a014bb3f4517.html">
     <img class="flex-bottle" src="/images/21/d131ca-0b4c-4cb1-bbcb-a014bb3f4517/2020-09-27-13-35-07-C7D18D38-CD30-4A79-BE4C-22424514C902-1-105-c.webp"></img>
     <section class="h">Wasenhaus</section>
     <section class="h text-bolder">Gutedel - 2019</section>

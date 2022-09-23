@@ -1,0 +1,31 @@
+{
+  "id": "e71574c1-9ab4-4bb5-9700-5a46563dd5d5",
+  "name": "Bosco di Gica",
+  "full-name": "Adriano Adami Bosco di Gica",
+  "producer": {
+    "id": "e85e05fc-f328-4042-9e3d-6634b6b93287",
+    "name": "Adriano Adami"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "531 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e7/1574c1-9ab4-4bb5-9700-5a46563dd5d5/2022-09-23-21-20-49-IMG-2405.webp",
+  "rating": "NA"
+}
