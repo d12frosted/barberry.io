@@ -1,0 +1,31 @@
+{
+  "id": "a086f12a-efb1-481f-8ab5-ab1d2250945b",
+  "name": "Calvert Pinot Noir",
+  "full-name": "Felton Road Calvert Pinot Noir 2019",
+  "producer": {
+    "id": "1845b9b1-6a81-4d07-8878-69d1c4e63068",
+    "name": "Felton Road"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0",
+  "prices": [
+    "1510 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2021-09-11-10-26-03-425C800A-473C-44A6-A3FB-D296F83CC0A7-1-105-c.webp",
+  "rating": "8.5"
+}

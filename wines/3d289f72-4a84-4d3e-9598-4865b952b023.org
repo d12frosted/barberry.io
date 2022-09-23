@@ -53,5 +53,11 @@ Even after 8 months since my last tasting, Cuvée 744 still seem too young. All 
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+    <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2021-09-11-10-26-03-425C800A-473C-44A6-A3FB-D296F83CC0A7-1-105-c.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
 </div>
 #+end_export
