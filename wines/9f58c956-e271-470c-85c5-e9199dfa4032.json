@@ -1,0 +1,31 @@
+{
+  "id": "9f58c956-e271-470c-85c5-e9199dfa4032",
+  "name": "Spätburgunder-Rosé",
+  "full-name": "Enderle&Moll Spätburgunder-Rosé 2021",
+  "producer": {
+    "id": "5774d37d-7ca7-444c-b981-29ad5a290846",
+    "name": "Enderle&Moll"
+  },
+  "vintage": "2021",
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.6",
+  "prices": [
+    "716 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9f/58c956-e271-470c-85c5-e9199dfa4032/2022-09-23-21-05-58-IMG-2425.webp",
+  "rating": "NA"
+}

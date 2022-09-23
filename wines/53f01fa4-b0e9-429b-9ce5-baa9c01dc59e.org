@@ -41,19 +41,25 @@ A natural wine that is known for its qualities and not for philosophy. This Pino
     <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f27ff474-13c3-48a3-8f6f-3301823f8a68.html">
+  <a class="flex-item flex-item-right" href="/wines/b0f7c825-3099-4470-90a1-16fc36576095.html">
+    <img class="flex-bottle" src="/images/b0/f7c825-3099-4470-90a1-16fc36576095/2022-09-23-21-03-05-IMG-2418.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Bannockburn Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f27ff474-13c3-48a3-8f6f-3301823f8a68.html">
     <img class="flex-bottle" src="/images/f2/7ff474-13c3-48a3-8f6f-3301823f8a68/2021-07-22-09-26-17-AF822FB4-53F3-49B0-8808-1C5318D1282E-1-105-c.webp"></img>
     <section class="h">Felton Road</section>
     <section class="h text-bolder">Chardonnay Block 2 - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/22fcdd3e-aee0-45e6-909d-a4f6a74666ca.html">
+  <a class="flex-item flex-item-right" href="/wines/22fcdd3e-aee0-45e6-909d-a4f6a74666ca.html">
     <img class="flex-bottle" src="/images/22/fcdd3e-aee0-45e6-909d-a4f6a74666ca/2020-09-24-08-25-50-FE22AF78-E105-4B45-AF47-E714EDAEBA36-1-105-c.webp"></img>
     <section class="h">Spier Wines</section>
     <section class="h text-bolder">Pinotage Signature - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
+  <a class="flex-item flex-item-left" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
     <img class="flex-bottle" src="/images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c.webp"></img>
     <section class="h">Mouzon-Leroux</section>
     <section class="h text-bolder">L'Atavique - NV</section>

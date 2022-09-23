@@ -45,5 +45,11 @@ Tasted blind and was sure that it's Prosecco. But when I think about it, all I c
     <section class="h text-bolder">Mòz - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/237b9bdf-da9a-4374-afe9-7ecc11263bfe.html">
+    <img class="flex-bottle" src="/images/23/7b9bdf-da9a-4374-afe9-7ecc11263bfe/2021-07-03-10-10-42-ECA0C89A-B6FC-4C5D-B8CF-A39DFF1BBCF7-1-105-c.webp"></img>
+    <section class="h">Enderle&Moll</section>
+    <section class="h text-bolder">Spätburgunder-Rosé - 2019</section>
+  </a>
+
 </div>
 #+end_export

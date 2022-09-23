@@ -45,5 +45,11 @@ Rich and wonderful bouquet: brioche, toast, butter, honeydew, topical fruits, an
     <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/b0f7c825-3099-4470-90a1-16fc36576095.html">
+    <img class="flex-bottle" src="/images/b0/f7c825-3099-4470-90a1-16fc36576095/2022-09-23-21-03-05-IMG-2418.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Bannockburn Pinot Noir - 2020</section>
+  </a>
+
 </div>
 #+end_export

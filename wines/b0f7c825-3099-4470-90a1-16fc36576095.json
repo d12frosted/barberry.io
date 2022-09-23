@@ -1,0 +1,31 @@
+{
+  "id": "b0f7c825-3099-4470-90a1-16fc36576095",
+  "name": "Bannockburn Pinot Noir",
+  "full-name": "Felton Road Bannockburn Pinot Noir 2020",
+  "producer": {
+    "id": "1845b9b1-6a81-4d07-8878-69d1c4e63068",
+    "name": "Felton Road"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0",
+  "prices": [
+    "1510 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b0/f7c825-3099-4470-90a1-16fc36576095/2022-09-23-21-03-05-IMG-2418.webp",
+  "rating": "NA"
+}
