@@ -9,7 +9,7 @@
 - Alcohol :: 14.5
 - Sugar :: 2.68
 - Price :: 626 UAH, 659 UAH, 472 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -22,6 +22,10 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 *** 2022-09-18 - ☆ 7.75
 
 Incredible value even after price adjustments. Not a simple bouquet: berries jam, ripe plum, bark, balsamic notes, and leather. Seems like it's getting close to its peak. Well-balanced, silky, mature, and deep. Medium-bodied and relatively fresh. Neat.
+
+*** 2022-09-24 - ☆ 7.75
+
+I keep repeating myself, but Weinert offers great value. Complex and mature Merlot, made in the old world style. Balsamic notes, dark berries jam, ripe decaying plum, leather, and wood. This bottle showed more energy. Full body, well balanced, round and delicious.
 
 ** Related
 
@@ -63,22 +67,40 @@ Incredible value even after price adjustments. Not a simple bouquet: berries jam
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6bd60323-b630-4fce-a294-ebfebe3d04e6.html">
+  <a class="flex-item flex-item-left" href="/wines/0514a4a1-e52c-4bcd-bec3-b1fdfdb63ff3.html">
+    <img class="flex-bottle" src="/images/05/14a4a1-e52c-4bcd-bec3-b1fdfdb63ff3/2022-09-23-21-09-57-IMG-2416.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">Origin'elle (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6bd60323-b630-4fce-a294-ebfebe3d04e6.html">
     <img class="flex-bottle" src="/images/6b/d60323-b630-4fce-a294-ebfebe3d04e6/2022-09-17-20-22-58-IMG-2234.webp"></img>
     <section class="h">Spier Wines</section>
     <section class="h text-bolder">Pinotage Signature - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a.html">
+  <a class="flex-item flex-item-left" href="/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a.html">
     <img class="flex-bottle" src="/images/9f/c6f99d-6ed4-4be1-9da1-8e1428868f5a/2022-09-17-20-10-31-IMG-2252.webp"></img>
     <section class="h">Boekenhoutskloof</section>
     <section class="h text-bolder">Porcupine Ridge Cabernet Sauvignon - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c22691bf-ba9f-44fb-bb80-0ef5ff2dd113.html">
+    <img class="flex-bottle" src="/images/c2/2691bf-ba9f-44fb-bb80-0ef5ff2dd113/2022-09-20-16-06-18-IMG-2335.webp"></img>
+    <section class="h">Two Hands</section>
+    <section class="h text-bolder">Gnarly Dudes - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d615372c-6638-4603-9b3e-0f75f9f00215.html">
     <img class="flex-bottle" src="/images/d6/15372c-6638-4603-9b3e-0f75f9f00215/2022-09-17-20-11-51-IMG-2254.webp"></img>
     <section class="h">Spy Valley</section>
     <section class="h text-bolder">Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e71574c1-9ab4-4bb5-9700-5a46563dd5d5.html">
+    <img class="flex-bottle" src="/images/e7/1574c1-9ab4-4bb5-9700-5a46563dd5d5/2022-09-23-21-20-49-IMG-2405.webp"></img>
+    <section class="h">Adriano Adami</section>
+    <section class="h text-bolder">Bosco di Gica - NV</section>
   </a>
 
 </div>
