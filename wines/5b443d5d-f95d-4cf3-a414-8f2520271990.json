@@ -1,0 +1,33 @@
+{
+  "id": "5b443d5d-f95d-4cf3-a414-8f2520271990",
+  "name": "Purellus Riesling Pyramide Pet Nat",
+  "full-name": "Rita & Rudolf Trossen Purellus Riesling Pyramide Pet Nat 2018",
+  "producer": {
+    "id": "dae4f7cc-e606-4b89-aa61-e0e10d7f50a9",
+    "name": "Rita & Rudolf Trossen"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "920 UAH",
+    "1012 UAH",
+    "1150 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "0"
+}

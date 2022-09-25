@@ -1,0 +1,31 @@
+{
+  "id": "e1619879-8376-4b01-ba2a-8bacc0ad01e2",
+  "name": "Cirò Rosso Classico Superiore",
+  "full-name": "Cataldo Calabretta Cirò Rosso Classico Superiore 2017",
+  "producer": {
+    "id": "82cff8b0-4e60-4751-84bd-03178618a361",
+    "name": "Cataldo Calabretta"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ce30c76d-3718-4c9a-9786-6c76317fd670",
+      "name": "Gaglioppo"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "760 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

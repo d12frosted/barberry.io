@@ -1,0 +1,31 @@
+{
+  "id": "86783d66-c9b9-41ca-95e1-f2d214198157",
+  "name": "Refošk Vrh",
+  "full-name": "Piquentum Refošk Vrh 2018",
+  "producer": {
+    "id": "fd22ffa3-3676-40c5-bd3e-c85f92e17869",
+    "name": "Piquentum"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b1d64d06-a9b2-4686-96fc-92ead72d80ce",
+    "name": "Croatia"
+  },
+  "grapes": [
+    {
+      "id": "fca6be34-5d41-4989-ac2a-d2431e36af6c",
+      "name": "Refosco dal Peduncolo Rosso"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2",
+  "prices": [
+    "1400 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

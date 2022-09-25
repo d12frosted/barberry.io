@@ -1,0 +1,31 @@
+{
+  "id": "af5f10f3-a2a0-4f25-997a-6a5c6b81159c",
+  "name": "Vinu Jancu Reserve",
+  "full-name": "La Garagista Vinu Jancu Reserve 2017",
+  "producer": {
+    "id": "ff9e1419-21ae-4c0a-8bac-e57cc713e491",
+    "name": "La Garagista"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "1fd6eab6-2742-4780-8cee-10e451a4ad19",
+      "name": "La Crescent"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1750 UAH"
+  ],
+  "available": 0,
+  "image": "images/af/5f10f3-a2a0-4f25-997a-6a5c6b81159c/2022-09-25-12-45-38-18360C47-A6DD-4BC0-94B1-FD52EDDB44F6-1-105-c.webp",
+  "rating": "NA"
+}

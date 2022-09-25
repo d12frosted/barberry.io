@@ -1,0 +1,31 @@
+{
+  "id": "62a4c00f-3bf6-4791-b178-f3e01e0f67d3",
+  "name": "Vino di Sasso",
+  "full-name": "Sclavus Vino di Sasso 2017",
+  "producer": {
+    "id": "46f67bae-a00a-40ef-8a30-75d0c6a7a678",
+    "name": "Sclavus"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "ab054f40-b7bb-44f4-a5a2-f48beabb7191",
+      "name": "Robola"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "920 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

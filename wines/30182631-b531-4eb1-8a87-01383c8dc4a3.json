@@ -1,0 +1,31 @@
+{
+  "id": "30182631-b531-4eb1-8a87-01383c8dc4a3",
+  "name": "Mala Hierba Nunca Muere",
+  "full-name": "Pol Opuesto Mala Hierba Nunca Muere 2017",
+  "producer": {
+    "id": "28883e04-dde4-4f94-9643-f71a90a8ce48",
+    "name": "Pol Opuesto"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "0c0721fc-5f4b-4ff5-995f-a8a1ac354e63",
+      "name": "Bonarda"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "980 UAH"
+  ],
+  "available": 0,
+  "image": "images/30/182631-b531-4eb1-8a87-01383c8dc4a3/2022-09-25-13-36-23-3933F788-BA25-4FBF-AF5B-A60637889618-1-105-c.webp",
+  "rating": "NA"
+}
