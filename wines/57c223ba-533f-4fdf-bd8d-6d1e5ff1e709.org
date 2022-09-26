@@ -1,15 +1,15 @@
 #+attr_html: :class wine-main-image
-[[file:/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp]]
+[[file:/images/unknown-wine.webp]]
 
-- Type :: Red Still, Dry
+- Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]
-- Vintage :: 2018
+- Vintage :: 2019
 - Location :: Italy, IGP Puglia
-- Grapes :: Nero di Troia, Bombino Nero
-- Alcohol :: 10.5
+- Grapes :: Bombino Bianco
+- Alcohol :: 9
 - Sugar :: 1
-- Price :: 712 UAH, 810 UAH, 670 UAH
-- Cellar :: 1 bottle
+- Price :: 630 UAH
+- Cellar :: N/A
 
 ** Producer
 
@@ -21,9 +21,9 @@ Crazy wine producer from Puglia. Her projects:
 
 ** Ratings
 
-*** 2020-10-16 - ☆ 7.50
+*** 2021-03-05 - ☆ 7.25
 
-What a lovely red fruits compote. Nero di Troia and Bombino, hence the Troiabomb! Simple, light and refreshing, easy to drink. During these cold and rainy days reminds me of picnics and summer. So I am happy :)
+Calcarius produces friendly and simple wines for funny occasions. These orange bubbles are no exception. Rotten apricot, ascorbic candies, citrus. Well balanced, fizzy and tasty.
 
 ** Related
 
@@ -41,16 +41,16 @@ What a lovely red fruits compote. Nero di Troia and Bombino, hence the Troiabomb
     <section class="h text-bolder">Calcarius Bombigiana - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/57c223ba-533f-4fdf-bd8d-6d1e5ff1e709.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Valentina Passalacqua</section>
-    <section class="h text-bolder">Calcarius Frecciabomb - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/7e75e643-f15c-4837-9cc3-3fa7274af72b.html">
+  <a class="flex-item flex-item-left" href="/wines/7e75e643-f15c-4837-9cc3-3fa7274af72b.html">
     <img class="flex-bottle" src="/images/7e/75e643-f15c-4837-9cc3-3fa7274af72b/2020-09-13-12-32-20-67ACFAFE-C1D0-4AF3-9785-6CD2981568CC-1-105-c.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Hellen Rosso - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+    <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Troiabomb - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a16d4aad-d2d2-48df-80d3-02a6b64d2ef1.html">
@@ -75,30 +75,6 @@ What a lovely red fruits compote. Nero di Troia and Bombino, hence the Troiabomb
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
-    <img class="flex-bottle" src="/images/40/543b4b-da12-4605-b0ea-c293b01b8c48/2020-10-17-10-36-01-1FF02925-4058-4BDF-9549-1C0EA1A0E5C1-1-105-c.webp"></img>
-    <section class="h">Hummel</section>
-    <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Hummel</section>
-    <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
-    <img class="flex-bottle" src="/images/8f/a18910-506d-4487-b682-c6099bc38df5/2020-10-17-10-03-55-EDD91F2E-EF7B-4D1A-A2CE-84BBFC084706-1-105-c.webp"></img>
-    <section class="h">La Sorga</section>
-    <section class="h text-bolder">S.M. - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
-    <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
-    <section class="h">Tiago Teles</section>
-    <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 
 </div>

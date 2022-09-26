@@ -71,5 +71,11 @@ Tasting again in 5 months and I like it more now. It become deeper and more inte
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/fad72b54-df09-4885-a811-58b30ea21caf.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>
+  </a>
+
 </div>
 #+end_export

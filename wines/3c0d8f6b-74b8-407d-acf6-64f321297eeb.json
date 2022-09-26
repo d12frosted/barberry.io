@@ -1,12 +1,12 @@
 {
-  "id": "dd209658-bfc4-4863-a0cb-248673b162c0",
+  "id": "3c0d8f6b-74b8-407d-acf6-64f321297eeb",
   "name": "Calcarius Bombigiana",
-  "full-name": "Valentina Passalacqua Calcarius Bombigiana 2019",
+  "full-name": "Valentina Passalacqua Calcarius Bombigiana 2018",
   "producer": {
     "id": "cf22308d-98a1-4056-921c-49b9cd46f159",
     "name": "Valentina Passalacqua"
   },
-  "vintage": "2019",
+  "vintage": "2018",
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",
@@ -23,9 +23,9 @@
   "alcohol": "12",
   "sugar": "1",
   "prices": [
-    "765 UAH"
+    "670 UAH"
   ],
   "available": 0.0,
-  "image": "images/dd/209658-bfc4-4863-a0cb-248673b162c0/2022-07-23-10-40-26-9D4089F6-0772-4981-A79D-53AB533E6EC6-1-105-c.webp",
-  "rating": "7.4"
+  "image": "images/3c/0d8f6b-74b8-407d-acf6-64f321297eeb/2020-08-15-15-47-39-98ACFDFA-0405-4887-9364-291FF89DAF0A-1-105-c.webp",
+  "rating": "7.5"
 }
