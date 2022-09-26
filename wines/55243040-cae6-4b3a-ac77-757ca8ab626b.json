@@ -1,0 +1,32 @@
+{
+  "id": "55243040-cae6-4b3a-ac77-757ca8ab626b",
+  "name": "Spätburgunder",
+  "full-name": "2Naturkinder Spätburgunder 2017",
+  "producer": {
+    "id": "8985ce5e-6689-48fd-a818-ea3b60a6462b",
+    "name": "2Naturkinder"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0",
+  "prices": [
+    "871 UAH",
+    "990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o.webp",
+  "rating": "NA"
+}

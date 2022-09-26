@@ -1,0 +1,31 @@
+{
+  "id": "9f60785e-39a5-491a-b990-c89f1191af3c",
+  "name": "Teresa",
+  "full-name": "Cascina Tavijn Teresa 2018",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "abff4461-3245-4d58-9e2b-86ff55d6ad89",
+      "name": "Ruchè"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1.37",
+  "prices": [
+    "560 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

@@ -9,5 +9,11 @@
     <section class="h text-bolder">Mala Hierba Nunca Muere - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/5370341c-7ad2-4585-98f1-15b790de3840.html">
+    <img class="flex-bottle" src="/images/53/70341c-7ad2-4585-98f1-15b790de3840/2022-09-26-18-37-53-805134C3-EE09-4F80-A030-7ED44B276656-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Qué Grande SOS! - 2017</section>
+  </a>
+
 </div>
 #+end_export

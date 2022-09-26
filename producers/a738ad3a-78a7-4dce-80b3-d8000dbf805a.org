@@ -34,5 +34,11 @@ Run by Jean-Marie and Thierry Puzelat.
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/1cda7dd8-7a61-4aa2-a11d-992095c89a48.html">
+    <img class="flex-bottle" src="/images/1c/da7dd8-7a61-4aa2-a11d-992095c89a48/2022-09-26-19-08-01-4B921E77-AB08-49AA-AFAA-FE1DEF1BFF98-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Vin Blanc - 2021</section>
+  </a>
+
 </div>
 #+end_export

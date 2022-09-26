@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/369320be-e14f-49f3-9d81-f91f826875b7.html">
+    <img class="flex-bottle" src="/images/36/9320be-e14f-49f3-9d81-f91f826875b7/2022-09-26-18-34-01-9AA64A2B-CCB2-4D28-A801-9E0D56F58E9C-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Refugi Brut Nature Reserva - 2018</section>
+  </a>
+
+</div>
+#+end_export

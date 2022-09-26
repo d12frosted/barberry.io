@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f.html">
+    <img class="flex-bottle" src="/images/21/b2b1ca-3e02-4b2b-9901-3c212762d95f/2022-09-26-18-40-21-7E51C4FB-BE19-4FC2-A275-528450D0C855-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">La Rina - 2018</section>
+  </a>
+
+</div>
+#+end_export

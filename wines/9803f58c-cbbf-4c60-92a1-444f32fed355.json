@@ -1,0 +1,32 @@
+{
+  "id": "9803f58c-cbbf-4c60-92a1-444f32fed355",
+  "name": "Marmote",
+  "full-name": "Valli Unite Marmote 2017",
+  "producer": {
+    "id": "e970e575-0688-414a-9cbc-d125ac99dc7a",
+    "name": "Valli Unite"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "07a1065a-cc44-436d-bd7e-0edd7ec8d658",
+      "name": "Croatina"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2",
+  "prices": [
+    "1056 UAH",
+    "1200 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/98/03f58c-cbbf-4c60-92a1-444f32fed355/2022-09-26-18-20-31-4BD7A0F5-E4A4-4A07-9D95-C7316332B272-1-102-o.webp",
+  "rating": "NA"
+}

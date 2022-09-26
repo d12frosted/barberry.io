@@ -1,0 +1,41 @@
+#+attr_html: :class wine-main-image
+[[file:/images/5d/7ceee6-c31a-45b1-a207-90a56fd6a825/2022-09-26-18-51-06-8519B539-66EE-40C3-9837-111B9B3BA375-1-102-o.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]
+- Vintage :: 2021
+- Location :: Italy, Vino (IT)
+- Grapes :: Ruchè
+- Alcohol :: 14
+- Sugar :: NA
+- Price :: 520 UAH, 590 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">
+    <img class="flex-bottle" src="/images/28/bd8c32-5ba7-4c2a-b72b-544455feb1be/2022-05-08-18-10-52-IMG-0048.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <img class="flex-bottle" src="/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9f60785e-39a5-491a-b990-c89f1191af3c.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Teresa - 2018</section>
+  </a>
+
+</div>
+#+end_export

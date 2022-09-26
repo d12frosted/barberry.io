@@ -1,0 +1,32 @@
+{
+  "id": "21b2b1ca-3e02-4b2b-9901-3c212762d95f",
+  "name": "La Rina",
+  "full-name": "Iuli La Rina 2018",
+  "producer": {
+    "id": "f01e1926-6c50-4ee2-b357-ff72e078dff7",
+    "name": "Iuli"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "571fdc0e-5a77-4ac4-882f-ff9df1ef5f4e",
+      "name": "Cellerina"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "748 UAH",
+    "850 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/21/b2b1ca-3e02-4b2b-9901-3c212762d95f/2022-09-26-18-40-21-7E51C4FB-BE19-4FC2-A275-528450D0C855-1-102-o.webp",
+  "rating": "NA"
+}

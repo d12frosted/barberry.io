@@ -1,0 +1,32 @@
+{
+  "id": "f9d85e1b-8424-498e-83e8-e1307d7dd9b0",
+  "name": "Morei Teroldego",
+  "full-name": "Foradori Morei Teroldego 2011",
+  "producer": {
+    "id": "4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae",
+    "name": "Foradori"
+  },
+  "vintage": "2011",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "7dd8824f-7408-40a5-8bb8-e349b1f1b8aa",
+      "name": "Teroldego"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.6",
+  "prices": [
+    "1712 UAH",
+    "1946 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f9/d85e1b-8424-498e-83e8-e1307d7dd9b0/2022-09-26-19-13-00-1FF220DE-1716-4A41-B4A7-3F51BBA198C2-1-102-o.webp",
+  "rating": "NA"
+}

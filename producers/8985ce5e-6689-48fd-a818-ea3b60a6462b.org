@@ -1,0 +1,25 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/26a79e10-55ff-49da-89ce-7b15f48575cf.html">
+    <img class="flex-bottle" src="/images/26/a79e10-55ff-49da-89ce-7b15f48575cf/2022-09-26-18-31-05-64E7AB15-13FD-4907-8A1C-EB770A28AED0-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Black Betty - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c6ee1a63-d3c8-411a-8d0c-36526e249dd8.html">
+    <img class="flex-bottle" src="/images/c6/ee1a63-d3c8-411a-8d0c-36526e249dd8/2022-09-26-19-04-02-C22A4F5B-77FA-48AB-B9BD-18E8B0E2099F-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Kleine Wanderlust - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
+    <img class="flex-bottle" src="/images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Spätburgunder - 2017</section>
+  </a>
+
+</div>
+#+end_export

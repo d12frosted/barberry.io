@@ -1,0 +1,32 @@
+{
+  "id": "a024914c-4a92-4ef2-910f-8e507120be58",
+  "name": "Nibiô",
+  "full-name": "Cascina Degli Ulivi Nibiô 2010",
+  "producer": {
+    "id": "f3a3985a-cd61-4e0c-8d77-a532b6d5da62",
+    "name": "Cascina Degli Ulivi"
+  },
+  "vintage": "2010",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8e5cf3d7-3358-469a-aa67-833fa372c754",
+      "name": "Dolcetto"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "1",
+  "prices": [
+    "1311 UAH",
+    "1490 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a0/24914c-4a92-4ef2-910f-8e507120be58/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o.webp",
+  "rating": "NA"
+}

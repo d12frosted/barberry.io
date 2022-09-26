@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/64/475375-acb6-4d1b-a019-5dc61b01b1dc/2022-09-26-18-53-19-8427D758-DF7F-4227-A6A3-648DA6AE3A0B-1-102-o.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/cd1b94b8-6014-440d-8876-b6897a61770e][Muchada-Léclapart]]
+- Vintage :: 2017
+- Location :: Spain, Vino de Mesa
+- Grapes :: Palomino Fino
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 1041 UAH, 1141 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/fef3962b-3fbb-469d-a068-6f75275ce4c3.html">
+    <img class="flex-bottle" src="/images/fe/f3962b-3fbb-469d-a068-6f75275ce4c3/2022-07-26-12-12-38-F93A64E5-B50D-4D53-8DEC-1609DFF76FB1-1-105-c.webp"></img>
+    <section class="h">Muchada-Léclapart</section>
+    <section class="h text-bolder">Elixir - 2017</section>
+  </a>
+
+</div>
+#+end_export

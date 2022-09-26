@@ -1,0 +1,37 @@
+{
+  "id": "9f697524-026a-4db4-a5b9-358c7d483098",
+  "name": "Troiabomb",
+  "full-name": "Calcarius Troiabomb 2018",
+  "producer": {
+    "id": "9577517f-c2d5-4e73-ab30-68ab4619a10e",
+    "name": "Calcarius"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3d83988c-ec6a-4bde-bd84-a4580284a11d",
+      "name": "Nero di Troia"
+    },
+    {
+      "id": "02f414e6-379a-4afe-aa10-f96bca98599c",
+      "name": "Bombino Nero"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "1",
+  "prices": [
+    "712 UAH",
+    "810 UAH",
+    "670 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp",
+  "rating": "7.5"
+}

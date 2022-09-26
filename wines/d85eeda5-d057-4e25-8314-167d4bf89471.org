@@ -55,5 +55,11 @@ but something I would happy to drink over a good conversation. Just need to give
     <section class="h text-bolder">Fuoripista Pinot Grigio - 2014</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0.html">
+    <img class="flex-bottle" src="/images/f9/d85e1b-8424-498e-83e8-e1307d7dd9b0/2022-09-26-19-13-00-1FF220DE-1716-4A41-B4A7-3F51BBA198C2-1-102-o.webp"></img>
+    <section class="h">Foradori</section>
+    <section class="h text-bolder">Morei Teroldego - 2011</section>
+  </a>
+
 </div>
 #+end_export

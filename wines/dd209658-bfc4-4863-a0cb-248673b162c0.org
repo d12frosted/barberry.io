@@ -25,6 +25,30 @@ Throw a party, bring a bottle or two by Valentina Passalacqua and I will come. N
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7e75e643-f15c-4837-9cc3-3fa7274af72b.html">
+    <img class="flex-bottle" src="/images/7e/75e643-f15c-4837-9cc3-3fa7274af72b/2020-09-13-12-32-20-67ACFAFE-C1D0-4AF3-9785-6CD2981568CC-1-105-c.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Hellen Rosso - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+    <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Troiabomb - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a16d4aad-d2d2-48df-80d3-02a6b64d2ef1.html">
+    <img class="flex-bottle" src="/images/a1/6d4aad-d2d2-48df-80d3-02a6b64d2ef1/2022-09-26-19-14-51-BE3459A9-1DF3-4577-A2B5-69D6B44BC559-1-102-o.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Hellen Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
+    <img class="flex-bottle" src="/images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Orange Puglia Nu Litr - NV</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
     <img class="flex-bottle" src="/images/60/eb654c-b828-4c1f-adde-9ebab8360b5d/2022-08-12-11-47-56-IMG-1431.webp"></img>
     <section class="h">Bencze</section>

@@ -57,5 +57,11 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
+    <img class="flex-bottle" src="/images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o.webp"></img>
+    <section class="h">Cume do Avia</section>
+    <section class="h text-bolder">Dos Canotos - 2018</section>
+  </a>
+
 </div>
 #+end_export

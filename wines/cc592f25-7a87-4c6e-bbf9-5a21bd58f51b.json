@@ -1,0 +1,32 @@
+{
+  "id": "cc592f25-7a87-4c6e-bbf9-5a21bd58f51b",
+  "name": "Dos Canotos",
+  "full-name": "Cume do Avia Dos Canotos 2018",
+  "producer": {
+    "id": "1a59a1cb-fe8a-4724-b084-c5eef925d567",
+    "name": "Cume do Avia"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "551d72c7-0071-49a4-9585-4f47d36f29c8",
+      "name": "Caíño Longo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "1100 UAH",
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o.webp",
+  "rating": "NA"
+}

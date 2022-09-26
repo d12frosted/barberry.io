@@ -95,7 +95,13 @@ Stability is not about this wine. I've tasted it on multiple occasions and it fi
     <section class="h text-bolder">S.M. - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+  <a class="flex-item flex-item-left" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+    <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Troiabomb - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
     <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
     <section class="h">Tiago Teles</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>

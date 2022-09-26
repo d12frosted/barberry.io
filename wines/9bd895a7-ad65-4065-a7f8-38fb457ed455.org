@@ -8,8 +8,8 @@
 - Grapes :: Barbera
 - Alcohol :: 15
 - Sugar :: 3.2
-- Price :: 560 UAH
-- Cellar :: N/A
+- Price :: 880 UAH, 1000 UAH, 560 UAH
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -33,6 +33,18 @@ you can almost chew it. It's really tasty.
     <section class="h text-bolder">Bandita - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/5d7ceee6-c31a-45b1-a207-90a56fd6a825.html">
+    <img class="flex-bottle" src="/images/5d/7ceee6-c31a-45b1-a207-90a56fd6a825/2022-09-26-18-51-06-8519B539-66EE-40C3-9837-111B9B3BA375-1-102-o.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Teresa - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9f60785e-39a5-491a-b990-c89f1191af3c.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Teresa - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/41c61abd-bb8c-4a9c-be77-c2fe756581f3.html">
     <img class="flex-bottle" src="/images/41/c61abd-bb8c-4a9c-be77-c2fe756581f3/2020-09-13-10-27-46-F7DF1687-1152-4A74-AE86-6407C0B45805-1-105-c.webp"></img>
     <section class="h">Patrice Beguet</section>
@@ -45,7 +57,13 @@ you can almost chew it. It's really tasty.
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
+  <a class="flex-item flex-item-right" href="/wines/7e75e643-f15c-4837-9cc3-3fa7274af72b.html">
+    <img class="flex-bottle" src="/images/7e/75e643-f15c-4837-9cc3-3fa7274af72b/2020-09-13-12-32-20-67ACFAFE-C1D0-4AF3-9785-6CD2981568CC-1-105-c.webp"></img>
+    <section class="h">Calcarius</section>
+    <section class="h text-bolder">Hellen Rosso - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/87349342-c0cd-4841-89aa-06d125c4c841.html">
     <img class="flex-bottle" src="/images/87/349342-c0cd-4841-89aa-06d125c4c841/2020-09-13-10-39-37-5BC4043F-46D0-4564-B6C4-560AA92AC363-1-105-c.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Petit Buisson - 2019</section>

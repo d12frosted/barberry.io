@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/a0/24914c-4a92-4ef2-910f-8e507120be58/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62][Cascina Degli Ulivi]]
+- Vintage :: 2010
+- Location :: Italy, Vino (IT)
+- Grapes :: Dolcetto
+- Alcohol :: 15
+- Sugar :: 1
+- Price :: 1311 UAH, 1490 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
+    <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp"></img>
+    <section class="h">Cascina Degli Ulivi</section>
+    <section class="h text-bolder">Filagnotti - 2016</section>
+  </a>
+
+</div>
+#+end_export

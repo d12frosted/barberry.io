@@ -1,0 +1,32 @@
+{
+  "id": "7a0fd419-179e-4c42-9bc8-36f8af4c5b97",
+  "name": "Amphora",
+  "full-name": "Ktima Ligas Amphora 2018",
+  "producer": {
+    "id": "985badd4-6e4e-471e-a7f2-f2ec646f1b1a",
+    "name": "Ktima Ligas"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "9be06bf2-4007-4cbe-8f29-7bf074deb48d",
+      "name": "Kydonitsa"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.9",
+  "prices": [
+    "1135 UAH",
+    "1290 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7a/0fd419-179e-4c42-9bc8-36f8af4c5b97/2022-09-26-18-19-00-CAEC9845-F6A4-4BE5-89A2-4B8853940F72-1-102-o.webp",
+  "rating": "NA"
+}

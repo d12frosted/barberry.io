@@ -1,0 +1,33 @@
+{
+  "id": "cbf036a5-283a-4cc4-b7ba-a512828d1967",
+  "name": "Orange Puglia Nu Litr",
+  "full-name": "Calcarius Orange Puglia Nu Litr NV",
+  "producer": {
+    "id": "9577517f-c2d5-4e73-ab30-68ab4619a10e",
+    "name": "Calcarius"
+  },
+  "vintage": "NV",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6554827f-97de-43d5-a407-34b7ea262870",
+      "name": "Falanghina"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1",
+  "prices": [
+    "686 UAH",
+    "780 UAH",
+    "660 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c.webp",
+  "rating": "7.5"
+}
