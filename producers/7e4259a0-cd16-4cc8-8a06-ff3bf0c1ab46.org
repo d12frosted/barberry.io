@@ -27,37 +27,37 @@ So far produces 6 distinct wines (each one from a singe vineyard):
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
     <img class="flex-bottle" src="/images/fa/32e9d0-b448-4094-9c58-3a371d9dfe33/2021-09-07-11-24-22-5CFCE1EF-DB19-4940-A6C3-B45320280A75-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 10.00</section>
+    <section class="h">★ 10.00</section>
     <section class="h text-bolder">Les Enfers Blanc des Blancs Extra Brut (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/870ccf3b-4295-4932-b8f7-10998dddd6ec.html">
     <img class="flex-bottle" src="/images/87/0ccf3b-4295-4932-b8f7-10998dddd6ec/2021-09-07-10-53-00-53835200-DA5D-4B41-BB5A-9CDD23792753-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h">★ 9.00</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2016) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
     <img class="flex-bottle" src="/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h">★ 9.00</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
     <img class="flex-bottle" src="/images/9e/6ddc62-a7f8-4b3e-9c50-f8ef00bcda06/2021-09-07-11-24-09-61B68BB1-1385-4699-9956-F7F96041E6E4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 10.00</section>
+    <section class="h">★ 10.00</section>
     <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/09fbe9bf-7fdf-43a9-869a-5186d39bcf30.html">
     <img class="flex-bottle" src="/images/09/fbe9bf-7fdf-43a9-869a-5186d39bcf30/2021-09-07-10-33-50-E6F349D6-DC1F-486B-8D2A-1DDC033F3CEC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut Magnum (2007) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/50353325-007d-429d-b70b-f9d40206fe8d.html">
     <img class="flex-bottle" src="/images/50/353325-007d-429d-b70b-f9d40206fe8d/2022-06-12-10-33-04-D65986F2-EC26-4271-8BE4-CF93E626D350-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h">★ 9.00</section>
     <section class="h text-bolder">Les Roises Blanc de Blancs Extra Brut (2015) - NV</section>
   </a>
 

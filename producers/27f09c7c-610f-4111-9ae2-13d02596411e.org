@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/52fe7333-bad2-4d23-b733-a3520704b5d2.html">
     <img class="flex-bottle" src="/images/52/fe7333-bad2-4d23-b733-a3520704b5d2/2022-06-12-17-17-44-C02100E5-8060-4F4E-A59B-B2181992AAAC.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Reserva de la Familia Gran Reserva Brut Nature - 2017</section>
   </a>
 

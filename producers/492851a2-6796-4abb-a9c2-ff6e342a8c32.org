@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ef0fe47b-89ce-4240-a53c-9bc6351abb07.html">
     <img class="flex-bottle" src="/images/ef/0fe47b-89ce-4240-a53c-9bc6351abb07/2022-08-09-08-55-54-74451174-57E6-45D4-9466-763E25DFE95D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Pian del Ciampolo - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b042bbfa-6aae-4c9b-af7f-84ac379f40e3.html">
     <img class="flex-bottle" src="/images/b0/42bbfa-6aae-4c9b-af7f-84ac379f40e3/2021-07-08-09-13-44-8AE9A10D-AB90-41AF-9697-D0C3AD8D10D8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Pian del Ciampolo - 2018</section>
   </a>
 

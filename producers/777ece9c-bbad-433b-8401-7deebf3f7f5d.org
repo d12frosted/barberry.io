@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
     <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Tres Picos - 2019</section>
   </a>
 

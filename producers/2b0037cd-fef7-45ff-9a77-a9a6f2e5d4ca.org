@@ -5,19 +5,19 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
     <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.58</section>
+    <section class="h">★ 8.58</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7361e3ae-a0a0-494d-a027-63acd9abdded.html">
     <img class="flex-bottle" src="/images/73/61e3ae-a0a0-494d-a027-63acd9abdded/2020-07-29-09-53-43-4D6FCC91-4989-4701-AD16-815B802B2389-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 10.00</section>
+    <section class="h">★ 10.00</section>
     <section class="h text-bolder">Cuvée 742 Extra Brut (2014) - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
     <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4491b2e2-25b3-434a-bcbf-943a1c1eda97.html">
     <img class="flex-bottle" src="/images/44/91b2e2-25b3-434a-bcbf-943a1c1eda97/2022-07-26-12-36-43-21469967-EA5F-4912-BF78-CFFF41BBB51F-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Chianti Classico - 2018</section>
   </a>
 

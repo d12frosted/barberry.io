@@ -8,25 +8,25 @@ Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consi
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
     <img class="flex-bottle" src="/images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Buntsandstein - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a737449d-a3d8-439a-94fa-d3080b34661c.html">
     <img class="flex-bottle" src="/images/a7/37449d-a3d8-439a-94fa-d3080b34661c/2020-06-12-08-28-47-CF50A6BE-1656-4934-8191-C3BC9070E2C3-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Spätburgunder-Rosé - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/237b9bdf-da9a-4374-afe9-7ecc11263bfe.html">
     <img class="flex-bottle" src="/images/23/7b9bdf-da9a-4374-afe9-7ecc11263bfe/2021-07-03-10-10-42-ECA0C89A-B6FC-4C5D-B8CF-A39DFF1BBCF7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Spätburgunder-Rosé - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9f58c956-e271-470c-85c5-e9199dfa4032.html">
     <img class="flex-bottle" src="/images/9f/58c956-e271-470c-85c5-e9199dfa4032/2022-09-23-21-05-58-IMG-2425.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Spätburgunder-Rosé - 2021</section>
   </a>
 

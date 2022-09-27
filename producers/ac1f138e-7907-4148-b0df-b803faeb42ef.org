@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/dca1a3aa-40c1-4635-b8d9-295a27ae23d0.html">
     <img class="flex-bottle" src="/images/dc/a1a3aa-40c1-4635-b8d9-295a27ae23d0/2021-08-27-17-25-38-89F25E83-DCE8-4563-97F0-0C701FD490AF-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Estate Pinot Noir - 2017</section>
   </a>
 

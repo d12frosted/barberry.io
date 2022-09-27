@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fef3962b-3fbb-469d-a068-6f75275ce4c3.html">
     <img class="flex-bottle" src="/images/fe/f3962b-3fbb-469d-a068-6f75275ce4c3/2022-07-26-12-12-38-F93A64E5-B50D-4D53-8DEC-1609DFF76FB1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Elixir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/64475375-acb6-4d1b-a019-5dc61b01b1dc.html">
     <img class="flex-bottle" src="/images/64/475375-acb6-4d1b-a019-5dc61b01b1dc/2022-09-26-18-53-19-8427D758-DF7F-4227-A6A3-648DA6AE3A0B-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Univers - 2017</section>
   </a>
 

@@ -6,13 +6,13 @@ Alessandro Viola is a small winery owning 7 hectares of vineyard planted with gr
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
     <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.17</section>
+    <section class="h">★ 8.17</section>
     <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
     <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.33</section>
+    <section class="h">★ 8.33</section>
     <section class="h text-bolder">Le mie Origini - 2019</section>
   </a>
 

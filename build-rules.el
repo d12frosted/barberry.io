@@ -413,7 +413,7 @@ Access to full ITEMS for related wines."
                            "images/unknown-wine.webp")
                          "\"></img>\n")
 
-                 "    <section class=\"h text-small text-lighter\">★ "
+                 "    <section class=\"h\">★ "
                  (if (vulpea-note-meta-get it "ratings")
                      (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
                    "-")

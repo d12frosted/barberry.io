@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">
     <img class="flex-bottle" src="/images/0a/a4db7d-22bc-4e3e-876a-1740b7cfe73f/2022-05-08-16-07-29-56302E38-0D8B-4AEE-A7DC-10D011443159-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h">★ 6.50</section>
     <section class="h text-bolder">Metamorphika Chenin Blanc - 2017</section>
   </a>
 

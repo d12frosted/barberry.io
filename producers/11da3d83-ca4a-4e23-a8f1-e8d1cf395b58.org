@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/9b57e144-d3e1-45b1-974b-a16a415962cf.html">
     <img class="flex-bottle" src="/images/9b/57e144-d3e1-45b1-974b-a16a415962cf/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Première Cuvée - NV</section>
   </a>
 

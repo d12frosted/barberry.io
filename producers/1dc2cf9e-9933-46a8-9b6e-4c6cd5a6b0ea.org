@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4.html">
     <img class="flex-bottle" src="/images/c4/1d60a7-b441-43cb-8d8a-ca05fed8b2b4/2022-05-20-08-38-42-0B289E70-A100-4E60-A1EA-EE33FB59C21E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 6.00</section>
+    <section class="h">★ 6.00</section>
     <section class="h text-bolder">Gato Negro Merlot - 2020</section>
   </a>
 

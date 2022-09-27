@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
     <img class="flex-bottle" src="/images/fb/e81e1f-f8e4-47d9-8fd5-a92b304bbe06/2022-07-16-18-25-36-F279F856-C3AC-4068-934A-638C352B5BB4-1-201-a.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 

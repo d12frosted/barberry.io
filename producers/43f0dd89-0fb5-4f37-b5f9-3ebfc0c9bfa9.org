@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">
     <img class="flex-bottle" src="/images/26/8bd2f6-3e62-4a26-ba42-d514bc4e011d/2022-06-05-10-43-14-62A642B5-89E2-4570-9704-F7F5D7219085-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Argentina Brut - NV</section>
   </a>
 

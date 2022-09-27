@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
     <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Premier Cru Blanc de Blancs - NV</section>
   </a>
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4e6b1890-7360-4d61-af6a-e7a6ac427f98.html">
     <img class="flex-bottle" src="/images/4e/6b1890-7360-4d61-af6a-e7a6ac427f98/2022-05-28-10-18-26-IMG-0238.webp"></img>
-    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h">★ 6.50</section>
     <section class="h text-bolder">frizzante - NV</section>
   </a>
 

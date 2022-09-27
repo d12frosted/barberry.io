@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 

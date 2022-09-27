@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/abe4809a-958e-46f3-8b58-5575332beb1e.html">
     <img class="flex-bottle" src="/images/ab/e4809a-958e-46f3-8b58-5575332beb1e/2021-12-17-18-42-45-80C2A580-612F-47E0-8DFF-216C91331677-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Margaux Cru Bourgeois - 2016</section>
   </a>
 

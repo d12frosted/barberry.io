@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023.html">
     <img class="flex-bottle" src="/images/36/9b6213-1ce1-44a8-bd85-10ab7bdf2023/2022-05-23-20-17-01-IMG-0219.webp"></img>
-    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h">★ 6.50</section>
     <section class="h text-bolder">Chianti Riserva - 2016</section>
   </a>
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/955b917f-feda-45dd-9ffc-2548a8e4a5d8.html">
     <img class="flex-bottle" src="/images/95/5b917f-feda-45dd-9ffc-2548a8e4a5d8/2021-08-18-10-32-37-57EC7679-E717-459B-B78F-B02C0CCE7620-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Saint-Aubin 1er Cru Clos du Meix - 2018</section>
   </a>
 

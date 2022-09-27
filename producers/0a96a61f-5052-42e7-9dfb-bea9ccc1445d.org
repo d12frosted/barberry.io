@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b951da6c-6a38-4355-ab9f-6abe92b2d0b1.html">
     <img class="flex-bottle" src="/images/b9/51da6c-6a38-4355-ab9f-6abe92b2d0b1/2022-06-16-09-24-53-10BCBFC7-30FA-49DD-B203-8F18EB0805FC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Morey Saint Denis 1er Cru les Blanchards - 2009</section>
   </a>
 

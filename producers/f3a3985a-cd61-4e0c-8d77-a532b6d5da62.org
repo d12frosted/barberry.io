@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
     <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Filagnotti - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a024914c-4a92-4ef2-910f-8e507120be58.html">
     <img class="flex-bottle" src="/images/a0/24914c-4a92-4ef2-910f-8e507120be58/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Nibiô - 2010</section>
   </a>
 

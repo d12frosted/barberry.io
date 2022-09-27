@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bb6c1e33-7a85-4f88-81c0-b6cfa6ce799e.html">
     <img class="flex-bottle" src="/images/bb/6c1e33-7a85-4f88-81c0-b6cfa6ce799e/2020-09-20-10-14-08-A3926C74-7B45-4BF0-A53D-85DF04570002-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 9.00</section>
+    <section class="h">★ 9.00</section>
     <section class="h text-bolder">Sucette - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a.html">
     <img class="flex-bottle" src="/images/19/72ae47-ec40-46f1-82c5-f48d39a28a5a/2022-08-12-11-57-49-IMG-1443.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Sucette - 2018</section>
   </a>
 

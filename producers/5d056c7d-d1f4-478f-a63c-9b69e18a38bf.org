@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">
     <img class="flex-bottle" src="/images/4a/169cba-26aa-4d74-a03a-07a7bea905db/2022-06-08-08-40-30-8E9A0699-5012-4DDB-800C-88569D622FF1-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Betsek Korposd Furmint - 2011</section>
   </a>
 

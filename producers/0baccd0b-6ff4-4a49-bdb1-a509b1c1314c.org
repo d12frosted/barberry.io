@@ -20,19 +20,19 @@ Interestingly, before Hennes Storm started own project, he worked as a winemaker
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2021-03-08-19-42-55-D61BBD30-E91F-45BE-8D2B-1C1A2B33B9B7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
     <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.75</section>
+    <section class="h">★ 8.75</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
     <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 

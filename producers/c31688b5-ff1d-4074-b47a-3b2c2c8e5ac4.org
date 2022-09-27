@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fe706fbf-c139-4372-98b7-afe4249f0ce1.html">
     <img class="flex-bottle" src="/images/fe/706fbf-c139-4372-98b7-afe4249f0ce1/2022-05-22-20-24-42-1A33CF7F-74E0-47AA-AE1D-FA27B97BDBAE-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 6.50</section>
+    <section class="h">★ 6.50</section>
     <section class="h text-bolder">Sauvignon Blanc - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2d1710fb-5361-48d5-93c5-963b5db134a8.html">
     <img class="flex-bottle" src="/images/2d/1710fb-5361-48d5-93c5-963b5db134a8/2022-05-25-08-45-04-065CB6D4-9C42-4360-BDB7-65247C26C531-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Sauvignon Blanc Reserva - 2019</section>
   </a>
 

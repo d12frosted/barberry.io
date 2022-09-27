@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a9209b03-ecbd-44f9-a5dd-b13fae5e9f99.html">
     <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Etna Bianco - 2019</section>
   </a>
 

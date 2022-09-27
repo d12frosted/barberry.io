@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/23ee5fa3-b3ba-402d-917e-8409237d6a4f.html">
     <img class="flex-bottle" src="/images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
     <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 

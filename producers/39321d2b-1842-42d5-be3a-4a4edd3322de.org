@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1158f9e0-3925-40bc-976a-91337cfd8031.html">
     <img class="flex-bottle" src="/images/11/58f9e0-3925-40bc-976a-91337cfd8031/2022-05-21-10-32-01-56D94B67-9E27-4CB2-96E9-6D8592E910FF-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h">★ 5.00</section>
     <section class="h text-bolder">Chardonnay Réserve - 2019</section>
   </a>
 

@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
     <img class="flex-bottle" src="/images/36/2be9a4-0c7e-4802-b742-a82a1d87232a/2020-12-22-08-21-27-F66B47B5-6A11-4F38-9867-7A6F69DAA959-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Cerro Añon Reserva - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6.html">
     <img class="flex-bottle" src="/images/16/66a061-db29-41fb-bda4-1ab1e605ebb6/2022-09-14-14-52-12-56EA3890-F176-4305-B7DA-E8C7BE2A8170-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Cerro Añon Reserva - 2018</section>
   </a>
 

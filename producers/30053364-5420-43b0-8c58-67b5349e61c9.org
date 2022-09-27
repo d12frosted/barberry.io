@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33.html">
     <img class="flex-bottle" src="/images/0b/1bf5a6-9132-4046-85e3-fb9889607b33/2022-09-03-09-54-44-BDE5B783-B712-4D40-9AE7-E88A363448E4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.80</section>
+    <section class="h">★ 7.80</section>
     <section class="h text-bolder">Soave Colli Scaligeri Castelcerino - 2019</section>
   </a>
 

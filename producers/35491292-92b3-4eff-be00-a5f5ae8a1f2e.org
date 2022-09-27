@@ -5,19 +5,19 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5a4c0e3b-7f11-46bb-8f17-69588434b9ee.html">
     <img class="flex-bottle" src="/images/5a/4c0e3b-7f11-46bb-8f17-69588434b9ee/2022-07-30-10-02-06-20F034B2-17B9-4DD8-8883-770CCA5287D4-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h">★ 5.00</section>
     <section class="h text-bolder">Liatiko - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/15040117-337e-43f7-aae4-d74e7ea92d5e.html">
     <img class="flex-bottle" src="/images/15/040117-337e-43f7-aae4-d74e7ea92d5e/2022-07-30-10-33-15-55CCA473-289F-4509-AD73-F8A67376020B-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 3.00</section>
+    <section class="h">★ 3.00</section>
     <section class="h text-bolder">Thrapsathiri - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d43bf6e9-bdd8-4805-953a-e23e28699260.html">
     <img class="flex-bottle" src="/images/d4/3bf6e9-bdd8-4805-953a-e23e28699260/2022-07-30-10-40-35-68770FDE-E520-4A41-928C-A1DB3ACD5B4C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h">★ 5.00</section>
     <section class="h text-bolder">Vidiano Old Vines - 2020</section>
   </a>
 

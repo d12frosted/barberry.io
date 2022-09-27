@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bcf84367-38ec-4954-87d8-32b3a541d067.html">
     <img class="flex-bottle" src="/images/bc/f84367-38ec-4954-87d8-32b3a541d067/2022-08-14-12-06-47-573A0B75-7A85-473D-B2B7-1C0E38B824A7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
   </a>
 

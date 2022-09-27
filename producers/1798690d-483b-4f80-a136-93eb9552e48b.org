@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">
     <img class="flex-bottle" src="/images/94/9e9fb7-b079-491d-9700-3af4e8545c97/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2022-08-17-10-33-10-02E59099-F76E-4D80-A5F5-FD94E1D10CE7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 

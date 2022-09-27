@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b8dbcbff-acdd-4719-82ad-dd508857c7bd.html">
     <img class="flex-bottle" src="/images/b8/dbcbff-acdd-4719-82ad-dd508857c7bd/2022-08-03-22-15-11-CA1002AA-3E35-4F46-8E12-F2C55F97F11E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2016</section>
   </a>
 

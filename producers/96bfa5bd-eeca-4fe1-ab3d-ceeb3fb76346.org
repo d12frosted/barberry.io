@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
     <img class="flex-bottle" src="/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Presle Millesime BdN - 2016</section>
   </a>
 

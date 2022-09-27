@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">
     <img class="flex-bottle" src="/images/60/19c3fc-f761-4f54-8e39-ab1fadecaa97/2022-07-28-07-04-22-665F5858-0629-42FD-AAD9-20E7F8CD5E60-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h">★ 8.25</section>
     <section class="h text-bolder">Don Carlino Pecorino Colline Pescaresi - 2018</section>
   </a>
 

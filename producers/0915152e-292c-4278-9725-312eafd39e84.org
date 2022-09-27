@@ -6,7 +6,7 @@ Side project of Hamilton Russell Vineyards.
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/94ec9be5-892e-4b46-92a6-fcc7ff071b0a.html">
     <img class="flex-bottle" src="/images/94/ec9be5-892e-4b46-92a6-fcc7ff071b0a/2020-02-15-11-42-10-5C82A6B3-81D8-4D59-B9D0-233D0680DC67-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Pinotage Cinsault - 2019</section>
   </a>
 

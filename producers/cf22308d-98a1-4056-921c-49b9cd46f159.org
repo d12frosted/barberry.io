@@ -10,55 +10,55 @@ Crazy wine producer from Puglia. Her projects:
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3c0d8f6b-74b8-407d-acf6-64f321297eeb.html">
     <img class="flex-bottle" src="/images/3c/0d8f6b-74b8-407d-acf6-64f321297eeb/2020-08-15-15-47-39-98ACFDFA-0405-4887-9364-291FF89DAF0A-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Calcarius Bombigiana - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dd209658-bfc4-4863-a0cb-248673b162c0.html">
     <img class="flex-bottle" src="/images/dd/209658-bfc4-4863-a0cb-248673b162c0/2022-07-23-10-40-26-9D4089F6-0772-4981-A79D-53AB533E6EC6-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Calcarius Bombigiana - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/57c223ba-533f-4fdf-bd8d-6d1e5ff1e709.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Calcarius Frecciabomb - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7e75e643-f15c-4837-9cc3-3fa7274af72b.html">
     <img class="flex-bottle" src="/images/7e/75e643-f15c-4837-9cc3-3fa7274af72b/2020-09-13-12-32-20-67ACFAFE-C1D0-4AF3-9785-6CD2981568CC-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Calcarius Hellen Rosso - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a16d4aad-d2d2-48df-80d3-02a6b64d2ef1.html">
     <img class="flex-bottle" src="/images/a1/6d4aad-d2d2-48df-80d3-02a6b64d2ef1/2022-09-26-19-14-51-BE3459A9-1DF3-4577-A2B5-69D6B44BC559-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Calcarius Hellen Rosso - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
     <img class="flex-bottle" src="/images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Calcarius Orange Puglia Nu Litr - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fad72b54-df09-4885-a811-58b30ea21caf.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
     <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Calcarius Troiabomb - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
     <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-26-18-51-46-A2B7302D-7755-4B5E-A7CC-8C8CCF973665-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ 7.25</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Sintonia - 2019</section>
   </a>
 

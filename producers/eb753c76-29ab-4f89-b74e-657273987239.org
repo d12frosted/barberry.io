@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">
     <img class="flex-bottle" src="/images/1d/606897-3641-4a9c-a0ad-87afd8f4b238/2022-07-18-21-03-31-A10F2C67-3D73-4ECB-8471-DA71B43761C0-1-102-o.webp"></img>
-    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h">★ 8.25</section>
     <section class="h text-bolder">Rozas 1-er Cru - 2018</section>
   </a>
 

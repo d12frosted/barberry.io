@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
     <img class="flex-bottle" src="/images/ee/cd139e-6555-46c7-927b-5b222d9f5583/2021-07-20-09-16-45-48107411-B181-4B9F-A767-28E6B3DD3301-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
   </a>
 

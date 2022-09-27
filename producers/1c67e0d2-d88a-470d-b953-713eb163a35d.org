@@ -4,7 +4,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">
     <img class="flex-bottle" src="/images/1e/c23f8f-3d80-42b5-88ea-e07543a1471c/2021-12-27-17-31-44-IMG-4688.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Gimblett Gravels Syrah - 2018</section>
   </a>
 

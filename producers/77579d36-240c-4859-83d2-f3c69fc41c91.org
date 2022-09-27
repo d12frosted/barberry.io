@@ -6,13 +6,13 @@ Project by Curro Bareño and Jesus Olivares from [[barberry:/producers/0608acc9-
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3bbce93c-f276-4b2e-9992-122e946891e0.html">
     <img class="flex-bottle" src="/images/3b/bce93c-f276-4b2e-9992-122e946891e0/2022-08-14-12-34-01-8AF7A7B2-2982-451B-B93E-A2E52F673F99-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Andrinal - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
     <img class="flex-bottle" src="/images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Fuente de los Huertos - 2017</section>
   </a>
 

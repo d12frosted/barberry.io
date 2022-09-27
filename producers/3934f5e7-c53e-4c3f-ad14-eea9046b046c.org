@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4c766528-8c5d-4d33-83fb-270463090018.html">
     <img class="flex-bottle" src="/images/4c/766528-8c5d-4d33-83fb-270463090018/2022-08-09-14-29-35-CC9CE236-FCAF-4EA5-AE19-4D3DD736087C-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Chablis - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7283c031-a974-4259-9a2f-7816f2e120d2.html">
     <img class="flex-bottle" src="/images/72/83c031-a974-4259-9a2f-7816f2e120d2/2022-08-09-14-30-39-846B708C-A572-4A46-BF36-A317955A6E6B-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.25</section>
+    <section class="h">★ 8.25</section>
     <section class="h text-bolder">Chablis Premier Cru Montmain - 2018</section>
   </a>
 

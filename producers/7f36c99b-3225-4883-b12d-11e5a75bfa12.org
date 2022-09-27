@@ -5,25 +5,25 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4e0f5306-8569-4d27-b7f0-05f18fc4c5d9.html">
     <img class="flex-bottle" src="/images/4e/0f5306-8569-4d27-b7f0-05f18fc4c5d9/2021-08-11-08-57-24-BA1CDC84-1C86-4ECE-B4AB-53BC327BB6B7-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/22fcdd3e-aee0-45e6-909d-a4f6a74666ca.html">
     <img class="flex-bottle" src="/images/22/fcdd3e-aee0-45e6-909d-a4f6a74666ca/2020-09-24-08-25-50-FE22AF78-E105-4B45-AF47-E714EDAEBA36-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 5.00</section>
+    <section class="h">★ 5.00</section>
     <section class="h text-bolder">Pinotage Signature - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6bd60323-b630-4fce-a294-ebfebe3d04e6.html">
     <img class="flex-bottle" src="/images/6b/d60323-b630-4fce-a294-ebfebe3d04e6/2022-09-17-20-22-58-IMG-2234.webp"></img>
-    <section class="h text-small text-lighter">★ 5.50</section>
+    <section class="h">★ 5.50</section>
     <section class="h text-bolder">Pinotage Signature - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">
     <img class="flex-bottle" src="/images/2a/419f13-955d-4675-9ca1-a5800b73cd50/2022-06-09-21-40-35-IMG-0363.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Signature Chenin Blanc - 2021</section>
   </a>
 

@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ad406c60-08a7-48ea-8c4b-1142169efa0c.html">
     <img class="flex-bottle" src="/images/ad/406c60-08a7-48ea-8c4b-1142169efa0c/2022-08-24-14-02-02-39BE2E47-3A05-4E87-9B4C-60E8AC5D804D-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Cor de Chasse - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e5ee19b5-c687-49fd-8e11-0878288cd5a5.html">
     <img class="flex-bottle" src="/images/e5/ee19b5-c687-49fd-8e11-0878288cd5a5/2022-08-24-14-00-10-01C9E9F1-6DE0-48E3-AD0A-47F882D76D55-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.40</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Ruché - 2019</section>
   </a>
 

@@ -10,13 +10,13 @@ Proponent of biotic philosophy, e.g. [[https://en.wikipedia.org/wiki/Biotic_ethi
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
     <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.50</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Lanthano Bianco - 2013</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
     <img class="flex-bottle" src="/images/76/7a24b9-3ae4-4ea9-9955-a4c7157e6afe/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">M Rosso - 2006</section>
   </a>
 

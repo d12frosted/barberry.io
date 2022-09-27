@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2aadc892-b821-41fe-8c6a-162ac048b34d.html">
     <img class="flex-bottle" src="/images/2a/adc892-b821-41fe-8c6a-162ac048b34d/2022-08-29-16-46-08-4CE5C5A5-2BE9-4895-8926-7D91D413378E-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Sauvignon Blanc F de Fournier - 2020</section>
   </a>
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/56b7ca27-321e-47ed-bb32-edad8190acf6.html">
     <img class="flex-bottle" src="/images/56/b7ca27-321e-47ed-bb32-edad8190acf6/2022-09-22-09-16-40-A8E4ABCC-019D-4BDE-AAB2-50DEC16FE2CA-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ -</section>
+    <section class="h">★ -</section>
     <section class="h text-bolder">Wallhäuser Pfarrgarten Riesling - 2021</section>
   </a>
 

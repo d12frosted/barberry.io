@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">
     <img class="flex-bottle" src="/images/8f/e19c6a-4169-4e27-bf89-512c429c6725/2022-06-26-17-22-16-89EEF1FC-9732-4B32-A5A4-20F5FF65CF48-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.20</section>
+    <section class="h">★ 7.20</section>
     <section class="h text-bolder">Chenin Blanc - 2019</section>
   </a>
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
     <img class="flex-bottle" src="/images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
   </a>
 

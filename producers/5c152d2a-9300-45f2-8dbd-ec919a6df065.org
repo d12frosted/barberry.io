@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">
     <img class="flex-bottle" src="/images/a9/ce10b3-c64a-4a32-9490-b7e3ffb0d0ac/2022-01-13-09-59-05-383B22A4-9F2E-4CB3-B703-F2BABEDEF9E9-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 8.00</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Louro - 2020</section>
   </a>
 

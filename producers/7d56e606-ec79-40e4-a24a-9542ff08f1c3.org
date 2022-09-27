@@ -20,25 +20,25 @@ Anton walked a path from renegade to trailblazer for Adelaide Hills, and now he 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
     <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
-    <section class="h text-small text-lighter">★ 7.75</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
     <img class="flex-bottle" src="/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
     <img class="flex-bottle" src="/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp"></img>
-    <section class="h text-small text-lighter">★ 7.00</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
     <img class="flex-bottle" src="/images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040.webp"></img>
-    <section class="h text-small text-lighter">★ 7.50</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Vino Rosso - 2020</section>
   </a>
 
