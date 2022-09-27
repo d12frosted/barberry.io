@@ -1,0 +1,31 @@
+{
+  "id": "5aabfcdf-f8be-4068-9524-b8cae5cedd3c",
+  "name": "Pinot Noir",
+  "full-name": "Doudet Naudin Pinot Noir 2019",
+  "producer": {
+    "id": "3ac3a14a-5efe-440f-accf-4f86c670ac8b",
+    "name": "Doudet Naudin"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "299 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/5a/abfcdf-f8be-4068-9524-b8cae5cedd3c/2022-09-27-08-11-25-2431D944-4CE1-4DDE-9882-D5B99F06ECF4-1-105-c.webp",
+  "rating": "NA"
+}

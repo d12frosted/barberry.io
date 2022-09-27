@@ -18,31 +18,37 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
     <section class="h text-bolder">Cabernet Sauvignon - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
+  <a class="flex-item flex-item-left" href="/wines/bcc18dc0-d37b-49bf-84a0-7168f595e7ed.html">
+    <img class="flex-bottle" src="/images/bc/c18dc0-d37b-49bf-84a0-7168f595e7ed/2022-09-26-22-13-39-F2ED61B7-F62E-4A18-A941-CBCBBE8D1945-1-102-o.webp"></img>
+    <section class="h text-small text-lighter">★ -</section>
+    <section class="h text-bolder">Carrascal Cabernet Sauvignon - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">
     <img class="flex-bottle" src="/images/60/de313a-fc2e-46dd-92d2-4793e97ef93b/2022-06-12-17-30-24-9FE270CC-0C50-4D90-9097-0FBBEC3BF09E.webp"></img>
     <section class="h text-small text-lighter">★ 7.40</section>
     <section class="h text-bolder">Carrascal Chardonnay - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5434ad31-8f1f-4e7a-8daf-22f888c3a71c.html">
+  <a class="flex-item flex-item-left" href="/wines/5434ad31-8f1f-4e7a-8daf-22f888c3a71c.html">
     <img class="flex-bottle" src="/images/54/34ad31-8f1f-4e7a-8daf-22f888c3a71c/2022-09-20-16-01-36-IMG-2327.webp"></img>
     <section class="h text-small text-lighter">★ -</section>
     <section class="h text-bolder">Carrascal Corte Clasico - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
+  <a class="flex-item flex-item-right" href="/wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">
     <img class="flex-bottle" src="/images/24/a83b0b-3c1b-4412-8b5d-febaf2394108/2020-11-25-11-31-08-FD0BF3A2-4F90-4FD4-AEC2-8B136D550FF7-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 8.50</section>
     <section class="h text-bolder">Cavas de Weinert Cask Selection - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+  <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
     <img class="flex-bottle" src="/images/1c/ef4a62-828f-47ca-8489-ea911196b860/2022-09-14-15-06-59-67A8CA19-8B5B-4E29-92B5-6CF952C935D9-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.75</section>
     <section class="h text-bolder">Merlot - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
     <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h text-small text-lighter">★ 7.40</section>
     <section class="h text-bolder">Montfleury - 2020</section>
