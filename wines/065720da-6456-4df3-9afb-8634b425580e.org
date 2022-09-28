@@ -9,7 +9,7 @@
 - Alcohol :: 10.5
 - Sugar :: 2
 - Price :: 573 UAH, 630 UAH, 590 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 A blend of Moscato Giallo and Glera from 30 years old vines raised in volcanic soils. Glera is pressed directly, and Moscato Giallo is fermented spontaneously with maceration for 30 days in steel. The result is combined and bottled with added dried grape must.
 
@@ -37,6 +37,12 @@ I like sparkling wines made by Costadila. While being not demanding and fun, the
 
 It's always a pleasure to enjoy this beautiful orange Col Fondo, full of kombucha, pear, medicinal herbs, lilac flowers and slightly rotten orange. Fresh, bubbly, easy to enjoy, but not simple.
 
+*** 2022-09-27 - ☆ 7.50
+
+Something is clearly amiss in new releases by Costadilà. The new Mòz is not a sparkling Ageno anymore. It's not even sparkling, just fizzy. Cidre, kōcha kinoko and spoiled stone fruits. Fresh, flavourful, bright and easy to drink, yet not fascinating.
+
+Wine #1 on [[barberry:/posts/2022-09-27-mixed-bag][Mixed Bag Vol. 4]].
+
 ** Related
 
 #+begin_export html
@@ -59,16 +65,40 @@ It's always a pleasure to enjoy this beautiful orange Col Fondo, full of kombuch
     <section class="h text-bolder">450 slm - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+  <a class="flex-item flex-item-right" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
+    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Bastarda - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1409c807-4b30-47c0-b0c3-8562d97ba541.html">
+    <img class="flex-bottle" src="/images/14/09c807-4b30-47c0-b0c3-8562d97ba541/2021-06-02-10-54-57-1065E2EE-3269-4A70-9024-8294D7832871-1-105-c.webp"></img>
+    <section class="h">Jean Grivot</section>
+    <section class="h text-bolder">Bourgougne Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1a73439a-6bbe-4621-a76f-567b9d436876.html">
+    <img class="flex-bottle" src="/images/1a/73439a-6bbe-4621-a76f-567b9d436876/2022-08-29-16-59-05-03EE99A4-572E-48BC-808F-D772DF37FC32-1-105-c.webp"></img>
+    <section class="h">Tomislav Marković</section>
+    <section class="h text-bolder">Quo Vadis - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
     <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/237b9bdf-da9a-4374-afe9-7ecc11263bfe.html">
+  <a class="flex-item flex-item-right" href="/wines/237b9bdf-da9a-4374-afe9-7ecc11263bfe.html">
     <img class="flex-bottle" src="/images/23/7b9bdf-da9a-4374-afe9-7ecc11263bfe/2021-07-03-10-10-42-ECA0C89A-B6FC-4C5D-B8CF-A39DFF1BBCF7-1-105-c.webp"></img>
     <section class="h">Enderle&Moll</section>
     <section class="h text-bolder">Spätburgunder-Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a.html">
+    <img class="flex-bottle" src="/images/2f/91824d-cecb-4c83-b755-ac3b70f9936a/2022-09-06-16-35-28-IMG-2035.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Qvevri 'Don Alfio' - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/586fa3a0-ccf8-45e8-9a3c-f5cbc7fc6812.html">
@@ -81,6 +111,18 @@ It's always a pleasure to enjoy this beautiful orange Col Fondo, full of kombuch
     <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634.html">
+    <img class="flex-bottle" src="/images/c7/e09e22-d7a5-4ce2-82ef-7cacb1fb2634/2022-09-02-09-30-54-D9D47279-5BF2-4A51-AC24-05B6E5821A3F-1-105-c.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Ada River Chardonnay - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
+    <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp"></img>
+    <section class="h">Sous Le Végétal</section>
+    <section class="h text-bolder">Palli et Genesia - 2018</section>
   </a>
 
 </div>
