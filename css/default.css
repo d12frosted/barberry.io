@@ -47,9 +47,9 @@ body {
   font-size: var(--default-size);
 }
 
-header {
-  font-family: var(--header-font);
-}
+/* header { */
+/*   font-family: var(--header-font); */
+/* } */
 
 h1, h2, h3, h4 {
   font-family: var(--header-font);
@@ -113,7 +113,7 @@ nav {
 
 nav a {
   font-size: var(--h2-size);
-  font-weight: bold;
+  /* font-weight: bold; */
   color: var(--foreground);
   text-decoration: none;
   text-transform: uppercase;
