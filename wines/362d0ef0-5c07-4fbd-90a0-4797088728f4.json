@@ -1,7 +1,7 @@
 {
   "id": "362d0ef0-5c07-4fbd-90a0-4797088728f4",
-  "name": "Satelite Pinot Noir",
-  "full-name": "Spy Valley Satelite Pinot Noir 2020",
+  "name": "Satellite Pinot Noir",
+  "full-name": "Spy Valley Satellite Pinot Noir 2020",
   "producer": {
     "id": "bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c",
     "name": "Spy Valley"
@@ -25,7 +25,7 @@
   "prices": [
     "474 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/36/2d0ef0-5c07-4fbd-90a0-4797088728f4/2022-09-20-15-59-46-IMG-2324.webp",
-  "rating": "NA"
+  "rating": "7.0"
 }
