@@ -9,9 +9,29 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 598 UAH, 680 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-09-30 - ☆ 8.00
 
+At last, a Gamay without any buts (I am not repeating this obvious joke). You know these chocolate candies filled with cherry and liquor, right? Add some red flowers and hints of VA, and you get this beautiful Fleurie-Poncié. Not overly complicated, but so enjoyable, juicy and well made. Medium body, fresh, and well-balanced. Something to drink bottle after bottle.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
+    <img class="flex-bottle" src="/images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Spätburgunder - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
+    <img class="flex-bottle" src="/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Cubillo Crianza - 2014</section>
+  </a>
+
+</div>
+#+end_export
