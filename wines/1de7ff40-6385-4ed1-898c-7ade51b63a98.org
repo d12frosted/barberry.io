@@ -9,7 +9,7 @@
 - Alcohol :: 14.5
 - Sugar :: NA
 - Price :: 626 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -19,7 +19,9 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-03 - ☆ 8.00
+
+It's more lively than Merlot of the same vintage. Beautiful and ripe bouquet: eucalyptus, tobacco, black currant (jaaam), pine nuts, bay leaf, and oak. Round, almost perfectly balanced, long aftertaste with a liquorice finish. Not overly sophisticated, but approachable and delicious.
 
 ** Related
 
@@ -65,6 +67,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/bc/c18dc0-d37b-49bf-84a0-7168f595e7ed/2022-09-26-22-13-39-F2ED61B7-F62E-4A18-A941-CBCBBE8D1945-1-102-o.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Carrascal Cabernet Sauvignon - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
+    <img class="flex-bottle" src="/images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o.webp"></img>
+    <section class="h">Cume do Avia</section>
+    <section class="h text-bolder">Dos Canotos - 2018</section>
   </a>
 
 </div>
