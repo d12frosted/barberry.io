@@ -67,5 +67,11 @@ That case, when I am not sure if the wine is spoiled or not. Interesting bouquet
     <section class="h text-bolder">Rosé Gran Reserva - 2010</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/be4967c7-99b0-4dd7-9ad2-aa794161097d.html">
+    <img class="flex-bottle" src="/images/be/4967c7-99b0-4dd7-9ad2-aa794161097d/2020-11-11-13-27-32-66BA39E2-1E0B-426D-82F6-079244BF7A31-1-105-c.webp"></img>
+    <section class="h">Portal del Priorat</section>
+    <section class="h text-bolder">Somni - 2016</section>
+  </a>
+
 </div>
 #+end_export

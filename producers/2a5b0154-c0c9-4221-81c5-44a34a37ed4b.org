@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Vouvray Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

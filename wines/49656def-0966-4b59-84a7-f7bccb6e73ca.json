@@ -1,0 +1,31 @@
+{
+  "id": "49656def-0966-4b59-84a7-f7bccb6e73ca",
+  "name": "Godello",
+  "full-name": "Avancia Godello 2020",
+  "producer": {
+    "id": "d636a6a2-57ca-41e9-98f7-50045514af83",
+    "name": "Avancia"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0.92",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 0,
+  "image": "images/49/656def-0966-4b59-84a7-f7bccb6e73ca/2022-10-04-11-44-11-08B7B0ED-3A0E-4A57-8B70-49B9850C0CED-1-105-c.webp",
+  "rating": "NA"
+}

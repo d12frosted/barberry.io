@@ -1,0 +1,35 @@
+{
+  "id": "be4967c7-99b0-4dd7-9ad2-aa794161097d",
+  "name": "Somni",
+  "full-name": "Portal del Priorat Somni 2016",
+  "producer": {
+    "id": "824f09b6-4bf5-43fa-8d2f-09eb5092be8a",
+    "name": "Portal del Priorat"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0.16",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0,
+  "image": "images/be/4967c7-99b0-4dd7-9ad2-aa794161097d/2020-11-11-13-27-32-66BA39E2-1E0B-426D-82F6-079244BF7A31-1-105-c.webp",
+  "rating": "8.5"
+}
