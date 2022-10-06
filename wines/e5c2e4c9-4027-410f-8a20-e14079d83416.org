@@ -49,5 +49,11 @@ Elegant, fruity with hints of pickles. Lemon curd and apricot. Good structure an
     <section class="h text-bolder">Slatnik - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/10f58d5f-c227-4365-8705-444d7dc3e000.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Čotar</section>
+    <section class="h text-bolder">Malvazija - 2017</section>
+  </a>
+
 </div>
 #+end_export

@@ -1,0 +1,31 @@
+{
+  "id": "10f58d5f-c227-4365-8705-444d7dc3e000",
+  "name": "Malvazija",
+  "full-name": "Čotar Malvazija 2017",
+  "producer": {
+    "id": "f9644729-4525-44cc-bb4b-379078453069",
+    "name": "Čotar"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2.2",
+  "prices": [
+    "899 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

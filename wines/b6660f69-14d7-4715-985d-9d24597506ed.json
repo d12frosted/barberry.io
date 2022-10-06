@@ -1,0 +1,32 @@
+{
+  "id": "b6660f69-14d7-4715-985d-9d24597506ed",
+  "name": "North Canterbury Pinot Noir",
+  "full-name": "Pyramid Valley North Canterbury Pinot Noir 2018",
+  "producer": {
+    "id": "32e6cc69-90ec-4700-bdb5-d1a396315b9e",
+    "name": "Pyramid Valley"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1250 UAH",
+    "997 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b6/660f69-14d7-4715-985d-9d24597506ed/2021-08-18-18-56-39-A750A4C3-A050-4A01-B154-30DBEF179D74-1-105-c.webp",
+  "rating": "8.25"
+}

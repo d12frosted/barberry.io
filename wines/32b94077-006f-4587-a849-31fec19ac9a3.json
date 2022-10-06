@@ -1,0 +1,31 @@
+{
+  "id": "32b94077-006f-4587-a849-31fec19ac9a3",
+  "name": "Vitovska",
+  "full-name": "Čotar Vitovska 2018",
+  "producer": {
+    "id": "f9644729-4525-44cc-bb4b-379078453069",
+    "name": "Čotar"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "947f03f5-d565-4af9-8a99-8adbaa2897b2",
+      "name": "Vitovska"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "3.2",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0,
+  "image": "images/32/b94077-006f-4587-a849-31fec19ac9a3/2022-10-06-07-26-53-4BD422C6-E2A9-42A6-9440-740E98A40B10-1-105-c.webp",
+  "rating": "7.75"
+}

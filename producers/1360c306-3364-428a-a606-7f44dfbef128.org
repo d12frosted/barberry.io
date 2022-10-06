@@ -9,5 +9,17 @@
     <section class="h text-bolder">BLU Pinot Noir - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/9af9fb3d-0d6c-4672-bdb0-3dccb527c844.html">
+    <img class="flex-bottle" src="/images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-10-06-07-21-29-865F7139-6C5A-43A5-9D65-E6175B51B21A-1-105-c.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Pinot Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/da76deb0-25bf-457c-85dc-9fb16ce2220d.html">
+    <img class="flex-bottle" src="/images/da/76deb0-25bf-457c-85dc-9fb16ce2220d/2022-10-06-07-22-20-B6B0B34C-A2D4-4426-B6E4-366F52E8BCAF-1-105-c.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
 </div>
 #+end_export

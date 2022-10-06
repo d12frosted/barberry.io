@@ -1,0 +1,31 @@
+{
+  "id": "da76deb0-25bf-457c-85dc-9fb16ce2220d",
+  "name": "Riesling",
+  "full-name": "Vinoman Riesling 2021",
+  "producer": {
+    "id": "1360c306-3364-428a-a606-7f44dfbef128",
+    "name": "Vinoman"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12.9",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0,
+  "image": "images/da/76deb0-25bf-457c-85dc-9fb16ce2220d/2022-10-06-07-22-20-B6B0B34C-A2D4-4426-B6E4-366F52E8BCAF-1-105-c.webp",
+  "rating": "7.25"
+}

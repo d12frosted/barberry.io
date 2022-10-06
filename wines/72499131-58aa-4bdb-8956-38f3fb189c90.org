@@ -24,7 +24,7 @@ Wine #5 on volcanic wines tasting by Oleksandr Meier.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a832277a-746d-415b-9ddf-bb8beec059f8.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/a8/32277a-746d-415b-9ddf-bb8beec059f8/2020-11-15-11-07-47-694ED078-49BA-463D-AAFC-55A284499B95-1-105-c.webp"></img>
     <section class="h">Frank Cornelissen</section>
     <section class="h text-bolder">Munjebel FM - 2017</section>
   </a>

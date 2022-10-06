@@ -1,0 +1,31 @@
+{
+  "id": "9af9fb3d-0d6c-4672-bdb0-3dccb527c844",
+  "name": "Pinot Blanc",
+  "full-name": "Vinoman Pinot Blanc 2021",
+  "producer": {
+    "id": "1360c306-3364-428a-a606-7f44dfbef128",
+    "name": "Vinoman"
+  },
+  "vintage": "2021",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "11.3",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0,
+  "image": "images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-10-06-07-21-29-865F7139-6C5A-43A5-9D65-E6175B51B21A-1-105-c.webp",
+  "rating": "7.0"
+}
