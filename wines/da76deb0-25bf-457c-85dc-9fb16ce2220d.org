@@ -47,5 +47,11 @@ Some notes of oil, citrus and stone fruits. Not complex and shy (both in the aro
     <section class="h text-bolder">North Canterbury Pinot Noir - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
+    <img class="flex-bottle" src="/images/ca/7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc/2022-09-17-20-20-14-IMG-2244.webp"></img>
+    <section class="h">Viña Tondonia</section>
+    <section class="h text-bolder">Blanco Reserva - 2011</section>
+  </a>
+
 </div>
 #+end_export

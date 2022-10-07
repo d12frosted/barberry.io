@@ -9,7 +9,7 @@
 - Alcohol :: 14
 - Sugar :: 4.38
 - Price :: 335 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -19,7 +19,9 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-06 - ☆ 7.40
+
+Not a complex, but friendly and pleasant wine. Black currant (jam?), bark (slightly smoked, so it doesn't bark at you), and gouache. Well balanced, fresh and round. Almost full-bodied with silky tannin and a long aftertaste. Flavours? Cola with black currant.
 
 ** Related
 
@@ -65,6 +67,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64a1e863-21f3-49de-8401-241eb23363a8.html">
+    <img class="flex-bottle" src="/images/64/a1e863-21f3-49de-8401-241eb23363a8/2021-04-07-22-06-14-5E715A0A-FADD-4644-93EA-2E7D804E3A6A-1-105-c.webp"></img>
+    <section class="h">Barista</section>
+    <section class="h text-bolder">Pinotage - 2020</section>
   </a>
 
 </div>

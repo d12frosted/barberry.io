@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/64a1e863-21f3-49de-8401-241eb23363a8.html">
+    <img class="flex-bottle" src="/images/64/a1e863-21f3-49de-8401-241eb23363a8/2021-04-07-22-06-14-5E715A0A-FADD-4644-93EA-2E7D804E3A6A-1-105-c.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Pinotage - 2020</section>
+  </a>
+
+</div>
+#+end_export
