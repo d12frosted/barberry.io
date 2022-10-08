@@ -9,9 +9,35 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 400 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-07 - ☆ 7.00
 
+Overly shy Riesling. A mix of green and yellow apples, flint, and some canned Pineapple. Fresh, even crispy. Slightly fizzy with a mineral finish.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2e0fea48-5584-476d-b65d-4fe8e1b5f79c.html">
+    <img class="flex-bottle" src="/images/2e/0fea48-5584-476d-b65d-4fe8e1b5f79c/2022-06-09-21-38-11-9B209353-5FBE-4CCE-BF4C-E6E1FE705D7A-1-102-o.webp"></img>
+    <section class="h">Brotte S. A.</section>
+    <section class="h text-bolder">Domaine Grosset Cairanne - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+    <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Troiabomb - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
+    <img class="flex-bottle" src="/images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Orange Puglia Nu Litr - NV</section>
+  </a>
+
+</div>
+#+end_export

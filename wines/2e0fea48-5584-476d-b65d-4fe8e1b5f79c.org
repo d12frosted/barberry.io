@@ -9,9 +9,35 @@
 - Alcohol :: 15
 - Sugar :: 2
 - Price :: 445 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-07 - ☆ 7.00
 
+Powerful. Black fruits, oak and spices. Not complex and easy to understand. Round, well-balanced and warm. There is an unpleasant greenish and ashy aftertaste.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/56b7ca27-321e-47ed-bb32-edad8190acf6.html">
+    <img class="flex-bottle" src="/images/56/b7ca27-321e-47ed-bb32-edad8190acf6/2022-09-22-09-16-40-A8E4ABCC-019D-4BDE-AAB2-50DEC16FE2CA-1-105-c.webp"></img>
+    <section class="h">Weingut Mindnich</section>
+    <section class="h text-bolder">Wallhäuser Pfarrgarten Riesling - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+    <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Troiabomb - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
+    <img class="flex-bottle" src="/images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Calcarius Orange Puglia Nu Litr - NV</section>
+  </a>
+
+</div>
+#+end_export

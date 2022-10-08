@@ -9,7 +9,7 @@
 - Alcohol :: 10.5
 - Sugar :: 1
 - Price :: 712 UAH, 810 UAH, 670 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -24,6 +24,10 @@ Crazy wine producer from Puglia. Her projects:
 *** 2020-10-16 - ☆ 7.50
 
 What a lovely red fruits compote. Nero di Troia and Bombino, hence the Troiabomb! Simple, light and refreshing, easy to drink. During these cold and rainy days reminds me of picnics and summer. So I am happy :)
+
+*** 2022-10-07 - ☆ 7.40
+
+Easy drink. Compote made of red fruits, plums and some flowers. Fresh and not demanding. A good example of a middle ground between red and rosé.
 
 ** Related
 
@@ -77,10 +81,22 @@ What a lovely red fruits compote. Nero di Troia and Bombino, hence the Troiabomb
     <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+  <a class="flex-item flex-item-left" href="/wines/2e0fea48-5584-476d-b65d-4fe8e1b5f79c.html">
+    <img class="flex-bottle" src="/images/2e/0fea48-5584-476d-b65d-4fe8e1b5f79c/2022-06-09-21-38-11-9B209353-5FBE-4CCE-BF4C-E6E1FE705D7A-1-102-o.webp"></img>
+    <section class="h">Brotte S. A.</section>
+    <section class="h text-bolder">Domaine Grosset Cairanne - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
     <img class="flex-bottle" src="/images/40/543b4b-da12-4605-b0ea-c293b01b8c48/2020-10-17-10-36-01-1FF02925-4058-4BDF-9549-1C0EA1A0E5C1-1-105-c.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/56b7ca27-321e-47ed-bb32-edad8190acf6.html">
+    <img class="flex-bottle" src="/images/56/b7ca27-321e-47ed-bb32-edad8190acf6/2022-09-22-09-16-40-A8E4ABCC-019D-4BDE-AAB2-50DEC16FE2CA-1-105-c.webp"></img>
+    <section class="h">Weingut Mindnich</section>
+    <section class="h text-bolder">Wallhäuser Pfarrgarten Riesling - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
