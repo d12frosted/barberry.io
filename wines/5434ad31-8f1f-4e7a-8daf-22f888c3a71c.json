@@ -1,7 +1,7 @@
 {
   "id": "5434ad31-8f1f-4e7a-8daf-22f888c3a71c",
   "name": "Carrascal Corte Clasico",
-  "full-name": "Weinert Carrascal Corte Clasico",
+  "full-name": "Weinert Carrascal Corte Clasico NV",
   "producer": {
     "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
     "name": "Weinert"
@@ -33,7 +33,7 @@
   "prices": [
     "455 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/54/34ad31-8f1f-4e7a-8daf-22f888c3a71c/2022-09-20-16-01-36-IMG-2327.webp",
-  "rating": "NA"
+  "rating": "7.0"
 }
