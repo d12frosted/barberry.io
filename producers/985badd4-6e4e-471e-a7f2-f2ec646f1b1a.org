@@ -4,7 +4,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7a0fd419-179e-4c42-9bc8-36f8af4c5b97.html">
     <img class="flex-bottle" src="/images/7a/0fd419-179e-4c42-9bc8-36f8af4c5b97/2022-09-26-18-19-00-CAEC9845-F6A4-4BE5-89A2-4B8853940F72-1-102-o.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Amphora - 2018</section>
   </a>
 

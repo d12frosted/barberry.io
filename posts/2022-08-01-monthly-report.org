@@ -35,7 +35,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | country        | count | p avg        | r rms |    qpr |
 |----------------+-------+--------------+-------+--------|
 | Italy          |    22 | 918.19 UAH   |  7.81 | 2.6845 |
-| Spain          |    17 | 842.60 UAH   |  7.44 | 2.9860 |
+| Spain          |    17 | 843.50 UAH   |  7.44 | 2.9850 |
 | France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
 | Australia      |     5 | 1 002.11 UAH |  7.82 | 2.2731 |
@@ -80,7 +80,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |    2013 |     1 | 1 707.00 UAH |  8.80 | 2.6127 |
 |    2009 |     1 | 897.57 UAH   |  8.50 | 3.9230 |
 |    1997 |     1 | 1 408.00 UAH |  8.60 | 2.7044 |
-|      NV |    15 | 995.08 UAH   |  7.23 | 2.5817 |
+|      NV |    15 | 996.10 UAH   |  7.23 | 2.5805 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -104,11 +104,11 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 |------------------------------+-------+--------------+-------+--------|
 | Pinot Noir                   |    12 | 1 219.80 UAH |  7.88 | 2.6206 |
 | Chardonnay                   |    12 | 890.48 UAH   |  7.35 | 2.9663 |
-| Xarel-lo                     |     5 | 377.25 UAH   |  6.77 | 3.5195 |
-| Macabeo                      |     5 | 357.20 UAH   |  6.66 | 3.4788 |
+| Xarel-lo                     |     5 | 380.30 UAH   |  6.77 | 3.5168 |
+| Macabeo                      |     5 | 360.26 UAH   |  6.66 | 3.4760 |
 | Malvasia di Candia Aromatica |     4 | 1 149.29 UAH |  7.92 | 2.6115 |
 | Merlot                       |     4 | 775.89 UAH   |  7.90 | 3.2828 |
-| Parellada                    |     4 | 365.25 UAH   |  6.46 | 3.0807 |
+| Parellada                    |     4 | 369.07 UAH   |  6.46 | 3.0769 |
 | Palomino Fino                |     3 | 1 459.67 UAH |  8.12 | 1.9639 |
 | Cabernet Sauvignon           |     3 | 792.52 UAH   |  7.93 | 3.4158 |
 | Sauvignon Blanc              |     3 | 753.26 UAH   |  7.21 | 2.2738 |
@@ -332,9 +332,9 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-04 | Argentina      | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                  | [[barberry:/wines/60de313a-fc2e-46dd-92d2-4793e97ef93b][Weinert Carrascal Chardonnay 2021]]  |    2021 | 7.40 | 4.7191 |
 | 2022-07-03 | Italy          | [[barberry:/producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9][San Leonardo]]             | [[barberry:/wines/43c2c852-f191-4755-b648-7791aacc9fce][San Leonardo Vette 2019]]            |    2019 | 7.50 | 2.1824 |
 | 2022-07-03 | Austria        | [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]      | [[barberry:/wines/128c692e-8948-454f-bd6a-c03b1f29880d][Weingut Bründlmayer Hauswein Grüner Veltliner 2021]] |    2021 | 7.00 | 2.7305 |
+| 2022-07-02 | Spain          | [[barberry:/producers/17f9db0d-ae08-4f3e-9c2d-b9094e7ca315][Mas Pere]]                 | [[barberry:/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab][Mas Pere Selecció Brut Cava]]        |      NV | 5.50 | 1.0913 |
 | 2022-07-02 | New Zealand    | [[barberry:/producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83][Félix Solís]]              | [[barberry:/wines/aad8eba2-9514-4eac-8668-2f4ec69c541c][Félix Solís Pulpo Sauvignon Blanc]]  |      NV | 5.25 | 1.0421 |
 | 2022-07-02 | Greece         | [[barberry:/producers/0c387201-a91c-4c54-b798-5ef20e028411][Kir-Yianni]]               | [[barberry:/wines/a4980711-6b29-4392-9585-17310170db4a][Kir-Yianni Paranga Sparkling]]       |      NV | 7.50 | 3.2192 |
-| 2022-07-02 | Spain          | [[barberry:/producers/17f9db0d-ae08-4f3e-9c2d-b9094e7ca315][Mas Pere]]                 | [[barberry:/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab][Mas Pere Selecció Brut Cava]]        |      NV | 5.50 | 1.1341 |
 | 2022-07-01 | Spain          | [[barberry:/producers/d94c2c51-81ef-4bd5-be56-6a28f19a8f2a][Bach]]                     | [[barberry:/wines/39d4f69e-1397-4e09-9577-48aa088f8dbe][Bach Cava Gran Brut]]                |      NV | 6.00 | 1.2712 |
 
 #+name: ratings-data

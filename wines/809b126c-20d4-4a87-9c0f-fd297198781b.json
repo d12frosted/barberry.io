@@ -1,0 +1,31 @@
+{
+  "id": "809b126c-20d4-4a87-9c0f-fd297198781b",
+  "name": "Khikhvi Rcheuli Qvevri",
+  "full-name": "Tchotiashvili Khikhvi Rcheuli Qvevri 2017",
+  "producer": {
+    "id": "f5dd673c-b366-445d-8be4-5183802d56db",
+    "name": "Tchotiashvili"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "819639ca-0d9f-406c-8064-37c9c4bab13d",
+      "name": "Khikhvi"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "799 UAH"
+  ],
+  "available": 0,
+  "image": "images/80/9b126c-20d4-4a87-9c0f-fd297198781b/2022-10-14-08-44-49-149693E7-6ED4-41B1-97F1-15FD709339F5-1-105-c.webp",
+  "rating": "8.0"
+}

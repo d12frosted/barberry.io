@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/fb/adcf93-5dcb-4d63-b28d-a9ae1ee25b04/2021-08-21-16-55-13-E9C3AF49-63DE-44A3-BB97-9672B444956E-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/898c51d1-e204-4395-89d9-be79c134a593][Bodegas Olarra]]
+- Vintage :: 2018
+- Location :: Spain, Rioja DOC
+- Grapes :: Tempranillo, Graciano, Tintilia, Grenache
+- Alcohol :: 13.5
+- Sugar :: 4
+- Price :: 450 UAH, 295 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-08-20 - ☆ 7.40
+
+Consistently good with every vintage I tasted so far. Friendly nose, a mixture of spices and fruits. Well integrated oak, well balanced, long and warm aftertaste. QPR is wonderful.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6.html">
+    <img class="flex-bottle" src="/images/16/66a061-db29-41fb-bda4-1ab1e605ebb6/2022-09-14-14-52-12-56EA3890-F176-4305-B7DA-E8C7BE2A8170-1-105-c.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Cerro Añon Reserva - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
+    <img class="flex-bottle" src="/images/36/2be9a4-0c7e-4802-b742-a82a1d87232a/2020-12-22-08-21-27-F66B47B5-6A11-4F38-9867-7A6F69DAA959-1-105-c.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Cerro Añon Reserva - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/367007ae-2c21-459c-bfc5-fb54863c91c5.html">
+    <img class="flex-bottle" src="/images/36/7007ae-2c21-459c-bfc5-fb54863c91c5/2022-10-13-14-58-12-IMG-2750.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Cerro Añon Crianza - 2019</section>
+  </a>
+
+</div>
+#+end_export

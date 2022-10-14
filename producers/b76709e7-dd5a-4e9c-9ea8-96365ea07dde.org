@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ddc6fe97-3acc-40b4-8f94-4a8642f76b52.html">
+    <img class="flex-bottle" src="/images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -9,9 +9,23 @@
 - Alcohol :: 14.5
 - Sugar :: 0.2
 - Price :: 464 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-13 - ☆ 7.25
 
+Not complex, young and energetic Barbera. Black cherry, chocolate, and plum. Well-balanced, fresh, juicy and medium-bodied. It's easygoing despite 14.5 abv (noticed only after finishing the bottle).
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/809b126c-20d4-4a87-9c0f-fd297198781b.html">
+    <img class="flex-bottle" src="/images/80/9b126c-20d4-4a87-9c0f-fd297198781b/2022-10-14-08-44-49-149693E7-6ED4-41B1-97F1-15FD709339F5-1-105-c.webp"></img>
+    <section class="h">Tchotiashvili</section>
+    <section class="h text-bolder">Khikhvi Rcheuli Qvevri - 2017</section>
+  </a>
+
+</div>
+#+end_export

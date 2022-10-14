@@ -1,0 +1,31 @@
+{
+  "id": "ddc6fe97-3acc-40b4-8f94-4a8642f76b52",
+  "name": "Pinot Noir",
+  "full-name": "Pete's Pure Pinot Noir 2021",
+  "producer": {
+    "id": "b76709e7-dd5a-4e9c-9ea8-96365ea07dde",
+    "name": "Pete's Pure"
+  },
+  "vintage": "2021",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "297 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762.webp",
+  "rating": "NA"
+}

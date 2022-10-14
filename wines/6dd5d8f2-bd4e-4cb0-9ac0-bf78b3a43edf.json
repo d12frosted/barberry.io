@@ -1,0 +1,31 @@
+{
+  "id": "6dd5d8f2-bd4e-4cb0-9ac0-bf78b3a43edf",
+  "name": "Windspiel",
+  "full-name": "Tomislav Marković Windspiel 2020",
+  "producer": {
+    "id": "cd60c419-207b-415c-88a4-2634db20ed8d",
+    "name": "Tomislav Marković"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.3",
+  "prices": [
+    "830 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6d/d5d8f2-bd4e-4cb0-9ac0-bf78b3a43edf/2022-10-13-14-49-09-IMG-2730.webp",
+  "rating": "NA"
+}

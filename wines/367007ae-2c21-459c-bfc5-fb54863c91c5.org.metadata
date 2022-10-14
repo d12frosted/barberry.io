@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Bodegas Olarra Cerro Añon Crianza 2019"
+update: "2022-10-13"
+producer: "Bodegas Olarra"
+name: "Cerro Añon Crianza"
+vintage: "2019"
+country: "Spain"
+grapes: "Tempranillo, Graciano, Tintilia"
+image: "images/36/7007ae-2c21-459c-bfc5-fb54863c91c5/2022-10-13-14-58-12-IMG-2750.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/36/7007ae-2c21-459c-bfc5-fb54863c91c5/2022-10-13-14-58-12-IMG-2750.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/36/7007ae-2c21-459c-bfc5-fb54863c91c5/2022-10-13-14-58-12-IMG-2750.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
+"
