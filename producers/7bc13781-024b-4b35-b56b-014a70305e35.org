@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5bea4ba4-aaef-402e-9bd0-f8ad5da2c5e3.html">
     <img class="flex-bottle" src="/images/5b/ea4ba4-aaef-402e-9bd0-f8ad5da2c5e3/2022-10-15-13-39-17-FE860E62-C836-46EC-9B89-C17CD955041C-1-105-c.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Malbec - 2018</section>
   </a>
 

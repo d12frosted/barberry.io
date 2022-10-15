@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4a5c59e8-9273-4dc8-a6de-9af531084fd1.html">
     <img class="flex-bottle" src="/images/4a/5c59e8-9273-4dc8-a6de-9af531084fd1/2022-10-15-13-43-45-E3319622-8562-448E-B40F-C269C3C75337-1-105-c.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Hyland Vineyard Pinot Noir Coury Clone - 2017</section>
   </a>
 

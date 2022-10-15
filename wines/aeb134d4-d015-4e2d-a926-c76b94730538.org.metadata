@@ -9,7 +9,5 @@ country: "France"
 grapes: "Pinot Noir, Gamay"
 rating: "8.00"
 image: "images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "768"
+image-height: "1024"

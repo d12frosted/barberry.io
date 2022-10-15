@@ -9,7 +9,5 @@ country: "France"
 grapes: "Gamay, Syrah, Grenache, Cariñena, Savagnin, Merlot, Zibibbo"
 rating: "7.40"
 image: "images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "960"
+image-height: "1280"
