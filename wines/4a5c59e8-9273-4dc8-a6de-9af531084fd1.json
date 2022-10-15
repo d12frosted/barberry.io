@@ -1,0 +1,31 @@
+{
+  "id": "4a5c59e8-9273-4dc8-a6de-9af531084fd1",
+  "name": "Hyland Vineyard Pinot Noir Coury Clone",
+  "full-name": "Kelley Fox Wines Hyland Vineyard Pinot Noir Coury Clone 2017",
+  "producer": {
+    "id": "4b773c92-4385-47de-8809-18412637ef72",
+    "name": "Kelley Fox Wines"
+  },
+  "vintage": "2017",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4a/5c59e8-9273-4dc8-a6de-9af531084fd1/2022-10-15-13-43-45-E3319622-8562-448E-B40F-C269C3C75337-1-105-c.webp",
+  "rating": "NA"
+}

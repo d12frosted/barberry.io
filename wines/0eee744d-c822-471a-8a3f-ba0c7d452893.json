@@ -1,0 +1,31 @@
+{
+  "id": "0eee744d-c822-471a-8a3f-ba0c7d452893",
+  "name": "Las Nubes",
+  "full-name": "Dominique Derain Las Nubes 2018",
+  "producer": {
+    "id": "4191c986-fc88-4e47-a038-cc1dd4c8fa31",
+    "name": "Dominique Derain"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/0e/ee744d-c822-471a-8a3f-ba0c7d452893/2022-10-15-13-26-17-FAA775D9-D4D0-4C09-9062-A4386280048E-1-105-c.webp",
+  "rating": "NA"
+}

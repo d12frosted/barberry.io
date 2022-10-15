@@ -37,5 +37,11 @@ Plain and straight-forward wine. Glass full of mix of red fruits, fallen leaves 
     <section class="h text-bolder">Cuvée Marguerite - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/d991a33a-24c0-4764-95b8-58410324083c.html">
+    <img class="flex-bottle" src="/images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Môl - 2019</section>
+  </a>
+
 </div>
 #+end_export

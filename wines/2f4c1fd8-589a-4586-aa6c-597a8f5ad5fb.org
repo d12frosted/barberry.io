@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/2f/4c1fd8-589a-4586-aa6c-597a8f5ad5fb/2021-10-21-14-59-31-627AE550-0F76-4066-92E9-D300256D23CB-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/1c05cc7c-8b42-4101-b447-9422c813f6c7][Sextant]]
+- Vintage :: 2019
+- Location :: France, Bourgogne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 14
+- Sugar :: 1
+- Price :: 821 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-11-05 - ☆ 8.25
+
+Simply amazing and not mainstream Chardonnay. Lemon, apple, nuts, flowers, Jerez touch, butter and chalk. Fresh and almost perfectly balanced with good volume, slightly evolving and persistent aftertaste. And most importantly, it is not vulgar, just loud in a good way. Great value!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0570c34d-eef6-4e3e-b4a1-7f854abe33ba.html">
+    <img class="flex-bottle" src="/images/05/70c34d-eef6-4e3e-b4a1-7f854abe33ba/2021-12-09-08-51-38-352E7C50-B451-4EB9-834B-1E35853A8D01-1-105-c.webp"></img>
+    <section class="h">Sextant</section>
+    <section class="h text-bolder">Maranges 1er Cru Les Clos Roussots - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ba3465e4-8eca-40cb-9632-3d2c50ef9af7.html">
+    <img class="flex-bottle" src="/images/ba/3465e4-8eca-40cb-9632-3d2c50ef9af7/2021-03-08-19-54-28-EAE16C74-9917-40D7-A1F8-1098F2ED1A23-1-105-c.webp"></img>
+    <section class="h">Sextant</section>
+    <section class="h text-bolder">Coteaux Bourguignons - 2019</section>
+  </a>
+
+</div>
+#+end_export

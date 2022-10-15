@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/77/e1291d-8090-4624-a50f-af573dfa66b2/2021-06-08-07-59-07-BBEBBD9C-EFFA-48B9-A963-35F8D9823E61-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f][Patrick Bouju]]
+- Vintage :: 2019
+- Location :: France, Vin de Table (France)
+- Grapes :: Nielluccio, Syrah
+- Alcohol :: 13
+- Sugar :: 0.5
+- Price :: 860 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-08-09 - ☆ 7.50
+
+Tasted blind and (obviously) didn't guess. My bet was on some Morgon wine and my guess was based on overall dark chocolate character and good structure. So yeah, this blend of Nielluccio and Syrah opens up with slightly dried dark plum, dark chocolate powder, vanilla, banana and earthy notes. It's well balanced and well structured.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/aeb134d4-d015-4e2d-a926-c76b94730538.html">
+    <img class="flex-bottle" src="/images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Sein Pour Sein - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d991a33a-24c0-4764-95b8-58410324083c.html">
+    <img class="flex-bottle" src="/images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Môl - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
+    <img class="flex-bottle" src="/images/eb/0e3f46-1417-4e4d-acc5-1fe5e6650a48/2022-10-15-13-04-56-39D20449-FB2C-4F3F-9121-51B05114536B-1-105-c.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Festejar! Rosé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Pettineo PT - 2017</section>
+  </a>
+
+</div>
+#+end_export

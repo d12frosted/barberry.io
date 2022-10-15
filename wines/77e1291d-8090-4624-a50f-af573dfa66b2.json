@@ -1,0 +1,35 @@
+{
+  "id": "77e1291d-8090-4624-a50f-af573dfa66b2",
+  "name": "Touski",
+  "full-name": "Patrick Bouju Touski 2019",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "ab54d668-c2e1-43b8-a373-4068ed3114dd",
+      "name": "Nielluccio"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.5",
+  "prices": [
+    "860 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/77/e1291d-8090-4624-a50f-af573dfa66b2/2021-06-08-07-59-07-BBEBBD9C-EFFA-48B9-A963-35F8D9823E61-1-105-c.webp",
+  "rating": "7.5"
+}

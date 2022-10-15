@@ -1,0 +1,43 @@
+{
+  "id": "3e3afebf-0122-4708-86af-46c1f53b4078",
+  "name": "Wabi-sabi",
+  "full-name": "Populis Wabi-sabi 2018",
+  "producer": {
+    "id": "9aebc690-2817-4bcb-8957-990f9b3bfc06",
+    "name": "Populis"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    },
+    {
+      "id": "a98e6c07-1390-4440-8a69-57984ec8c13b",
+      "name": "Colombard"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3e/3afebf-0122-4708-86af-46c1f53b4078/2022-10-15-13-13-11-CFB7B836-9D1C-45F3-AD81-F02B7B7B0F4D-1-105-c.webp",
+  "rating": "NA"
+}

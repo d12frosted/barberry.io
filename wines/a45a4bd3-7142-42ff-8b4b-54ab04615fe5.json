@@ -1,0 +1,31 @@
+{
+  "id": "a45a4bd3-7142-42ff-8b4b-54ab04615fe5",
+  "name": "Cuvée Alexandre Chardonnay",
+  "full-name": "Lapostolle Cuvée Alexandre Chardonnay 2016",
+  "producer": {
+    "id": "90e4998b-de1c-44f5-ac70-435268280f29",
+    "name": "Lapostolle"
+  },
+  "vintage": "2016",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "900 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

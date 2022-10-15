@@ -1,0 +1,31 @@
+{
+  "id": "2f4c1fd8-589a-4586-aa6c-597a8f5ad5fb",
+  "name": "Bourgogne Blanc",
+  "full-name": "Sextant Bourgogne Blanc 2019",
+  "producer": {
+    "id": "1c05cc7c-8b42-4101-b447-9422c813f6c7",
+    "name": "Sextant"
+  },
+  "vintage": "2019",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "821 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2f/4c1fd8-589a-4586-aa6c-597a8f5ad5fb/2021-10-21-14-59-31-627AE550-0F76-4066-92E9-D300256D23CB-1-105-c.webp",
+  "rating": "8.25"
+}

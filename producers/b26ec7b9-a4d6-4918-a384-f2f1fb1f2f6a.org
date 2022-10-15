@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/369320be-e14f-49f3-9d81-f91f826875b7.html">
+  <a class="flex-item flex-item-left" href="/wines/2616849c-0e41-49f1-b769-12eb4a02a413.html">
+    <img class="flex-bottle" src="/images/26/16849c-0e41-49f1-b769-12eb4a02a413/2022-10-15-13-45-14-7679E8EA-07AF-45B9-B10B-D9AB4EBB1DC0-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Clàssic Penedès Brut Nature Reserva - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/369320be-e14f-49f3-9d81-f91f826875b7.html">
     <img class="flex-bottle" src="/images/36/9320be-e14f-49f3-9d81-f91f826875b7/2022-09-26-18-34-01-9AA64A2B-CCB2-4D28-A801-9E0D56F58E9C-1-102-o.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Refugi Brut Nature Reserva - 2018</section>

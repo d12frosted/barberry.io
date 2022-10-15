@@ -1,0 +1,35 @@
+{
+  "id": "aeb134d4-d015-4e2d-a926-c76b94730538",
+  "name": "Sein Pour Sein",
+  "full-name": "Patrick Bouju Sein Pour Sein 2018",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.5",
+  "prices": [
+    "751 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.webp",
+  "rating": "8.0"
+}

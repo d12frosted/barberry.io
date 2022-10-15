@@ -66,5 +66,11 @@ Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price
     <section class="h text-bolder">Brut Rosé - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/aeb134d4-d015-4e2d-a926-c76b94730538.html">
+    <img class="flex-bottle" src="/images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Sein Pour Sein - 2018</section>
+  </a>
+
 </div>
 #+end_export

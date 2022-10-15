@@ -35,10 +35,22 @@ Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+  <a class="flex-item flex-item-left" href="/wines/0570c34d-eef6-4e3e-b4a1-7f854abe33ba.html">
+    <img class="flex-bottle" src="/images/05/70c34d-eef6-4e3e-b4a1-7f854abe33ba/2021-12-09-08-51-38-352E7C50-B451-4EB9-834B-1E35853A8D01-1-105-c.webp"></img>
+    <section class="h">Sextant</section>
+    <section class="h text-bolder">Maranges 1er Cru Les Clos Roussots - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
     <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
   </a>
 
 </div>

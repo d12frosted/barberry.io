@@ -61,28 +61,40 @@ Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess becaus
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+  <a class="flex-item flex-item-left" href="/wines/0570c34d-eef6-4e3e-b4a1-7f854abe33ba.html">
+    <img class="flex-bottle" src="/images/05/70c34d-eef6-4e3e-b4a1-7f854abe33ba/2021-12-09-08-51-38-352E7C50-B451-4EB9-834B-1E35853A8D01-1-105-c.webp"></img>
+    <section class="h">Sextant</section>
+    <section class="h text-bolder">Maranges 1er Cru Les Clos Roussots - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+  <a class="flex-item flex-item-left" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
     <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
+  <a class="flex-item flex-item-right" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
     <img class="flex-bottle" src="/images/50/40b17f-02d9-4088-8764-707cf0032439/2022-09-14-15-08-37-F1EAADBD-2ABA-4558-93CF-ECDB1BB67695-1-105-c.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+  <a class="flex-item flex-item-left" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
     <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2021-09-11-10-26-03-425C800A-473C-44A6-A3FB-D296F83CC0A7-1-105-c.webp"></img>
     <section class="h">Felton Road</section>
     <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
   </a>
 
 </div>

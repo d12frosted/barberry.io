@@ -1,0 +1,31 @@
+{
+  "id": "5bea4ba4-aaef-402e-9bd0-f8ad5da2c5e3",
+  "name": "Malbec",
+  "full-name": "Familia Cecchin Malbec 2018",
+  "producer": {
+    "id": "7bc13781-024b-4b35-b56b-014a70305e35",
+    "name": "Familia Cecchin"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5b/ea4ba4-aaef-402e-9bd0-f8ad5da2c5e3/2022-10-15-13-39-17-FE860E62-C836-46EC-9B89-C17CD955041C-1-105-c.webp",
+  "rating": "NA"
+}

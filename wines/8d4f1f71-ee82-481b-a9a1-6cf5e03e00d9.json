@@ -1,0 +1,31 @@
+{
+  "id": "8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9",
+  "name": "Carignan Reserve",
+  "full-name": "Villalobos Carignan Reserve 2016",
+  "producer": {
+    "id": "825c6e1e-fadc-47d6-957e-68b9f8b253a6",
+    "name": "Villalobos"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/8d/4f1f71-ee82-481b-a9a1-6cf5e03e00d9/2022-10-15-13-38-21-6D19C4E7-370B-4284-B92D-30EC4908AEA9-1-105-c.webp",
+  "rating": "NA"
+}

@@ -4,7 +4,7 @@
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/4b773c92-4385-47de-8809-18412637ef72][Kelley Fox Wines]]
 - Vintage :: 2017
-- Location :: USA, Willamette Valley AVA
+- Location :: USA, McMinnville AVA
 - Grapes :: Pinot Noir
 - Alcohol :: 12.5
 - Sugar :: NA
@@ -21,25 +21,31 @@ Tasted blind and guessed that it's from Oregon. Pale, restrained with pretty cla
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+  <a class="flex-item flex-item-left" href="/wines/4a5c59e8-9273-4dc8-a6de-9af531084fd1.html">
+    <img class="flex-bottle" src="/images/4a/5c59e8-9273-4dc8-a6de-9af531084fd1/2022-10-15-13-43-45-E3319622-8562-448E-B40F-C269C3C75337-1-105-c.webp"></img>
+    <section class="h">Kelley Fox Wines</section>
+    <section class="h text-bolder">Hyland Vineyard Pinot Noir Coury Clone - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
     <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c.webp"></img>
     <section class="h">Bencze</section>
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
+  <a class="flex-item flex-item-left" href="/wines/a6049624-d554-4a4c-ab3c-eb1af3efcef0.html">
     <img class="flex-bottle" src="/images/a6/049624-d554-4a4c-ab3c-eb1af3efcef0/2022-01-16-12-37-59-F06178D8-680E-4053-8D1F-F7D3DDD8DA18-1-105-c.webp"></img>
     <section class="h">Weinbau Markus Ruch</section>
     <section class="h text-bolder">Klettgau Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
+  <a class="flex-item flex-item-right" href="/wines/c1d0ba4c-5caf-45ce-b242-9104dfb15ad7.html">
     <img class="flex-bottle" src="/images/c1/d0ba4c-5caf-45ce-b242-9104dfb15ad7/2022-01-16-12-00-24-94820C26-305A-4E0B-98D1-D0859D387782-1-105-c.webp"></img>
     <section class="h">Roses De Jeanne</section>
     <section class="h text-bolder">Presle Millesime BdN - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
+  <a class="flex-item flex-item-left" href="/wines/cc578854-bc1a-461b-a0e7-b014793711c3.html">
     <img class="flex-bottle" src="/images/cc/578854-bc1a-461b-a0e7-b014793711c3/2022-01-16-12-36-48-4ECE106E-E04A-4E82-BB5F-91D76ACCEF47-1-105-c.webp"></img>
     <section class="h">Enderle&Moll</section>
     <section class="h text-bolder">Buntsandstein - 2018</section>

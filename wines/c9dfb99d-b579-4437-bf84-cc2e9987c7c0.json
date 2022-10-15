@@ -1,0 +1,31 @@
+{
+  "id": "c9dfb99d-b579-4437-bf84-cc2e9987c7c0",
+  "name": "Saint-Aubin",
+  "full-name": "Domaine Derain Saint-Aubin 2018",
+  "producer": {
+    "id": "67b094dd-f7b3-4e46-8d7d-cf56339a7cf6",
+    "name": "Domaine Derain"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.1",
+  "prices": [
+    "1278 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp",
+  "rating": "7.75"
+}
