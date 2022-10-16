@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8cefb8f6-f492-4e85-bc9f-82bb52596ca7.html">
+    <img class="flex-bottle" src="/images/8c/efb8f6-f492-4e85-bc9f-82bb52596ca7/2021-04-25-14-31-10-1A6CF2EE-BE68-4994-90CC-565862CCC4BE-1-105-c.webp"></img>
+    <section class="h">★ 9.00</section>
+    <section class="h text-bolder">Gran Reserva 904 - 2011</section>
+  </a>
+
+</div>
+#+end_export
