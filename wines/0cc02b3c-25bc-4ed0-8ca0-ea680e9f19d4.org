@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 535 UAH, 546 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -20,6 +20,10 @@ Good ol' typical Pinot Noir from Marlborough with expected notes of strawberry j
 *** 2022-09-12 - ☆ 7.50
 
 Lovely. Not complicated, yet pleasant nose. Strawberry jab, dark berries, underbrush and hints of sweet tobacco. Smooth, medium body, long aftertaste. Delivers exactly what you would expect from basic New Zealand Pinot Noir.
+
+*** 2022-10-15 - ☆ 7.00
+
+Not sure what happened, but not as lovely as it used to be. It's flat, and it lacks balance. But at least it provides all the typical things one would expect from Marlborough Pinot Noir. Well balanced and flavourful. Berries, underbrush and hints of blood.
 
 ** Related
 
@@ -43,7 +47,13 @@ Lovely. Not complicated, yet pleasant nose. Strawberry jab, dark berries, underb
     <section class="h text-bolder">Méthode Traditionnelle Brut Rosé - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fc50b325-92a3-406e-924c-dd0c4b936cb7.html">
+  <a class="flex-item flex-item-right" href="/wines/ddc6fe97-3acc-40b4-8f94-4a8642f76b52.html">
+    <img class="flex-bottle" src="/images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762.webp"></img>
+    <section class="h">Pete's Pure</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc50b325-92a3-406e-924c-dd0c4b936cb7.html">
     <img class="flex-bottle" src="/images/fc/50b325-92a3-406e-924c-dd0c4b936cb7/2022-09-13-17-20-37-96965787-8289-4D2D-954F-29883F4B5D82-1-105-c.webp"></img>
     <section class="h">Caravaglio</section>
     <section class="h text-bolder">Occhio di Terra Salina - 2019</section>
