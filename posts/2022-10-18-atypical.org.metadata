@@ -6,9 +6,7 @@ date: "2022-10-18"
 language: "EN"
 author: "Boris"
 image: "images/2022-10-18-atypical/2022-10-19-09-49-21-85FBB3D8-C237-4E0B-A97C-574F1DD0A462-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/2022-10-18-atypical/2022-10-19-09-49-21-85FBB3D8-C237-4E0B-A97C-574F1DD0A462-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/2022-10-18-atypical/2022-10-19-09-49-21-85FBB3D8-C237-4E0B-A97C-574F1DD0A462-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "960"
+image-height: "721"
 description: "A wine tasting event dedicated to atypical combinations of location and grapes."
 tags: "report"
