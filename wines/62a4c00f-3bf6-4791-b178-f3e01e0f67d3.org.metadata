@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Sclavus Vino di Sasso 2017"
-update: "2022-10-19"
+update: "2022-10-20"
 producer: "Sclavus"
 name: "Vino di Sasso"
 vintage: "2017"
 country: "Greece"
 grapes: "Robola"
+rating: "7.50"
 image: "images/62/a4c00f-3bf6-4791-b178-f3e01e0f67d3/2022-10-19-11-55-26-IMG-2844.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/62/a4c00f-3bf6-4791-b178-f3e01e0f67d3/2022-10-19-11-55-26-IMG-2844.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/62/a4c00f-3bf6-4791-b178-f3e01e0f67d3/2022-10-19-11-55-26-IMG-2844.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "960"
+image-height: "1280"
