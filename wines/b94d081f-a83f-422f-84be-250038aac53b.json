@@ -1,0 +1,31 @@
+{
+  "id": "b94d081f-a83f-422f-84be-250038aac53b",
+  "name": "Saint-Amour",
+  "full-name": "Le Grappin Saint-Amour 2020",
+  "producer": {
+    "id": "4668ff75-e9b6-4362-bf07-ec1e4a9485e7",
+    "name": "Le Grappin"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "966 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.webp",
+  "rating": "7.5"
+}

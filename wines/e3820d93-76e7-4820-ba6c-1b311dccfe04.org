@@ -57,6 +57,18 @@ Wine #5 on [[barberry:/posts/2022-09-13-mixed-bag][Mixed Bag Vol. 3]].
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/9c4c0af0-04d5-4e1c-aa3f-6e1321b7f19b.html">
+    <img class="flex-bottle" src="/images/9c/4c0af0-04d5-4e1c-aa3f-6e1321b7f19b/2022-10-20-10-43-36-D081085F-3BE0-4D7A-A5BA-E132A956BC99-1-105-c.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Pineau de Loire - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bba65e0c-eef7-4996-ba9e-08e5591845e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Pineau de la Loire - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
     <img class="flex-bottle" src="/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861.webp"></img>
     <section class="h">Lyme Bay</section>

@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Le Grappin Saint-Amour 2020"
+update: "2022-10-20"
+producer: "Le Grappin"
+name: "Saint-Amour"
+vintage: "2020"
+country: "France"
+grapes: "Gamay"
+rating: "7.50"
+image: "images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
+"

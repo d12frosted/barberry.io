@@ -9,5 +9,11 @@
     <section class="h text-bolder">Fleurie-Poncié - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/b94d081f-a83f-422f-84be-250038aac53b.html">
+    <img class="flex-bottle" src="/images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Saint-Amour - 2020</section>
+  </a>
+
 </div>
 #+end_export

@@ -47,6 +47,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Le Petit Buisson - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/9c4c0af0-04d5-4e1c-aa3f-6e1321b7f19b.html">
+    <img class="flex-bottle" src="/images/9c/4c0af0-04d5-4e1c-aa3f-6e1321b7f19b/2022-10-20-10-43-36-D081085F-3BE0-4D7A-A5BA-E132A956BC99-1-105-c.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Pineau de Loire - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bba65e0c-eef7-4996-ba9e-08e5591845e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Pineau de la Loire - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04.html">
     <img class="flex-bottle" src="/images/e3/820d93-76e7-4820-ba6c-1b311dccfe04/2022-09-02-09-32-14-8BF36FB5-A268-498C-A163-CA3225C83A88-1-105-c.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>

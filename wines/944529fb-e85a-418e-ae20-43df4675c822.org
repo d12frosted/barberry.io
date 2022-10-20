@@ -21,13 +21,19 @@ At last, a Gamay without any buts (I am not repeating this obvious joke). You kn
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
+  <a class="flex-item flex-item-left" href="/wines/b94d081f-a83f-422f-84be-250038aac53b.html">
+    <img class="flex-bottle" src="/images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c.webp"></img>
+    <section class="h">Le Grappin</section>
+    <section class="h text-bolder">Saint-Amour - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
     <img class="flex-bottle" src="/images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o.webp"></img>
     <section class="h">2Naturkinder</section>
     <section class="h text-bolder">Spätburgunder - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
+  <a class="flex-item flex-item-left" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
     <img class="flex-bottle" src="/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp"></img>
     <section class="h">Viña Tondonia</section>
     <section class="h text-bolder">Cubillo Crianza - 2014</section>
