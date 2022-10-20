@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/21570f40-a976-4e90-9007-536840ef7f07.html">
+    <img class="flex-bottle" src="/images/21/570f40-a976-4e90-9007-536840ef7f07/2022-10-20-16-41-54-IMG-2873.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Saint Gervais Côtes du Rhône Villages - 2018</section>
+  </a>
+
+</div>
+#+end_export

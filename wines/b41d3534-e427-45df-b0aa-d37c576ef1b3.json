@@ -1,0 +1,31 @@
+{
+  "id": "b41d3534-e427-45df-b0aa-d37c576ef1b3",
+  "name": "Hacienda El Olmo Reserva",
+  "full-name": "Bodegas la Eralta Hacienda El Olmo Reserva 2016",
+  "producer": {
+    "id": "270b20da-8456-4646-b2a3-804677f8e133",
+    "name": "Bodegas la Eralta"
+  },
+  "vintage": "2016",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "412 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b4/1d3534-e427-45df-b0aa-d37c576ef1b3/2022-10-20-16-38-18-IMG-2868.webp",
+  "rating": "7.5"
+}
