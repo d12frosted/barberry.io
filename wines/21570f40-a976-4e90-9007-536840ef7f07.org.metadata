@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Domaine Claire Clavel Saint Gervais Côtes du Rhône Villages 2018"
-update: "2022-10-20"
+update: "2022-10-21"
 producer: "Domaine Claire Clavel"
 name: "Saint Gervais Côtes du Rhône Villages"
 vintage: "2018"
 country: "France"
 grapes: "Grenache, Syrah, Cinsault"
+rating: "4.50"
 image: "images/21/570f40-a976-4e90-9007-536840ef7f07/2022-10-20-16-41-54-IMG-2873.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/21/570f40-a976-4e90-9007-536840ef7f07/2022-10-20-16-41-54-IMG-2873.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/21/570f40-a976-4e90-9007-536840ef7f07/2022-10-20-16-41-54-IMG-2873.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "960"
+image-height: "1280"
