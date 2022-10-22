@@ -1,0 +1,31 @@
+{
+  "id": "103bc0ef-b7b6-4057-bb99-1746b21fa342",
+  "name": "Mythos",
+  "full-name": "Tomislav Marković Mythos 2020",
+  "producer": {
+    "id": "cd60c419-207b-415c-88a4-2634db20ed8d",
+    "name": "Tomislav Marković"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1278 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/10/3bc0ef-b7b6-4057-bb99-1746b21fa342/2022-10-22-12-55-33-F281BB8E-1E4A-44E0-A140-E54A96A43255-1-105-c.webp",
+  "rating": "7.25"
+}

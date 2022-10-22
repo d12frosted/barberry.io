@@ -1,0 +1,31 @@
+{
+  "id": "4465173c-0f87-4b5e-88e2-354e88f97d6a",
+  "name": "Heerkretz",
+  "full-name": "Tomislav Marković Heerkretz 2020",
+  "producer": {
+    "id": "cd60c419-207b-415c-88a4-2634db20ed8d",
+    "name": "Tomislav Marković"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.2",
+  "prices": [
+    "1426 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/44/65173c-0f87-4b5e-88e2-354e88f97d6a/2022-10-22-12-56-38-11737B92-E0C3-4F71-B046-C2508793CE63-1-105-c.webp",
+  "rating": "7.5"
+}
