@@ -9,9 +9,23 @@
 - Alcohol :: 14.5
 - Sugar :: NA
 - Price :: 419 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-10-23 - ☆ 7.00
 
+Simple Primitivo (hehe, even though the meaning of this word is different) with pretentious words on its pretentious label. Powerful, off-dry, silky and fruit-forward. It's like a smoothie made of chocolate candies with cherry and liqueur.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a13e9a37-d92d-469f-9a4c-dec058e0ae4a.html">
+    <img class="flex-bottle" src="/images/a1/3e9a37-d92d-469f-9a4c-dec058e0ae4a/2022-09-20-15-58-46-IMG-2321.webp"></img>
+    <section class="h">Raúl Pérez</section>
+    <section class="h text-bolder">La Vizcaína Las Gundiñas Lomas de Valtuille - 2019</section>
+  </a>
+
+</div>
+#+end_export

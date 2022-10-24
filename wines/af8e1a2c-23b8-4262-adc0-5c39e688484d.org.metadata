@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Maestro Italiano Gran Maestro Primitivo di Manduria 2020"
-update: "2022-10-20"
+update: "2022-10-24"
 producer: "Maestro Italiano"
 name: "Gran Maestro Primitivo di Manduria"
 vintage: "2020"
 country: "Italy"
 grapes: "Primitivo"
+rating: "7.00"
 image: "images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "960"
+image-height: "1280"
