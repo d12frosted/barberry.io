@@ -1,10 +1,10 @@
 {
   "id": "56317de6-f3c6-43f9-8efc-6537b23750c5",
-  "name": "Blanco Reserva",
-  "full-name": "Viña Tondonia Blanco Reserva 2009",
+  "name": "Viña Tondonia Blanco Reserva",
+  "full-name": "R. López de Heredia Viña Tondonia Blanco Reserva 2009",
   "producer": {
     "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
-    "name": "Viña Tondonia"
+    "name": "R. López de Heredia"
   },
   "vintage": "2009",
   "colour": "white",

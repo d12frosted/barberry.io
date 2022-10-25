@@ -1,10 +1,10 @@
 {
   "id": "93636b4c-fff4-4f4f-928f-79a4a742c2ce",
-  "name": "Blanco Gran Reserva",
-  "full-name": "Viña Tondonia Blanco Gran Reserva 2001",
+  "name": "Viña Tondonia Blanco Gran Reserva",
+  "full-name": "R. López de Heredia Viña Tondonia Blanco Gran Reserva 2001",
   "producer": {
     "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
-    "name": "Viña Tondonia"
+    "name": "R. López de Heredia"
   },
   "vintage": "2001",
   "colour": "white",
