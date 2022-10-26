@@ -5,8 +5,8 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6f5dc62c-06e4-408a-9e96-8e4ace1d7ca6.html">
     <img class="flex-bottle" src="/images/6f/5dc62c-06e4-408a-9e96-8e4ace1d7ca6/2022-10-22-12-57-52-15C74A3A-D20E-48A1-B241-8D4F42BBA397-1-105-c.webp"></img>
-    <section class="h">★ -</section>
-    <section class="h text-bolder">Chianti Classic Riserva - 2015</section>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Chianti Classico Riserva - 2015</section>
   </a>
 
 </div>
