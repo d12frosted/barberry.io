@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/632239c5-ab6a-427b-b119-861515f4ff23][Novak]]
+- Vintage :: 2020
+- Location :: Moldova, Valul lui Traian
+- Grapes :: Floricica
+- Alcohol :: 11
+- Sugar :: NA
+- Price :: 130 MDL
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
+    <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">Rară Neagră - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/dbc20fb4-477e-40bc-ad90-dbee52766baa.html">
+    <img class="flex-bottle" src="/images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Floricica - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
+    <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Rară Neagră - 2019</section>
+  </a>
+
+</div>
+#+end_export

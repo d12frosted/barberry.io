@@ -1,0 +1,31 @@
+{
+  "id": "48f2d982-1713-4d31-9f30-53d620d84ce7",
+  "name": "Rară Neagră",
+  "full-name": "Novak Rară Neagră 2019",
+  "producer": {
+    "id": "632239c5-ab6a-427b-b119-861515f4ff23",
+    "name": "Novak"
+  },
+  "vintage": "2019",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "1cf9a5ea-8319-4f18-923d-db9171825654",
+      "name": "Rară Neagră"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "130 MDL"
+  ],
+  "available": 0.0,
+  "image": "images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c.webp",
+  "rating": "7.25"
+}

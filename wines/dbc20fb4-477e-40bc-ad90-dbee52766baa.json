@@ -1,0 +1,31 @@
+{
+  "id": "dbc20fb4-477e-40bc-ad90-dbee52766baa",
+  "name": "Floricica",
+  "full-name": "Novak Floricica 2020",
+  "producer": {
+    "id": "632239c5-ab6a-427b-b119-861515f4ff23",
+    "name": "Novak"
+  },
+  "vintage": "2020",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "54966c7d-182a-4fd2-b38e-3a2530b37095",
+      "name": "Floricica"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "130 MDL"
+  ],
+  "available": 1.0,
+  "image": "images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c.webp",
+  "rating": "NA"
+}

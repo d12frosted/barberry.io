@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e.html">
     <img class="flex-bottle" src="/images/ab/4da1d2-3d62-492a-89ed-94de2744b34e/2022-09-26-19-19-03-71085CA1-5E72-4CC0-84F0-E74F43A40995-1-102-o.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Las Uvas de la Ira - 2018</section>
   </a>
 
