@@ -1,0 +1,67 @@
+#+attr_html: :class wine-main-image
+[[file:/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/36d22abe-5b3e-46a4-9934-78c312eda939][Zidarich]]
+- Vintage :: 2017
+- Location :: Italy, Vino (IT)
+- Grapes :: Sauvignon Blanc, Malvasia di Candia Aromatica, Vitovska
+- Alcohol :: 12.5
+- Sugar :: 0.1
+- Price :: 1141 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-01-11 - ☆ 7.50
+
+Nice blend of Sauvignon Blanc, Malvasia and Vitovska. Focused bouquet: oxidation notes, nuts, flowers and apricot, clay and butter. Easy going, rather light orange. Well balanced, but lacks freshness.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2274e922-6ba0-4d6d-a08d-a986b663aa39.html">
+    <img class="flex-bottle" src="/images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.webp"></img>
+    <section class="h">Zidarich</section>
+    <section class="h text-bolder">Vitovska - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2654fa1a-5b72-4b93-a583-95c94224deba.html">
+    <img class="flex-bottle" src="/images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.webp"></img>
+    <section class="h">Zidarich</section>
+    <section class="h text-bolder">Teran - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+    <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
+    <section class="h">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+    <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c.webp"></img>
+    <section class="h">Cantina Alchemica</section>
+    <section class="h text-bolder">Lanthano Bianco - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Ribolla - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp"></img>
+    <section class="h">Gravner</section>
+    <section class="h text-bolder">Ribolla Anfora - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
+    <section class="h">Kmetija Štekar</section>
+    <section class="h text-bolder">Rebula Prilo - 2015</section>
+  </a>
+
+</div>
+#+end_export

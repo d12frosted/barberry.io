@@ -61,7 +61,13 @@ Well crafted skin contact wine that spent quite some time in qvevri. I definitel
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+  <a class="flex-item flex-item-left" href="/wines/783dff51-4a02-4db4-818f-837c2c3eda7e.html">
+    <img class="flex-bottle" src="/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.webp"></img>
+    <section class="h">Zidarich</section>
+    <section class="h text-bolder">Prulke - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>

@@ -68,7 +68,7 @@ Traditionally, preparing a list of my favourites is a tough task to accomplish. 
 |--------------+-------+--------------+-------+--------|
 | Spain        |    19 | 1 019.87 UAH |  7.83 | 2.7715 |
 | France       |    16 | 1 124.78 UAH |  7.27 | 1.9222 |
-| Italy        |    10 | 717.63 UAH   |  7.64 | 2.8333 |
+| Italy        |    13 | 830.10 UAH   |  7.75 | 2.7483 |
 | Germany      |     8 | 863.30 UAH   |  7.32 | 2.1227 |
 | Argentina    |     7 | 616.01 UAH   |  7.37 | 3.0277 |
 | USA          |     5 | 1 439.88 UAH |  7.85 | 1.5361 |
@@ -111,15 +111,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
 |    2021 |     9 | 638.03 UAH   |  7.03 | 2.2690 |
-|    2020 |    10 | 898.79 UAH   |  7.56 | 2.2716 |
+|    2020 |    11 | 920.81 UAH   |  7.60 | 2.2568 |
 |    2019 |     9 | 735.29 UAH   |  7.33 | 2.9587 |
-|    2018 |    28 | 911.55 UAH   |  7.43 | 2.3837 |
+|    2018 |    29 | 915.81 UAH   |  7.47 | 2.4259 |
 |    2017 |    10 | 1 085.49 UAH |  7.65 | 2.0582 |
 |    2016 |     5 | 1 075.96 UAH |  7.76 | 2.3541 |
 |    2015 |     1 | 593.00 UAH   |  8.00 | 4.0472 |
 |    2013 |     2 | 1 654.06 UAH |  8.13 | 1.9520 |
 |    2012 |     2 | 1 960.00 UAH |  8.50 | 2.9158 |
 |    2011 |     5 | 1 250.11 UAH |  8.32 | 2.9690 |
+|    2010 |     1 | 1 439.00 UAH |  7.75 | 1.3840 |
 |    2000 |     1 | 1 650.02 UAH |  9.00 | 3.1723 |
 |      NV |     5 | 593.16 UAH   |  7.30 | 2.5988 |
 
@@ -173,14 +174,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | Trousseau                    |     2 | 727.91 UAH   |  7.38 | 2.1764 |
 | Caíño Longo                  |     2 | 991.70 UAH   |  7.38 | 1.5721 |
 | Nerello Mascalese            |     2 | 881.83 UAH   |  7.88 | 2.6033 |
-| Gringet                      |     1 | 1 390.00 UAH |  7.50 | 1.1933 |
-| Molette                      |     1 | 990.00 UAH   |  7.50 | 1.6754 |
+| Nebbiolo                     |     1 | 1 439.00 UAH |  7.75 | 1.3840 |
+| Grillo                       |     1 | 1 035.00 UAH |  8.50 | 3.4021 |
+| Zibibbo                      |     1 | 1 141.00 UAH |  8.00 | 2.1034 |
 | Gaglioppo                    |     1 | 760.00 UAH   |  7.25 | 1.8242 |
 | Pineau d'Aunis               |     1 | 1 700.00 UAH |  4.50 | 0.1500 |
 | Negret de Banhars            |     1 | 1 800.00 UAH |  7.25 | 0.7702 |
 | Fer Servadou                 |     1 | 1 800.00 UAH |  7.25 | 0.7702 |
 | Avgoustiatis                 |     1 | 1 190.00 UAH |  8.00 | 2.0168 |
 | Arbois Blanc                 |     1 | 900.25 UAH   |  8.00 | 2.6659 |
+| Gringet                      |     1 | 1 390.00 UAH |  7.50 | 1.1933 |
+| Molette                      |     1 | 990.00 UAH   |  7.50 | 1.6754 |
 | Muskateller                  |     1 | 740.00 UAH   |  5.50 | 0.5977 |
 | Muscat Blanc                 |     1 | 740.00 UAH   |  5.50 | 0.5977 |
 | Grüner Veltliner             |     1 | 740.00 UAH   |  5.50 | 0.5977 |
@@ -233,14 +237,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 #+results: ratings-data
 |       date | country                                                   | producer                                                                 | name                                                                            | vintage | rate |    QPR |
 |------------+-----------------------------------------------------------+--------------------------------------------------------------------------+---------------------------------------------------------------------------------+---------+------+--------|
-| 2022-10-27 | France       | [[barberry:/producers/50ece513-2810-4d34-bd51-ef5586391687][Dominique Belluard]]          | [[barberry:/wines/9de3da25-842b-4366-810b-a5584112ef0e][Dominique Belluard Cépage Gringet Les Alpes 2018]] |    2018 | 7.50 | 1.1933 |
-| 2022-10-27 | France       | [[barberry:/producers/470cddf5-1ed8-42a5-94b0-4ccf5365cd69][L'Octavin]]                   | [[barberry:/wines/b95bd411-5f4c-47b9-a460-302550f58594][L'Octavin Clé à molette 2018]]       |    2018 | 7.50 | 1.6754 |
-| 2022-10-27 | Italy        | [[barberry:/producers/36d22abe-5b3e-46a4-9934-78c312eda939][Zidarich]]                    | [[barberry:/wines/2654fa1a-5b72-4b93-a583-95c94224deba][Zidarich Teran 2012]]                |    2012 | 8.50 | 3.9564 |
+| 2022-10-30 | Italy        | [[barberry:/producers/b70877a6-4710-4cdc-9c42-abf921b5c722][Grimaldi]]                    | [[barberry:/wines/6edeac40-1d7c-40d4-b5c3-bf82058a6baf][Grimaldi Barolo 2010]]               |    2010 | 7.75 | 1.3840 |
+| 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco De Bartoli Integer Grillo 2018]] |    2018 | 8.50 | 3.4021 |
+| 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]  |    2020 | 8.00 | 2.1034 |
 | 2022-10-27 | Italy        | [[barberry:/producers/82cff8b0-4e60-4751-84bd-03178618a361][Cataldo Calabretta]]          | [[barberry:/wines/e1619879-8376-4b01-ba2a-8bacc0ad01e2][Cataldo Calabretta Cirò Rosso Classico Superiore 2017]] |    2017 | 7.25 | 1.8242 |
 | 2022-10-27 | France       | [[barberry:/producers/992e5a1f-fdc8-493b-a30f-1037fea3afd7][Domaine Le Briseau]]          | [[barberry:/wines/e6552fb9-5d4d-4b28-a5bd-86add75d2949][Domaine Le Briseau Patapon 2018]]    |    2018 | 4.50 | 0.1500 |
 | 2022-10-27 | France       | [[barberry:/producers/4999ae27-f206-4073-955f-2eef8f14db11][Nicolas Carmarans]]           | [[barberry:/wines/2ed14445-f42a-4213-8805-5fde9e011dcf][Nicolas Carmarans Mauvais Temps 2019]] |    2019 | 7.25 | 0.7702 |
 | 2022-10-27 | Greece       | [[barberry:/producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed][Sous Le Végétal]]             | [[barberry:/wines/05cba79e-1b1a-4498-8e2e-80edc30e678d][Sous Le Végétal Auguste 2018]]       |    2018 | 8.00 | 2.0168 |
 | 2022-10-27 | France       | [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]           | [[barberry:/wines/697a50e3-196c-48c3-b531-f3879dd9b694][Clos du Tue-Boeuf Le Brin De Chevre Touraine 2018]] |    2018 | 8.00 | 2.6659 |
+| 2022-10-27 | France       | [[barberry:/producers/50ece513-2810-4d34-bd51-ef5586391687][Dominique Belluard]]          | [[barberry:/wines/9de3da25-842b-4366-810b-a5584112ef0e][Dominique Belluard Cépage Gringet Les Alpes 2018]] |    2018 | 7.50 | 1.1933 |
+| 2022-10-27 | France       | [[barberry:/producers/470cddf5-1ed8-42a5-94b0-4ccf5365cd69][L'Octavin]]                   | [[barberry:/wines/b95bd411-5f4c-47b9-a460-302550f58594][L'Octavin Clé à molette 2018]]       |    2018 | 7.50 | 1.6754 |
+| 2022-10-27 | Italy        | [[barberry:/producers/36d22abe-5b3e-46a4-9934-78c312eda939][Zidarich]]                    | [[barberry:/wines/2654fa1a-5b72-4b93-a583-95c94224deba][Zidarich Teran 2012]]                |    2012 | 8.50 | 3.9564 |
 | 2022-10-27 | Austria      | [[barberry:/producers/793037db-00f1-4ccc-a1cd-c26c19590b1e][Pittnauer]]                   | [[barberry:/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661][Pittnauer Perfect Day 2021]]         |    2021 | 5.50 | 0.5977 |
 | 2022-10-26 | Italy        | [[barberry:/producers/14fa74e7-0434-4db1-9491-759de4595c0d][Fattoria Romeo del Castello]] | [[barberry:/wines/acc24d74-9556-479d-a9bd-bada0cccfe7e][Fattoria Romeo del Castello Allegracore 2016]] |    2016 | 7.75 | 2.0264 |
 | 2022-10-26 | Argentina    | [[barberry:/producers/a4893612-33df-49fa-a84a-d52da13def0d][Marcelo Miras]]               | [[barberry:/wines/d4f21a37-7537-46d1-9142-0ee459b8bf02][Marcelo Miras Joven Trousseau 2018]] |    2018 | 7.50 | 2.5524 |
@@ -265,10 +272,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | 2022-10-20 | France       | [[barberry:/producers/f5ed683b-4f82-45b6-8cdd-d212d796fba5][Domaine Claire Clavel]]       | [[barberry:/wines/21570f40-a976-4e90-9007-536840ef7f07][Domaine Claire Clavel Saint Gervais Côtes du Rhône Villages 2018]] |    2018 | 4.50 | 0.4125 |
 | 2022-10-19 | Spain        | [[barberry:/producers/270b20da-8456-4646-b2a3-804677f8e133][Bodegas la Eralta]]           | [[barberry:/wines/b41d3534-e427-45df-b0aa-d37c576ef1b3][Bodegas la Eralta Hacienda El Olmo Reserva 2016]] |    2016 | 7.25 | 3.3650 |
 | 2022-10-19 | Spain        | [[barberry:/producers/898c51d1-e204-4395-89d9-be79c134a593][Bodegas Olarra]]              | [[barberry:/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6][Bodegas Olarra Cerro Añon Reserva 2018]] |    2018 | 7.40 | 3.3635 |
+| 2022-10-18 | France       | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]                | [[barberry:/wines/451f1ee5-b3fb-4b4b-b42e-2057a10bc3af][Pierre Frick Gewurztraminer Grand Cru Steinert Vendanges Tardives 2011]] |    2011 | 7.50 | 1.1345 |
 | 2022-10-18 | Australia    | [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]                | [[barberry:/wines/62a4a5f1-f9f5-4987-aaeb-009102fb83a9][Lucy Margaux Vin Rouge 2020]]        |    2020 | 7.25 | 1.7011 |
 | 2022-10-18 | France       | [[barberry:/producers/4668ff75-e9b6-4362-bf07-ec1e4a9485e7][Le Grappin]]                  | [[barberry:/wines/b94d081f-a83f-422f-84be-250038aac53b][Le Grappin Saint-Amour 2020]]        |    2020 | 7.50 | 1.7170 |
 | 2022-10-18 | France       | [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]           | [[barberry:/wines/9c4c0af0-04d5-4e1c-aa3f-6e1321b7f19b][Clos du Tue-Boeuf Pineau de Loire 2021]] |    2021 | 7.25 | 1.7549 |
-| 2022-10-18 | France       | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]                | [[barberry:/wines/451f1ee5-b3fb-4b4b-b42e-2057a10bc3af][Pierre Frick Gewurztraminer Grand Cru Steinert Vendanges Tardives 2011]] |    2011 | 7.50 | 1.1345 |
 | 2022-10-18 | Croatia      | [[barberry:/producers/fd22ffa3-3676-40c5-bd3e-c85f92e17869][Piquentum]]                   | [[barberry:/wines/86783d66-c9b9-41ca-95e1-f2d214198157][Piquentum Refošk Vrh 2018]]          |    2018 | 8.00 | 2.6771 |
 | 2022-10-18 | Greece       | [[barberry:/producers/46f67bae-a00a-40ef-8a30-75d0c6a7a678][Sclavus]]                     | [[barberry:/wines/62a4c00f-3bf6-4791-b178-f3e01e0f67d3][Sclavus Vino di Sasso 2017]]         |    2017 | 7.50 | 1.9909 |
 | 2022-10-18 | Georgia      | [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili Wines]]        | [[barberry:/wines/5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614][Tsikhelishvili Wines Jgia 2018]]     |    2018 | 8.50 | 4.6532 |

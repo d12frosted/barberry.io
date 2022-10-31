@@ -1,0 +1,39 @@
+{
+  "id": "783dff51-4a02-4db4-818f-837c2c3eda7e",
+  "name": "Prulke",
+  "full-name": "Zidarich Prulke 2017",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2017",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "947f03f5-d565-4af9-8a99-8adbaa2897b2",
+      "name": "Vitovska"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.1",
+  "prices": [
+    "1141 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.webp",
+  "rating": "7.5"
+}

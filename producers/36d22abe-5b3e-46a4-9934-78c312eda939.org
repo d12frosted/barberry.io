@@ -3,13 +3,19 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2654fa1a-5b72-4b93-a583-95c94224deba.html">
+  <a class="flex-item flex-item-left" href="/wines/783dff51-4a02-4db4-818f-837c2c3eda7e.html">
+    <img class="flex-bottle" src="/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Prulke - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2654fa1a-5b72-4b93-a583-95c94224deba.html">
     <img class="flex-bottle" src="/images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Teran - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2274e922-6ba0-4d6d-a08d-a986b663aa39.html">
+  <a class="flex-item flex-item-left" href="/wines/2274e922-6ba0-4d6d-a08d-a986b663aa39.html">
     <img class="flex-bottle" src="/images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Vitovska - 2015</section>

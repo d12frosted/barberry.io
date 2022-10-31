@@ -9,7 +9,5 @@ country: "France"
 grapes: "Arbois Blanc"
 rating: "8.33"
 image: "images/69/7a50e3-196c-48c3-b531-f3879dd9b694/2020-03-05-20-07-22-F7A711A0-2115-4078-8FD0-DAA018FDC1FB-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/69/7a50e3-196c-48c3-b531-f3879dd9b694/2020-03-05-20-07-22-F7A711A0-2115-4078-8FD0-DAA018FDC1FB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/69/7a50e3-196c-48c3-b531-f3879dd9b694/2020-03-05-20-07-22-F7A711A0-2115-4078-8FD0-DAA018FDC1FB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"
