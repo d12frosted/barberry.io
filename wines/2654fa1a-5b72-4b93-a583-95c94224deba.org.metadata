@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Zidarich Teran 2012"
+update: "2022-10-30"
+producer: "Zidarich"
+name: "Teran"
+vintage: "2012"
+country: "Italy"
+grapes: "Terrano"
+rating: "8.50"
+image: "images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

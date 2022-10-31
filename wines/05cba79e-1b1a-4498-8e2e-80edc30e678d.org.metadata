@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Sous Le Végétal Auguste 2018"
+update: "2022-10-30"
+producer: "Sous Le Végétal"
+name: "Auguste"
+vintage: "2018"
+country: "Greece"
+grapes: "Avgoustiatis"
+rating: "8.00"
+image: "images/05/cba79e-1b1a-4498-8e2e-80edc30e678d/2022-10-28-13-01-58-9ADC84EF-FC07-486E-87C2-9D62466222AB-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/05/cba79e-1b1a-4498-8e2e-80edc30e678d/2022-10-28-13-01-58-9ADC84EF-FC07-486E-87C2-9D62466222AB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/05/cba79e-1b1a-4498-8e2e-80edc30e678d/2022-10-28-13-01-58-9ADC84EF-FC07-486E-87C2-9D62466222AB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Zidarich Vitovska 2015"
+update: "2022-10-30"
+producer: "Zidarich"
+name: "Vitovska"
+vintage: "2015"
+country: "Italy"
+grapes: "Vitovska"
+rating: "8.00"
+image: "images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

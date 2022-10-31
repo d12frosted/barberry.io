@@ -1,0 +1,31 @@
+{
+  "id": "e6552fb9-5d4d-4b28-a5bd-86add75d2949",
+  "name": "Patapon",
+  "full-name": "Domaine Le Briseau Patapon 2018",
+  "producer": {
+    "id": "992e5a1f-fdc8-493b-a30f-1037fea3afd7",
+    "name": "Domaine Le Briseau"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "72e7ddaa-237f-4ce6-ab42-e758afc80fd7",
+      "name": "Pineau d'Aunis"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "1700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e6/552fb9-5d4d-4b28-a5bd-86add75d2949/2022-10-28-13-08-30-A0E81EE7-DC94-4B4A-9E06-1CA73F403353-1-105-c.webp",
+  "rating": "4.5"
+}

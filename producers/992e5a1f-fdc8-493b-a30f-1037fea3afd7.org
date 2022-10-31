@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e6552fb9-5d4d-4b28-a5bd-86add75d2949.html">
+    <img class="flex-bottle" src="/images/e6/552fb9-5d4d-4b28-a5bd-86add75d2949/2022-10-28-13-08-30-A0E81EE7-DC94-4B4A-9E06-1CA73F403353-1-105-c.webp"></img>
+    <section class="h">★ 4.50</section>
+    <section class="h text-bolder">Patapon - 2018</section>
+  </a>
+
+</div>
+#+end_export

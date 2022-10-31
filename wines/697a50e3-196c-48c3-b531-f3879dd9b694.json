@@ -1,0 +1,32 @@
+{
+  "id": "697a50e3-196c-48c3-b531-f3879dd9b694",
+  "name": "Le Brin De Chevre Touraine",
+  "full-name": "Clos du Tue-Boeuf Le Brin De Chevre Touraine 2018",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2018",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "89cc0697-3ab8-414d-a889-62a0bb87474f",
+      "name": "Arbois Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "1050 UAH",
+    "720 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/69/7a50e3-196c-48c3-b531-f3879dd9b694/2020-03-05-20-07-22-F7A711A0-2115-4078-8FD0-DAA018FDC1FB-1-105-c.webp",
+  "rating": "8.333333333333334"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "735584d3-d0f5-4938-89b3-743529ed2e2c",
+  "name": "Village Pinot Noir",
+  "full-name": "Gentle Folk Village Pinot Noir 2021",
+  "producer": {
+    "id": "166e9d27-3a90-4f30-a042-a39ebe67b04e",
+    "name": "Gentle Folk"
+  },
+  "vintage": "2021",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1130 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/73/5584d3-d0f5-4938-89b3-743529ed2e2c/2022-10-29-13-32-18-5D7D3099-395D-40D5-8504-E954096F76D3-1-105-c.webp",
+  "rating": "NA"
+}

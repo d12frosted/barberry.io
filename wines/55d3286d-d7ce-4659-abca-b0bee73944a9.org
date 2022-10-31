@@ -40,13 +40,19 @@ and delicious.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
+  <a class="flex-item flex-item-left" href="/wines/05cba79e-1b1a-4498-8e2e-80edc30e678d.html">
+    <img class="flex-bottle" src="/images/05/cba79e-1b1a-4498-8e2e-80edc30e678d/2022-10-28-13-01-58-9ADC84EF-FC07-486E-87C2-9D62466222AB-1-105-c.webp"></img>
+    <section class="h">Sous Le Végétal</section>
+    <section class="h text-bolder">Auguste - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
     <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp"></img>
     <section class="h">Sous Le Végétal</section>
     <section class="h text-bolder">Palli et Genesia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
+  <a class="flex-item flex-item-left" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
     <img class="flex-bottle" src="/images/f9/67170b-4418-45f3-8d3f-5be4cb53843d/2021-06-15-08-10-09-C9DD6CFC-AB46-4C40-BF43-8A848D144AB9-1-102-o.webp"></img>
     <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Syrah CRV Rosé Brut Nature - NV</section>
