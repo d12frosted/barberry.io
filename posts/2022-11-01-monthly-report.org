@@ -67,7 +67,7 @@ Traditionally, preparing a list of my favourites is a tough task to accomplish. 
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
 | Spain        |    19 | 1 019.87 UAH |  7.83 | 2.7715 |
-| France       |    16 | 1 124.78 UAH |  7.27 | 1.9222 |
+| France       |    17 | 1 180.97 UAH |  7.36 | 1.9306 |
 | Italy        |    13 | 830.10 UAH   |  7.75 | 2.7483 |
 | Germany      |     8 | 863.30 UAH   |  7.32 | 2.1227 |
 | Argentina    |     7 | 616.01 UAH   |  7.37 | 3.0277 |
@@ -121,6 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 |    2012 |     2 | 1 960.00 UAH |  8.50 | 2.9158 |
 |    2011 |     5 | 1 250.11 UAH |  8.32 | 2.9690 |
 |    2010 |     1 | 1 439.00 UAH |  7.75 | 1.3840 |
+|    2008 |     1 | 2 080.00 UAH |  8.75 | 2.0607 |
 |    2000 |     1 | 1 650.02 UAH |  9.00 | 3.1723 |
 |      NV |     5 | 593.16 UAH   |  7.30 | 2.5988 |
 
@@ -149,7 +150,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
-| Pinot Noir                   |    13 | 933.20 UAH   |  7.52 | 2.1672 |
+| Pinot Noir                   |    14 | 1 015.12 UAH |  7.61 | 2.1598 |
 | Grenache                     |     5 | 758.91 UAH   |  7.30 | 2.5702 |
 | Tempranillo                  |     5 | 830.96 UAH   |  7.72 | 3.5168 |
 | Sauvignon Blanc              |     4 | 952.30 UAH   |  7.19 | 1.8373 |
@@ -237,6 +238,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 #+results: ratings-data
 |       date | country                                                   | producer                                                                 | name                                                                            | vintage | rate |    QPR |
 |------------+-----------------------------------------------------------+--------------------------------------------------------------------------+---------------------------------------------------------------------------------+---------+------+--------|
+| 2022-10-31 | France       | [[barberry:/producers/a9b716fd-81f4-47dd-8cbf-96cccebac781][Domaine Stephane Magnien]]    | [[barberry:/wines/1f2bb282-357e-468d-9016-6b4cb34bb75c][Domaine Stephane Magnien Morey-Saint-Denis 1er Cru Les Monts-Luisants 2008]] |    2008 | 8.75 | 2.0607 |
 | 2022-10-30 | Italy        | [[barberry:/producers/b70877a6-4710-4cdc-9c42-abf921b5c722][Grimaldi]]                    | [[barberry:/wines/6edeac40-1d7c-40d4-b5c3-bf82058a6baf][Grimaldi Barolo 2010]]               |    2010 | 7.75 | 1.3840 |
 | 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco De Bartoli Integer Grillo 2018]] |    2018 | 8.50 | 3.4021 |
 | 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]  |    2020 | 8.00 | 2.1034 |
@@ -266,9 +268,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | 2022-10-23 | Italy        | [[barberry:/producers/fad08b42-424d-4f52-875c-397b99ba746e][Maestro Italiano]]            | [[barberry:/wines/af8e1a2c-23b8-4262-adc0-5c39e688484d][Maestro Italiano Gran Maestro Primitivo di Manduria 2020]] |    2020 | 7.00 | 2.7761 |
 | 2022-10-23 | Spain        | [[barberry:/producers/2fe18e47-ec51-4372-9072-a3e522007d7a][Raúl Pérez]]                  | [[barberry:/wines/a13e9a37-d92d-469f-9a4c-dec058e0ae4a][Raúl Pérez La Vizcaína Las Gundiñas Lomas de Valtuille 2019]] |    2019 | 8.25 | 3.8236 |
 | 2022-10-22 | Chile        | [[barberry:/producers/825c6e1e-fadc-47d6-957e-68b9f8b253a6][Villalobos]]                  | [[barberry:/wines/8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9][Villalobos Carignan Reserve 2016]]   |    2016 | 7.50 | 1.6277 |
+| 2022-10-21 | Spain        | [[barberry:/producers/eb753c76-29ab-4f89-b74e-657273987239][Comando G]]                   | [[barberry:/wines/98f32d59-a395-4287-8adb-9ddf1de9f894][Comando G La Bruja de Rozas 2018]]   |    2018 | 7.80 | 2.9315 |
 | 2022-10-21 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]           | [[barberry:/wines/4465173c-0f87-4b5e-88e2-354e88f97d6a][Tomislav Marković Heerkretz 2020]]   |    2020 | 8.00 | 1.6830 |
 | 2022-10-21 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]           | [[barberry:/wines/103bc0ef-b7b6-4057-bb99-1746b21fa342][Tomislav Marković Mythos 2020]]      |    2020 | 7.25 | 1.0848 |
-| 2022-10-21 | Spain        | [[barberry:/producers/eb753c76-29ab-4f89-b74e-657273987239][Comando G]]                   | [[barberry:/wines/98f32d59-a395-4287-8adb-9ddf1de9f894][Comando G La Bruja de Rozas 2018]]   |    2018 | 7.80 | 2.9315 |
 | 2022-10-20 | France       | [[barberry:/producers/f5ed683b-4f82-45b6-8cdd-d212d796fba5][Domaine Claire Clavel]]       | [[barberry:/wines/21570f40-a976-4e90-9007-536840ef7f07][Domaine Claire Clavel Saint Gervais Côtes du Rhône Villages 2018]] |    2018 | 4.50 | 0.4125 |
 | 2022-10-19 | Spain        | [[barberry:/producers/270b20da-8456-4646-b2a3-804677f8e133][Bodegas la Eralta]]           | [[barberry:/wines/b41d3534-e427-45df-b0aa-d37c576ef1b3][Bodegas la Eralta Hacienda El Olmo Reserva 2016]] |    2016 | 7.25 | 3.3650 |
 | 2022-10-19 | Spain        | [[barberry:/producers/898c51d1-e204-4395-89d9-be79c134a593][Bodegas Olarra]]              | [[barberry:/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6][Bodegas Olarra Cerro Añon Reserva 2018]] |    2018 | 7.40 | 3.3635 |
