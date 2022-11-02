@@ -34,7 +34,6 @@
 ;;; Code:
 
 (require 'init)
-(elpa-block-until-ready)
 
 (require 'dash)
 (require 'vulpea)
