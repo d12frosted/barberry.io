@@ -9,9 +9,31 @@
 - Alcohol :: 13
 - Sugar :: 0.4
 - Price :: 1092 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-02 - ☆ 7.00
 
+My father used to quarrel every time he found brânză de oaie in our fridge because it smelt like old socks to him. And this is the same person who loves guelder rose berries, which I associate with old socks. In this regard, Cathedral is a remarkable wine because it makes me think of my parents and this constant argument.
+
+Guelder rose berries aroma dominates here. It even brought its best friends - old socks soaked in horse sweat. I know, it sounds lovely, but this is Cathedral in its full glory. Brightness and craziness flow to the taste. Slightly fizzy by nature™, elevated and full of itself like a 14 years old teenager. It lacks balance, but it's fun. Besides, I always defend my cheese.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
+    <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-26-18-51-46-A2B7302D-7755-4B5E-A7CC-8C8CCF973665-1-102-o.webp"></img>
+    <section class="h">Valentina Passalacqua</section>
+    <section class="h text-bolder">Sintonia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/42b951a5-fd0c-4b19-9512-90474df63916.html">
+    <img class="flex-bottle" src="/images/42/b951a5-fd0c-4b19-9512-90474df63916/2022-08-29-17-24-11-2288B02A-6353-469F-8703-B6E381706774-1-105-c.webp"></img>
+    <section class="h">Peixes</section>
+    <section class="h text-bolder">Lacazan - 2016</section>
+  </a>
+
+</div>
+#+end_export

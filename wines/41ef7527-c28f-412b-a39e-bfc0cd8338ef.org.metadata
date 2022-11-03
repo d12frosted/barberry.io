@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "William Downie Cathedral 2020"
-update: "2022-10-30"
+update: "2022-11-03"
 producer: "William Downie"
 name: "Cathedral"
 vintage: "2020"
 country: "Australia"
 grapes: "Pinot Noir"
+rating: "7.00"
 image: "images/41/ef7527-c28f-412b-a39e-bfc0cd8338ef/2022-10-29-13-35-31-DAEF150E-5F91-466C-963C-8690EDE850B2-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/41/ef7527-c28f-412b-a39e-bfc0cd8338ef/2022-10-29-13-35-31-DAEF150E-5F91-466C-963C-8690EDE850B2-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/41/ef7527-c28f-412b-a39e-bfc0cd8338ef/2022-10-29-13-35-31-DAEF150E-5F91-466C-963C-8690EDE850B2-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "769"
+image-height: "1024"
