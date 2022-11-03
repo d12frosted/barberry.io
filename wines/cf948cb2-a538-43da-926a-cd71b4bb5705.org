@@ -69,5 +69,11 @@ I was reluctant to taste this iconic wine. And unfortunately I liked it despite 
     <section class="h text-bolder">Lousas Camino Nuovo - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
+    <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2021-10-27-23-31-06-B05FB6C2-1AEF-45C2-80FB-FF708EE28D67-1-105-c.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Cortezada - 2017</section>
+  </a>
+
 </div>
 #+end_export
