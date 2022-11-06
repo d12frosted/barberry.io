@@ -1,0 +1,33 @@
+{
+  "id": "5143561a-3ce6-4c28-b1db-a0ec9ff8bd47",
+  "name": "Pinotage Kadette",
+  "full-name": "Kanonkop Pinotage Kadette 2018",
+  "producer": {
+    "id": "fdd7e2b7-f4c1-4cac-87f6-45449b8414c4",
+    "name": "Kanonkop"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "96976408-68dc-46f6-88e4-bc4254c7c279",
+      "name": "Pinotage"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.7",
+  "prices": [
+    "589 UAH",
+    "379 UAH",
+    "331 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/51/43561a-3ce6-4c28-b1db-a0ec9ff8bd47/2020-07-29-21-25-12-46EEB3EF-C2C0-4BDD-9A73-45AA7EB09A45-1-105-c.webp",
+  "rating": "7.25"
+}

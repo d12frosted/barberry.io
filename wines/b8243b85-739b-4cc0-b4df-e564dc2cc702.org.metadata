@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Bodegas la Eralta Hacienda El Olmo Gran Reserva 2013"
+update: "2022-11-06"
+producer: "Bodegas la Eralta"
+name: "Hacienda El Olmo Gran Reserva"
+vintage: "2013"
+country: "Spain"
+grapes: "Tempranillo"
+image: "images/b8/243b85-739b-4cc0-b4df-e564dc2cc702/2022-11-06-12-06-08-FC29DD19-C3C8-4801-BE0E-5D6412EF80C1-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b8/243b85-739b-4cc0-b4df-e564dc2cc702/2022-11-06-12-06-08-FC29DD19-C3C8-4801-BE0E-5D6412EF80C1-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b8/243b85-739b-4cc0-b4df-e564dc2cc702/2022-11-06-12-06-08-FC29DD19-C3C8-4801-BE0E-5D6412EF80C1-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

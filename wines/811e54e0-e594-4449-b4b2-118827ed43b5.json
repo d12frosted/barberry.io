@@ -1,0 +1,31 @@
+{
+  "id": "811e54e0-e594-4449-b4b2-118827ed43b5",
+  "name": "Zisola Noto Rosso",
+  "full-name": "Mazzei Zisola Noto Rosso 2018",
+  "producer": {
+    "id": "18a61449-2e9c-4a7a-a53c-2a6b82d13e86",
+    "name": "Mazzei"
+  },
+  "vintage": "2018",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "727 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/81/1e54e0-e594-4449-b4b2-118827ed43b5/2022-11-06-12-11-20-1C0AD696-C4D7-4DE3-8B8F-4003928685D5-1-105-c.webp",
+  "rating": "NA"
+}

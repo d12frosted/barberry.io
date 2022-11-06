@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/811e54e0-e594-4449-b4b2-118827ed43b5.html">
+    <img class="flex-bottle" src="/images/81/1e54e0-e594-4449-b4b2-118827ed43b5/2022-11-06-12-11-20-1C0AD696-C4D7-4DE3-8B8F-4003928685D5-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Zisola Noto Rosso - 2018</section>
+  </a>
+
+</div>
+#+end_export

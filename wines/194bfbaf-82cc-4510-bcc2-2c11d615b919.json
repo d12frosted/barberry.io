@@ -1,0 +1,31 @@
+{
+  "id": "194bfbaf-82cc-4510-bcc2-2c11d615b919",
+  "name": "Pizarras de Otero",
+  "full-name": "Bodegas Martín Códax Pizarras de Otero 2020",
+  "producer": {
+    "id": "a88d654f-9de3-48c5-9066-dcf7725c3c49",
+    "name": "Bodegas Martín Códax"
+  },
+  "vintage": "2020",
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "335 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/19/4bfbaf-82cc-4510-bcc2-2c11d615b919/2022-11-06-12-08-32-C1EFFA5C-926B-4DEF-9C13-052FCE6616C6-1-105-c.webp",
+  "rating": "NA"
+}
