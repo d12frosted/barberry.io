@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/72e3e07f-1641-4a2e-9282-5eaa242b840d][Honoro Vera]]
+- Vintage :: 2020
+- Location :: Spain, Calatayud DO
+- Grapes :: Grenache
+- Alcohol :: 14.5
+- Sugar :: NA
+- Price :: 275 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-11-05 - ☆ 7.00
+
+I haven't tasted this wine for many years. And it's as good as I remember it. Yes, it's trivial, yet a good match for heavy lunch. Black fruits, vanilla, medicinal herbs. Powerful palate, round tannin, and a decent balance.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp"></img>
+    <section class="h">Félicien Brou</section>
+    <section class="h text-bolder">Vouvray Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
+    <img class="flex-bottle" src="/images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp"></img>
+    <section class="h">Lyme Bay</section>
+    <section class="h text-bolder">Bacchus - 2020</section>
+  </a>
+
+</div>
+#+end_export

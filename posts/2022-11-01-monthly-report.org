@@ -1,4 +1,7 @@
-[[file:/images/2022-11-01-monthly-report/2022-10-05-09-47-32-8B844DAC-0C7C-4794-B6B6-A3872E068A1E-1-105-c.webp]]
+#+attr_html: :class img-half
+[[file:/images/2022-11-01-monthly-report/2022-11-04-11-24-29-7679E8EA-07AF-45B9-B10B-D9AB4EBB1DC0.webp]]
+
+The numbers are crazy. More than 100 consumed bottles in October and 94 reviews in total. Yet I struggle to explain the correlation between these numbers and more frequent attacks. Most of us are alive, and wine is still accessible even in dark. We gather in offices, we drink in corridors and we share the warmth.
 
 #+attr_html: :id monthly-ratings
 #+attr_html: :data monthly-ratings-data
@@ -16,7 +19,7 @@
 | 2022 July      |    88 |
 | 2022 August    |    77 |
 | 2022 September |    90 |
-| 2022 October   |     0 |
+| 2022 October   |    94 |
 
 * Novelties
 :PROPERTIES:
@@ -42,19 +45,37 @@
 
 Traditionally, preparing a list of my favourites is a tough task to accomplish. I try to avoid listing wines based solely on my scores (you can do it yourself by sorting the table below). Instead, I try to pick wines that really stood out for me. So this month my favourites are the following bottles.
 
+- ★ 8.7 [[barberry:/wines/1f2bb282-357e-468d-9016-6b4cb34bb75c][Domaine Stephane Magnien Morey-Saint-Denis 1er Cru Les Monts-Luisants 2008]]
 - ★ 8.5 [[barberry:/wines/3fb511fa-b0d8-45e4-b873-bd1edd50a543][Viña Tondonia Bosconia Reserva 2011]] is my favourite red wine by this producer.
+- ★ 8.5 [[barberry:/wines/2654fa1a-5b72-4b93-a583-95c94224deba][Zidarich Teran 2012]] is a beautiful result of the scrupulous craft.
+- ★ 8.5 [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco De Bartoli Integer Grillo 2018]] is one of my favorite Grillo wines. Every bottle is a fiesta.
 - ★ 8.0 [[barberry:/wines/809b126c-20d4-4a87-9c0f-fd297198781b][Tchotiashvili Khikhvi Rcheuli Qvevri 2017]] is stylish, clean and not mainstream orange.
--
+- ★ 8.0 [[barberry:/wines/6f5dc62c-06e4-408a-9e96-8e4ace1d7ca6][Castellare di Castellina Chianti Classico Riserva 2015]] is the first Chianti in many years that I enjoyed so much. Age is required here.
+- ★ 7.5 [[barberry:/wines/2616849c-0e41-49f1-b769-12eb4a02a413][Loxarel Clàssic Penedès Brut Nature Reserva 2019]] - despite being one of the 'survived' wines, it is more than alive. Maybe it looks awful, but the content is great.
+- ★ 7.5 [[barberry:/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48][Patrick Bouju Festejar! Rosé 2021]] is Pet Nat that I will definitely drink more. Pricey as all ancestrales, but goes well if you share it with others.
+
+There are some wines that I have to mention, even though they are not among my favourites of the month.
+
+- ★ 9.0 [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][R. López de Heredia Viña Tondonia Blanco Reserva 2011]] is as great as expected. I served it blind on [[barberry:/posts/2022-10-25-a-bit-of-spain][A bit of Spain]] and it was a blast and obvious winner of the night. It's hard to get it, but it worth every penny.
+- ★ 9.0 [[barberry:/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038][Henriques & Henriques Boal Single Harvest 2000]] is my favourite Madeira so far. Opened a bottle this month.
+- ★ 8.0 [[barberry:/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e][Daniel Gómez Jiménez-Landi Las Uvas de la Ira 2018]] is one more bottle explaining the beauty of high altitude Garnacha.
 
 * Outcasts
 :PROPERTIES:
 :ID:                     a1adee86-e595-4924-8c55-72a5738c8aa6
 :END:
 
+- ★ 6.0 [[barberry:/wines/5370341c-7ad2-4585-98f1-15b790de3840][Pol Opuesto Qué Grande SOS! 2017]] - it just didn't click with me. Maybe I was overexcited to tasted it, who knows.
+- ★ 5.5 [[barberry:/wines/c6ee1a63-d3c8-411a-8d0c-36526e249dd8][2Naturkinder Kleine Wanderlust 2018]] - not my style, lacks balance, acidity is for Vasyl.
+
+As you see, not so many outcasts. The month was full of great wines, the average raring is ★ 7.5484!
+
 * Countries
 :PROPERTIES:
 :ID:                     1a42d29e-bb3d-4e49-b15f-03a7cef3e997
 :END:
+
+Every month my top 3 rated countries stay the same. The only thing that changes is the order. So I am more interested in the countries that come below. The most amazing part is that I had lots of bottles from Argentina, USA, and Chile. Ok, I drink Argentinian wine time to time, but Chile is a truly rare guest on my table.
 
 #+attr_html: :id countries
 #+attr_html: :data countries-data
@@ -98,7 +119,7 @@ Traditionally, preparing a list of my favourites is a tough task to accomplish. 
 :ID:                     b0d64c6f-e09a-4c11-99d9-994da7c7fa30
 :END:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus nibh, at congue sem. Donec interdum vel lacus a lacinia. In velit nisl, lacinia sed odio sit amet, varius rhoncus nulla. Nunc feugiat metus nec nibh hendrerit varius. Suspendisse potenti. Ut scelerisque risus elit, vel mollis ex auctor vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer pretium posuere turpis non molestie. Duis in ultrices dui. Vestibulum eu libero enim. Quisque id dictum nibh, et facilisis ex. Mauris mollis orci et pellentesque venenatis. Pellentesque in pellentesque tortor, vitae cursus velit. Etiam tristique quam eu nibh ultrices gravida tristique eget ex. Maecenas congue sollicitudin tortor, vel semper lorem dictum in. Nullam quis dolor ultrices, malesuada dolor ac, porttitor ex.
+This month is truly interesting. The most rated vintage is 2018. 2021 is getting more and more vocal. The oldest is 2000. According to my notes, 2017 and 2020 are the best vintages, with average scores of ★ 7.65 and ★ 7.6, respectively.
 
 #+attr_html: :id vintages :width 400 :height 120
 #+attr_html: :data vintages-data
@@ -138,7 +159,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 :ID:                     3bd297cc-5594-40f0-a56c-6c275b18e77e
 :END:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus nibh, at congue sem. Donec interdum vel lacus a lacinia. In velit nisl, lacinia sed odio sit amet, varius rhoncus nulla. Nunc feugiat metus nec nibh hendrerit varius. Suspendisse potenti. Ut scelerisque risus elit, vel mollis ex auctor vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer pretium posuere turpis non molestie. Duis in ultrices dui. Vestibulum eu libero enim. Quisque id dictum nibh, et facilisis ex. Mauris mollis orci et pellentesque venenatis. Pellentesque in pellentesque tortor, vitae cursus velit. Etiam tristique quam eu nibh ultrices gravida tristique eget ex. Maecenas congue sollicitudin tortor, vel semper lorem dictum in. Nullam quis dolor ultrices, malesuada dolor ac, porttitor ex.
+69 grapes, some of them are so rare that even sommeliers are left puzzled. Kydonitsa, Jgia, Fer Servadou, Negret de Banhars, La Crescent and some others. Just happy to be part of this feast.
 
 #+attr_html: :id grapes :width 100 :height 140
 #+attr_html: :data grapes-data
@@ -242,6 +263,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | 2022-10-30 | Italy        | [[barberry:/producers/b70877a6-4710-4cdc-9c42-abf921b5c722][Grimaldi]]                    | [[barberry:/wines/6edeac40-1d7c-40d4-b5c3-bf82058a6baf][Grimaldi Barolo 2010]]               |    2010 | 7.75 | 1.3840 |
 | 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8][Marco De Bartoli Integer Grillo 2018]] |    2018 | 8.50 | 3.4021 |
 | 2022-10-28 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]            | [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]  |    2020 | 8.00 | 2.1034 |
+| 2022-10-27 | Italy        | [[barberry:/producers/36d22abe-5b3e-46a4-9934-78c312eda939][Zidarich]]                    | [[barberry:/wines/2654fa1a-5b72-4b93-a583-95c94224deba][Zidarich Teran 2012]]                |    2012 | 8.50 | 3.9564 |
 | 2022-10-27 | Italy        | [[barberry:/producers/82cff8b0-4e60-4751-84bd-03178618a361][Cataldo Calabretta]]          | [[barberry:/wines/e1619879-8376-4b01-ba2a-8bacc0ad01e2][Cataldo Calabretta Cirò Rosso Classico Superiore 2017]] |    2017 | 7.25 | 1.8242 |
 | 2022-10-27 | France       | [[barberry:/producers/992e5a1f-fdc8-493b-a30f-1037fea3afd7][Domaine Le Briseau]]          | [[barberry:/wines/e6552fb9-5d4d-4b28-a5bd-86add75d2949][Domaine Le Briseau Patapon 2018]]    |    2018 | 4.50 | 0.1500 |
 | 2022-10-27 | France       | [[barberry:/producers/4999ae27-f206-4073-955f-2eef8f14db11][Nicolas Carmarans]]           | [[barberry:/wines/2ed14445-f42a-4213-8805-5fde9e011dcf][Nicolas Carmarans Mauvais Temps 2019]] |    2019 | 7.25 | 0.7702 |
@@ -249,7 +271,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 | 2022-10-27 | France       | [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]           | [[barberry:/wines/697a50e3-196c-48c3-b531-f3879dd9b694][Clos du Tue-Boeuf Le Brin De Chevre Touraine 2018]] |    2018 | 8.00 | 2.6659 |
 | 2022-10-27 | France       | [[barberry:/producers/50ece513-2810-4d34-bd51-ef5586391687][Dominique Belluard]]          | [[barberry:/wines/9de3da25-842b-4366-810b-a5584112ef0e][Dominique Belluard Cépage Gringet Les Alpes 2018]] |    2018 | 7.50 | 1.1933 |
 | 2022-10-27 | France       | [[barberry:/producers/470cddf5-1ed8-42a5-94b0-4ccf5365cd69][L'Octavin]]                   | [[barberry:/wines/b95bd411-5f4c-47b9-a460-302550f58594][L'Octavin Clé à molette 2018]]       |    2018 | 7.50 | 1.6754 |
-| 2022-10-27 | Italy        | [[barberry:/producers/36d22abe-5b3e-46a4-9934-78c312eda939][Zidarich]]                    | [[barberry:/wines/2654fa1a-5b72-4b93-a583-95c94224deba][Zidarich Teran 2012]]                |    2012 | 8.50 | 3.9564 |
 | 2022-10-27 | Austria      | [[barberry:/producers/793037db-00f1-4ccc-a1cd-c26c19590b1e][Pittnauer]]                   | [[barberry:/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661][Pittnauer Perfect Day 2021]]         |    2021 | 5.50 | 0.5977 |
 | 2022-10-26 | Italy        | [[barberry:/producers/14fa74e7-0434-4db1-9491-759de4595c0d][Fattoria Romeo del Castello]] | [[barberry:/wines/acc24d74-9556-479d-a9bd-bada0cccfe7e][Fattoria Romeo del Castello Allegracore 2016]] |    2016 | 7.75 | 2.0264 |
 | 2022-10-26 | Argentina    | [[barberry:/producers/a4893612-33df-49fa-a84a-d52da13def0d][Marcelo Miras]]               | [[barberry:/wines/d4f21a37-7537-46d1-9142-0ee459b8bf02][Marcelo Miras Joven Trousseau 2018]] |    2018 | 7.50 | 2.5524 |
@@ -343,6 +364,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus n
 :ID:                     db407490-83f4-4ca1-a654-794c78773469
 :END:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis rhoncus nibh, at congue sem. Donec interdum vel lacus a lacinia. In velit nisl, lacinia sed odio sit amet, varius rhoncus nulla. Nunc feugiat metus nec nibh hendrerit varius. Suspendisse potenti. Ut scelerisque risus elit, vel mollis ex auctor vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer pretium posuere turpis non molestie. Duis in ultrices dui. Vestibulum eu libero enim. Quisque id dictum nibh, et facilisis ex. Mauris mollis orci et pellentesque venenatis. Pellentesque in pellentesque tortor, vitae cursus velit. Etiam tristique quam eu nibh ultrices gravida tristique eget ex. Maecenas congue sollicitudin tortor, vel semper lorem dictum in. Nullam quis dolor ultrices, malesuada dolor ac, porttitor ex.
-
-Safe travels!
+No final words this month. Just safe travels!

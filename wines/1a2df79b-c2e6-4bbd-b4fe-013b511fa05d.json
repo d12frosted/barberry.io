@@ -1,0 +1,31 @@
+{
+  "id": "1a2df79b-c2e6-4bbd-b4fe-013b511fa05d",
+  "name": "Viña Gravonia Blanco Crianza",
+  "full-name": "R. López de Heredia Viña Gravonia 2014",
+  "producer": {
+    "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
+    "name": "R. López de Heredia"
+  },
+  "vintage": "2014",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.5",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1a/2df79b-c2e6-4bbd-b4fe-013b511fa05d/2022-11-05-11-56-30-photo-2022-11-05 11.56.13.webp",
+  "rating": "8.5"
+}

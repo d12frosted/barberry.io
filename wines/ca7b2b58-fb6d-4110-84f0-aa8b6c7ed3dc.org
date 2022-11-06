@@ -33,127 +33,133 @@ Wine #4 on [[barberry:/posts/2022-10-25-a-bit-of-spain][A bit of Spain]] event.
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3fb511fa-b0d8-45e4-b873-bd1edd50a543.html">
+  <a class="flex-item flex-item-right" href="/wines/1a2df79b-c2e6-4bbd-b4fe-013b511fa05d.html">
+    <img class="flex-bottle" src="/images/1a/2df79b-c2e6-4bbd-b4fe-013b511fa05d/2022-11-05-11-56-30-photo-2022-11-05 11.56.13.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3fb511fa-b0d8-45e4-b873-bd1edd50a543.html">
     <img class="flex-bottle" src="/images/3f/b511fa-b0d8-45e4-b873-bd1edd50a543/2022-09-17-20-55-09-IMG-2229.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Bosconia Reserva - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
     <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7c874511-f4b1-4da9-83f2-5867b5a75c6f.html">
+  <a class="flex-item flex-item-left" href="/wines/7c874511-f4b1-4da9-83f2-5867b5a75c6f.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Tinto Reserva - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
+  <a class="flex-item flex-item-right" href="/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32.html">
     <img class="flex-bottle" src="/images/84/9dafd4-c8d6-4ec7-a265-25ccf1f72e32/2022-09-17-20-56-12-IMG-2237.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Cubillo Crianza - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/93636b4c-fff4-4f4f-928f-79a4a742c2ce.html">
+  <a class="flex-item flex-item-left" href="/wines/93636b4c-fff4-4f4f-928f-79a4a742c2ce.html">
     <img class="flex-bottle" src="/images/93/636b4c-fff4-4f4f-928f-79a4a742c2ce/2021-11-30-09-16-36-E911DF71-119C-4797-839E-F89036CE99F1-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Blanco Gran Reserva - 2001</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
+  <a class="flex-item flex-item-right" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
     <img class="flex-bottle" src="/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Rosé Gran Reserva - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
+  <a class="flex-item flex-item-left" href="/wines/b752a3ba-3b68-4e56-80a9-3857c04416a9.html">
     <img class="flex-bottle" src="/images/b7/52a3ba-3b68-4e56-80a9-3857c04416a9/2020-11-15-11-08-15-50D84DC3-A8E5-4F2E-8BAB-ED8BD610BCC2-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2008</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+  <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
     <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1cda7dd8-7a61-4aa2-a11d-992095c89a48.html">
+  <a class="flex-item flex-item-left" href="/wines/1cda7dd8-7a61-4aa2-a11d-992095c89a48.html">
     <img class="flex-bottle" src="/images/1c/da7dd8-7a61-4aa2-a11d-992095c89a48/2022-09-26-19-08-01-4B921E77-AB08-49AA-AFAA-FE1DEF1BFF98-1-102-o.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/32b94077-006f-4587-a849-31fec19ac9a3.html">
+  <a class="flex-item flex-item-right" href="/wines/32b94077-006f-4587-a849-31fec19ac9a3.html">
     <img class="flex-bottle" src="/images/32/b94077-006f-4587-a849-31fec19ac9a3/2022-10-06-07-26-53-4BD422C6-E2A9-42A6-9440-740E98A40B10-1-105-c.webp"></img>
     <section class="h">Čotar</section>
     <section class="h text-bolder">Vitovska - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/369320be-e14f-49f3-9d81-f91f826875b7.html">
+  <a class="flex-item flex-item-left" href="/wines/369320be-e14f-49f3-9d81-f91f826875b7.html">
     <img class="flex-bottle" src="/images/36/9320be-e14f-49f3-9d81-f91f826875b7/2022-09-26-18-34-01-9AA64A2B-CCB2-4D28-A801-9E0D56F58E9C-1-102-o.webp"></img>
     <section class="h">Loxarel</section>
     <section class="h text-bolder">Refugi Brut Nature Reserva - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
+  <a class="flex-item flex-item-right" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
     <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c.webp"></img>
     <section class="h">Novak</section>
     <section class="h text-bolder">Rară Neagră - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/49656def-0966-4b59-84a7-f7bccb6e73ca.html">
+  <a class="flex-item flex-item-left" href="/wines/49656def-0966-4b59-84a7-f7bccb6e73ca.html">
     <img class="flex-bottle" src="/images/49/656def-0966-4b59-84a7-f7bccb6e73ca/2022-10-13-15-00-24-IMG-2742.webp"></img>
     <section class="h">Avancia</section>
     <section class="h text-bolder">Godello - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/64475375-acb6-4d1b-a019-5dc61b01b1dc.html">
+  <a class="flex-item flex-item-right" href="/wines/64475375-acb6-4d1b-a019-5dc61b01b1dc.html">
     <img class="flex-bottle" src="/images/64/475375-acb6-4d1b-a019-5dc61b01b1dc/2022-09-26-18-53-19-8427D758-DF7F-4227-A6A3-648DA6AE3A0B-1-102-o.webp"></img>
     <section class="h">Muchada-Léclapart</section>
     <section class="h text-bolder">Univers - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/695bbc4e-f480-49d6-addd-7cea55afba0a.html">
+  <a class="flex-item flex-item-left" href="/wines/695bbc4e-f480-49d6-addd-7cea55afba0a.html">
     <img class="flex-bottle" src="/images/69/5bbc4e-f480-49d6-addd-7cea55afba0a/2022-10-13-15-01-05-IMG-2739.webp"></img>
     <section class="h">Portal del Priorat</section>
     <section class="h text-bolder">Tros De Clos - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6bccfa7f-66a3-4e5d-8746-cd3580b377bf.html">
+  <a class="flex-item flex-item-right" href="/wines/6bccfa7f-66a3-4e5d-8746-cd3580b377bf.html">
     <img class="flex-bottle" src="/images/6b/ccfa7f-66a3-4e5d-8746-cd3580b377bf/2022-09-23-21-12-29-IMG-2423.webp"></img>
     <section class="h">Vega Sicilia</section>
     <section class="h text-bolder">Pintia - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9af9fb3d-0d6c-4672-bdb0-3dccb527c844.html">
+  <a class="flex-item flex-item-left" href="/wines/9af9fb3d-0d6c-4672-bdb0-3dccb527c844.html">
     <img class="flex-bottle" src="/images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-10-06-07-21-29-865F7139-6C5A-43A5-9D65-E6175B51B21A-1-105-c.webp"></img>
     <section class="h">Vinoman</section>
     <section class="h text-bolder">Pinot Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e.html">
+  <a class="flex-item flex-item-right" href="/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e.html">
     <img class="flex-bottle" src="/images/ab/4da1d2-3d62-492a-89ed-94de2744b34e/2022-09-26-19-19-03-71085CA1-5E72-4CC0-84F0-E74F43A40995-1-102-o.webp"></img>
     <section class="h">Daniel Gómez Jiménez-Landi</section>
     <section class="h text-bolder">Las Uvas de la Ira - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
+  <a class="flex-item flex-item-left" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
     <img class="flex-bottle" src="/images/b6/660f69-14d7-4715-985d-9d24597506ed/2021-08-18-18-56-39-A750A4C3-A050-4A01-B154-30DBEF179D74-1-105-c.webp"></img>
     <section class="h">Pyramid Valley</section>
     <section class="h text-bolder">North Canterbury Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da76deb0-25bf-457c-85dc-9fb16ce2220d.html">
+  <a class="flex-item flex-item-right" href="/wines/da76deb0-25bf-457c-85dc-9fb16ce2220d.html">
     <img class="flex-bottle" src="/images/da/76deb0-25bf-457c-85dc-9fb16ce2220d/2022-10-06-07-22-20-B6B0B34C-A2D4-4426-B6E4-366F52E8BCAF-1-105-c.webp"></img>
     <section class="h">Vinoman</section>
     <section class="h text-bolder">Riesling - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
+  <a class="flex-item flex-item-left" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
     <img class="flex-bottle" src="/images/f1/137f23-9d0b-4e02-a8dc-aeef990ea592/2022-06-08-09-10-01-14B8D394-3091-4D47-9161-D22122F8F01B-1-105-c.webp"></img>
     <section class="h">J.M Dreyer</section>
     <section class="h text-bolder">Elios Pinot Noir - 2020</section>

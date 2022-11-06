@@ -17,6 +17,10 @@
 
 I love this kind of surprise. You take a bottle with zero expectations, but it turns out to be a rather good wine. Crème brûlée, citrus, flowers, and apples (or quinces?). It lacks acidity, but overall it is well-balanced and delicious with good creaminess.
 
+*** 2022-11-05 - ☆ 7.50
+
+I tasted this wine several times, but somehow I missed the elephant in the room. Yeast! Raw dough, freshly baked bread - I consider them to be a great canvas for citrus, flowers and creamy notes. Really nice bubbles for a good price.
+
 ** Related
 
 #+begin_export html
@@ -33,10 +37,22 @@ I love this kind of surprise. You take a bottle with zero expectations, but it t
     <section class="h text-bolder">Boal Single Harvest - 2000</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
+  <a class="flex-item flex-item-left" href="/wines/65bd6d64-29e1-4b3c-ad9a-ce49a291c3e2.html">
+    <img class="flex-bottle" src="/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.webp"></img>
+    <section class="h">Honoro Vera</section>
+    <section class="h text-bolder">Garnacha - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
     <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
     <section class="h">Mas Pere</section>
     <section class="h text-bolder">Selecció Brut Cava - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
+    <img class="flex-bottle" src="/images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp"></img>
+    <section class="h">Lyme Bay</section>
+    <section class="h text-bolder">Bacchus - 2020</section>
   </a>
 
 </div>

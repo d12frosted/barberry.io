@@ -9,13 +9,17 @@
 - Alcohol :: 13
 - Sugar :: 0.1
 - Price :: 1130 UAH, 1215 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2022-09-15 - ☆ 8.50
 
 Ukrainian-speaking folks could guess the meaning of this wine. Ograde is the term used by farmers in Karst to indicate a small parcel fenced by stone walls from domestic animals. But it's also the name of one of Škerk's cellars. The colour is dominated by Pinot Grigio with this deep pink hue. Charming notes of persimmon, caramel, spoiled fruits, dried apricot, and fried nuts. Fresh, precise palate. Tanin is delicate, and the aftertaste is long and flavourful: notes of flowers, caramel and dried fruits. A sophisticated, clean and neat blend of 4 local grapes. Good style.
+
+*** 2022-11-04 - ☆ 8.50
+
+Ograde is a multilayered and complex macerated blend of four white grapes. The pinkish colour reveals Pinot Grigio among them. Beautiful and stable bouquet: persimmon, caramel, herbs, dried apricot and nuts. Delicate yet persistent, it is almost perfectly balanced and flavourful: yellow flowers, caramel and dried yellow fruits. I love this style.
 
 ** Related
 
@@ -33,34 +37,46 @@ Ukrainian-speaking folks could guess the meaning of this wine. Ograde is the ter
     <section class="h text-bolder">Schieferstern Purus Riesling trocken - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
+  <a class="flex-item flex-item-left" href="/wines/1a2df79b-c2e6-4bbd-b4fe-013b511fa05d.html">
+    <img class="flex-bottle" src="/images/1a/2df79b-c2e6-4bbd-b4fe-013b511fa05d/2022-11-05-11-56-30-photo-2022-11-05 11.56.13.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19.html">
     <img class="flex-bottle" src="/images/1f/7e5557-18aa-4054-a674-9b5f5edfdf19/2021-08-11-08-18-50-703752DD-997E-46FD-A11D-21480A37743D-1-105-c.webp"></img>
     <section class="h">Patrice Beguet</section>
     <section class="h text-bolder">Go Together Red - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2122b911-de3a-467b-ba99-cbdb4204a084.html">
+  <a class="flex-item flex-item-left" href="/wines/2122b911-de3a-467b-ba99-cbdb4204a084.html">
     <img class="flex-bottle" src="/images/21/22b911-de3a-467b-ba99-cbdb4204a084/2022-09-16-08-25-56-EB80E708-0A64-4938-8E36-E967F0C1488C-1-105-c.webp"></img>
     <section class="h">J.M Dreyer</section>
     <section class="h text-bolder">Anigma Pinot Noir - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4d3cc054-f510-409b-8278-2b6cdb439b7a.html">
+  <a class="flex-item flex-item-right" href="/wines/4d3cc054-f510-409b-8278-2b6cdb439b7a.html">
     <img class="flex-bottle" src="/images/4d/3cc054-f510-409b-8278-2b6cdb439b7a/QvWyMUehSCORzOpkp18etg.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Rouge - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03.html">
+  <a class="flex-item flex-item-left" href="/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03.html">
     <img class="flex-bottle" src="/images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c.webp"></img>
     <section class="h">Marguet</section>
     <section class="h text-bolder">Shaman 17 Grand Cru - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
+  <a class="flex-item flex-item-right" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
     <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Summertown blanc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/acb75785-ee20-419a-a21a-540f51157670.html">
+    <img class="flex-bottle" src="/images/ac/b75785-ee20-419a-a21a-540f51157670/2022-07-26-12-34-08-5264355E-3080-494E-BE69-E38268F7C4A8-1-105-c.webp"></img>
+    <section class="h">Sandro Fay</section>
+    <section class="h text-bolder">Valtellina Superiore Valgella Riserva Carteria - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ceaf515d-9fda-46c1-8acc-3da2621ffd19.html">

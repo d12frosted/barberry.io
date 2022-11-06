@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Honoro Vera Garnacha 2020"
+update: "2022-11-06"
+producer: "Honoro Vera"
+name: "Garnacha"
+vintage: "2020"
+country: "Spain"
+grapes: "Grenache"
+rating: "7.00"
+image: "images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
