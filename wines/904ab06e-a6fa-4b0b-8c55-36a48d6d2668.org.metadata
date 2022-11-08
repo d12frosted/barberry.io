@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Jacquesson 739 DT 2011"
+update: "2022-11-07"
+producer: "Jacquesson"
+name: "739 DT"
+vintage: "2011"
+country: "France"
+grapes: "Pinot Meunier, Chardonnay, Pinot Noir"
+rating: "9.00"
+image: "images/90/4ab06e-a6fa-4b0b-8c55-36a48d6d2668/2021-07-22-09-23-11-5952B1C1-D600-45ED-A079-14B753C772AF-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/90/4ab06e-a6fa-4b0b-8c55-36a48d6d2668/2021-07-22-09-23-11-5952B1C1-D600-45ED-A079-14B753C772AF-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/90/4ab06e-a6fa-4b0b-8c55-36a48d6d2668/2021-07-22-09-23-11-5952B1C1-D600-45ED-A079-14B753C772AF-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
