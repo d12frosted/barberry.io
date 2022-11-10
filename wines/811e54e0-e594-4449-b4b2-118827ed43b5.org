@@ -9,9 +9,23 @@
 - Alcohol :: 12.5
 - Sugar :: NA
 - Price :: 727 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-09 - ☆ 6.50
 
+What a bummer. Consider me lucky, but I am not used to mediocre Nero d'Avola (from Noto, hehe). So I was quite upset after tasting this wine. A charming bouquet of a tired soul: dark chocolate, coffee and dark berries with some leather in the background. Despite being surprisingly fresh, it's falling into pieces. It's flat and simply lacks balance.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/26a79e10-55ff-49da-89ce-7b15f48575cf.html">
+    <img class="flex-bottle" src="/images/26/a79e10-55ff-49da-89ce-7b15f48575cf/2022-09-26-18-31-05-64E7AB15-13FD-4907-8A1C-EB770A28AED0-1-102-o.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Black Betty - 2020</section>
+  </a>
+
+</div>
+#+end_export
