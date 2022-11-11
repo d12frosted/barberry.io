@@ -215,7 +215,10 @@ Access to full ITEMS for related wines."
            (available (vulpea-note-meta-get note "available" 'number))
            (ratings (vulpea-note-meta-get-list note "ratings" 'note))
            (related (brb-public-items (brb-related-wines note) items))
-           (images (vulpea-note-meta-get-list note "images")))
+           (images (vulpea-note-meta-get-list note "images"))
+           (base (vulpea-note-meta-get note "base"))
+           (degorgee (vulpea-note-meta-get note "degorgee"))
+           (sur-lie (vulpea-note-meta-get note "sur lie")))
       (insert
        "#+attr_html: :class wine-main-image\n"
        (if images
@@ -231,7 +234,17 @@ Access to full ITEMS for related wines."
        "\n"
 
        "- Producer :: " (vulpea-utils-link-make-string producer) "\n"
-       "- Vintage :: " vintage "\n"
+       (if base
+           (concat "- Base vintage :: " base)
+         (concat "- Vintage :: " vintage))
+       "\n"
+
+       (if degorgee
+           (concat "- Disgorged in :: " degorgee "\n")
+         "")
+       (if sur-lie
+           (concat "- Spent on lees :: " sur-lie "\n")
+         "")
 
        "- Location :: "
        (vulpea-note-title country)
@@ -850,7 +863,10 @@ Basically, keep only public notes."
              (image (when images (car images)))
              (image (when image (s-chop-prefix "attachment:" image)))
              (image (when image (file-name-fix-attachment image "jpeg")))
-             (image (when image (gethash (concat (vulpea-note-id note) ":" image) items))))
+             (image (when image (gethash (concat (vulpea-note-id note) ":" image) items)))
+             (base (vulpea-note-meta-get note "base"))
+             (degorgee (vulpea-note-meta-get note "degorgee"))
+             (surlie (vulpea-note-meta-get note "sur lie")))
         (-concat
          (list "producer" (vulpea-note-meta-get note "producer" 'note)
                "name" (vulpea-note-meta-get note "name")
@@ -862,6 +878,9 @@ Basically, keep only public notes."
                           'note)
                "grapes" (mapconcat
                          #'vulpea-note-title (vulpea-note-meta-get-list note "grapes" 'note) ", "))
+         (when base (list "base" base))
+         (when degorgee (list "degorgee" degorgee))
+         (when surlie (list "sur-lie" surlie))
          (when rating (list "rating" (format "%.2f" rating)))
          (if image
              (list "image" (porg-item-target-rel image)
@@ -872,8 +891,8 @@ Basically, keep only public notes."
                                    (format "identify -format '%%h' '%s'"
                                            (porg-item-target-abs image))))
            (list "image" "images/unknown-wine.jpeg"
-                   "image-width" "960"
-                   "image-height" "1280"))))))
+                 "image-width" "960"
+                 "image-height" "1280"))))))
    :clean #'brb-delete)
 
   (porg-compiler
@@ -903,6 +922,9 @@ Basically, keep only public notes."
             (image (when image (s-chop-prefix "attachment:" image)))
             (image (when image (file-name-fix-attachment image "webp")))
             (image (when image (gethash (concat (vulpea-note-id note) ":" image) items)))
+            (base (vulpea-note-meta-get note "base"))
+            (degorgee (vulpea-note-meta-get note "degorgee"))
+            (sur-lie (vulpea-note-meta-get note "sur lie"))
             (json-encoding-pretty-print t))
        (with-current-buffer (find-file-noselect (porg-item-target-abs item))
          (delete-region (point-min) (point-max))
@@ -915,6 +937,9 @@ Basically, keep only public notes."
             :producer (list :id (vulpea-note-id producer)
                             :name (vulpea-note-title producer))
             :vintage vintage
+            :base-vintage base
+            :degorgee degorgee
+            :sur-lie sur-lie
             :colour colour
             :carbonation carbonation
             :sweetness sweetness
