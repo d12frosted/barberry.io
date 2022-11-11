@@ -1,7 +1,7 @@
 {
   "id": "8b663496-057f-49dd-b7bb-f4cacbfbc9a2",
   "name": "Première Cuvée (d2018)",
-  "full-name": "Bruno Paillard Première Cuvée (d2018)",
+  "full-name": "Bruno Paillard Première Cuvée (d2018) NV",
   "producer": {
     "id": "11da3d83-ca4a-4e23-a8f1-e8d1cf395b58",
     "name": "Bruno Paillard"
@@ -36,7 +36,7 @@
   "prices": [
     "2250 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/8b/663496-057f-49dd-b7bb-f4cacbfbc9a2/2022-11-11-08-52-44-8F914075-9823-4051-B7EB-9521F7CF7DC0-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.25"
 }
