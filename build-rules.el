@@ -601,7 +601,10 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
       (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
         (unless (> n limit)
           (insert (format "- %s :: \n" (format-time-string "%A, %e %B %Y" (date-to-time (car it)))))
-          (--each (cdr it)
+          (--each (--sort
+                   (string-lessp (vulpea-note-title it)
+                                 (vulpea-note-title other))
+                   (cdr it))
             (let ((wine (vulpea-note-meta-get it "wine" 'note))
                   (rate (vulpea-note-meta-get it "total" 'number)))
               (insert (format "  - ☆ %.2f - %s\n" rate (vulpea-utils-link-make-string wine)))))
