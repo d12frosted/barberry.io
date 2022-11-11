@@ -7,6 +7,9 @@
     "name": "Colterenzio"
   },
   "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "rose",
   "carbonation": "still",
   "sweetness": "dry",

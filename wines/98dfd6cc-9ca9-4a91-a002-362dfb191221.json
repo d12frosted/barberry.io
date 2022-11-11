@@ -7,6 +7,9 @@
     "name": "Domaine George Noëllat"
   },
   "vintage": "2004",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",

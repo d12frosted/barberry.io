@@ -7,6 +7,9 @@
     "name": "Château de Béru"
   },
   "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",

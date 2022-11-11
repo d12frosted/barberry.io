@@ -7,6 +7,9 @@
     "name": "Clos Lentiscus"
   },
   "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "rose",
   "carbonation": "sparkling",
   "sweetness": "brut-nature",

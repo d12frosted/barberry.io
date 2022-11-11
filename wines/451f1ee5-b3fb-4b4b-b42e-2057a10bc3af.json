@@ -7,6 +7,9 @@
     "name": "Pierre Frick"
   },
   "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",

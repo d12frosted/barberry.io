@@ -9,7 +9,5 @@ country: "Italy"
 grapes: "Sauvignon Blanc, Malvasia di Candia Aromatica, Vitovska"
 rating: "7.50"
 image: "images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

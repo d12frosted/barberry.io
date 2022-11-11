@@ -7,6 +7,9 @@
     "name": "Chivite"
   },
   "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "rose",
   "carbonation": "still",
   "sweetness": "dry",

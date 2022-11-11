@@ -7,6 +7,9 @@
     "name": "Foradori"
   },
   "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",

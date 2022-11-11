@@ -7,6 +7,9 @@
     "name": "Dom Ruinart"
   },
   "vintage": "1964",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",

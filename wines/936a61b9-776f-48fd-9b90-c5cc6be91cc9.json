@@ -7,6 +7,9 @@
     "name": "Chateau d'Escurac"
   },
   "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",

@@ -7,6 +7,9 @@
     "name": "Kelley Fox Wines"
   },
   "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",

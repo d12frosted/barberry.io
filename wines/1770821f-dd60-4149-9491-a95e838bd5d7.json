@@ -7,6 +7,9 @@
     "name": "Ochota barrels"
   },
   "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",

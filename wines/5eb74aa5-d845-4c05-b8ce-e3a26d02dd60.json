@@ -7,6 +7,9 @@
     "name": "Els Vinyerons"
   },
   "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut-nature",

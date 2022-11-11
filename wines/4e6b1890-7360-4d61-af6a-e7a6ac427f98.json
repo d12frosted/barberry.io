@@ -7,6 +7,9 @@
     "name": "Terra Fresca"
   },
   "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "dry",

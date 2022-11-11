@@ -7,6 +7,9 @@
     "name": "Weingut Bründlmayer"
   },
   "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "rose",
   "carbonation": "sparkling",
   "sweetness": "brut",

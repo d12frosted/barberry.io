@@ -7,6 +7,9 @@
     "name": "Weingut Tement"
   },
   "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "still",
   "sweetness": "dry",

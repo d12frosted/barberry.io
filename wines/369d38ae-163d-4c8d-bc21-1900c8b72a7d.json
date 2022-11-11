@@ -7,6 +7,9 @@
     "name": "Patrice Beguet"
   },
   "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",

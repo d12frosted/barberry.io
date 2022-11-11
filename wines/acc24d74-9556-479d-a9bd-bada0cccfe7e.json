@@ -7,6 +7,9 @@
     "name": "Fattoria Romeo del Castello"
   },
   "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",

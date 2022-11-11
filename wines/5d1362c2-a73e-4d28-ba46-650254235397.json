@@ -7,6 +7,9 @@
     "name": "Prince Trubetskoi Winery"
   },
   "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",

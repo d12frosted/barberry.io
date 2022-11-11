@@ -9,7 +9,5 @@ country: "Spain"
 grapes: "Tempranillo, Graciano"
 rating: "9.00"
 image: "images/8c/efb8f6-f492-4e85-bc9f-82bb52596ca7/2021-04-25-14-31-10-1A6CF2EE-BE68-4994-90CC-565862CCC4BE-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/8c/efb8f6-f492-4e85-bc9f-82bb52596ca7/2021-04-25-14-31-10-1A6CF2EE-BE68-4994-90CC-565862CCC4BE-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/8c/efb8f6-f492-4e85-bc9f-82bb52596ca7/2021-04-25-14-31-10-1A6CF2EE-BE68-4994-90CC-565862CCC4BE-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3565.
-"
+image-width: "768"
+image-height: "1024"

@@ -7,6 +7,9 @@
     "name": "Borgo Solè"
   },
   "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",

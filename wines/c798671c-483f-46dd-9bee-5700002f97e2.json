@@ -7,6 +7,9 @@
     "name": "Krasna Hora"
   },
   "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
   "colour": "red",
   "carbonation": "still",
   "sweetness": "dry",
