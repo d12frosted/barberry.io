@@ -9,7 +9,5 @@ country: "France"
 grapes: "Pinot Noir, Pinot Noir"
 rating: "8.25"
 image: "images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

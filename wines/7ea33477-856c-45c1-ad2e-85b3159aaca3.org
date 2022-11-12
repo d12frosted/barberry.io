@@ -9,11 +9,13 @@
 - Alcohol :: 12.5
 - Sugar :: 2
 - Price :: 1190 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-11 - ☆ 7.75
+
+A stylish and delicious wine. Gravel, lemon, bruised apple, some benzene notes. Fresh with good fruit, round and delicious.
 
 ** Related
 
@@ -47,6 +49,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
+    <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp"></img>
+    <section class="h">Foradori</section>
+    <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
+    <img class="flex-bottle" src="/images/47/4939e8-1301-48d6-9227-cb9b57ad02be/2022-11-12-12-37-22-DBE35E30-5886-4EC2-95B8-CC311C7575D1-1-105-c.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Esprit Attila - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/98953414-b1c1-49cb-a48e-e4a0e2593565.html">
+    <img class="flex-bottle" src="/images/98/953414-b1c1-49cb-a48e-e4a0e2593565/2022-11-12-12-33-57-0C817480-A23F-468B-A24F-8957FC97B7CE-1-105-c.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Noir de Florette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
+    <img class="flex-bottle" src="/images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Savigny-les-Beaune Premier Cru - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e0415878-d4b9-4d57-ac83-42ff34f90f86.html">
+    <img class="flex-bottle" src="/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2022-11-12-12-07-21-IMG-3146.webp"></img>
+    <section class="h">Charles Dufour</section>
+    <section class="h text-bolder">Bulles de Comptoir #10 Tchin Tchin - NV</section>
   </a>
 
 </div>
