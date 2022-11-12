@@ -1,0 +1,63 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/163248a9-c9bc-498a-9107-0ab002f2ea9f][François de Nicolay]]
+- Vintage :: 2017
+- Location :: France, Ladoix AOC
+- Grapes :: Pinot Noir, Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 1
+- Price :: 917 UAH
+- Cellar :: N/A
+
+** Producer
+
+François is one of the owners of Chandon de Briailles. In 20?? he started his own négoce project, which sources organic and biodynamic fruit from trusted and reputable growers who are either certified biodynamic or are in the process. François is known for his selective approach when purchasing grapes. Clusters are carefully inspected during veraison and harvest to ensure that they are healthy enough to produce wine without the use of additives.
+
+Vinification and élevage take place in his ancient cellar-cave in Savigny-lès-Beaune and is non-interventionist in every aspect - no pumpovers, no filtration, and no sulfur additions.
+
+** Ratings
+
+*** 2021-09-14 - ☆ 8.25
+
+Sophisticated and elegant bouquet of strawberry, vanilla, flowers, forest floor and dried figs. Juicy, delicious and easy going négoce Pinot Noir by one of the owners of Chandon de Briailles. Still has potential but already quaffable.
+
+Tasted as part of Na Uzbičči event.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
+    <img class="flex-bottle" src="/images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Savigny-les-Beaune Premier Cru - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">
+    <img class="flex-bottle" src="/images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp"></img>
+    <section class="h">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 744 Grand Vin (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
+    <img class="flex-bottle" src="/images/50/40b17f-02d9-4088-8764-707cf0032439/2022-09-14-15-08-37-F1EAADBD-2ABA-4558-93CF-ECDB1BB67695-1-105-c.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp"></img>
+    <section class="h">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+    <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2021-09-11-10-26-03-425C800A-473C-44A6-A3FB-D296F83CC0A7-1-105-c.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
+</div>
+#+end_export

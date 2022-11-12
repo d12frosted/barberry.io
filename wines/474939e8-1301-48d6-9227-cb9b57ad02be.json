@@ -1,0 +1,42 @@
+{
+  "id": "474939e8-1301-48d6-9227-cb9b57ad02be",
+  "name": "Esprit Attila",
+  "full-name": "La Sorga Esprit Attila 2016",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "720 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/47/4939e8-1301-48d6-9227-cb9b57ad02be/2022-11-12-12-37-22-DBE35E30-5886-4EC2-95B8-CC311C7575D1-1-105-c.webp",
+  "rating": "NA"
+}

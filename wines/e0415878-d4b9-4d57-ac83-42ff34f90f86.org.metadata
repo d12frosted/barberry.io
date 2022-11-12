@@ -12,7 +12,5 @@ degorgee: "March 2022"
 sur-lie: "12 months"
 rating: "8.25"
 image: "images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2022-11-12-12-07-21-IMG-3146.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2022-11-12-12-07-21-IMG-3146.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2022-11-12-12-07-21-IMG-3146.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

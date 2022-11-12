@@ -1,0 +1,34 @@
+{
+  "id": "9b2bfb0e-b377-4f9f-bf70-5e126943c6ef",
+  "name": "Savigny-les-Beaune Premier Cru",
+  "full-name": "François de Nicolay Savigny-les-Beaune Premier Cru 2019",
+  "producer": {
+    "id": "163248a9-c9bc-498a-9107-0ab002f2ea9f",
+    "name": "François de Nicolay"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c.webp",
+  "rating": "NA"
+}

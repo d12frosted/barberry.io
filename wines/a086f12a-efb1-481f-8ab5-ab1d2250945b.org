@@ -71,5 +71,11 @@ That case when Pinot Noir is delicious at the young age and is still promising i
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
+    <img class="flex-bottle" src="/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Ladoix Les Briquottes - 2017</section>
+  </a>
+
 </div>
 #+end_export
