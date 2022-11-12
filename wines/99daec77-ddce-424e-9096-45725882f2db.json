@@ -1,0 +1,42 @@
+{
+  "id": "99daec77-ddce-424e-9096-45725882f2db",
+  "name": "Bulles de Comptoir #9 Tradition",
+  "full-name": "Charles Dufour Bulles de Comptoir #9 Tradition NV",
+  "producer": {
+    "id": "8e2a98ef-b32c-4957-a22e-b2e9b2e59c17",
+    "name": "Charles Dufour"
+  },
+  "vintage": "NV",
+  "base-vintage": "2018",
+  "degorgee": "January 2021",
+  "sur-lie": "15 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.5",
+  "prices": [
+    "1390 UAH"
+  ],
+  "available": 0,
+  "image": "images/99/daec77-ddce-424e-9096-45725882f2db/2021-05-15-12-05-46-BD8FF8AD-469A-410A-AE02-4A72B04A9702-1-105-c.webp",
+  "rating": "8.0"
+}
