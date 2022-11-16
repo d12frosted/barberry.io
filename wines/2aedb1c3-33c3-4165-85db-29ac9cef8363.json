@@ -1,0 +1,34 @@
+{
+  "id": "2aedb1c3-33c3-4165-85db-29ac9cef8363",
+  "name": "Vino Rosso L.BF15/2019/20",
+  "full-name": "Cascina Tavijn Vino Rosso L.BF15/2019/20 NV",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.1",
+  "prices": [
+    "380 UAH"
+  ],
+  "available": 0,
+  "image": "images/2a/edb1c3-33c3-4165-85db-29ac9cef8363/2020-10-31-09-31-54-C71B84AF-FC05-4BA4-8265-E1CDB8372FD6-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -77,5 +77,11 @@ Calcarius produces friendly and simple wines for funny occasions. These orange b
     <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/2aedb1c3-33c3-4165-85db-29ac9cef8363.html">
+    <img class="flex-bottle" src="/images/2a/edb1c3-33c3-4165-85db-29ac9cef8363/2020-10-31-09-31-54-C71B84AF-FC05-4BA4-8265-E1CDB8372FD6-1-105-c.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Vino Rosso L.BF15/2019/20 - NV</section>
+  </a>
+
 </div>
 #+end_export

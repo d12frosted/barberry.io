@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Fattoria San Lorenzo Marche Rosso di Gino 2020"
+update: "2022-11-15"
+producer: "Fattoria San Lorenzo"
+name: "Marche Rosso di Gino"
+vintage: "2020"
+country: "Italy"
+grapes: "Montepulciano, Sangiovese"
+image: "images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

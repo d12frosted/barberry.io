@@ -8,8 +8,8 @@
 - Grapes :: Trousseau
 - Alcohol :: 12.5
 - Sugar :: 1
-- Price :: 1024 UAH, 990 UAH
-- Cellar :: N/A
+- Price :: 960 UAH, 1024 UAH, 990 UAH
+- Cellar :: 1 bottle
 
 Grapes for this wine come from 20-70 years old vines in granite, schist soils at 350-650m elevation. Grapes are hand-harvested, left in the whole cluster and fermented using natural yeasts in stainless steel tanks. 40-60 day maceration and then aged for 7 months in 300-500L oak barrels.
 
@@ -68,7 +68,7 @@ Wine #5 on [[barberry:/posts/2022-09-27-mixed-bag][Mixed Bag Vol. 4]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
-    <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2021-10-27-23-31-06-B05FB6C2-1AEF-45C2-80FB-FF708EE28D67-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Cortezada - 2017</section>
   </a>

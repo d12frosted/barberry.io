@@ -67,13 +67,19 @@ Tasted as part of Divych Vechir event.
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+  <a class="flex-item flex-item-left" href="/wines/165ed51b-19dc-46ad-9f5a-e321c254e613.html">
+    <img class="flex-bottle" src="/images/16/5ed51b-19dc-46ad-9f5a-e321c254e613/2021-08-18-10-39-00-CEF410F6-C86F-454B-BA78-43A5C4174888-1-105-c.webp"></img>
+    <section class="h">Klein Constantia</section>
+    <section class="h text-bolder">Method Cap Classique Brut - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
     <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp"></img>
     <section class="h">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>

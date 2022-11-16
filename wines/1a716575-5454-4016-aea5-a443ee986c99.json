@@ -1,0 +1,38 @@
+{
+  "id": "1a716575-5454-4016-aea5-a443ee986c99",
+  "name": "Vino Rosso L.FB25/2019/2",
+  "full-name": "Cascina Tavijn Vino Rosso L.FB25/2019/2 NV",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8bcbf2cc-d500-4b00-9e2e-2dda87b39699",
+      "name": "Freisa"
+    },
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1a/716575-5454-4016-aea5-a443ee986c99/2021-03-12-09-21-02-D265C087-AAE1-4A67-BA8A-0492F40E2201-1-105-c.webp",
+  "rating": "7.416666666666667"
+}

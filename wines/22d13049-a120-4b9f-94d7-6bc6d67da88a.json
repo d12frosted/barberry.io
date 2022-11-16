@@ -1,0 +1,34 @@
+{
+  "id": "22d13049-a120-4b9f-94d7-6bc6d67da88a",
+  "name": "Ottavio L.G06/2021/22",
+  "full-name": "Cascina Tavijn Ottavio L.G06/2021/22 NV",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "84ba9c3d-9a82-4b02-b034-ec549235237b",
+      "name": "Grignolino"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "545 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/22/d13049-a120-4b9f-94d7-6bc6d67da88a/2022-11-15-17-11-16-IMG-3194.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/60baeb1a-2703-459a-b212-7f73465efc67][Fattoria San Lorenzo]]
+- Vintage :: 2020
+- Location :: Italy, IGP Marche
+- Grapes :: Montepulciano, Sangiovese
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 413 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c490b3ec-5108-48d6-94ca-87d40ed55c3a.html">
+    <img class="flex-bottle" src="/images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2022-11-15-17-09-46-IMG-3192.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Vino Rosato di Vera - 2020</section>
+  </a>
+
+</div>
+#+end_export
