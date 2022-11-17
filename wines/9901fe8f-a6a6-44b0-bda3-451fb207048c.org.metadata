@@ -1,14 +1,12 @@
 publish: "false"
 hide: "false"
 title: "Cascina Tavijn Vino Bianco L.B01/2021/22 NV"
-update: "2022-11-15"
+update: "2022-11-16"
 producer: "Cascina Tavijn"
 name: "Vino Bianco L.B01/2021/22"
 vintage: "NV"
 country: "Italy"
 grapes: "Chardonnay, Cortese, Zibibbo"
 image: "images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
