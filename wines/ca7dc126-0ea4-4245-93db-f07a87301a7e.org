@@ -10,8 +10,8 @@
 - Grapes :: Pinot Meunier, Chardonnay, Pinot Noir
 - Alcohol :: 12.5
 - Sugar :: 4.65
-- Price :: 2464 UAH
-- Cellar :: N/A
+- Price :: 2200 UAH, 2464 UAH
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -49,37 +49,43 @@ The Soul of the Earth. 16 years old cuvée that spent 13 years on lees. Result? 
     <section class="h text-bolder">Entre Ciel & Terre (2014) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+  <a class="flex-item flex-item-left" href="/wines/c3fe3f89-ff2f-440f-9dea-e2ab6f49f692.html">
+    <img class="flex-bottle" src="/images/c3/fe3f89-ff2f-440f-9dea-e2ab6f49f692/2022-11-18-08-50-57-6863FE5E-AC6F-44BD-A9B2-83B48091DB41-1-105-c.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle (2015) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
+  <a class="flex-item flex-item-right" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
     <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
+  <a class="flex-item flex-item-left" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
     <img class="flex-bottle" src="/images/55/8ec6f4-6d6c-4099-ad54-d55ad3099682/2022-06-09-21-42-35-IMG-0366.webp"></img>
     <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Mount Hermon White - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
+  <a class="flex-item flex-item-right" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
     <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
     <section class="h">Spy Valley</section>
     <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
     <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2013</section>

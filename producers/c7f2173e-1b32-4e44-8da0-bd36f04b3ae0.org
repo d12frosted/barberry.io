@@ -21,7 +21,13 @@
     <section class="h text-bolder">Skerpioen - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+  <a class="flex-item flex-item-right" href="/wines/d71fb0cc-4414-437e-8870-a4ef45c8abd8.html">
+    <img class="flex-bottle" src="/images/d7/1fb0cc-4414-437e-8870-a4ef45c8abd8/2022-11-18-08-58-47-BFF3394D-CE89-4F69-AA57-D1C9036031FC-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Skerpioen - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
     <img class="flex-bottle" src="/images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Skurfberg - 2020</section>
