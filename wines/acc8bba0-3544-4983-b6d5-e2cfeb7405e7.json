@@ -1,0 +1,38 @@
+{
+  "id": "acc8bba0-3544-4983-b6d5-e2cfeb7405e7",
+  "name": "Etna Rosso Outis Nessuno",
+  "full-name": "Biondi Etna Rosso Outis Nessuno 2017",
+  "producer": {
+    "id": "e0e7730b-1060-4fe0-a872-c16f783ad574",
+    "name": "Biondi"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "979 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ac/c8bba0-3544-4983-b6d5-e2cfeb7405e7/2022-11-18-09-11-49-21A2348B-EDF5-491B-BCD0-212EBB3D4A74-1-105-c.webp",
+  "rating": "NA"
+}

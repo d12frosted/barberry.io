@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
+    <img class="flex-bottle" src="/images/ac/c8bba0-3544-4983-b6d5-e2cfeb7405e7/2022-11-18-09-11-49-21A2348B-EDF5-491B-BCD0-212EBB3D4A74-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
+  </a>
+
+</div>
+#+end_export

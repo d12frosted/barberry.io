@@ -1,0 +1,34 @@
+{
+  "id": "9e5616d2-6821-43f3-a2a0-93a514879635",
+  "name": "Etna Bianco Montalto",
+  "full-name": "Tenuta delle Terre Nere Etna Bianco Montalto 2019",
+  "producer": {
+    "id": "150d819d-7b0e-4a2e-b71b-d73a83beae3a",
+    "name": "Tenuta delle Terre Nere"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1409 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c.webp",
+  "rating": "NA"
+}

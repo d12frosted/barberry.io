@@ -1,0 +1,38 @@
+{
+  "id": "53d8516b-2fc1-49dc-b037-30e81c64ff80",
+  "name": "Etna Rosso Calderara Sottana",
+  "full-name": "Tenuta delle Terre Nere Etna Rosso Calderara Sottana 2016",
+  "producer": {
+    "id": "150d819d-7b0e-4a2e-b71b-d73a83beae3a",
+    "name": "Tenuta delle Terre Nere"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1673 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/53/d8516b-2fc1-49dc-b037-30e81c64ff80/2022-11-18-09-05-02-51EACC64-E31E-4013-B5C1-0A93DBB99235-1-105-c.webp",
+  "rating": "NA"
+}

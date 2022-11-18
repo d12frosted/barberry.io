@@ -1,0 +1,38 @@
+{
+  "id": "538e07c5-fd47-4b90-88e8-d6914f2bc23c",
+  "name": "Etna Rosso Serra della Contessa",
+  "full-name": "Benanti Serra della Contessa 2014",
+  "producer": {
+    "id": "67b9a0dc-6746-4fba-9e0d-2eaa92eaa0cb",
+    "name": "Benanti"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    },
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1507 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/53/8e07c5-fd47-4b90-88e8-d6914f2bc23c/2021-10-26-09-59-46-596E5B92-1C92-447E-965B-8772150EAC2F-1-105-c.webp",
+  "rating": "8.25"
+}

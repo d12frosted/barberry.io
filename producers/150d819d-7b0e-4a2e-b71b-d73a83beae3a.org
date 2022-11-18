@@ -1,0 +1,37 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
+    <img class="flex-bottle" src="/images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Bianco Montalto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/53d8516b-2fc1-49dc-b037-30e81c64ff80.html">
+    <img class="flex-bottle" src="/images/53/d8516b-2fc1-49dc-b037-30e81c64ff80/2022-11-18-09-05-02-51EACC64-E31E-4013-B5C1-0A93DBB99235-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso Calderara Sottana - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
+    <img class="flex-bottle" src="/images/e3/9daa48-d67c-406e-a0e9-5d0006070999/2022-11-18-09-06-22-A4693DA3-4050-4F55-B79C-62AB9CFD16CD-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
+    <img class="flex-bottle" src="/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso San Lorenzo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/235687dd-7472-4a7c-8470-5ec4185599db.html">
+    <img class="flex-bottle" src="/images/23/5687dd-7472-4a7c-8470-5ec4185599db/2022-11-18-09-08-45-B3D538E7-0935-43A6-B7A8-184185F03AFA-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso Santo Spirito - 2018</section>
+  </a>
+
+</div>
+#+end_export

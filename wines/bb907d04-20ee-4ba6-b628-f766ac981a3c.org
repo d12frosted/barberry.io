@@ -55,13 +55,19 @@ Tasted as part of Il Pirata event.
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bb6c1e33-7a85-4f88-81c0-b6cfa6ce799e.html">
+  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c.webp"></img>
+    <section class="h">Tenuta di Castellaro</section>
+    <section class="h text-bolder">Corinto - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bb6c1e33-7a85-4f88-81c0-b6cfa6ce799e.html">
     <img class="flex-bottle" src="/images/bb/6c1e33-7a85-4f88-81c0-b6cfa6ce799e/2020-09-20-10-14-08-A3926C74-7B45-4BF0-A53D-85DF04570002-1-105-c.webp"></img>
     <section class="h">An Approach To Relaxation</section>
     <section class="h text-bolder">Sucette - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>

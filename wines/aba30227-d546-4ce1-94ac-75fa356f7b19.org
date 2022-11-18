@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/9f3f28ba-c0eb-4c19-a1ae-f347c7f70704][Tenuta di Castellaro]]
+- Vintage :: 2017
+- Location :: Italy, IGP Terre Siciliane
+- Grapes :: Corinto
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 892 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+*** 2021-11-02 - ☆ 8.50
+
+Tasting this wine is amazing because it comes from Lipari island, it
+is made of 100% Corinto and most importantly, it's great. Slight notes
+of smoke, dried red fruits, spices and green pepper with licorice.
+Interesting evolution in glass, long and flavourful aftertaste.
+Appealing, bright with right level of complexity.
+
+Tasted as part of Il Pirata event.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
+  </a>
+
+</div>
+#+end_export
