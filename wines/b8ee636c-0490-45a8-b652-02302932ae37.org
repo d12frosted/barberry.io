@@ -1,0 +1,61 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/9f3f28ba-c0eb-4c19-a1ae-f347c7f70704][Tenuta di Castellaro]]
+- Vintage :: 2015
+- Location :: Italy, IGP Terre Siciliane
+- Grapes :: Corinto, Nero d'Avola
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 836 UAH, 861 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+*** 2021-12-02 - ☆ 8.00
+
+Amazing wine and not typical for Sicily, which kind of makes sense having in mind that it originates from Lipari (Aeoilian Islands) and is made from Corinto blended with Nero d'Avola. Elegant and ripe bouquet: cherry, plum, spices, medicinal herbs, musk. Juicy, almost perfectly balanced with velvety texture. Quaffable to the treacherous point, where bottle ends in no time.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c.webp"></img>
+    <section class="h">Tenuta di Castellaro</section>
+    <section class="h text-bolder">Corinto - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2021-12-04-11-00-08-F61FE783-2960-4121-9095-1D9A3F9BE8F0-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Siccagno - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+    <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2021-12-04-10-50-08-A8CE70A4-CBCC-409F-A8B5-11CF8FE7C245-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Vino di Contrada SM - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+</div>
+#+end_export

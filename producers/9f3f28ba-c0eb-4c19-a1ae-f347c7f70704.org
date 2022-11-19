@@ -9,5 +9,11 @@
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/b8ee636c-0490-45a8-b652-02302932ae37.html">
+    <img class="flex-bottle" src="/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Nero Ossidiana - 2015</section>
+  </a>
+
 </div>
 #+end_export

@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Tenuta di Castellaro Nero Ossidiana 2015"
+update: "2022-11-19"
+producer: "Tenuta di Castellaro"
+name: "Nero Ossidiana"
+vintage: "2015"
+country: "Italy"
+grapes: "Corinto, Nero d'Avola"
+rating: "8.00"
+image: "images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

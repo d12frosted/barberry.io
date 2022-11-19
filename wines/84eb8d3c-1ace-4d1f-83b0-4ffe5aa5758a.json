@@ -1,0 +1,34 @@
+{
+  "id": "84eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a",
+  "name": "Sauvginon Blanc",
+  "full-name": "Southern Right Sauvginon Blanc 2022",
+  "producer": {
+    "id": "5afe2b9e-ae0d-497a-8d69-798e9f6c1cd7",
+    "name": "Southern Right"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "557 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/84/eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a/2022-11-19-09-32-54-8C349A29-30E7-4ED6-A299-9B434C5536FB-1-105-c.webp",
+  "rating": "NA"
+}

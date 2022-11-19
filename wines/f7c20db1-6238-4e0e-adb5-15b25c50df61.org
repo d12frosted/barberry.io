@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/f7/c20db1-6238-4e0e-adb5-15b25c50df61/2021-01-20-21-38-21-008B6BF0-4386-4770-85FA-60A81E36BE49.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/8b78f8b4-35a9-4477-b068-a2e26eb10c6f][Bodegas Alto Moncayo]]
+- Vintage :: 2017
+- Location :: Spain, Campo de Borja DO
+- Grapes :: Grenache
+- Alcohol :: 16
+- Sugar :: 2.3
+- Price :: 1130 UAH
+- Cellar :: N/A
+
+** Producer
+
+Wine producer from Spain.
+
+** Ratings
+
+*** 2021-02-01 - ☆ 8.00
+
+Treacherous and powerful Campo de Borja. Charming and complex nose, black currant, medicinal herbs, salty toffee and smoked meat. Well balanced, you don't feel those 16 abv unless it's too late.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8cdbd1a8-3256-4958-aad9-fcbd733c718c.html">
+    <img class="flex-bottle" src="/images/8c/dbd1a8-3256-4958-aad9-fcbd733c718c/2022-11-19-09-35-23-A0090FDA-647E-4F3C-A479-D5B300D32455-1-105-c.webp"></img>
+    <section class="h">Bodegas Alto Moncayo</section>
+    <section class="h text-bolder">Veraton - 2017</section>
+  </a>
+
+</div>
+#+end_export

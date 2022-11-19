@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Southern Right Sauvginon Blanc 2020"
+update: "2022-11-19"
+producer: "Southern Right"
+name: "Sauvginon Blanc"
+vintage: "2020"
+country: "South Africa"
+grapes: "Sauvignon Blanc"
+rating: "8.00"
+image: "images/1d/273d82-dc55-477d-a355-6029eac883b1/2021-09-26-14-01-21-3C6B23B0-463D-47CA-A9C2-B67440685ED0-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1d/273d82-dc55-477d-a355-6029eac883b1/2021-09-26-14-01-21-3C6B23B0-463D-47CA-A9C2-B67440685ED0-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1d/273d82-dc55-477d-a355-6029eac883b1/2021-09-26-14-01-21-3C6B23B0-463D-47CA-A9C2-B67440685ED0-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
