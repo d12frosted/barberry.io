@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/63762d55-6596-4e80-b75c-9bc8c088de3f.html">
+    <img class="flex-bottle" src="/images/63/762d55-6596-4e80-b75c-9bc8c088de3f/2022-11-19-10-45-19-80371607-7594-40BC-80B7-C4F157F9761E-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Nossa Calcario Baga - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -9,7 +9,5 @@ country: "Spain"
 grapes: "Grenache"
 rating: "8.00"
 image: "images/f7/c20db1-6238-4e0e-adb5-15b25c50df61/2021-01-20-21-38-21-008B6BF0-4386-4770-85FA-60A81E36BE49.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f7/c20db1-6238-4e0e-adb5-15b25c50df61/2021-01-20-21-38-21-008B6BF0-4386-4770-85FA-60A81E36BE49.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f7/c20db1-6238-4e0e-adb5-15b25c50df61/2021-01-20-21-38-21-008B6BF0-4386-4770-85FA-60A81E36BE49.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

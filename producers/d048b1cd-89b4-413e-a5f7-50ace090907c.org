@@ -69,5 +69,11 @@
     <section class="h text-bolder">Viña Tondonia Tinto Reserva - 2007</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/7c02f810-b722-492d-a23e-40c1c1ef41f4.html">
+    <img class="flex-bottle" src="/images/7c/02f810-b722-492d-a23e-40c1c1ef41f4/2022-11-19-09-54-17-C0A8C98B-7FD6-4B57-A627-F861774DAFB2-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Viña Tondonia Tinto Reserva - 2010</section>
+  </a>
+
 </div>
 #+end_export
