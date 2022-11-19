@@ -9,20 +9,70 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 1772 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-17 - ☆ 7.75
+
+One more top Etna producer, but the result is flat. At least this wine is ready to be consumed today, unlike other wines of the evening. Overripe red fruits, raw meat and red flowers. Round, soft and elegant. But something is amiss in the palate. Still good.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/538e07c5-fd47-4b90-88e8-d6914f2bc23c.html">
+  <a class="flex-item flex-item-left" href="/wines/3d42539f-0795-4537-b849-dc36deb102d3.html">
+    <img class="flex-bottle" src="/images/3d/42539f-0795-4537-b849-dc36deb102d3/2022-11-19-12-38-15-84302EAE-5E49-4CE6-9081-78117479C17C.webp"></img>
+    <section class="h">Benanti</section>
+    <section class="h text-bolder">Pietra Marina Etna Bianco Superiore - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/538e07c5-fd47-4b90-88e8-d6914f2bc23c.html">
     <img class="flex-bottle" src="/images/53/8e07c5-fd47-4b90-88e8-d6914f2bc23c/2021-10-26-09-59-46-596E5B92-1C92-447E-965B-8772150EAC2F-1-105-c.webp"></img>
     <section class="h">Benanti</section>
     <section class="h text-bolder">Etna Rosso Serra della Contessa - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/235687dd-7472-4a7c-8470-5ec4185599db.html">
+    <img class="flex-bottle" src="/images/23/5687dd-7472-4a7c-8470-5ec4185599db/2022-11-18-09-08-45-B3D538E7-0935-43A6-B7A8-184185F03AFA-1-105-c.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosso Santo Spirito - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/53d8516b-2fc1-49dc-b037-30e81c64ff80.html">
+    <img class="flex-bottle" src="/images/53/d8516b-2fc1-49dc-b037-30e81c64ff80/2022-11-18-09-05-02-51EACC64-E31E-4013-B5C1-0A93DBB99235-1-105-c.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosso Calderara Sottana - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
+    <img class="flex-bottle" src="/images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Bianco Montalto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c.webp"></img>
+    <section class="h">Tenuta di Castellaro</section>
+    <section class="h text-bolder">Corinto - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
+    <img class="flex-bottle" src="/images/ac/c8bba0-3544-4983-b6d5-e2cfeb7405e7/2022-11-18-09-11-49-21A2348B-EDF5-491B-BCD0-212EBB3D4A74-1-105-c.webp"></img>
+    <section class="h">Biondi</section>
+    <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
+    <img class="flex-bottle" src="/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosso San Lorenzo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
+    <img class="flex-bottle" src="/images/e3/9daa48-d67c-406e-a0e9-5d0006070999/2022-11-18-09-06-22-A4693DA3-4050-4F55-B79C-62AB9CFD16CD-1-105-c.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
   </a>
 
 </div>

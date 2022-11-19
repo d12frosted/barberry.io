@@ -9,11 +9,13 @@
 - Alcohol :: 13
 - Sugar :: 1
 - Price :: 413 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-18 - ☆ 7.50
+
+Very nice rosé wine. Easy and funny to drink. Wild strawberry, ripe peach, and guelder rose (in a good way). Delicious with good structure and balance. Medium-bodied and relatively fresh. Great winery.
 
 ** Related
 
@@ -23,6 +25,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.webp"></img>
     <section class="h">Fattoria San Lorenzo</section>
     <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61.html">
+    <img class="flex-bottle" src="/images/0f/c1ad68-f002-4840-8fa8-d80c0e7f6b61/2022-11-19-11-07-36-B91AC071-158B-4014-AFBC-4B3765125DA8-1-105-c.webp"></img>
+    <section class="h">Jean Foillard</section>
+    <section class="h text-bolder">Morgon Cuveé Corcelette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/10fd74be-84d3-4393-838a-7577bb6bb046.html">
+    <img class="flex-bottle" src="/images/10/fd74be-84d3-4393-838a-7577bb6bb046/2022-11-19-11-01-10-2A8DF956-F9EE-4370-BC8F-698F6B8FA158-1-105-c.webp"></img>
+    <section class="h">Bruno Colin</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3d42539f-0795-4537-b849-dc36deb102d3.html">
+    <img class="flex-bottle" src="/images/3d/42539f-0795-4537-b849-dc36deb102d3/2022-11-19-12-38-15-84302EAE-5E49-4CE6-9081-78117479C17C.webp"></img>
+    <section class="h">Benanti</section>
+    <section class="h text-bolder">Pietra Marina Etna Bianco Superiore - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/895aeb9d-207a-43a3-9d0b-d0480cad8ea0.html">
+    <img class="flex-bottle" src="/images/89/5aeb9d-207a-43a3-9d0b-d0480cad8ea0/2022-11-19-11-05-28-277B286C-BF48-4528-B6FD-0B2707E1FC43-1-105-c.webp"></img>
+    <section class="h">Domaine Pavelot</section>
+    <section class="h text-bolder">Pernand-Vergelesses 1er Cru Ile des Vergelesses - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
+    <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Vignaverde - 2019</section>
   </a>
 
 </div>

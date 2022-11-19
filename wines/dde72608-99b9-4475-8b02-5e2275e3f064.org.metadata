@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Tenuta delle Terre Nere Etna Rosso San Lorenzo 2018"
-update: "2022-11-18"
+update: "2022-11-19"
 producer: "Tenuta delle Terre Nere"
 name: "Etna Rosso San Lorenzo"
 vintage: "2018"
 country: "Italy"
 grapes: "Nerello Mascalese, Nerello Cappuccio"
+rating: "8.25"
 image: "images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "769"
+image-height: "1024"
