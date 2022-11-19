@@ -4,16 +4,34 @@ Member of "bande des cinq", one of the beginners of natural wine movement in Bea
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/e463f4c4-0217-4f34-a587-d7a9bf384a92.html">
+  <a class="flex-item flex-item-left" href="/wines/077debf3-21a1-40a2-96cd-16475cf9dc12.html">
+    <img class="flex-bottle" src="/images/07/7debf3-21a1-40a2-96cd-16475cf9dc12/2021-12-03-09-27-14-E08A1F45-F0EA-4BAC-A731-D66326CC777A-1-105-c.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Fleurie - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e463f4c4-0217-4f34-a587-d7a9bf384a92.html">
     <img class="flex-bottle" src="/images/e4/63f4c4-0217-4f34-a587-d7a9bf384a92/2020-12-03-10-59-27-4380D26F-EDC0-45FC-9A65-975CD5189E89-1-105-c.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Morgon Classique - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8ba16651-36cb-44a9-b778-57776431425e.html">
+  <a class="flex-item flex-item-left" href="/wines/8ba16651-36cb-44a9-b778-57776431425e.html">
     <img class="flex-bottle" src="/images/8b/a16651-36cb-44a9-b778-57776431425e/2022-09-20-16-09-49-IMG-2341.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Morgon Classique - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61.html">
+    <img class="flex-bottle" src="/images/0f/c1ad68-f002-4840-8fa8-d80c0e7f6b61/2022-11-19-11-07-36-B91AC071-158B-4014-AFBC-4B3765125DA8-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Morgon Cuveé Corcelette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dd41a90c-21e7-4913-848f-7fa34f53bbcd.html">
+    <img class="flex-bottle" src="/images/dd/41a90c-21e7-4913-848f-7fa34f53bbcd/2021-12-03-09-38-00-2459E204-5D28-467E-A4E1-702EBEA3430E-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Morgon Côte du Py - 2019</section>
   </a>
 
 </div>

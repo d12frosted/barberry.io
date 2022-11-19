@@ -1,0 +1,34 @@
+{
+  "id": "077debf3-21a1-40a2-96cd-16475cf9dc12",
+  "name": "Fleurie",
+  "full-name": "Jean Foillard Fleurie 2018",
+  "producer": {
+    "id": "c03bbb9a-0e74-4e99-a4aa-aad5f7c4b26f",
+    "name": "Jean Foillard"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1013 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/07/7debf3-21a1-40a2-96cd-16475cf9dc12/2021-12-03-09-27-14-E08A1F45-F0EA-4BAC-A731-D66326CC777A-1-105-c.webp",
+  "rating": "8.25"
+}

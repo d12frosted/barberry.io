@@ -1,0 +1,34 @@
+{
+  "id": "dd41a90c-21e7-4913-848f-7fa34f53bbcd",
+  "name": "Morgon Côte du Py",
+  "full-name": "Jean Foillard Morgon Côte du Py 2019",
+  "producer": {
+    "id": "c03bbb9a-0e74-4e99-a4aa-aad5f7c4b26f",
+    "name": "Jean Foillard"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "976 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dd/41a90c-21e7-4913-848f-7fa34f53bbcd/2021-12-03-09-38-00-2459E204-5D28-467E-A4E1-702EBEA3430E-1-105-c.webp",
+  "rating": "8.0"
+}

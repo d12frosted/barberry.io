@@ -1,0 +1,45 @@
+#+attr_html: :class wine-main-image
+[[file:/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/5122a11b-3fed-4018-a965-37335da7785e][Chandon de Briailles]]
+- Vintage :: 2017
+- Location :: France, Pernand-Vergelesses AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: 1.1
+- Price :: 1550 UAH
+- Cellar :: N/A
+
+** Producer
+
+Chandon de Briailles is a family owned domaine located in the northern part of Côte de Beaune, spread across Savigny-lès-Beaune, Pernand-Vergelesses and Aloxe-Corton, in total over 13.7 hectares. On average, the domaine produces 50,000 bottles per year, of which 60% are exported.
+
+Domaine is owned by Count and Countess Aymard-Claude de Nicolay and managed by their children - Claude and [[barberry:/producers/163248a9-c9bc-498a-9107-0ab002f2ea9f][François de Nicolay]]. Claude was born in 1967, she went through prolific education of viticulture in Beaune and eonology in Dijon. François was born in 1970 and is primarily a businessman who started wine career in 1996 by undertaking a winemaking course in Oregon. Since 2001 the duo works in winery.
+
+In 2005 they started experimenting with biodynamics.
+
+** Ratings
+
+*** 2021-01-25 - ☆ 8.50
+
+This is beautiful and ephemeral. Cherry, candy, strawberry, autumn flowers, subtle hints of herbs. Perfectly balanced, evolving. Great tannins, long aftertaste. And boy, how long the aroma stays in the empty glass!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+    <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Le mie Origini - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+    <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
+  </a>
+
+</div>
+#+end_export

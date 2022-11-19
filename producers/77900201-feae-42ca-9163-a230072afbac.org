@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/10fd74be-84d3-4393-838a-7577bb6bb046.html">
+    <img class="flex-bottle" src="/images/10/fd74be-84d3-4393-838a-7577bb6bb046/2022-11-19-11-01-10-2A8DF956-F9EE-4370-BC8F-698F6B8FA158-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -63,7 +63,13 @@ Not sure if it's because of time or just a bottle variation, but the experience 
     <section class="h text-bolder">Skerpioen - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-right" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
+    <img class="flex-bottle" src="/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>
