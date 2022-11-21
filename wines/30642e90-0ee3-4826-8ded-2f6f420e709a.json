@@ -1,0 +1,46 @@
+{
+  "id": "30642e90-0ee3-4826-8ded-2f6f420e709a",
+  "name": "Brut Reserve L11556/04/18",
+  "full-name": "Weingut Bründlmayer Brut Reserve L11556/04/18 NV",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "March 2022",
+  "sur-lie": "18 months",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "1244da78-529e-4725-bd73-a924c641a33b",
+      "name": "Grüner Veltliner"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1241 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/30/642e90-0ee3-4826-8ded-2f6f420e709a/2022-11-20-20-36-08-AED12F07-5C2A-4404-9AF7-D788BDAE7A1D-1-102-o.webp",
+  "rating": "7.5"
+}
