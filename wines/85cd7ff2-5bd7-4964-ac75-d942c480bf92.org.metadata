@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Ca' del Bosco Franciacorta 44a Edizione Cuvée Prestige NV"
+update: "2022-11-22"
+producer: "Ca' del Bosco"
+name: "Franciacorta 44a Edizione Cuvée Prestige"
+vintage: "NV"
+country: "Italy"
+grapes: "Chardonnay, Pinot Noir, Pinot Blanc"
+rating: "7.50"
+image: "images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

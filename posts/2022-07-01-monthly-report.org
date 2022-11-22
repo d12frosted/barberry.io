@@ -49,7 +49,7 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
 | France       |    17 | 946.29 UAH   |  7.76 | 2.4337 |
-| Spain        |     9 | 652.07 UAH   |  7.46 | 3.1905 |
+| Spain        |     9 | 656.55 UAH   |  7.46 | 3.1660 |
 | South Africa |     8 | 972.88 UAH   |  7.90 | 3.0287 |
 | Italy        |     8 | 602.60 UAH   |  7.46 | 3.2484 |
 | Australia    |     4 | 638.75 UAH   |  7.02 | 2.2402 |
@@ -88,7 +88,7 @@ On the other hand, I've tasted several older bottles. The oldest of them is [[ba
 |    2020 |    11 | 783.57 UAH   |  7.55 | 2.5888 |
 |    2019 |    14 | 688.77 UAH   |  7.59 | 3.1096 |
 |    2018 |     5 | 804.32 UAH   |  7.85 | 2.7552 |
-|    2017 |     7 | 809.71 UAH   |  7.48 | 2.4656 |
+|    2017 |     7 | 815.48 UAH   |  7.48 | 2.4246 |
 |    2016 |     3 | 763.00 UAH   |  7.04 | 1.6808 |
 |    2015 |     1 | 496.84 UAH   |  7.50 | 3.3383 |
 |    2013 |     1 | 890.00 UAH   |  8.00 | 2.6966 |
@@ -121,10 +121,10 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 | Sauvignon Blanc              |     9 | 562.82 UAH   |  7.37 | 3.0001 |
 | Pinot Noir                   |     9 | 1 123.23 UAH |  7.94 | 2.3254 |
 | Chenin Blanc                 |     8 | 787.13 UAH   |  7.53 | 2.9072 |
-| Macabeo                      |     7 | 655.80 UAH   |  7.58 | 3.4318 |
+| Macabeo                      |     7 | 661.57 UAH   |  7.58 | 3.4024 |
 | Cabernet Sauvignon           |     4 | 741.00 UAH   |  7.09 | 1.7814 |
-| Parellada                    |     3 | 358.79 UAH   |  7.11 | 3.7709 |
-| Xarel-lo                     |     3 | 358.79 UAH   |  7.11 | 3.7709 |
+| Parellada                    |     3 | 372.24 UAH   |  7.11 | 3.7083 |
+| Xarel-lo                     |     3 | 372.24 UAH   |  7.11 | 3.7083 |
 | Merlot                       |     3 | 854.67 UAH   |  7.42 | 1.8658 |
 | Syrah                        |     2 | 910.50 UAH   |  7.31 | 1.6148 |
 | Malvasia di Candia Aromatica |     2 | 1 169.62 UAH |  8.28 | 2.8152 |
@@ -220,7 +220,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-15 | France       | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]                   | [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]]                                         |    2018 | 8.00 | 2.6374 |
 | 2022-06-14 | Spain        | [[barberry:/producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a][Jaume Serra]]                    | [[barberry:/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312][Jaume Serra Cava Brut Nature NV]]                                            |      NV | 6.50 | 3.7597 |
 | 2022-06-13 | Austria      | [[barberry:/producers/10ab4cea-5852-45b1-94bc-97e93fe33956][Weingut Tement]]                 | [[barberry:/wines/10032e11-4691-4634-8f36-ce7ed8c1dba2][Weingut Tement Temento Green 2020]]                                          |    2020 | 7.00 | 2.5564 |
-| 2022-06-12 | Spain        | [[barberry:/producers/27f09c7c-610f-4111-9ae2-13d02596411e][Juvé y Camps]]                   | [[barberry:/wines/52fe7333-bad2-4d23-b733-a3520704b5d2][Juvé y Camps Reserva de la Familia Gran Reserva Brut Nature 2017]]           |    2017 | 7.50 | 3.1835 |
+| 2022-06-12 | Spain        | [[barberry:/producers/27f09c7c-610f-4111-9ae2-13d02596411e][Juvé y Camps]]                   | [[barberry:/wines/52fe7333-bad2-4d23-b733-a3520704b5d2][Juvé y Camps Reserva de la Familia Gran Reserva Brut Nature 2017]]           |    2017 | 7.50 | 2.9547 |
 | 2022-06-12 | Greece       | [[barberry:/producers/f17f45c4-3a53-41d6-8ce4-5af676a7af04][Ktima Papaioannou]]              | [[barberry:/wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79][Ktima Papaioannou Malagouzia 2020]]                                          |    2020 | 7.25 | 3.8510 |
 | 2022-06-11 | Italy        | [[barberry:/producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5][Zeni]]                           | [[barberry:/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b][Zeni Garganega Veronesse Vigne Alte 2020]]                                   |    2020 | 7.00 | 1.9386 |
 | 2022-06-10 | Spain        | [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]            | [[barberry:/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b][R. López de Heredia Viña Gravonia Blanco Crianza 2013]]                      |    2013 | 8.00 | 2.6966 |
