@@ -1,0 +1,42 @@
+{
+  "id": "4e661d9a-1244-481e-84ba-ab532610a5b3",
+  "name": "Rosé",
+  "full-name": "Bollinger Rosé NV",
+  "producer": {
+    "id": "d66375d3-e0e3-4d7f-8787-55b74ac8fee3",
+    "name": "Bollinger"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "7.9",
+  "prices": [
+    "2550 UAH"
+  ],
+  "available": 0,
+  "image": "images/4e/661d9a-1244-481e-84ba-ab532610a5b3/2021-06-23-08-25-51-487AB824-EFD8-49D3-B0E0-CF07FAF6F200-1-105-c.webp",
+  "rating": "8.0"
+}

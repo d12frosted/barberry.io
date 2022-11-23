@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Bollinger R.D. 2007"
+update: "2022-11-23"
+producer: "Bollinger"
+name: "R.D."
+vintage: "2007"
+country: "France"
+grapes: "Pinot Noir, Chardonnay"
+rating: "9.00"
+image: "images/55/2c84fd-74eb-4e01-80cd-296daf070271/2021-06-23-08-35-59-3DAA10E2-84C5-407C-B571-543631A76405-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/55/2c84fd-74eb-4e01-80cd-296daf070271/2021-06-23-08-35-59-3DAA10E2-84C5-407C-B571-543631A76405-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/55/2c84fd-74eb-4e01-80cd-296daf070271/2021-06-23-08-35-59-3DAA10E2-84C5-407C-B571-543631A76405-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

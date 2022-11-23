@@ -1,0 +1,34 @@
+{
+  "id": "e4e90e65-228d-4605-a0f5-bf9681aa278c",
+  "name": "La Vizcaína La Del Vivo",
+  "full-name": "Raúl Pérez La Vizcaína La Del Vivo 2015",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.2",
+  "prices": [
+    "808 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e4/e90e65-228d-4605-a0f5-bf9681aa278c/2022-11-23-14-38-35-IMG-3337.webp",
+  "rating": "NA"
+}

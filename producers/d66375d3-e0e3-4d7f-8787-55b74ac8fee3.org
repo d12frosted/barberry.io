@@ -1,0 +1,37 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/987b00be-cc34-47f5-a4f0-f144b854d6a3.html">
+    <img class="flex-bottle" src="/images/98/7b00be-cc34-47f5-a4f0-f144b854d6a3/2021-06-23-08-26-07-5525CF0B-2641-4F88-8CA3-D7A770537A7F-1-105-c.webp"></img>
+    <section class="h">★ 9.00</section>
+    <section class="h text-bolder">La Grande Année - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d3fc1059-1422-485c-b08a-db292511d522.html">
+    <img class="flex-bottle" src="/images/d3/fc1059-1422-485c-b08a-db292511d522/2021-06-23-08-28-40-89B0A769-7779-4122-A073-ED55086F71AA-1-105-c.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">La Grande Année Rosé - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/552c84fd-74eb-4e01-80cd-296daf070271.html">
+    <img class="flex-bottle" src="/images/55/2c84fd-74eb-4e01-80cd-296daf070271/2021-06-23-08-35-59-3DAA10E2-84C5-407C-B571-543631A76405-1-105-c.webp"></img>
+    <section class="h">★ 9.00</section>
+    <section class="h text-bolder">R.D. - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4e661d9a-1244-481e-84ba-ab532610a5b3.html">
+    <img class="flex-bottle" src="/images/4e/661d9a-1244-481e-84ba-ab532610a5b3/2021-06-23-08-25-51-487AB824-EFD8-49D3-B0E0-CF07FAF6F200-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d.html">
+    <img class="flex-bottle" src="/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2021-06-23-07-53-15-603B5ACC-5A21-44A8-BD30-EEC15D124D8F-1-201-a.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Special Cuvée - NV</section>
+  </a>
+
+</div>
+#+end_export

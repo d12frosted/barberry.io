@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Bollinger La Grande Année 2012"
+update: "2022-11-23"
+producer: "Bollinger"
+name: "La Grande Année"
+vintage: "2012"
+country: "France"
+grapes: "Pinot Noir, Chardonnay"
+rating: "9.00"
+image: "images/98/7b00be-cc34-47f5-a4f0-f144b854d6a3/2021-06-23-08-26-07-5525CF0B-2641-4F88-8CA3-D7A770537A7F-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/98/7b00be-cc34-47f5-a4f0-f144b854d6a3/2021-06-23-08-26-07-5525CF0B-2641-4F88-8CA3-D7A770537A7F-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/98/7b00be-cc34-47f5-a4f0-f144b854d6a3/2021-06-23-08-26-07-5525CF0B-2641-4F88-8CA3-D7A770537A7F-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
