@@ -1,0 +1,34 @@
+{
+  "id": "209408b1-02f9-4cd0-97f2-fabe2b014c74",
+  "name": "Carmenero",
+  "full-name": "Ca' del Bosco Carmenero 2012",
+  "producer": {
+    "id": "56bcdb13-2a06-4ba9-8649-b5ebcba1c84a",
+    "name": "Ca' del Bosco"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "d0734331-9775-4415-aeeb-aefc412ed4f0",
+      "name": "Carménère"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.webp",
+  "rating": "7.5"
+}

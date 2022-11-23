@@ -4,7 +4,13 @@ Famous producer of sparkling wines from Lombardy. Produces still wines as well.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
+  <a class="flex-item flex-item-left" href="/wines/209408b1-02f9-4cd0-97f2-fabe2b014c74.html">
+    <img class="flex-bottle" src="/images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Carmenero - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
     <img class="flex-bottle" src="/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Franciacorta 44a Edizione Cuvée Prestige - NV</section>

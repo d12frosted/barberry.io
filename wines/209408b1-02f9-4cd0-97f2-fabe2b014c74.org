@@ -1,0 +1,53 @@
+#+attr_html: :class wine-main-image
+[[file:/images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/56bcdb13-2a06-4ba9-8649-b5ebcba1c84a][Ca' del Bosco]]
+- Vintage :: 2012
+- Location :: Italy, Vino (IT)
+- Grapes :: Carménère
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 1800 UAH
+- Cellar :: N/A
+
+** Producer
+
+Famous producer of sparkling wines from Lombardy. Produces still wines as well.
+
+** Ratings
+
+*** 2020-12-31 - ☆ 7.50
+
+Blind tasting. Named Pinot Nero from Northern Italy, but turned out to be Carmenere. Unexpected! Wet leaves, cherry, black fruits, jam, vanilla. Heavy oak influence. Silky, jammy with long aftertaste. Lacks balance and complexity, but still good.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
+    <img class="flex-bottle" src="/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.webp"></img>
+    <section class="h">Ca' del Bosco</section>
+    <section class="h text-bolder">Franciacorta 44a Edizione Cuvée Prestige - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bb6c1e33-7a85-4f88-81c0-b6cfa6ce799e.html">
+    <img class="flex-bottle" src="/images/bb/6c1e33-7a85-4f88-81c0-b6cfa6ce799e/2020-09-20-10-14-08-A3926C74-7B45-4BF0-A53D-85DF04570002-1-105-c.webp"></img>
+    <section class="h">An Approach To Relaxation</section>
+    <section class="h text-bolder">Sucette - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
+  </a>
+
+</div>
+#+end_export
