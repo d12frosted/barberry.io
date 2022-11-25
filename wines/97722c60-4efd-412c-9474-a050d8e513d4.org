@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Rose Sparkling, Extra brut
+- Producer :: [[barberry:/producers/6c0d7068-c072-49c5-980a-9f45b4d24541][De Sousa]]
+- Vintage :: NV
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 5
+- Price :: 3906 UAH
+- Cellar :: N/A
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
+    <img class="flex-bottle" src="/images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvee des Caudalies Grand Cru Blanc De Blancs - NV</section>
+  </a>
+
+</div>
+#+end_export

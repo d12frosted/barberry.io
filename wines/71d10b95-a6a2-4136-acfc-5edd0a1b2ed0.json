@@ -1,0 +1,34 @@
+{
+  "id": "71d10b95-a6a2-4136-acfc-5edd0a1b2ed0",
+  "name": "Cuvee des Caudalies Grand Cru Blanc De Blancs",
+  "full-name": "De Sousa Cuvee des Caudalies Grand Cru Blanc De Blancs NV",
+  "producer": {
+    "id": "6c0d7068-c072-49c5-980a-9f45b4d24541",
+    "name": "De Sousa"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "5",
+  "prices": [
+    "1947 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a.webp",
+  "rating": "8.5"
+}
