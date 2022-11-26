@@ -1,7 +1,7 @@
 publish: "false"
 hide: "false"
 title: "Ca' del Bosco Carmenero 2012"
-update: "2022-11-23"
+update: "2022-11-26"
 producer: "Ca' del Bosco"
 name: "Carmenero"
 vintage: "2012"
@@ -9,7 +9,5 @@ country: "Italy"
 grapes: "Carménère"
 rating: "7.50"
 image: "images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/20/9408b1-02f9-4cd0-97f2-fabe2b014c74/2021-01-02-10-38-35-AD412A19-DA0A-43D1-A57C-F8BE747F805C-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Château de Béru Chablis Terroirs de Béru 2018"
+update: "2022-11-26"
+producer: "Château de Béru"
+name: "Chablis Terroirs de Béru"
+vintage: "2018"
+country: "France"
+grapes: "Chardonnay"
+image: "images/35/51af35-bcd8-4ffe-9469-1db978e30760/2022-11-26-11-19-23-26FFF051-DC18-49D3-A2FE-4393B2F0D5E0-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/35/51af35-bcd8-4ffe-9469-1db978e30760/2022-11-26-11-19-23-26FFF051-DC18-49D3-A2FE-4393B2F0D5E0-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/35/51af35-bcd8-4ffe-9469-1db978e30760/2022-11-26-11-19-23-26FFF051-DC18-49D3-A2FE-4393B2F0D5E0-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

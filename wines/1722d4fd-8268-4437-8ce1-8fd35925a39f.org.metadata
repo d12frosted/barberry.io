@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Domaine Marchand & Fils Kimmeridgian 2019"
+update: "2022-11-26"
+producer: "Domaine Marchand & Fils"
+name: "Kimmeridgian"
+vintage: "2019"
+country: "France"
+grapes: "Sauvignon Blanc"
+image: "images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

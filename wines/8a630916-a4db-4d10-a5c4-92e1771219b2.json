@@ -1,0 +1,38 @@
+{
+  "id": "8a630916-a4db-4d10-a5c4-92e1771219b2",
+  "name": "Dame-Jane Rosé",
+  "full-name": "Henri Giraud Dame-Jane Rosé NV",
+  "producer": {
+    "id": "7000ca7e-313f-49a9-8506-2d54cb25b0d1",
+    "name": "Henri Giraud"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "6.8",
+  "prices": [
+    "2990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/8a/630916-a4db-4d10-a5c4-92e1771219b2/2022-11-26-11-12-02-92231BDD-1A4B-4EEE-9F6A-D1F767251FD6-1-105-c.webp",
+  "rating": "NA"
+}

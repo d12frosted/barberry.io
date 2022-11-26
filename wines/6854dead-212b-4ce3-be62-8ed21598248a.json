@@ -1,0 +1,34 @@
+{
+  "id": "6854dead-212b-4ce3-be62-8ed21598248a",
+  "name": "Albillo Mayor",
+  "full-name": "Dominio de Atauta Albillo Mayor 2020",
+  "producer": {
+    "id": "746e6470-cf63-4133-add0-6e8ff5041662",
+    "name": "Dominio de Atauta"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "784ae244-2884-4ace-8c39-d412b6e8d283",
+      "name": "Albillo Mayor"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1190 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/68/54dead-212b-4ce3-be62-8ed21598248a/2022-11-26-11-21-33-A5E88513-9801-400D-B575-88329E72BE20-1-105-c.webp",
+  "rating": "NA"
+}

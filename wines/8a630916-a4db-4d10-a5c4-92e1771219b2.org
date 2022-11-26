@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/8a/630916-a4db-4d10-a5c4-92e1771219b2/2022-11-26-11-12-02-92231BDD-1A4B-4EEE-9F6A-D1F767251FD6-1-105-c.webp]]
+
+- Type :: Rose Sparkling, Brut
+- Producer :: [[barberry:/producers/7000ca7e-313f-49a9-8506-2d54cb25b0d1][Henri Giraud]]
+- Vintage :: NV
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12
+- Sugar :: 6.8
+- Price :: 2990 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7b4d6426-561d-4049-9c37-36ae57a2b4bd.html">
+    <img class="flex-bottle" src="/images/7b/4d6426-561d-4049-9c37-36ae57a2b4bd/2022-11-26-10-57-20-853FAA03-2877-4A22-9D21-15C2847F8397-1-105-c.webp"></img>
+    <section class="h">Henri Giraud</section>
+    <section class="h text-bolder">Esprit Nature - NV</section>
+  </a>
+
+</div>
+#+end_export

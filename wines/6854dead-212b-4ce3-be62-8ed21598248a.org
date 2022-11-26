@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/68/54dead-212b-4ce3-be62-8ed21598248a/2022-11-26-11-21-33-A5E88513-9801-400D-B575-88329E72BE20-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/746e6470-cf63-4133-add0-6e8ff5041662][Dominio de Atauta]]
+- Vintage :: 2020
+- Location :: Spain, Ribera del Duero DO
+- Grapes :: Albillo Mayor
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 1190 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e0ed869d-ddd5-4b79-93a5-da18b19ed8f0.html">
+    <img class="flex-bottle" src="/images/e0/ed869d-ddd5-4b79-93a5-da18b19ed8f0/2020-09-02-11-22-00-FFFD3922-6E78-47FB-94D6-15B479D853EA-1-105-c.webp"></img>
+    <section class="h">Dominio de Atauta</section>
+    <section class="h text-bolder">Tinto - 2016</section>
+  </a>
+
+</div>
+#+end_export
