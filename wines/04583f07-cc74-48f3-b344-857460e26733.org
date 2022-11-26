@@ -9,9 +9,65 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 839 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-25 - ☆ 7.50
 
+Good Médoc. Slightly tired but pleasant to drink, especially combined with tartar. Casis marmalade delight covered in sugar, mildew, wet earth-covered mushrooms and an old dried humidor. Round, well balanced, though it lacks acidity. Very friendly wine.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1722d4fd-8268-4437-8ce1-8fd35925a39f.html">
+    <img class="flex-bottle" src="/images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.webp"></img>
+    <section class="h">Domaine Marchand & Fils</section>
+    <section class="h text-bolder">Kimmeridgian - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3551af35-bcd8-4ffe-9469-1db978e30760.html">
+    <img class="flex-bottle" src="/images/35/51af35-bcd8-4ffe-9469-1db978e30760/2022-11-26-11-19-23-26FFF051-DC18-49D3-A2FE-4393B2F0D5E0-1-105-c.webp"></img>
+    <section class="h">Château de Béru</section>
+    <section class="h text-bolder">Chablis Terroirs de Béru - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+    <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L19.07/2022 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6854dead-212b-4ce3-be62-8ed21598248a.html">
+    <img class="flex-bottle" src="/images/68/54dead-212b-4ce3-be62-8ed21598248a/2022-11-26-11-21-33-A5E88513-9801-400D-B575-88329E72BE20-1-105-c.webp"></img>
+    <section class="h">Dominio de Atauta</section>
+    <section class="h text-bolder">Albillo Mayor - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/735584d3-d0f5-4938-89b3-743529ed2e2c.html">
+    <img class="flex-bottle" src="/images/73/5584d3-d0f5-4938-89b3-743529ed2e2c/2022-10-29-13-32-18-5D7D3099-395D-40D5-8504-E954096F76D3-1-105-c.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Village Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7b4d6426-561d-4049-9c37-36ae57a2b4bd.html">
+    <img class="flex-bottle" src="/images/7b/4d6426-561d-4049-9c37-36ae57a2b4bd/2022-11-26-10-57-20-853FAA03-2877-4A22-9D21-15C2847F8397-1-105-c.webp"></img>
+    <section class="h">Henri Giraud</section>
+    <section class="h text-bolder">Esprit Nature - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8a630916-a4db-4d10-a5c4-92e1771219b2.html">
+    <img class="flex-bottle" src="/images/8a/630916-a4db-4d10-a5c4-92e1771219b2/2022-11-26-11-12-02-92231BDD-1A4B-4EEE-9F6A-D1F767251FD6-1-105-c.webp"></img>
+    <section class="h">Henri Giraud</section>
+    <section class="h text-bolder">Dame-Jane Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/edaf36b4-74ae-4bb0-8724-514037582de0.html">
+    <img class="flex-bottle" src="/images/ed/af36b4-74ae-4bb0-8724-514037582de0/2022-11-26-10-49-45-ED2434CD-F589-4DFC-9D92-31A075619D4D-1-105-c.webp"></img>
+    <section class="h">Enderle&Moll</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+</div>
+#+end_export
