@@ -1,14 +1,12 @@
 publish: "false"
 hide: "false"
 title: "Krasna Hora Sauvignon Blanc 2021"
-update: "2022-11-25"
+update: "2022-11-26"
 producer: "Krasna Hora"
 name: "Sauvignon Blanc"
 vintage: "2021"
 country: "Czech Republic"
 grapes: "Sauvignon Blanc"
 image: "images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

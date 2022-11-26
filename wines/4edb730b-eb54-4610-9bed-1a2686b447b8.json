@@ -1,0 +1,34 @@
+{
+  "id": "4edb730b-eb54-4610-9bed-1a2686b447b8",
+  "name": "de Sol a Sol Tinaja Airén",
+  "full-name": "Esencia Rural de Sol a Sol Tinaja Airén 2019",
+  "producer": {
+    "id": "19d48e6b-0f44-4f3a-86d5-9838b1d03233",
+    "name": "Esencia Rural"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "a10a280e-787d-4bd8-bfd2-e6e2c0729a07",
+      "name": "Airén"
+    }
+  ],
+  "alcohol": "13.6",
+  "sugar": "1.7",
+  "prices": [
+    "505 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4e/db730b-eb54-4610-9bed-1a2686b447b8/2022-11-26-10-37-30-IMG-3395.webp",
+  "rating": "NA"
+}

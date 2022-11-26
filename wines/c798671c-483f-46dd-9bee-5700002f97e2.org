@@ -47,19 +47,25 @@ profile. Good value.
     <section class="h text-bolder">Herr Gewürtz - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9dd2628d-c95d-4da9-b807-a667b8962163.html">
+  <a class="flex-item flex-item-right" href="/wines/60d26b16-bed9-4237-b56c-e78c98cd935f.html">
+    <img class="flex-bottle" src="/images/60/d26b16-bed9-4237-b56c-e78c98cd935f/2022-11-26-10-39-00-IMG-3405.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9dd2628d-c95d-4da9-b807-a667b8962163.html">
     <img class="flex-bottle" src="/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
+  <a class="flex-item flex-item-left" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
     <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c.webp"></img>
     <section class="h">Alta Alella</section>
     <section class="h text-bolder">Aus Pet Nat - 2020</section>
