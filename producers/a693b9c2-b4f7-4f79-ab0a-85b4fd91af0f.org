@@ -9,6 +9,18 @@
     <section class="h text-bolder">Festejar! Rosé - 2021</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/1e205bfb-2c28-457c-9949-c1923f812815.html">
+    <img class="flex-bottle" src="/images/1e/205bfb-2c28-457c-9949-c1923f812815/2022-11-25-16-56-31-IMG-3393.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">G&M - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/734060fe-341f-4b07-846a-16cde2b07134.html">
+    <img class="flex-bottle" src="/images/73/4060fe-341f-4b07-846a-16cde2b07134/2022-11-25-16-58-22-IMG-3398.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">J - 2020</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/d991a33a-24c0-4764-95b8-58410324083c.html">
     <img class="flex-bottle" src="/images/d9/91a33a-24c0-4764-95b8-58410324083c/2021-07-23-07-42-35-IMG-2651.webp"></img>
     <section class="h">★ 7.40</section>

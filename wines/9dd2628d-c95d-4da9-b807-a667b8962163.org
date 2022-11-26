@@ -1,0 +1,57 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]
+- Vintage :: 2021
+- Location :: Czech Republic, Moravia
+- Grapes :: Sauvignon Blanc
+- Alcohol :: 12.5
+- Sugar :: 0.4
+- Price :: 550 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Small wine producer from Czech Republic.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Ruby - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
+    <img class="flex-bottle" src="/images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Viktoria - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+    <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Herr Gewürtz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+    <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,34 @@
+{
+  "id": "c8184b57-41f6-4273-a8dc-7b0212e5a1fa",
+  "name": "Taurasi",
+  "full-name": "Feudi di San Gregorio Taurasi 2000",
+  "producer": {
+    "id": "e9a07255-1376-4b70-bbf2-0d358bff215a",
+    "name": "Feudi di San Gregorio"
+  },
+  "vintage": "2000",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "09807444-0445-4b57-9f04-0d26b8e444a3",
+      "name": "Aglianico"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.8",
+  "prices": [
+    "3135 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.webp",
+  "rating": "NA"
+}

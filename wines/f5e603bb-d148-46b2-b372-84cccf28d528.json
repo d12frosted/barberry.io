@@ -1,0 +1,38 @@
+{
+  "id": "f5e603bb-d148-46b2-b372-84cccf28d528",
+  "name": "Tikka The Cosmic Cat",
+  "full-name": "Jauma Tikka The Cosmic Cat 2018",
+  "producer": {
+    "id": "85c67ac6-c09f-4ceb-9a49-2f08a20fb25a",
+    "name": "Jauma"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.1",
+  "prices": [
+    "793 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f5/e603bb-d148-46b2-b372-84cccf28d528/2022-11-25-16-33-46-IMG-3366.webp",
+  "rating": "NA"
+}

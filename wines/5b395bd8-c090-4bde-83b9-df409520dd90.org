@@ -21,7 +21,13 @@ Pale amber colour, complex and non-fruit-forward bouquet - gouache, cedar nut, d
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/809b126c-20d4-4a87-9c0f-fd297198781b.html">
+  <a class="flex-item flex-item-left" href="/wines/03818b31-2394-4714-a11c-42ce9cda25cf.html">
+    <img class="flex-bottle" src="/images/03/818b31-2394-4714-a11c-42ce9cda25cf/2022-11-25-17-00-27-IMG-3403.webp"></img>
+    <section class="h">Tchotiashvili</section>
+    <section class="h text-bolder">Rkatsiteli Rcheuli Qvevri - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/809b126c-20d4-4a87-9c0f-fd297198781b.html">
     <img class="flex-bottle" src="/images/80/9b126c-20d4-4a87-9c0f-fd297198781b/2022-10-14-08-44-49-149693E7-6ED4-41B1-97F1-15FD709339F5-1-105-c.webp"></img>
     <section class="h">Tchotiashvili</section>
     <section class="h text-bolder">Khikhvi Rcheuli Qvevri - 2017</section>

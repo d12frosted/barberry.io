@@ -41,5 +41,11 @@ The first magnum in my life. And what a wine! Since 2014 was not simple year, St
     <section class="h text-bolder">Choltempo Fiorello - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
+    <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Carjcanti - 2017</section>
+  </a>
+
 </div>
 #+end_export

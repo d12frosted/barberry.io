@@ -36,5 +36,11 @@ Better pair with some meat.
     <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/c8184b57-41f6-4273-a8dc-7b0212e5a1fa.html">
+    <img class="flex-bottle" src="/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.webp"></img>
+    <section class="h">Feudi di San Gregorio</section>
+    <section class="h text-bolder">Taurasi - 2000</section>
+  </a>
+
 </div>
 #+end_export

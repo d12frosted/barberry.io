@@ -1,0 +1,42 @@
+{
+  "id": "2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88",
+  "name": "Viktoria",
+  "full-name": "Krasna Hora Viktoria 2019",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.5",
+  "prices": [
+    "602 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385.webp",
+  "rating": "NA"
+}

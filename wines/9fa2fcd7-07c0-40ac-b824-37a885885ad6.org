@@ -189,5 +189,11 @@ A wine that we struggled with for the whole evening. Unexpected funkiness for su
     <section class="h text-bolder">Nero Ossidiana - 2015</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/e8620abd-4485-4fe3-8cb2-4bccc2294031.html">
+    <img class="flex-bottle" src="/images/e8/620abd-4485-4fe3-8cb2-4bccc2294031/2020-07-09-07-49-18-CF23C6EA-F16F-4D8E-BF80-1422A84CE487-1-105-c.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">neroBaronj - 2015</section>
+  </a>
+
 </div>
 #+end_export

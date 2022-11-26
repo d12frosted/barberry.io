@@ -1,0 +1,50 @@
+#+attr_html: :class wine-main-image
+[[file:/images/f5/e603bb-d148-46b2-b372-84cccf28d528/2022-11-25-16-33-46-IMG-3366.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/85c67ac6-c09f-4ceb-9a49-2f08a20fb25a][Jauma]]
+- Vintage :: 2018
+- Location :: Australia, McLaren Vale
+- Grapes :: Syrah, Grenache
+- Alcohol :: 11.5
+- Sugar :: 0.1
+- Price :: 793 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Adelaide Hills is home to many incredible wineries that turn the perception of Australian wines upside down. They can be light, fun and still be fine and complex. Jauma is a small farm and winery from Lenswood, Peramangk Country. The name comes after the Catalan variant of its owner's first name - James Erskine, award-winning ex-sommelier and now a prominent winemaker.
+
+#+caption: Photo by [[https://www.jauma.com/home][jauma.com]]
+[[file:/images/f5/e603bb-d148-46b2-b372-84cccf28d528/2022-08-22-14-06-07-a13178-19225d71ca0a44b59b25f30e96c930ce~mv2.webp]]
+
+Akin to Anton van Klopper from [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]], James worked in the hospitality business before jumping the fence to the world of wines. Over the years, James earnt an Honours Degree in Agricultural Science (Oenology), a sommelier of the year gong, and topped the class at the Court of Master Sommeliers exams in Melbourne in 2008.
+
+Yet winemaking attracted James. Even at the peak of his sommelier career, James spent plenty of hours among the vines. As a member of The Natural Selection Theory, he worked on experimental wines with Sam Hughes, Anton van Klopper, and Tom Shobbrook.
+
+From this experience, Jauma was born in 2010. Their first harvest happened in the same year. James sourced grapes from McLaren Vale instead of Adelaide Hills. In 2011 he met a like-minded grower in Fiona Wood. Since then, she has helped James with leased vineyards.
+
+Jauma Farm in Lenswood, Peramangk Country, was purchased by James in 2018. He planted it with Chenin Blanc, Savagnin, Cabernet Franc, Gewürztraminer, Pinot Gris and Sauvignon Blanc. And in the years to come, we shall see wines produced from James' own grapes.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1712fbad-bd80-496b-a42c-fbba26f058f9.html">
+    <img class="flex-bottle" src="/images/17/12fbad-bd80-496b-a42c-fbba26f058f9/2022-08-12-12-19-18-IMG-1457.webp"></img>
+    <section class="h">Jauma</section>
+    <section class="h text-bolder">Audrey's Fairygarten - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85e7c16e-5b10-466f-ac81-f7a76a032867.html">
+    <img class="flex-bottle" src="/images/85/e7c16e-5b10-466f-ac81-f7a76a032867/2022-11-25-16-59-23-IMG-3400.webp"></img>
+    <section class="h">Jauma</section>
+    <section class="h text-bolder">Archies - 2017</section>
+  </a>
+
+</div>
+#+end_export

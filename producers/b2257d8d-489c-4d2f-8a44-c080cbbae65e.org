@@ -24,5 +24,11 @@ Etna, Sicily, around 26 ha of vineyards, half is sold, half is turned into wine.
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82.html">
+    <img class="flex-bottle" src="/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Etna Rosso San Lorenzo - 2017</section>
+  </a>
+
 </div>
 #+end_export

@@ -37,10 +37,22 @@ Apparently, it spent in contact with the skin longer than expected. Which result
     <section class="h text-bolder">Ruby - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
+  <a class="flex-item flex-item-right" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
+    <img class="flex-bottle" src="/images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Viktoria - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/352e4d78-5c2e-4a1b-abac-fd34dd192900.html">
     <img class="flex-bottle" src="/images/35/2e4d78-5c2e-4a1b-abac-fd34dd192900/2020-12-27-13-13-28-96A8BB45-D04B-416C-B3D3-15D43DAE5A7E-1-105-c.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Herr Gewürtz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9dd2628d-c95d-4da9-b807-a667b8962163.html">
+    <img class="flex-bottle" src="/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">

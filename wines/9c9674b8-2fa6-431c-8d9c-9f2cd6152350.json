@@ -1,0 +1,34 @@
+{
+  "id": "9c9674b8-2fa6-431c-8d9c-9f2cd6152350",
+  "name": "neroBaronj",
+  "full-name": "Gulfi neroBaronj 2012",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2",
+  "prices": [
+    "928 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9c/9674b8-2fa6-431c-8d9c-9f2cd6152350/2021-11-30-09-20-03-7E4E7828-F303-46BA-B196-6E6AB039D60D-1-105-c.webp",
+  "rating": "8.0"
+}

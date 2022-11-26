@@ -21,5 +21,11 @@
     <section class="h text-bolder">Serpico - 2005</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/c8184b57-41f6-4273-a8dc-7b0212e5a1fa.html">
+    <img class="flex-bottle" src="/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Taurasi - 2000</section>
+  </a>
+
 </div>
 #+end_export

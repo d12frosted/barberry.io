@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c7/53c2d5-d002-4f72-9c8d-d97370f984f4/2021-08-20-08-37-40-0B352E89-1191-4E8E-B0D8-CFBDAE020E6D-1-105-c.webp]]
+
+- Type :: Rose Sparkling, Brut
+- Producer :: [[barberry:/producers/0c98eed2-b010-480b-b2ab-ab4cec83d01f][Chartron et Trébuchet]]
+- Vintage :: 2018
+- Location :: France, Crémant de Bourgogne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: 7.6
+- Price :: 415 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-08-19 - ☆ 7.25
+
+Easy going and friendly bubbles. Traditional method, 100% Pinot Noir. Strawberry, yeast, cream soda and marzipan. Delicate nose, well balanced and quaffable.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/761b7e33-8d8b-4d09-bcde-5477a38c1eac.html">
+    <img class="flex-bottle" src="/images/76/1b7e33-8d8b-4d09-bcde-5477a38c1eac/2022-11-25-16-50-00-IMG-3382.webp"></img>
+    <section class="h">Chartron et Trébuchet</section>
+    <section class="h text-bolder">Crémant de Bourgogne - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+    <img class="flex-bottle" src="/images/4a/2db391-157a-45ac-9fcf-f44ad28d7548/2021-08-20-08-51-33-DA309637-829D-4D3D-88BF-0123CAE0775A-1-105-c.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Brutal Orange - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5104ba18-b7e1-4ee1-9145-87a861120c78.html">
+    <img class="flex-bottle" src="/images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp"></img>
+    <section class="h">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+    <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c.webp"></img>
+    <section class="h">Weinert</section>
+    <section class="h text-bolder">Montfleury - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -33,6 +33,18 @@ straightforward.
     <section class="h text-bolder">Ruby - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
+    <img class="flex-bottle" src="/images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Viktoria - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9dd2628d-c95d-4da9-b807-a667b8962163.html">
+    <img class="flex-bottle" src="/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2021</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Krasna Hora</section>
