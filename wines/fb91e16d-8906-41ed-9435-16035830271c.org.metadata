@@ -1,7 +1,7 @@
 publish: "false"
 hide: "false"
 title: "Fedellos do Couto Cortezada 2017"
-update: "2022-11-15"
+update: "2022-11-27"
 producer: "Fedellos do Couto"
 name: "Cortezada"
 vintage: "2017"
@@ -9,7 +9,5 @@ country: "Spain"
 grapes: "Mencía"
 rating: "7.75"
 image: "images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
