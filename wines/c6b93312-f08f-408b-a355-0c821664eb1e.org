@@ -37,6 +37,18 @@ Great Malvasia from the Canary Islands. Oxidised apple, tilia honey, machine oil
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/29553f8f-4097-4388-8f0b-e7719b224831.html">
+    <img class="flex-bottle" src="/images/29/553f8f-4097-4388-8f0b-e7719b224831/2022-11-27-10-26-36-IMG-3448.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Las Migas - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/394855cf-0371-4428-8c28-626705296436.html">
+    <img class="flex-bottle" src="/images/39/4855cf-0371-4428-8c28-626705296436/2022-11-27-10-29-49-IMG-3458.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Negramoll - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a.html">
     <img class="flex-bottle" src="/images/b8/69e1d7-0bc5-4eaa-ab69-a436b48ba75a/2022-08-12-12-23-48-IMG-1462.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
@@ -47,6 +59,18 @@ Great Malvasia from the Canary Islands. Oxidised apple, tilia honey, machine oil
     <img class="flex-bottle" src="/images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-11-19-09-27-03-7AF7C3C8-9559-42E2-92A5-C32091763D9E-1-105-c.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Vino de Solera de Listán Blanco - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3b0dfb8-fa48-44dc-b8be-8167de8fd166.html">
+    <img class="flex-bottle" src="/images/e3/b0dfb8-fa48-44dc-b8be-8167de8fd166/2022-11-27-10-28-42-IMG-3453.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Negramoll Piezas N1 - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f8e0763f-4b2b-4006-a4bd-5a70b5024356.html">
+    <img class="flex-bottle" src="/images/f8/e0763f-4b2b-4006-a4bd-5a70b5024356/2022-11-27-10-31-07-IMG-3463.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Las Rosas Listán Negro - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">

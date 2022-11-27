@@ -1,0 +1,34 @@
+{
+  "id": "f8e0763f-4b2b-4006-a4bd-5a70b5024356",
+  "name": "Las Rosas Listán Negro",
+  "full-name": "Victoria E. Torres Pecis Las Rosas Listán Negro 2018",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "be8ce46e-df1c-4cdc-94b7-675296816ddf",
+      "name": "Listán Negro"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "942 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f8/e0763f-4b2b-4006-a4bd-5a70b5024356/2022-11-27-10-31-07-IMG-3463.webp",
+  "rating": "NA"
+}
