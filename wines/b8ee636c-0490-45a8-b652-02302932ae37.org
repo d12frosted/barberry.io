@@ -9,13 +9,17 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 836 UAH, 861 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2021-12-02 - ☆ 8.00
 
 Amazing wine and not typical for Sicily, which kind of makes sense having in mind that it originates from Lipari (Aeoilian Islands) and is made from Corinto blended with Nero d'Avola. Elegant and ripe bouquet: cherry, plum, spices, medicinal herbs, musk. Juicy, almost perfectly balanced with velvety texture. Quaffable to the treacherous point, where bottle ends in no time.
+
+*** 2022-11-27 - ☆ 7.50
+
+Jeepers creepers! This wine didn't age that well. It's like an overripe plum; you can split it into threads. Decaying is real, boys, and it's so lonely on a limb. Imagine a black currant marmalade candy covered in sugar made by Roshen. Mix it with this rotting plum, and add some chocolate and medicinal herbs. It's a cocktail of 10-year-old Bordeaux and Nero d'Avola from Pachino. Ripe and powerful, yet as friendly as Die Hard on a Christmas holiday evening. Over time it gets too polished and boring.
 
 ** Related
 
@@ -27,22 +31,34 @@ Amazing wine and not typical for Sicily, which kind of makes sense having in min
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+  <a class="flex-item flex-item-right" href="/wines/5593feab-1336-4276-825b-94b1cd627f56.html">
+    <img class="flex-bottle" src="/images/55/93feab-1336-4276-825b-94b1cd627f56/2022-11-27-10-34-48-IMG-3470.webp"></img>
+    <section class="h">Domaine Jean-Louis Tissot</section>
+    <section class="h text-bolder">Crémant du Jura Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
     <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+  <a class="flex-item flex-item-right" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
     <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2021-12-04-11-00-08-F61FE783-2960-4121-9095-1D9A3F9BE8F0-1-105-c.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
+    <img class="flex-bottle" src="/images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c.webp"></img>
+    <section class="h">Ca' di Mat</section>
+    <section class="h text-bolder">Fuente de los Huertos - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">

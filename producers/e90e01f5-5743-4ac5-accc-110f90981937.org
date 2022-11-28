@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Speziale Verduno Pelaverga - 2019</section>
+  </a>
+
+</div>
+#+end_export
