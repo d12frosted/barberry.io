@@ -23,13 +23,14 @@
       "name": "Grillo"
     }
   ],
-  "alcohol": "11",
+  "alcohol": "11.5",
   "sugar": "3",
   "prices": [
+    "1013 UAH",
     "1042 UAH",
     "930 UAH"
   ],
-  "available": 1.0,
-  "image": "images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2021-12-23-08-24-22-27D7FC05-D34B-4D11-9C9E-1A08FA8BFF0F-1-105-c.webp",
+  "available": 2.0,
+  "image": "images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488.webp",
   "rating": "8.0"
 }

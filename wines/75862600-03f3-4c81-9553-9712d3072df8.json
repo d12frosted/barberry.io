@@ -8,8 +8,8 @@
   },
   "vintage": "2017",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "September 2022",
+  "sur-lie": "60 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -28,11 +28,11 @@
     }
   ],
   "alcohol": "12",
-  "sugar": "4",
+  "sugar": "3",
   "prices": [
     "2595 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/75/862600-03f3-4c81-9553-9712d3072df8/2022-11-29-10-36-19-IMG-3485.webp",
   "rating": "NA"
 }

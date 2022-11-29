@@ -22,9 +22,9 @@ Interesting Chardonnay. Oil, oak, brioche, creme brulee, butter and apples. Deep
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499.webp"></img>
     <section class="h">De Sousa</section>
-    <section class="h text-bolder">Cuvée des Caudalies Rosé - NV</section>
+    <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
   </a>
 
 </div>

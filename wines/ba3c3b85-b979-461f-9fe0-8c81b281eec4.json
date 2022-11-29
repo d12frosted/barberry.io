@@ -1,6 +1,6 @@
 {
   "id": "ba3c3b85-b979-461f-9fe0-8c81b281eec4",
-  "name": "Blanc de Blancs Extra Brut Reserve",
+  "name": "Blanc de Blancs Extra Brut Reserve L11778/08/15",
   "full-name": "Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV",
   "producer": {
     "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
@@ -8,7 +8,7 @@
   },
   "vintage": "NV",
   "base-vintage": null,
-  "degorgee": null,
+  "degorgee": "02 February 2022",
   "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
@@ -28,7 +28,7 @@
   "prices": [
     "1627 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.webp",
   "rating": "NA"
 }
