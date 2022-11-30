@@ -9,7 +9,5 @@ country: "Italy"
 grapes: "Barbera"
 rating: "7.00"
 image: "images/f0/db84a1-8b0c-44aa-9647-cdf0dc9f4e6b/2020-10-31-09-31-08-4EEFF3DD-EDE8-4AAB-94F1-DB4D70F66ABE-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f0/db84a1-8b0c-44aa-9647-cdf0dc9f4e6b/2020-10-31-09-31-08-4EEFF3DD-EDE8-4AAB-94F1-DB4D70F66ABE-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f0/db84a1-8b0c-44aa-9647-cdf0dc9f4e6b/2020-10-31-09-31-08-4EEFF3DD-EDE8-4AAB-94F1-DB4D70F66ABE-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

@@ -9,7 +9,5 @@ country: "Italy"
 grapes: "Nero d'Avola"
 rating: "7.75"
 image: "images/1d/9306ed-fdb5-4795-b925-e94f35a02930/2020-10-27-10-15-54-9FE4BA6E-4084-46AC-9B5B-F3F676D81BF6-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1d/9306ed-fdb5-4795-b925-e94f35a02930/2020-10-27-10-15-54-9FE4BA6E-4084-46AC-9B5B-F3F676D81BF6-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1d/9306ed-fdb5-4795-b925-e94f35a02930/2020-10-27-10-15-54-9FE4BA6E-4084-46AC-9B5B-F3F676D81BF6-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

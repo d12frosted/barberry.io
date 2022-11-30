@@ -9,9 +9,35 @@
 - Alcohol :: 11.5
 - Sugar :: 9
 - Price :: 1042 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-11-29 - ☆ 7.25
 
+I was curious to taste this wine. Common, sparkling Viura from Rioja! It turned out to be rather simple and straightforward bubbles, yet pleasant, easy-to-understand and friendly. Some toast, apples, honey, and subtle hints of Jerez. Round, well-balanced and fresh. The aftertaste is rather short but flavourful.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
+    <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467.webp"></img>
+    <section class="h">Filipa Pato</section>
+    <section class="h text-bolder">3B Blanc de Blancs Extra Bruto Unfiltered - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/22d13049-a120-4b9f-94d7-6bc6d67da88a.html">
+    <img class="flex-bottle" src="/images/22/d13049-a120-4b9f-94d7-6bc6d67da88a/2022-11-15-17-11-16-IMG-3194.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Ottavio L.G06/2021/22 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b429ae62-d4b0-46a4-b7c5-b5b78b9d5418.html">
+    <img class="flex-bottle" src="/images/b4/29ae62-d4b0-46a4-b7c5-b5b78b9d5418/2022-11-25-16-54-19-IMG-3391.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">neroBaronj - 2017</section>
+  </a>
+
+</div>
+#+end_export
