@@ -8,7 +8,5 @@ vintage: "2021"
 country: "Czech Republic"
 grapes: "Riesling"
 image: "images/60/d26b16-bed9-4237-b56c-e78c98cd935f/2022-11-26-10-39-00-IMG-3405.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/60/d26b16-bed9-4237-b56c-e78c98cd935f/2022-11-26-10-39-00-IMG-3405.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/60/d26b16-bed9-4237-b56c-e78c98cd935f/2022-11-26-10-39-00-IMG-3405.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

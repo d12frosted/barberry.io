@@ -8,7 +8,5 @@ vintage: "2017"
 country: "Spain"
 grapes: "Godello"
 image: "images/ab/4efba9-201e-4489-b2db-43a6f7863585/2022-11-23-14-36-53-35973946-3804-4ECF-9961-4F2D0E73B1AA-1-102-o.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ab/4efba9-201e-4489-b2db-43a6f7863585/2022-11-23-14-36-53-35973946-3804-4ECF-9961-4F2D0E73B1AA-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ab/4efba9-201e-4489-b2db-43a6f7863585/2022-11-23-14-36-53-35973946-3804-4ECF-9961-4F2D0E73B1AA-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

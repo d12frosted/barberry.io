@@ -9,7 +9,5 @@ country: "France"
 grapes: "Pinot Noir, Chardonnay, Pinot Meunier"
 rating: "8.00"
 image: "images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2021-06-23-07-53-15-603B5ACC-5A21-44A8-BD30-EEC15D124D8F-1-201-a.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2021-06-23-07-53-15-603B5ACC-5A21-44A8-BD30-EEC15D124D8F-1-201-a.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2021-06-23-07-53-15-603B5ACC-5A21-44A8-BD30-EEC15D124D8F-1-201-a.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

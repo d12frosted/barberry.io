@@ -8,7 +8,5 @@ vintage: "2019"
 country: "Spain"
 grapes: "Airén"
 image: "images/4e/db730b-eb54-4610-9bed-1a2686b447b8/2022-11-26-10-37-30-IMG-3395.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/4e/db730b-eb54-4610-9bed-1a2686b447b8/2022-11-26-10-37-30-IMG-3395.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/4e/db730b-eb54-4610-9bed-1a2686b447b8/2022-11-26-10-37-30-IMG-3395.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

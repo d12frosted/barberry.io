@@ -8,7 +8,5 @@ vintage: "2017"
 country: "Italy"
 grapes: "Nerello Mascalese"
 image: "images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

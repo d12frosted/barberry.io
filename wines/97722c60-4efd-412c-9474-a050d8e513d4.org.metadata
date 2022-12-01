@@ -10,7 +10,5 @@ grapes: "Chardonnay, Pinot Noir"
 degorgee: "26 November 2021"
 sur-lie: "52 months"
 image: "images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

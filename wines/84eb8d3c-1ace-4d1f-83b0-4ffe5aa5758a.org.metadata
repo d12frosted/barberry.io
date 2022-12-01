@@ -8,7 +8,5 @@ vintage: "2022"
 country: "South Africa"
 grapes: "Sauvignon Blanc"
 image: "images/84/eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a/2022-11-19-09-32-54-8C349A29-30E7-4ED6-A299-9B434C5536FB-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/84/eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a/2022-11-19-09-32-54-8C349A29-30E7-4ED6-A299-9B434C5536FB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/84/eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a/2022-11-19-09-32-54-8C349A29-30E7-4ED6-A299-9B434C5536FB-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "769"
+image-height: "1024"

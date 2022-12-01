@@ -8,7 +8,5 @@ vintage: "2000"
 country: "Italy"
 grapes: "Aglianico"
 image: "images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
