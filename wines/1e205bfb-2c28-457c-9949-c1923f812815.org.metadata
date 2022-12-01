@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Patrick Bouju G&M 2021"
-update: "2022-11-25"
+update: "2022-12-01"
 producer: "Patrick Bouju"
 name: "G&M"
 vintage: "2021"
 country: "France"
 grapes: "Garnacha Roja, Riesling, Muscat Blanc"
+rating: "7.80"
 image: "images/1e/205bfb-2c28-457c-9949-c1923f812815/2022-11-25-16-56-31-IMG-3393.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1e/205bfb-2c28-457c-9949-c1923f812815/2022-11-25-16-56-31-IMG-3393.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/1e/205bfb-2c28-457c-9949-c1923f812815/2022-11-25-16-56-31-IMG-3393.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
