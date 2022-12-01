@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Donnafugata Fragore 2016"
+update: "2022-12-01"
+producer: "Donnafugata"
+name: "Fragore"
+vintage: "2016"
+country: "Italy"
+grapes: "Nerello Mascalese"
+rating: "7.00"
+image: "images/d1/d8ed12-f86f-439b-9a90-e7bf5db57fc2/2020-04-14-16-57-49-A289A38D-05A8-4D4F-894D-72A0EB91D555-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d1/d8ed12-f86f-439b-9a90-e7bf5db57fc2/2020-04-14-16-57-49-A289A38D-05A8-4D4F-894D-72A0EB91D555-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d1/d8ed12-f86f-439b-9a90-e7bf5db57fc2/2020-04-14-16-57-49-A289A38D-05A8-4D4F-894D-72A0EB91D555-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

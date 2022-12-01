@@ -35,3 +35,21 @@ Donnafugata
 
 Every bottle of Ben Rye is a fiesta. Ripe apricot, apricot jam, flowers, pine nut, date fruit, caramel. Fresh, structured and balanced wine. Son of the Wind steals my hear each time.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2dde7f0e-d881-48b3-97a6-b039c2926f27.html">
+    <img class="flex-bottle" src="/images/2d/de7f0e-d881-48b3-97a6-b039c2926f27/2022-12-01-07-50-34-15F52355-3C05-44B3-B74F-9208E7966C9B-1-105-c.webp"></img>
+    <section class="h">Donnafugata</section>
+    <section class="h text-bolder">Fragore - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d1d8ed12-f86f-439b-9a90-e7bf5db57fc2.html">
+    <img class="flex-bottle" src="/images/d1/d8ed12-f86f-439b-9a90-e7bf5db57fc2/2020-04-14-16-57-49-A289A38D-05A8-4D4F-894D-72A0EB91D555-1-105-c.webp"></img>
+    <section class="h">Donnafugata</section>
+    <section class="h text-bolder">Fragore - 2016</section>
+  </a>
+
+</div>
+#+end_export
