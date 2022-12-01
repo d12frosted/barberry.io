@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Gulfi Nerojbleo 1999"
+update: "2022-12-01"
+producer: "Gulfi"
+name: "Nerojbleo"
+vintage: "1999"
+country: "Italy"
+grapes: "Nero d'Avola"
+rating: "8.50"
+image: "images/73/b86971-da35-4584-ac60-43146a69d9c6/2020-10-12-09-19-27-CEA1D6C3-016D-4D6C-A537-D5F9D6788B3C-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/73/b86971-da35-4584-ac60-43146a69d9c6/2020-10-12-09-19-27-CEA1D6C3-016D-4D6C-A537-D5F9D6788B3C-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/73/b86971-da35-4584-ac60-43146a69d9c6/2020-10-12-09-19-27-CEA1D6C3-016D-4D6C-A537-D5F9D6788B3C-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

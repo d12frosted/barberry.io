@@ -10,7 +10,5 @@ grapes: "Chardonnay"
 degorgee: "March 2022"
 sur-lie: "70 months"
 image: "images/fc/736ad3-915f-445a-921d-d69ee522a853/2022-11-29-10-42-21-IMG-3493.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/fc/736ad3-915f-445a-921d-d69ee522a853/2022-11-29-10-42-21-IMG-3493.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/fc/736ad3-915f-445a-921d-d69ee522a853/2022-11-29-10-42-21-IMG-3493.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

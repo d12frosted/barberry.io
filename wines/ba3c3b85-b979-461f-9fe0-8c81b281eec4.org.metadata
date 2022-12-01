@@ -9,7 +9,5 @@ country: "Austria"
 grapes: "Chardonnay"
 degorgee: "02 February 2022"
 image: "images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
