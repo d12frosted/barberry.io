@@ -21,14 +21,21 @@
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|   |  amean |   sdev |   price |      QPR |
-|---+--------+--------+---------+----------|
-| 1 |   4.31 | 0.1686 | 1390.00 |   2.7938 |
-| 2 |   4.65 | 0.1300 | 1467.00 |   4.5535 |
-| 3 |   4.11 | 0.1961 | 1250.00 |   2.2777 |
-| 4 |   4.41 | 0.3686 | 1619.00 |   2.8101 |
-| 5 | *4.76* | 0.0273 | 1293.00 | *6.2210* |
-| 6 |   4.55 | 0.0475 | 3030.00 |   1.8729 |
+|         |  amean |   sdev |   price |      QPR |
+|---------+--------+--------+---------+----------|
+| Wine #1 |   4.31 | 0.1686 | 1390.00 |   2.7938 |
+| Wine #2 |   4.65 | 0.1300 | 1467.00 |   4.5535 |
+| Wine #3 |   4.11 | 0.1961 | 1250.00 |   2.2777 |
+| Wine #4 |   4.41 | 0.3686 | 1619.00 |   2.8101 |
+| Wine #5 | *4.76* | 0.0273 | 1293.00 | *6.2210* |
+| Wine #6 |   4.55 | 0.0475 | 3030.00 |   1.8729 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
 * Domaine Derain Saint-Aubin 2018
 :PROPERTIES:

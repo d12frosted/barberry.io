@@ -464,7 +464,7 @@ Access to full ITEMS for related wines."
       (let ((org-confirm-babel-evaluate nil))
         (save-excursion
           (silenzio
-           (org-babel-execute-src-block)))))
+           (funcall-interactively #'org-babel-execute-src-block)))))
     (save-buffer))
   (with-current-buffer (find-file-noselect (porg-item-target-abs item))
     (delete-region (point-min) (point-max))

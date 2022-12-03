@@ -86,5 +86,11 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
     <section class="h text-bolder">Tattouine Rouge - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/74a00265-689d-4031-a1af-2c7a26962504.html">
+    <img class="flex-bottle" src="/images/74/a00265-689d-4031-a1af-2c7a26962504/2022-12-03-09-49-14-953A955B-5C2C-44F0-8F5C-98E006055AFA-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">french disko cinsault - 2021</section>
+  </a>
+
 </div>
 #+end_export

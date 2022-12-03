@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/285367d1-d831-4d1d-8521-99626e49d43f.html">
+    <img class="flex-bottle" src="/images/28/5367d1-d831-4d1d-8521-99626e49d43f/2022-12-03-09-50-48-photo-2022-12-03 09.14.44 (1).webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Saint-Pierre - 2020</section>
+  </a>
+
+</div>
+#+end_export

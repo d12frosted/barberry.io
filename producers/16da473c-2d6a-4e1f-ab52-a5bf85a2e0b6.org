@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b3ca8077-de40-4cd2-b097-cbe65164e0f1.html">
+    <img class="flex-bottle" src="/images/b3/ca8077-de40-4cd2-b097-cbe65164e0f1/2022-12-03-09-50-01-photo-2022-12-03 09.14.41.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">PN19dj36 Série 7 (sept) - 2019</section>
+  </a>
+
+</div>
+#+end_export

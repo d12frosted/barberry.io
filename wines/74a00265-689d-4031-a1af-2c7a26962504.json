@@ -1,0 +1,34 @@
+{
+  "id": "74a00265-689d-4031-a1af-2c7a26962504",
+  "name": "french disko cinsault",
+  "full-name": "Matassa french disko cinsault 2021",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.4",
+  "prices": [
+    "1500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/74/a00265-689d-4031-a1af-2c7a26962504/2022-12-03-09-49-14-953A955B-5C2C-44F0-8F5C-98E006055AFA-1-105-c.webp",
+  "rating": "8.0"
+}

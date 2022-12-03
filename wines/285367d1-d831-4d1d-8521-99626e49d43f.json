@@ -1,0 +1,34 @@
+{
+  "id": "285367d1-d831-4d1d-8521-99626e49d43f",
+  "name": "Saint-Pierre",
+  "full-name": "Domaine de Saint Pierre Saint-Pierre 2020",
+  "producer": {
+    "id": "e8690f66-50ae-4f4d-94e6-363f12c70d50",
+    "name": "Domaine de Saint Pierre"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.9",
+  "sugar": "2",
+  "prices": [
+    "1800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/28/5367d1-d831-4d1d-8521-99626e49d43f/2022-12-03-09-50-48-photo-2022-12-03 09.14.44 (1).webp",
+  "rating": "8.5"
+}

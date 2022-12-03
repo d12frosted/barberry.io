@@ -1,0 +1,34 @@
+{
+  "id": "a44a384a-4e68-48f9-8253-7773cf22c01f",
+  "name": "Gevrey-Chambertin",
+  "full-name": "Gérard Raphet Gevrey-Chambertin 2008",
+  "producer": {
+    "id": "12eb112a-8adc-4dc3-b10b-04f5a8b8d9a7",
+    "name": "Gérard Raphet"
+  },
+  "vintage": "2008",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "2550 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a4/4a384a-4e68-48f9-8253-7773cf22c01f/2022-12-03-09-40-48-photo-2022-12-03 09.14.43.webp",
+  "rating": "8.0"
+}
