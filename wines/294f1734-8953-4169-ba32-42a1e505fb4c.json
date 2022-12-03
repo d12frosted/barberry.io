@@ -1,0 +1,29 @@
+{
+  "id": "294f1734-8953-4169-ba32-42a1e505fb4c",
+  "name": "Cabernet Sauvignon",
+  "full-name": "Alamos Cabernet Sauvignon 2019",
+  "producer": {
+    "id": "d47803d9-7171-4a4d-bd44-368060fb6142",
+    "name": "Alamos"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "330 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.webp",
+  "rating": "NA"
+}

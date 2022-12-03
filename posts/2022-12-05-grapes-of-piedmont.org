@@ -1,12 +1,138 @@
 Wines:
 
 1. [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Cascina Tavijn Vino Bianco L.B01/2021/22 NV]]
-2. [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Cascina Tavijn Bandita 2016]]
-3. [[barberry:/wines/9803f58c-cbbf-4c60-92a1-444f32fed355][Valli Unite Marmote 2017]]
+2. [[barberry:/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f][Iuli La Rina 2018]]
+3. [[barberry:/wines/02983870-d48b-4d04-909e-27b574fcd918][Fratelli Alessandria Speziale Verduno Pelaverga 2019]]
 4. [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]
-5. [[barberry:/wines/02983870-d48b-4d04-909e-27b574fcd918][Fratelli Alessandria Speziale Verduno Pelaverga 2019]]
+5. [[barberry:/wines/9803f58c-cbbf-4c60-92a1-444f32fed355][Valli Unite Marmote 2017]]
 6. [[barberry:/wines/a024914c-4a92-4ef2-910f-8e507120be58][Cascina Degli Ulivi Nibiô 2010]]
-7. [[barberry:/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f][Iuli La Rina 2018]]
+7. [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Cascina Tavijn Bandita 2016]]
+
+* Cascina Tavijn Vino Bianco L.B01/2021/22 NV
+:PROPERTIES:
+:ID:                     d49bc4d2-af94-40d9-8059-4535b8b4026d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2022-11-15-17-06-38-IMG-3186.webp]]
+
+- producer: [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]
+- name: [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Vino Bianco L.B01/2021/22]]
+- vintage: NV
+- grapes: Chardonnay, Cortese, Zibibbo
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 545 UAH
+
+* Iuli La Rina 2018
+:PROPERTIES:
+:ID:                     8a8c68a9-1d13-4e7e-9889-c6b7043c665e
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2022-09-26-18-40-21-7E51C4FB-BE19-4FC2-A275-528450D0C855-1-102-o.webp]]
+
+- producer: [[barberry:/producers/f01e1926-6c50-4ee2-b357-ff72e078dff7][Iuli]]
+- name: [[barberry:/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f][La Rina]]
+- vintage: 2018
+- grapes: Cellerina (Slarina)
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 11.5
+- sugar: 1
+- price: 850 UAH
+
+* Fratelli Alessandria Speziale Verduno Pelaverga 2019
+:PROPERTIES:
+:ID:                     27764aa5-a9ff-4c8e-aa58-b0890edea6d1
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2022-12-01-07-40-46-E2F004CC-AEA6-409C-95FC-6D8938591C96-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e90e01f5-5743-4ac5-accc-110f90981937][Fratelli Alessandria]]
+- name: [[barberry:/wines/02983870-d48b-4d04-909e-27b574fcd918][Speziale Verduno Pelaverga]]
+- vintage: 2019
+- grapes: Pelaverga Piccolo
+- appellation: Verduno Pelaverga DOC
+- location: Piedmont, Italy
+- alcohol: 13
+- sugar: N/A
+- price: 730 UAH
+
+* Antoniolo Gattinara 2014
+:PROPERTIES:
+:ID:                     9f2c7a59-3053-4298-87d0-e24189d9b4b5
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2021-01-04-10-54-54-28E344B3-499D-4274-883A-CA936DDF442B-1-105-c.webp]]
+
+- producer: [[barberry:/producers/aca06949-61c1-447d-9fd0-b9d063bfce40][Antoniolo]]
+- name: [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Gattinara]]
+- vintage: 2014
+- grapes: Nebbiolo
+- appellation: Gattinara
+- location: Piedmont, Italy
+- alcohol: 13.5
+- sugar: 1
+- price: 1800 UAH
+
+* Valli Unite Marmote 2017
+:PROPERTIES:
+:ID:                     2e757395-d5cd-4ab3-a524-6bd246c02930
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2022-09-26-18-20-31-4BD7A0F5-E4A4-4A07-9D95-C7316332B272-1-102-o.webp]]
+
+- producer: [[barberry:/producers/e970e575-0688-414a-9cbc-d125ac99dc7a][Valli Unite]]
+- name: [[barberry:/wines/9803f58c-cbbf-4c60-92a1-444f32fed355][Marmote]]
+- vintage: 2017
+- grapes: Croatina
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 14
+- sugar: 2
+- price: 1200 UAH
+
+* Cascina Degli Ulivi Nibiô 2010
+:PROPERTIES:
+:ID:                     28db84ba-03ae-4d22-9f7a-ad96fbb6fcdc
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o.webp]]
+
+- producer: [[barberry:/producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62][Cascina Degli Ulivi]]
+- name: [[barberry:/wines/a024914c-4a92-4ef2-910f-8e507120be58][Nibiô]]
+- vintage: 2010
+- grapes: Dolcetto
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 15
+- sugar: 1
+- price: 1490 UAH
+
+* Cascina Tavijn Bandita 2016
+:PROPERTIES:
+:ID:                     52a30a17-ee65-48c7-9d55-27f29b9b2f60
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-05-grapes-of-piedmont/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp]]
+
+- producer: [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]
+- name: [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Bandita]]
+- vintage: 2016
+- grapes: Barbera
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 15
+- sugar: 3.2
+- price: 1000 UAH
 
 * Resources
 :PROPERTIES:
