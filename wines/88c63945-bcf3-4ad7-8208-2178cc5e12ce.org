@@ -1,0 +1,63 @@
+#+attr_html: :class wine-main-image
+[[file:/images/88/c63945-bcf3-4ad7-8208-2178cc5e12ce/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Colin-Morey Pierre-Yves]]
+- Vintage :: 2019
+- Location :: France, Saint-Aubin AOC
+- Grapes :: Chardonnay
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 1350 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-12-08 - ☆ 8.00
+
+Tasted blind and guessed producer. For my limited experience with region they have quite unique style. Interesting and restrained mineral-mushroom-y bouquet with notes of green apple, melon, mandarins. Well integrated oak, well structured, delicate and precise.
+
+Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]].
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
+    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c.webp"></img>
+    <section class="h">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0570c34d-eef6-4e3e-b4a1-7f854abe33ba.html">
+    <img class="flex-bottle" src="/images/05/70c34d-eef6-4e3e-b4a1-7f854abe33ba/2021-12-09-08-51-38-352E7C50-B451-4EB9-834B-1E35853A8D01-1-105-c.webp"></img>
+    <section class="h">Sextant</section>
+    <section class="h text-bolder">Maranges 1er Cru Les Clos Roussots - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+    <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+    <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp"></img>
+    <section class="h">Storm</section>
+    <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cf113251-3124-4a63-8959-020e90600405.html">
+    <img class="flex-bottle" src="/images/cf/113251-3124-4a63-8959-020e90600405/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c.webp"></img>
+    <section class="h">Domaine Michel Gaunoux</section>
+    <section class="h text-bolder">Beaune - 2017</section>
+  </a>
+
+</div>
+#+end_export

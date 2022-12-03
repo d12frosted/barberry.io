@@ -1,25 +1,21 @@
 #+attr_html: :class wine-main-image
-[[file:/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp]]
+[[file:/images/cf/113251-3124-4a63-8959-020e90600405/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c.webp]]
 
-- Type :: White Still, Dry
-- Producer :: [[barberry:/producers/67b094dd-f7b3-4e46-8d7d-cf56339a7cf6][Domaine Derain]]
-- Vintage :: 2018
-- Location :: France, Saint-Aubin AOC
-- Grapes :: Chardonnay
-- Alcohol :: 13.5
-- Sugar :: 2.1
-- Price :: 1278 UAH
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/ce258959-8b83-4f42-a1d3-51474ddff9e0][Domaine Michel Gaunoux]]
+- Vintage :: 2017
+- Location :: France, Beaune AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 0.1
+- Price :: 1490 UAH
 - Cellar :: N/A
-
-** Producer
-
-Created by [[barberry:/producers/4191c986-fc88-4e47-a038-cc1dd4c8fa31][Dominique Derain]], now managed by his 'student' Julien Altaber also known by his [[barberry:/producers/1c05cc7c-8b42-4101-b447-9422c813f6c7][Sextant]] project.
 
 ** Ratings
 
-*** 2021-12-08 - ☆ 7.75
+*** 2021-12-08 - ☆ 8.00
 
-Tasted blind and my guess was Sextant, tuned out to be his 'teacher', thought basically it's made by Altaber. Anyways, obvious lees-based bouquet with fruits, butter, yeast, salt and silicon. Well structured, fresh with nice lemon touch in the end. Delicious, well balanced. Although my style, it's too much on the surface.
+Tasted blind a set of 3 Pinot Noir wines. This one was also easy to guess due to elegance and austerity. Nose is full of dust, wild strawberry and cherry with subtle hints of autumn leaves. Well structured, long aftertaste with metallic aftertaste with flavours of cherry and leaves. Still very young. Complex, has potential, but needs time to get there.
 
 Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]].
 
@@ -51,10 +47,10 @@ Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880
     <section class="h text-bolder">Saint-Aubin Le Banc - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cf113251-3124-4a63-8959-020e90600405.html">
-    <img class="flex-bottle" src="/images/cf/113251-3124-4a63-8959-020e90600405/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c.webp"></img>
-    <section class="h">Domaine Michel Gaunoux</section>
-    <section class="h text-bolder">Beaune - 2017</section>
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
   </a>
 
 </div>

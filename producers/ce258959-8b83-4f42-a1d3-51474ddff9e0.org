@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cf113251-3124-4a63-8959-020e90600405.html">
+    <img class="flex-bottle" src="/images/cf/113251-3124-4a63-8959-020e90600405/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Beaune - 2017</section>
+  </a>
+
+</div>
+#+end_export
