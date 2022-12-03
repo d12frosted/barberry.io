@@ -75,5 +75,11 @@ Legendary alpine wine that I know for being expensive and absurdly constant in i
     <section class="h text-bolder">Échezeaux Grand Cru - 2008</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/f8e0763f-4b2b-4006-a4bd-5a70b5024356.html">
+    <img class="flex-bottle" src="/images/f8/e0763f-4b2b-4006-a4bd-5a70b5024356/2022-11-27-10-31-07-IMG-3463.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Las Rosas Listán Negro - 2018</section>
+  </a>
+
 </div>
 #+end_export
