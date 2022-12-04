@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Seifried Family Old Coach Road Pinot Noir 2020"
-update: "2022-12-03"
+update: "2022-12-04"
 producer: "Seifried Family"
 name: "Old Coach Road Pinot Noir"
 vintage: "2020"
 country: "New Zealand"
 grapes: "Pinot Noir"
+rating: "5.50"
 image: "images/ea/772f52-a0b0-4d2a-bfb7-cec8131529e3/2022-12-03-16-52-06-IMG-3586.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ea/772f52-a0b0-4d2a-bfb7-cec8131529e3/2022-12-03-16-52-06-IMG-3586.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ea/772f52-a0b0-4d2a-bfb7-cec8131529e3/2022-12-03-16-52-06-IMG-3586.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
