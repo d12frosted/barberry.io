@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Alamos Cabernet Sauvignon 2019"
-update: "2022-12-03"
+update: "2022-12-04"
 producer: "Alamos"
 name: "Cabernet Sauvignon"
 vintage: "2019"
 country: "Argentina"
 grapes: ""
+rating: "5.50"
 image: "images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

@@ -9,11 +9,13 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 285 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-03 - ☆ 6.00
+
+Very simple, fruit-forward Tempranillo. Plum and oak. Medium-plus body and good acidity, but it lacks volume. Decent table wine and a good choice for mulled wine.
 
 ** Related
 
@@ -35,6 +37,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/b8/243b85-739b-4cc0-b4df-e564dc2cc702/2022-11-06-12-06-08-FC29DD19-C3C8-4801-BE0E-5D6412EF80C1-1-105-c.webp"></img>
     <section class="h">Bodegas la Eralta</section>
     <section class="h text-bolder">Hacienda El Olmo Gran Reserva - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/294f1734-8953-4169-ba32-42a1e505fb4c.html">
+    <img class="flex-bottle" src="/images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.webp"></img>
+    <section class="h">Alamos</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64a1e863-21f3-49de-8401-241eb23363a8.html">
+    <img class="flex-bottle" src="/images/64/a1e863-21f3-49de-8401-241eb23363a8/2022-12-03-16-58-09-IMG-3579.webp"></img>
+    <section class="h">Barista</section>
+    <section class="h text-bolder">Pinotage - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/761b7e33-8d8b-4d09-bcde-5477a38c1eac.html">
+    <img class="flex-bottle" src="/images/76/1b7e33-8d8b-4d09-bcde-5477a38c1eac/2022-11-25-16-50-00-IMG-3382.webp"></img>
+    <section class="h">Chartron et Trébuchet</section>
+    <section class="h text-bolder">Crémant de Bourgogne Brut - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ea772f52-a0b0-4d2a-bfb7-cec8131529e3.html">
+    <img class="flex-bottle" src="/images/ea/772f52-a0b0-4d2a-bfb7-cec8131529e3/2022-12-03-16-52-06-IMG-3586.webp"></img>
+    <section class="h">Seifried Family</section>
+    <section class="h text-bolder">Old Coach Road Pinot Noir - 2020</section>
   </a>
 
 </div>

@@ -1,7 +1,7 @@
 {
   "id": "46382853-d698-46c9-bc9b-70eeed7f52d8",
   "name": "Hacienda El Olmo Joven",
-  "full-name": "Bodegas la Eralta Hacienda El Olmo Joven",
+  "full-name": "Bodegas la Eralta Hacienda El Olmo Joven NV",
   "producer": {
     "id": "270b20da-8456-4646-b2a3-804677f8e133",
     "name": "Bodegas la Eralta"
@@ -28,7 +28,7 @@
   "prices": [
     "285 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/46/382853-d698-46c9-bc9b-70eeed7f52d8/2022-12-03-16-57-34-IMG-3577.webp",
-  "rating": "NA"
+  "rating": "6.0"
 }

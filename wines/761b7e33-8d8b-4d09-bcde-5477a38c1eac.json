@@ -1,7 +1,7 @@
 {
   "id": "761b7e33-8d8b-4d09-bcde-5477a38c1eac",
-  "name": "Crémant de Bourgogne",
-  "full-name": "Chartron et Trébuchet Crémant de Bourgogne 2019",
+  "name": "Crémant de Bourgogne Brut",
+  "full-name": "Chartron et Trébuchet Crémant de Bourgogne Brut 2019",
   "producer": {
     "id": "0c98eed2-b010-480b-b2ab-ab4cec83d01f",
     "name": "Chartron et Trébuchet"
@@ -28,7 +28,7 @@
   "prices": [
     "521 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/76/1b7e33-8d8b-4d09-bcde-5477a38c1eac/2022-11-25-16-50-00-IMG-3382.webp",
-  "rating": "NA"
+  "rating": "7.25"
 }
