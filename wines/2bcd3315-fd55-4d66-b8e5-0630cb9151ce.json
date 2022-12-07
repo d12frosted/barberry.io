@@ -1,0 +1,42 @@
+{
+  "id": "2bcd3315-fd55-4d66-b8e5-0630cb9151ce",
+  "name": "Rossoluna",
+  "full-name": "Fratelli Alessandria Rossoluna 2017",
+  "producer": {
+    "id": "e90e01f5-5743-4ac5-accc-110f90981937",
+    "name": "Fratelli Alessandria"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    },
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    },
+    {
+      "id": "8bcbf2cc-d500-4b00-9e2e-2dda87b39699",
+      "name": "Freisa"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "881 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/2b/cd3315-fd55-4d66-b8e5-0630cb9151ce/2022-12-07-21-34-31-IMG-3654.webp",
+  "rating": "NA"
+}

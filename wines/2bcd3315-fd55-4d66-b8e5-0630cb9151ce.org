@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/2b/cd3315-fd55-4d66-b8e5-0630cb9151ce/2022-12-07-21-34-31-IMG-3654.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/e90e01f5-5743-4ac5-accc-110f90981937][Fratelli Alessandria]]
+- Vintage :: 2017
+- Location :: Italy, Langhe DOC
+- Grapes :: Nebbiolo, Barbera, Freisa
+- Alcohol :: 15
+- Sugar :: NA
+- Price :: 881 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Fratelli Alessandria is a historic winery in the village of Verduno. Its story spans back to 1830 and is interleaved with the famous Barolo (e.g. when it transformed from semi-sweet wine to the "king of wines and wine for kings").
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
+    <img class="flex-bottle" src="/images/02/983870-d48b-4d04-909e-27b574fcd918/2022-12-01-07-40-46-E2F004CC-AEA6-409C-95FC-6D8938591C96-1-105-c.webp"></img>
+    <section class="h">Fratelli Alessandria</section>
+    <section class="h text-bolder">Speziale Verduno Pelaverga - 2019</section>
+  </a>
+
+</div>
+#+end_export

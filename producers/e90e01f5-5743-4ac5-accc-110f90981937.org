@@ -4,7 +4,13 @@ Fratelli Alessandria is a historic winery in the village of Verduno. Its story s
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
+  <a class="flex-item flex-item-left" href="/wines/2bcd3315-fd55-4d66-b8e5-0630cb9151ce.html">
+    <img class="flex-bottle" src="/images/2b/cd3315-fd55-4d66-b8e5-0630cb9151ce/2022-12-07-21-34-31-IMG-3654.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Rossoluna - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
     <img class="flex-bottle" src="/images/02/983870-d48b-4d04-909e-27b574fcd918/2022-12-01-07-40-46-E2F004CC-AEA6-409C-95FC-6D8938591C96-1-105-c.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Speziale Verduno Pelaverga - 2019</section>
