@@ -37,6 +37,18 @@ Wine #2 on [[barberry:/posts/2022-12-05-grapes-of-piedmont][Grapes of Piedmont]]
     <section class="h text-bolder">Speziale Verduno Pelaverga - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
+    <img class="flex-bottle" src="/images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Viktoria - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3014c304-23be-4edd-b6c4-0eb1cfee9791.html">
+    <img class="flex-bottle" src="/images/30/14c304-23be-4edd-b6c4-0eb1cfee9791/2022-11-29-10-34-50-IMG-3483.webp"></img>
+    <section class="h">Henri Giraud</section>
+    <section class="h text-bolder">Blanc de Craie - NV</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/3b1a8a8d-4136-45f3-80a5-e72dcb55a929.html">
     <img class="flex-bottle" src="/images/3b/1a8a8d-4136-45f3-80a5-e72dcb55a929/2022-12-07-08-44-12-3A38F9AA-5942-4513-8618-70E9EB16BE07-1-105-c.webp"></img>
     <section class="h">Galil Mountain</section>
@@ -61,13 +73,19 @@ Wine #2 on [[barberry:/posts/2022-12-05-grapes-of-piedmont][Grapes of Piedmont]]
     <section class="h text-bolder">Vino Bianca L.B01/2021/22 - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a024914c-4a92-4ef2-910f-8e507120be58.html">
+  <a class="flex-item flex-item-right" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+    <img class="flex-bottle" src="/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Bandita - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a024914c-4a92-4ef2-910f-8e507120be58.html">
     <img class="flex-bottle" src="/images/a0/24914c-4a92-4ef2-910f-8e507120be58/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Nibiô - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
+  <a class="flex-item flex-item-right" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
     <img class="flex-bottle" src="/images/eb/0e3f46-1417-4e4d-acc5-1fe5e6650a48/2022-10-15-13-04-56-39D20449-FB2C-4F3F-9121-51B05114536B-1-105-c.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2021</section>
