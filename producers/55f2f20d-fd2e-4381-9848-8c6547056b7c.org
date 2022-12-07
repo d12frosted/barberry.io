@@ -9,5 +9,11 @@
     <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/6719f4e7-1b25-4156-bc47-e39a1aab1bf7.html">
+    <img class="flex-bottle" src="/images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Tentations Rosé - 2019</section>
+  </a>
+
 </div>
 #+end_export
