@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3b1a8a8d-4136-45f3-80a5-e72dcb55a929.html">
+    <img class="flex-bottle" src="/images/3b/1a8a8d-4136-45f3-80a5-e72dcb55a929/2022-12-07-08-44-12-3A38F9AA-5942-4513-8618-70E9EB16BE07-1-105-c.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Alon - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -55,7 +55,7 @@ Try asking around about Slarina. There are a handful of farmers that grow this a
 
 As the only winemaker in the town, he tries to make traditional Piemontese wines that are easy and fun to drink. The grapes found in his vineyards are Baratuciat (a nearly-extinct white variety from the Val di Susa), Grignolino, Nebbiolo, Pinot Nero, Barbera, and, of course, Slarina. La Rina comes from very young vines planted in 2013. Owning nearly a hectare and a half of it, he jokes, "I am the most important producer of Slarina in the world". It was macerated for ten days, fermented in cement vats and aged for 6-8 months (again, in cement vats). 5500 bottles produced. Quite a lot for a nearly-extinct grape.
 
-* Fratelli Alessandriae Speziale Verduno Pelaverga 2019
+* Fratelli Alessandria Speziale Verduno Pelaverga 2019
 :PROPERTIES:
 :ID:                     27764aa5-a9ff-4c8e-aa58-b0890edea6d1
 :END:
@@ -139,7 +139,6 @@ Manually harvested, fruit destemmed, fermented with indigenous yeast in cement t
 - sugar: 1
 - price: 1490 UAH
 
-
 Don't be fooled by the name of Dolcetto. The name suggests that wines made of Dolcetto grape are light and probably sweet, but in reality, they are dark in colour with aromas of fruits, liquorice and tar and heavy tannin. The late Stefano Bellotti played a crucial role in the biodynamic movement in this region. It doesn't feel morally correct to copy-paste the story of Stefano Bellotti, so if you are curious, just read it on [[https://www.bowlerwine.com/producer/cascina-degli-ulivi][Bowler]] or [[https://louisdressner.com/producers/cascina%20degli%20ulivi][Louis/Dressner's]] websites.
 
 Nibiô is the local name of a unique strain of Dolcetto that used to be the primary grape of this area until phylloxera almost wiped it out. It is made of 60-year-old vines (on average). Macerated for four weeks with two remontages a day. After racking, it was aged on the lees in 25 and 40 hl botti for 24 months.
@@ -200,15 +199,15 @@ The name of this wine comes from the fact that it was denominated from DOC and g
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |  amean |   sdev | favourite | outcast |   price |      QPR |
-|---------+--------+--------+-----------+---------+---------+----------|
-| Wine #1 |   3.79 | 0.3441 |      1.00 |    2.00 |  545.00 |   3.2334 |
-| Wine #2 |   3.60 | 0.3367 |      2.00 |  +4.00+ |  850.00 |   1.5743 |
-| Wine #3 |   3.83 | 0.0752 |      1.00 |    1.00 |  730.00 |   2.5346 |
-| Wine #4 |   4.06 | 0.1308 |      2.00 |    0.00 | 1800.00 |   1.4563 |
-| Wine #5 |   3.90 | 0.0967 |      1.00 |  +4.00+ | 1200.00 |   1.7223 |
-| Wine #6 |   4.04 | 0.2891 |      2.00 |    1.00 | 1490.00 |   1.7154 |
-| Wine #7 | *4.23* | 0.0156 |    *3.00* |    0.00 | 1000.00 | *3.4309* |
+|         |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
+|---------+--------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.79 |   3.84 | 0.3441 |      1.00 |    2.00 |  545.00 |   3.2334 |
+| Wine #2 |   3.60 |   3.65 | 0.3367 |      2.00 |  +4.00+ |  850.00 |   1.5743 |
+| Wine #3 |   3.83 |   3.83 | 0.0752 |      1.00 |    1.00 |  730.00 |   2.5346 |
+| Wine #4 |   4.06 |   4.07 | 0.1308 |      2.00 |    0.00 | 1800.00 |   1.4563 |
+| Wine #5 |   3.90 |   3.91 | 0.0967 |      1.00 |  +4.00+ | 1200.00 |   1.7223 |
+| Wine #6 |   4.04 |   4.08 | 0.2891 |      2.00 |    1.00 | 1490.00 |   1.7154 |
+| Wine #7 | *4.23* | *4.24* | 0.0156 |    *3.00* |    0.00 | 1000.00 | *3.4309* |
 
 How to read this table:
 
