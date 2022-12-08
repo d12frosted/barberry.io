@@ -87,8 +87,8 @@ Every month my top 3 rated countries stay the same. The only thing that changes 
 #+results: countries-data
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
-| Spain        |    19 | 1 019.87 UAH |  7.83 | 2.7715 |
-| France       |    17 | 1 177.84 UAH |  7.38 | 1.9598 |
+| Spain        |    19 | 1 017.75 UAH |  7.83 | 2.7817 |
+| France       |    17 | 1 173.67 UAH |  7.38 | 2.0198 |
 | Italy        |    13 | 830.10 UAH   |  7.75 | 2.7483 |
 | Germany      |     8 | 863.30 UAH   |  7.32 | 2.1227 |
 | Argentina    |     7 | 616.01 UAH   |  7.37 | 3.0277 |
@@ -103,7 +103,7 @@ Every month my top 3 rated countries stay the same. The only thing that changes 
 | Austria      |     1 | 740.00 UAH   |  5.50 | 0.5977 |
 | Moldova      |     1 | NA           |  7.25 |     NA |
 | Croatia      |     1 | 896.48 UAH   |  8.00 | 2.6771 |
-| South Africa |     1 | 353.94 UAH   |  7.00 | 3.2864 |
+| South Africa |     1 | 399.99 UAH   |  7.00 | 2.9080 |
 | Slovenia     |     1 | 1 250.00 UAH |  7.75 | 1.5933 |
 
 #+name: countries-data
@@ -132,9 +132,9 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
 |    2021 |     9 | 630.42 UAH   |  7.03 | 2.2815 |
-|    2020 |    11 | 920.81 UAH   |  7.62 | 2.2875 |
+|    2020 |    11 | 924.100 UAH  |  7.62 | 2.2404 |
 |    2019 |     9 | 735.29 UAH   |  7.33 | 2.9587 |
-|    2018 |    29 | 915.81 UAH   |  7.47 | 2.4259 |
+|    2018 |    29 | 914.48 UAH   |  7.47 | 2.4331 |
 |    2017 |    10 | 1 085.49 UAH |  7.65 | 2.0582 |
 |    2016 |     5 | 1 075.96 UAH |  7.76 | 2.3541 |
 |    2015 |     1 | 593.00 UAH   |  8.00 | 4.0472 |
@@ -144,7 +144,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 |    2010 |     1 | 1 439.00 UAH |  7.75 | 1.3840 |
 |    2008 |     1 | 2 080.00 UAH |  8.75 | 2.0607 |
 |    2000 |     1 | 1 650.02 UAH |  9.00 | 3.1723 |
-|      NV |     5 | 593.16 UAH   |  7.30 | 2.5988 |
+|      NV |     5 | 579.01 UAH   |  7.30 | 2.7506 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -172,7 +172,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
 | Pinot Noir                   |    14 | 1 015.12 UAH |  7.63 | 2.1850 |
-| Grenache                     |     5 | 758.91 UAH   |  7.30 | 2.5702 |
+| Grenache                     |     5 | 751.24 UAH   |  7.30 | 2.6094 |
 | Tempranillo                  |     5 | 830.96 UAH   |  7.72 | 3.5168 |
 | Sauvignon Blanc              |     4 | 952.30 UAH   |  7.19 | 1.8373 |
 | Cariñena                     |     4 | 1 343.99 UAH |  8.07 | 2.2561 |
@@ -180,7 +180,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | Macabeo                      |     4 | 1 179.76 UAH |  7.93 | 2.6068 |
 | Chardonnay                   |     3 | 1 164.00 UAH |  7.42 | 1.3550 |
 | Gamay                        |     3 | 1 214.24 UAH |  7.42 | 1.5406 |
-| Chenin Blanc                 |     3 | 778.33 UAH   |  7.42 | 2.3666 |
+| Chenin Blanc                 |     3 | 754.74 UAH   |  7.42 | 2.6370 |
 | Xarel-lo                     |     3 | 593.44 UAH   |  7.18 | 2.0836 |
 | Syrah                        |     3 | 626.00 UAH   |  6.37 | 1.8162 |
 | Riesling                     |     3 | 715.84 UAH   |  7.25 | 2.3496 |
@@ -235,7 +235,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | Bombino Nero                 |     1 | 733.02 UAH   |  7.40 | 2.1052 |
 | Nero di Troia                |     1 | 733.02 UAH   |  7.40 | 2.1052 |
 | Monastrell                   |     1 | 445.00 UAH   |  7.00 | 2.6139 |
-| Pinotage                     |     1 | 353.94 UAH   |  7.00 | 3.2864 |
+| Pinotage                     |     1 | 399.99 UAH   |  7.00 | 2.9080 |
 | Vitovska                     |     1 | 1 250.00 UAH |  7.75 | 1.5933 |
 | Pinot Blanc                  |     1 | NA           |  7.00 |     NA |
 | Sousón                       |     1 | 806.00 UAH   |  7.25 | 1.7201 |
@@ -289,7 +289,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | 2022-10-23 | Spain        | [[barberry:/producers/2fe18e47-ec51-4372-9072-a3e522007d7a][Raúl Pérez]]                  | [[barberry:/wines/a13e9a37-d92d-469f-9a4c-dec058e0ae4a][Raúl Pérez La Vizcaína Las Gundiñas Lomas de Valtuille 2019]] |    2019 | 8.25 | 3.8236 |
 | 2022-10-23 | Italy        | [[barberry:/producers/fad08b42-424d-4f52-875c-397b99ba746e][Maestro Italiano]]            | [[barberry:/wines/af8e1a2c-23b8-4262-adc0-5c39e688484d][Maestro Italiano Gran Maestro Primitivo di Manduria 2020]] |    2020 | 7.00 | 2.7761 |
 | 2022-10-22 | Chile        | [[barberry:/producers/825c6e1e-fadc-47d6-957e-68b9f8b253a6][Villalobos]]                  | [[barberry:/wines/8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9][Villalobos Carignan Reserve 2016]]   |    2016 | 7.50 | 1.6277 |
-| 2022-10-21 | Spain        | [[barberry:/producers/eb753c76-29ab-4f89-b74e-657273987239][Comando G]]                   | [[barberry:/wines/98f32d59-a395-4287-8adb-9ddf1de9f894][Comando G La Bruja de Rozas 2018]]   |    2018 | 7.80 | 2.9315 |
+| 2022-10-21 | Spain        | [[barberry:/producers/eb753c76-29ab-4f89-b74e-657273987239][Comando G]]                   | [[barberry:/wines/98f32d59-a395-4287-8adb-9ddf1de9f894][Comando G La Bruja de Rozas 2018]]   |    2018 | 7.80 | 3.1001 |
 | 2022-10-21 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]           | [[barberry:/wines/103bc0ef-b7b6-4057-bb99-1746b21fa342][Tomislav Marković Mythos 2020]]      |    2020 | 7.25 | 1.0848 |
 | 2022-10-21 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]           | [[barberry:/wines/4465173c-0f87-4b5e-88e2-354e88f97d6a][Tomislav Marković Heerkretz 2020]]   |    2020 | 8.00 | 1.6830 |
 | 2022-10-20 | France       | [[barberry:/producers/f5ed683b-4f82-45b6-8cdd-d212d796fba5][Domaine Claire Clavel]]       | [[barberry:/wines/21570f40-a976-4e90-9007-536840ef7f07][Domaine Claire Clavel Saint Gervais Côtes du Rhône Villages 2018]] |    2018 | 4.50 | 0.4125 |
@@ -329,14 +329,14 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 | 2022-10-10 | Germany      | [[barberry:/producers/5774d37d-7ca7-444c-b981-29ad5a290846][Enderle&Moll]]                | [[barberry:/wines/9f58c956-e271-470c-85c5-e9199dfa4032][Enderle&Moll Spätburgunder-Rosé 2021]] |    2021 | 7.50 | 2.3165 |
 | 2022-10-10 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                     | [[barberry:/wines/5434ad31-8f1f-4e7a-8daf-22f888c3a71c][Weinert Carrascal Corte Clasico NV]] |      NV | 7.00 | 2.5564 |
 | 2022-10-08 | Portugal     | [[barberry:/producers/603ce74a-32ef-448a-9ede-2d350b9c557b][Henriques & Henriques]]       | [[barberry:/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038][Henriques & Henriques Boal Single Harvest 2000]] |    2000 | 9.00 | 3.1723 |
-| 2022-10-08 | France       | [[barberry:/producers/2a5b0154-c0c9-4221-81c5-44a34a37ed4b][Félicien Brou]]               | [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]      |      NV | 7.50 | 3.3507 |
+| 2022-10-08 | France       | [[barberry:/producers/2a5b0154-c0c9-4221-81c5-44a34a37ed4b][Félicien Brou]]               | [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]      |      NV | 7.50 | 3.9097 |
 | 2022-10-08 | Portugal     | [[barberry:/producers/603ce74a-32ef-448a-9ede-2d350b9c557b][Henriques & Henriques]]       | [[barberry:/wines/54468301-969e-41f6-a3f1-404cc7608364][Henriques & Henriques Malvasia 15y NV]] |      NV | 8.00 | 2.6667 |
 | 2022-10-08 | Spain        | [[barberry:/producers/17f9db0d-ae08-4f3e-9c2d-b9094e7ca315][Mas Pere]]                    | [[barberry:/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab][Mas Pere Selecció Brut Cava NV]]     |      NV | 6.50 | 2.0443 |
 | 2022-10-07 | Germany      | [[barberry:/producers/fe0f2833-304d-481d-ac7d-b71cc685097c][Weingut Mindnich]]            | [[barberry:/wines/56b7ca27-321e-47ed-bb32-edad8190acf6][Weingut Mindnich Wallhäuser Pfarrgarten Riesling 2021]] |    2021 | 7.00 | 2.9079 |
 | 2022-10-07 | Italy        | [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]       | [[barberry:/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967][Valentina Passalacqua Calcarius Orange Puglia Nu Litr NV]] |      NV | 7.40 | 2.1718 |
 | 2022-10-07 | Italy        | [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]       | [[barberry:/wines/9f697524-026a-4db4-a5b9-358c7d483098][Valentina Passalacqua Calcarius Troiabomb 2018]] |    2018 | 7.40 | 2.1052 |
 | 2022-10-07 | France       | [[barberry:/producers/32bfad32-8fe1-4965-8663-429cc4e76306][Brotte S. A.]]                | [[barberry:/wines/2e0fea48-5584-476d-b65d-4fe8e1b5f79c][Brotte S. A. Domaine Grosset Cairanne 2019]] |    2019 | 7.00 | 2.6139 |
-| 2022-10-06 | South Africa | [[barberry:/producers/9a193cc3-344d-429e-8483-54687cde1a94][Barista]]                     | [[barberry:/wines/64a1e863-21f3-49de-8401-241eb23363a8][Barista Pinotage 2020]]              |    2020 | 7.00 | 3.2864 |
+| 2022-10-06 | South Africa | [[barberry:/producers/9a193cc3-344d-429e-8483-54687cde1a94][Barista]]                     | [[barberry:/wines/64a1e863-21f3-49de-8401-241eb23363a8][Barista Pinotage 2020]]              |    2020 | 7.00 | 2.9080 |
 | 2022-10-06 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                     | [[barberry:/wines/bcc18dc0-d37b-49bf-84a0-7168f595e7ed][Weinert Carrascal Cabernet Sauvignon 2018]] |    2018 | 7.40 | 4.6064 |
 | 2022-10-05 | New Zealand  | [[barberry:/producers/32e6cc69-90ec-4700-bdb5-d1a396315b9e][Pyramid Valley]]              | [[barberry:/wines/b6660f69-14d7-4715-985d-9d24597506ed][Pyramid Valley North Canterbury Pinot Noir 2018]] |    2018 | 8.00 | 2.1228 |
 | 2022-10-05 | Ukraine      | [[barberry:/producers/1360c306-3364-428a-a606-7f44dfbef128][Vinoman]]                     | [[barberry:/wines/da76deb0-25bf-457c-85dc-9fb16ce2220d][Vinoman Riesling 2021]]              |    2021 | 7.25 |        |

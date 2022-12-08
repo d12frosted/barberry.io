@@ -9,7 +9,5 @@ country: "Spain"
 grapes: "Tempranillo"
 rating: "7.40"
 image: "images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-07-21-17-36-IMG-3640.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-07-21-17-36-IMG-3640.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-07-21-17-36-IMG-3640.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

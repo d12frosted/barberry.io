@@ -64,7 +64,7 @@ How to read this table:
 [[file:/images/2021-12-08-wine-geeks-club/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c.webp]]
 
 - producer: [[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Colin-Morey Pierre-Yves]]
-- name: Saint-Aubin Le Banc
+- name: [[barberry:/wines/88c63945-bcf3-4ad7-8208-2178cc5e12ce][Saint-Aubin Le Banc]]
 - vintage: 2019
 - grapes: Chardonnay
 - appellation: Saint-Aubin AOC
@@ -99,8 +99,8 @@ How to read this table:
 #+attr_html: :class bottle-right
 [[file:/images/2021-12-08-wine-geeks-club/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c.webp]]
 
-- producer: Domaine Michel Gaunoux
-- name: Beaune
+- producer: [[barberry:/producers/ce258959-8b83-4f42-a1d3-51474ddff9e0][Domaine Michel Gaunoux]]
+- name: [[barberry:/wines/cf113251-3124-4a63-8959-020e90600405][Beaune]]
 - vintage: 2017
 - grapes: Pinot Noir
 - appellation: Beaune AOC

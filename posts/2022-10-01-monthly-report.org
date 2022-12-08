@@ -90,7 +90,7 @@ I am happy to see Moldova, England and Slovakia on this list. And I am also happ
 | France       |    20 | 1 154.46 UAH |  7.75 | 2.3142 |
 | Italy        |    20 | 897.06 UAH   |  7.70 | 2.4923 |
 | Spain        |    13 | 737.81 UAH   |  7.89 | 3.3806 |
-| Hungary      |     7 | 654.27 UAH   |  7.37 | 2.3100 |
+| Hungary      |     7 | 669.53 UAH   |  7.37 | 2.2957 |
 | Australia    |     5 | 973.76 UAH   |  7.82 | 3.6178 |
 | New Zealand  |     5 | 626.51 UAH   |  7.50 | 2.7345 |
 | Germany      |     5 | 1 279.89 UAH |  7.97 | 2.0305 |
@@ -129,7 +129,7 @@ This month the oldest vintage is 2010. It’s sad to see 2012 missing. I would h
 |---------+-------+--------------+-------+--------|
 |    2021 |     4 | 621.29 UAH   |  7.39 | 2.6696 |
 |    2020 |    16 | 777.73 UAH   |  7.46 | 2.5424 |
-|    2019 |    22 | 769.07 UAH   |  7.55 | 2.5064 |
+|    2019 |    22 | 770.52 UAH   |  7.55 | 2.5052 |
 |    2018 |    15 | 942.98 UAH   |  7.85 | 3.0569 |
 |    2017 |    15 | 895.42 UAH   |  7.84 | 2.9974 |
 |    2016 |     2 | 899.35 UAH   |  8.02 | 2.8190 |
@@ -169,12 +169,13 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
-| Pinot Noir                   |    21 | 1 090.62 UAH |  7.79 | 2.2195 |
+| Pinot Noir                   |    21 | 1 092.15 UAH |  7.79 | 2.2180 |
 | Grenache                     |     7 | 660.20 UAH   |  7.52 | 3.2411 |
 | Chardonnay                   |     5 | 1 425.40 UAH |  8.07 | 3.5241 |
 | Gamay                        |     5 | 776.08 UAH   |  7.56 | 2.5570 |
 | Merlot                       |     4 | 1 153.93 UAH |  7.76 | 2.7060 |
 | Trousseau                    |     4 | 758.20 UAH   |  7.70 | 2.7923 |
+| Pinot Gris                   |     4 | 1 108.87 UAH |  8.07 | 2.5592 |
 | Glera                        |     4 | 598.12 UAH   |  7.03 | 2.3230 |
 | Sauvignon Blanc              |     3 | 967.02 UAH   |  7.86 | 2.4026 |
 | Tempranillo                  |     3 | 467.44 UAH   |  7.43 | 3.6544 |
@@ -187,12 +188,10 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | Riesling                     |     2 | 923.62 UAH   |  7.88 | 2.3848 |
 | Tintilia                     |     2 | 534.17 UAH   |  7.45 | 3.0592 |
 | Graciano                     |     2 | 534.17 UAH   |  7.45 | 3.0592 |
-| Pinot Grigio                 |     2 | 1 400.14 UAH |  8.38 | 2.4687 |
 | Malvasia di Candia Aromatica |     2 | 1 086.64 UAH |  8.02 | 2.4247 |
 | Sangiovese                   |     2 | 871.56 UAH   |  7.90 | 2.5613 |
 | Alicante Henri Bouschet      |     2 | 892.42 UAH   |  8.25 | 3.4292 |
 | Mencía                       |     2 | 542.56 UAH   |  7.75 | 3.7383 |
-| Pinot Gris                   |     2 | 817.60 UAH   |  7.75 | 2.6467 |
 | Blaufrankisch                |     2 | NA           |  7.45 |     NA |
 | Moscato Giallo               |     1 | 598.14 UAH   |  7.50 | 2.7729 |
 | Nerello Cappuccio            |     1 | 1 144.71 UAH |  8.50 | 3.0760 |
@@ -330,7 +329,7 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | 2022-09-02 | Italy        | [[barberry:/producers/aca06949-61c1-447d-9fd0-b9d063bfce40][Antoniolo]]                     | [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]           |    2014 | 8.50 | 2.3967 |
 | 2022-09-02 | Italy        | [[barberry:/producers/30053364-5420-43b0-8c58-67b5349e61c9][Filippi]]                       | [[barberry:/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33][Filippi Soave Colli Scaligeri Castelcerino 2019]] |    2019 | 7.80 | 2.5515 |
 | 2022-09-02 | Hungary      | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                        | [[barberry:/wines/0901f1a7-fea8-4940-a90e-d3471e665a55][Hummel Pinot Noir 2020]]             |    2020 | 7.75 |        |
-| 2022-09-02 | Hungary      | [[barberry:/producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee][Bencze]]                        | [[barberry:/wines/b564a7b1-37b0-48c2-b781-16103bc016c1][Bencze Atlas 2019]]                  |    2019 | 7.00 | 1.3847 |
+| 2022-09-02 | Hungary      | [[barberry:/producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee][Bencze]]                        | [[barberry:/wines/b564a7b1-37b0-48c2-b781-16103bc016c1][Bencze Atlas 2019]]                  |    2019 | 7.00 | 1.3362 |
 | 2022-09-02 | Slovakia     | [[barberry:/producers/29f7257e-733a-4cd0-bef1-7a2bdbe51ed3][Bott Frigyes]]                  | [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]          |    2019 | 7.50 | 2.0863 |
 | 2022-09-02 | Greece       | [[barberry:/producers/0049dd51-fe96-4d40-b2df-e4f7c948c5c0][Domaine Sigalas]]               | [[barberry:/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9][Domaine Sigalas Santorini 2020]]     |    2020 | 7.50 | 1.4652 |
 | 2022-09-02 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]              | [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]  |    2020 | 8.00 | 2.1034 |

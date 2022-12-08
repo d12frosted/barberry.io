@@ -9,7 +9,5 @@ country: "France"
 grapes: "Grenache, Syrah, Cinsault, Tibouren"
 rating: "7.25"
 image: "images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

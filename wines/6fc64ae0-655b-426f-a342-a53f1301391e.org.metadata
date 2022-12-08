@@ -9,7 +9,5 @@ country: "Portugal"
 grapes: "Touriga Nacional"
 rating: "7.50"
 image: "images/6f/c64ae0-655b-426f-a342-a53f1301391e/2022-12-07-21-14-33-89CA1476-EA8A-470D-B160-56B3D851D925-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/6f/c64ae0-655b-426f-a342-a53f1301391e/2022-12-07-21-14-33-89CA1476-EA8A-470D-B160-56B3D851D925-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/6f/c64ae0-655b-426f-a342-a53f1301391e/2022-12-07-21-14-33-89CA1476-EA8A-470D-B160-56B3D851D925-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"
