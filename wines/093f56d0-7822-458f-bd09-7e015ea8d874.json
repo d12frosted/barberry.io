@@ -1,7 +1,7 @@
 {
   "id": "093f56d0-7822-458f-bd09-7e015ea8d874",
-  "name": "Calvarino",
-  "full-name": "Pieropan Calvarino 2017",
+  "name": "Calvarino Soave Classico",
+  "full-name": "Pieropan Calvarino Soave Classico 2017",
   "producer": {
     "id": "61a2a8cc-37d2-47ac-a883-1c8e95bac5bf",
     "name": "Pieropan"
@@ -28,7 +28,7 @@
   "prices": [
     "890 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/09/3f56d0-7822-458f-bd09-7e015ea8d874/2022-12-09-17-40-30-DC3BD82A-5007-4BAD-9821-092BCB1D275F-1-105-c.webp",
-  "rating": "NA"
+  "rating": "7.0"
 }

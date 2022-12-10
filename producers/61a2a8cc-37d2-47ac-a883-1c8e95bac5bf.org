@@ -5,8 +5,8 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/093f56d0-7822-458f-bd09-7e015ea8d874.html">
     <img class="flex-bottle" src="/images/09/3f56d0-7822-458f-bd09-7e015ea8d874/2022-12-09-17-40-30-DC3BD82A-5007-4BAD-9821-092BCB1D275F-1-105-c.webp"></img>
-    <section class="h">★ -</section>
-    <section class="h text-bolder">Calvarino - 2017</section>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Calvarino Soave Classico - 2017</section>
   </a>
 
 </div>

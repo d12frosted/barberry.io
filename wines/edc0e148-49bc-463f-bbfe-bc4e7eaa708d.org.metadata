@@ -7,9 +7,7 @@ name: "Pinostradamus Pinot Noir"
 vintage: "2018"
 country: "France"
 grapes: "Pinot Noir"
-rating: "7.38"
+rating: "7.58"
 image: "images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

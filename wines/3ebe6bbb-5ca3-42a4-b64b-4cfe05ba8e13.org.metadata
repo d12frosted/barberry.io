@@ -9,7 +9,5 @@ country: "France"
 grapes: "Savagnin"
 rating: "8.00"
 image: "images/3e/be6bbb-5ca3-42a4-b64b-4cfe05ba8e13/2020-07-31-10-10-11-B9B1ADF8-67B3-4FD1-8063-1E30A9CE9E23-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/3e/be6bbb-5ca3-42a4-b64b-4cfe05ba8e13/2020-07-31-10-10-11-B9B1ADF8-67B3-4FD1-8063-1E30A9CE9E23-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/3e/be6bbb-5ca3-42a4-b64b-4cfe05ba8e13/2020-07-31-10-10-11-B9B1ADF8-67B3-4FD1-8063-1E30A9CE9E23-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

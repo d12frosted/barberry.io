@@ -7,8 +7,7 @@ name: "Foudre à Canon"
 vintage: "2019"
 country: "France"
 grapes: "Savagnin"
+rating: "8.00"
 image: "images/0c/1d7f5c-0ea5-4dab-be1e-34b319f49159/2022-12-10-12-10-07-IMG-3694.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/0c/1d7f5c-0ea5-4dab-be1e-34b319f49159/2022-12-10-12-10-07-IMG-3694.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/0c/1d7f5c-0ea5-4dab-be1e-34b319f49159/2022-12-10-12-10-07-IMG-3694.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

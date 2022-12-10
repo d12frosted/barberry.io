@@ -7,8 +7,7 @@ name: "Vin Jaune"
 vintage: "2013"
 country: "France"
 grapes: "Savagnin"
+rating: "8.00"
 image: "images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

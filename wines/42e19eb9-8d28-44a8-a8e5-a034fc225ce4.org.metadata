@@ -7,8 +7,7 @@ name: "Terre du Lias"
 vintage: "2018"
 country: "France"
 grapes: "Chardonnay"
+rating: "8.00"
 image: "images/42/e19eb9-8d28-44a8-a8e5-a034fc225ce4/2022-12-10-12-04-53-IMG-3691.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/42/e19eb9-8d28-44a8-a8e5-a034fc225ce4/2022-12-10-12-04-53-IMG-3691.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/42/e19eb9-8d28-44a8-a8e5-a034fc225ce4/2022-12-10-12-04-53-IMG-3691.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

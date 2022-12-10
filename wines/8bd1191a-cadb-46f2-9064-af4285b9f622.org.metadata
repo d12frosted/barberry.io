@@ -9,7 +9,5 @@ country: "Spain"
 grapes: "Zibibbo"
 rating: "7.75"
 image: "images/8b/d1191a-cadb-46f2-9064-af4285b9f622/2021-08-28-10-48-40-6885FBF5-9EAB-498E-853E-49CA0DD2D381-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/8b/d1191a-cadb-46f2-9064-af4285b9f622/2021-08-28-10-48-40-6885FBF5-9EAB-498E-853E-49CA0DD2D381-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/8b/d1191a-cadb-46f2-9064-af4285b9f622/2021-08-28-10-48-40-6885FBF5-9EAB-498E-853E-49CA0DD2D381-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"

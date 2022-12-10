@@ -7,8 +7,7 @@ name: "La Cosa - The Thing"
 vintage: "2020"
 country: "Spain"
 grapes: "Zibibbo"
+rating: "7.50"
 image: "images/96/039a14-48c5-427c-ba3e-1e0cb88c9a26/2022-12-10-12-14-06-IMG-3709.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/96/039a14-48c5-427c-ba3e-1e0cb88c9a26/2022-12-10-12-14-06-IMG-3709.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/96/039a14-48c5-427c-ba3e-1e0cb88c9a26/2022-12-10-12-14-06-IMG-3709.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
