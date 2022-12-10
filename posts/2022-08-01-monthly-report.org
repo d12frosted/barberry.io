@@ -34,7 +34,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 #+results: countries-data
 | country        | count | p avg        | r rms |    qpr |
 |----------------+-------+--------------+-------+--------|
-| Italy          |    22 | 918.19 UAH   |  7.81 | 2.6845 |
+| Italy          |    22 | 915.75 UAH   |  7.81 | 2.7100 |
 | Spain          |    17 | 837.01 UAH   |  7.44 | 2.9946 |
 | France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
@@ -72,7 +72,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |---------+-------+--------------+-------+--------|
 |    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
 |    2020 |    22 | 727.37 UAH   |  7.04 | 2.7159 |
-|    2019 |    12 | 852.99 UAH   |  7.74 | 2.7914 |
+|    2019 |    12 | 848.51 UAH   |  7.74 | 2.8363 |
 |    2018 |    16 | 1 102.58 UAH |  8.01 | 2.5451 |
 |    2017 |     7 | 1 011.86 UAH |  7.41 | 1.8298 |
 |    2016 |     5 | 918.82 UAH   |  7.82 | 2.5769 |
@@ -130,7 +130,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Grüner Veltliner             |     2 | 568.00 UAH   |  7.00 | 2.2516 |
 | Xinomavro                    |     2 | 825.12 UAH   |  7.86 | 2.8652 |
 | Cariñena                     |     1 | 621.29 UAH   |  7.50 | 2.6696 |
-| Barbera                      |     1 | 547.98 UAH   |  7.75 | 3.6345 |
+| Barbera                      |     1 | 494.22 UAH   |  7.75 | 4.0298 |
 | Athiri Lefko                 |     1 | 750.00 UAH   |  3.00 | 0.1772 |
 | Tempranillo                  |     1 | 334.00 UAH   |  7.40 | 4.6202 |
 | Liatiko                      |     1 | 750.00 UAH   |  5.00 | 0.4431 |
@@ -248,7 +248,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 |       date | country                                                     | producer                                                              | name                                                                            | vintage | rate |    QPR |
 |------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------+---------+------+--------|
 | 2022-07-31 | South Africa   | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]               | [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Testalonga Baby Bandito Follow Your Dreams 2021]] |    2021 | 7.50 | 2.6696 |
-| 2022-07-30 | Italy          | [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]           | [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]        |    2019 | 7.75 | 3.6345 |
+| 2022-07-30 | Italy          | [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]           | [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]        |    2019 | 7.75 | 4.0298 |
 | 2022-07-29 | Greece         | [[barberry:/producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e][Shima L.P Winery]]         | [[barberry:/wines/15040117-337e-43f7-aae4-d74e7ea92d5e][Shima L.P Winery Thrapsathiri 2020]] |    2020 | 3.00 | 0.1772 |
 | 2022-07-29 | Spain          | [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]            | [[barberry:/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb][Els Vinyerons Saltamartí 2020]]      |    2020 | 7.40 | 4.6202 |
 | 2022-07-29 | Greece         | [[barberry:/producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e][Shima L.P Winery]]         | [[barberry:/wines/d43bf6e9-bdd8-4805-953a-e23e28699260][Shima L.P Winery Vidiano Old Vines 2020]] |    2020 | 5.00 | 0.4431 |

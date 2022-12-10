@@ -1,0 +1,35 @@
+{
+  "id": "edc0e148-49bc-463f-bbfe-bc4e7eaa708d",
+  "name": "Pinostradamus Pinot Noir",
+  "full-name": "Domaine de La Borde Pinostradamus Pinot Noir 2018",
+  "producer": {
+    "id": "831e59f1-2aca-4fb2-8ba9-c75cab9c5dcf",
+    "name": "Domaine de La Borde"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1141 UAH",
+    "891 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.webp",
+  "rating": "7.375"
+}

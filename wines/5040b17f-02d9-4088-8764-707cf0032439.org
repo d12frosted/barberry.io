@@ -34,6 +34,42 @@ Tasting again after a year. And I like it even more than before. Beautiful bouqu
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0c1d7f5c-0ea5-4dab-be1e-34b319f49159.html">
+    <img class="flex-bottle" src="/images/0c/1d7f5c-0ea5-4dab-be1e-34b319f49159/2022-12-10-12-10-07-IMG-3694.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Foudre à Canon - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3ebe6bbb-5ca3-42a4-b64b-4cfe05ba8e13.html">
+    <img class="flex-bottle" src="/images/3e/be6bbb-5ca3-42a4-b64b-4cfe05ba8e13/2020-07-31-10-10-11-B9B1ADF8-67B3-4FD1-8063-1E30A9CE9E23-1-105-c.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Foudre à Canon - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/42e19eb9-8d28-44a8-a8e5-a034fc225ce4.html">
+    <img class="flex-bottle" src="/images/42/e19eb9-8d28-44a8-a8e5-a034fc225ce4/2022-12-10-12-04-53-IMG-3691.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Terre du Lias - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
+    <img class="flex-bottle" src="/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Pinostradamus Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f1cff90d-27af-4f71-9694-956ca5b8c789.html">
+    <img class="flex-bottle" src="/images/f1/cff90d-27af-4f71-9694-956ca5b8c789/2022-12-10-12-07-10-IMG-3688.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Terre du Lias - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f2f86ca7-58c8-4afc-96ee-8a2485b26aa7.html">
+    <img class="flex-bottle" src="/images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Vin Jaune - 2013</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
     <img class="flex-bottle" src="/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861.webp"></img>
     <section class="h">Lyme Bay</section>
