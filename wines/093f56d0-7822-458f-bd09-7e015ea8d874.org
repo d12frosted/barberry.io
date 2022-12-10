@@ -39,19 +39,25 @@ Ah, you think ageing on lees is your ally? You merely adopted the lees. Calvarin
     <section class="h text-bolder">La Cosa - The Thing - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
+  <a class="flex-item flex-item-right" href="/wines/b139671b-c4ed-4d57-bae0-6c0b0abebcc7.html">
+    <img class="flex-bottle" src="/images/b1/39671b-c4ed-4d57-bae0-6c0b0abebcc7/2022-11-15-17-04-16-IMG-3184.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Vino Rosso L.F05/2021/22 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
     <img class="flex-bottle" src="/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Pinostradamus Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f1cff90d-27af-4f71-9694-956ca5b8c789.html">
+  <a class="flex-item flex-item-right" href="/wines/f1cff90d-27af-4f71-9694-956ca5b8c789.html">
     <img class="flex-bottle" src="/images/f1/cff90d-27af-4f71-9694-956ca5b8c789/2022-12-10-12-07-10-IMG-3688.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Terre du Lias - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f2f86ca7-58c8-4afc-96ee-8a2485b26aa7.html">
+  <a class="flex-item flex-item-left" href="/wines/f2f86ca7-58c8-4afc-96ee-8a2485b26aa7.html">
     <img class="flex-bottle" src="/images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Vin Jaune - 2013</section>

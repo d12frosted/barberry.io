@@ -73,5 +73,11 @@ Unexpectedly expressive and intense Chardonnay. The bouquet is a mixture of chee
     <section class="h text-bolder">La Cosa - The Thing - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/b139671b-c4ed-4d57-bae0-6c0b0abebcc7.html">
+    <img class="flex-bottle" src="/images/b1/39671b-c4ed-4d57-bae0-6c0b0abebcc7/2022-11-15-17-04-16-IMG-3184.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Vino Rosso L.F05/2021/22 - NV</section>
+  </a>
+
 </div>
 #+end_export
