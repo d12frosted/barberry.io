@@ -1,21 +1,21 @@
 #+attr_html: :class wine-main-image
-[[file:/images/de/97eeab-44a5-412c-9a97-c9c24a9b9d47/2020-10-27-10-15-44-7A3F6610-3CF7-432E-AEB4-75FA68DBC19D-1-105-c.webp]]
+[[file:/images/e4/e1e99a-534d-4ebf-bf0c-7f7163666a0e/2020-02-09-11-53-41-278D1CE3-750D-4C27-8D51-F45B842E8C43-1-105-c.webp]]
 
-- Type :: Red Still, Dry
+- Type :: White Still, Dry
 - Producer :: [[barberry:/producers/7bec814a-5334-4712-9ffb-46c8cc42ca8b][Gulfi]]
-- Vintage :: 2014
-- Location :: Italy, IGP Terre Siciliane
-- Grapes :: Nerello Mascalese
-- Alcohol :: 13.5
-- Sugar :: 2.1
-- Price :: 926 UAH
+- Vintage :: 2016
+- Location :: Italy, Sicilia DOC
+- Grapes :: Carricante
+- Alcohol :: 13
+- Sugar :: 1.1
+- Price :: 700 UAH
 - Cellar :: N/A
 
 ** Ratings
 
-*** 2020-11-29 - ☆ 8.00
+*** 2020-02-06 - ☆ 8.00
 
-Ripe cherry, spices, wet logs, and gravel. Elegant and relatively light. Medium-high tannins and acidity. This wine is more enjoyable when chilled a little bit. Flavourful, wet logs, sour cherry and spices. Long and evolving aftertaste. I actually think that this wine is not ready yet. Still a little bit green.
+Great wine. White flowers, grass, montane grasslands after the rain, stones and honey. Acidity is medium and refreshing, taste is round and oily. The balance is great, intensity is great, after taste is long. However complexity could be better.
 
 ** Related
 
@@ -69,16 +69,22 @@ Ripe cherry, spices, wet logs, and gravel. Elegant and relatively light. Medium-
     <section class="h text-bolder">Nerojbleo - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e4e1e99a-534d-4ebf-bf0c-7f7163666a0e.html">
-    <img class="flex-bottle" src="/images/e4/e1e99a-534d-4ebf-bf0c-7f7163666a0e/2020-02-09-11-53-41-278D1CE3-750D-4C27-8D51-F45B842E8C43-1-105-c.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/de97eeab-44a5-412c-9a97-c9c24a9b9d47.html">
+    <img class="flex-bottle" src="/images/de/97eeab-44a5-412c-9a97-c9c24a9b9d47/2020-10-27-10-15-44-7A3F6610-3CF7-432E-AEB4-75FA68DBC19D-1-105-c.webp"></img>
     <section class="h">Gulfi</section>
-    <section class="h text-bolder">Carjcanti - 2016</section>
+    <section class="h text-bolder">Reseca - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e8620abd-4485-4fe3-8cb2-4bccc2294031.html">
     <img class="flex-bottle" src="/images/e8/620abd-4485-4fe3-8cb2-4bccc2294031/2020-07-09-07-49-18-CF23C6EA-F16F-4D8E-BF80-1422A84CE487-1-105-c.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">neroBaronj - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/94ec9be5-892e-4b46-92a6-fcc7ff071b0a.html">
+    <img class="flex-bottle" src="/images/94/ec9be5-892e-4b46-92a6-fcc7ff071b0a/2020-02-15-11-42-10-5C82A6B3-81D8-4D59-B9D0-233D0680DC67-1-105-c.webp"></img>
+    <section class="h">Ashbourne</section>
+    <section class="h text-bolder">Pinotage Cinsault - 2019</section>
   </a>
 
 </div>

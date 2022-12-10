@@ -12,7 +12,7 @@ Little by little I am getting back to mindful wine consumption. Ratio of total w
 #+results: countries-data
 | country     | count | p avg        | r rms |    qpr |
 |-------------+-------+--------------+-------+--------|
-| Italy       |     9 | 492.21 UAH   |  6.67 | 2.3652 |
+| Italy       |     9 | 486.24 UAH   |  6.67 | 2.4353 |
 | France      |     6 | 907.10 UAH   |  7.43 | 2.7884 |
 | Chile       |     5 | 392.00 UAH   |  6.58 | 2.5070 |
 | New Zealand |     4 | 670.38 UAH   |  7.39 | 2.4775 |
@@ -42,7 +42,7 @@ Country-wise, this month wasn't that fruitful, only 8 countries are present in m
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
 |    2020 |     8 | 434.88 UAH   |  6.73 | 2.4764 |
-|    2019 |     8 | 629.54 UAH   |  6.97 | 2.3126 |
+|    2019 |     8 | 622.82 UAH   |  6.97 | 2.3931 |
 |    2018 |     3 | 1 098.00 UAH |  7.75 | 2.1753 |
 |    2016 |     1 | 395.00 UAH   |  6.50 | 2.0975 |
 |    2014 |     1 | 706.00 UAH   |  7.75 | 2.8210 |
@@ -107,7 +107,7 @@ Nothing that critical, just mediocre wines. So no witch hunting this month.
 | 2022-05-16 | Austria     | [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]] | [[barberry:/wines/9e046e12-6366-4d23-8657-ee421ad00794][Weingut Bründlmayer Brut Rosé NV]]                          |      NV | 8.00 | 2.4372 |
 | 2022-05-15 | New Zealand | [[barberry:/producers/86dc3674-f53b-4b77-9d80-07d10dbd1249][Fernway]]             | [[barberry:/wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf][Fernway Sauvignon Blanc 2019]]                              |    2019 | 7.00 | 1.5509 |
 | 2022-05-14 | France      | [[barberry:/producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca][Jacquesson]]          | [[barberry:/wines/3d289f72-4a84-4d3e-9598-4865b952b023][Jacquesson Cuvée 744 Grand Vin (2016) NV]]                  |      NV | 8.50 | 1.7143 |
-| 2022-05-11 | Italy       | [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]      | [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]                               |    2019 | 7.75 | 3.6345 |
+| 2022-05-11 | Italy       | [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]]      | [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]                               |    2019 | 7.75 | 4.0298 |
 | 2022-05-10 | France      | [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]]      | [[barberry:/wines/72af4b22-a56f-4f04-a0e7-c6e3a6179600][Patrice Beguet Big Bunch Theory Fresh Impression Red 2020]] |    2020 | 7.50 | 2.6752 |
 | 2022-05-08 | Australia   | [[barberry:/producers/5166bbee-f282-41d3-a92d-08890f2ce175][Two Hands]]           | [[barberry:/wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd][Two Hands Sexy Beast 2019]]                                 |    2019 | 7.50 | 2.3770 |
 | 2022-05-04 | Italy       | [[barberry:/producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9][San Leonardo]]        | [[barberry:/wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e][San Leonardo Terre di San Leonardo 2014]]                   |    2014 | 7.75 | 2.8210 |

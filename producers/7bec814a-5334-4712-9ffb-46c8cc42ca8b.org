@@ -3,6 +3,18 @@
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91.html">
+    <img class="flex-bottle" src="/images/86/99dab9-59a5-41f3-8e57-df21f04d5e91/2022-12-09-17-37-39-C0B71F75-4229-44CE-846D-DF008F8E3553-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Carjcanti - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e4e1e99a-534d-4ebf-bf0c-7f7163666a0e.html">
+    <img class="flex-bottle" src="/images/e4/e1e99a-534d-4ebf-bf0c-7f7163666a0e/2020-02-09-11-53-41-278D1CE3-750D-4C27-8D51-F45B842E8C43-1-105-c.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Carjcanti - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
     <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388.webp"></img>
     <section class="h">★ 8.50</section>

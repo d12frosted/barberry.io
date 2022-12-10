@@ -45,5 +45,11 @@ Lovely as ever. Who would expect a blend of Pinotage and Cinsault to be so elega
     <section class="h text-bolder">Pinot Noir - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/e4e1e99a-534d-4ebf-bf0c-7f7163666a0e.html">
+    <img class="flex-bottle" src="/images/e4/e1e99a-534d-4ebf-bf0c-7f7163666a0e/2020-02-09-11-53-41-278D1CE3-750D-4C27-8D51-F45B842E8C43-1-105-c.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Carjcanti - 2016</section>
+  </a>
+
 </div>
 #+end_export
