@@ -9,7 +9,7 @@
 - Alcohol :: 14
 - Sugar :: 4.99
 - Price :: 276 UAH, 610 UAH, 568 UAH, 454 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -28,6 +28,8 @@ Let's try to ignore the fact that Nadia Verrua changed the label colours to a pa
 #+attr_html: :class img-half
 #+caption: Special Ukrainian edition
 [[file:/images/28/bd8c32-5ba7-4c2a-b72b-544455feb1be/2022-07-31-12-13-09-EA779F8A-B7D3-498B-822C-7FC09FC07601-1-105-c.webp]]
+
+*** 2022-12-10 - ☆ 7.75
 
 ** Related
 
@@ -85,6 +87,12 @@ Let's try to ignore the fact that Nadia Verrua changed the label colours to a pa
     <img class="flex-bottle" src="/images/f0/db84a1-8b0c-44aa-9647-cdf0dc9f4e6b/2020-10-31-09-31-08-4EEFF3DD-EDE8-4AAB-94F1-DB4D70F66ABE-1-105-c.webp"></img>
     <section class="h">Cascina Tavijn</section>
     <section class="h text-bolder">Vino Rosso LFB44.2018/19 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5343a20a-c19e-44fd-8bf0-1ca7cf206d97.html">
+    <img class="flex-bottle" src="/images/53/43a20a-c19e-44fd-8bf0-1ca7cf206d97/2022-12-11-10-34-59-A61ACE7F-AF62-47C0-8C3E-F2FBFE922199-1-105-c.webp"></img>
+    <section class="h">Bodegas Martín Códax</section>
+    <section class="h text-bolder">Rías Baixas Albariño - NV</section>
   </a>
 
 </div>
