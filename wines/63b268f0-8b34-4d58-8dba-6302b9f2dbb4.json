@@ -1,7 +1,7 @@
 {
   "id": "63b268f0-8b34-4d58-8dba-6302b9f2dbb4",
-  "name": "Brut Blanc de Blancs",
-  "full-name": "Francois Montand Brut Blanc de Blancs NV",
+  "name": "Méthode Traditionnelle Blanc de Blancs Brut",
+  "full-name": "Francois Montand Méthode Traditionnelle Blanc de Blancs Brut NV",
   "producer": {
     "id": "8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3",
     "name": "Francois Montand"
@@ -26,9 +26,10 @@
   "alcohol": "11",
   "sugar": "10",
   "prices": [
+    "299 UAH",
     "232 UAH"
   ],
-  "available": 0.0,
-  "image": "images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2021-09-26-13-59-05-748C600F-92FF-4B4B-8332-073E71AFE82B-1-105-c.webp",
+  "available": 3.0,
+  "image": "images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.webp",
   "rating": "NA"
 }

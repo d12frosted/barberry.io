@@ -716,6 +716,25 @@ Basically, keep only public notes."
 
 
 
+(defun brb-sha1sum-attachment (obj)
+  "Calculate sha1sum of attachment OBJ.
+
+The attachments table is defined by custom configurations in the
+init file."
+  (cond
+   ((porg-rule-output-p obj)
+    (let ((id (s-split ":" (porg-rule-output-id obj)))
+          (file (file-name-nondirectory (porg-rule-output-item obj))))
+      (org-roam-db-query
+       [:select hash
+        :from attachments
+        :where (and (= node-id $s1)
+                    (= file $s2))]
+       id file)))
+   (t (user-error "Unknown type of attachments %s" obj))))
+
+
+
 (org-link-set-parameters "barberry" :follow #'org-roam-link-follow-link)
 
 (setf porg-log-level 'info)
@@ -1045,6 +1064,7 @@ Basically, keep only public notes."
   (porg-compiler
    :name "images"
    :match (-rpartial #'porg-rule-output-that :type "attachment" :predicate #'brb-supported-image-p)
+   :hash #'brb-sha1sum-attachment
    :build
    (lambda (item _items _cache)
      (let ((max-width 960)
