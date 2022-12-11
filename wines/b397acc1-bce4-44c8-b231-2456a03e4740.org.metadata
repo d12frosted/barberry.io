@@ -9,7 +9,5 @@ country: "France"
 grapes: "Grenache, Cinsault"
 rating: "7.22"
 image: "images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

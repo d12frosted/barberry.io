@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ed/4d798e-7b3a-482b-89d5-f807db6918cd/2020-12-03-10-49-18-9D348FFB-BA4F-490C-9762-1EE96E21B0ED-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/f0beed1e-653f-451d-84a3-2a8a0d4c463c][La Rioja Alta]]
+- Vintage :: 2010
+- Location :: Spain, Rioja DOC
+- Grapes :: Tempranillo, Grenache
+- Alcohol :: 13.5
+- Sugar :: 1.7
+- Price :: 985 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-11-10 - ☆ 8.00
+
+Viña Ardanza is an important wine in my life (a story for another time), so I was very happy to enjoy it. Classical Rioja style, prune, spices, vanilla, sour cherry, humidor. Already feels old, good acidity, silky tannins. Well, it is very well made wine despite the mass production :)
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8cefb8f6-f492-4e85-bc9f-82bb52596ca7.html">
+    <img class="flex-bottle" src="/images/8c/efb8f6-f492-4e85-bc9f-82bb52596ca7/2021-04-25-14-31-10-1A6CF2EE-BE68-4994-90CC-565862CCC4BE-1-105-c.webp"></img>
+    <section class="h">La Rioja Alta</section>
+    <section class="h text-bolder">Gran Reserva 904 - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7c874511-f4b1-4da9-83f2-5867b5a75c6f.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Tondonia Tinto Reserva - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
+    <img class="flex-bottle" src="/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Tondonia Rosé Gran Reserva - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">
+    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp"></img>
+    <section class="h">Raúl Pérez</section>
+    <section class="h text-bolder">La Vizcaína La Del Vivo - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/be4967c7-99b0-4dd7-9ad2-aa794161097d.html">
+    <img class="flex-bottle" src="/images/be/4967c7-99b0-4dd7-9ad2-aa794161097d/2020-11-11-13-27-32-66BA39E2-1E0B-426D-82F6-079244BF7A31-1-105-c.webp"></img>
+    <section class="h">Portal del Priorat</section>
+    <section class="h text-bolder">Somni - 2016</section>
+  </a>
+
+</div>
+#+end_export

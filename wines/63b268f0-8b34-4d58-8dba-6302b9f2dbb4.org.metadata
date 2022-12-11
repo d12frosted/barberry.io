@@ -8,7 +8,5 @@ vintage: "NV"
 country: "France"
 grapes: "Chardonnay"
 image: "images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

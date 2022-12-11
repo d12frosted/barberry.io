@@ -103,5 +103,11 @@ Tondonia 2007 red. This is a wine that I have issues with. It is old school and 
     <section class="h text-bolder">Somni - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/ed4d798e-7b3a-482b-89d5-f807db6918cd.html">
+    <img class="flex-bottle" src="/images/ed/4d798e-7b3a-482b-89d5-f807db6918cd/2020-12-03-10-49-18-9D348FFB-BA4F-490C-9762-1EE96E21B0ED-1-105-c.webp"></img>
+    <section class="h">La Rioja Alta</section>
+    <section class="h text-bolder">Viña Ardanza Reserva - 2010</section>
+  </a>
+
 </div>
 #+end_export
