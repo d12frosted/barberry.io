@@ -24,7 +24,7 @@ Small wine producer from Czech Republic.
 
   <a class="flex-item flex-item-right" href="/wines/60d26b16-bed9-4237-b56c-e78c98cd935f.html">
     <img class="flex-bottle" src="/images/60/d26b16-bed9-4237-b56c-e78c98cd935f/2022-11-26-10-39-00-IMG-3405.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Riesling - 2021</section>
   </a>
 
@@ -36,7 +36,7 @@ Small wine producer from Czech Republic.
 
   <a class="flex-item flex-item-right" href="/wines/9dd2628d-c95d-4da9-b807-a667b8962163.html">
     <img class="flex-bottle" src="/images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.25</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
