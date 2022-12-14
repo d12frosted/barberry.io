@@ -1,0 +1,34 @@
+{
+  "id": "d95d97ad-f3b4-4016-ba33-ae39b7865ff7",
+  "name": "Savigny-Lés-Beaune La Dominode 1er Cru",
+  "full-name": "Louis Jadot Savigny-Lés-Beaune La Dominode 1er Cru 2014",
+  "producer": {
+    "id": "84e281b6-57b7-42f2-a790-181a3b6e11bb",
+    "name": "Louis Jadot"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1510 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750.webp",
+  "rating": "NA"
+}

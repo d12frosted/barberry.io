@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/51239c2b-f533-4888-bd5a-97faf2299673.html">
+    <img class="flex-bottle" src="/images/51/239c2b-f533-4888-bd5a-97faf2299673/2022-12-14-08-02-05-IMG-3756.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Heimbourg Turckheim Pinot Gris - 2018</section>
+  </a>
+
+</div>
+#+end_export

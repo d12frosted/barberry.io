@@ -41,73 +41,79 @@ Time has a positive effect on this wine. A sewer turned into struck matches and 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/9ac7c172-b901-4f1c-97b7-508fd9dd40c4.html">
+  <a class="flex-item flex-item-left" href="/wines/8fd25ca8-dc64-4ce4-8455-441cbdefac1a.html">
+    <img class="flex-bottle" src="/images/8f/d25ca8-dc64-4ce4-8455-441cbdefac1a/2022-12-14-08-00-00-IMG-3754.webp"></img>
+    <section class="h">Foradori</section>
+    <section class="h text-bolder">Fuoripista Pinot Grigio - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9ac7c172-b901-4f1c-97b7-508fd9dd40c4.html">
     <img class="flex-bottle" src="/images/9a/c7c172-b901-4f1c-97b7-508fd9dd40c4/2022-09-17-20-24-48-IMG-2241.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Lezèr - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d85eeda5-d057-4e25-8314-167d4bf89471.html">
+  <a class="flex-item flex-item-left" href="/wines/d85eeda5-d057-4e25-8314-167d4bf89471.html">
     <img class="flex-bottle" src="/images/d8/5eeda5-d057-4e25-8314-167d4bf89471/2020-06-13-10-15-57-ADEEE46C-5EF7-4F6A-9F82-976D8D763035-1-105-c.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Sgarzon - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/db467582-71e2-4e4a-822a-550303f067a2.html">
+  <a class="flex-item flex-item-right" href="/wines/db467582-71e2-4e4a-822a-550303f067a2.html">
     <img class="flex-bottle" src="/images/db/467582-71e2-4e4a-822a-550303f067a2/2022-09-06-16-02-35-IMG-2029.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Fuoripista Pinot Grigio - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0.html">
+  <a class="flex-item flex-item-left" href="/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0.html">
     <img class="flex-bottle" src="/images/f9/d85e1b-8424-498e-83e8-e1307d7dd9b0/2022-09-26-19-13-00-1FF220DE-1716-4A41-B4A7-3F51BBA198C2-1-102-o.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Morei Teroldego - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
+  <a class="flex-item flex-item-right" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
     <img class="flex-bottle" src="/images/47/4939e8-1301-48d6-9227-cb9b57ad02be/2022-11-12-12-37-22-DBE35E30-5886-4EC2-95B8-CC311C7575D1-1-105-c.webp"></img>
     <section class="h">La Sorga</section>
     <section class="h text-bolder">Esprit Attila - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+  <a class="flex-item flex-item-left" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
     <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7ea33477-856c-45c1-ad2e-85b3159aaca3.html">
+  <a class="flex-item flex-item-right" href="/wines/7ea33477-856c-45c1-ad2e-85b3159aaca3.html">
     <img class="flex-bottle" src="/images/7e/a33477-856c-45c1-ad2e-85b3159aaca3/2022-11-12-12-46-17-32BB1714-6B15-4928-910C-EEDAE34BDFE6-1-105-c.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Clouds - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
+  <a class="flex-item flex-item-left" href="/wines/8832401d-3910-4072-a585-e7e4ad97324a.html">
     <img class="flex-bottle" src="/images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Conasbrancas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/98953414-b1c1-49cb-a48e-e4a0e2593565.html">
+  <a class="flex-item flex-item-right" href="/wines/98953414-b1c1-49cb-a48e-e4a0e2593565.html">
     <img class="flex-bottle" src="/images/98/953414-b1c1-49cb-a48e-e4a0e2593565/2022-11-12-12-33-57-0C817480-A23F-468B-A24F-8957FC97B7CE-1-105-c.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Noir de Florette - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
+  <a class="flex-item flex-item-left" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
     <img class="flex-bottle" src="/images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c.webp"></img>
     <section class="h">François de Nicolay</section>
     <section class="h text-bolder">Savigny-les-Beaune Premier Cru - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e0415878-d4b9-4d57-ac83-42ff34f90f86.html">
+  <a class="flex-item flex-item-right" href="/wines/e0415878-d4b9-4d57-ac83-42ff34f90f86.html">
     <img class="flex-bottle" src="/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2022-11-12-12-07-21-IMG-3146.webp"></img>
     <section class="h">Charles Dufour</section>
     <section class="h text-bolder">Bulles de Comptoir #10 Tchin Tchin - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/eabfe9f0-a91f-46ab-a2f1-3085849052a8.html">
+  <a class="flex-item flex-item-left" href="/wines/eabfe9f0-a91f-46ab-a2f1-3085849052a8.html">
     <img class="flex-bottle" src="/images/ea/bfe9f0-a91f-46ab-a2f1-3085849052a8/2020-08-29-18-34-20-7209BFF1-1A07-42B1-8B02-B885F750CB34-1-105-c.webp"></img>
     <section class="h">Charles Dufour</section>
     <section class="h text-bolder">Bulles de Comptoir #8 Stillleben - NV</section>
