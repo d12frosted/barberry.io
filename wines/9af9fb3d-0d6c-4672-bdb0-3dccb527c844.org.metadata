@@ -9,7 +9,5 @@ country: "Ukraine"
 grapes: "Pinot Blanc"
 rating: "7.00"
 image: "images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-12-14-07-58-00-IMG-3752.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-12-14-07-58-00-IMG-3752.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9a/f9fb3d-0d6c-4672-bdb0-3dccb527c844/2022-12-14-07-58-00-IMG-3752.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

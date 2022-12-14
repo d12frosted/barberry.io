@@ -1,0 +1,171 @@
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-08-51-30-IMG-3774.webp]]
+
+1. [[barberry:/wines/d95d97ad-f3b4-4016-ba33-ae39b7865ff7][Louis Jadot Savigny-Lés-Beaune La Dominode 1er Cru 2014]]
+2. [[barberry:/wines/9af9fb3d-0d6c-4672-bdb0-3dccb527c844][Vinoman Pinot Blanc 2021]]
+3. [[barberry:/wines/8fd25ca8-dc64-4ce4-8455-441cbdefac1a][Foradori Fuoripista Pinot Grigio 2021]]
+4. [[barberry:/wines/51239c2b-f533-4888-bd5a-97faf2299673][Domaine Zind Humbrecht Heimbourg Turckheim Pinot Gris 2018]]
+5. [[barberry:/wines/5c18d9be-e61a-4d75-9dc9-c68a6b2fbebb][Rudolf Fürst Klingenberger Spätburgunder 2019]]
+6. [[barberry:/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0][Tomislav Marković On the Rocks 2020]]
+7. [[barberry:/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9][Momento Mori Cardinia Rangers Rosé 2019]]
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B     |    3.80 |  +3.70+ |    4.00 |    3.80 |    3.80 |  *4.00* |    3.80 |
+| Oleksandr R |    3.20 |    3.70 |  *4.20* |    3.80 |    3.60 |    3.10 |  +3.10+ |
+| Andrii S    |    3.60 |    3.40 |    4.40 |  +3.30+ |  *4.10* |    3.70 |    4.00 |
+| Viktoria Zh |    3.90 |  +3.50+ |    4.40 |    4.10 |  *4.50* |    4.00 |    3.90 |
+| Dimitry G   |    3.20 |    3.00 |  *4.20* |    4.00 |    4.00 |    3.70 |  +3.20+ |
+| Elvira K    |    3.70 |  +3.70+ |    4.00 |    3.90 |    3.80 |  *3.90* |    4.00 |
+| Boris B     |    4.00 |    3.50 |    4.00 |    4.00 |    4.00 |  *4.10* |    4.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |  amean |   sdev | favourite | outcast |   price |      QPR |
+|---------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.63 | 0.0878 |      0.00 |    0.00 | 1510.00 |   0.9228 |
+| Wine #2 |   3.50 | 0.0543 |      0.00 |  +3.00+ |  600.00 |   1.9386 |
+| Wine #3 | *4.17* | 0.0278 |      2.00 |    0.00 | 1402.00 | *2.2233* |
+| Wine #4 |   3.84 | 0.0596 |      0.00 |    1.00 | 1576.00 |   1.2052 |
+| Wine #5 |   3.97 | 0.0706 |      2.00 |    0.00 | 1793.00 |   1.2823 |
+| Wine #6 |   3.79 | 0.0984 |    *3.00* |    0.00 | 1590.00 |   1.0987 |
+| Wine #7 |   3.71 | 0.1327 |      0.00 |    2.00 | 1358.00 |   1.1599 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Louis Jadot Savigny-Lés-Beaune La Dominode 1er Cru 2014
+:PROPERTIES:
+:ID:                     ebd2b483-a039-4bb9-bc11-cdbd791a40fb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-07-56-54-IMG-3750.webp]]
+
+- producer: [[barberry:/producers/84e281b6-57b7-42f2-a790-181a3b6e11bb][Louis Jadot]]
+- name: [[barberry:/wines/d95d97ad-f3b4-4016-ba33-ae39b7865ff7][Savigny-Lés-Beaune La Dominode 1er Cru]]
+- vintage: 2014
+- grapes: Pinot Noir
+- appellation: Savigny-les-Beaune AOC
+- location: Côte de Beaune, Côte d'Or, Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 1510 UAH
+
+* Vinoman Pinot Blanc 2021
+:PROPERTIES:
+:ID:                     007245bd-c193-4850-8f29-3a84b79787bd
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-07-58-00-IMG-3752.webp]]
+
+- producer: [[barberry:/producers/1360c306-3364-428a-a606-7f44dfbef128][Vinoman]]
+- name: [[barberry:/wines/9af9fb3d-0d6c-4672-bdb0-3dccb527c844][Pinot Blanc]]
+- vintage: 2021
+- grapes: Pinot Blanc
+- region: Chernihiv Oblast
+- location: Ukraine
+- alcohol: 11.3
+- sugar: N/A
+- price: 600 UAH
+
+* Foradori Fuoripista Pinot Grigio 2021
+:PROPERTIES:
+:ID:                     8b6013ad-a006-4fda-ab45-4d2f35bcbe18
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-08-00-00-IMG-3754.webp]]
+
+- producer: [[barberry:/producers/4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae][Foradori]]
+- name: [[barberry:/wines/8fd25ca8-dc64-4ce4-8455-441cbdefac1a][Fuoripista Pinot Grigio]]
+- vintage: 2021
+- grapes: Pinot Gris
+- appellation: IGP Vigneti delle Dolomiti
+- location: Trentino-Alto Adige, Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 1402 UAH
+
+* Domaine Zind Humbrecht Heimbourg Turckheim Pinot Gris 2018
+:PROPERTIES:
+:ID:                     b498f45d-a8d8-4650-a1dd-42f85c5b3ea7
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-08-02-05-IMG-3756.webp]]
+
+- producer: [[barberry:/producers/cafe3e0b-e2a6-44f9-b5c1-521026cea5fa][Domaine Zind Humbrecht]]
+- name: [[barberry:/wines/51239c2b-f533-4888-bd5a-97faf2299673][Heimbourg Turckheim Pinot Gris]]
+- vintage: 2018
+- grapes: Pinot Gris
+- appellation: Alsace AOC
+- location: Alsace, France
+- alcohol: 13
+- sugar: 1.7
+- price: 1576 UAH
+
+* Rudolf Fürst Klingenberger Spätburgunder 2019
+:PROPERTIES:
+:ID:                     b48dcd44-f4b4-454e-bdd4-cb346c7256d1
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-08-04-47-IMG-3759.webp]]
+
+- producer: [[barberry:/producers/0c73ef8f-0f5a-48d9-a2f6-9e98e5fd677b][Rudolf Fürst]]
+- name: [[barberry:/wines/5c18d9be-e61a-4d75-9dc9-c68a6b2fbebb][Klingenberger Spätburgunder]]
+- vintage: 2019
+- grapes: Pinot Noir
+- appellation: Deutscher Wein
+- location: Germany
+- alcohol: 13
+- sugar: 1
+- price: 1793 UAH
+
+* Tomislav Marković On the Rocks 2020
+:PROPERTIES:
+:ID:                     2f7aaeea-48af-4d77-b673-fe5da25402d3
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2022-12-14-08-06-15-IMG-3761.webp]]
+
+- producer: [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]
+- name: [[barberry:/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0][On the Rocks]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Landwein Oberrhein
+- location: Germany
+- alcohol: 12.5
+- sugar: 0.2
+- price: 1590 UAH
+
+* Momento Mori Cardinia Rangers Rosé 2019
+:PROPERTIES:
+:ID:                     022a9838-4e66-482d-aa16-cada1832874e
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-13-to-each-their-own-vol--1/2021-07-14-08-45-53-83D900BD-3859-46A3-A629-FC5BCEEB7D6F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
+- name: [[barberry:/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9][Cardinia Rangers Rosé]]
+- vintage: 2019
+- grapes: Pinot Noir
+- region: Gippsland
+- location: Victoria, Australia
+- alcohol: 12.4
+- sugar: 1
+- price: 1358 UAH
+

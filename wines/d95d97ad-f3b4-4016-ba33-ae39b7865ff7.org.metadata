@@ -7,8 +7,7 @@ name: "Savigny-Lés-Beaune La Dominode 1er Cru"
 vintage: "2014"
 country: "France"
 grapes: "Pinot Noir"
+rating: "8.00"
 image: "images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
