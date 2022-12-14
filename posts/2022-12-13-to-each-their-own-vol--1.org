@@ -25,7 +25,7 @@ For this event, our topic was the Pinot family. It means that the wine must be m
 | Viktoria Zh |    3.90 |  +3.50+ |    4.40 |    4.10 |  *4.50* |    4.00 |    3.90 |
 | Dimitry G   |    3.20 |    3.00 |  *4.20* |    4.00 |    4.00 |    3.70 |  +3.20+ |
 | Elvira K    |    3.70 |  +3.70+ |    4.00 |    3.90 |    3.80 |  *3.90* |    4.00 |
-| Boris B     |    4.00 |    3.50 |    4.00 |    4.00 |    4.00 |  *4.10* |    4.00 |
+| Boris B     |    4.00 |  +3.50+ |    4.00 |    4.00 |    4.00 |  *4.10* |    4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
@@ -33,7 +33,7 @@ For this event, our topic was the Pinot family. It means that the wine must be m
 |         |  amean |   sdev | favourite | outcast |   price |      QPR |
 |---------+--------+--------+-----------+---------+---------+----------|
 | Wine #1 |   3.63 | 0.0878 |      0.00 |    0.00 | 1510.00 |   0.9228 |
-| Wine #2 |   3.50 | 0.0543 |      0.00 |  +3.00+ |  600.00 |   1.9386 |
+| Wine #2 |   3.50 | 0.0543 |      0.00 |  +4.00+ |  600.00 |   1.9386 |
 | Wine #3 | *4.17* | 0.0278 |      2.00 |    0.00 | 1402.00 | *2.2233* |
 | Wine #4 |   3.84 | 0.0596 |      0.00 |    1.00 | 1576.00 |   1.2052 |
 | Wine #5 |   3.97 | 0.0706 |      2.00 |    0.00 | 1793.00 |   1.2823 |
