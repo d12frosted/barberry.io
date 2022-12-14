@@ -7,8 +7,7 @@ name: "Heimbourg Turckheim Pinot Gris"
 vintage: "2018"
 country: "France"
 grapes: "Pinot Gris"
+rating: "8.00"
 image: "images/51/239c2b-f533-4888-bd5a-97faf2299673/2022-12-14-08-02-05-IMG-3756.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/51/239c2b-f533-4888-bd5a-97faf2299673/2022-12-14-08-02-05-IMG-3756.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/51/239c2b-f533-4888-bd5a-97faf2299673/2022-12-14-08-02-05-IMG-3756.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

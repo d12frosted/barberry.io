@@ -7,8 +7,7 @@ name: "Klingenberger Spätburgunder"
 vintage: "2019"
 country: "Germany"
 grapes: "Pinot Noir"
+rating: "8.00"
 image: "images/5c/18d9be-e61a-4d75-9dc9-c68a6b2fbebb/2022-12-14-08-04-47-IMG-3759.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/5c/18d9be-e61a-4d75-9dc9-c68a6b2fbebb/2022-12-14-08-04-47-IMG-3759.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/5c/18d9be-e61a-4d75-9dc9-c68a6b2fbebb/2022-12-14-08-04-47-IMG-3759.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5c18d9be-e61a-4d75-9dc9-c68a6b2fbebb.html">
     <img class="flex-bottle" src="/images/5c/18d9be-e61a-4d75-9dc9-c68a6b2fbebb/2022-12-14-08-04-47-IMG-3759.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Klingenberger Spätburgunder - 2019</section>
   </a>
 

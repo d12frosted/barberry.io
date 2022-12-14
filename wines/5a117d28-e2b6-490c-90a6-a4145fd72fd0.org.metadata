@@ -7,8 +7,7 @@ name: "On the Rocks"
 vintage: "2020"
 country: "Germany"
 grapes: "Pinot Noir"
+rating: "8.25"
 image: "images/5a/117d28-e2b6-490c-90a6-a4145fd72fd0/2022-12-14-08-06-15-IMG-3761.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/5a/117d28-e2b6-490c-90a6-a4145fd72fd0/2022-12-14-08-06-15-IMG-3761.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/5a/117d28-e2b6-490c-90a6-a4145fd72fd0/2022-12-14-08-06-15-IMG-3761.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
