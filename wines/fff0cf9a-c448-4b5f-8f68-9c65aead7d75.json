@@ -1,12 +1,12 @@
 {
-  "id": "0356114f-4682-4632-ac80-47152890b9c9",
-  "name": "Hacienda El Olmo Crianza",
-  "full-name": "Bodegas la Eralta Hacienda El Olmo Crianza 2018",
+  "id": "fff0cf9a-c448-4b5f-8f68-9c65aead7d75",
+  "name": "Varetúo",
+  "full-name": "Barranco Oscuro Varetúo 2019",
   "producer": {
-    "id": "270b20da-8456-4646-b2a3-804677f8e133",
-    "name": "Bodegas la Eralta"
+    "id": "d996a0c2-3bcd-40cb-8e00-67f67b4772ce",
+    "name": "Barranco Oscuro"
   },
-  "vintage": "2018",
+  "vintage": "2019",
   "base-vintage": null,
   "degorgee": null,
   "sur-lie": null,
@@ -23,12 +23,12 @@
       "name": "Tempranillo"
     }
   ],
-  "alcohol": "13.5",
+  "alcohol": "12.5",
   "sugar": "NA",
   "prices": [
-    "345 UAH"
+    "617 UAH"
   ],
   "available": 0.0,
-  "image": "images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-07-21-17-36-IMG-3640.webp",
-  "rating": "7.4"
+  "image": "images/ff/f0cf9a-c448-4b5f-8f68-9c65aead7d75/2022-12-15-07-32-00-805C6F53-0D6F-44BE-B3ED-7E6960F652D7-1-105-c.webp",
+  "rating": "7.5"
 }

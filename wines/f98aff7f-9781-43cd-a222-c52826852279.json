@@ -1,0 +1,34 @@
+{
+  "id": "f98aff7f-9781-43cd-a222-c52826852279",
+  "name": "Marcel Malbec",
+  "full-name": "Château du Cèdre Marcel Malbec 2020",
+  "producer": {
+    "id": "f8704b96-593e-4519-bc35-13baced0aa44",
+    "name": "Château du Cèdre"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "275 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f9/8aff7f-9781-43cd-a222-c52826852279/2022-12-15-07-30-24-399747DC-71F1-46A1-892F-0BEDE04F9B93-1-105-c.webp",
+  "rating": "NA"
+}

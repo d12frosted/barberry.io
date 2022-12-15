@@ -1,0 +1,15 @@
+publish: "false"
+hide: "false"
+title: "Barranco Oscuro Varetúo 2019"
+update: "2022-12-15"
+producer: "Barranco Oscuro"
+name: "Varetúo"
+vintage: "2019"
+country: "Spain"
+grapes: "Tempranillo"
+rating: "7.50"
+image: "images/ff/f0cf9a-c448-4b5f-8f68-9c65aead7d75/2022-12-15-07-32-00-805C6F53-0D6F-44BE-B3ED-7E6960F652D7-1-105-c.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ff/f0cf9a-c448-4b5f-8f68-9c65aead7d75/2022-12-15-07-32-00-805C6F53-0D6F-44BE-B3ED-7E6960F652D7-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ff/f0cf9a-c448-4b5f-8f68-9c65aead7d75/2022-12-15-07-32-00-805C6F53-0D6F-44BE-B3ED-7E6960F652D7-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
