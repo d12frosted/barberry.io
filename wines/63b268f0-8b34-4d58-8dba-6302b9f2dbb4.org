@@ -31,7 +31,13 @@ I just realised that I consumed way too many bottles of this wine and haven't ra
     <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
+  <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
     <img class="flex-bottle" src="/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.webp"></img>
     <section class="h">Cellers de Can Suriol</section>
     <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>

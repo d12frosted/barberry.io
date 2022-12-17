@@ -25,7 +25,13 @@ Fresh and simple Cava. Green apple, machine oil, toast and medicine. Tasty, a bi
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
     <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.webp"></img>
     <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>

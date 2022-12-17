@@ -11,7 +11,5 @@ degorgee: "July 2022"
 sur-lie: ">9 months"
 rating: "7.25"
 image: "images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "769"
+image-height: "1024"

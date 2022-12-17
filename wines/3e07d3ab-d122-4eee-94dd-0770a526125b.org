@@ -9,9 +9,41 @@
 - Alcohol :: 11
 - Sugar :: 1
 - Price :: XXX UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
+
+Poulsard planted in clay soils from a lieu-dit within the Arbois AOC called La Mulatiere. Destemmed, 20 days maceration, without extraction. Then pressed before continuous fermentation and ageing in 600-litre old oak barrels. Aged six months in bottle before release.
+
+** Producer
+
+Meet Jean-Baptiste Menigoz, a former teacher in Arbois working with special needs children. At some point, he became fixated on low-intervention wines and decided to devote all his free time away from school to work in the vines. Under the tutelage of Stéphane Tissot, Jean-Baptiste learned the ins and outs of the wine world. In 2012 committed fully to trading his classroom for his vineyards.
+
+Being a music lover, Jean-Baptiste named Domaine after a French song (The Red Boots). Musical references continue to pop up in the names of his cuvées. For example, Tôt out Tard (Sooner or later) is the name of an independent French record label.
+
+Now meet Florien Kleine Snuverink, a former owner of the famed Café Schiller in Amsterdam (Netherlands). She moved to Jura to learn winemaking. Initially, Florien planned to purchase some vines for herself but ultimately decided to join Jean-Baptiste.
+
+So this is Domaine Les Bottes Rouges and two friends that started with different careers in different countries but decided to take the life-changing decision to work full-time as winemakers.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-16 - ☆ 7.50
 
+Restrained bouquet of bruised berries and red apple that started to oxidise, freshly ground pepper, a touch of barnyard and brine. It's as light and delicate as a cloud. Fresh with nice acidity and almost no tannin in the mouthfeel. A textbook Ploussard. Juicy and delicious but lacks depth, and complexity. The aftertaste is a bit short.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+    <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.webp"></img>
+    <section class="h">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
+    <img class="flex-bottle" src="/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.webp"></img>
+    <section class="h">Cellers de Can Suriol</section>
+    <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>
+  </a>
+
+</div>
+#+end_export
