@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -55,37 +55,43 @@ I absolutely love what Curro Bareño and Jesús Olivares are crafting. I am a li
     <section class="h text-bolder">Conasbrancas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
+  <a class="flex-item flex-item-right" href="/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58.html">
+    <img class="flex-bottle" src="/images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Bastarda - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
     <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Cortezada - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/03375e0e-4539-48ce-a3e9-3946ba9e49b2.html">
+  <a class="flex-item flex-item-right" href="/wines/03375e0e-4539-48ce-a3e9-3946ba9e49b2.html">
     <img class="flex-bottle" src="/images/03/375e0e-4539-48ce-a3e9-3946ba9e49b2/2022-09-05-20-40-34-IMG-2008.webp"></img>
     <section class="h">Planères</section>
     <section class="h text-bolder">Grenache - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
+  <a class="flex-item flex-item-left" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
     <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+  <a class="flex-item flex-item-right" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
+  <a class="flex-item flex-item-left" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
     <img class="flex-bottle" src="/images/bf/de04c3-3a3b-4e38-9448-21bf3f5d52a3/2022-09-05-20-50-30-IMG-2012.webp"></img>
     <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f07b112f-031d-490c-9c51-8af5fab9cede.html">
+  <a class="flex-item flex-item-right" href="/wines/f07b112f-031d-490c-9c51-8af5fab9cede.html">
     <img class="flex-bottle" src="/images/f0/7b112f-031d-490c-9c51-8af5fab9cede/2022-07-02-09-11-38-189E4BF5-84AA-439B-A919-AAAB8080FCFB-1-105-c.webp"></img>
     <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Brichet Frizzante ...Naturalmente - NV</section>

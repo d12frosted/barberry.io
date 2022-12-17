@@ -1,0 +1,34 @@
+{
+  "id": "3e07d3ab-d122-4eee-94dd-0770a526125b",
+  "name": "Tôt out Tard Ploussard",
+  "full-name": "Les Bottes Rouges Tôt out Tard Ploussard 2018",
+  "producer": {
+    "id": "ff12da2b-6418-4827-b680-d48bc77709b6",
+    "name": "Les Bottes Rouges"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "38468d6f-a7f9-45aa-99e2-fcacd4805ddf",
+  "name": "Arbois Clos Maire",
+  "full-name": "Domaine Ratte Arbois Clos Maire 2018",
+  "producer": {
+    "id": "4ecf0804-7a73-48b1-9eac-32e4a9795109",
+    "name": "Domaine Ratte"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "634 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/38/468d6f-a7f9-45aa-99e2-fcacd4805ddf/2022-05-08-16-09-52-7E0D8427-F3EE-4B92-BD1A-930C80F4C127-1-102-o.webp",
+  "rating": "NA"
+}

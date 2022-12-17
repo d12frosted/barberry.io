@@ -1,0 +1,34 @@
+{
+  "id": "ce0741d1-bf10-4ec2-994d-a86a062bea58",
+  "name": "Bastarda",
+  "full-name": "Fedellos do Couto Bastarda 2021",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o.webp",
+  "rating": "NA"
+}

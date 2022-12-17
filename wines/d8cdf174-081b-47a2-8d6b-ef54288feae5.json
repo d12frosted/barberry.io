@@ -1,0 +1,34 @@
+{
+  "id": "d8cdf174-081b-47a2-8d6b-ef54288feae5",
+  "name": "La Mailloche Vin Jaune",
+  "full-name": "Andre et Mireille Tissot La Mailloche Vin Jaune 2012",
+  "producer": {
+    "id": "e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8",
+    "name": "Andre et Mireille Tissot"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "3943 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-12-17-11-51-25-F1442351-5FAB-4614-9A95-604A95E7F2EB-1-105-c.webp",
+  "rating": "NA"
+}

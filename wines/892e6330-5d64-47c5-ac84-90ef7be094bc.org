@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/b9bef468-b428-41b8-a5a0-ecabdb129194][Buronfosse]]
+- Vintage :: 2018
+- Location :: France, Côtes du Jura AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12
+- Sugar :: 1.5
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b49bc925-ac23-44e8-a60a-8603fc977cac.html">
+    <img class="flex-bottle" src="/images/b4/9bc925-ac23-44e8-a60a-8603fc977cac/2022-05-08-16-04-16-391C37B6-E2F3-4394-930D-18269DE5145A-1-102-o.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">Chardonnay Les Ammonites - 2018</section>
+  </a>
+
+</div>
+#+end_export

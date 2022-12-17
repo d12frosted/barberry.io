@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Tony Bornard Le Vin De Ploussard ouvre L'esprit 2018"
+update: "2022-12-17"
+producer: "Tony Bornard"
+name: "Le Vin De Ploussard ouvre L'esprit"
+vintage: "2018"
+country: "France"
+grapes: "Poulsard"
+image: "images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
