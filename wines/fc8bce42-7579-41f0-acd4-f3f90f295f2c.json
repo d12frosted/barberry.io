@@ -1,0 +1,38 @@
+{
+  "id": "fc8bce42-7579-41f0-acd4-f3f90f295f2c",
+  "name": "Azimut Cava Rosat Brut Nature",
+  "full-name": "Cellers de Can Suriol Azimut Cava Rosat Brut Nature 2020",
+  "producer": {
+    "id": "cca6f3e0-e878-4a3c-a51a-644d7187be7e",
+    "name": "Cellers de Can Suriol"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": "July 2022",
+  "sur-lie": ">9 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.2",
+  "prices": [
+    "405 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/fc/8bce42-7579-41f0-acd4-f3f90f295f2c/2022-12-17-14-52-44-IMG-3866.webp",
+  "rating": "NA"
+}

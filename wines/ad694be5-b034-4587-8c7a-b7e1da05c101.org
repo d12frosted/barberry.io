@@ -23,6 +23,18 @@ Unique Clos Lentiscus style. Simple but not easy to understand. White flowers, s
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/038a34b5-42dd-4716-a71e-1c6976e4e0de.html">
+    <img class="flex-bottle" src="/images/03/8a34b5-42dd-4716-a71e-1c6976e4e0de/2022-12-17-14-48-22-IMG-3859.webp"></img>
+    <section class="h">Clos Lentiscus</section>
+    <section class="h text-bolder">Greco di Subur Blanc de Blancs Brut Nature - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/96cc80e9-b31a-4d48-8a64-94b50d2e3014.html">
+    <img class="flex-bottle" src="/images/96/cc80e9-b31a-4d48-8a64-94b50d2e3014/2022-12-17-14-51-07-IMG-3863.webp"></img>
+    <section class="h">Clos Lentiscus</section>
+    <section class="h text-bolder">Rosé N 41° 15,656'' E 1° 45,086'' Brut Nature - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/f967170b-4418-45f3-8d3f-5be4cb53843d.html">
     <img class="flex-bottle" src="/images/f9/67170b-4418-45f3-8d3f-5be4cb53843d/2021-06-15-08-10-09-C9DD6CFC-AB46-4C40-BF43-8A848D144AB9-1-102-o.webp"></img>
     <section class="h">Clos Lentiscus</section>

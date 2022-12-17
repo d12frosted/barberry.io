@@ -35,7 +35,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | country        | count | p avg        | r rms |    qpr |
 |----------------+-------+--------------+-------+--------|
 | Italy          |    22 | 915.75 UAH   |  7.81 | 2.7100 |
-| Spain          |    17 | 837.01 UAH   |  7.44 | 2.9946 |
+| Spain          |    17 | 838.59 UAH   |  7.44 | 2.9703 |
 | France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
 | Australia      |     5 | 1 002.11 UAH |  7.82 | 2.2731 |
@@ -71,7 +71,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
 |    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
-|    2020 |    22 | 727.37 UAH   |  7.04 | 2.7159 |
+|    2020 |    22 | 728.59 UAH   |  7.04 | 2.6952 |
 |    2019 |    12 | 848.51 UAH   |  7.74 | 2.8363 |
 |    2018 |    16 | 1 102.58 UAH |  8.01 | 2.5451 |
 |    2017 |     7 | 1 011.86 UAH |  7.41 | 1.8298 |
@@ -104,7 +104,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 |------------------------------+-------+--------------+-------+--------|
 | Pinot Noir                   |    12 | 1 219.80 UAH |  7.88 | 2.6206 |
 | Chardonnay                   |    12 | 890.48 UAH   |  7.35 | 2.9663 |
-| Xarel-lo                     |     5 | 380.30 UAH   |  6.77 | 3.5168 |
+| Xarel-lo                     |     5 | 385.67 UAH   |  6.77 | 3.4459 |
 | Macabeo                      |     5 | 360.26 UAH   |  6.66 | 3.4760 |
 | Malvasia di Candia Aromatica |     4 | 1 149.29 UAH |  7.92 | 2.6115 |
 | Merlot                       |     4 | 775.89 UAH   |  7.90 | 3.2828 |
@@ -286,7 +286,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-25 | Spain          | [[barberry:/producers/cd1b94b8-6014-440d-8876-b6897a61770e][Muchada-Léclapart]]        | [[barberry:/wines/fef3962b-3fbb-469d-a068-6f75275ce4c3][Muchada-Léclapart Elixir 2017]]      |    2017 | 8.00 | 1.4563 |
 | 2022-07-25 | Italy          | [[barberry:/producers/2fd367c5-4450-4a7d-bb9c-b953f573745d][Sandro Fay]]               | [[barberry:/wines/acb75785-ee20-419a-a21a-540f51157670][Sandro Fay Valtellina Superiore Valgella Riserva Carteria 2014]] |    2014 | 8.00 | 1.4159 |
 | 2022-07-24 | Hungary        | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                   | [[barberry:/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195][Hummel Villányi Portugieser 2020]]   |    2020 | 7.25 | 2.9589 |
-| 2022-07-23 | Spain          | [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]            | [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]        |    2020 | 7.50 | 4.3879 |
+| 2022-07-23 | Spain          | [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]            | [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]        |    2020 | 7.50 | 4.0970 |
 | 2022-07-22 | South Africa   | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]               | [[barberry:/wines/4941eb84-f727-4196-a96c-502a5bc2137f][Testalonga Baby Bandito Stay Brave 2021]] |    2021 | 7.50 | 2.5916 |
 | 2022-07-22 | France         | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]             | [[barberry:/wines/254bfd3b-9d98-409c-b1fc-86f6c2591024][Pierre Frick Gewürztraminer Macération Pur Vin 2018]] |    2018 | 7.50 | 2.0733 |
 | 2022-07-21 | Italy          | [[barberry:/producers/040a275b-2e16-4d7a-a557-036bf44d85df][Villa Calicantus]]         | [[barberry:/wines/76c88c36-a8b2-4aac-baf1-7a97765f99cd][Villa Calicantus Soracuna 2018]]     |    2018 | 7.80 | 2.8467 |

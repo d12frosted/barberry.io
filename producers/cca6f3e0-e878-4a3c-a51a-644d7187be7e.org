@@ -9,5 +9,11 @@
     <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/fc8bce42-7579-41f0-acd4-f3f90f295f2c.html">
+    <img class="flex-bottle" src="/images/fc/8bce42-7579-41f0-acd4-f3f90f295f2c/2022-12-17-14-52-44-IMG-3866.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Azimut Cava Rosat Brut Nature - 2020</section>
+  </a>
+
 </div>
 #+end_export

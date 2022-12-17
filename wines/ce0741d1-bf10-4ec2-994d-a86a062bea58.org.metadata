@@ -7,8 +7,7 @@ name: "Bastarda"
 vintage: "2021"
 country: "Spain"
 grapes: "Trousseau"
+rating: "7.75"
 image: "images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
