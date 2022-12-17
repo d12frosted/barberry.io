@@ -7,8 +7,7 @@ name: "Côtes du Jura Les Lumachelles Rouge"
 vintage: "2019"
 country: "France"
 grapes: "Poulsard, Trousseau"
+rating: "7.50"
 image: "images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

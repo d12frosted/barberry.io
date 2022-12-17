@@ -31,16 +31,46 @@ I just realised that I consumed way too many bottles of this wine and haven't ra
     <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+  <a class="flex-item flex-item-right" href="/wines/0e00caf9-100e-4789-a9aa-dbe00f82d8af.html">
+    <img class="flex-bottle" src="/images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o.webp"></img>
+    <section class="h">Domaine des Cavarodes</section>
+    <section class="h text-bolder">Côtes du Jura Les Lumachelles Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
     <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+    <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">Chardonnay Marcus - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
     <img class="flex-bottle" src="/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.webp"></img>
     <section class="h">Cellers de Can Suriol</section>
     <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+    <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dae96f2e-0035-42dc-8678-b1caba56fe17.html">
+    <img class="flex-bottle" src="/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">Le Vin De Ploussard ouvre L'esprit - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
+    <img class="flex-bottle" src="/images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o.webp"></img>
+    <section class="h">Philippe Bornard</section>
+    <section class="h text-bolder">Côtes du Jura Savagnin les Chassagnes ouillé - 2012</section>
   </a>
 
 </div>
