@@ -1,0 +1,47 @@
+#+attr_html: :class wine-main-image
+[[file:/images/89/39a9d3-fd08-428c-a127-5825d205f4f9/2022-12-18-14-34-53-IMG-3879.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/270b20da-8456-4646-b2a3-804677f8e133][Bodegas la Eralta]]
+- Vintage :: 2020
+- Location :: Spain, Rioja DOC
+- Grapes :: Macabeo
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 270 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/46382853-d698-46c9-bc9b-70eeed7f52d8.html">
+    <img class="flex-bottle" src="/images/46/382853-d698-46c9-bc9b-70eeed7f52d8/2022-12-03-16-57-34-IMG-3577.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Joven - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b41d3534-e427-45df-b0aa-d37c576ef1b3.html">
+    <img class="flex-bottle" src="/images/b4/1d3534-e427-45df-b0aa-d37c576ef1b3/2022-10-20-16-38-18-IMG-2868.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Reserva - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b8243b85-739b-4cc0-b4df-e564dc2cc702.html">
+    <img class="flex-bottle" src="/images/b8/243b85-739b-4cc0-b4df-e564dc2cc702/2022-11-06-12-06-08-FC29DD19-C3C8-4801-BE0E-5D6412EF80C1-1-105-c.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Gran Reserva - 2013</section>
+  </a>
+
+</div>
+#+end_export

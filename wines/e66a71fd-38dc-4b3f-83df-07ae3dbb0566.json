@@ -1,0 +1,34 @@
+{
+  "id": "e66a71fd-38dc-4b3f-83df-07ae3dbb0566",
+  "name": "Bourgogne Chardonnay",
+  "full-name": "Chartron et Trébuchet Bourgogne Chardonnay 2021",
+  "producer": {
+    "id": "0c98eed2-b010-480b-b2ab-ab4cec83d01f",
+    "name": "Chartron et Trébuchet"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "708 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e6/6a71fd-38dc-4b3f-83df-07ae3dbb0566/2022-12-18-14-37-12-IMG-3881.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c0a539e0-b53c-4511-91e2-a2fb5e3c6682",
+  "name": "Merlot",
+  "full-name": "Banrock Station Merlot 2020",
+  "producer": {
+    "id": "a3751192-f670-4db9-9a2a-724131ef5371",
+    "name": "Banrock Station"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "214 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c0/a539e0-b53c-4511-91e2-a2fb5e3c6682/2022-12-18-14-51-28-IMG-3892.webp",
+  "rating": "NA"
+}

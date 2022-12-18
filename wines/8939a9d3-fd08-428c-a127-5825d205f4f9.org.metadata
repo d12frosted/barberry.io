@@ -1,0 +1,14 @@
+publish: "false"
+hide: "false"
+title: "Bodegas la Eralta Hacienda El Olmo Blanco 2020"
+update: "2022-12-18"
+producer: "Bodegas la Eralta"
+name: "Hacienda El Olmo Blanco"
+vintage: "2020"
+country: "Spain"
+grapes: "Macabeo"
+image: "images/89/39a9d3-fd08-428c-a127-5825d205f4f9/2022-12-18-14-34-53-IMG-3879.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/89/39a9d3-fd08-428c-a127-5825d205f4f9/2022-12-18-14-34-53-IMG-3879.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/89/39a9d3-fd08-428c-a127-5825d205f4f9/2022-12-18-14-34-53-IMG-3879.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

@@ -1,0 +1,38 @@
+{
+  "id": "fbb46169-abf2-40ac-be07-e542be228576",
+  "name": "Shiraz Mataro",
+  "full-name": "Banrock Station Shiraz Mataro 2020",
+  "producer": {
+    "id": "a3751192-f670-4db9-9a2a-724131ef5371",
+    "name": "Banrock Station"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "245 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/fb/b46169-abf2-40ac-be07-e542be228576/2022-12-18-14-51-48-IMG-3888.webp",
+  "rating": "NA"
+}
