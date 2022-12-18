@@ -8,8 +8,8 @@
   },
   "vintage": "2017",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "08 December 2021",
+  "sur-lie": "25 months",
   "colour": "rose",
   "carbonation": "sparkling",
   "sweetness": "brut-nature",
@@ -28,7 +28,7 @@
   "prices": [
     "743 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/96/cc80e9-b31a-4d48-8a64-94b50d2e3014/2022-12-17-14-51-07-IMG-3863.webp",
-  "rating": "NA"
+  "rating": "7.4"
 }

@@ -8,7 +8,5 @@ vintage: "2017"
 country: "Spain"
 grapes: "Malvasía de Sitges"
 image: "images/03/8a34b5-42dd-4716-a71e-1c6976e4e0de/2022-12-17-14-48-22-IMG-3859.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/03/8a34b5-42dd-4716-a71e-1c6976e4e0de/2022-12-17-14-48-22-IMG-3859.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/03/8a34b5-42dd-4716-a71e-1c6976e4e0de/2022-12-17-14-48-22-IMG-3859.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
