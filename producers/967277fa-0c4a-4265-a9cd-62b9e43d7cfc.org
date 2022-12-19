@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e456bc28-4666-4319-9018-2b6d37ceb18e.html">
+    <img class="flex-bottle" src="/images/e4/56bc28-4666-4319-9018-2b6d37ceb18e/2022-12-19-12-33-26-2779AE82-9F8C-456C-A9D0-F777675052CE-1-105-c.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Oranžové Víno Rulandské šedé Kvevri - 2019</section>
+  </a>
+
+</div>
+#+end_export

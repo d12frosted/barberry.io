@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c0a539e0-b53c-4511-91e2-a2fb5e3c6682.html">
     <img class="flex-bottle" src="/images/c0/a539e0-b53c-4511-91e2-a2fb5e3c6682/2022-12-18-14-51-28-IMG-3892.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 5.50</section>
     <section class="h text-bolder">Merlot - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fbb46169-abf2-40ac-be07-e542be228576.html">
     <img class="flex-bottle" src="/images/fb/b46169-abf2-40ac-be07-e542be228576/2022-12-18-14-51-48-IMG-3888.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 6.00</section>
     <section class="h text-bolder">Shiraz Mataro - 2020</section>
   </a>
 

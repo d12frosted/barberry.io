@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Laugel Crémant d'Alsace Brut NV"
-update: "2022-12-11"
+update: "2022-12-19"
 producer: "Laugel"
 name: "Crémant d'Alsace Brut"
 vintage: "NV"
 country: "France"
 grapes: "Pinot Blanc, Pinot Gris, Riesling"
+rating: "7.40"
 image: "images/ae/6d9dfc-c808-480d-936a-713b02a4cbdb/2022-12-11-10-43-02-99AB88CD-91A2-4A97-87F7-BB2798217DC4-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ae/6d9dfc-c808-480d-936a-713b02a4cbdb/2022-12-11-10-43-02-99AB88CD-91A2-4A97-87F7-BB2798217DC4-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ae/6d9dfc-c808-480d-936a-713b02a4cbdb/2022-12-11-10-43-02-99AB88CD-91A2-4A97-87F7-BB2798217DC4-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "769"
+image-height: "1024"

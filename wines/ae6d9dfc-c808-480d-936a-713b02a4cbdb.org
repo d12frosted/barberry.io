@@ -9,9 +9,35 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 379 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-18 - ☆ 7.40
 
+Solid Crémant d'Alsace with the expected intensity. Toast with butter, pears, and baked lemon. It has good volume, it's round and delicious. Yes, it's not complex, but friendly and easy to understand. AFAIU, it's a blend of Pinot Blanc, Riesling and Pinot Gris. No other technical information.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c0a539e0-b53c-4511-91e2-a2fb5e3c6682.html">
+    <img class="flex-bottle" src="/images/c0/a539e0-b53c-4511-91e2-a2fb5e3c6682/2022-12-18-14-51-28-IMG-3892.webp"></img>
+    <section class="h">Banrock Station</section>
+    <section class="h text-bolder">Merlot - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e456bc28-4666-4319-9018-2b6d37ceb18e.html">
+    <img class="flex-bottle" src="/images/e4/56bc28-4666-4319-9018-2b6d37ceb18e/2022-12-19-12-33-26-2779AE82-9F8C-456C-A9D0-F777675052CE-1-105-c.webp"></img>
+    <section class="h">Vinařství Rauš</section>
+    <section class="h text-bolder">Oranžové Víno Rulandské šedé Kvevri - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fbb46169-abf2-40ac-be07-e542be228576.html">
+    <img class="flex-bottle" src="/images/fb/b46169-abf2-40ac-be07-e542be228576/2022-12-18-14-51-48-IMG-3888.webp"></img>
+    <section class="h">Banrock Station</section>
+    <section class="h text-bolder">Shiraz Mataro - 2020</section>
+  </a>
+
+</div>
+#+end_export
