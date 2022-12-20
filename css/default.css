@@ -542,7 +542,7 @@ ul.rating-list {
 
 @media (min-width: 800px) {
   body {
-    width: calc(60rem * var(--size-mult));
+    width: calc(80rem * var(--size-mult));
     margin: 0 auto !important;
     padding: 0;
   }
