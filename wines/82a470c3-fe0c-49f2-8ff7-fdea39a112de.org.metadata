@@ -1,12 +1,14 @@
 publish: "false"
 hide: "false"
 title: "Maurice Vesselle Grand Cru Collection Bouzy 2000"
-update: "2022-12-08"
+update: "2022-12-19"
 producer: "Maurice Vesselle"
 name: "Grand Cru Collection Bouzy"
 vintage: "2000"
 country: "France"
 grapes: "Chardonnay, Pinot Noir"
-image: "images/unknown-wine.jpeg"
-image-width: "960"
-image-height: "1280"
+image: "images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

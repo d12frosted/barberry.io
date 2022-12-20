@@ -1,0 +1,17 @@
+publish: "false"
+hide: "false"
+title: "Jacquesson Cuvée 745 Grand Vin (2017)"
+update: "2022-12-19"
+producer: "Jacquesson"
+name: "Cuvée 745 Grand Vin (2017)"
+vintage: "NV"
+country: "France"
+grapes: "Pinot Meunier, Chardonnay, Pinot Noir"
+base: "2017"
+degorgee: "March 2022"
+sur-lie: "36 months"
+image: "images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2022-12-19-17-40-31-IMG-3923.jpeg"
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2022-12-19-17-40-31-IMG-3923.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"
+image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2022-12-19-17-40-31-IMG-3923.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+"

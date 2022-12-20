@@ -1,0 +1,38 @@
+{
+  "id": "f617f9f0-8472-4f81-b334-aff85c2ae294",
+  "name": "Ace of Spades Les Myrs",
+  "full-name": "Matassa Ace of Spades Les Myrs 2021",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.4",
+  "prices": [
+    "869 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f6/17f9f0-8472-4f81-b334-aff85c2ae294/2022-12-19-17-46-48-IMG-3935.webp",
+  "rating": "NA"
+}
