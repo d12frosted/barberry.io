@@ -48,7 +48,7 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 #+results: countries-data
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
-| France       |    17 | 944.56 UAH   |  7.76 | 2.4449 |
+| France       |    17 | 944.56 UAH   |  7.73 | 2.4014 |
 | Spain        |     9 | 656.55 UAH   |  7.46 | 3.1660 |
 | South Africa |     8 | 972.88 UAH   |  7.90 | 3.0287 |
 | Italy        |     8 | 602.60 UAH   |  7.46 | 3.2484 |
@@ -87,7 +87,7 @@ On the other hand, I've tasted several older bottles. The oldest of them is [[ba
 |    2021 |     5 | 389.00 UAH   |  6.99 | 3.8935 |
 |    2020 |    11 | 783.57 UAH   |  7.55 | 2.5888 |
 |    2019 |    14 | 688.77 UAH   |  7.59 | 3.1096 |
-|    2018 |     5 | 805.73 UAH   |  7.85 | 2.7514 |
+|    2018 |     5 | 805.73 UAH   |  7.75 | 2.6181 |
 |    2017 |     7 | 815.48 UAH   |  7.48 | 2.4246 |
 |    2016 |     3 | 763.00 UAH   |  7.04 | 1.6808 |
 |    2015 |     1 | 496.84 UAH   |  7.50 | 3.3383 |
@@ -136,8 +136,8 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 | Colombard                    |     1 | 820.00 UAH   |  7.20 | 1.6319 |
 | Monastrell                   |     1 | 985.00 UAH   |  7.60 | 1.8110 |
 | Grenache                     |     1 | 985.00 UAH   |  7.60 | 1.8110 |
+| Auxerrois blanc              |     1 | 917.03 UAH   |  7.50 | 1.8087 |
 | Zweigelt                     |     1 | 496.84 UAH   |  7.50 | 3.3383 |
-| Auxerrois blanc              |     1 | 917.03 UAH   |  8.00 | 2.6172 |
 | Welschriesling               |     1 | 455.00 UAH   |  7.00 | 2.5564 |
 | Malagousia                   |     1 | 360.00 UAH   |  7.25 | 3.8510 |
 | Garganega                    |     1 | 600.00 UAH   |  7.00 | 1.9386 |
@@ -213,9 +213,9 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-18 | Israel       | [[barberry:/producers/6af33cac-4d40-4a63-9799-597578b5cb1c][Golan Heights Winery]]           | [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]]                               |    2019 | 7.50 | 3.9348 |
 | 2022-06-17 | France       | [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]                | [[barberry:/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38][Gérard Bertrand Héritage Kosmos 888 2019]]                                   |    2019 | 7.60 | 1.8110 |
 | 2022-06-16 | Spain        | [[barberry:/producers/038f1c56-9c03-4716-80de-7b9740be0b16][Codorníu]]                       | [[barberry:/wines/938343b2-010d-4abd-9c14-e5e6f6c88633][Codorníu Cava Clasico Brut Nature NV]]                                       |      NV | 7.30 | 4.2882 |
+| 2022-06-15 | France       | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]                   | [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]]                                         |    2018 | 7.50 | 1.8087 |
 | 2022-06-15 | Austria      | [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]            | [[barberry:/wines/cdd63749-d893-457a-b852-06a407e52c84][Weingut Bründlmayer Zweigelt 2015]]                                          |    2015 | 7.50 | 3.3383 |
 | 2022-06-15 | France       | [[barberry:/producers/7aee6dea-ad2d-4f38-9980-e14de49f0268][Maison du Vigneron]]             | [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Maison du Vigneron Crémant du Jura NV]]                                      |      NV | 7.20 | 2.9736 |
-| 2022-06-15 | France       | [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]                   | [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]]                                         |    2018 | 8.00 | 2.6172 |
 | 2022-06-15 | France       | [[barberry:/producers/1798690d-483b-4f80-a136-93eb9552e48b][Domaine de la Touraize]]         | [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Domaine de la Touraize Crémant du Jura Millésimé 2018]]                      |    2018 | 7.75 | 2.5223 |
 | 2022-06-15 | France       | [[barberry:/producers/81bfd5b7-36b2-4127-91b4-e81f16da69cd][Mouzon-Leroux]]                  | [[barberry:/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5][Mouzon-Leroux L'Atavique NV]]                                                |      NV | 8.25 | 2.0390 |
 | 2022-06-14 | Spain        | [[barberry:/producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a][Jaume Serra]]                    | [[barberry:/wines/1d25ec11-e30c-4b90-b800-0e6fb959c312][Jaume Serra Cava Brut Nature NV]]                                            |      NV | 6.50 | 3.7597 |
