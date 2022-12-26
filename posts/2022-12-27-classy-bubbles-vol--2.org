@@ -1,9 +1,9 @@
 Wines:
 
 1. [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV]]
-2. [[barberry:/wines/75862600-03f3-4c81-9553-9712d3072df8][Benoît Lahaye Millesime 2017]]
-3. [[barberry:/wines/fc736ad3-915f-445a-921d-d69ee522a853][Bérêche & Fils Côte Grand Cru 2016]]
-4. [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
+2. [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
+3. [[barberry:/wines/75862600-03f3-4c81-9553-9712d3072df8][Benoît Lahaye Millesime 2017]]
+4. [[barberry:/wines/40910459-4fb6-42ae-b046-58094be3603b][Bérêche & Fils Brut Réserve L19.07/2022 NV]]
 5. [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]
 6. [[barberry:/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de][Maurice Vesselle Grand Cru Collection Bouzy 2000]]
 7. [[barberry:/wines/97722c60-4efd-412c-9474-a050d8e513d4][De Sousa Cuvée des Caudalies Rosé NV]]
@@ -20,15 +20,45 @@ Wines:
 - producer: [[barberry:/producers/6537a578-cfe0-42d8-b38f-38ff0696866b][Filipa Pato]]
 - name: [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][3B Blanc de Blancs Extra Bruto Unfiltered]]
 - vintage: NV
-- grapes: Touriga Nacional aka Bical (70%), Maria Gomes (23%), Cerceal (7)
+- degorgee: ???
+- sur lie: 9 months
+- grapes: Touriga Nacional aka Bical (70%), Maria Gomes (23%), Cerceal (7%)
 - appellation: Vinho (Portugal)
 - location: Bairrada, Portugal
 - alcohol: 11
 - sugar: N/A
 - price: 651 UAH
 
+Filipa Pato is a winegrower and winemaker from Bairrada, Portugal. She focuses on local grapes only (Baga, Bical, Arinto, Cercial and Maria Gomes) and produces wines with minimal intervention. No make-up, as she says.
+
 #+caption: Map from [[https://patowouters.com/][Filipa Pato website]]
 [[file:/images/2022-12-27-classy-bubbles-vol--2/2022-12-23-18-22-06-bairrada.webp]]
+
+3B Blanc de Blancs is a blend of 3 white grapes (hence, the name 3B): Bical (70%), Maria Gomes (23%), and Cercial (7%). Filipa Pato sources them from Óis do Bairro, where roughly 30 years old vines grow on chalky clay midslopes from the Jurassic Inferior. The grapes are hand harvested and gently pressed. After fermentation in a tank with indigenous yeasts, the wine is sent for the second fermentation in bottles and spends nine months sur lie.
+
+* Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV
+:PROPERTIES:
+:ID:                     bf964310-4c31-48b8-a8a3-c59820b4bf46
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-11-29-10-40-07-IMG-3491.webp]]
+
+- producer: [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]
+- name: [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Blanc de Blancs Extra Brut Reserve L11778/08/15]]
+- vintage: NV
+- degorgee: 02 February 2022
+- sur lie: 36 months
+- grapes: Chardonnay
+- region: Niederösterreich
+- location: Austria
+- alcohol: 12
+- sugar: 5.5
+- price: 1627 UAH
+
+Weingut Bründlmayer doesn't require any introduction. After all, we already have experience with this famous winemaker. This time we have a bottle of Blanc de Blancs Extra Brut Reserve made of 100% Chardonnay harvested from various vineyard sites, mainly those on southeast slopes with calcareous soils.
+
+As I said before, Filipa Pato 3B was fermented in stainless steel tanks. I could not find information about malolactic fermentation (I suspect it didn't happen), but according to technical sheets[fn:1], there was no oak. On the contrary, Blanc de Blancs by Bründlmayer was fermented in stainless steel tanks, where malolactic fermentation took place; and then it was racked into used Austrian oak barrels (2-3 years old, some 300 litres, some 2500 litres). In the following year, the base wine was filled into bottles, where the second fermentation occurred. This particular bottle spent at least 36 months on lees and was manually riddled and disgorged on 2nd February 2022.
 
 * Benoît Lahaye Millesime 2017
 :PROPERTIES:
@@ -52,47 +82,6 @@ Wines:
 - sugar: 3
 - price: 2595 UAH
 
-* Bérêche & Fils Côte Grand Cru 2016
-:PROPERTIES:
-:ID:                     bafc6ca5-9875-400f-b2cf-6ad221470242
-:END:
-
-#+attr_html: :class bottle-right
-[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-11-29-10-42-21-IMG-3493.webp]]
-
-- producer: [[barberry:/producers/18b6ff64-8c47-4ad7-8c3c-01176de9a865][Bérêche & Fils]]
-- name: [[barberry:/wines/fc736ad3-915f-445a-921d-d69ee522a853][Côte Grand Cru]]
-- vintage: 2016
-- degorgee: March 2022
-- sur lie: 70 months
-- grapes: Chardonnay
-- appellation: Champagne AOC
-- location: Côte des Blancs, Champagne, France
-- terroir: Oger Grand Cru
-- alcohol: 12.5
-- sugar: 3
-- price: 3348 UAH
-
-* Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV
-:PROPERTIES:
-:ID:                     bf964310-4c31-48b8-a8a3-c59820b4bf46
-:END:
-
-#+attr_html: :class bottle-right
-[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-11-29-10-40-07-IMG-3491.webp]]
-
-- producer: [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]
-- name: [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Blanc de Blancs Extra Brut Reserve L11778/08/15]]
-- vintage: NV
-- degorgee: 02 February 2022
-- sur lie: ???
-- grapes: Chardonnay
-- region: Niederösterreich
-- location: Austria
-- alcohol: 12
-- sugar: 5.5
-- price: 1627 UAH
-
 * Félicien Brou Vouvray Brut NV
 :PROPERTIES:
 :ID:                     ba280a4f-0b09-4646-af34-aec650bc936a
@@ -110,6 +99,24 @@ Wines:
 - alcohol: 12
 - sugar: N/A
 - price: 339 UAH
+
+* Bérêche & Fils Brut Réserve L19.07/2022 NV
+:PROPERTIES:
+:ID:                     70f4958f-5910-4caf-a335-9be3c0aab825
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp]]
+
+- producer: [[barberry:/producers/18b6ff64-8c47-4ad7-8c3c-01176de9a865][Bérêche & Fils]]
+- name: [[barberry:/wines/40910459-4fb6-42ae-b046-58094be3603b][Brut Réserve L19.07/2022]]
+- vintage: NV
+- grapes: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 7
+- price: 1906 UAH
 
 * Maurice Vesselle Grand Cru Collection Bouzy 2000
 :PROPERTIES:
@@ -178,4 +185,15 @@ Wines:
 The base wine for this rosé spent 7 months in French oak 225 litres Taransaud barriques. The second fermentation started with the addition of grape sugar. Overall, it spent 45 months on lees. After the disgorgement, sparkling VSQ is filled ONLY with wine from other bottles belonging to the same lot, without adding sugar or any liqueur d'expedition. This is what Cà del Vént means by Pas Operé (unprocessed). Not to confuse with Pas dosé - no added sugar.
 
 As far as I understand, the label depicts cracks on the granite block. They occur by the procedures used to quarry the stone.
+
+* Resources
+:PROPERTIES:
+:ID:                     2abc8d66-76e3-4525-a678-c36acaa2a41e
+:END:
+
+- https://patowouters.com/en/
+- https://www.bruendlmayer.at/en/wines/bruendlmayer-blanc-de-blancs-extra-brut-reserve/
+- [[https://www.octopusbooks.co.uk/imprint/octopus/mitchell-beazley/page/octopus-books/worldatlasofwine/][Robinson, Jancis, and Hugh Johnson. The World Atlas of Wine 8th Edition. Illustrated, Mitchell Beazley, 2019.]]
+
+[fn:1] https://media.patowouters.com/MULTIMEDIA/DOCUMENTOS/16/3B%20Blanc%20de%20Blancs.pdf
 
