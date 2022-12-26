@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9e/508cc6-0fed-456f-86e2-82d15cecccef/2022-12-26-08-36-26-A099DA05-4466-4AD1-879F-8A703CAC7D41-1-105-c.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff][Loimer]]
+- Vintage :: NV
+- Location :: Austria, Landwein aus Österreich
+- Grapes :: Zweigelt, Saint-Laurent, Pinot Noir
+- Alcohol :: 11.5
+- Sugar :: NA
+- Price :: 518 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2022-12-25 - ☆ 7.50
+
+Simple, funky and friendly stuff. In the beginning, it's like aligning your life direction with a cow, just standing behind it. But you quickly get used to this divine position. So here are fruits, various fruits in fact, with leather, brett touch. A bit lacking balance, but juicy and fresh.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
+    <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Pet Nat - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+    <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Gluegglich Glückliches - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
+    <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035.webp"></img>
+    <section class="h">Weingut Brand</section>
+    <section class="h text-bolder">Pet Nat Rosé 2021 - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-12-26-08-32-28-159B7595-3F18-4C65-8BE7-A79F229163D7-1-105-c.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+</div>
+#+end_export
