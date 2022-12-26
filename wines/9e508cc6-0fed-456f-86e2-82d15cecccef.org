@@ -36,7 +36,7 @@ Simple, funky and friendly stuff. In the beginning, it's like aligning your life
   <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
     <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035.webp"></img>
     <section class="h">Weingut Brand</section>
-    <section class="h text-bolder">Pet Nat Rosé 2021 - 2021</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
