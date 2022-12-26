@@ -9,9 +9,29 @@
 - Alcohol :: 12.5
 - Sugar :: 8
 - Price :: 1852 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-24 - ☆ 8.25
 
+Slightly restrained at the beginning but becomes more intense and open after it warms a bit. A nice bouquet of honey, apple, brioche, and flowers with subtle hints of raw nuts and sea breeze. Piercing acidity. Almost full-bodied. Long and flavourful aftertaste: grapefruit, bruised apples, sea pebbles and Jerez. Good value.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/14647300-7629-45a6-a6e9-e5ba96116ccb.html">
+    <img class="flex-bottle" src="/images/14/647300-7629-45a6-a6e9-e5ba96116ccb/2022-12-18-14-37-40-IMG-3883.webp"></img>
+    <section class="h">Bodegas Martín Códax</section>
+    <section class="h text-bolder">Mara Martín Godello - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
+    <img class="flex-bottle" src="/images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-11-19-09-27-03-7AF7C3C8-9559-42E2-92A5-C32091763D9E-1-105-c.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Vino de Solera de Listán Blanco - 2013</section>
+  </a>
+
+</div>
+#+end_export

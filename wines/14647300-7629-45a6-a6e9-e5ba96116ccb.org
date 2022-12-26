@@ -33,5 +33,17 @@ Did someone bring a heater to Galicia? Mango (that smells like a carrot), canned
     <section class="h text-bolder">Rías Baixas Albariño - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/187631c3-9d4f-492d-9883-e0908ba55386.html">
+    <img class="flex-bottle" src="/images/18/7631c3-9d4f-492d-9883-e0908ba55386/2022-12-23-13-27-22-IMG-3985.webp"></img>
+    <section class="h">Eric Rodez</section>
+    <section class="h text-bolder">Blanc de Blancs Ambonnay Brut L.04-21 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
+    <img class="flex-bottle" src="/images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-11-19-09-27-03-7AF7C3C8-9559-42E2-92A5-C32091763D9E-1-105-c.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Vino de Solera de Listán Blanco - 2013</section>
+  </a>
+
 </div>
 #+end_export
