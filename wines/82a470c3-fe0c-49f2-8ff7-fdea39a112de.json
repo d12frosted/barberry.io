@@ -8,11 +8,11 @@
   },
   "vintage": "2000",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "???",
+  "sur-lie": "~60 months",
   "colour": "white",
   "carbonation": "sparkling",
-  "sweetness": "brut",
+  "sweetness": "extra-brut",
   "country": {
     "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
     "name": "France"

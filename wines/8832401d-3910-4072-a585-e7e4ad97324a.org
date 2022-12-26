@@ -55,13 +55,19 @@ A year ago I've tasted Conasbrancas 2019, now it's time for 2018! Highly enjoyab
     <section class="h text-bolder">Bastarda - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
+  <a class="flex-item flex-item-left" href="/wines/f3dd104f-bd71-4c07-949c-31d295f32520.html">
+    <img class="flex-bottle" src="/images/f3/dd104f-bd71-4c07-949c-31d295f32520/2022-12-23-13-23-33-IMG-3980.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Lomba dos Ares - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
     <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Cortezada - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
+  <a class="flex-item flex-item-left" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
     <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>

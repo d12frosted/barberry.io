@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 399 UAH, 475 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -17,10 +17,26 @@
 
 Up to expectations. Simple yet pleasant Crémant from Loire. Notes of crème brûlée, apple, soaked apple, quince and... I think that's it. Matching flavours, good volume, but weak bubbles. It also lacks in acidity for my taste, so I'd call it liquid ice cream with bubbles. Good entry level into Brut territory.
 
+*** 2022-12-23 - ☆ 7.00
+
+Simple yet pleasant. Crème brûlée, apple and quince. The aftertaste is rather short, but overall it has good volume. Friendly palate of liquid icecream with easy-to-understand flavours.
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
+    <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-12-23-13-22-38-IMG-3978.webp"></img>
+    <section class="h">Hummel</section>
+    <section class="h text-bolder">Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85e7c16e-5b10-466f-ac81-f7a76a032867.html">
+    <img class="flex-bottle" src="/images/85/e7c16e-5b10-466f-ac81-f7a76a032867/2022-11-25-16-59-23-IMG-3400.webp"></img>
+    <section class="h">Jauma</section>
+    <section class="h text-bolder">Archies - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">
     <img class="flex-bottle" src="/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c.webp"></img>
     <section class="h">Marlborough Sun</section>

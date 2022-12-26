@@ -46,6 +46,18 @@ and delicious.
     <section class="h text-bolder">Auguste - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/94f7833a-ecc5-48c1-b41c-7272b4f38daf.html">
+    <img class="flex-bottle" src="/images/94/f7833a-ecc5-48c1-b41c-7272b4f38daf/2022-12-23-13-20-53-IMG-3972.webp"></img>
+    <section class="h">Sous Le Végétal</section>
+    <section class="h text-bolder">Livia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a4d331bc-521d-430d-a892-3fa96f017f1a.html">
+    <img class="flex-bottle" src="/images/a4/d331bc-521d-430d-a892-3fa96f017f1a/2022-12-23-13-21-49-IMG-3975.webp"></img>
+    <section class="h">Sous Le Végétal</section>
+    <section class="h text-bolder">Octave - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
     <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp"></img>
     <section class="h">Sous Le Végétal</section>

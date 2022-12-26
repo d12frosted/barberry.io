@@ -1,0 +1,34 @@
+{
+  "id": "94f7833a-ecc5-48c1-b41c-7272b4f38daf",
+  "name": "Livia",
+  "full-name": "Sous Le Végétal Livia 2019",
+  "producer": {
+    "id": "96e58250-b3cb-4ced-a7b8-013bc94d1aed",
+    "name": "Sous Le Végétal"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "6d2fc50a-85bb-4a37-9c7e-91890f0598ec",
+      "name": "Muscat de Samos"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "761 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/94/f7833a-ecc5-48c1-b41c-7272b4f38daf/2022-12-23-13-20-53-IMG-3972.webp",
+  "rating": "NA"
+}

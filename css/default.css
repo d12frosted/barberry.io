@@ -609,3 +609,7 @@ ul.rating-list {
 mark {
   background: var(--highlight-salient);
 }
+
+.chartjs {
+  margin: auto;
+}

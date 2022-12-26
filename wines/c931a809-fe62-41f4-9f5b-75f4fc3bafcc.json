@@ -1,0 +1,34 @@
+{
+  "id": "c931a809-fe62-41f4-9f5b-75f4fc3bafcc",
+  "name": "Les Dévoilés",
+  "full-name": "Domaine Ganevat Les Dévoilés 2012",
+  "producer": {
+    "id": "44e6b134-1a06-432b-9500-b17041054a22",
+    "name": "Domaine Ganevat"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.2",
+  "sugar": "1",
+  "prices": [
+    "3704 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982.webp",
+  "rating": "NA"
+}
