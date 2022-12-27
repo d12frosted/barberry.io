@@ -11,8 +11,8 @@
   "degorgee": "October 2020",
   "sur-lie": "63 months",
   "colour": "white",
-  "carbonation": "still",
-  "sweetness": "dry",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
   "country": {
     "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
     "name": "France"
@@ -32,7 +32,7 @@
   "prices": [
     "1836 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/82/08a078-db47-44da-9bbb-054b44d6c5d9/2022-12-27-07-18-13-26541173-0FA5-4A77-B6B6-F6872813BFD9-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.25"
 }

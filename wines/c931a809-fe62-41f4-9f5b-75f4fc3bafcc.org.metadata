@@ -1,14 +1,13 @@
 publish: "false"
 hide: "false"
 title: "Domaine Ganevat Les Dévoilés 2012"
-update: "2022-12-23"
+update: "2022-12-27"
 producer: "Domaine Ganevat"
 name: "Les Dévoilés"
 vintage: "2012"
 country: "France"
 grapes: "Chardonnay"
+rating: "8.80"
 image: "images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

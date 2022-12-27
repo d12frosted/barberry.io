@@ -7,9 +7,7 @@ name: "Zibibbo"
 vintage: "2019"
 country: "Italy"
 grapes: "Zibibbo"
-rating: "8.25"
+rating: "8.00"
 image: "images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "768"
+image-height: "1024"
