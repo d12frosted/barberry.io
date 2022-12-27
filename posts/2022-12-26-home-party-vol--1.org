@@ -1,0 +1,137 @@
+Wines:
+
+1. [[barberry:/wines/8208a078-db47-44da-9bbb-054b44d6c5d9][Fleury Fleur de L'Europe Brut Nature (2014) NV]]
+2. [[barberry:/wines/23ee479b-88c6-4213-b2d7-099d16da7181][Clos Lentiscus Perill Blanc 2018]]
+3. [[barberry:/wines/1c2dbd99-720b-4c12-8222-1c2f42644946][Serragghia Heritage Zibibbo 2017]]
+4. [[barberry:/wines/c931a809-fe62-41f4-9f5b-75f4fc3bafcc][Domaine Ganevat Les Dévoilés 2012]]
+5. [[barberry:/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14][Alessandro Viola Le mie Origini 2019]]
+
+* Scores
+:PROPERTIES:
+:ID:                     10aadde5-5798-4495-b2ac-88189605533e
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|           | Fleury | Clos Lentiscus | Serragghia | Ganevat | Viola |
+|-----------+--------+----------------+------------+---------+-------|
+| Andrii    |   4.30 |           3.80 |       4.70 |    4.80 |  4.10 |
+| Viktoriya |   4.00 |           4.20 |       4.50 |    4.80 |  4.30 |
+| Elvira    |   4.20 |           4.00 |       4.50 |    4.50 |  4.20 |
+| Oleksandr |   4.20 |           3.80 |       4.30 |    4.10 |  4.00 |
+| Boris     |   4.10 |           3.80 |       4.10 |    4.40 |  4.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|                |  amean |   sdev |   price |      QPR |
+|----------------+--------+--------+---------+----------|
+| Fleury         |   4.16 | 0.0104 | 1836.00 |   1.6681 |
+| Clos Lentiscus |   3.92 | 0.0256 |  772.00 |   2.7579 |
+| Serragghia     |   4.42 | 0.0416 | 3750.00 |   1.2278 |
+| Ganevat        | *4.52* | 0.0696 | 3704.00 |   1.4595 |
+| Viola          |   4.12 | 0.0136 |  980.00 | *2.9388* |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Fleury Fleur de L'Europe Brut Nature (2014) NV
+:PROPERTIES:
+:ID:                     a6e2e9e9-9dd1-42e8-904d-6614ea3b9c3a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-26-home-party-vol--1/2022-12-27-07-18-13-26541173-0FA5-4A77-B6B6-F6872813BFD9-1-105-c.webp]]
+
+- producer: [[barberry:/producers/486eb302-99a3-467d-90fa-5042b5c961cd][Fleury]]
+- name: [[barberry:/wines/8208a078-db47-44da-9bbb-054b44d6c5d9][Fleur de L'Europe Brut Nature (2014)]]
+- vintage: NV
+- base: 2014
+- degorgee: October 2020
+- sur lie: ~63 months
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 0
+- price: 1836 UAH
+
+Blend of Pinot Noir (85%) and Chardonnay (15%), where 75% of grapes are harvested in 2014.
+
+* Clos Lentiscus Perill Blanc 2018
+:PROPERTIES:
+:ID:                     37df1a74-de29-4bcd-9fb2-6831b1da035b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-26-home-party-vol--1/2022-12-27-07-20-28-74366740-6816-40D4-88F8-A7AA8709C519-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]
+- name: [[barberry:/wines/23ee479b-88c6-4213-b2d7-099d16da7181][Perill Blanc]]
+- vintage: 2018
+- grapes: Xarel-lo
+- appellation: Vino de Mesa
+- location: Spain
+- alcohol: 12.5
+- sugar: 0.5
+- price: 772 UAH
+
+* Serragghia Heritage Zibibbo 2017
+:PROPERTIES:
+:ID:                     81bbfc6c-5a99-4f22-8ace-7c878d189044
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-26-home-party-vol--1/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c.webp]]
+
+- producer: [[barberry:/producers/5e56d359-076e-42fd-be45-e8d85e10f8b0][Serragghia]]
+- name: [[barberry:/wines/1c2dbd99-720b-4c12-8222-1c2f42644946][Heritage Zibibbo]]
+- vintage: 2017
+- grapes: Zibibbo
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 13
+- sugar: 1
+- price: 3750 UAH
+
+* Domaine Ganevat Les Dévoilés 2012
+:PROPERTIES:
+:ID:                     ff4afaa6-9ccc-429f-9fc8-aeabf2a131ec
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-26-home-party-vol--1/2022-12-23-13-25-50-IMG-3982.webp]]
+
+- producer: [[barberry:/producers/44e6b134-1a06-432b-9500-b17041054a22][Domaine Ganevat]]
+- name: [[barberry:/wines/c931a809-fe62-41f4-9f5b-75f4fc3bafcc][Les Dévoilés]]
+- vintage: 2012
+- grapes: Chardonnay
+- appellation: Côtes du Jura AOC
+- location: Jura, France
+- alcohol: 13.2
+- sugar: 1
+- price: 3704 UAH
+
+* Alessandro Viola Le mie Origini 2019
+:PROPERTIES:
+:ID:                     d2fb46e5-ffed-4a61-a401-af2480984c0b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-26-home-party-vol--1/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp]]
+
+- producer: [[barberry:/producers/f25fbb5a-7339-433c-8a73-17c6157afc1e][Alessandro Viola]]
+- name: [[barberry:/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14][Le mie Origini]]
+- vintage: 2019
+- grapes: Catarratto
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 13
+- sugar: 1.8
+- price: 980 UAH
+
