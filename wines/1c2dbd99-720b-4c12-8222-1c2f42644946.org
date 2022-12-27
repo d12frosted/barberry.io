@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/1c/2dbd99-720b-4c12-8222-1c2f42644946/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/5e56d359-076e-42fd-be45-e8d85e10f8b0][Serragghia]]
+- Vintage :: 2017
+- Location :: Italy, IGP Terre Siciliane
+- Grapes :: Zibibbo
+- Alcohol :: 13
+- Sugar :: 1
+- Price :: 3750 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d65fe110-38b2-4a83-902e-880baba38319.html">
+    <img class="flex-bottle" src="/images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.webp"></img>
+    <section class="h">Serragghia</section>
+    <section class="h text-bolder">Zibibbo - 2019</section>
+  </a>
+
+</div>
+#+end_export

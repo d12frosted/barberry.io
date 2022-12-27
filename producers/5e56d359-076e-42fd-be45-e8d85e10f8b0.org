@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1c2dbd99-720b-4c12-8222-1c2f42644946.html">
+    <img class="flex-bottle" src="/images/1c/2dbd99-720b-4c12-8222-1c2f42644946/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Heritage Zibibbo - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d65fe110-38b2-4a83-902e-880baba38319.html">
+    <img class="flex-bottle" src="/images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Zibibbo - 2019</section>
+  </a>
+
+</div>
+#+end_export

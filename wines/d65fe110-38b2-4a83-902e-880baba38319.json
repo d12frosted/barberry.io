@@ -1,0 +1,34 @@
+{
+  "id": "d65fe110-38b2-4a83-902e-880baba38319",
+  "name": "Zibibbo",
+  "full-name": "Serragghia Zibibbo 2019",
+  "producer": {
+    "id": "5e56d359-076e-42fd-be45-e8d85e10f8b0",
+    "name": "Serragghia"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "12.73",
+  "sugar": "1.7",
+  "prices": [
+    "2290 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c.webp",
+  "rating": "8.25"
+}
