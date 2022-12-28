@@ -5,8 +5,10 @@
 module Site.ChartJS.Types where
 
 import Data.Aeson as Aeson hiding (Options)
+import Data.Maybe (fromMaybe)
 import Data.String (IsString)
 import Data.Text (Text)
+import qualified Data.Text as T
 import GHC.Generics
 
 --------------------------------------------------------------------------------
@@ -15,12 +17,13 @@ data TableData = TableData [Text] [[(Text, Text)]]
 
 --------------------------------------------------------------------------------
 
-data ChartType = Bar | Line | Pie deriving (Show)
+data ChartType = Bar | Line | Pie | Doughnut deriving (Show)
 
 instance ToJSON ChartType where
   toJSON Bar = "bar"
   toJSON Line = "line"
   toJSON Pie = "pie"
+  toJSON Doughnut = "doughnut"
 
 --------------------------------------------------------------------------------
 
@@ -29,7 +32,8 @@ data Chart a = Chart
     chartHeight :: Maybe Int,
     chartWidth :: Maybe Int,
     chartOptions :: Options,
-    chartData :: ChartData a
+    chartData :: ChartData a,
+    chartClass :: [Text]
   }
   deriving (Show)
 
@@ -47,25 +51,51 @@ data Options
   = OBar BarOptions
   | OLine LineOptions
   | OPie PieOptions
+  | ODoughnut DoughnutOptions
   deriving (Show)
 
 instance ToJSON Options where
   toJSON (OBar o) = toJSON o
   toJSON (OLine o) = toJSON o
   toJSON (OPie o) = toJSON o
+  toJSON (ODoughnut o) = toJSON o
+
+--------------------------------------------------------------------------------
+
+data Anchor
+  = AnchorStart
+  | AnchorCenter
+  | AnchorEnd
+  deriving (Show, Read)
+
+instance ToJSON Anchor where
+  toJSON = Aeson.String . T.toLower . fromMaybe "" . T.stripPrefix "Anchor" . T.pack . show
+
+data Align
+  = AlignCenter
+  | AlignStart
+  | AlignEnd
+  | AlignRight
+  | AlignBottom
+  | AlignLeft
+  | AlignTop
+  deriving (Show, Read)
+
+instance ToJSON Align where
+  toJSON = Aeson.String . T.toLower . fromMaybe "" . T.stripPrefix "Align" . T.pack . show
 
 --------------------------------------------------------------------------------
 
 data Plugin
   = TitlePlugin Text
   | LegendPlugin Bool
-  | DataLabelsPlugin
+  | DataLabelsPlugin Anchor Align
   deriving (Show)
 
 pluginName :: (IsString a) => Plugin -> a
 pluginName (TitlePlugin _) = "title"
 pluginName (LegendPlugin _) = "legend"
-pluginName DataLabelsPlugin = "datalabels"
+pluginName (DataLabelsPlugin _ _) = "datalabels"
 
 pluginsToJSON :: [Plugin] -> Aeson.Value
 pluginsToJSON = Aeson.object . fmap (\p -> pluginName p .= p)
@@ -75,8 +105,8 @@ instance ToJSON Plugin where
     Aeson.object ["display" .= True, "text" .= title]
   toJSON (LegendPlugin display) =
     Aeson.object ["display" .= display]
-  toJSON DataLabelsPlugin =
-    Aeson.object ["anchor" .= ("end" :: Text), "align" .= ("start" :: Text)]
+  toJSON (DataLabelsPlugin anchor align) =
+    Aeson.object ["anchor" .= anchor, "align" .= align]
 
 --------------------------------------------------------------------------------
 
@@ -121,6 +151,19 @@ instance ToJSON PieOptions where
     Aeson.object
       [ "rotation" .= pieRotation,
         "plugins" .= pluginsToJSON piePlugins
+      ]
+
+data DoughnutOptions = DoughnutOptions
+  { doughnutRotation :: Int,
+    doughnutPlugins :: [Plugin]
+  }
+  deriving (Show)
+
+instance ToJSON DoughnutOptions where
+  toJSON DoughnutOptions {..} =
+    Aeson.object
+      [ "rotation" .= doughnutRotation,
+        "plugins" .= pluginsToJSON doughnutPlugins
       ]
 
 --------------------------------------------------------------------------------

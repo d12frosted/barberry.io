@@ -1,7 +1,6 @@
 {-# LANGUAGE ApplicativeDo #-}
 {-# LANGUAGE LambdaCase #-}
 {-# LANGUAGE OverloadedStrings #-}
-{-# LANGUAGE TupleSections #-}
 
 module Main (main) where
 
@@ -231,7 +230,7 @@ embedChartJS pandoc = walkM embedChart . embedImport $ pandoc
         dataName <- noteMaybe name "missing 'data'" $ lookup "data" kvs
         dataBlock <- noteMaybe name ("missing table named " <> dataName) $ queryTable dataName
         tableData <- parseTableData name dataBlock
-        chart <- parseChart name kvs tableData
+        chart <- parseChart name cs kvs tableData
         let chartHtml = RawBlock "html" $ render chart
         (chartHtml :) <$> go (dataName : names) bs
       _ -> (b :) <$> go names bs

@@ -6,11 +6,13 @@ module Site.ChartJS.Parse (parseTableData, parseChart, noteMaybe, note) where
 
 import Control.Monad.Error.Class (throwError)
 import Data.Maybe (fromMaybe, mapMaybe)
-import Data.Text as T (Text, unpack)
+import Data.Text (Text)
+import qualified Data.Text as T
 import Site.ChartJS.Types
 import Text.Pandoc
 import Text.Pandoc.Shared (stringify)
 import Text.Pandoc.Walk
+import Text.Read (readMaybe)
 
 --------------------------------------------------------------------------------
 
@@ -25,14 +27,15 @@ parseTableData _ (Table _ _ _ th [tb] _) = pure $ TableData aHeader (toValues tb
     getCells (Row _ cells) = cells
 parseTableData name _ = note name "table data can be parsed only from Table block"
 
-parseChart :: Text -> [(Text, Text)] -> TableData -> Either Text (Chart Text)
-parseChart name kvs (TableData _ values) = do
+parseChart :: Text -> [Text] -> [(Text, Text)] -> TableData -> Either Text (Chart Text)
+parseChart name cs kvs (TableData _ values) = do
   labelKey <- noteMaybe name "missing 'labels'" $ lookup "labels" kvs
   valueKey <- noteMaybe name "missing 'values'" $ lookup "values" kvs
   chartType <- case lookup "type" kvs of
     Just "bar" -> pure Bar
     Just "line" -> pure Line
     Just "pie" -> pure Pie
+    Just "doughnut" -> pure Doughnut
     Just n -> note name $ "unsupported chart type " <> n
     _ -> note name "missing 'type'"
   indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
@@ -57,7 +60,12 @@ parseChart name kvs (TableData _ values) = do
           "rgba(255, 159, 64, 1)"
         ]
   let legend = fromMaybe False $ lookupFlag "legend" kvs
-  let plugins = [LegendPlugin legend, DataLabelsPlugin]
+  let plugins =
+        [ LegendPlugin legend,
+          DataLabelsPlugin
+            (fromMaybe AnchorEnd $ parseAnchor =<< lookup "label-anchor" kvs)
+            (fromMaybe AlignStart $ parseAlign =<< lookup "label-align" kvs)
+        ]
   let options = case chartType of
         Bar ->
           OBar $
@@ -79,12 +87,19 @@ parseChart name kvs (TableData _ values) = do
               { pieRotation = 0,
                 piePlugins = plugins
               }
+        Doughnut ->
+          ODoughnut $
+            DoughnutOptions
+              { doughnutRotation = 0,
+                doughnutPlugins = plugins
+              }
   pure $
     Chart
       { chartName = name,
         chartHeight = read . T.unpack <$> lookup "height" kvs,
         chartWidth = read . T.unpack <$> lookup "width" kvs,
         chartOptions = options,
+        chartClass = cs,
         chartData =
           ChartData
             { dataLabels = mapMaybe (lookup labelKey) values,
@@ -117,6 +132,12 @@ parseAxisOptions axis kvs =
       Y -> "y"
     axisTypeKey = prefix <> "AxisType"
     axisBeginAtZeroKey = prefix <> "AxisBeginAtZero"
+
+parseAnchor :: Text -> Maybe Anchor
+parseAnchor it = readMaybe . T.unpack $ "Anchor" <> T.toTitle it
+
+parseAlign :: Text -> Maybe Align
+parseAlign it = readMaybe . T.unpack $ "Align" <> T.toTitle it
 
 lookupFlag :: Text -> [(Text, Text)] -> Maybe Bool
 lookupFlag key kvs = case lookup key kvs of

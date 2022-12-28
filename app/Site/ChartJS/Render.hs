@@ -40,7 +40,7 @@ renderToHtml chart@(Chart {..}) = aDiv $ canvas <> script
         ! maybe mempty (height . fromString . show) chartHeight
         ! maybe mempty (width . fromString . show) chartWidth
     script = H.script . H.toHtml . chartJs $ chart
-    aDiv = H.div ! A.class_ "chartjs"
+    aDiv = H.div ! A.class_ (fromString . T.unpack . T.unwords $ chartClass)
 
 --------------------------------------------------------------------------------
 
@@ -53,6 +53,7 @@ chartJs Chart {..} =
         OBar _ -> Bar
         OLine _ -> Line
         OPie _ -> Pie
+        ODoughnut _ -> Doughnut
    in J.renderJavascript $
         [J.julius|
       new Chart(document.getElementById(#{chartName}).getContext('2d'), {
