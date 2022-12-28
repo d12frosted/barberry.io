@@ -34,11 +34,7 @@ render = fromString . renderHtml . renderToHtml
 renderToHtml :: (ToJSON a) => Chart a -> Html
 renderToHtml chart@(Chart {..}) = aDiv $ canvas <> script
   where
-    canvas =
-      H.canvas mempty
-        ! A.id (fromText chartName)
-        ! maybe mempty (height . fromString . show) chartHeight
-        ! maybe mempty (width . fromString . show) chartWidth
+    canvas = H.canvas mempty ! A.id (fromText chartName)
     script = H.script . H.toHtml . chartJs $ chart
     aDiv = H.div ! A.class_ (fromString . T.unpack . T.unwords $ chartClass)
 
@@ -54,9 +50,11 @@ chartJs Chart {..} =
         OLine _ -> Line
         OPie _ -> Pie
         ODoughnut _ -> Doughnut
+      isDynamic = chartSizeMode == DynamicSize
+      varName = T.replace "-" "_" chartName <> "Chart"
    in J.renderJavascript $
         [J.julius|
-      new Chart(document.getElementById(#{chartName}).getContext('2d'), {
+      const #{J.rawJS varName} = new Chart(document.getElementById(#{chartName}).getContext('2d'), {
         plugins: [ChartDataLabels],
         type: #{toJSON chartType},
         data: {
@@ -65,6 +63,9 @@ chartJs Chart {..} =
         },
         options: #{options}
       });
+      if (#{isDynamic}) {
+        document.getElementById(#{chartName}).parentNode.style.height = 24 * #{J.rawJS varName}.data.labels.length + 'px';
+      }
       |]
           undefined
 

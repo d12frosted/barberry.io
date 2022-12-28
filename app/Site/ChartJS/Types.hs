@@ -27,10 +27,11 @@ instance ToJSON ChartType where
 
 --------------------------------------------------------------------------------
 
+data SizeMode = StaticSize | DynamicSize deriving (Show, Eq)
+
 data Chart a = Chart
   { chartName :: Text,
-    chartHeight :: Maybe Int,
-    chartWidth :: Maybe Int,
+    chartSizeMode :: SizeMode,
     chartOptions :: Options,
     chartData :: ChartData a,
     chartClass :: [Text]
@@ -114,7 +115,8 @@ data BarOptions = BarOptions
   { barIndexAxis :: Axis,
     barSkipNull :: Bool,
     barScales :: Scales,
-    barPlugins :: [Plugin]
+    barPlugins :: [Plugin],
+    barMaintainAspectRatio :: Bool
   }
   deriving (Show)
 
@@ -124,7 +126,8 @@ instance ToJSON BarOptions where
       [ "indexAxis" .= barIndexAxis,
         "skipNull" .= barSkipNull,
         "scales" .= barScales,
-        "plugins" .= pluginsToJSON barPlugins
+        "plugins" .= pluginsToJSON barPlugins,
+        "maintainAspectRatio" .= barMaintainAspectRatio
       ]
 
 data LineOptions = LineOptions

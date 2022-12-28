@@ -38,6 +38,11 @@ parseChart name cs kvs (TableData _ values) = do
     Just "doughnut" -> pure Doughnut
     Just n -> note name $ "unsupported chart type " <> n
     _ -> note name "missing 'type'"
+  sizeMode <- case lookup "size-mode" kvs of
+    Just "static" -> pure StaticSize
+    Just "dynamic" -> pure DynamicSize
+    Just n -> note name $ "unsupported size mode " <> n
+    _ -> pure StaticSize
   indexAxis <- case fromMaybe "x" $ lookup "index-axis" kvs of
     "x" -> pure X
     "y" -> pure Y
@@ -73,7 +78,8 @@ parseChart name cs kvs (TableData _ values) = do
               { barIndexAxis = indexAxis,
                 barSkipNull = False,
                 barScales = scales,
-                barPlugins = plugins
+                barPlugins = plugins,
+                barMaintainAspectRatio = sizeMode == StaticSize
               }
         Line ->
           OLine $
@@ -96,8 +102,7 @@ parseChart name cs kvs (TableData _ values) = do
   pure $
     Chart
       { chartName = name,
-        chartHeight = read . T.unpack <$> lookup "height" kvs,
-        chartWidth = read . T.unpack <$> lookup "width" kvs,
+        chartSizeMode = sizeMode,
         chartOptions = options,
         chartClass = cs,
         chartData =
