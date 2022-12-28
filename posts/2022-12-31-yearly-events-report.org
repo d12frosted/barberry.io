@@ -1,4 +1,6 @@
-Events:
+This year was tough. The whole country went into turmoil due to the war. And yet, despite the odds and horrors, we looked for the light of each other. We looked for comfort and company. Just before Independence Day, when there was a high chance of terrorist attacks, someone said to me: it's better to gather for a wine-tasting event and spend this evening together instead of stressing alone. And so we did.
+
+You might already be aware that I like to collect data. Every wine that we tasted over 15 events was served blind. Every participant had a chance to rate the wine on a 1-5 scale. And so every event has a dedicated article containing our scores and sharing more information about wines and producers. This post aggregates data from all events of this year. Of course, in a dry fashion.
 
 1. [2022-01-11] [[barberry:/posts/2022-01-11-some-amber-stars][Some Amber Stars]]
 2. [2022-01-25] [[barberry:/posts/2022-01-25-u600][U600]]
@@ -21,9 +23,141 @@ Events:
 :ID:                     6f101091-37f0-41a6-86a3-1a7d67d06ebe
 :END:
 
+This year we've got a lot of new faces. Some, unfortunately, moved out of Kyiv and could not participate as much as they used to. In total, we had 147 participants (vs 109 last year) and 43 unique (vs 38 last year). And by the way, if I am not mistaken, 7 people received small presents from me for guessing wines.
+
+** Most active participants
+:PROPERTIES:
+:ID:                     5ef273f9-84aa-43dc-ba1f-2a87005ff5de
+:END:
+
+Some people participate more often than others. Around 40% of people (excluding me, of course) participated in 3+ events (e.g. at least in every fifth event). That makes a fine core for our events, right?
+
+#+attr_html: :id participation-rate
+#+attr_html: :data participation-rate-data
+#+attr_html: :labels participant :values events :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+#+name: participation-rate-data
+| participant  | events |
+|--------------+--------|
+| Boris B      |     15 |
+| Elvira K     |     14 |
+| Andrii S     |     12 |
+| Viktoriya Zh |      8 |
+| Tetiana S    |      7 |
+| Dmytro S     |      6 |
+| Oleksandr Y  |      6 |
+| Ivietta K    |      6 |
+| Dmytro D     |      6 |
+| Oleksandr R  |      5 |
+| Mariia S     |      5 |
+| Daria B      |      5 |
+| Dimitry G    |      4 |
+| Artem O      |      4 |
+| Maksym K     |      3 |
+| Lena M       |      3 |
+| Kristina S   |      3 |
+| Anastasiia P |      3 |
+| Yulia K      |      2 |
+| Olena H      |      2 |
+| Kateryna S   |      2 |
+| Katerna K    |      2 |
+| Andrii P     |      2 |
+| Andrii B     |      2 |
+| Andrey U     |      2 |
+| Yulia S      |      1 |
+| Yaroslav M   |      1 |
+| Vira I       |      1 |
+| Vasyl K      |      1 |
+| Sofiia B     |      1 |
+| Rostyslav Y  |      1 |
+| Oleksandra B |      1 |
+| Nelli L      |      1 |
+| Karyna S     |      1 |
+| Julia L      |      1 |
+| Dmytro Yu    |      1 |
+| Dmytro K     |      1 |
+| Daria T      |      1 |
+| Daria N      |      1 |
+| Anna Zr      |      1 |
+| Anna Y       |      1 |
+| Andrii K     |      1 |
+| Alina S      |      1 |
+
+** Relation to Wix
+:PROPERTIES:
+:ID:                     f9b5e0b0-11c3-4af5-b93f-9138047fa8c9
+:END:
+
+It's not a secret that most events are held in the Wix Kyiv office. And it explains why most of the participants are Wix employees. Yet this year, more and more people out of the Wix joined our cosy parties. One person got so used to our office that decided to join Wix.
+
+#+attr_html: :id participants-status-event :class img-half
+#+attr_html: :data participants-status-data
+#+attr_html: :labels status :values count :type doughnut :label-anchor center
+#+attr_html: :legend true
+#+begin_chartjs
+#+end_chartjs
+
+#+name: participants-status-data
+| status       | count |
+|--------------+-------|
+| Wix Employee |    31 |
+| Left Wix     |     1 |
+| Outsider     |    10 |
+| Joined Wix   |     1 |
+
+* Events
+:PROPERTIES:
+:ID:                     2dacebec-e56b-45a2-9ec9-50b33a284b8a
+:END:
+
+As was already mentioned, we had 15 events this year (vs 11 last year). Out of them, 3 were hosted outside our regular place (e.g. Wix Kyiv office) - [[https://sabotage.wine/][Garage]], [[https://www.instagram.com/101winebar/][101 Bar]] and [[https://www.instagram.com/one.tea.tree/][One Tea Tree]]. In addition, we experimented with the tasting format. During one of the events, we tasted wine from black opaque glasses (see [[barberry:/posts/2022-09-20-opaque-tasting][Opaque Tasting Vol. 1]]), and during another, each participant had to bring a bottle (see [[barberry:/posts/2022-12-13-to-each-their-own-vol--1][To Each Their Own Vol. 1]]). Both of the formats are great, so I am going to continue organising them.
+
+** Average score per event
+:PROPERTIES:
+:ID:                     ce0a8ffa-c698-4936-8fed-32c2077c78ee
+:END:
+
+As you can see, there was a pretty tough fight in terms of the average score. There is a clear winner - Some Amber Stars (in general, orange wines are scored higher by us), but many events differ only in 0.01. Crazy!
+
+But I am also amazed [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] reached second place. After all, last year's events dedicated to sparkling wines are among the worst three events. It is lovely to see this transformation.
+
+#+attr_html: :id score-per-event
+#+attr_html: :data score-per-event-data
+#+attr_html: :labels event :values score :type bar :index-axis x
+#+begin_chartjs
+#+end_chartjs
+
+#+name: score-per-event-data
+| event                         | score |
+|-------------------------------+-------|
+| Some Amber Stars              | 4.198 |
+| Classy Bubbles Vol. 2         | 4.005 |
+| Mixed Bag Vol. 2: Orange      | 3.992 |
+| Mixed Bag Vol. 3              | 3.946 |
+| Grapes of Piedmont            | 3.945 |
+| A bit of Spain                | 3.938 |
+| Opaque Tasting Vol. 1         | 3.930 |
+| Mixed Bag Vol. 1              | 3.825 |
+| Mixed Bag Vol. 4              | 3.818 |
+| To Each Their Own Vol. 1      | 3.811 |
+| Sin Titulo                    | 3.807 |
+| Atypical ver.1.22474487139... | 3.781 |
+| U600                          | 3.763 |
+| A taste of Chenin Blanc       | 3.556 |
+| Wine o'clock with People      | 3.540 |
+
+** Participants per event
+:PROPERTIES:
+:ID:                     5dcabea5-9434-4958-9df7-353104b8fb1b
+:END:
+
+It's always nice to see more people, but I found that 6-9 is the ideal amount participants. Why? Because we have more time and space to hear everyone's opinion without rushing. This became more critical due to the curfew. The drawback is that the budget becomes tighter.
+
 #+attr_html: :id participants-per-event
 #+attr_html: :data participants-per-event-data
-#+attr_html: :labels event :values participants :type bar :index-axis y
+#+attr_html: :labels event :values participants :type bar :index-axis x
 #+begin_chartjs
 #+end_chartjs
 
@@ -44,39 +178,477 @@ Events:
 | A bit of Spain                |            9 |
 | Grapes of Piedmont            |           12 |
 | To Each Their Own Vol. 1      |            7 |
-| Classy Bubbles Vol. 2         |           11 |
+| Classy Bubbles Vol. 2         |           12 |
 
-#+attr_html: :id participants-status-event :container-class img-half :class img-half
-#+attr_html: :data participants-status-data
-#+attr_html: :labels status :values count :type pie
+** Wines per event
+:PROPERTIES:
+:ID:                     8c45b70f-4f58-471b-994a-b5f8b28a01b3
+:END:
+
+We constantly say that 6-7 is the ideal amount of wines per event, but somehow we end up with 8 wines from time to time. And this is ignoring the 'extra' bottles. Once, we ended up with 13 wines! At least it was fun.
+
+#+attr_html: :id wines-per-event
+#+attr_html: :data wines-per-event-data
+#+attr_html: :labels event :values wines :type bar :index-axis x
 #+begin_chartjs
 #+end_chartjs
 
-#+name: participants-status-data
-| status       | count |
-|--------------+-------|
-| Wix Employee |    31 |
-| Left Wix     |     1 |
-| Outsider     |     9 |
-| Joined Wix   |     1 |
+#+name: wines-per-event-data
+| event                         | wines |
+|-------------------------------+-------|
+| Some Amber Stars              |     5 |
+| U600                          |     6 |
+| A taste of Chenin Blanc       |     6 |
+| Mixed Bag Vol. 1              |     7 |
+| Mixed Bag Vol. 2: Orange      |     8 |
+| Sin Titulo                    |     8 |
+| Wine o'clock with People      |     5 |
+| Mixed Bag Vol. 3              |     8 |
+| Opaque Tasting Vol. 1         |     5 |
+| Mixed Bag Vol. 4              |     7 |
+| Atypical ver.1.22474487139... |     6 |
+| A bit of Spain                |     7 |
+| Grapes of Piedmont            |     7 |
+| To Each Their Own Vol. 1      |     7 |
+| Classy Bubbles Vol. 2         |     8 |
 
-#+begin_quote
-<div class="chartjs" style="max-width:30rem"><canvas id="participants-status-event"></canvas><script>
-      new Chart(document.getElementById("participants-status-event").getContext('2d'), {
-        plugins: [ChartDataLabels],
-        type: "doughnut",
-        data: {
-          labels: ["Wix Employee","Outsider","Left Wix","Joined Wix"],
-          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["31","1","9","1"]}]
-        },
-        options: {"rotation":0,"plugins":{"legend":{"display":false},"datalabels":
-                                          { "align":"start",
-                                            "anchor":"center",
-                                            "formatter": function(value, context) {
-                                              return context.chart.data.labels[context.dataIndex] + ': ' + context.chart.data.datasets[0].data[context.dataIndex];
-                                            }
-                                          }
-                                         }}
-      });
-      </script></div>
-#+end_quote
+* Finances
+:PROPERTIES:
+:ID:                     43f96ef9-aca9-43e5-8b8a-4bcc1572e7d0
+:END:
+
+** Total wine price per event
+:PROPERTIES:
+:ID:                     9d1cfaa9-66be-47c2-84cc-55aa4ea0046d
+:END:
+
+This year we got bolder with our budget. We spent 118 656 UAH on wines (vs 72 712 UAH last year). If we consider the exchange ratio, the growth is not that big. There is little wonder that the [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] event was the most expensive. At the same time, [[barberry:/posts/2022-01-25-u600][U600]] and [[barberry:/posts/2022-09-06-wine-oclock][Wine o'clock with People]] were designed to be the least expensive.
+
+#+attr_html: :id total-wine-price-per-event
+#+attr_html: :data total-wine-price-per-event-data
+#+attr_html: :labels event :values price :type bar :index-axis x
+#+begin_chartjs
+#+end_chartjs
+
+#+name: total-wine-price-per-event-data
+| event                         | price |
+|-------------------------------+-------|
+| Some Amber Stars              |  8620 |
+| U600                          |  3135 |
+| A taste of Chenin Blanc       |  6425 |
+| Mixed Bag Vol. 1              |  7242 |
+| Mixed Bag Vol. 2: Orange      |  9411 |
+| Sin Titulo                    |  8341 |
+| Wine o'clock with People      |  3161 |
+| Mixed Bag Vol. 3              |  8856 |
+| Opaque Tasting Vol. 1         |  4866 |
+| Mixed Bag Vol. 4              |  7734 |
+| Atypical ver.1.22474487139... |  7018 |
+| A bit of Spain                | 10016 |
+| Grapes of Piedmont            |  7615 |
+| To Each Their Own Vol. 1      |  9829 |
+| Classy Bubbles Vol. 2         | 16387 |
+
+** Average wine price per event
+:PROPERTIES:
+:ID:                     575161ef-7846-4a4d-a4c1-905208b1747b
+:END:
+
+The average price of wines per event correlates with the previous chart. Mostly. Honestly, I don't really understand what conclusion to draw from this one, but it's cool, so take a look.
+
+#+attr_html: :id average-wine-price-per-event
+#+attr_html: :data average-wine-price-per-event-data
+#+attr_html: :labels event :values price :type bar :index-axis x
+#+begin_chartjs
+#+end_chartjs
+
+#+name: average-wine-price-per-event-data
+| event                         | price |
+|-------------------------------+-------|
+| Some Amber Stars              |  1724 |
+| U600                          |   522 |
+| A taste of Chenin Blanc       |  1070 |
+| Mixed Bag Vol. 1              |  1034 |
+| Mixed Bag Vol. 2: Orange      |  1176 |
+| Sin Titulo                    |  1042 |
+| Wine o'clock with People      |   632 |
+| Mixed Bag Vol. 3              |  1107 |
+| Opaque Tasting Vol. 1         |   973 |
+| Mixed Bag Vol. 4              |  1104 |
+| Atypical ver.1.22474487139... |  1169 |
+| A bit of Spain                |  1430 |
+| Grapes of Piedmont            |  1087 |
+| To Each Their Own Vol. 1      |  1404 |
+| Classy Bubbles Vol. 2         |  2048 |
+
+** Most expensive wines
+:PROPERTIES:
+:ID:                     4484c6a5-0d8c-40bd-a5f4-efcc542caaf0
+:END:
+
+The average price of the bottle is 1186 UAH (vs 908 UAH last year). The most expensive wine was [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Gravner Ribolla Anfora 2004]] until the last event, where I decided to put a few beefed Champagne wines. So [[barberry:/wines/97722c60-4efd-412c-9474-a050d8e513d4][De Sousa Cuvée des Caudalies Grand Cru Rosé NV]] is the most expensive wine with a price tag of 3906 UAH (vs Agrapart Terroirs NV last year with a price tag of 1950 UAH). And [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]] is the least expensive wine with a price tag of 339 UAH.
+
+#+attr_html: :id expensive-wines
+#+attr_html: :data expensive-wines-data
+#+attr_html: :labels wine :values price :type bar :index-axis x
+#+begin_chartjs
+#+end_chartjs
+
+#+name: expensive-wines-data
+| wine                                             | price |
+|--------------------------------------------------+-------|
+| De Sousa Cuvée des Caudalies Grand Cru Rosé NV   |  3906 |
+| Maurice Vesselle Grand Cru Collection Bouzy 2000 |  3673 |
+| Gravner Ribolla 2004                             |  2900 |
+| Benoît Lahaye Millesime 2017                     |  2595 |
+| Portal del Priorat Tros De Clos 2013             |  2465 |
+| Vega Sicilia Pintia 2016                         |  1947 |
+| Bérêche & Fils Côte Grand Cru 2016               |  1890 |
+| Cantina Alchemica Lanthano Bianco 2013           |  1890 |
+| Antoniolo Gattinara 2014                         |  1800 |
+
+* Wines
+:PROPERTIES:
+:ID:                     e35f4fa8-2308-4e41-95bb-ac6f54b92214
+:END:
+
+So this year, we tasted 100 wines (vs 80 last year). And only 2 of them were repeated - Stekar and Anima.
+
+** Best wines of the year
+:PROPERTIES:
+:ID:                     981cba1c-07d1-4e89-8bf2-149120ac4f41
+:END:
+
+Now to the list of the most rated wines. It's no wonder that half of the top 20 wines are macerated white (aka orange) wines. We all love them. But I am happy to see [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]], [[barberry:/producers/6c0d7068-c072-49c5-980a-9f45b4d24541][De Sousa]], and [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]] on this list.
+
+By the way, did you guess what wine is the best-rated wine of this year? Now I am just happy that I decided to share this wine with you.
+
+#+attr_html: :id best-score-wines
+#+attr_html: :data best-score-wines-data
+#+attr_html: :labels wine :values score :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+#+name: best-score-wines-data
+| wine                                                         | score |
+|--------------------------------------------------------------+-------|
+| R. López de Heredia Viña Tondonia Blanco Reserva 2011        |  4.59 |
+| La Stoppa Ageno 2018                                         |  4.40 |
+| Ktima Ligas Spira 2019                                       |  4.39 |
+| Testalonga El Bandito I Wish I was a Ninja 2021              |  4.36 |
+| La Stoppa Ageno 2015                                         |  4.27 |
+| Tomislav Marković Quo Vadis 2019                             |  4.26 |
+| Cascina Tavijn Bandita 2016                                  |  4.24 |
+| Radikon Ribolla 2007                                         |  4.23 |
+| Avancia Godello 2020                                         |  4.23 |
+| Cantina Alchemica Lanthano Bianco 2013                       |  4.22 |
+| La Biancara Sassaia 1997                                     |  4.18 |
+| Patrick Sullivan Baw Baw Shire Ada River Chardonnay 2018     |  4.18 |
+| Kmetija Štekar Rebula Prilo 2015                             |  4.17 |
+| Foradori Fuoripista Pinot Grigio 2021                        |  4.17 |
+| Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014               |  4.16 |
+| Foradori Fuoripista Pinot Grigio 2014                        |  4.16 |
+| Portal del Priorat Tros De Clos 2013                         |  4.14 |
+| Le Vieux Télégraphe Châteauneuf du Pape Clos La Roquète 2020 |  4.13 |
+| De Sousa Cuvée des Caudalies Grand Cru Rosé NV               |  4.13 |
+| Matassa Cuvée Alexandria 2019                                |  4.11 |
+
+** Worst wines of the year
+:PROPERTIES:
+:ID:                     981cba1c-07d1-4e89-8bf2-149120ac4f41
+:END:
+
+#+attr_html: :id worst-score-wines
+#+attr_html: :data worst-score-wines-data
+#+attr_html: :labels wine :values score :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+Someone would say that this list is a little bit depressing. But I would argue because even this list contains mostly good scores (with one notable exception). Besides, some wines are just controversial ([[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Sous Le Végétal Palli et Genesia 2018]] is an excellent example). It slightly pains me to see [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili]], [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]], [[barberry:/producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed][Sous Le Végétal]] and [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]] on this list. But on the other hand, someone needs to be here, right?
+
+#+name: worst-score-wines-data
+| wine                                                          | score |
+|---------------------------------------------------------------+-------|
+| Testalonga El Bandito Skin 2019                               |  3.66 |
+| Iuli La Rina 2018                                             |  3.65 |
+| Fedellos do Couto Bastarda 2017                               |  3.64 |
+| Louis Jadot Savigny-Lés-Beaune La Dominode 1er Cru 2014       |  3.64 |
+| Pierre Frick Cremant d'Alsace 2017                            |  3.62 |
+| Sclavus Vino di Sasso 2017                                    |  3.62 |
+| Golan Heights Winery Chardonnay Yarden 2019                   |  3.61 |
+| Loxarel Refugi Brut Nature Reserva 2018                       |  3.59 |
+| Villa Calicantus Sollazzo 2018                                |  3.56 |
+| Sadie Family Skurfberg 2020                                   |  3.55 |
+| Tsikhelishvili Wines Jgia 2018                                |  3.54 |
+| Hummel Villaniy Portugieser 2020                              |  3.53 |
+| Vinoman Pinot Blanc 2021                                      |  3.51 |
+| Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019 |  3.49 |
+| Les Vignes De Paradis Chenin 2019                             |  3.48 |
+| Tsikhelishvili Wines Alvani Rkatsiteli 2018                   |  3.44 |
+| Weingut Tement Blanc Reserve 2017                             |  3.37 |
+| Muchada-Léclapart Univers 2017                                |  3.37 |
+| Sous Le Végétal Palli et Genesia 2018                         |  3.29 |
+| Casa Coste Piane Brichet Frizzante NV                         |  2.95 |
+| Costador Metamorphika Chenin Blanc 2017                       |  2.29 |
+
+** Wines with best QPR
+:PROPERTIES:
+:ID:                     6121073e-f0da-4b86-b23f-50688cad278f
+:END:
+
+The most interesting chart. Since quality is not linear (e.g. wine for 100 UAH that received 1.5 is not something I want to buy), it's calculated as $100 * Q! / P$. We multiply by $100$ just to make it more representative. The more the better! Factorial gives the most value to scores close to 5. The formula is not ideal, and if someone knows how to better approach this, let me know!
+
+Aside from [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]] with its ridicuously great price tag, I am happy to see [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][R. López de Heredia Viña Tondonia Blanco Reserva 2011]] on this list. It's truly fascinating when the best-rated wine has good QPR at the same time. Something to hunt for.
+
+#+attr_html: :id best-qpr-wines
+#+attr_html: :data best-qpr-wines-data
+#+attr_html: :labels wine :values qpr :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+#+name: best-qpr-wines-data
+| wine                                                  |  qpr |
+|-------------------------------------------------------+------|
+| Félicien Brou Vouvray Brut NV                         | 7.27 |
+| Testalonga El Bandito I Wish I was a Ninja 2021       | 4.89 |
+| Thymiopoulos Xinomavro Young Vines 2018               | 4.83 |
+| Bodegas Borsao Tres Picos 2019                        | 4.46 |
+| R. López de Heredia Viña Tondonia Blanco Reserva 2011 | 3.85 |
+| La Stoppa Ageno 2018                                  | 3.82 |
+| Tomislav Marković Quo Vadis 2019                      | 3.78 |
+| Naveran Odisea 2019                                   | 3.67 |
+| Cascina Tavijn Bandita 2016                           | 3.43 |
+| Ktima Ligas Spira 2019                                | 3.34 |
+| Avancia Godello 2020                                  | 3.32 |
+| Weinert Cabernet Sauvignon 2010                       | 3.26 |
+| Cascina Tavijn Vino Bianco 2021                       | 3.23 |
+| La Stoppa Ageno 2015                                  | 3.20 |
+| Testalonga Baby Bandito Follow Your Dreams 2021       | 3.17 |
+| Cascina Bertolotto Spumante Brut Metodo Classico NV   | 3.07 |
+| Kmetija Štekar Rebula Prilo 2015                      | 2.94 |
+| Clos du Tue-Boeuf Rouillon Cheverny 2020              | 2.89 |
+| Marco De Bartoli Vignaverde 2019                      | 2.76 |
+| Fedellos do Couto Lomba dos Ares 2017                 | 2.68 |
+
+** Countries
+:PROPERTIES:
+:ID:                     1177da46-0411-4134-90e9-1f025bdc4c34
+:END:
+
+This year we visited 19 countries (vs 14 last year). Now some of us can flex after tasting wine from Croatia or England.
+
+#+attr_html: :id countries-count
+#+attr_html: :data countries-count-data
+#+attr_html: :labels country :values count :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+#+name: countries-count-data
+| country      | count |
+|--------------+-------|
+| Italy        |    26 |
+| France       |    21 |
+| Spain        |    16 |
+| Australia    |     7 |
+| Germany      |     5 |
+| Greece       |     4 |
+| South Africa |     4 |
+| Georgia      |     3 |
+| Argentina    |     2 |
+| Austria      |     2 |
+| Slovenia     |     2 |
+| Croatia      |     1 |
+| England      |     1 |
+| Hungary      |     1 |
+| Israel       |     1 |
+| New Zealand  |     1 |
+| Portugal     |     1 |
+| USA          |     1 |
+| Ukraine      |     1 |
+
+** Grapes
+:PROPERTIES:
+:ID:                     071bc427-0200-4463-a25d-57cbd917b350
+:END:
+
+And this is the chart that makes me proud. We tasted 74 grapes (ignoring the 417 variety field blend and smaller field blends) compared to 42 last year. Moreover, only because of the last event, Pinot Noir and Chardonnay are at the top again. I assure you, not many sommeliers tasted all these grapes. For example, Jgia is almost extinct. La Crescent is a rare grape created for the cold climate of the northern parts of the Americas. Pelaverga Piccolo? Refošk? Robola? Ortugo? Folks, we are lucky.
+
+#+attr_html: :id grapes-count
+#+attr_html: :data grapes-count-data
+#+attr_html: :labels grape :values count :type bar :index-axis y :size-mode dynamic
+#+begin_chartjs
+#+end_chartjs
+
+#+name: grapes-count-data
+| grape                        | count |
+|------------------------------+-------|
+| Pinot Noir                   |    15 |
+| Chardonnay                   |    12 |
+| Pinot Gris                   |     8 |
+| Chenin Blanc                 |     6 |
+| Grenache                     |     4 |
+| Malvasia di Candia Aromatica |     4 |
+| Ribolla Gialla               |     4 |
+| Riesling                     |     3 |
+| Sauvignon Blanc              |     3 |
+| Cariñena                     |     2 |
+| Corvina                      |     2 |
+| Gamay                        |     2 |
+| Glera                        |     2 |
+| Godello                      |     2 |
+| Grillo                       |     2 |
+| Molinara                     |     2 |
+| Pinot Blanc                  |     2 |
+| Rondinella                   |     2 |
+| Sangiovese                   |     2 |
+| Syrah                        |     2 |
+| Trousseau                    |     2 |
+| Xinomavro                    |     2 |
+| Zibibbo                      |     2 |
+| Albariño                     |     1 |
+| Alicante Henri Bouschet      |     1 |
+| Bacchus                      |     1 |
+| Barbera                      |     1 |
+| Bical                        |     1 |
+| Blauer Portugieser           |     1 |
+| Cabernet Franc               |     1 |
+| Cabernet Sauvignon           |     1 |
+| Caiño                        |     1 |
+| Cellerina                    |     1 |
+| Cercial                      |     1 |
+| Clairette                    |     1 |
+| Colombardo                   |     1 |
+| Corbeau                      |     1 |
+| Cortese                      |     1 |
+| Croatina                     |     1 |
+| Dolcetto                     |     1 |
+| Garganega                    |     1 |
+| Garnacha Blanca              |     1 |
+| Garnacha Tintorera           |     1 |
+| Gewürztraminer               |     1 |
+| Grenache Gris                |     1 |
+| Jgia                         |     1 |
+| La Crescent                  |     1 |
+| Macabeo                      |     1 |
+| Maria Gomes                  |     1 |
+| Mencia                       |     1 |
+| Moscato Giallo               |     1 |
+| Mouraton                     |     1 |
+| Muscat de Samos              |     1 |
+| Nebbiolo                     |     1 |
+| Negramoll                    |     1 |
+| Nerello Cappuccio            |     1 |
+| Nerello Mascalese            |     1 |
+| Ortrugo                      |     1 |
+| Palomino Fino                |     1 |
+| Pelaverga Piccolo            |     1 |
+| Poulsard                     |     1 |
+| Refošk                       |     1 |
+| Rkatsiteli                   |     1 |
+| Robola                       |     1 |
+| Roussanne                    |     1 |
+| Sauvignon Gris               |     1 |
+| Savagnin                     |     1 |
+| Tempranillo                  |     1 |
+| Torrontes                    |     1 |
+| Trebbiano                    |     1 |
+| Treixadura                   |     1 |
+| Weissburgunder               |     1 |
+| Welschriesling               |     1 |
+| Xarel-lo                     |     1 |
+
+** Carbonation
+:PROPERTIES:
+:ID:                     c57cac8e-a284-490a-a821-2a52b61dd52e
+:END:
+
+Nothing overly interesting. Just know that 20% of wines this year were sparkling.
+
+#+attr_html: :id carbonation-count :class img-half
+#+attr_html: :data carbonation-count-data
+#+attr_html: :labels carbonation :values count :type doughnut :label-anchor center
+#+attr_html: :legend true
+#+begin_chartjs
+#+end_chartjs
+
+#+name: carbonation-count-data
+| carbonation | count |
+|-------------+-------|
+| sparkling   |    20 |
+| still       |    80 |
+
+** Colour
+:PROPERTIES:
+:ID:                     f08d07dc-8789-444a-a541-bbee24886251
+:END:
+
+Considering that orange wines are macerated whites, it seems like we tasted not so many red wines. On the other hand, I decided to track orange wines separately to check if they are better received than others. Guess what? Yes, I already spoiled it, but orange wines have an average score of 4.027 compared to others (ranging between 3.79 and 3.84).
+
+#+attr_html: :id colour-count :class img-half
+#+attr_html: :data colour-count-data
+#+attr_html: :labels colour :values count :type doughnut :label-anchor center
+#+attr_html: :legend true
+#+begin_chartjs
+#+end_chartjs
+
+#+name: colour-count-data
+| colour | count |
+|--------+-------|
+| red    |    35 |
+| rose   |     8 |
+| orange |    20 |
+| white  |    37 |
+
+** Vintage
+:PROPERTIES:
+:ID:                     13f48fb1-a63b-40f5-a761-828ed6ed476f
+:END:
+
+This year we had some older bottles. The oldest was [[barberry:/wines/aff84447-55cc-496b-bf6c-3881e451e0d0][La Biancara Sassaia 1997]] (vs [[barberry:/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47][Chivite Coleccion 125 Rosado 2006]] last year). We also had [[barberry:/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de][Maurice Vesselle Grand Cru Collection Bouzy 2000]] and [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Gravner Ribolla Anfora 2004]]. Lucky us, right?
+
+#+attr_html: :id vintage-count
+#+attr_html: :data vintage-count-data
+#+attr_html: :labels vintage :values count :type bar :index-axis x
+#+begin_chartjs
+#+end_chartjs
+
+#+name: vintage-count-data
+| vintage | count |
+|---------+-------|
+|    1997 |     1 |
+|    2000 |     1 |
+|    2004 |     1 |
+|    2007 |     1 |
+|    2010 |     2 |
+|    2011 |     1 |
+|    2013 |     2 |
+|    2014 |     5 |
+|    2015 |     3 |
+|    2016 |     5 |
+|    2017 |    16 |
+|    2018 |    20 |
+|    2019 |    20 |
+|    2020 |     9 |
+|    2021 |     5 |
+|      NV |     8 |
+
+* Conclusion
+:PROPERTIES:
+:ID:                     424183e6-4694-4919-bea2-5239d20da91b
+:END:
+
+/This section is under construction. Please return in -2147483648 seconds./
+
+* Acknowledgements
+:PROPERTIES:
+:ID:                     560bcaed-dac8-449c-8433-dabe511d16db
+:END:
+
+/This section is under construction. Please return in -2147483648 seconds./
+
+* What next?
+:PROPERTIES:
+:ID:                     9fc14325-3820-4267-a8b2-d62d1e0a1117
+:END:
+
+/This section is under construction. Please return in -2147483648 seconds./
