@@ -1,4 +1,9 @@
-Wines:
+#+caption: Photo by Elvira Kantiieva
+[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-12-28-08-04-52-2022-12-28 07.58.22.webp]]
+
+Last year we had two tasting events dedicated to sparking wines. And unfortunately, both are among the worst three events of the year. It wouldn't be a big deal, but Beaujolais is not part of this triad. So having this context, you can imagine why I was hesitant to throw another sparkling party. Yet, it's the last tasting of the year, and it's all festive. So why not?
+
+The choice was tough, even more than usual. First of all, I wanted to bring mostly new bottles, even for the most experienced participants. Secondly, I wanted to build a story and a few study cases while still having only good stuff (with one notable exception). So after tasting lots of different wines and consulting with various people, the final line up took the following shape.
 
 1. [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV]]
 2. [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
@@ -96,30 +101,6 @@ Without going too much into unnecessary details (you better read some linked sou
 
 Grand Cru Millesime comes from Le Mont de Tauxiéres parcel in the Bouzy Grand Cru (Montagne de Reims). It's a blend of Pinot Noir (80%) and Chardonnay (20%) that spent 60 months sur lie. It was disgorged just recently, in September 2022. Many would argue that we are opening it too soon...
 
-* Félicien Brou Vouvray Brut NV
-:PROPERTIES:
-:ID:                     ba280a4f-0b09-4646-af34-aec650bc936a
-:END:
-
-#+attr_html: :class bottle-right
-[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp]]
-
-- producer: [[barberry:/producers/2a5b0154-c0c9-4221-81c5-44a34a37ed4b][Félicien Brou]]
-- name: [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Vouvray Brut]]
-- vintage: NV
-- degorgee: ???
-- sur lie: 9 to 12 months
-- grapes: Chenin Blanc
-- appellation: Vouvray AOC
-- location: Loire, France
-- alcohol: 12
-- sugar: N/A
-- price: 339 UAH
-
-Someone needs to bring drums as Félicien Brou enters the scene. Who, you ask? Some of you might remember my constant temptation to take cheap and simple wines for 'grand' wine-tasting events. You also might remember that I love to taste all 'no-name' sparkling wines from the small booze shops near my house. This is how I learned about this wine. And in my opinion, it's definitely better than some basic Taittinger wines.
-
-Unfortunately, I know little about Félicien Brou and this particular wine. The information on the internet is scarce. In any case, Félicien Brou is a wine brand (part of Les Grands Chais de France) from the Loire, just upstream of the city of Tours. Made in traditional style (e.g. with ageing on lees, riddling and disgorgement) from Chenin Blanc grapes. That's it.
-
 * Bérêche & Fils Brut Réserve L19.07/2022 NV
 :PROPERTIES:
 :ID:                     70f4958f-5910-4caf-a335-9be3c0aab825
@@ -155,6 +136,30 @@ And now, the time has come to talk about one of my favourite NV Champagne wines 
 Bérêche & Fils is a family-owned Champagne house since 1847 run by Raphaël and Vincent Bérêche. In 2019 they owned 9.5 hectares of mature vines averaging 38 years of age. And they produce only 85 thousand bottles yearly, which is considered a modest amount. Lower yields (60-65hL/hectare - less than two-thirds of the regional average) are one of their protection from challenges imposed by climate change.
 
 Brut Réserve is a blend of Chardonnay (35%), Pinot Meunier (35%), and Pinot noir (30%), with 35% reserve wines each year. Bérêche brothers source grapes for this wine from Ludes (35%), Ormes (30%), Mareuil-le-port (25%), and Trépail (10%). They slowly ferment grapes in barrels and small vats. The wine spends on lees 24 to 36 months.
+
+* Félicien Brou Vouvray Brut NV
+:PROPERTIES:
+:ID:                     ba280a4f-0b09-4646-af34-aec650bc936a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2022-12-27-classy-bubbles-vol--2/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp]]
+
+- producer: [[barberry:/producers/2a5b0154-c0c9-4221-81c5-44a34a37ed4b][Félicien Brou]]
+- name: [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Vouvray Brut]]
+- vintage: NV
+- degorgee: ???
+- sur lie: 9 to 12 months
+- grapes: Chenin Blanc
+- appellation: Vouvray AOC
+- location: Loire, France
+- alcohol: 12
+- sugar: N/A
+- price: 339 UAH
+
+Someone needs to bring drums as Félicien Brou enters the scene. Who, you ask? Some of you might remember my constant temptation to take cheap and simple wines for 'grand' wine-tasting events. You also might remember that I love to taste all 'no-name' sparkling wines from the small booze shops near my house. This is how I learned about this wine. And in my opinion, it's definitely better than some basic Taittinger wines.
+
+Unfortunately, I know little about Félicien Brou and this particular wine. The information on the internet is scarce. In any case, Félicien Brou is a wine brand (part of Les Grands Chais de France) from the Loire, just upstream of the city of Tours. Made in traditional style (e.g. with ageing on lees, riddling and disgorgement) from Chenin Blanc grapes. That's it.
 
 * Maurice Vesselle Grand Cru Collection Bouzy 2000
 :PROPERTIES:
@@ -242,6 +247,78 @@ The base wine for this rosé spent 7 months in French oak 225 litres Taransaud b
 
 As far as I understand, the label depicts cracks on the granite block. They occur by the procedures used to quarry the stone.
 
+* Scores
+:PROPERTIES:
+:ID:                     e4dd436c-ce20-4f04-a41e-24620c638a11
+:END:
+
+1. [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV]]
+2. [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
+3. [[barberry:/wines/75862600-03f3-4c81-9553-9712d3072df8][Benoît Lahaye Millesime 2017]]
+4. [[barberry:/wines/40910459-4fb6-42ae-b046-58094be3603b][Bérêche & Fils Brut Réserve L19.07/2022 NV]]
+5. [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]
+6. [[barberry:/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de][Maurice Vesselle Grand Cru Collection Bouzy 2000]]
+7. [[barberry:/wines/97722c60-4efd-412c-9474-a050d8e513d4][De Sousa Cuvée des Caudalies Rosé NV]]
+8. [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Tania S      |    4.50 |  +4.00+ |  *4.60* |    4.30 |    4.10 |    3.80 |    4.10 |    4.00 |
+| Dmytro S     |    4.00 |  +3.90+ |    4.20 |    3.90 |    4.30 |  *4.20* |    4.00 |    4.00 |
+| Andrii S     |    3.80 |  +3.60+ |    4.10 |    4.20 |    4.40 |    3.80 |    4.20 |  *4.30* |
+| Viktoriya Zh |  +3.50+ |    3.80 |  *4.20* |    4.00 |    3.80 |    4.40 |    3.90 |    4.20 |
+| Ivietta K    |    3.80 |    3.70 |  +3.30+ |  *4.20* |    3.90 |    4.00 |    4.10 |    3.90 |
+| Dmytro D     |  +3.50+ |    3.90 |    3.80 |    4.00 |    3.80 |    4.00 |    3.80 |  *4.20* |
+| Daria B      |  +3.50+ |    3.70 |    4.20 |    3.80 |    3.80 |    4.00 |  *4.20* |    3.80 |
+| Elvira K     |  +3.70+ |    3.90 |  *4.30* |    4.10 |    4.00 |    4.10 |    4.00 |    4.20 |
+| Oleksandr Y  |    3.80 |    3.90 |  *4.20* |    3.80 |    3.90 |  +3.80+ |    4.00 |    4.10 |
+| Inna S       |    3.80 |  +3.40+ |    3.60 |    4.30 |    4.40 |    3.70 |  *4.70* |    4.40 |
+| Oleksandra B |       - |       - |       - |       - |       - |       - |       - |       - |
+| Boris B      |  +3.70+ |    3.90 |    4.30 |    4.20 |    3.80 |  *4.20* |    4.20 |    4.10 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |  amean |   sdev | favourite | outcast |   price |      QPR |
+|---------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.78 | 0.0742 |      0.00 |  +5.00+ |  651.00 |   2.6684 |
+| Wine #2 |   3.79 | 0.0281 |      0.00 |  +5.00+ | 1627.00 |   1.0819 |
+| Wine #3 |   4.07 | 0.1220 |    *4.00* |    1.00 | 2595.00 |   1.0325 |
+| Wine #4 |   4.07 | 0.0311 |      1.00 |    0.00 | 1906.00 |   1.4058 |
+| Wine #5 |   4.02 | 0.0542 |      0.00 |    0.00 |  339.00 | *7.2765* |
+| Wine #6 |   4.00 | 0.0418 |      2.00 |    1.00 | 3673.00 |   0.0000 |
+| Wine #7 | *4.11* | 0.0499 |      3.00 |    0.00 | 3906.00 |   0.7251 |
+| Wine #8 | *4.11* | 0.0281 |      2.00 |    0.00 | 1690.00 |   1.6759 |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Conclusion
+:PROPERTIES:
+:ID:                     be61d669-0deb-4f47-a910-767cd4147442
+:END:
+
+According to the results, it worked. After all, this event has marked second place this year (more on that in a few days). If you are curious, here are some changes I would make.
+
+First, I would not take Filipa Pato. Initially, I put it on the list for being a curious blend from Portugal (something new), but after tasting it, I decided to replace it with Pregadéu, a so much better wine with a better price. But after seeing that almost everyone tasted Pregadéu, I decided to return to Filipa Pato. At least to give something new. And I knew some of you wanted to taste it.
+
+Secondly, I would swap the order of some wines. Benoît Lahaye Millesime 2017 turned out to be much more intense than Bérêche & Fils Brut Réserve. Ideally, it should go after Maurice Vesselle Grand Cru Collection Bouzy 2000. It could even be the last wine of the evening as rosé wines were more delicate. Besides, Anima brut is not the loudest finish of the evening, despite being so emotionally important.
+
+Well, that's a rant and an attempt to learn from my own experience. Don't get me wrong. The event was a blast! Great people combined with great wines in the gorgeous One Tea Tree - that is an antique formula for a pleasant and warm evening.
+
+Thanks to all of you. All participants and people who helped with the  organisation. See you next year!
+
+P.S. Some technical information is available in the [[barberry:/posts/2021-12-21-classy-bubbles][Classy Bubbles: Taste the Yeast]] post.
+
 * Resources
 :PROPERTIES:
 :ID:                     2abc8d66-76e3-4525-a678-c36acaa2a41e
@@ -255,7 +332,8 @@ As far as I understand, the label depicts cracks on the granite block. They occu
 - https://fr.grandescavesstroch.com/vin/vouvray-chenin-blanc-foussy,132.html
 - https://okwine.ua/ua/product/igristoe-vino-vuvre-felison-bru-vouvray-felicien-brou-beloe-brjut-075l
 - https://www.bereche.com/
-- https://www.champagnedesousa.com
+- https://www.champagnedesousa.com/
+- https://champagnemauricevesselle.com/
 
 [fn:1] https://media.patowouters.com/MULTIMEDIA/DOCUMENTOS/16/3B%20Blanc%20de%20Blancs.pdf
 [fn:2] I could not find exact information, this is the information the importer provided me with.
