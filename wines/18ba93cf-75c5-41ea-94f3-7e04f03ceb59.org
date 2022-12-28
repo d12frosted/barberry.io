@@ -10,7 +10,7 @@
 - Alcohol :: 11
 - Sugar :: NA
 - Price :: 651 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 3B Blanc de Blancs is a blend of 3 white grapes (hence, the name 3B): Bical (70%), Maria Gomes (23%), and Cercial (7%). Filipa Pato sources them from Óis do Bairro, where roughly 30 years old vines grow on chalky clay midslopes from the Jurassic Inferior. The grapes are hand harvested and gently pressed. After fermentation in a tank with indigenous yeasts, the wine is sent for the second fermentation in bottles and spends nine months sur lie.
 
@@ -24,6 +24,12 @@ Filipa Pato is a winegrower and winemaker from Bairrada, Portugal. She focuses o
 
 I was curious to taste this sparkling. After all, a blend of Portuguese grapes! It's good but a bit flat. It has a non-trivial bouquet: lemon, flowers, and toasts with some shells. It's fresh and mineral with beautiful flavours - lemon and chalk. But it lacks volume, and it's a bit short. I am cheering for this effort.
 
+*** 2022-12-27 - ☆ 7.40
+
+3B is not complex yet fresh sparkling that acts as a decent aperitif. In the nose, it offers a mix of lemon, flowers, toasts and some shells. Slightly mineral palate with a rather short aftertaste. Overall, it's good but flat.
+
+Wine #1 on [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]].
+
 ** Related
 
 #+begin_export html
@@ -34,10 +40,34 @@ I was curious to taste this sparkling. After all, a blend of Portuguese grapes! 
     <section class="h text-bolder">Nossa Calcario Baga - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/22d13049-a120-4b9f-94d7-6bc6d67da88a.html">
+  <a class="flex-item flex-item-right" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp"></img>
+    <section class="h">Félicien Brou</section>
+    <section class="h text-bolder">Vouvray Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/22d13049-a120-4b9f-94d7-6bc6d67da88a.html">
     <img class="flex-bottle" src="/images/22/d13049-a120-4b9f-94d7-6bc6d67da88a/2022-11-15-17-11-16-IMG-3194.webp"></img>
     <section class="h">Cascina Tavijn</section>
     <section class="h text-bolder">Ottavio L.G06/2021/22 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+    <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L19.07/2022 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
+    <img class="flex-bottle" src="/images/75/862600-03f3-4c81-9553-9712d3072df8/2022-11-29-10-36-19-IMG-3485.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Grand Cru Millesime - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
+    <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.webp"></img>
+    <section class="h">Maurice Vesselle</section>
+    <section class="h text-bolder">Grand Cru Collection Bouzy - 2000</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b429ae62-d4b0-46a4-b7c5-b5b78b9d5418.html">
@@ -46,7 +76,13 @@ I was curious to taste this sparkling. After all, a blend of Portuguese grapes! 
     <section class="h text-bolder">neroBaronj - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e1d2512e-70b4-4de7-a366-53a8732c055f.html">
+  <a class="flex-item flex-item-right" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
+    <img class="flex-bottle" src="/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut Reserve L11778/08/15 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e1d2512e-70b4-4de7-a366-53a8732c055f.html">
     <img class="flex-bottle" src="/images/e1/d2512e-70b4-4de7-a366-53a8732c055f/2022-11-25-16-31-45-IMG-3362.webp"></img>
     <section class="h">Bodegas Urbina</section>
     <section class="h text-bolder">Valle del Ángel Método Tradicional Brut - 2017</section>

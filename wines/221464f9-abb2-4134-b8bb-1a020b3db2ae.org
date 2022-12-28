@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 339 UAH, 495 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -21,10 +21,28 @@ I love this kind of surprise. You take a bottle with zero expectations, but it t
 
 I tasted this wine several times, but somehow I missed the elephant in the room. Yeast! Raw dough, freshly baked bread - I consider them to be a great canvas for citrus, flowers and creamy notes. Really nice bubbles for a good price.
 
+*** 2022-12-27 - ☆ 7.50
+
+Some would argue that it's not a good idea to put this 'no name' wine between some great Champagne wines. Yet all wines were served blind, and I am happy to experiment. Besides, this wine is so friendly and well made that it was received too well in the end (with an average score of 4.02). Good fruits, citrus, flowers and bakery - a lovely combination. Add a creamy palate with higher sugar content - and you'll get some pleasant bubbles, despite a rather short aftertaste.
+
+Wine #5 on [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]].
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
+    <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467.webp"></img>
+    <section class="h">Filipa Pato</section>
+    <section class="h text-bolder">3B Blanc de Blancs Extra Bruto Unfiltered - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+    <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L19.07/2022 - NV</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/54468301-969e-41f6-a3f1-404cc7608364.html">
     <img class="flex-bottle" src="/images/54/468301-969e-41f6-a3f1-404cc7608364/2022-06-15-07-35-09-58AA2157-1BAF-4A6E-8D25-90D981612C95-1-105-c.webp"></img>
     <section class="h">Henriques & Henriques</section>
@@ -43,13 +61,31 @@ I tasted this wine several times, but somehow I missed the elephant in the room.
     <section class="h text-bolder">Garnacha - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
+    <img class="flex-bottle" src="/images/75/862600-03f3-4c81-9553-9712d3072df8/2022-11-29-10-36-19-IMG-3485.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Grand Cru Millesime - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
+    <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.webp"></img>
+    <section class="h">Maurice Vesselle</section>
+    <section class="h text-bolder">Grand Cru Collection Bouzy - 2000</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
     <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
     <section class="h">Mas Pere</section>
     <section class="h text-bolder">Selecció Brut Cava - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
+  <a class="flex-item flex-item-left" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
+    <img class="flex-bottle" src="/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut Reserve L11778/08/15 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c7dc4a40-1731-48fa-964e-3e75566b5234.html">
     <img class="flex-bottle" src="/images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp"></img>
     <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Bacchus - 2020</section>

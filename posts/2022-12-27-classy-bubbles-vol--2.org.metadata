@@ -6,9 +6,7 @@ date: "2022-12-27"
 language: "EN"
 author: "Boris"
 image: "images/2022-12-27-classy-bubbles-vol--2/2022-12-28-08-04-52-2022-12-28 07.58.22.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/2022-12-27-classy-bubbles-vol--2/2022-12-28-08-04-52-2022-12-28 07.58.22.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/2022-12-27-classy-bubbles-vol--2/2022-12-28-08-04-52-2022-12-28 07.58.22.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "719"
 description: "A wine tasting event dedicated to sparkling wines produced by traditional method."
 tags: "report"

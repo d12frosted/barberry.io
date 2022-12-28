@@ -11,11 +11,15 @@
 - Alcohol :: 12
 - Sugar :: 3
 - Price :: 2595 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-27 - ☆ 8.75
+
+Exciting Champagne from Bouzy. It is intense, complex and multilayered. The bouquet is full of mushrooms, Jerez, nuts, bruised apples, chaussons aux pommes, lilac flowers, lemon tart, pickles, and smoke. It's fascinating to witness how it reveals with time. It has a great volume, almost full body and a long and evolving taste.
+
+Wine #3 on [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]].
 
 ** Related
 
@@ -25,6 +29,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/2e/729911-2c1c-42fb-a45b-bd5413fffbe7/2021-06-01-07-39-13-26B5790F-F01B-43A5-821C-6C085F7C2AB0-1-105-c.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Rosé de Macération Champagne Grand Cru 'Bouzy' - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
+    <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467.webp"></img>
+    <section class="h">Filipa Pato</section>
+    <section class="h text-bolder">3B Blanc de Blancs Extra Bruto Unfiltered - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp"></img>
+    <section class="h">Félicien Brou</section>
+    <section class="h text-bolder">Vouvray Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+    <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L19.07/2022 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
+    <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.webp"></img>
+    <section class="h">Maurice Vesselle</section>
+    <section class="h text-bolder">Grand Cru Collection Bouzy - 2000</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
+    <img class="flex-bottle" src="/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut Reserve L11778/08/15 - NV</section>
   </a>
 
 </div>
