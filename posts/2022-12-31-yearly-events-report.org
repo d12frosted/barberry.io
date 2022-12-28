@@ -44,11 +44,11 @@ Events:
 | A bit of Spain                |            9 |
 | Grapes of Piedmont            |           12 |
 | To Each Their Own Vol. 1      |            7 |
-| Classy Bubbles Vol. 2         |           12 |
+| Classy Bubbles Vol. 2         |           11 |
 
-#+attr_html: :id participants-status-event
+#+attr_html: :id participants-status-event :container-class img-half :class img-half
 #+attr_html: :data participants-status-data
-#+attr_html: :labels status :values count :type pie :height 200
+#+attr_html: :labels status :values count :type pie
 #+begin_chartjs
 #+end_chartjs
 
