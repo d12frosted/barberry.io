@@ -122,8 +122,8 @@ packages:
     hackage: texmath-0.12.5.1@sha256:78e6b089cfa6e63dbbfb5e248860bf40fb500d01d8f6af2fadcd930db62344ea,6667
 snapshots:
 - completed:
-    size: 618876
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/19/6.yaml
-    sha256: fb634b19f31da06684bb07ce02a20c75a3162138f279b388905b03ebd57bb50f
+    size: 648660
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/20/4.yaml
+    sha256: 3770dfd79f5aed67acdcc65c4e7730adddffe6dba79ea723cfb0918356fc0f94
   original:
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/19/6.yaml
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/20/4.yaml
