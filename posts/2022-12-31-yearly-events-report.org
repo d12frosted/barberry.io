@@ -23,7 +23,7 @@ You might already be aware that I like to collect data. Every wine that we taste
 :ID:                     6f101091-37f0-41a6-86a3-1a7d67d06ebe
 :END:
 
-This year we've got a lot of new faces. Some, unfortunately, moved out of Kyiv and could not participate as much as they used to. In total, we had 147 participants (vs 109 last year) and 43 unique (vs 38 last year). And by the way, if I am not mistaken, 7 people received small presents from me for guessing wines.
+This year we've got a lot of new faces. Some regulars, unfortunately, moved out of Kyiv and could not participate as much as they used to. In total, we had 147 participants (vs 109 last year) and 43 unique (vs 38 last year). And by the way, if I am not mistaken, 7 people received small presents from me for guessing wines.
 
 ** Most active participants
 :PROPERTIES:
@@ -90,7 +90,7 @@ Some people participate more often than others. Around 40% of people (excluding 
 :ID:                     f9b5e0b0-11c3-4af5-b93f-9138047fa8c9
 :END:
 
-It's not a secret that most events are held in the Wix Kyiv office. And it explains why most of the participants are Wix employees. Yet this year, more and more people out of the Wix joined our cosy parties. One person got so used to our office that decided to join Wix.
+It's not a secret that most events are held in the Wix Kyiv office. And it explains why most of the participants are Wix employees. Yet this year, more and more people out of the Wix joined our cosy parties. One person got so used to our office that eventually decided to join Wix.
 
 #+attr_html: :id participants-status-event :class img-half
 #+attr_html: :data participants-status-data
@@ -121,7 +121,7 @@ As was already mentioned, we had 15 events this year (vs 11 last year). Out of t
 
 As you can see, there was a pretty tough fight in terms of the average score. There is a clear winner - Some Amber Stars (in general, orange wines are scored higher by us), but many events differ only in 0.01. Crazy!
 
-But I am also amazed [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] reached second place. After all, last year's events dedicated to sparkling wines are among the worst three events. It is lovely to see this transformation.
+I am also amazed [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] reached second place. After all, last year's events dedicated to sparkling wines are among the worst three events. It is lovely to see this transformation.
 
 #+attr_html: :id score-per-event
 #+attr_html: :data score-per-event-data
@@ -222,7 +222,7 @@ We constantly say that 6-7 is the ideal amount of wines per event, but somehow w
 :ID:                     9d1cfaa9-66be-47c2-84cc-55aa4ea0046d
 :END:
 
-This year we got bolder with our budget. We spent 118 656 UAH on wines (vs 72 712 UAH last year). If we consider the exchange ratio, the growth is not that big. There is little wonder that the [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] event was the most expensive. At the same time, [[barberry:/posts/2022-01-25-u600][U600]] and [[barberry:/posts/2022-09-06-wine-oclock][Wine o'clock with People]] were designed to be the least expensive.
+This year we got bolder with our budget. We spent 118 656 UAH on wines (vs 72 712 UAH last year). If we consider the exchange ratio, the growth is not that big. There is little wonder that the [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]] event was the most expensive. At the same time, [[barberry:/posts/2022-01-25-u600][U600]] and [[barberry:/posts/2022-09-06-wine-oclock][Wine o'clock with People]] were designed to be the least expensive. You can find wines for almost any budget.
 
 #+attr_html: :id total-wine-price-per-event
 #+attr_html: :data total-wine-price-per-event-data
@@ -312,7 +312,7 @@ The average price of the bottle is 1186 UAH (vs 908 UAH last year). The most exp
 :ID:                     e35f4fa8-2308-4e41-95bb-ac6f54b92214
 :END:
 
-So this year, we tasted 100 wines (vs 80 last year). And only 2 of them were repeated - Stekar and Anima.
+So this year, we tasted 100 wines (vs 80 last year). And only 2 of them were repeated - [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Kmetija Štekar Rebula Prilo 2015]] and [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]].
 
 ** Best wines of the year
 :PROPERTIES:
@@ -321,7 +321,7 @@ So this year, we tasted 100 wines (vs 80 last year). And only 2 of them were rep
 
 Now to the list of the most rated wines. It's no wonder that half of the top 20 wines are macerated white (aka orange) wines. We all love them. But I am happy to see [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]], [[barberry:/producers/6c0d7068-c072-49c5-980a-9f45b4d24541][De Sousa]], and [[barberry:/producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e][Cascina Tavijn]] on this list.
 
-By the way, did you guess what wine is the best-rated wine of this year? Now I am just happy that I decided to share this wine with you.
+By the way, did you guess what wine is the best-rated wine of this year? Now I am just happy that I decided to share [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][R. López de Heredia Viña Tondonia Blanco Reserva 2011]] with you.
 
 #+attr_html: :id best-score-wines
 #+attr_html: :data best-score-wines-data
@@ -358,13 +358,13 @@ By the way, did you guess what wine is the best-rated wine of this year? Now I a
 :ID:                     981cba1c-07d1-4e89-8bf2-149120ac4f41
 :END:
 
+Someone would say that this list is a little bit depressing. But I would argue because even this list contains mostly good scores (with one notable exception). Besides, some wines are just controversial ([[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Sous Le Végétal Palli et Genesia 2018]] is an excellent example). It slightly pains me to see [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili]], [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]], [[barberry:/producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed][Sous Le Végétal]] and [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]] on this list. But on the other hand, someone needs to be here, right?
+
 #+attr_html: :id worst-score-wines
 #+attr_html: :data worst-score-wines-data
 #+attr_html: :labels wine :values score :type bar :index-axis y :size-mode dynamic
 #+begin_chartjs
 #+end_chartjs
-
-Someone would say that this list is a little bit depressing. But I would argue because even this list contains mostly good scores (with one notable exception). Besides, some wines are just controversial ([[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Sous Le Végétal Palli et Genesia 2018]] is an excellent example). It slightly pains me to see [[barberry:/producers/5b7283e3-a195-4382-901f-04bd6e393d94][Tsikhelishvili]], [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]], [[barberry:/producers/96e58250-b3cb-4ced-a7b8-013bc94d1aed][Sous Le Végétal]] and [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]] on this list. But on the other hand, someone needs to be here, right?
 
 #+name: worst-score-wines-data
 | wine                                                          | score |
@@ -396,7 +396,7 @@ Someone would say that this list is a little bit depressing. But I would argue b
 :ID:                     6121073e-f0da-4b86-b23f-50688cad278f
 :END:
 
-The most interesting chart. Since quality is not linear (e.g. wine for 100 UAH that received 1.5 is not something I want to buy), it's calculated as $100 * Q! / P$. We multiply by $100$ just to make it more representative. The more the better! Factorial gives the most value to scores close to 5. The formula is not ideal, and if someone knows how to better approach this, let me know!
+The most interesting chart. Since quality is not linear (e.g. wine for 100 UAH that received 1.5 is not something I want to buy), it's calculated as $100 * \frac{Q!}{P}$. We multiply by $100$ just to make it more representative. The more the better! Factorial gives the most value to scores close to 5. The formula is not ideal, and if someone knows how to better approach this, let me know!
 
 Aside from [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]] with its ridicuously great price tag, I am happy to see [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][R. López de Heredia Viña Tondonia Blanco Reserva 2011]] on this list. It's truly fascinating when the best-rated wine has good QPR at the same time. Something to hunt for.
 
