@@ -31,7 +31,7 @@ parseChart :: Text -> [Text] -> [(Text, Text)] -> TableData -> Either Text (Char
 parseChart name cs kvs (TableData _ values) = do
   labelKey <- noteMaybe name "missing 'labels'" $ lookup "labels" kvs
   valueKey <- noteMaybe name "missing 'values'" $ lookup "values" kvs
-  chartType <- case lookup "type" kvs of
+  cType <- case lookup "type" kvs of
     Just "bar" -> pure Bar
     Just "line" -> pure Line
     Just "pie" -> pure Pie
@@ -71,7 +71,7 @@ parseChart name cs kvs (TableData _ values) = do
             (fromMaybe AnchorEnd $ parseAnchor =<< lookup "label-anchor" kvs)
             (fromMaybe AlignStart $ parseAlign =<< lookup "label-align" kvs)
         ]
-  let options = case chartType of
+  let options = case cType of
         Bar ->
           OBar $
             BarOptions
@@ -99,12 +99,16 @@ parseChart name cs kvs (TableData _ values) = do
               { doughnutRotation = 0,
                 doughnutPlugins = plugins
               }
+  let csByType = [T.toLower . T.pack $ "chartjs-" <> show cType]
+  let csByAxis = case cType of
+        Bar -> [T.toLower . T.pack $ "chartjs-" <> show cType <> "-" <> show indexAxis]
+        _ -> []
   pure $
     Chart
       { chartName = name,
         chartSizeMode = sizeMode,
         chartOptions = options,
-        chartClass = cs,
+        chartClass = cs <> csByType <> csByAxis,
         chartData =
           ChartData
             { dataLabels = mapMaybe (lookup labelKey) values,

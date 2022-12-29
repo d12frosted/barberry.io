@@ -38,6 +38,13 @@ data Chart a = Chart
   }
   deriving (Show)
 
+chartType :: Chart a -> ChartType
+chartType Chart {..} = case chartOptions of
+  OBar _ -> Bar
+  OLine _ -> Line
+  OPie _ -> Pie
+  ODoughnut _ -> Doughnut
+
 --------------------------------------------------------------------------------
 
 data Axis = X | Y deriving (Show)

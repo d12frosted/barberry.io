@@ -32,31 +32,28 @@ render :: (ToJSON a, IsString b) => Chart a -> b
 render = fromString . renderHtml . renderToHtml
 
 renderToHtml :: (ToJSON a) => Chart a -> Html
-renderToHtml chart@(Chart {..}) = aDiv $ canvas <> script
+renderToHtml chart@(Chart {..}) = aWrapper . aDiv $ canvas <> script
   where
     canvas = H.canvas mempty ! A.id (fromText chartName)
     script = H.script . H.toHtml . chartJs $ chart
+    aWrapper = H.div ! A.class_ "chartjs-wrapper"
     aDiv = H.div ! A.class_ (fromString . T.unpack . T.unwords $ chartClass)
 
 --------------------------------------------------------------------------------
 
 chartJs :: (ToJSON a) => Chart a -> LT.Text
-chartJs Chart {..} =
+chartJs chart@(Chart {..}) =
   let labels = toJSON $ dataLabels chartData
       sets = toJSON $ dataSets chartData
       options = toJSON chartOptions
-      chartType = case chartOptions of
-        OBar _ -> Bar
-        OLine _ -> Line
-        OPie _ -> Pie
-        ODoughnut _ -> Doughnut
+      cType = chartType chart
       isDynamic = chartSizeMode == DynamicSize
       varName = T.replace "-" "_" chartName <> "Chart"
    in J.renderJavascript $
         [J.julius|
       const #{J.rawJS varName} = new Chart(document.getElementById(#{chartName}).getContext('2d'), {
         plugins: [ChartDataLabels],
-        type: #{toJSON chartType},
+        type: #{toJSON cType},
         data: {
           labels: #{labels},
           datasets: #{sets}

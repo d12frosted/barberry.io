@@ -63,6 +63,7 @@ code {
 pre {
   font-family: var(--code-font);
   font-size: var(--code-size);
+  overflow: auto;
 }
 
 body {
@@ -508,6 +509,9 @@ ul.rating-list {
     display: block;
     line-height: 1.6;
   }
+  .chartjs-bar-x {
+    width: 200%;
+  }
 }
 
 @media (min-width: 320px) {
@@ -537,6 +541,9 @@ ul.rating-list {
     font-size: var(--title-size);
     display: inline;
     margin: 0 0.6rem;
+  }
+  .chartjs-bar-x {
+    width: 200%;
   }
 }
 
@@ -593,6 +600,9 @@ ul.rating-list {
     flex-wrap: wrap;
     width: 50%;
   }
+  .chartjs-bar-x {
+    width: 100%;
+  }
 }
 
 @media (max-width: 800px) {
@@ -612,4 +622,8 @@ mark {
 
 .chartjs {
   margin: auto;
+}
+
+.chartjs-wrapper {
+  overflow-x: scroll
 }
