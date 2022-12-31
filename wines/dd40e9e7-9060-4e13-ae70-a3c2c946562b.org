@@ -21,7 +21,13 @@ A lovely Méncia-based blend from Ribeira Sacra made of 60+ years old vines. Cha
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/a46400f7-709a-46b8-b152-45e50afb9c85.html">
+  <a class="flex-item flex-item-left" href="/wines/0c32c397-6a98-4950-a5b5-414dd4240694.html">
+    <img class="flex-bottle" src="/images/0c/32c397-6a98-4950-a5b5-414dd4240694/2022-12-31-14-11-06-98E9E2F1-E641-4D36-A5A5-105E67B4E33B-1-105-c.webp"></img>
+    <section class="h">Envínate</section>
+    <section class="h text-bolder">Benje Blanco - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a46400f7-709a-46b8-b152-45e50afb9c85.html">
     <img class="flex-bottle" src="/images/a4/6400f7-709a-46b8-b152-45e50afb9c85/2021-10-27-23-41-45-043C5ABF-8BB4-4996-9E2F-A42DE1A5724B-1-105-c.webp"></img>
     <section class="h">Envínate</section>
     <section class="h text-bolder">Lousas Camino Nuovo - 2019</section>

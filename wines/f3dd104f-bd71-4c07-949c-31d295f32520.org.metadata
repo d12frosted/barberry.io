@@ -1,14 +1,12 @@
 publish: "false"
 hide: "false"
 title: "Fedellos do Couto Lomba dos Ares 2020"
-update: "2022-12-23"
+update: "2022-12-31"
 producer: "Fedellos do Couto"
 name: "Lomba dos Ares"
 vintage: "2020"
 country: "Spain"
 grapes: "Mencía"
 image: "images/f3/dd104f-bd71-4c07-949c-31d295f32520/2022-12-23-13-23-33-IMG-3980.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f3/dd104f-bd71-4c07-949c-31d295f32520/2022-12-23-13-23-33-IMG-3980.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/f3/dd104f-bd71-4c07-949c-31d295f32520/2022-12-23-13-23-33-IMG-3980.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
