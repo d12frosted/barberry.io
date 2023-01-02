@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 557 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -17,7 +17,9 @@ Side project of Hamilton Russell Vineyards.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-31 - ☆ 8.00
+
+Very good Sauvignon Blanc. Grapefruits, gooseberries, wet stones, grass, elderberry. Green apple. Precise, mineral, fresh and long. Flavours of green apples, white flowers, sea pebbles, and grapefruit. Intense and long aftertaste.
 
 ** Related
 
@@ -39,6 +41,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/a6/c3506d-1813-4294-9978-131599837c49/2021-09-26-13-59-50-1D9BEFCD-EA15-4B80-BA14-F1F56004046A-1-105-c.webp"></img>
     <section class="h">Southern Right</section>
     <section class="h text-bolder">Pinotage - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bcd3315-fd55-4d66-b8e5-0630cb9151ce.html">
+    <img class="flex-bottle" src="/images/2b/cd3315-fd55-4d66-b8e5-0630cb9151ce/2022-12-07-21-34-31-IMG-3654.webp"></img>
+    <section class="h">Fratelli Alessandria</section>
+    <section class="h text-bolder">Rossoluna - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/34c57d62-4686-410d-af22-9be85ffdbde2.html">
+    <img class="flex-bottle" src="/images/34/c57d62-4686-410d-af22-9be85ffdbde2/2022-12-31-14-00-47-F7777E9F-1B6B-4385-A389-D2D9ABEF9CFD-1-105-c.webp"></img>
+    <section class="h">Kmetija Štekar</section>
+    <section class="h text-bolder">Sivi - 2021</section>
   </a>
 
 </div>

@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: 1.9
 - Price :: 576 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -17,7 +17,9 @@ Janko Štekar owns 5 ha of vineyards in Goriška Brda that are located on steep 
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2022-12-31 - ☆ 7.50
+
+Decent macerated Pinot Grigio. Moderately funky, easy to drink. Apricot jam with 'juicy bits', kimchi, blood orange, and caramel. Medium-body, fresh and simple.
 
 ** Related
 
@@ -33,6 +35,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2bcd3315-fd55-4d66-b8e5-0630cb9151ce.html">
+    <img class="flex-bottle" src="/images/2b/cd3315-fd55-4d66-b8e5-0630cb9151ce/2022-12-07-21-34-31-IMG-3654.webp"></img>
+    <section class="h">Fratelli Alessandria</section>
+    <section class="h text-bolder">Rossoluna - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/84eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a.html">
+    <img class="flex-bottle" src="/images/84/eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a/2022-11-19-09-32-54-8C349A29-30E7-4ED6-A299-9B434C5536FB-1-105-c.webp"></img>
+    <section class="h">Southern Right</section>
+    <section class="h text-bolder">Sauvginon Blanc - 2022</section>
   </a>
 
 </div>

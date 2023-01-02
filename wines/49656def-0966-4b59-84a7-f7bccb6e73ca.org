@@ -9,7 +9,7 @@
 - Alcohol :: 14.5
 - Sugar :: 0.92
 - Price :: 1130 UAH, 1013 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -18,6 +18,10 @@
 In a blind tasting, one could think that it's oaked Chardonnay. Ah, wait, this was among the guesses. Powerful story, really. And a delicious one. Elderflowers, stone fruits, citrus, almonds and butter. Complex and profound. Fresh palate, round and nicely structured. The only thing that troubled me is a warm and bitter aftertaste. But only a little, don't listen to me and enjoy this bottle with someone.
 
 Wine #3 on [[barberry:/posts/2022-10-25-a-bit-of-spain][A bit of Spain]] event.
+
+*** 2023-01-01 - ☆ 8.00
+
+Good as always. Elderflowers, stone fruits, citrus, butter and wet stones. Fresh, round with pleasant bitterness. Flavours of lemon and wet stones. Complex and delicious.
 
 ** Related
 
@@ -59,16 +63,28 @@ Wine #3 on [[barberry:/posts/2022-10-25-a-bit-of-spain][A bit of Spain]] event.
     <section class="h text-bolder">Pintia - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e.html">
+  <a class="flex-item flex-item-left" href="/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06.html">
+    <img class="flex-bottle" src="/images/9e/6ddc62-a7f8-4b3e-9c50-f8ef00bcda06/2021-09-07-11-24-09-61B68BB1-1385-4699-9956-F7F96041E6E4-1-105-c.webp"></img>
+    <section class="h">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc des Blancs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ab4da1d2-3d62-492a-89ed-94de2744b34e.html">
     <img class="flex-bottle" src="/images/ab/4da1d2-3d62-492a-89ed-94de2744b34e/2022-09-26-19-19-03-71085CA1-5E72-4CC0-84F0-E74F43A40995-1-102-o.webp"></img>
     <section class="h">Daniel Gómez Jiménez-Landi</section>
     <section class="h text-bolder">Las Uvas de la Ira - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
     <img class="flex-bottle" src="/images/ca/7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc/2022-09-17-20-20-14-IMG-2244.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e3b0dfb8-fa48-44dc-b8be-8167de8fd166.html">
+    <img class="flex-bottle" src="/images/e3/b0dfb8-fa48-44dc-b8be-8167de8fd166/2022-11-27-10-28-42-IMG-3453.webp"></img>
+    <section class="h">Victoria E. Torres Pecis</section>
+    <section class="h text-bolder">Negramoll Piezas N1 - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">
