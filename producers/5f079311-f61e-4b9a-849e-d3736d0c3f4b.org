@@ -6,7 +6,13 @@ The 60-80 year-old gobelet trained vines grow along sinuous stone terraces. They
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/42b951a5-fd0c-4b19-9512-90474df63916.html">
+  <a class="flex-item flex-item-left" href="/wines/da4b9699-fa88-4058-a013-214e9e2f5cc5.html">
+    <img class="flex-bottle" src="/images/da/4b9699-fa88-4058-a013-214e9e2f5cc5/2023-01-05-08-34-06-BCF8ED44-5604-46BD-9C54-12268E4C70AF-1-105-c.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Eixe - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/42b951a5-fd0c-4b19-9512-90474df63916.html">
     <img class="flex-bottle" src="/images/42/b951a5-fd0c-4b19-9512-90474df63916/2022-08-29-17-24-11-2288B02A-6353-469F-8703-B6E381706774-1-105-c.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Lacazan - 2016</section>

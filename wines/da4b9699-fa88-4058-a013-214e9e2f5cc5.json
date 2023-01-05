@@ -1,0 +1,42 @@
+{
+  "id": "da4b9699-fa88-4058-a013-214e9e2f5cc5",
+  "name": "Eixe",
+  "full-name": "Peixes Eixe 2019",
+  "producer": {
+    "id": "5f079311-f61e-4b9a-849e-d3736d0c3f4b",
+    "name": "Peixes"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    },
+    {
+      "id": "9b5f0504-e78c-483e-a0dc-b13967feb92f",
+      "name": "Mouratón"
+    },
+    {
+      "id": "0abf9645-30e0-4115-bf68-7191fa551b8d",
+      "name": "Brancellao"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1035 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/da/4b9699-fa88-4058-a013-214e9e2f5cc5/2023-01-05-08-34-06-BCF8ED44-5604-46BD-9C54-12268E4C70AF-1-105-c.webp",
+  "rating": "NA"
+}

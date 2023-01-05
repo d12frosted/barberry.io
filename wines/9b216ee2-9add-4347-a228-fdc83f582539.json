@@ -1,0 +1,34 @@
+{
+  "id": "9b216ee2-9add-4347-a228-fdc83f582539",
+  "name": "Bourgougne Cuvée Gérard",
+  "full-name": "Domaine Gérard Seguin Bourgougne Cuvée Gérard 2015",
+  "producer": {
+    "id": "ec88273a-3cd1-476a-8a5d-4848f8fb1a9e",
+    "name": "Domaine Gérard Seguin"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9b/216ee2-9add-4347-a228-fdc83f582539/2023-01-05-08-26-36-1F38908D-34D5-4EDF-A17F-C493FD860BAF-1-105-c.webp",
+  "rating": "NA"
+}
