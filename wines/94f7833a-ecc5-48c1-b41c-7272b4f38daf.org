@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: 1
 - Price :: 761 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -27,7 +27,9 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-01-05 - ☆ 7.80
+
+Tasty Muscat de Samos for a good price. Jerez Fino, raw cashews, citrus, soaked tomato, and bitter herbs. The volatile profile makes all things elevated and more fun to drink. Lots of bitter herbs mixed with cider in the aftertaste. The latter is, unfortunately, rather short.
 
 ** Related
 
@@ -55,6 +57,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377.webp"></img>
     <section class="h">Sous Le Végétal</section>
     <section class="h text-bolder">Palli et Genesia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6dc614b9-ea55-4585-8731-0da5814308f7.html">
+    <img class="flex-bottle" src="/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">SAIGNéE - 2020</section>
   </a>
 
 </div>

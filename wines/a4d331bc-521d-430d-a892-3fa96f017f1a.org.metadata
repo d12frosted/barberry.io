@@ -8,7 +8,5 @@ vintage: "2019"
 country: "Greece"
 grapes: "Muscat de Samos"
 image: "images/a4/d331bc-521d-430d-a892-3fa96f017f1a/2022-12-23-13-21-49-IMG-3975.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/a4/d331bc-521d-430d-a892-3fa96f017f1a/2022-12-23-13-21-49-IMG-3975.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/a4/d331bc-521d-430d-a892-3fa96f017f1a/2022-12-23-13-21-49-IMG-3975.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
