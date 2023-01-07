@@ -60,19 +60,25 @@ Interesting blend of Inzolia with Sauvignon Blanc, a pair of grapes for a wine c
     <section class="h text-bolder">Tenuta Regaleali Perricone Guarnaccio - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c0c06686-36ba-4615-a3d8-fc1fe2110ada.html">
+  <a class="flex-item flex-item-left" href="/wines/871e9ec1-0f6b-453c-94ec-e6b39c861dc8.html">
+    <img class="flex-bottle" src="/images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2023-01-07-15-39-33-IMG-4173.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Almerita Metodo Classico Brut - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c0c06686-36ba-4615-a3d8-fc1fe2110ada.html">
     <img class="flex-bottle" src="/images/c0/c06686-36ba-4615-a3d8-fc1fe2110ada/2022-08-29-16-39-05-056D50F7-1A4B-47B5-8AF4-84DD8D1C5EE5-1-105-c.webp"></img>
     <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Tascante Ghiaia Nera - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+  <a class="flex-item flex-item-left" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
     <img class="flex-bottle" src="/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp"></img>
     <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">
+  <a class="flex-item flex-item-right" href="/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">
     <img class="flex-bottle" src="/images/49/087ec0-ce5e-469a-a6c3-9b967f748e1f/2022-06-05-10-50-28-ADCD7911-5E14-43E5-A2DF-F786A0FF8344-1-105-c.webp"></img>
     <section class="h">Raoul Clerget</section>
     <section class="h text-bolder">Crémant de Bourgogne Brut - NV</section>

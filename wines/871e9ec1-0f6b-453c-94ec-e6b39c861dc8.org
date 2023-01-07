@@ -1,15 +1,17 @@
 #+attr_html: :class wine-main-image
-[[file:/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp]]
+[[file:/images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2023-01-07-15-39-33-IMG-4173.webp]]
 
-- Type :: White Still, Dry
+- Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da][Tasca]]
-- Vintage :: 2019
+- Vintage :: 2017
 - Location :: Italy, Sicilia DOC
-- Grapes :: Grillo
-- Alcohol :: 13.5
+- Grapes :: Chardonnay
+- Alcohol :: 13
 - Sugar :: NA
-- Price :: 627 UAH
-- Cellar :: N/A
+- Price :: 1298 UAH
+- Cellar :: 1 bottle
+
+100% Chardonnay from Cava Rina vineyard (16 hectares) from Regaleali Estate, Palermo. The vines planted in 1995 grow on sandy soils with south west exposure. Full malolactic, 24 months on lees.
 
 ** Producer
 
@@ -22,13 +24,11 @@ Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 d
 - Tenuta Sallier de La Tour
 
 #+caption: Image is taken from https://www.tascadalmerita.it/
-[[file:/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
+[[file:/images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2021-01-22-11-23-31-mappa-sicilia-tascadalmerita.webp]]
 
 ** Ratings
 
-*** 2022-08-21 - ☆ 7.25
-
-The horse of the fairies... Apparently, I forgot how to ride. Ah, wait, I am not a fairy. Silly me. Do I enjoy this wine? Yes! Do I want to buy a second bottle? No. This Grillo is tired of the world of the living. It is restrained and not confident. So here I am, helping it to return to the circle of life. Stone fruits, honey, pomelo, and moss-covered pebbles. Medium-bodied, slightly oily with moderately astringent aftertaste (like licking one of the mentioned moss-covered pebbles). At least it has some mineral aftertaste.
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
 
 ** Related
 
@@ -46,16 +46,16 @@ The horse of the fairies... Apparently, I forgot how to ride. Ah, wait, I am not
     <section class="h text-bolder">Tenuta Regaleali Nero d'Avola - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/76eeb8f3-6999-43cc-9a7f-5187de72fc36.html">
+  <a class="flex-item flex-item-left" href="/wines/691d0b6c-4baf-4026-9f7a-36e86f81a007.html">
+    <img class="flex-bottle" src="/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Grillo Cavallo Delle Fate - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76eeb8f3-6999-43cc-9a7f-5187de72fc36.html">
     <img class="flex-bottle" src="/images/76/eeb8f3-6999-43cc-9a7f-5187de72fc36/2022-08-29-16-21-23-F9AA96AF-77BE-4A44-B4DD-EF5443E00008-1-105-c.webp"></img>
     <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Perricone Guarnaccio - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/871e9ec1-0f6b-453c-94ec-e6b39c861dc8.html">
-    <img class="flex-bottle" src="/images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2023-01-07-15-39-33-IMG-4173.webp"></img>
-    <section class="h">Tasca</section>
-    <section class="h text-bolder">Tenuta Regaleali Almerita Metodo Classico Brut - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c0c06686-36ba-4615-a3d8-fc1fe2110ada.html">
@@ -74,12 +74,6 @@ The horse of the fairies... Apparently, I forgot how to ride. Ah, wait, I am not
     <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
     <section class="h">Tasca</section>
     <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/8dfdca77-2842-4f8e-8eb0-b95ac5b96902.html">
-    <img class="flex-bottle" src="/images/8d/fdca77-2842-4f8e-8eb0-b95ac5b96902/2022-08-21-13-33-24-52A151CC-1859-4836-B02C-6E386564C8C8-1-105-c.webp"></img>
-    <section class="h">Witwe Dr. H. Thanisch Erben Müller-Burggraef</section>
-    <section class="h text-bolder">Bernkasteler Riesling Kabinett Trocken - 2020</section>
   </a>
 
 </div>

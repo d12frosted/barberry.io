@@ -13,43 +13,49 @@ Wine producer from Sicilia, Italy. They cultivate grapes in the vineyards of 5 d
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/691d0b6c-4baf-4026-9f7a-36e86f81a007.html">
+  <a class="flex-item flex-item-left" href="/wines/871e9ec1-0f6b-453c-94ec-e6b39c861dc8.html">
+    <img class="flex-bottle" src="/images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2023-01-07-15-39-33-IMG-4173.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Tenuta Regaleali Almerita Metodo Classico Brut - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/691d0b6c-4baf-4026-9f7a-36e86f81a007.html">
     <img class="flex-bottle" src="/images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Tenuta Regaleali Grillo Cavallo Delle Fate - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/653c1641-771c-4df8-baee-ee42e31af38a.html">
+  <a class="flex-item flex-item-left" href="/wines/653c1641-771c-4df8-baee-ee42e31af38a.html">
     <img class="flex-bottle" src="/images/65/3c1641-771c-4df8-baee-ee42e31af38a/2020-08-12-08-04-34-CFA56B8F-5280-40EB-B95E-9013ECAF101F-1-105-c.webp"></img>
     <section class="h">★ 5.50</section>
     <section class="h text-bolder">Tenuta Regaleali Nero d'Avola - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+  <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
     <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/76eeb8f3-6999-43cc-9a7f-5187de72fc36.html">
+  <a class="flex-item flex-item-left" href="/wines/76eeb8f3-6999-43cc-9a7f-5187de72fc36.html">
     <img class="flex-bottle" src="/images/76/eeb8f3-6999-43cc-9a7f-5187de72fc36/2022-08-29-16-21-23-F9AA96AF-77BE-4A44-B4DD-EF5443E00008-1-105-c.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Tenuta Regaleali Perricone Guarnaccio - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
+  <a class="flex-item flex-item-right" href="/wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">
     <img class="flex-bottle" src="/images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1cb7072d-026c-4621-a833-18e6c9dc5725.html">
+  <a class="flex-item flex-item-left" href="/wines/1cb7072d-026c-4621-a833-18e6c9dc5725.html">
     <img class="flex-bottle" src="/images/1c/b7072d-026c-4621-a833-18e6c9dc5725/2021-01-22-11-25-50-4C3D2B41-F52E-4B74-80E6-CD65BF6D6E2B-1-105-c.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Tenuta Tascante Ghiaia Nera - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c0c06686-36ba-4615-a3d8-fc1fe2110ada.html">
+  <a class="flex-item flex-item-right" href="/wines/c0c06686-36ba-4615-a3d8-fc1fe2110ada.html">
     <img class="flex-bottle" src="/images/c0/c06686-36ba-4615-a3d8-fc1fe2110ada/2022-08-29-16-39-05-056D50F7-1A4B-47B5-8AF4-84DD8D1C5EE5-1-105-c.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Tenuta Tascante Ghiaia Nera - 2017</section>
