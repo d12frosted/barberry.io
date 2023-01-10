@@ -905,13 +905,16 @@ init file."
          (when surlie (list "sur-lie" surlie))
          (when rating (list "rating" (format "%.2f" rating)))
          (if image
-             (list "image" (porg-item-target-rel image)
-                   "image-width" (shell-command-to-string
-                                  (format "identify -format '%%w' '%s'"
-                                          (porg-item-target-abs image)))
-                   "image-height" (shell-command-to-string
-                                   (format "identify -format '%%h' '%s'"
-                                           (porg-item-target-abs image))))
+             (progn
+               (unless (file-exists-p (porg-item-target-abs image))
+                   (user-error "Image %s does not exist" (funcall #'porg-describe image)))
+               (list "image" (porg-item-target-rel image)
+                     "image-width" (shell-command-to-string
+                                    (format "identify -format '%%w' '%s'"
+                                            (porg-item-target-abs image)))
+                     "image-height" (shell-command-to-string
+                                     (format "identify -format '%%h' '%s'"
+                                             (porg-item-target-abs image)))))
            (list "image" "images/unknown-wine.jpeg"
                  "image-width" "960"
                  "image-height" "1280"))))))
@@ -1040,13 +1043,15 @@ init file."
                                                    (s-chop-prefix "attachment:" image)
                                                    "jpeg"))
                                           items)))
+                 (unless (file-exists-p (porg-item-target-abs image-item))
+                   (user-error "Image %s does not exist" (funcall #'porg-describe image-item)))
                  (list "image" (porg-item-target-rel image-item)
                        "image-width" (shell-command-to-string
-                                         (format "identify -format '%%w' '%s'"
-                                                 (porg-item-target-abs image-item)))
+                                      (format "identify -format '%%w' '%s'"
+                                              (porg-item-target-abs image-item)))
                        "image-height" (shell-command-to-string
-                                          (format "identify -format '%%h' '%s'"
-                                                  (porg-item-target-abs image-item))))))
+                                       (format "identify -format '%%h' '%s'"
+                                               (porg-item-target-abs image-item))))))
              (when description
                (list "description" description))
              (when tags
