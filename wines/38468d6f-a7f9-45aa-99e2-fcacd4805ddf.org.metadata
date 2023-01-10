@@ -8,7 +8,7 @@ vintage: "2018"
 country: "France"
 grapes: "Trousseau, Pinot Noir"
 image: "images/38/468d6f-a7f9-45aa-99e2-fcacd4805ddf/2022-05-08-16-09-52-7E0D8427-F3EE-4B92-BD1A-930C80F4C127-1-102-o.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/38/468d6f-a7f9-45aa-99e2-fcacd4805ddf/2022-05-08-16-09-52-7E0D8427-F3EE-4B92-BD1A-930C80F4C127-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
+image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/38/468d6f-a7f9-45aa-99e2-fcacd4805ddf/2022-05-08-16-09-52-7E0D8427-F3EE-4B92-BD1A-930C80F4C127-1-102-o.jpeg1': No such file or directory @ error/blob.c/OpenBlob/3570.
 "
 image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/38/468d6f-a7f9-45aa-99e2-fcacd4805ddf/2022-05-08-16-09-52-7E0D8427-F3EE-4B92-BD1A-930C80F4C127-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
 "

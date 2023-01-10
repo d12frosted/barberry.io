@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/33/9f4542-fb3f-4c84-a69e-45548c3aa642/2023-01-10-06-52-00-1105CC67-B68F-4D63-90E6-E98595441386-1-105-c.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/93ed5d54-33aa-43b6-9c10-131f1c7d5224][Nugan Estate]]
+- Vintage :: 2019
+- Location :: Australia
+- Grapes :: Chardonnay
+- Alcohol :: 13
+- Sugar :: 4.2
+- Price :: 285 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-08-15 - ☆ 7.25
+
+Straight-forward oaked Chardonnay. Stone fruits, melon, butter and popcorn. Almost off-dry, but acidity and bitterness balances it a little bit. But still the palate is bold and punchy. Long finish with flavours of mandarin and yellow fruits. Good entry-level wine. Thanks to the price, it makes a wonderful match for lunch (or video games haha).
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2117a6f2-3fb2-44aa-8bb0-6bea15c7db38.html">
+    <img class="flex-bottle" src="/images/21/17a6f2-3fb2-44aa-8bb0-6bea15c7db38/2023-01-10-06-57-53-IMG-4208.webp"></img>
+    <section class="h">Nugan Estate</section>
+    <section class="h text-bolder">Third Generation Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72b01643-222c-41ca-a512-263814270455.html">
+    <img class="flex-bottle" src="/images/72/b01643-222c-41ca-a512-263814270455/2022-09-23-21-25-00-IMG-2402.webp"></img>
+    <section class="h">Nugan Estate</section>
+    <section class="h text-bolder">Third Generation Chardonnay - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc528504-ce79-4729-8c3a-9433276f82c9.html">
+    <img class="flex-bottle" src="/images/fc/528504-ce79-4729-8c3a-9433276f82c9/2023-01-10-06-54-19-D60C4DE0-04E6-426E-B0D0-FCBF10BCA2E9-1-102-o.webp"></img>
+    <section class="h">Nugan Estate</section>
+    <section class="h text-bolder">Riverina Drover's Hut Chardonnay Single Vineyard - 2020</section>
+  </a>
+
+</div>
+#+end_export
