@@ -5,7 +5,7 @@ The numbers are crazy. More than 100 consumed bottles in October and 94 reviews 
 
 #+attr_html: :id monthly-ratings
 #+attr_html: :data monthly-ratings-data
-#+attr_html: :labels month :values rates :type bar :index-axis y
+#+attr_html: :labels month :values rates :type bar :index-axis y :size-mode dynamic
 #+begin_chartjs
 #+end_chartjs
 
@@ -163,7 +163,7 @@ This month is truly interesting. The most rated vintage is 2018. 2021 is getting
 
 #+attr_html: :id grapes :width 100 :height 140
 #+attr_html: :data grapes-data
-#+attr_html: :labels grape :values count :type bar :index-axis y
+#+attr_html: :labels grape :values count :type bar :index-axis y :size-mode dynamic
 #+begin_chartjs
 #+end_chartjs
 
