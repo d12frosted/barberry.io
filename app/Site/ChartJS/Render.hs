@@ -61,7 +61,7 @@ chartJs chart@(Chart {..}) =
         options: #{options}
       });
       if (#{isDynamic}) {
-        document.getElementById(#{chartName}).parentNode.style.height = 24 * #{J.rawJS varName}.data.labels.length + 'px';
+        document.getElementById(#{chartName}).parentNode.style.height = 24 * (1 + #{J.rawJS varName}.data.labels.length) + 'px';
       }
       |]
           undefined
