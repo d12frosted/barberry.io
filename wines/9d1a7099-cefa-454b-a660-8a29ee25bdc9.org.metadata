@@ -8,7 +8,5 @@ vintage: "2021"
 country: "France"
 grapes: "Grenache, Macabeo"
 image: "images/9d/1a7099-cefa-454b-a660-8a29ee25bdc9/2022-12-19-17-48-28-IMG-3937.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9d/1a7099-cefa-454b-a660-8a29ee25bdc9/2022-12-19-17-48-28-IMG-3937.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/9d/1a7099-cefa-454b-a660-8a29ee25bdc9/2022-12-19-17-48-28-IMG-3937.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

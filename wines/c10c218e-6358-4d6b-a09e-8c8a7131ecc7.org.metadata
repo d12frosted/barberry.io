@@ -10,7 +10,5 @@ grapes: "Chardonnay, Pinot Noir"
 degorgee: "February 14th, 2020"
 sur-lie: "165 months"
 image: "images/c1/0c218e-6358-4d6b-a09e-8c8a7131ecc7/2023-01-10-07-03-41-490B2539-9E40-40F7-B882-8CAB12DD538E-1-102-o.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c1/0c218e-6358-4d6b-a09e-8c8a7131ecc7/2023-01-10-07-03-41-490B2539-9E40-40F7-B882-8CAB12DD538E-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/c1/0c218e-6358-4d6b-a09e-8c8a7131ecc7/2023-01-10-07-03-41-490B2539-9E40-40F7-B882-8CAB12DD538E-1-102-o.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

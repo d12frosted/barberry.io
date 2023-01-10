@@ -8,7 +8,5 @@ vintage: "2020"
 country: "Australia"
 grapes: "Chardonnay"
 image: "images/21/17a6f2-3fb2-44aa-8bb0-6bea15c7db38/2023-01-10-06-57-53-IMG-4208.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/21/17a6f2-3fb2-44aa-8bb0-6bea15c7db38/2023-01-10-06-57-53-IMG-4208.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/21/17a6f2-3fb2-44aa-8bb0-6bea15c7db38/2023-01-10-06-57-53-IMG-4208.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

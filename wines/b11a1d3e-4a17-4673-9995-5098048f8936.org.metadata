@@ -8,7 +8,5 @@ vintage: "2021"
 country: "France"
 grapes: "Macabeo, Zibibbo, Muskateller"
 image: "images/b1/1a1d3e-4a17-4673-9995-5098048f8936/2022-12-19-17-43-08-IMG-3928.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b1/1a1d3e-4a17-4673-9995-5098048f8936/2022-12-19-17-43-08-IMG-3928.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/b1/1a1d3e-4a17-4673-9995-5098048f8936/2022-12-19-17-43-08-IMG-3928.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"

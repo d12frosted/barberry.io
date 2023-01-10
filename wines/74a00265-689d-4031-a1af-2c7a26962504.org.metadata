@@ -9,7 +9,5 @@ country: "France"
 grapes: "Cinsault"
 rating: "8.00"
 image: "images/74/a00265-689d-4031-a1af-2c7a26962504/2022-12-19-17-41-28-IMG-3926.jpeg"
-image-width: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/74/a00265-689d-4031-a1af-2c7a26962504/2022-12-19-17-41-28-IMG-3926.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
-image-height: "identify: unable to open image '/Users/d12frosted/Developer/barberry.io/images/74/a00265-689d-4031-a1af-2c7a26962504/2022-12-19-17-41-28-IMG-3926.jpeg': No such file or directory @ error/blob.c/OpenBlob/3570.
-"
+image-width: "960"
+image-height: "1280"
