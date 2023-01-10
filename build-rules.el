@@ -111,23 +111,31 @@ See `porg-note-output' for documentation for SOFT-DEPS and
 HARD-DEPS. But in this case these are functions on
 `vulpea-note'."
   (lambda (note)
-    (let ((note-output
-           (porg-note-output note
-                             :file (funcall file note)
-                             :soft-deps (when soft-deps (funcall soft-deps note))
-                             :hard-deps (when hard-deps (funcall hard-deps note)))))
-      (-concat (porg-attachments-output
-                note
-                :dir (if attach-dir
-                         (funcall attach-dir note-output)
-                       (let ((name (directory-from-uuid
-                                    (file-name-base (porg-rule-output-file note-output)))))
-                         (concat "images/" name)))
-                :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
-                :filter (or attach-filter #'brb-supported-image-p))
-               (when outputs-extra
-                 (funcall outputs-extra note-output))
-               (list note-output)))))
+    (let* ((note-output (porg-note-output note :file (funcall file note)))
+           (attachments-output
+            (porg-attachments-output
+             note
+             :dir (if attach-dir
+                      (funcall attach-dir note-output)
+                    (let ((name (directory-from-uuid
+                                 (file-name-base (porg-rule-output-file note-output)))))
+                      (concat "images/" name)))
+             :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
+             :filter (or attach-filter #'brb-supported-image-p)))
+           (outputs-extra (when outputs-extra (funcall outputs-extra note-output))))
+      (-concat attachments-output
+               outputs-extra
+               (list
+                (porg-note-output
+                 note
+                 :file (funcall file note)
+                 :soft-deps (when soft-deps (funcall soft-deps note))
+                 :hard-deps (-concat
+                             (when hard-deps (funcall hard-deps note))
+                             (-map #'porg-rule-output-id attachments-output)
+                             (-map #'porg-rule-output-id
+                                   (--filter (string-equal (porg-rule-output-type it) "attachment")
+                                             outputs-extra)))))))))
 
 (cl-defun brb-make-publish (&key copy-fn metadata)
   "Create public function with COPY-FN and METADATA."
