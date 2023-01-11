@@ -61,7 +61,10 @@ chartJs chart@(Chart {..}) =
         options: #{options}
       });
       if (#{isDynamic}) {
-        document.getElementById(#{chartName}).parentNode.style.height = 24 * (1 + #{J.rawJS varName}.data.labels.length) + 'px';
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * #{J.rawJS varName}.data.labels.length + ticksHeight;
+        document.getElementById(#{chartName}).parentNode.style.height = height + 'px';
       }
       |]
           undefined
