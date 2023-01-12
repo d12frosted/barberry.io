@@ -231,7 +231,7 @@ Access to full ITEMS for related wines."
       (insert
        "#+attr_html: :class wine-main-image\n"
        (if images
-           (car images)
+           (porg-file-name-set-variant (car images) 512)
          "[[file:/images/unknown-wine.webp]]")
        "\n\n"
        "- Type :: "
@@ -349,7 +349,7 @@ Access to full ITEMS for related wines."
                  (img-item (when img
                              (gethash (concat id ":" (file-name-fix-attachment
                                                       (s-chop-prefix "attachment:" img)
-                                                      "webp"))
+                                                      "webp@512"))
                                       items)))
                  (producer (vulpea-note-meta-get note "producer" 'note))
                  (name (vulpea-note-meta-get note "name"))
@@ -420,7 +420,7 @@ Access to full ITEMS for related wines."
                      (img-item (when img
                                  (gethash (concat id ":" (file-name-fix-attachment
                                                           (s-chop-prefix "attachment:" img)
-                                                          "webp"))
+                                                          "webp@512"))
                                           items)))
                      (name (vulpea-note-meta-get it "name"))
                      (vintage (or (vulpea-note-meta-get it "vintage") "NV"))
@@ -916,7 +916,7 @@ init file."
          (if image
              (progn
                (unless (file-exists-p (porg-item-target-abs image))
-                   (user-error "Image %s does not exist" (funcall #'porg-describe image)))
+                 (user-error "Image %s does not exist" (funcall #'porg-describe image)))
                (list "image" (porg-item-target-rel image)
                      "image-width" (shell-command-to-string
                                     (format "identify -format '%%w' '%s'"
