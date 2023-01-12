@@ -1081,7 +1081,7 @@ init file."
    :hash #'brb-sha1sum-attachment
    :build
    (lambda (item _items _cache)
-     (let ((max-width (or (plist-get (porg-item-extra-args item) :variant) 960))
+     (let ((max-width (or (plist-get (porg-item-extra-args item) :variant) 1600))
            (width (string-to-number
                    (shell-command-to-string
                     (format "identify -format %%W '%s'" (porg-item-item item))))))
