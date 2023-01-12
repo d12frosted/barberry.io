@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c.webp]]
+[[file:/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/4eb32a6f-ea37-4f9a-a470-d062d4465b67][Bret Brothers]]
@@ -28,25 +28,25 @@ Today they produce around 50,000 bottles in 14 different cuvées, around 8 ha. I
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e.html">
-    <img class="flex-bottle" src="/images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024.webp"></img>
+    <img class="flex-bottle" src="/images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Pouilly-Loché Climat La Colonge - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
-    <img class="flex-bottle" src="/images/61/4af4ec-0890-4399-a8c8-fed13468bdea/2021-01-06-14-40-20-45F2CFC7-9F40-4227-B958-065AE0F8770B-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/61/4af4ec-0890-4399-a8c8-fed13468bdea/2021-01-06-14-40-20-45F2CFC7-9F40-4227-B958-065AE0F8770B-1-105-c@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Macon-Chardonnay Climat Les Crays - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8dee6ced-e95a-4214-9879-0265f9f66a7e.html">
-    <img class="flex-bottle" src="/images/8d/ee6ced-e95a-4214-9879-0265f9f66a7e/2022-08-20-10-30-09-78CD0502-5902-4C44-A638-AC66C3DCB0FF-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/8d/ee6ced-e95a-4214-9879-0265f9f66a7e/2022-08-20-10-30-09-78CD0502-5902-4C44-A638-AC66C3DCB0FF-1-105-c@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Pouilly-Fuissé Climat La Roche - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">
-    <img class="flex-bottle" src="/images/19/8bd5e1-40d9-4046-b3c8-45b22a3afb34/2020-12-31-14-54-45-9707923D-EF81-496E-A66B-4F521D29E26F-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/19/8bd5e1-40d9-4046-b3c8-45b22a3afb34/2020-12-31-14-54-45-9707923D-EF81-496E-A66B-4F521D29E26F-1-105-c@512.webp"></img>
     <section class="h">Bach</section>
     <section class="h text-bolder">Extrísimo Brut - NV</section>
   </a>

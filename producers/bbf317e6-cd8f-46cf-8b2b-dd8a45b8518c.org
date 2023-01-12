@@ -4,19 +4,19 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/d615372c-6638-4603-9b3e-0f75f9f00215.html">
-    <img class="flex-bottle" src="/images/d6/15372c-6638-4603-9b3e-0f75f9f00215/2022-09-17-20-11-51-IMG-2254.webp"></img>
+    <img class="flex-bottle" src="/images/d6/15372c-6638-4603-9b3e-0f75f9f00215/2022-09-17-20-11-51-IMG-2254@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pinot Noir - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/362d0ef0-5c07-4fbd-90a0-4797088728f4.html">
-    <img class="flex-bottle" src="/images/36/2d0ef0-5c07-4fbd-90a0-4797088728f4/2022-09-20-15-59-46-IMG-2324.webp"></img>
+    <img class="flex-bottle" src="/images/36/2d0ef0-5c07-4fbd-90a0-4797088728f4/2022-09-20-15-59-46-IMG-2324@512.webp"></img>
     <section class="h">★ 7.00</section>
     <section class="h text-bolder">Satellite Pinot Noir - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/7652700d-3edc-46fa-8e74-624826b23830.html">
-    <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp"></img>
+    <img class="flex-bottle" src="/images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374@512.webp"></img>
     <section class="h">★ 6.50</section>
     <section class="h text-bolder">Satellite Sauvignon Blanc - 2021</section>
   </a>

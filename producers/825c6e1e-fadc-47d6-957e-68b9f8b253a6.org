@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9.html">
-    <img class="flex-bottle" src="/images/8d/4f1f71-ee82-481b-a9a1-6cf5e03e00d9/2022-10-15-13-38-21-6D19C4E7-370B-4284-B92D-30EC4908AEA9-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/8d/4f1f71-ee82-481b-a9a1-6cf5e03e00d9/2022-10-15-13-38-21-6D19C4E7-370B-4284-B92D-30EC4908AEA9-1-105-c@512.webp"></img>
     <section class="h">★ 7.88</section>
     <section class="h text-bolder">Carignan Reserve - 2016</section>
   </a>

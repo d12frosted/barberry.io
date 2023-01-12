@@ -4,19 +4,19 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3d42539f-0795-4537-b849-dc36deb102d3.html">
-    <img class="flex-bottle" src="/images/3d/42539f-0795-4537-b849-dc36deb102d3/2022-11-19-12-38-15-84302EAE-5E49-4CE6-9081-78117479C17C.webp"></img>
+    <img class="flex-bottle" src="/images/3d/42539f-0795-4537-b849-dc36deb102d3/2022-11-19-12-38-15-84302EAE-5E49-4CE6-9081-78117479C17C@512.webp"></img>
     <section class="h">★ 8.75</section>
     <section class="h text-bolder">Etna Bianco Superiore Pietra Marina - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84.html">
-    <img class="flex-bottle" src="/images/b8/803c15-f4ac-4fe4-9b7d-0c1c02cedc84/2022-11-18-09-10-28-5196AD5E-44CB-4686-8063-A7EF3C163558-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b8/803c15-f4ac-4fe4-9b7d-0c1c02cedc84/2022-11-18-09-10-28-5196AD5E-44CB-4686-8063-A7EF3C163558-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Etna Rosso Contrada Monte Serra - 2016</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/538e07c5-fd47-4b90-88e8-d6914f2bc23c.html">
-    <img class="flex-bottle" src="/images/53/8e07c5-fd47-4b90-88e8-d6914f2bc23c/2021-10-26-09-59-46-596E5B92-1C92-447E-965B-8772150EAC2F-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/53/8e07c5-fd47-4b90-88e8-d6914f2bc23c/2021-10-26-09-59-46-596E5B92-1C92-447E-965B-8772150EAC2F-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Etna Rosso Serra della Contessa - 2014</section>
   </a>

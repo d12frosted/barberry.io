@@ -4,19 +4,19 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
-    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Lluerna - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
-    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-12-26-08-32-28-159B7595-3F18-4C65-8BE7-A79F229163D7-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2022-12-26-08-32-28-159B7595-3F18-4C65-8BE7-A79F229163D7-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pregadéu - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">
-    <img class="flex-bottle" src="/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Saltamartí - 2020</section>
   </a>

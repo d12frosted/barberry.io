@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b393d9cb-bde1-4785-a061-4a1a9c074ad5.html">
-    <img class="flex-bottle" src="/images/b3/93d9cb-bde1-4785-a061-4a1a9c074ad5/2022-08-09-14-28-23-E0712BAA-DA8B-4F15-B792-8D99650BBF00-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b3/93d9cb-bde1-4785-a061-4a1a9c074ad5/2022-08-09-14-28-23-E0712BAA-DA8B-4F15-B792-8D99650BBF00-1-105-c@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Roero Arneis - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2feb39b3-9f38-4074-a53e-db8ea7a8f890.html">
-    <img class="flex-bottle" src="/images/2f/eb39b3-9f38-4074-a53e-db8ea7a8f890/2022-08-17-10-30-53-F89666D3-4854-4F22-A74B-9EDA20D2F502-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/2f/eb39b3-9f38-4074-a53e-db8ea7a8f890/2022-08-17-10-30-53-F89666D3-4854-4F22-A74B-9EDA20D2F502-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Roero Nebbiolo - 2015</section>
   </a>

@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/01486ec5-881a-4912-88ed-3fb39fed582a.html">
-    <img class="flex-bottle" src="/images/01/486ec5-881a-4912-88ed-3fb39fed582a/2021-09-07-13-12-55-B4F3A2C5-6223-4589-9592-471FAD7EE335-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/01/486ec5-881a-4912-88ed-3fb39fed582a/2021-09-07-13-12-55-B4F3A2C5-6223-4589-9592-471FAD7EE335-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Blanc de Blancs - 1964</section>
   </a>

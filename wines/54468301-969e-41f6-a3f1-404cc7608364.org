@@ -22,19 +22,19 @@ Tasty and complex Madeira wine. Brown sugar, caramel, coffee, and date fruits. F
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/64ddc69b-b7a5-45b5-bd67-ee325450f038.html">
-    <img class="flex-bottle" src="/images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463.webp"></img>
+    <img class="flex-bottle" src="/images/64/ddc69b-b7a5-45b5-bd67-ee325450f038/2022-06-15-07-27-29-IMG-0463@512.webp"></img>
     <section class="h">Henriques & Henriques</section>
     <section class="h text-bolder">Boal Single Harvest - 2000</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
-    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c@512.webp"></img>
     <section class="h">Félicien Brou</section>
     <section class="h text-bolder">Vouvray Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">
-    <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c@512.webp"></img>
     <section class="h">Mas Pere</section>
     <section class="h text-bolder">Selecció Brut Cava - NV</section>
   </a>

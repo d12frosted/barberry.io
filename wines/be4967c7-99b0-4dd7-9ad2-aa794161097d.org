@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/be/4967c7-99b0-4dd7-9ad2-aa794161097d/2020-11-11-13-27-32-66BA39E2-1E0B-426D-82F6-079244BF7A31-1-105-c.webp]]
+[[file:/images/be/4967c7-99b0-4dd7-9ad2-aa794161097d/2020-11-11-13-27-32-66BA39E2-1E0B-426D-82F6-079244BF7A31-1-105-c@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/824f09b6-4bf5-43fa-8d2f-09eb5092be8a][Portal del Priorat]]
@@ -22,7 +22,7 @@ Expressive and not a simple one! Cinnamon, clove, hints of saddle and grape skin
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/695bbc4e-f480-49d6-addd-7cea55afba0a.html">
-    <img class="flex-bottle" src="/images/69/5bbc4e-f480-49d6-addd-7cea55afba0a/2022-10-13-15-01-05-IMG-2739.webp"></img>
+    <img class="flex-bottle" src="/images/69/5bbc4e-f480-49d6-addd-7cea55afba0a/2022-10-13-15-01-05-IMG-2739@512.webp"></img>
     <section class="h">Portal del Priorat</section>
     <section class="h text-bolder">Tros De Clos - 2013</section>
   </a>
@@ -34,19 +34,19 @@ Expressive and not a simple one! Cinnamon, clove, hints of saddle and grape skin
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a424d013-0986-409a-9751-40b0e969b396.html">
-    <img class="flex-bottle" src="/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/a4/24d013-0986-409a-9751-40b0e969b396/2020-11-11-13-44-01-6B3A8E2C-7D61-48DE-AD4D-2E5A718DA0C2-1-105-c@512.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Rosé Gran Reserva - 2010</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a66b26d0-a279-48d7-a7a4-f8e2d5d9609f.html">
-    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/a6/6b26d0-a279-48d7-a7a4-f8e2d5d9609f/2021-07-22-09-33-03-AEB6044C-5E78-485C-809E-4503F4F1417B-1-105-c@512.webp"></img>
     <section class="h">Raúl Pérez</section>
     <section class="h text-bolder">La Vizcaína La Del Vivo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ed4d798e-7b3a-482b-89d5-f807db6918cd.html">
-    <img class="flex-bottle" src="/images/ed/4d798e-7b3a-482b-89d5-f807db6918cd/2020-12-03-10-49-18-9D348FFB-BA4F-490C-9762-1EE96E21B0ED-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ed/4d798e-7b3a-482b-89d5-f807db6918cd/2020-12-03-10-49-18-9D348FFB-BA4F-490C-9762-1EE96E21B0ED-1-105-c@512.webp"></img>
     <section class="h">La Rioja Alta</section>
     <section class="h text-bolder">Viña Ardanza Reserva - 2010</section>
   </a>

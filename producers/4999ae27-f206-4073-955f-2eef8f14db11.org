@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2ed14445-f42a-4213-8805-5fde9e011dcf.html">
-    <img class="flex-bottle" src="/images/2e/d14445-f42a-4213-8805-5fde9e011dcf/2022-10-28-13-06-37-A7FCF3AD-D6D1-47E7-A120-7B976F062DC1-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/2e/d14445-f42a-4213-8805-5fde9e011dcf/2022-10-28-13-06-37-A7FCF3AD-D6D1-47E7-A120-7B976F062DC1-1-105-c@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Mauvais Temps - 2019</section>
   </a>

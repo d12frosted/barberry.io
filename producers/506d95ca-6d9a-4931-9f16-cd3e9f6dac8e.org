@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
-    <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253.webp"></img>
+    <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
   </a>

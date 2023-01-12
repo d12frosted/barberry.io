@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/651f7930-578b-41fb-98f1-ca1bca0e057a.html">
-    <img class="flex-bottle" src="/images/65/1f7930-578b-41fb-98f1-ca1bca0e057a/2022-08-20-10-38-38-CF2E0CE0-8D26-491F-A6B7-C5996F828615-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/65/1f7930-578b-41fb-98f1-ca1bca0e057a/2022-08-20-10-38-38-CF2E0CE0-8D26-491F-A6B7-C5996F828615-1-105-c@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Asarvos - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
-    <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c@512.webp"></img>
     <section class="h">★ 4.50</section>
     <section class="h text-bolder">Aus Pet Nat - 2020</section>
   </a>

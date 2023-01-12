@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">
-    <img class="flex-bottle" src="/images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/6a/0691b6-3827-41fd-8bc8-91393b12503d/2022-06-28-07-08-37-78DDB62A-584E-418C-8C19-C3F5E705DB8D-1-105-c@512.webp"></img>
     <section class="h">★ 6.50</section>
     <section class="h text-bolder">Costalupo - 2021</section>
   </a>

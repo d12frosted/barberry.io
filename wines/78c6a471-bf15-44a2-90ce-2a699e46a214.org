@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/78/c6a471-bf15-44a2-90ce-2a699e46a214/2022-12-11-10-40-21-2FDC9E1A-E193-4964-84BD-E81415DC1F99-1-105-c.webp]]
+[[file:/images/78/c6a471-bf15-44a2-90ce-2a699e46a214/2022-12-11-10-40-21-2FDC9E1A-E193-4964-84BD-E81415DC1F99-1-105-c@512.webp]]
 
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/a20e448a-2939-4cf6-8389-8ebda0bef069][Philippe de Charmille]]
@@ -26,19 +26,19 @@ Simple yet pleasant. Crème brûlée, apple and quince. The aftertaste is rather
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0901f1a7-fea8-4940-a90e-d3471e665a55.html">
-    <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-12-23-13-22-38-IMG-3978.webp"></img>
+    <img class="flex-bottle" src="/images/09/01f1a7-fea8-4940-a90e-d3471e665a55/2022-12-23-13-22-38-IMG-3978@512.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Pinot Noir - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/85e7c16e-5b10-466f-ac81-f7a76a032867.html">
-    <img class="flex-bottle" src="/images/85/e7c16e-5b10-466f-ac81-f7a76a032867/2022-11-25-16-59-23-IMG-3400.webp"></img>
+    <img class="flex-bottle" src="/images/85/e7c16e-5b10-466f-ac81-f7a76a032867/2022-11-25-16-59-23-IMG-3400@512.webp"></img>
     <section class="h">Jauma</section>
     <section class="h text-bolder">Archies - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">
-    <img class="flex-bottle" src="/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c@512.webp"></img>
     <section class="h">Marlborough Sun</section>
     <section class="h text-bolder">Sauvignon Blanc - 2020</section>
   </a>

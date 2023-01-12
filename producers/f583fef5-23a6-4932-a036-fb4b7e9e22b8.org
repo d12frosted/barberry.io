@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03.html">
-    <img class="flex-bottle" src="/images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Shaman 17 Grand Cru - NV</section>
   </a>

@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/62a4c00f-3bf6-4791-b178-f3e01e0f67d3.html">
-    <img class="flex-bottle" src="/images/62/a4c00f-3bf6-4791-b178-f3e01e0f67d3/2022-10-19-11-55-26-IMG-2844.webp"></img>
+    <img class="flex-bottle" src="/images/62/a4c00f-3bf6-4791-b178-f3e01e0f67d3/2022-10-19-11-55-26-IMG-2844@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Vino di Sasso - 2017</section>
   </a>

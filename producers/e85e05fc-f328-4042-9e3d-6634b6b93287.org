@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e71574c1-9ab4-4bb5-9700-5a46563dd5d5.html">
-    <img class="flex-bottle" src="/images/e7/1574c1-9ab4-4bb5-9700-5a46563dd5d5/2022-09-23-21-20-49-IMG-2405.webp"></img>
+    <img class="flex-bottle" src="/images/e7/1574c1-9ab4-4bb5-9700-5a46563dd5d5/2022-09-23-21-20-49-IMG-2405@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Bosco di Gica - NV</section>
   </a>

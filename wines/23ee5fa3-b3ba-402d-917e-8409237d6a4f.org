@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350.webp]]
+[[file:/images/23/ee5fa3-b3ba-402d-917e-8409237d6a4f/IMG-1350@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/dbc80a5b-3294-4c28-959c-1f65b7f1decd][Thymiopoulos]]
@@ -24,13 +24,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/537dfdda-4cd7-45e5-81af-f269af5ea11c.html">
-    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c@512.webp"></img>
     <section class="h">Thymiopoulos</section>
     <section class="h text-bolder">Xinomavro Young Vines - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
-    <img class="flex-bottle" src="/images/83/5d717a-87e1-47dd-a5e3-7c848e3cf799/IMG-1281.webp"></img>
+    <img class="flex-bottle" src="/images/83/5d717a-87e1-47dd-a5e3-7c848e3cf799/IMG-1281@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Zibibbo - 2017</section>
   </a>

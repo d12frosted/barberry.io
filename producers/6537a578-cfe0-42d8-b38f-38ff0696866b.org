@@ -5,13 +5,13 @@ Filipa Pato is a winegrower and winemaker from Bairrada, Portugal. She focuses o
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
-    <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467.webp"></img>
+    <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">3B Blanc de Blancs Extra Bruto Unfiltered - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/63762d55-6596-4e80-b75c-9bc8c088de3f.html">
-    <img class="flex-bottle" src="/images/63/762d55-6596-4e80-b75c-9bc8c088de3f/2022-11-19-10-45-19-80371607-7594-40BC-80B7-C4F157F9761E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/63/762d55-6596-4e80-b75c-9bc8c088de3f/2022-11-19-10-45-19-80371607-7594-40BC-80B7-C4F157F9761E-1-105-c@512.webp"></img>
     <section class="h">★ 7.80</section>
     <section class="h text-bolder">Nossa Calcario Baga - 2018</section>
   </a>

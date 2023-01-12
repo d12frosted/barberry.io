@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/49656def-0966-4b59-84a7-f7bccb6e73ca.html">
-    <img class="flex-bottle" src="/images/49/656def-0966-4b59-84a7-f7bccb6e73ca/2022-10-13-15-00-24-IMG-2742.webp"></img>
+    <img class="flex-bottle" src="/images/49/656def-0966-4b59-84a7-f7bccb6e73ca/2022-10-13-15-00-24-IMG-2742@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Godello - 2020</section>
   </a>

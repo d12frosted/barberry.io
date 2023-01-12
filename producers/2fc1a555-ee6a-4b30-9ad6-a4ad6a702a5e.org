@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
-    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Amour de Deutz - 2009</section>
   </a>

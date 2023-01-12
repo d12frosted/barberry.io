@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/489fb974-cb44-460d-a9b3-b9469d7700b8.html">
-    <img class="flex-bottle" src="/images/48/9fb974-cb44-460d-a9b3-b9469d7700b8/2020-10-08-10-37-02-A34A7B9D-C2F9-49F5-B69D-46441F0D1C4A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/48/9fb974-cb44-460d-a9b3-b9469d7700b8/2020-10-08-10-37-02-A34A7B9D-C2F9-49F5-B69D-46441F0D1C4A-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Barbera d'Alba Sucule - 2016</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/493e1962-0123-40b7-848e-c82389444c42.html">
-    <img class="flex-bottle" src="/images/49/3e1962-0123-40b7-848e-c82389444c42/2022-09-14-15-05-54-729A5FDE-173B-4D2B-9D26-5C3C47237997-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/49/3e1962-0123-40b7-848e-c82389444c42/2022-09-14-15-05-54-729A5FDE-173B-4D2B-9D26-5C3C47237997-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Suculé Barbera d'Alba Superiore - 2019</section>
   </a>

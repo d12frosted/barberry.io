@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C.webp]]
+[[file:/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp]]
 
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/97bee62d-6e14-4f79-a95d-37893c50a84e][Marc Hebrart]]
@@ -34,13 +34,13 @@ Date of dégorgemenent: 16 March 2021.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
-    <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388.webp"></img>
+    <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Carjcanti - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
-    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c@512.webp"></img>
     <section class="h">Deutz</section>
     <section class="h text-bolder">Amour de Deutz - 2009</section>
   </a>

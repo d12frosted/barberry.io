@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
-    <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.webp"></img>
+    <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921@512.webp"></img>
     <section class="h">★ 8.75</section>
     <section class="h text-bolder">Grand Cru Collection Bouzy - 2000</section>
   </a>

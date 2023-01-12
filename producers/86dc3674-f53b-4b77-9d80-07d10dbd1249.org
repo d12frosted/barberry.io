@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf.html">
-    <img class="flex-bottle" src="/images/c1/5d6dfa-47c0-44e8-8103-015892c1bfcf/2022-05-22-20-27-08-44C67BBA-B48A-4A60-8796-9E804551DD21-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/c1/5d6dfa-47c0-44e8-8103-015892c1bfcf/2022-05-22-20-27-08-44C67BBA-B48A-4A60-8796-9E804551DD21-1-105-c@512.webp"></img>
     <section class="h">★ 7.00</section>
     <section class="h text-bolder">Sauvignon Blanc - 2019</section>
   </a>

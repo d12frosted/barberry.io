@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
-    <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035.webp"></img>
+    <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp"></img>
     <section class="h">★ 7.00</section>
     <section class="h text-bolder">Pet Nat Rosé - 2021</section>
   </a>

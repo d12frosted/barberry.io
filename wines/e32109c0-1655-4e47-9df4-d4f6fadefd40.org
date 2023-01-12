@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/e3/2109c0-1655-4e47-9df4-d4f6fadefd40/2022-08-14-11-17-16-E9828D20-9CC3-4EA8-B146-24A41B97E5A9-1-105-c.webp]]
+[[file:/images/e3/2109c0-1655-4e47-9df4-d4f6fadefd40/2022-08-14-11-17-16-E9828D20-9CC3-4EA8-B146-24A41B97E5A9-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/53e31c1f-70b3-4504-897d-fe020167f48c][Denavolo]]
@@ -26,19 +26,19 @@ Some would say that this wine is up to expectations, but considering my experien
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/06b29201-db4b-4d44-9612-ef1a4919786a.html">
-    <img class="flex-bottle" src="/images/06/b29201-db4b-4d44-9612-ef1a4919786a/2020-08-29-12-24-25-95804198-634B-4367-9630-51FEFC0BABC1-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/06/b29201-db4b-4d44-9612-ef1a4919786a/2020-08-29-12-24-25-95804198-634B-4367-9630-51FEFC0BABC1-1-105-c@512.webp"></img>
     <section class="h">Denavolo</section>
     <section class="h text-bolder">Dinavolino - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/667f7cf0-ca79-4a69-9a23-79544c95dcfa.html">
-    <img class="flex-bottle" src="/images/66/7f7cf0-ca79-4a69-9a23-79544c95dcfa/2020-09-17-23-29-05-38EC41E0-0FD5-430B-A8F3-E21F8A1AD361-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/66/7f7cf0-ca79-4a69-9a23-79544c95dcfa/2020-09-17-23-29-05-38EC41E0-0FD5-430B-A8F3-E21F8A1AD361-1-105-c@512.webp"></img>
     <section class="h">Denavolo</section>
     <section class="h text-bolder">Dinavolino - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/877d6831-deea-428d-b19d-b7908a77389e.html">
-    <img class="flex-bottle" src="/images/87/7d6831-deea-428d-b19d-b7908a77389e/2022-06-12-17-32-22-FD28EF14-DF03-405B-AA06-8A6EA800F3A3.webp"></img>
+    <img class="flex-bottle" src="/images/87/7d6831-deea-428d-b19d-b7908a77389e/2022-06-12-17-32-22-FD28EF14-DF03-405B-AA06-8A6EA800F3A3@512.webp"></img>
     <section class="h">Golan Heights Winery</section>
     <section class="h text-bolder">Viognier Yarden - 2017</section>
   </a>

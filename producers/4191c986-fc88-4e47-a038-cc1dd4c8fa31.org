@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0eee744d-c822-471a-8a3f-ba0c7d452893.html">
-    <img class="flex-bottle" src="/images/0e/ee744d-c822-471a-8a3f-ba0c7d452893/2022-10-15-13-26-17-FAA775D9-D4D0-4C09-9062-A4386280048E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/0e/ee744d-c822-471a-8a3f-ba0c7d452893/2022-10-15-13-26-17-FAA775D9-D4D0-4C09-9062-A4386280048E-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Las Nubes - 2018</section>
   </a>

@@ -5,13 +5,13 @@ Alfredo Arribas, the same person behind [[barberry:/producers/824f09b6-4bf5-43fa
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ac087d27-5f55-4c5f-bd52-b75f29c236fd.html">
-    <img class="flex-bottle" src="/images/ac/087d27-5f55-4c5f-bd52-b75f29c236fd/2022-06-09-21-46-04-IMG-0371.webp"></img>
+    <img class="flex-bottle" src="/images/ac/087d27-5f55-4c5f-bd52-b75f29c236fd/2022-06-09-21-46-04-IMG-0371@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Sants - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b.html">
-    <img class="flex-bottle" src="/images/f9/13d77f-17a6-4b79-b8b3-41967cdf315b/2022-09-20-15-44-58-IMG-2297.webp"></img>
+    <img class="flex-bottle" src="/images/f9/13d77f-17a6-4b79-b8b3-41967cdf315b/2022-09-20-15-44-58-IMG-2297@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Vells - 2018</section>
   </a>

@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
-    <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Brut Reserve - NV</section>
   </a>

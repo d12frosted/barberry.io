@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871.webp]]
+[[file:/images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/fad08b42-424d-4f52-875c-397b99ba746e][Maestro Italiano]]
@@ -22,7 +22,7 @@ Simple Primitivo (hehe, even though the meaning of this word is different) with 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a13e9a37-d92d-469f-9a4c-dec058e0ae4a.html">
-    <img class="flex-bottle" src="/images/a1/3e9a37-d92d-469f-9a4c-dec058e0ae4a/2022-09-20-15-58-46-IMG-2321.webp"></img>
+    <img class="flex-bottle" src="/images/a1/3e9a37-d92d-469f-9a4c-dec058e0ae4a/2022-09-20-15-58-46-IMG-2321@512.webp"></img>
     <section class="h">Raúl Pérez</section>
     <section class="h text-bolder">La Vizcaína Las Gundiñas Lomas de Valtuille - 2019</section>
   </a>

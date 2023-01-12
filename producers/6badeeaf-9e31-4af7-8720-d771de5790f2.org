@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">
-    <img class="flex-bottle" src="/images/9e/880b48-e667-429f-a5d8-222f6190cb3a/2022-06-08-08-58-22-90EF53B4-6E02-4143-8E8F-FC5BB22AC7FA-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/9e/880b48-e667-429f-a5d8-222f6190cb3a/2022-06-08-08-58-22-90EF53B4-6E02-4143-8E8F-FC5BB22AC7FA-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Bourgogne Les Perrières - 2017</section>
   </a>

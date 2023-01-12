@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">
-    <img class="flex-bottle" src="/images/d3/1203d7-6889-4b84-b67a-05cafc0a5cef/2022-05-08-15-04-10-7148ED7D-4BAA-48DC-85F4-2B30BE7D41FE-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/d3/1203d7-6889-4b84-b67a-05cafc0a5cef/2022-05-08-15-04-10-7148ED7D-4BAA-48DC-85F4-2B30BE7D41FE-1-105-c@512.webp"></img>
     <section class="h">★ 7.00</section>
     <section class="h text-bolder">Pinot Noir Central Otago - 2020</section>
   </a>

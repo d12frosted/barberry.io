@@ -4,31 +4,31 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
-    <img class="flex-bottle" src="/images/e6/767402-5d1a-42b1-a3d9-fd6bddc1e11a/2020-10-13-09-45-38-31C366EB-C9F5-45DD-850A-D7CFD6F98D7A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/e6/767402-5d1a-42b1-a3d9-fd6bddc1e11a/2020-10-13-09-45-38-31C366EB-C9F5-45DD-850A-D7CFD6F98D7A-1-105-c@512.webp"></img>
     <section class="h">★ 6.00</section>
     <section class="h text-bolder">Kakhuri Mtsvivani - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">
-    <img class="flex-bottle" src="/images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c@512.webp"></img>
     <section class="h">★ 5.50</section>
     <section class="h text-bolder">Mtsvane - 2012</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">
-    <img class="flex-bottle" src="/images/dd/ee2b3f-3dcc-4ae6-9c11-31dea06d5d79/2022-05-08-18-05-34-IMG-0038.webp"></img>
+    <img class="flex-bottle" src="/images/dd/ee2b3f-3dcc-4ae6-9c11-31dea06d5d79/2022-05-08-18-05-34-IMG-0038@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Poliphonia - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
-    <img class="flex-bottle" src="/images/a7/f486a8-2d5f-4cb1-acc9-edbc5a17c505/2020-10-13-09-43-19-B730B12F-F30B-4B78-A148-26DA54BCF0A6-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/a7/f486a8-2d5f-4cb1-acc9-edbc5a17c505/2020-10-13-09-43-19-B730B12F-F30B-4B78-A148-26DA54BCF0A6-1-105-c@512.webp"></img>
     <section class="h">★ 5.50</section>
     <section class="h text-bolder">Rkatsiteli - 2012</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
-    <img class="flex-bottle" src="/images/95/c18886-a280-43b0-9c9b-78d074bd80ca/2020-10-13-09-42-07-E80607F1-DD40-4CCD-A9F4-CC4D5CBD4ECF-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/95/c18886-a280-43b0-9c9b-78d074bd80ca/2020-10-13-09-42-07-E80607F1-DD40-4CCD-A9F4-CC4D5CBD4ECF-1-105-c@512.webp"></img>
     <section class="h">★ 6.00</section>
     <section class="h text-bolder">Rkatsiteli - 2018</section>
   </a>

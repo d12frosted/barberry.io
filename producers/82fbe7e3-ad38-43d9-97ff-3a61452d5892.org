@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/bcbf8abd-faff-4a86-a1a6-afae3ff1ace9.html">
-    <img class="flex-bottle" src="/images/bc/bf8abd-faff-4a86-a1a6-afae3ff1ace9/2022-07-26-12-20-24-4F7D795C-176B-4C48-9040-A69D8374DEFA-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/bc/bf8abd-faff-4a86-a1a6-afae3ff1ace9/2022-07-26-12-20-24-4F7D795C-176B-4C48-9040-A69D8374DEFA-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Camiño Real - 2017</section>
   </a>

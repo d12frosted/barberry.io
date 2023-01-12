@@ -3,13 +3,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7a0fd419-179e-4c42-9bc8-36f8af4c5b97.html">
-    <img class="flex-bottle" src="/images/7a/0fd419-179e-4c42-9bc8-36f8af4c5b97/2022-09-26-18-19-00-CAEC9845-F6A4-4BE5-89A2-4B8853940F72-1-102-o.webp"></img>
+    <img class="flex-bottle" src="/images/7a/0fd419-179e-4c42-9bc8-36f8af4c5b97/2022-09-26-18-19-00-CAEC9845-F6A4-4BE5-89A2-4B8853940F72-1-102-o@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Amphora - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">
-    <img class="flex-bottle" src="/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c@512.webp"></img>
     <section class="h">★ 8.20</section>
     <section class="h text-bolder">Spira - 2019</section>
   </a>

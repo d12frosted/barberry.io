@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c.webp]]
+[[file:/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073][La Stoppa]]
@@ -59,19 +59,19 @@ Wine #6 on [[barberry:/posts/2022-07-28-mixed-bag][Mixed Bag Vol. 2: Orange]].
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
-    <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
-    <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f72778c8-5571-403e-a386-20cffdbf1459.html">
-    <img class="flex-bottle" src="/images/f7/2778c8-5571-403e-a386-20cffdbf1459/2020-10-13-08-41-17-A9F57A48-9501-45C1-A0ED-6F37E305B38C-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/f7/2778c8-5571-403e-a386-20cffdbf1459/2020-10-13-08-41-17-A9F57A48-9501-45C1-A0ED-6F37E305B38C-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2017</section>
   </a>
@@ -83,79 +83,79 @@ Wine #6 on [[barberry:/posts/2022-07-28-mixed-bag][Mixed Bag Vol. 2: Orange]].
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
-    <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/582c897e-478e-4853-8f7f-1cfbe777758d.html">
-    <img class="flex-bottle" src="/images/58/2c897e-478e-4853-8f7f-1cfbe777758d/2021-05-26-09-09-15-564E4B83-DAD6-4A72-9849-5B98D494B072-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/58/2c897e-478e-4853-8f7f-1cfbe777758d/2021-05-26-09-09-15-564E4B83-DAD6-4A72-9849-5B98D494B072-1-105-c@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Rot-Murlé Riesling Macération Pur Vin - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac.html">
-    <img class="flex-bottle" src="/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/67/b1bff3-17d8-4eeb-b8b8-07030edb41ac/2021-08-14-10-17-40-6AB906D6-9AD1-499F-8B32-34F427389BC4-1-105-c@512.webp"></img>
     <section class="h">Weingut Tement</section>
     <section class="h text-bolder">Sauvignon Blanc Südsteiermark Spätfüllung - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">
-    <img class="flex-bottle" src="/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/6d/64366b-03ab-40e9-be42-29b47b5ba98a/2022-07-23-10-41-53-6C47EAA7-FF3C-431F-A2D6-292790E0BA8F-1-105-c@512.webp"></img>
     <section class="h">Ktima Ligas</section>
     <section class="h text-bolder">Spira - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">
-    <img class="flex-bottle" src="/images/6e/9d1d22-6802-4fb7-a928-325b7f6ebf0e/2021-08-14-10-46-59-82273708-1D6B-4994-9A84-77A739C376AA-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/6e/9d1d22-6802-4fb7-a928-325b7f6ebf0e/2021-08-14-10-46-59-82273708-1D6B-4994-9A84-77A739C376AA-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Grüner Veltliner Kamptaler Terrassen - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6ff8d6e2-d7c2-4ab2-b560-207caa4b3956.html">
-    <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/6f/f8d6e2-d7c2-4ab2-b560-207caa4b3956/2021-08-14-10-34-12-D3EC9F5B-BCBF-4593-8433-AABB64CC60E2-1-105-c@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">
-    <img class="flex-bottle" src="/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/8b/b8fb69-9781-4451-81c7-fa0a592a1a56/2022-07-23-10-36-38-E1E1F074-070D-4B01-BA55-48137F2B3A03-1-105-c@512.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Pinot Gris Comme de Fleurs - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/930fb85c-691f-4692-8372-30e03660a72a.html">
-    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/93/0fb85c-691f-4692-8372-30e03660a72a/2022-07-23-10-38-58-F50C6502-28EC-4E90-8743-E79924F3FC6A-1-105-c@512.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Summertown blanc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">
-    <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c@512.webp"></img>
     <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 1997</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
-    <img class="flex-bottle" src="/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c@512.webp"></img>
     <section class="h">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Mtsvane - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
-    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
-    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">
-    <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c@512.webp"></img>
     <section class="h">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Alvani Rkatsiteli - 2018</section>
   </a>

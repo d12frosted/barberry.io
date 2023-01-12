@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c.webp]]
+[[file:/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Gravner]]
@@ -43,7 +43,7 @@ happy to taste this iconic wine.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
-    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c@512.webp"></img>
     <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>

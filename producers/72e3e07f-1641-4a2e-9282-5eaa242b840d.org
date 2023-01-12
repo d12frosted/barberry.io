@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/65bd6d64-29e1-4b3c-ad9a-ce49a291c3e2.html">
-    <img class="flex-bottle" src="/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c@512.webp"></img>
     <section class="h">★ 7.00</section>
     <section class="h text-bolder">Garnacha - 2020</section>
   </a>

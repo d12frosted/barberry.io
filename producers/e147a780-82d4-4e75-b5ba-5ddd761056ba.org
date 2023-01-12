@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
-    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
+    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782@512.webp"></img>
     <section class="h">★ 7.10</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>

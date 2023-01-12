@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0633a0d6-7466-498e-ae11-e2a1c17165a6.html">
-    <img class="flex-bottle" src="/images/06/33a0d6-7466-498e-ae11-e2a1c17165a6/2020-12-27-12-57-18-2464C91A-5488-4A95-8CF5-E781904FF949-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/06/33a0d6-7466-498e-ae11-e2a1c17165a6/2020-12-27-12-57-18-2464C91A-5488-4A95-8CF5-E781904FF949-1-105-c@512.webp"></img>
     <section class="h">★ 5.50</section>
     <section class="h text-bolder">Cava Clasico Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/938343b2-010d-4abd-9c14-e5e6f6c88633.html">
-    <img class="flex-bottle" src="/images/93/8343b2-010d-4abd-9c14-e5e6f6c88633/2022-06-17-06-54-47-513F6A0F-CC7D-4501-90CA-9E7072553A5E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/93/8343b2-010d-4abd-9c14-e5e6f6c88633/2022-06-17-06-54-47-513F6A0F-CC7D-4501-90CA-9E7072553A5E-1-105-c@512.webp"></img>
     <section class="h">★ 7.30</section>
     <section class="h text-bolder">Cava Clasico Brut Nature - NV</section>
   </a>

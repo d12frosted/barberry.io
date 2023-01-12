@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
-    <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ea9b241a-ec1f-4814-ad56-899d497fe95a.html">
-    <img class="flex-bottle" src="/images/ea/9b241a-ec1f-4814-ad56-899d497fe95a/2021-09-01-22-29-10-3350D65C-E4EA-46E7-9D72-DE6C4CD3F7F9-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ea/9b241a-ec1f-4814-ad56-899d497fe95a/2021-09-01-22-29-10-3350D65C-E4EA-46E7-9D72-DE6C4CD3F7F9-1-105-c@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Raiz Red - 2017</section>
   </a>

@@ -5,7 +5,7 @@ A winery with story stretching back to 1816. Initially owned by Galantini family
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/baf18c42-2e67-4108-967a-d540bc105779.html">
-    <img class="flex-bottle" src="/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp"></img>
+    <img class="flex-bottle" src="/images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260@512.webp"></img>
     <section class="h">★ 8.10</section>
     <section class="h text-bolder">Spumante Brut Metodo Classico - NV</section>
   </a>

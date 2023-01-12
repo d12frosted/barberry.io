@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0d10ef94-c415-4d5d-92d8-635503f5460b.html">
-    <img class="flex-bottle" src="/images/0d/10ef94-c415-4d5d-92d8-635503f5460b/2021-08-27-16-54-46-4F775A73-E23D-40FD-BECB-8EE5B2D4AAC1-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/0d/10ef94-c415-4d5d-92d8-635503f5460b/2021-08-27-16-54-46-4F775A73-E23D-40FD-BECB-8EE5B2D4AAC1-1-105-c@512.webp"></img>
     <section class="h">★ 9.00</section>
     <section class="h text-bolder">Echezaux Grand Cru - 2008</section>
   </a>

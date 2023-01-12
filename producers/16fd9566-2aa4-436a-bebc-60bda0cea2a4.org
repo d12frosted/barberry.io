@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/30c525bd-570e-46da-9d48-0a68da83dab9.html">
-    <img class="flex-bottle" src="/images/30/c525bd-570e-46da-9d48-0a68da83dab9/2022-09-20-15-50-41-IMG-2307.webp"></img>
+    <img class="flex-bottle" src="/images/30/c525bd-570e-46da-9d48-0a68da83dab9/2022-09-20-15-50-41-IMG-2307@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pedra Forca Garnacha & Syrah - 2016</section>
   </a>

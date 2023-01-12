@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
-    <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Saint-Estephe Cru Bourgeois - 2016</section>
   </a>

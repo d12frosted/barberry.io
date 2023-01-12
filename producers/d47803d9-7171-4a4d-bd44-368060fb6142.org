@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/294f1734-8953-4169-ba32-42a1e505fb4c.html">
-    <img class="flex-bottle" src="/images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584.webp"></img>
+    <img class="flex-bottle" src="/images/29/4f1734-8953-4169-ba32-42a1e505fb4c/2022-12-03-16-53-07-IMG-3584@512.webp"></img>
     <section class="h">★ 5.50</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2019</section>
   </a>

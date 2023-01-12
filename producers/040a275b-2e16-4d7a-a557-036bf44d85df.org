@@ -21,19 +21,19 @@ In the cellar, nothing is added except for little doses of sulfur. Wine is ferme
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b.html">
-    <img class="flex-bottle" src="/images/5f/b42b2f-6d7d-4a31-98b2-d157c96cf41b/2022-08-12-12-03-19-IMG-1448.webp"></img>
+    <img class="flex-bottle" src="/images/5f/b42b2f-6d7d-4a31-98b2-d157c96cf41b/2022-08-12-12-03-19-IMG-1448@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">Chiar'otto Bardolino Classico Chiaretto - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">
-    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp"></img>
+    <img class="flex-bottle" src="/images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651@512.webp"></img>
     <section class="h">★ 7.20</section>
     <section class="h text-bolder">Sollazzo - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/76c88c36-a8b2-4aac-baf1-7a97765f99cd.html">
-    <img class="flex-bottle" src="/images/76/c88c36-a8b2-4aac-baf1-7a97765f99cd/2022-07-21-19-31-03-FA17426A-8AFC-4766-9118-BAA4486AA54C-1-102-o.webp"></img>
+    <img class="flex-bottle" src="/images/76/c88c36-a8b2-4aac-baf1-7a97765f99cd/2022-07-21-19-31-03-FA17426A-8AFC-4766-9118-BAA4486AA54C-1-102-o@512.webp"></img>
     <section class="h">★ 7.80</section>
     <section class="h text-bolder">Soracuna - 2018</section>
   </a>

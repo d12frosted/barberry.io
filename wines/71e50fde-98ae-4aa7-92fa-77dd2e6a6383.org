@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/71/e50fde-98ae-4aa7-92fa-77dd2e6a6383/2022-08-29-16-52-44-0AF634D1-2852-48F9-BB75-FF01F92C85BA-1-105-c.webp]]
+[[file:/images/71/e50fde-98ae-4aa7-92fa-77dd2e6a6383/2022-08-29-16-52-44-0AF634D1-2852-48F9-BB75-FF01F92C85BA-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]
@@ -24,25 +24,25 @@ P.S. This is my first Picpoul and Picpoul de Pinet AOC.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
-    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
+    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7fdf496f-57a8-4a69-a2b7-ac5d105de167.html">
-    <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/7f/df496f-57a8-4a69-a2b7-ac5d105de167/2022-08-20-19-39-43-31E3B170-5F2C-43ED-9A0E-D4FCE4DD7817-1-105-c@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">An 825 Crémant de Limoux Brut - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a6d4180f-77c0-4348-b963-b7af0feeb1df.html">
-    <img class="flex-bottle" src="/images/a6/d4180f-77c0-4348-b963-b7af0feeb1df/2022-12-18-14-41-03-IMG-3885.webp"></img>
+    <img class="flex-bottle" src="/images/a6/d4180f-77c0-4348-b963-b7af0feeb1df/2022-12-18-14-41-03-IMG-3885@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Sauvignon Blanc - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">
-    <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/fd/caa3bb-bc73-441c-a387-894cff0e1f38/2022-06-05-11-07-03-475AFBDA-5098-40BF-B88D-1C60C0D44945-1-105-c@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Héritage Kosmos 888 - 2019</section>
   </a>

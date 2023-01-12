@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762.webp]]
+[[file:/images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/b76709e7-dd5a-4e9c-9ea8-96365ea07dde][Pete's Pure]]
@@ -22,7 +22,7 @@ Simple and friendly Pinot Noir. Cherry jam and leather hints. Almost off-dry, ye
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
-    <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045.webp"></img>
+    <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045@512.webp"></img>
     <section class="h">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
   </a>

@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ea15e397-8149-405d-992d-63878cb0cebf.html">
-    <img class="flex-bottle" src="/images/ea/15e397-8149-405d-992d-63878cb0cebf/2020-07-15-20-11-42-02DD7173-A487-4EB4-8D05-83FAD82D0BC7-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ea/15e397-8149-405d-992d-63878cb0cebf/2020-07-15-20-11-42-02DD7173-A487-4EB4-8D05-83FAD82D0BC7-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Les Grands Blancs Grand Cru - NV</section>
   </a>

@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c22691bf-ba9f-44fb-bb80-0ef5ff2dd113.html">
-    <img class="flex-bottle" src="/images/c2/2691bf-ba9f-44fb-bb80-0ef5ff2dd113/2022-09-20-16-06-18-IMG-2335.webp"></img>
+    <img class="flex-bottle" src="/images/c2/2691bf-ba9f-44fb-bb80-0ef5ff2dd113/2022-09-20-16-06-18-IMG-2335@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Gnarly Dudes - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd.html">
-    <img class="flex-bottle" src="/images/c3/c1c92a-167f-4360-99af-9c26de2ae5dd/2021-11-14-11-03-59-14FA9A85-B2D0-4CE3-862D-B887CF642BC8-1-102-o.webp"></img>
+    <img class="flex-bottle" src="/images/c3/c1c92a-167f-4360-99af-9c26de2ae5dd/2021-11-14-11-03-59-14FA9A85-B2D0-4CE3-862D-B887CF642BC8-1-102-o@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Sexy Beast - 2019</section>
   </a>

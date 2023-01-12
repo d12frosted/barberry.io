@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/88c63945-bcf3-4ad7-8208-2178cc5e12ce.html">
-    <img class="flex-bottle" src="/images/88/c63945-bcf3-4ad7-8208-2178cc5e12ce/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/88/c63945-bcf3-4ad7-8208-2178cc5e12ce/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Saint-Aubin Le Banc - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
-    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
   </a>

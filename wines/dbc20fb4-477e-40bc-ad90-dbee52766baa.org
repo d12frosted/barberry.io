@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c.webp]]
+[[file:/images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/632239c5-ab6a-427b-b119-861515f4ff23][Novak]]
@@ -22,13 +22,13 @@ Floricica is a very rare grape that was crossed recently in Moldova. A small flo
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
-    <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c@512.webp"></img>
     <section class="h">Novak</section>
     <section class="h text-bolder">Rară Neagră - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5143561a-3ce6-4c28-b1db-a0ec9ff8bd47.html">
-    <img class="flex-bottle" src="/images/51/43561a-3ce6-4c28-b1db-a0ec9ff8bd47/2020-07-29-21-25-12-46EEB3EF-C2C0-4BDD-9A73-45AA7EB09A45-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/51/43561a-3ce6-4c28-b1db-a0ec9ff8bd47/2020-07-29-21-25-12-46EEB3EF-C2C0-4BDD-9A73-45AA7EB09A45-1-105-c@512.webp"></img>
     <section class="h">Kanonkop</section>
     <section class="h text-bolder">Pinotage Kadette - 2018</section>
   </a>

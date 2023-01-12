@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3e3afebf-0122-4708-86af-46c1f53b4078.html">
-    <img class="flex-bottle" src="/images/3e/3afebf-0122-4708-86af-46c1f53b4078/2022-10-15-13-13-11-CFB7B836-9D1C-45F3-AD81-F02B7B7B0F4D-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/3e/3afebf-0122-4708-86af-46c1f53b4078/2022-10-15-13-13-11-CFB7B836-9D1C-45F3-AD81-F02B7B7B0F4D-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Wabi-sabi white - 2018</section>
   </a>

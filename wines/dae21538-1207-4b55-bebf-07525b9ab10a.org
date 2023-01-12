@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c.webp]]
+[[file:/images/da/e21538-1207-4b55-bebf-07525b9ab10a/2022-07-16-19-17-49-9F7474F0-5B1B-49AA-8A74-4D3AF0A0A524-1-105-c@512.webp]]
 
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/ecfc448d-b029-4031-916c-93c5bac91f68][Villa Clara]]
@@ -22,19 +22,19 @@ Exactly the wine you expect it to be. Is it a bad thing? Not per se! Easy choice
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
-    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782.webp"></img>
+    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782@512.webp"></img>
     <section class="h">Pierre Trichet</section>
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">
-    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795.webp"></img>
+    <img class="flex-bottle" src="/images/7e/65f750-5d08-4144-b41f-a8fda1672560/2022-07-16-19-52-02-IMG-0795@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Rouge - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">
-    <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp"></img>
+    <img class="flex-bottle" src="/images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Pet Nat - 2020</section>
   </a>

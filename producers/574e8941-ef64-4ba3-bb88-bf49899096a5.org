@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1722d4fd-8268-4437-8ce1-8fd35925a39f.html">
-    <img class="flex-bottle" src="/images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Kimmeridgian - 2019</section>
   </a>

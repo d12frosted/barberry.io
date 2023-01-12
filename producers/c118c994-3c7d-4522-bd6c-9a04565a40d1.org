@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e1d2512e-70b4-4de7-a366-53a8732c055f.html">
-    <img class="flex-bottle" src="/images/e1/d2512e-70b4-4de7-a366-53a8732c055f/2022-11-25-16-31-45-IMG-3362.webp"></img>
+    <img class="flex-bottle" src="/images/e1/d2512e-70b4-4de7-a366-53a8732c055f/2022-11-25-16-31-45-IMG-3362@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Valle del Ángel Método Tradicional Brut - 2017</section>
   </a>

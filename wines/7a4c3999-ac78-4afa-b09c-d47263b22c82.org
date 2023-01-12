@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379.webp]]
+[[file:/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
@@ -26,19 +26,19 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
-    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp"></img>
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
-    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
-    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
   </a>

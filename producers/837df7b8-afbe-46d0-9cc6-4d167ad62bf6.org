@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/04583f07-cc74-48f3-b344-857460e26733.html">
-    <img class="flex-bottle" src="/images/04/583f07-cc74-48f3-b344-857460e26733/2022-11-26-11-17-52-31BE0828-CEC1-4451-8EDB-6732F608B946-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/04/583f07-cc74-48f3-b344-857460e26733/2022-11-26-11-17-52-31BE0828-CEC1-4451-8EDB-6732F608B946-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Cru Bourgeois Médoc - 2014</section>
   </a>

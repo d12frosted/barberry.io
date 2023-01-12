@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/5aabfcdf-f8be-4068-9524-b8cae5cedd3c.html">
-    <img class="flex-bottle" src="/images/5a/abfcdf-f8be-4068-9524-b8cae5cedd3c/2022-09-27-08-11-25-2431D944-4CE1-4DDE-9882-D5B99F06ECF4-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/5a/abfcdf-f8be-4068-9524-b8cae5cedd3c/2022-09-27-08-11-25-2431D944-4CE1-4DDE-9882-D5B99F06ECF4-1-105-c@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Pinot Noir - 2019</section>
   </a>

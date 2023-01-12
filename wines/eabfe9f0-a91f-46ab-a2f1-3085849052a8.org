@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/ea/bfe9f0-a91f-46ab-a2f1-3085849052a8/2020-08-29-18-34-20-7209BFF1-1A07-42B1-8B02-B885F750CB34-1-105-c.webp]]
+[[file:/images/ea/bfe9f0-a91f-46ab-a2f1-3085849052a8/2020-08-29-18-34-20-7209BFF1-1A07-42B1-8B02-B885F750CB34-1-105-c@512.webp]]
 
 - Type :: White Sparkling, Extra brut
 - Producer :: [[barberry:/producers/8e2a98ef-b32c-4957-a22e-b2e9b2e59c17][Charles Dufour]]
@@ -28,25 +28,25 @@ Ah, Champagne by Charles Dufour. Clean style, you would not even tell that it is
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/99daec77-ddce-424e-9096-45725882f2db.html">
-    <img class="flex-bottle" src="/images/99/daec77-ddce-424e-9096-45725882f2db/2021-05-15-12-05-46-BD8FF8AD-469A-410A-AE02-4A72B04A9702-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/99/daec77-ddce-424e-9096-45725882f2db/2021-05-15-12-05-46-BD8FF8AD-469A-410A-AE02-4A72B04A9702-1-105-c@512.webp"></img>
     <section class="h">Charles Dufour</section>
     <section class="h text-bolder">Bulles de Comptoir #9 Tradition - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e0415878-d4b9-4d57-ac83-42ff34f90f86.html">
-    <img class="flex-bottle" src="/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2023-01-07-11-23-24-B2E5262A-58BE-4C2F-9058-77421C477BE6-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/e0/415878-d4b9-4d57-ac83-42ff34f90f86/2023-01-07-11-23-24-B2E5262A-58BE-4C2F-9058-77421C477BE6-1-105-c@512.webp"></img>
     <section class="h">Charles Dufour</section>
     <section class="h text-bolder">Bulles de Comptoir #10 Tchin Tchin - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">
-    <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c@512.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
-    <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>

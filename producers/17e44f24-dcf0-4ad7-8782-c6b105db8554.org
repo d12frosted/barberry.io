@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/21a7106d-62e9-4f0c-8ba4-aa56493007a0.html">
-    <img class="flex-bottle" src="/images/21/a7106d-62e9-4f0c-8ba4-aa56493007a0/2022-07-27-07-15-36-87E5164E-6FA4-48B8-84DA-C68E96BAE06B-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/21/a7106d-62e9-4f0c-8ba4-aa56493007a0/2022-07-27-07-15-36-87E5164E-6FA4-48B8-84DA-C68E96BAE06B-1-105-c@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Vigna Pura Grillo - 2020</section>
   </a>

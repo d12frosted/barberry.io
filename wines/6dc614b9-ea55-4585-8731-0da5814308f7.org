@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248.webp]]
+[[file:/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/114302ea-341a-4631-ba59-18e9b0691b0c][Sarnin-Berrux]]
@@ -22,13 +22,13 @@ One of those red wines you could call rosé. Open bouquet driven by VA and red f
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/6827c49b-0da9-4160-b70f-a4aa17d65e62.html">
-    <img class="flex-bottle" src="/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c@512.webp"></img>
     <section class="h">Sarnin-Berrux</section>
     <section class="h text-bolder">Savigny-les-Beaune - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/94f7833a-ecc5-48c1-b41c-7272b4f38daf.html">
-    <img class="flex-bottle" src="/images/94/f7833a-ecc5-48c1-b41c-7272b4f38daf/2022-12-23-13-20-53-IMG-3972.webp"></img>
+    <img class="flex-bottle" src="/images/94/f7833a-ecc5-48c1-b41c-7272b4f38daf/2022-12-23-13-20-53-IMG-3972@512.webp"></img>
     <section class="h">Sous Le Végétal</section>
     <section class="h text-bolder">Livia - 2019</section>
   </a>

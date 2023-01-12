@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/47/0a1738-5cc3-4aac-a09a-7ab314af4c00/2021-12-23-08-38-50-1103030B-2C05-432E-A71B-913F1B559FC8-1-105-c.webp]]
+[[file:/images/47/0a1738-5cc3-4aac-a09a-7ab314af4c00/2021-12-23-08-38-50-1103030B-2C05-432E-A71B-913F1B559FC8-1-105-c@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/e9a07255-1376-4b70-bbf2-0d358bff215a][Feudi di San Gregorio]]
@@ -25,19 +25,19 @@ Better pair with some meat.
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/36363a35-2c36-48e7-982b-46efbd45b51f.html">
-    <img class="flex-bottle" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c@512.webp"></img>
     <section class="h">Feudi di San Gregorio</section>
     <section class="h text-bolder">Serpico - 2005</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e5bc457-cca9-4f42-befd-e11da153544a.html">
-    <img class="flex-bottle" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/9e/5bc457-cca9-4f42-befd-e11da153544a/2021-09-15-20-52-52-67942831-22C4-4F34-AA12-FF8DE339CF61-1-105-c@512.webp"></img>
     <section class="h">Feudi di San Gregorio</section>
     <section class="h text-bolder">Selve Di Luoti Taurasi - 1998</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c8184b57-41f6-4273-a8dc-7b0212e5a1fa.html">
-    <img class="flex-bottle" src="/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369.webp"></img>
+    <img class="flex-bottle" src="/images/c8/184b57-41f6-4273-a8dc-7b0212e5a1fa/2022-11-25-16-40-08-IMG-3369@512.webp"></img>
     <section class="h">Feudi di San Gregorio</section>
     <section class="h text-bolder">Taurasi - 2000</section>
   </a>

@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
-    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b8ee636c-0490-45a8-b652-02302932ae37.html">
-    <img class="flex-bottle" src="/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Nero Ossidiana - 2015</section>
   </a>

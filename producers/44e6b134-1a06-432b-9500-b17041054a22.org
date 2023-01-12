@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c931a809-fe62-41f4-9f5b-75f4fc3bafcc.html">
-    <img class="flex-bottle" src="/images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982.webp"></img>
+    <img class="flex-bottle" src="/images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982@512.webp"></img>
     <section class="h">★ 8.80</section>
     <section class="h text-bolder">Les Dévoilés - 2012</section>
   </a>

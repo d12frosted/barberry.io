@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/77c9050b-b263-42b6-9be5-df0cb2df52be.html">
-    <img class="flex-bottle" src="/images/77/c9050b-b263-42b6-9be5-df0cb2df52be/2022-11-14-21-24-40-72FC7AE0-969B-4B02-8D70-E43DCA4D416E-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/77/c9050b-b263-42b6-9be5-df0cb2df52be/2022-11-14-21-24-40-72FC7AE0-969B-4B02-8D70-E43DCA4D416E-1-105-c@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Primitivo Puglia Primasole - NV</section>
   </a>

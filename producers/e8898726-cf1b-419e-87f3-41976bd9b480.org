@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">
-    <img class="flex-bottle" src="/images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">El Chibirique - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8135d180-7cff-453f-b417-eea3746498d8.html">
-    <img class="flex-bottle" src="/images/81/35d180-7cff-453f-b417-eea3746498d8/2022-08-16-09-41-18-IMG-4769-e1559177556877.webp"></img>
+    <img class="flex-bottle" src="/images/81/35d180-7cff-453f-b417-eea3746498d8/2022-08-16-09-41-18-IMG-4769-e1559177556877@512.webp"></img>
     <section class="h">★ 7.40</section>
     <section class="h text-bolder">La Solana - 2017</section>
   </a>

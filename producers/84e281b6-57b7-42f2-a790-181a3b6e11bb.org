@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/d95d97ad-f3b4-4016-ba33-ae39b7865ff7.html">
-    <img class="flex-bottle" src="/images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750.webp"></img>
+    <img class="flex-bottle" src="/images/d9/5d97ad-f3b4-4016-ba33-ae39b7865ff7/2022-12-14-07-56-54-IMG-3750@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Savigny-Lés-Beaune La Dominode 1er Cru - 2014</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
-    <img class="flex-bottle" src="/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Échezeaux - 2013</section>
   </a>

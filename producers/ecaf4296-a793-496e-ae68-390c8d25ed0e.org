@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">
-    <img class="flex-bottle" src="/images/b0/1e1456-ec9c-4ba4-ab6e-b8f05530b1ef/2022-07-30-10-53-36-C46E4A6F-75F3-4654-A3F5-002F8711F208-1-105-c.webp"></img>
+    <img class="flex-bottle" src="/images/b0/1e1456-ec9c-4ba4-ab6e-b8f05530b1ef/2022-07-30-10-53-36-C46E4A6F-75F3-4654-A3F5-002F8711F208-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Le Haut-Lieu Sec - 2017</section>
   </a>

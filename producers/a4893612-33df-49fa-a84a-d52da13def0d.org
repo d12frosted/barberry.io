@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/d4f21a37-7537-46d1-9142-0ee459b8bf02.html">
-    <img class="flex-bottle" src="/images/d4/f21a37-7537-46d1-9142-0ee459b8bf02/2022-09-26-18-42-31-DB837F38-8F96-4AF3-9087-7F197D8061AD-1-102-o.webp"></img>
+    <img class="flex-bottle" src="/images/d4/f21a37-7537-46d1-9142-0ee459b8bf02/2022-09-26-18-42-31-DB837F38-8F96-4AF3-9087-7F197D8061AD-1-102-o@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Joven Trousseau - 2018</section>
   </a>
