@@ -121,7 +121,8 @@ HARD-DEPS. But in this case these are functions on
                                  (file-name-base (porg-rule-output-file note-output)))))
                       (concat "images/" name)))
              :file-mod (list (-rpartial #'file-name-fix-attachment "webp") (-rpartial #'file-name-fix-attachment "jpeg"))
-             :filter (or attach-filter #'brb-supported-image-p)))
+             :filter (or attach-filter #'brb-supported-image-p)
+             :variants '(512 256)))
            (outputs-extra (when outputs-extra (funcall outputs-extra note-output))))
       (-concat attachments-output
                outputs-extra
@@ -1080,7 +1081,7 @@ init file."
    :hash #'brb-sha1sum-attachment
    :build
    (lambda (item _items _cache)
-     (let ((max-width 960)
+     (let ((max-width (or (plist-get (porg-item-extra-args item) :variant) 960))
            (width (string-to-number
                    (shell-command-to-string
                     (format "identify -format %%W '%s'" (porg-item-item item))))))
