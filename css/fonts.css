@@ -1,73 +1,73 @@
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5fFPmE0.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/fonts/5aUz9_-1phKLFgshYDvh6Vwt3V0.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5alOmE0.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5eFImE0.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'M PLUS Rounded 1c';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psK.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'M PLUS Rounded 1c';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/fonts/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWG.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'M PLUS Rounded 1c';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y55sK.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'M PLUS Rounded 1c';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064ZsK.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/fonts/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTbI1rSQ.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/fonts/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf) format('truetype');
-}
+/* @font-face { */
+/*   font-family: 'Alegreya Sans'; */
+/*   font-style: normal; */
+/*   font-weight: 300; */
+/*   font-display: swap; */
+/*   src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5fFPmE0.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'Alegreya Sans'; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   font-display: swap; */
+/*   src: url(/fonts/5aUz9_-1phKLFgshYDvh6Vwt3V0.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'Alegreya Sans'; */
+/*   font-style: normal; */
+/*   font-weight: 500; */
+/*   font-display: swap; */
+/*   src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5alOmE0.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'Alegreya Sans'; */
+/*   font-style: normal; */
+/*   font-weight: 700; */
+/*   font-display: swap; */
+/*   src: url(/fonts/5aUu9_-1phKLFgshYDvh6Vwt5eFImE0.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'M PLUS Rounded 1c'; */
+/*   font-style: normal; */
+/*   font-weight: 300; */
+/*   font-display: swap; */
+/*   src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psK.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'M PLUS Rounded 1c'; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   font-display: swap; */
+/*   src: url(/fonts/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWG.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'M PLUS Rounded 1c'; */
+/*   font-style: normal; */
+/*   font-weight: 500; */
+/*   font-display: swap; */
+/*   src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y55sK.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'M PLUS Rounded 1c'; */
+/*   font-style: normal; */
+/*   font-weight: 700; */
+/*   font-display: swap; */
+/*   src: url(/fonts/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064ZsK.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'Source Code Pro'; */
+/*   font-style: italic; */
+/*   font-weight: 400; */
+/*   font-display: swap; */
+/*   src: url(/fonts/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTbI1rSQ.ttf) format('truetype'); */
+/* } */
+/* @font-face { */
+/*   font-family: 'Source Code Pro'; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   font-display: swap; */
+/*   src: url(/fonts/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf) format('truetype'); */
+/* } */
 @font-face {
   font-family: 'Material Symbols Outlined';
   font-style: normal;
