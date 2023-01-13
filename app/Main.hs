@@ -17,6 +17,7 @@ import Site.ChartJS.Parse
 import Site.ChartJS.Render
 import Site.Web.Template.Context (modificationDateField)
 import qualified Site.WinesTable as WinesTable
+import System.FilePath (dropExtension, takeExtension)
 import Text.Pandoc (Block (..), Cell (..), Inline (..), Pandoc (..), Row (..), TableBody (..))
 import Text.Pandoc.Shared (mapLeft, stringify)
 import Text.Pandoc.Walk
@@ -195,7 +196,7 @@ producerCtx =
 pandoncTrasnformM :: Pandoc -> Compiler Pandoc
 pandoncTrasnformM =
   convertBarberryLinks
-    <=< (pure . wrapTables . processTastingScores . WinesTable.convert)
+    <=< (pure . wrapTables . processBottleImages . processTastingScores . WinesTable.convert)
     <=< embedChartJS . standartizeStars
 
 customPandocCompiler :: Compiler (Item String)
@@ -289,6 +290,16 @@ processTastingScores = walk $ \case
             Strikeout _ -> Any True
             _ -> mempty
   b -> b
+
+processBottleImages :: Pandoc -> Pandoc
+processBottleImages = walk $ \case
+  Image a@(_, _, kvs) is (urlRaw, title)
+    | ("class", "bottle-right") `elem` kvs ->
+      Image a is (urlRaw', title)
+    where
+      urlRawStr = T.unpack urlRaw
+      urlRaw' = T.pack $ dropExtension urlRawStr <> "@512" <> takeExtension urlRawStr
+  i -> i
 
 --------------------------------------------------------------------------------
 
