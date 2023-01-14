@@ -66,7 +66,12 @@ convert = walk go . embedImport
         kvs' = [("data-sortable", "true"), ("data-field", field), ("data-sorter", sorter)] <> kvs
         field = stringify bs
         sorter = case field of
+          "vintage" -> "vintageSorter"
           "rate" -> "ratingSorter"
+          "amean" -> "ratingSorter"
+          "rms" -> "ratingSorter"
+          "QPR" -> "ratingSorter"
+          "price" -> "ratingSorter"
           "producer" -> "htmlSorter"
           "name" -> "htmlSorter"
           _ -> "strSorter"
@@ -109,6 +114,12 @@ ratingSorter =
 function ratingSorter(a, b) {
   const aa = a == '-' ? 0 : parseFloat(a);
   const bb = b == '-' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function vintageSorter(a, b) {
+  const aa = a == 'NV' ? 0 : parseFloat(a);
+  const bb = b == 'NV' ? 0 : parseFloat(b);
   return aa - bb;
 }
 
