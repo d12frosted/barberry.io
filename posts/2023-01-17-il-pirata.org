@@ -39,7 +39,7 @@
 - vintage: 2019
 - grapes: Carricante
 - appellation: IGP Terre Siciliane
-- location: Ragusa province, Southern-West Sicily, Italy
+- location: Ragusa province, Southern-Eastern Sicily, Italy
 - alcohol: 12.5
 - sugar: N/A
 - price: 908 UAH
@@ -63,7 +63,7 @@ Enough of food for your fantasies. Carjcanti is 100% Carricante from Vigna Campo
 - vintage: 2017
 - grapes: Zibibbo, Albanella
 - appellation: IGP Terre Siciliane
-- location: Vittoria, Ragusa province, Southern-West Sicily, Italy
+- location: Vittoria, Ragusa province, South-Eastern Sicily, Italy
 - alcohol: 12
 - sugar: 0
 - price: 836 UAH
@@ -89,7 +89,7 @@ It's a 60-40 blend of Zibibbo and Albanello from 15 years old vines growing on r
 - vintage: 2013
 - grapes: Frappato
 - appellation: IGP Terre Siciliane
-- location: Vittoria, Ragusa province, Southern-West Sicily, Italy
+- location: Vittoria, Ragusa province, South-Eastern Sicily, Italy
 - alcohol: 13
 - sugar: 0.2
 - price: 2890 UAH
@@ -107,6 +107,32 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 #+end_quote
 
 Il Frappato is 100% Frappato from 40-years old vines growing on red sands and chalk soils. The grapes are destemmed and macerated for 30 days and then aged for 14 months in large 25hl Slavonian oak barrels.
+
+* Girolamo Russo Etna Rosso San Lorenzo 2017
+:PROPERTIES:
+:ID:                     e75338d1-17ec-4026-a0e4-a64185e1bb29
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-01-17-il-pirata/2022-11-25-16-47-20-IMG-3379.webp]]
+
+- producer: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
+- name: [[barberry:/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82][Etna Rosso San Lorenzo]]
+- vintage: 2017
+- grapes: Nerello Mascalese
+- appellation: Etna DOC
+- location: Sicily, Italy
+- alcohol: 14.5
+- sugar: 1
+- price: 1578 UAH
+
+#+begin_quote
+Making wine on the slopes of Mount Etna is an intensely personal, profound and ongoing act of love.
+#+end_quote
+
+Mount Etna. Crazy winemaking region with its charm, elegance, beauty, and, most importantly, character. A place to visit, to fall in love with, and stay for the rest of your life. Yet some are 'lucky' to be affiliated with this place. Giuseppe Russo, a graduate of Humanities with a Diploma in piano, re-established the family winery in 2005 and dedicated it to the memory of the late father, Girolamo. Their vineyards cover 18 hectares, surrounded by hazelnut and olive groves.
+
+San Lorenzo is set outside Randazzo on the lower slopes of the volcano, 700 to 800 meters above sea level. The contrada is named after the cult of St. Lawrence. The wine is a blend of Nerello Mascalese with a tiny bit of Nerello Cappuccio. The 70 to 100 years old vines grow on volcanic (who would guess?) and sandy soils rich in minerals. Spontaneously fermented with indigenous yeasts. Macerated for 15 days and aged for 18 months in used 2600L oak casks. A relatively tiny production, only 4000 bottles yearly.
 
 * Scores
 :PROPERTIES:
@@ -152,4 +178,6 @@ How to read this table:
 - https://www.agricolaocchipinti.it/
 - https://www.gulfi.it/
 - https://www.villaromanadelcasale.it/wp-content/uploads/2021/07/guida_042012_ENG.pdf
+- https://www.cosvittoria.it/
+- https://www.girolamorusso.it/
 
