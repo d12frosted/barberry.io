@@ -37,7 +37,7 @@ convert = walk go . embedImport
             importJQuery :
             importBootstrapTable :
             importBootstrapTableTheme :
-            ratingSorter :
+            sorters :
             bs
         else p
 
@@ -106,8 +106,8 @@ importBootstrapTableTheme =
 
 --------------------------------------------------------------------------------
 
-ratingSorter :: Block
-ratingSorter =
+sorters :: Block
+sorters =
   htmlToBlock . H.script . H.toHtml
     . J.renderJavascript
     $ [J.julius|
