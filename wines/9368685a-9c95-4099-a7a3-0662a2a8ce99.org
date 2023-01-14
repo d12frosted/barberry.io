@@ -24,7 +24,7 @@ Il Frappato stems from a dream which I had when I was a girl to make a wine that
 
 ** Producer
 
-Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. She embraced winemaking thanks to her uncle, Guisto Occhipinto, proprietor of Vittoria's most famous winery, [[barberry:/producers/512e0678-4812-4cee-b090-911416bcc0e2][COS]]. At the age of 16 years, Arianna started to help him in the cellars. She loved this experience so much that her future connected to wine tightly.
+Arianna Occhipinti is a winemaker from Vittoria who founded her own winery in 2004, bottled her first commercial vintage in 2006 and today works exclusively with estate fruit. She embraced winemaking thanks to her uncle, Guisto Occhipinti, proprietor of Vittoria's most famous winery, [[barberry:/producers/512e0678-4812-4cee-b090-911416bcc0e2][COS]]. At the age of 16 years, Arianna started to help him in the cellars. She loved this experience so much that her future connected to wine tightly.
 
 After graduating from oenology school, Arianna started with only 1 hectare of abandoned vines attached to a family vacation house. Over the years, she acquired 25 hectares featuring only autochthonous varieties - 50% Frappato, 35% Nero d'Avola and 15% white varieties Albanello and Zibibbo. Almost all vines are young because Arianna planted them on her own. But she also added to her holdings 60 years old albarello-trained vines, which she initially rented.
 
@@ -168,7 +168,13 @@ Bottle variation. Restrained nose with pomegranate, red forest berries, red flow
     <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+    <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>

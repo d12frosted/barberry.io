@@ -1,0 +1,38 @@
+{
+  "id": "c6e93c22-1347-4a00-b532-346948f9b6e8",
+  "name": "Cerasuolo di Vittoria Classico",
+  "full-name": "COS Cerasuolo di Vittoria Classico 2012",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1852 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c.webp",
+  "rating": "8.75"
+}

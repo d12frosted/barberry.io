@@ -3,6 +3,30 @@
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+    <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
+    <section class="h">★ 8.75</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
+    <img class="flex-bottle" src="/images/f9/13a858-7eb0-4dfb-9adf-cd5c431db7cd/IMG-1236@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8eb40a5f-dcc7-4e39-8a70-da38e5d6124c.html">
+    <img class="flex-bottle" src="/images/8e/b40a5f-dcc7-4e39-8a70-da38e5d6124c/2021-08-14-09-54-47-B7D86A6C-FF77-43F6-A473-175414F31B89-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">★ 7.50</section>

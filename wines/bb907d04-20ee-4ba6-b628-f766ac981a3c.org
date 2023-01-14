@@ -73,7 +73,13 @@ Tasted as part of Il Pirata event.
     <section class="h text-bolder">Sucette - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+    <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
