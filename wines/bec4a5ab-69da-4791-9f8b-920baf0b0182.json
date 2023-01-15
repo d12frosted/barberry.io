@@ -1,0 +1,46 @@
+{
+  "id": "bec4a5ab-69da-4791-9f8b-920baf0b0182",
+  "name": "Mataborricos",
+  "full-name": "Comando G Mataborricos 2018",
+  "producer": {
+    "id": "eb753c76-29ab-4f89-b74e-657273987239",
+    "name": "Comando G"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "7583dfdd-f583-4375-add5-ad9fcd37f8f6",
+      "name": "Listán Prieto"
+    },
+    {
+      "id": "8b3c1e99-48b0-4039-9043-69c0addb6bed",
+      "name": "Moreto"
+    },
+    {
+      "id": "072fe1f0-b805-4e2a-8de8-9aba12cabace",
+      "name": "Vidadillo"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "870 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/be/c4a5ab-69da-4791-9f8b-920baf0b0182/2023-01-15-13-05-16-BB40B07E-3027-4112-A947-4C7C37D7CCF6-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,61 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/1405b4d4-44cc-4685-a471-94fd20d248e8][Niepoort Vinhos S.A.]]
+- Vintage :: 2015
+- Location :: Portugal, Dão DOC
+- Grapes :: Baga, Mencía
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 1059 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-10-27 - ☆ 7.25
+
+Blend of Baga and Jaen do Dão (aka Mencía). Intense bouquet full of ripe and even slightly dried black berries with coffee and spices. Medium-high tannin, medium acidity and long aftertaste with flavours of sweet cherry. Interesting wine, though tannin is kind of out of place.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8126fedf-6edb-4b87-82d9-cb73909ba305.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Niepoort Vinhos S.A.</section>
+    <section class="h text-bolder">Drink Me Nat Cool - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fbd206d0-43dc-4c8f-8102-1db37590536c.html">
+    <img class="flex-bottle" src="/images/fb/d206d0-43dc-4c8f-8102-1db37590536c/2023-01-15-13-01-14-8C6BBBF7-F8B2-4E98-8D92-021F7A66DFAD-1-105-c@512.webp"></img>
+    <section class="h">Niepoort Vinhos S.A.</section>
+    <section class="h text-bolder">Tiara - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a.html">
+    <img class="flex-bottle" src="/images/2f/91824d-cecb-4c83-b755-ac3b70f9936a/2022-09-06-16-35-28-IMG-2035@512.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Qvevri 'Don Alfio' - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a46400f7-709a-46b8-b152-45e50afb9c85.html">
+    <img class="flex-bottle" src="/images/a4/6400f7-709a-46b8-b152-45e50afb9c85/2021-10-27-23-41-45-043C5ABF-8BB4-4996-9E2F-A42DE1A5724B-1-105-c@512.webp"></img>
+    <section class="h">Envínate</section>
+    <section class="h text-bolder">Lousas Camino Nuovo - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cf948cb2-a538-43da-926a-cd71b4bb5705.html">
+    <img class="flex-bottle" src="/images/cf/948cb2-a538-43da-926a-cd71b4bb5705/2021-10-27-23-53-27-91550E9B-BD38-4027-8EDE-5463810E5BDA-1-105-c@512.webp"></img>
+    <section class="h">Raúl Pérez</section>
+    <section class="h text-bolder">Ultreia De Valtuille - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fb91e16d-8906-41ed-9435-16035830271c.html">
+    <img class="flex-bottle" src="/images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Cortezada - 2017</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,38 @@
+{
+  "id": "e1bc4959-83cb-4d69-87ee-432e65600d41",
+  "name": "Conciso Tinto",
+  "full-name": "Niepoort Vinhos S.A. Conciso Tinto 2015",
+  "producer": {
+    "id": "1405b4d4-44cc-4685-a471-94fd20d248e8",
+    "name": "Niepoort Vinhos S.A."
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "984fc88b-636e-4685-a3dd-c8a03e3b3d3f",
+      "name": "Baga"
+    },
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1059 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.25"
+}

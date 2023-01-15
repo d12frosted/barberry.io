@@ -1,0 +1,46 @@
+{
+  "id": "fbd206d0-43dc-4c8f-8102-1db37590536c",
+  "name": "Tiara",
+  "full-name": "Niepoort Vinhos S.A. Tiara 2017",
+  "producer": {
+    "id": "1405b4d4-44cc-4685-a471-94fd20d248e8",
+    "name": "Niepoort Vinhos S.A."
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "6406ccfc-ae9e-4238-a56b-a4937e37372e",
+      "name": "Donzelinho branco"
+    },
+    {
+      "id": "fb1e4dcc-6fcf-4471-a1c4-03c8a04ba0a3",
+      "name": "Côdega do Larinho"
+    },
+    {
+      "id": "de699365-7ba9-49ee-b17f-4c6650c42e0e",
+      "name": "Rabigato"
+    },
+    {
+      "id": "9533c730-0f45-46f3-8c3a-6ffa2ce88f87",
+      "name": "Cerceal"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "868 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/fb/d206d0-43dc-4c8f-8102-1db37590536c/2023-01-15-13-01-14-8C6BBBF7-F8B2-4E98-8D92-021F7A66DFAD-1-105-c.webp",
+  "rating": "NA"
+}
