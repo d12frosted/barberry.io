@@ -1,0 +1,40 @@
+{
+  "id": "bce1234e-d6c3-49f0-8ef3-804ada6a56ec",
+  "name": "Ramí",
+  "full-name": "COS Ramí 2019",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb51e2e2-1332-45f0-9578-28a0107e08d8",
+      "name": "Inzolia"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "1790 UAH",
+    "918 UAH",
+    "692 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395.webp",
+  "rating": "7.5"
+}

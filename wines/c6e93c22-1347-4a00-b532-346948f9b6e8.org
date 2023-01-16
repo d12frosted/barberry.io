@@ -35,37 +35,43 @@ Lovely mixture of "calaurisi" and "rrappato" with notes of cherry, red flowers, 
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
+  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+    <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Ramí - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
     <img class="flex-bottle" src="/images/f9/13a858-7eb0-4dfb-9adf-cd5c431db7cd/IMG-1236@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
-    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2020-07-29-21-35-36-53314327-03F0-4AA8-8CBE-27FC6FF9B0B4-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+  <a class="flex-item flex-item-left" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
     <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Castellaro</section>
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
     <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>

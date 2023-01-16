@@ -113,13 +113,19 @@ Wine #1 on [[barberry:/posts/2022-09-27-mixed-bag][Mixed Bag Vol. 4]].
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634.html">
+  <a class="flex-item flex-item-right" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+    <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Ramí - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634.html">
     <img class="flex-bottle" src="/images/c7/e09e22-d7a5-4ce2-82ef-7cacb1fb2634/2022-09-02-09-30-54-D9D47279-5BF2-4A51-AC24-05B6E5821A3F-1-105-c@512.webp"></img>
     <section class="h">Patrick Sullivan</section>
     <section class="h text-bolder">Baw Baw Shire Ada River Chardonnay - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
+  <a class="flex-item flex-item-right" href="/wines/ddff653a-4abb-4715-b2d3-82c7e06171df.html">
     <img class="flex-bottle" src="/images/dd/ff653a-4abb-4715-b2d3-82c7e06171df/2022-06-09-21-52-59-IMG-0377@512.webp"></img>
     <section class="h">Sous Le Végétal</section>
     <section class="h text-bolder">Palli et Genesia - 2018</section>
