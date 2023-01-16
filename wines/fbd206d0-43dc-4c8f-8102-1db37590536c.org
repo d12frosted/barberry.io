@@ -22,13 +22,13 @@ A blend of rare grapes (Donzelinho Branco, Côdega do Larinho, Rabigato, and Cer
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8126fedf-6edb-4b87-82d9-cb73909ba305.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/81/26fedf-6edb-4b87-82d9-cb73909ba305/2022-01-13-09-33-00-65B5E8D3-412E-4DA8-B120-C3DC151302B2-1-105-c@512.webp"></img>
     <section class="h">Niepoort Vinhos S.A.</section>
     <section class="h text-bolder">Drink Me Nat Cool - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e1bc4959-83cb-4d69-87ee-432e65600d41.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/e1/bc4959-83cb-4d69-87ee-432e65600d41/2021-10-27-23-33-51-253F1DEA-B9CE-43E7-AC87-F5C9016CA7F6-1-105-c@512.webp"></img>
     <section class="h">Niepoort Vinhos S.A.</section>
     <section class="h text-bolder">Conciso Tinto - 2015</section>
   </a>
@@ -45,13 +45,19 @@ A blend of rare grapes (Donzelinho Branco, Côdega do Larinho, Rabigato, and Cer
     <section class="h text-bolder">Cuvée Marguerite - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
+  <a class="flex-item flex-item-left" href="/wines/bec4a5ab-69da-4791-9f8b-920baf0b0182.html">
+    <img class="flex-bottle" src="/images/be/c4a5ab-69da-4791-9f8b-920baf0b0182/2023-01-15-13-05-16-BB40B07E-3027-4112-A947-4C7C37D7CCF6-1-105-c@512.webp"></img>
+    <section class="h">Comando G</section>
+    <section class="h text-bolder">Mataborricos - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
     <img class="flex-bottle" src="/images/e4/0c45c4-aeab-47b0-bc9c-8a2e36223063/2023-01-15-12-53-26-DBB846DE-1E18-44DC-83A8-7FF8F0F690FF-1-105-c@512.webp"></img>
     <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Frizzante ...Naturalmente L0621 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fe31f20b-c157-490f-a92c-663b755d4383.html">
+  <a class="flex-item flex-item-left" href="/wines/fe31f20b-c157-490f-a92c-663b755d4383.html">
     <img class="flex-bottle" src="/images/fe/31f20b-c157-490f-a92c-663b755d4383/2023-01-15-12-58-17-71910068-B787-4ADF-918E-D6CB7BA15C11-1-105-c@512.webp"></img>
     <section class="h">Dominuque Gruhier</section>
     <section class="h text-bolder">Domaine de L'Abbaye du Petit Quincy Bourgogne Epineuil Côte de Grisey - 2016</section>

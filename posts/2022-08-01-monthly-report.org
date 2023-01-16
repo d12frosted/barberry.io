@@ -36,7 +36,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 |----------------+-------+--------------+-------+--------|
 | Italy          |    22 | 915.75 UAH   |  7.81 | 2.7100 |
 | Spain          |    17 | 837.93 UAH   |  7.44 | 2.9798 |
-| France         |    12 | 1 635.64 UAH |  8.10 | 2.1177 |
+| France         |    12 | 1 647.49 UAH |  8.10 | 2.1164 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
 | Australia      |     5 | 1 002.11 UAH |  7.82 | 2.2731 |
 | Germany        |     4 | 900.36 UAH   |  7.91 | 2.8480 |
@@ -80,7 +80,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |    2013 |     1 | 1 596.61 UAH |  8.80 | 2.7933 |
 |    2009 |     1 | 897.57 UAH   |  8.50 | 3.9230 |
 |    1997 |     1 | 1 408.00 UAH |  8.60 | 2.7044 |
-|      NV |    15 | 996.10 UAH   |  7.23 | 2.5805 |
+|      NV |    15 | 1 005.57 UAH |  7.23 | 2.5797 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -103,7 +103,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
 | Pinot Noir                   |    12 | 1 219.80 UAH |  7.88 | 2.6206 |
-| Chardonnay                   |    12 | 890.48 UAH   |  7.35 | 2.9663 |
+| Chardonnay                   |    12 | 902.33 UAH   |  7.35 | 2.9654 |
 | Xarel-lo                     |     5 | 383.45 UAH   |  6.77 | 3.4737 |
 | Macabeo                      |     5 | 360.26 UAH   |  6.66 | 3.4760 |
 | Malvasia di Candia Aromatica |     4 | 1 149.29 UAH |  7.92 | 2.6115 |
@@ -310,7 +310,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-15 | Ukraine        | [[barberry:/producers/b5174081-18ee-4abd-8964-971a4439e44b][Prince Trubetskoi Winery]] | [[barberry:/wines/5d1362c2-a73e-4d28-ba46-650254235397][Prince Trubetskoi Winery Blanc de Blancs 2017]] |    2017 | 5.50 | 0.7898 |
 | 2022-07-15 | Italy          | [[barberry:/producers/38510d0a-7ae8-4409-bfbc-a3a5d9552ecf][Ca Dei Zago]]              | [[barberry:/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06][Ca Dei Zago Valdobbiadene Metodo Classico Dosaggio Zero 2018]] |    2018 | 7.40 | 1.4697 |
 | 2022-07-15 | France         | [[barberry:/producers/19e67244-0219-4309-bd91-d790aefd5a3f][Hudelot-Noëllat]]          | [[barberry:/wines/61c7931d-0fce-40c1-9569-934fe0059dc1][Hudelot-Noëllat Bourgogne Pinot Noir 2019]] |    2019 | 8.00 | 2.2140 |
-| 2022-07-15 | France         | [[barberry:/producers/1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5][Jacques Lassaigne]]        | [[barberry:/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada][Jacques Lassaigne La Colline Inspirée NV]] |      NV | 8.00 | 0.8304 |
+| 2022-07-15 | France         | [[barberry:/producers/1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5][Jacques Lassaigne]]        | [[barberry:/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada][Jacques Lassaigne La Colline Inspirée NV]] |      NV | 8.00 | 0.7915 |
 | 2022-07-15 | Hungary        | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                   | [[barberry:/wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64][Hummel Karašica PetNat Hárslevelű 2020]] |    2020 | 7.50 | 1.9745 |
 | 2022-07-15 | France         | [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]]            | [[barberry:/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33][Ulysse Collin Les Maillons Blanc de Noirs Extra Brut (2017) NV]] |      NV | 9.00 | 1.1632 |
 | 2022-07-15 | Italy          | [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]              | [[barberry:/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471][Cà del Vént Sogno Blanc de Blancs Pas Operé 2014]] |    2014 | 8.50 | 1.9671 |
