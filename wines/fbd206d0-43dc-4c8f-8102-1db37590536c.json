@@ -1,7 +1,7 @@
 {
   "id": "fbd206d0-43dc-4c8f-8102-1db37590536c",
-  "name": "Tiara",
-  "full-name": "Niepoort Vinhos S.A. Tiara 2017",
+  "name": "Tiara Branco",
+  "full-name": "Niepoort Vinhos S.A. Tiara Branco 2017",
   "producer": {
     "id": "1405b4d4-44cc-4685-a471-94fd20d248e8",
     "name": "Niepoort Vinhos S.A."
@@ -40,7 +40,7 @@
   "prices": [
     "868 UAH"
   ],
-  "available": 3.0,
+  "available": 0.0,
   "image": "images/fb/d206d0-43dc-4c8f-8102-1db37590536c/2023-01-15-13-01-14-8C6BBBF7-F8B2-4E98-8D92-021F7A66DFAD-1-105-c.webp",
-  "rating": "NA"
+  "rating": "7.25"
 }

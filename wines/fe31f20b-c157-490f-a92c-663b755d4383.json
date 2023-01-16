@@ -1,10 +1,10 @@
 {
   "id": "fe31f20b-c157-490f-a92c-663b755d4383",
-  "name": "Bourgogne Epineuil Côte de Grisey",
+  "name": "Domaine de L'Abbaye du Petit Quincy Bourgogne Epineuil Côte de Grisey",
   "full-name": "Domaine Gruhier Bourgogne Epineuil Côte de Grisey 2016",
   "producer": {
-    "id": "63c2d6b4-e843-4f12-a766-1db38239eb20",
-    "name": "Domaine Gruhier"
+    "id": "710b44e2-6c39-49eb-ba99-652475dfab10",
+    "name": "Dominuque Gruhier"
   },
   "vintage": "2016",
   "base-vintage": null,
@@ -28,7 +28,7 @@
   "prices": [
     "2398 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/fe/31f20b-c157-490f-a92c-663b755d4383/2023-01-15-12-58-17-71910068-B787-4ADF-918E-D6CB7BA15C11-1-105-c.webp",
-  "rating": "NA"
+  "rating": "7.5"
 }
