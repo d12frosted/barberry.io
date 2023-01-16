@@ -1,0 +1,39 @@
+{
+  "id": "cd0eb8ce-b498-4518-836c-206f4db1367b",
+  "name": "CHT Chardonnay Torrontes",
+  "full-name": "Callia CHT Chardonnay Torrontes 2021",
+  "producer": {
+    "id": "0bcb504f-ec99-41c0-8169-555c7e6cd2c4",
+    "name": "Callia"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "0497b784-e633-436a-ab78-dd931ce9b072",
+      "name": "Torrontés"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "253 UAH",
+    "288 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/cd/0eb8ce-b498-4518-836c-206f4db1367b/2023-01-16-16-50-37-IMG-4376.webp",
+  "rating": "NA"
+}

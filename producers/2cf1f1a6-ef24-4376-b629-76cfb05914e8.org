@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176.html">
+    <img class="flex-bottle" src="/images/cc/6e12e2-3df7-4230-a784-5d7a19b9b176/2023-01-16-16-12-46-IMG-4325@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Galantas Gran Reserva - 2018</section>
+  </a>
+
+</div>
+#+end_export

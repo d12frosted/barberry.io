@@ -1,0 +1,43 @@
+{
+  "id": "6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff",
+  "name": "Kindeli Otoño",
+  "full-name": "Alex Craighead Kindeli Otoño 2021",
+  "producer": {
+    "id": "9880c5f6-e77b-4171-9e0f-069b9c4fcae0",
+    "name": "Alex Craighead"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "860 UAH",
+    "977 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6f/9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff/2023-01-16-16-32-04-IMG-4351.webp",
+  "rating": "NA"
+}

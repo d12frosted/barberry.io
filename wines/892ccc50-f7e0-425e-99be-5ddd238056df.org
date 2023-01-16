@@ -129,5 +129,11 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Ace of Spades Les Myrs - 2021</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6.html">
+    <img class="flex-bottle" src="/images/fa/8be8c9-7ba9-489b-bb4f-09401d3c6bd6/2023-01-16-16-14-21-IMG-4327@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Olla Blanc - 2021</section>
+  </a>
+
 </div>
 #+end_export

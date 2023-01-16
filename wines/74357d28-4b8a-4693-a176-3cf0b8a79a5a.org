@@ -8,8 +8,8 @@
 - Grapes :: Montepulciano, Sangiovese
 - Alcohol :: 13.5
 - Sugar :: 1
-- Price :: 413 UAH
-- Cellar :: N/A
+- Price :: 413 UAH, 470 UAH
+- Cellar :: 2 bottles
 
 ** Ratings
 
@@ -25,6 +25,12 @@ It's a nice and relatively funky Marche Rosso. It offers a beautiful and sweet m
     <img class="flex-bottle" src="/images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2022-11-15-17-09-46-IMG-3192@512.webp"></img>
     <section class="h">Fattoria San Lorenzo</section>
     <section class="h text-bolder">Vino Rosato di Vera - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f677f3f4-c6a4-43e9-9872-b4dd8efa9707.html">
+    <img class="flex-bottle" src="/images/f6/77f3f4-c6a4-43e9-9872-b4dd8efa9707/2023-01-16-16-48-50-IMG-4380@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Bianco di Gino - 2021</section>
   </a>
 
 </div>

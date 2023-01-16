@@ -1,0 +1,35 @@
+{
+  "id": "7f805a08-23ec-44bb-8542-316c2c0b861a",
+  "name": "Miranius",
+  "full-name": "Celler Credo Miranius 2021",
+  "producer": {
+    "id": "4108850c-f630-467f-98c0-bbbf9edd63f5",
+    "name": "Celler Credo"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.5",
+  "prices": [
+    "550 UAH",
+    "625 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7f/805a08-23ec-44bb-8542-316c2c0b861a/2023-01-16-16-39-36-IMG-4362.webp",
+  "rating": "NA"
+}

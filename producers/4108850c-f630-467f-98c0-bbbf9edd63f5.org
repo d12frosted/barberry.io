@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
+    <img class="flex-bottle" src="/images/7f/805a08-23ec-44bb-8542-316c2c0b861a/2023-01-16-16-39-36-IMG-4362@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Miranius - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5ec0f776-6f1c-498c-91a2-49113781200a.html">
+    <img class="flex-bottle" src="/images/5e/c0f776-6f1c-498c-91a2-49113781200a/2023-01-16-16-37-35-IMG-4360@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Volaina - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,47 @@
+{
+  "id": "02f99618-1f5f-42e8-9e45-3d8f55664f4d",
+  "name": "Catavela",
+  "full-name": "Denavolo Catavela 2021",
+  "producer": {
+    "id": "53e31c1f-70b3-4504-897d-fe020167f48c",
+    "name": "Denavolo"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "66fcf1da-06da-4177-9ec3-66d12e070dc6",
+      "name": "Ortrugo"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    },
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "8",
+  "prices": [
+    "690 UAH",
+    "607 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/02/f99618-1f5f-42e8-9e45-3d8f55664f4d/2023-01-16-16-19-14-IMG-4336.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c5/fc299b-cd69-40ba-844c-175b7b4f0206/2023-01-16-16-41-13-IMG-4364@512.webp]]
+
+- Type :: White Still, Semi dry
+- Producer :: [[barberry:/producers/269e5124-0361-4c4c-932d-ea4b91d5163b][Marlborough Sun]]
+- Vintage :: 2020
+- Location :: New Zealand, Marlborough
+- Grapes :: Riesling
+- Alcohol :: 10.5
+- Sugar :: 12
+- Price :: 381 UAH, 433 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+It's actually one of the projects of [[barberry:/producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11][Saint Clair]].
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">
+    <img class="flex-bottle" src="/images/b1/7345a2-36ee-4fdf-b083-fc6019941931/2022-06-05-09-59-11-A1EBA301-EC08-4D59-BB9B-4592CE6633A8-1-105-c@512.webp"></img>
+    <section class="h">Marlborough Sun</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2020</section>
+  </a>
+
+</div>
+#+end_export

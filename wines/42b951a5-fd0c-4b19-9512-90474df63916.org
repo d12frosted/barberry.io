@@ -31,25 +31,31 @@ This review exists only to confirm my previous notes after consuming several bot
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/da4b9699-fa88-4058-a013-214e9e2f5cc5.html">
-    <img class="flex-bottle" src="/images/da/4b9699-fa88-4058-a013-214e9e2f5cc5/2023-01-05-08-34-06-BCF8ED44-5604-46BD-9C54-12268E4C70AF-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/47638fe3-31a8-4161-88f5-89c994bc635e.html">
+    <img class="flex-bottle" src="/images/47/638fe3-31a8-4161-88f5-89c994bc635e/2023-01-16-16-26-38-IMG-4342@512.webp"></img>
+    <section class="h">Peixes</section>
+    <section class="h text-bolder">Camándula - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/da4b9699-fa88-4058-a013-214e9e2f5cc5.html">
+    <img class="flex-bottle" src="/images/da/4b9699-fa88-4058-a013-214e9e2f5cc5/2023-01-16-16-19-52-IMG-4338@512.webp"></img>
     <section class="h">Peixes</section>
     <section class="h text-bolder">Eixe - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
+  <a class="flex-item flex-item-left" href="/wines/39a934ab-0f33-4466-894b-72d822ce15d4.html">
     <img class="flex-bottle" src="/images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-26-18-51-46-A2B7302D-7755-4B5E-A7CC-8C8CCF973665-1-102-o@512.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Sintonia - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/41ef7527-c28f-412b-a39e-bfc0cd8338ef.html">
+  <a class="flex-item flex-item-right" href="/wines/41ef7527-c28f-412b-a39e-bfc0cd8338ef.html">
     <img class="flex-bottle" src="/images/41/ef7527-c28f-412b-a39e-bfc0cd8338ef/2022-10-29-13-35-31-DAEF150E-5F91-466C-963C-8690EDE850B2-1-105-c@512.webp"></img>
     <section class="h">William Downie</section>
     <section class="h text-bolder">Cathedral - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/809b126c-20d4-4a87-9c0f-fd297198781b.html">
+  <a class="flex-item flex-item-left" href="/wines/809b126c-20d4-4a87-9c0f-fd297198781b.html">
     <img class="flex-bottle" src="/images/80/9b126c-20d4-4a87-9c0f-fd297198781b/2022-10-14-08-44-49-149693E7-6ED4-41B1-97F1-15FD709339F5-1-105-c@512.webp"></img>
     <section class="h">Tchotiashvili</section>
     <section class="h text-bolder">Khikhvi Rcheuli Qvevri - 2017</section>

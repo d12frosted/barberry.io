@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/5e/c0f776-6f1c-498c-91a2-49113781200a/2023-01-16-16-37-35-IMG-4360@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/4108850c-f630-467f-98c0-bbbf9edd63f5][Celler Credo]]
+- Vintage :: 2019
+- Location :: Spain, Penedès DO
+- Grapes :: Parellada
+- Alcohol :: 9.5
+- Sugar :: 0.5
+- Price :: 534 UAH, 607 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
+    <img class="flex-bottle" src="/images/7f/805a08-23ec-44bb-8542-316c2c0b861a/2023-01-16-16-39-36-IMG-4362@512.webp"></img>
+    <section class="h">Celler Credo</section>
+    <section class="h text-bolder">Miranius - 2021</section>
+  </a>
+
+</div>
+#+end_export

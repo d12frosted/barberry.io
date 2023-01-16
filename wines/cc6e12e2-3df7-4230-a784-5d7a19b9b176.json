@@ -1,0 +1,39 @@
+{
+  "id": "cc6e12e2-3df7-4230-a784-5d7a19b9b176",
+  "name": "Galantas Gran Reserva",
+  "full-name": "Haras de Pirque Galantas Gran Reserva 2018",
+  "producer": {
+    "id": "2cf1f1a6-ef24-4376-b629-76cfb05914e8",
+    "name": "Haras de Pirque"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "d0734331-9775-4415-aeeb-aefc412ed4f0",
+      "name": "Carménère"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2.97",
+  "prices": [
+    "903 UAH",
+    "1027 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/cc/6e12e2-3df7-4230-a784-5d7a19b9b176/2023-01-16-16-12-46-IMG-4325.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cd0eb8ce-b498-4518-836c-206f4db1367b.html">
+    <img class="flex-bottle" src="/images/cd/0eb8ce-b498-4518-836c-206f4db1367b/2023-01-16-16-50-37-IMG-4376@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">CHT Chardonnay Torrontes - 2021</section>
+  </a>
+
+</div>
+#+end_export

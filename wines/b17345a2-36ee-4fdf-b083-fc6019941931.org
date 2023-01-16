@@ -25,7 +25,13 @@ Textbook Sauvignon Blanc from New Zealand, so IMO everyone needs to taste it tim
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">
+  <a class="flex-item flex-item-left" href="/wines/c5fc299b-cd69-40ba-844c-175b7b4f0206.html">
+    <img class="flex-bottle" src="/images/c5/fc299b-cd69-40ba-844c-175b7b4f0206/2023-01-16-16-41-13-IMG-4364@512.webp"></img>
+    <section class="h">Marlborough Sun</section>
+    <section class="h text-bolder">Riesling - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">
     <img class="flex-bottle" src="/images/78/c6a471-bf15-44a2-90ce-2a699e46a214/2022-12-11-10-40-21-2FDC9E1A-E193-4964-84BD-E81415DC1F99-1-105-c@512.webp"></img>
     <section class="h">Philippe de Charmille</section>
     <section class="h text-bolder">Crémant de Loire Brut - NV</section>

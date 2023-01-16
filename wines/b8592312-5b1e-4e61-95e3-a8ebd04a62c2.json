@@ -1,0 +1,35 @@
+{
+  "id": "b8592312-5b1e-4e61-95e3-a8ebd04a62c2",
+  "name": "Assyrtiko Maison Viticole Ligas MVL",
+  "full-name": "Ktima Ligas Assyrtiko Maison Viticole Ligas MVL 2021",
+  "producer": {
+    "id": "985badd4-6e4e-471e-a7f2-f2ec646f1b1a",
+    "name": "Ktima Ligas"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "d7292622-98ad-427b-bf58-15ecfdab8bf7",
+      "name": "Assyrtiko"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "572 UAH",
+    "650 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b8/592312-5b1e-4e61-95e3-a8ebd04a62c2/2023-01-16-16-30-11-IMG-4349.webp",
+  "rating": "NA"
+}
