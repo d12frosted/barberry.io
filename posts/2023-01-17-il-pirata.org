@@ -20,6 +20,8 @@
 - producer: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]
 - name: [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Terzavia]]
 - vintage: 2018
+- degorgee: 2021
+- sur lie: >18 months
 - grapes: Grillo
 - appellation: Sicilia DOC
 - location: Contrada Samperi, Marsala (TP), Western Sicily, Italy
@@ -50,7 +52,7 @@ A 100% Grillo harvested from 30+ years old vines growing in Contrada Samperi, Ma
 - vintage: 2019
 - grapes: Inzolia, Grecanico
 - appellation: IGP Terre Siciliane
-- location: Sicily, Italy
+- location: Vittoria, Ragusa province, South-Eastern Sicily, Italy
 - alcohol: 11.5
 - sugar: 1
 - price: 1790 UAH
@@ -104,6 +106,14 @@ The fruits are crushed without de-stemming and softly pressed with separation of
 - alcohol: 13
 - sugar: 1.9
 - price: 1358 UAH
+
+Despite the rich wine history that spans over 3000 years, Sicily started to appear on international wine maps only in the last few decades. Planeta winery is among the leading winemakers responsible for quality revolution on the island. Unlike Marco De Bartoli (who is also among these giants), Alessio Planeta decided to experiment with international grapes alongside autochthonous ones. In 1985, after establishing the first winery at Ulmo, they planted their first vines. And ten years later, they released their first wine - Chardonnay. Many consider (citation needed) that this particular wine (among a few others) changed the perception of Sicily on the international market.
+
+Today Planeta owns 6 wineries across Sicily: Ulmo and Dispensa in Menfi, Dorilli in Vittoria, Buonivini in Noto, Feudo di Mezzo on Etna and La Baronia in Capo Milazzo.
+
+One might rightfully wonder. Why do we have a bottle of Fiano instead of the famous Chardonnay? After all, Fiano originates from Campania. While Fiano is not well known outside of Avellino, Sicily is still a big producer. And most importantly, Cometa is another iconic wine in modern history. Besides, how often do you taste wines made of Fiano grape?
+
+Cometa is made in Dispensa estate in Menfi. Handpicked grapes are stripped of stems and sent to the press. 90% of the must is fermented in stainless steel and 10% in 225L barrels. After a certain period of maturation on fine lees, the wine is blended and prepared for bottling.
 
 * Arianna Occhipinti Il Frappato 2013
 :PROPERTIES:
@@ -159,6 +169,12 @@ Il Frappato is 100% Frappato from 40-years old vines growing on red sands and ch
 - sugar: N/A
 - price: 1250 UAH
 
+Now let me ask you a question. What do you know about winemaking on the Aeolian Islands? A volcanic archipelago in the Tyrrhenian Sea north of Sicily, best known for Stromboli and Lipari. But wines? Tenuta di Castellaro is probably the only winery known outside of this land. Alright, alright. We already tasted this particular wine on 2nd November 2021 as part of the first Il Pirata. So some of you are not amazed at all. Still...
+
+Massimo Lentsch and Stefania Frattolillo, entrepreneurs from Bergamo (Lombardy), simply fell in love with Lipari and decided to create a work of art here. The winery came to life in 2005. They invited Alessandro Zanutta, an agronomist from Collio, and Emiliano Falsini, a winemaker from Tuscany. You see, it's all about coming there and not being able to fleet.
+
+Today we have a bottle made of Corinto Nero. It is a rare grape that originates from Greece, though today, it also grows in Turkey and the Po Valley in Emilia-Romagna. As they joke, this bottle exists only thanks to eno-archeology. The vines grow at 350 meters above sea level on sandy, volcanic, deep and fertile soils rich in microelements. The grapes are handpicked and destemmed. Vinification happens in French oak barrels with maceration for about 10 days. After that, the wine is poured into 500L barrels where malolactic fermentation takes place and is then aged for at least one year prior to bottling.
+
 * Gulfi Nerojbleo 2009
 :PROPERTIES:
 :ID:                     62cb981f-3e57-44a3-b61a-cd9ef272e340
@@ -172,10 +188,16 @@ Il Frappato is 100% Frappato from 40-years old vines growing on red sands and ch
 - vintage: 2009
 - grapes: Nero d'Avola
 - appellation: Sicilia DOC
-- location: Sicily, Italy
+- location: Chiaramonte Gulfi and Ragoleti, Ragusa province, South-Eastern Sicily, Italy
 - alcohol: 14
 - sugar: 4.6
 - price: 1534 UAH
+
+The fact that my relations with Sicilian wines are special might be something obvious. But not many people know that it all started with Gulfi stand at the very first Kyiv Wine festival. When we met, I was already tired (e.g. drunk). I almost passed by, disgusted by my own weakness, when a Gulfi representative (apologies, I don't remember her name) stopped me and offered a glass of their wine. I looked at the representative welcoming face. I looked at the naked ass on the label. And I realised there are no reasons to reject this present from Dionysus. And even though I don't remember which wines I tasted exactly, the Gulfi imprint is what I took out of that overly drunk day.
+
+It is worth mentioning that the naked ass on the label has a meaning. A meaning close enough to what one might think. Meet an ancient mosaic from Villa Romana del Casale located in Piazza Armerina in the province of Enna. This mosaic depicts Eros (Cupid) and Psyche (Beauty). According to the story, out of envy of Venus, they are forced to love each other in secret. But passion rarely goes unnoticed, and in their case, it found a physical manifestation (no puns) in the form of a daughter (no puns, seriously) they called Vulptas (literally meaning 'pleasure'), a goddess of sensual pleasures. And how does it connect to Gulfi? Sicily is Psyche, Gulfi is Eros, and their child is wine, a sensual pleasure.
+
+Enough of food for your fantasies. Nerojbleo is 100% Nero d'Avola from different vineyards in the countryside of Chiaramonte Gulfi and Ragoleti (Ragusa province, just like the famous city of Vittoria). The grape is named after Avola, a small town near Pachino in the province of Siracusa (near Ragusa). Fruits are fermented with long maceration on their skins. The wine is aged in barriques and tonneaux of French oak (225L and 500L) for 12 months.
 
 * Scores
 :PROPERTIES:
@@ -211,17 +233,26 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
+* Afterword
+:PROPERTIES:
+:ID:                     4577a039-b47e-4a5c-a4fb-05d919321db6
+:END:
+
+Nothing yet!
+
 * Resources
 :PROPERTIES:
 :ID:                     f3db2c47-4e93-4831-b31e-f29d272b35aa
 :END:
 
 - https://louisdressner.com/producers/arianna%20occhipinti
+- https://planeta.it/
+- https://tenutadifessina.com/
 - https://winefornormalpeople.libsyn.com/ep-416-the-history-of-sicily-from-the-wine-perspective
 - https://www.agricolaocchipinti.it/
-- https://www.gulfi.it/
-- https://www.villaromanadelcasale.it/wp-content/uploads/2021/07/guida_042012_ENG.pdf
 - https://www.cosvittoria.it/
-- https://www.girolamorusso.it/
-- https://tenutadifessina.com/
+- https://www.gulfi.it/
+- https://www.marcodebartoli.com/
+- https://www.tenutadicastellaro.it
+- https://www.villaromanadelcasale.it/wp-content/uploads/2021/07/guida_042012_ENG.pdf
 
