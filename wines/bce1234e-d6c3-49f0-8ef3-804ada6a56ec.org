@@ -9,13 +9,19 @@
 - Alcohol :: 11.5
 - Sugar :: 1
 - Price :: 1790 UAH, 918 UAH, 692 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2020-11-11 - ☆ 7.50
 
 Very approachable orange wine. Mandarin, honey and spices. Elegant, but not complex. Good acidity and tannins, but not overwhelming. Easy to enjoy. It still feels stressed and closed a little bit after the road, would love to re-taste in few months.
+
+*** 2023-01-17 - ☆ 8.00
+
+It's a pleasure to witness how elegant and multilayered this wine is. Stop! It sounds too strong. Let's lower expectations while still appreciating the clean and elegant profile of this wine that also offers several layers. It all starts with cashews and honey. Slowly it reveals baked pears, apricots and acetone. Though VA only makes things more interesting. The palate is delicate and mineral with well-integrated tannin, good acidity and pleasant flavours of quince, clay and baked pears with gorgonzola. It definitely became better over the last 14 months.
+
+Wine #2 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
 
 ** Related
 
@@ -39,22 +45,34 @@ Very approachable orange wine. Mandarin, honey and spices. Elegant, but not comp
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
+  <a class="flex-item flex-item-right" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Pithos Bianco - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
     <img class="flex-bottle" src="/images/f9/13a858-7eb0-4dfb-9adf-cd5c431db7cd/IMG-1236@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+  <a class="flex-item flex-item-right" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
+  <a class="flex-item flex-item-left" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
     <img class="flex-bottle" src="/images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c@512.webp"></img>
     <section class="h">Costadilà</section>
     <section class="h text-bolder">Mòz - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
 </div>

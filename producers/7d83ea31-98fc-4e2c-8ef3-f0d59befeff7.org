@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
+    <img class="flex-bottle" src="/images/7a/3f478e-ab77-465c-9ef5-80b8e7804817/2023-01-18-21-02-59-IMG-4452@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Grillo - 2019</section>
+  </a>
+
+</div>
+#+end_export

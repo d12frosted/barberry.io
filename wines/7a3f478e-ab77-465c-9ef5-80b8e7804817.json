@@ -1,0 +1,34 @@
+{
+  "id": "7a3f478e-ab77-465c-9ef5-80b8e7804817",
+  "name": "Grillo",
+  "full-name": "Graffetta Grillo 2019",
+  "producer": {
+    "id": "7d83ea31-98fc-4e2c-8ef3-f0d59befeff7",
+    "name": "Graffetta"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "890 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7a/3f478e-ab77-465c-9ef5-80b8e7804817/2023-01-18-21-02-59-IMG-4452.webp",
+  "rating": "NA"
+}
