@@ -9,11 +9,15 @@
 - Alcohol :: 13
 - Sugar :: 1.9
 - Price :: 1195 UAH, 1358 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-01-17 - ☆ 7.50
+
+Actually, I remember this wine being heavier. After reading other people's reviews, it seems like Planeta adapted its style to modern preferences. As a result, it's fresh, well-balanced, well structured and mineral. Silicon, yellow apples, tropical fruits, and butter. Almost full-bodied with a long and slightly bitter finish (someone eats apples with seeds, it seems). It lacks complexity, on the one hand. On the other hand, it's friendly and easy to enjoy.
+
+Wine #4 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
 
 ** Related
 
@@ -23,6 +27,24 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069@512.webp"></img>
     <section class="h">Planeta</section>
     <section class="h text-bolder">Etna Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+    <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Ramí - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+    <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
+    <section class="h">Tenuta di Fessina</section>
+    <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
 </div>
