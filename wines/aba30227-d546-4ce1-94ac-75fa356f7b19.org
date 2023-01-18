@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 1189 UAH, 892 UAH, 1250 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -22,6 +22,14 @@ Tasted as part of Il Pirata event.
 *** 2022-11-17 - ☆ 8.00
 
 Over the last year, it became more developed (captain obvious). Dried fruits, spices, wet wood, earth, fried sunflower seed, medicinal herbs, and old jam. Medium body, round and soft with medium acidity. Easy and pleasant wine. Not sure why I rated it that high a year ago. Now I need to taste their blend of Corinto and Nero d'Avola again.
+
+*** 2023-01-17 - ☆ 8.00
+
+This is cheating, I know. But any event dedicated to Sicilian wines must include at least one wine from the Aeolian Islands or Pantelleria. These days the choice in Kyiv stores is not that rich, though I have no reasons not to repeat this beautiful Corinto from Lipari (e.g. it was part of the previous Il Pirata). And again, it was received well despite being tasted blindly.
+
+Over the year, it became even better. A neat combination of brine, raw meat, cherry, dark plums, violets and coffee beans. Maybe it's not very complex, though it's definitely not simple. Good palate, balance and fruit. A wine that you drink with big sips. A wine that lets you step back and enjoy your moments of calmness.
+
+Wine #6 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
 
 ** Related
 
@@ -39,22 +47,34 @@ Over the last year, it became more developed (captain obvious). Dried fruits, sp
     <section class="h text-bolder">Etna Rosso Santo Spirito - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/53d8516b-2fc1-49dc-b037-30e81c64ff80.html">
+  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+    <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/53d8516b-2fc1-49dc-b037-30e81c64ff80.html">
     <img class="flex-bottle" src="/images/53/d8516b-2fc1-49dc-b037-30e81c64ff80/2022-11-18-09-05-02-51EACC64-E31E-4013-B5C1-0A93DBB99235-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosso Calderara Sottana - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
     <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
+  <a class="flex-item flex-item-right" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
     <img class="flex-bottle" src="/images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Bianco Montalto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+    <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2013</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
@@ -75,6 +95,18 @@ Over the last year, it became more developed (captain obvious). Dried fruits, sp
     <section class="h text-bolder">Blanc De Blancs Metodo Classico Pas dose - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+    <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Ramí - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
+    <img class="flex-bottle" src="/images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Cometa - 2020</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
     <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
     <section class="h">COS</section>
@@ -93,7 +125,13 @@ Over the last year, it became more developed (captain obvious). Dried fruits, sp
     <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+    <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
+    <section class="h">Tenuta di Fessina</section>
+    <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>

@@ -75,6 +75,18 @@ Wine #2 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+    <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">Il Frappato - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+    <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2021-10-26-09-59-18-97E0C380-5574-4277-8610-6CBD436ABE71-1-105-c@512.webp"></img>
+    <section class="h">Tenuta di Castellaro</section>
+    <section class="h text-bolder">Corinto - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
     <img class="flex-bottle" src="/images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317@512.webp"></img>
     <section class="h">Planeta</section>
