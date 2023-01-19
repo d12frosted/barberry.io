@@ -185,13 +185,19 @@ Wine #1 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
     <section class="h text-bolder">Cometa - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ea772f52-a0b0-4d2a-bfb7-cec8131529e3.html">
+  <a class="flex-item flex-item-right" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
+    <img class="flex-bottle" src="/images/c5/38c72e-5d57-45a3-ad1f-26c80ad2d32a/2022-12-01-07-36-15-A7C005B4-0823-46DE-A5E5-F447E657C9C1-1-105-c@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Nerojbleo - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ea772f52-a0b0-4d2a-bfb7-cec8131529e3.html">
     <img class="flex-bottle" src="/images/ea/772f52-a0b0-4d2a-bfb7-cec8131529e3/2022-12-03-16-52-06-IMG-3586@512.webp"></img>
     <section class="h">Seifried Family</section>
     <section class="h text-bolder">Old Coach Road Pinot Noir - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
     <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>

@@ -107,31 +107,37 @@ Wine #6 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
     <section class="h text-bolder">Cometa - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+  <a class="flex-item flex-item-left" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
+    <img class="flex-bottle" src="/images/c5/38c72e-5d57-45a3-ad1f-26c80ad2d32a/2022-12-01-07-36-15-A7C005B4-0823-46DE-A5E5-F447E657C9C1-1-105-c@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Nerojbleo - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
     <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
+  <a class="flex-item flex-item-left" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
     <img class="flex-bottle" src="/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosso San Lorenzo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
+  <a class="flex-item flex-item-right" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
     <img class="flex-bottle" src="/images/e3/9daa48-d67c-406e-a0e9-5d0006070999/2022-11-18-09-06-22-A4693DA3-4050-4F55-B79C-62AB9CFD16CD-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
     <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
