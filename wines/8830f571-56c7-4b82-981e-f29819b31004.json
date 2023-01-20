@@ -1,0 +1,38 @@
+{
+  "id": "8830f571-56c7-4b82-981e-f29819b31004",
+  "name": "Ruje",
+  "full-name": "Zidarich Ruje 2013",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "dcfb7478-e265-47ee-813f-4ebf4d271a12",
+      "name": "Terrantez"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.7",
+  "prices": [
+    "2445 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

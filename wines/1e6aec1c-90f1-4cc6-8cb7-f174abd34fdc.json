@@ -1,0 +1,34 @@
+{
+  "id": "1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc",
+  "name": "Malvasia",
+  "full-name": "Zidarich Malvasia 2011",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "0",
+  "sugar": "0",
+  "prices": [
+    "1890 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}
