@@ -1,0 +1,35 @@
+{
+  "id": "98f32d59-a395-4287-8adb-9ddf1de9f894",
+  "name": "La Bruja de Rozas",
+  "full-name": "Comando G La Bruja de Rozas 2018",
+  "producer": {
+    "id": "eb753c76-29ab-4f89-b74e-657273987239",
+    "name": "Comando G"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "626 UAH",
+    "705 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/98/f32d59-a395-4287-8adb-9ddf1de9f894/2022-10-13-15-02-55-IMG-2735.webp",
+  "rating": "7.800000000000001"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1357c3ce-cad1-4f2d-8473-4e05fd524a29",
+  "name": "J'en veux encore !!!",
+  "full-name": "Anne et J.F. Ganevat J'en veux encore !!! 2019",
+  "producer": {
+    "id": "17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6",
+    "name": "Anne et J.F. Ganevat"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12.7",
+  "sugar": "1",
+  "prices": [
+    "999 UAH"
+  ],
+  "available": 0,
+  "image": "images/13/57c3ce-cad1-4f2d-8473-4e05fd524a29/2021-09-15-20-57-33-C8969034-BEBE-44D5-B69B-2A585A38EDB8-1-105-c.webp",
+  "rating": "8.0"
+}

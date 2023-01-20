@@ -1,0 +1,36 @@
+{
+  "id": "9368685a-9c95-4099-a7a3-0662a2a8ce99",
+  "name": "Il Frappato",
+  "full-name": "Arianna Occhipinti Il Frappato 2018",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "2290 UAH",
+    "1092 UAH",
+    "939 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403.webp",
+  "rating": "8.5"
+}

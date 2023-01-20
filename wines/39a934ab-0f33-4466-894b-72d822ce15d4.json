@@ -1,0 +1,36 @@
+{
+  "id": "39a934ab-0f33-4466-894b-72d822ce15d4",
+  "name": "Sintonia",
+  "full-name": "Valentina Passalacqua Sintonia 2019",
+  "producer": {
+    "id": "cf22308d-98a1-4056-921c-49b9cd46f159",
+    "name": "Valentina Passalacqua"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3d83988c-ec6a-4bde-bd84-a4580284a11d",
+      "name": "Nero di Troia"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "260 UAH",
+    "572 UAH",
+    "650 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/39/a934ab-0f33-4466-894b-72d822ce15d4/2022-09-26-18-51-46-A2B7302D-7755-4B5E-A7CC-8C8CCF973665-1-102-o.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c9a79c4c-d2ea-4d39-bef4-76f36593cafb",
+  "name": "Première Cuvée (d2021)",
+  "full-name": "Bruno Paillard Première Cuvée (d2021) NV",
+  "producer": {
+    "id": "11da3d83-ca4a-4e23-a8f1-e8d1cf395b58",
+    "name": "Bruno Paillard"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "November 2021",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "2250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c9/a79c4c-d2ea-4d39-bef4-76f36593cafb/2022-11-11-08-51-17-B885C3BA-21B1-455C-BE17-00322C677D16-1-105-c.webp",
+  "rating": "8.0"
+}

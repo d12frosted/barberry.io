@@ -1,0 +1,34 @@
+{
+  "id": "7e75e643-f15c-4837-9cc3-3fa7274af72b",
+  "name": "Calcarius Hellen Rosso",
+  "full-name": "Valentina Passalacqua Calcarius Hellen Rosso 2018",
+  "producer": {
+    "id": "cf22308d-98a1-4056-921c-49b9cd46f159",
+    "name": "Valentina Passalacqua"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3d83988c-ec6a-4bde-bd84-a4580284a11d",
+      "name": "Nero di Troia"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "530 UAH"
+  ],
+  "available": 0,
+  "image": "images/7e/75e643-f15c-4837-9cc3-3fa7274af72b/2020-09-13-12-32-20-67ACFAFE-C1D0-4AF3-9785-6CD2981568CC-1-105-c.webp",
+  "rating": "7.0"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b951da6c-6a38-4355-ab9f-6abe92b2d0b1",
+  "name": "Morey Saint Denis 1er Cru les Blanchards",
+  "full-name": "Hubert Lignier Morey Saint Denis 1er Cru les Blanchards 2009",
+  "producer": {
+    "id": "0a96a61f-5052-42e7-9dfb-bea9ccc1445d",
+    "name": "Hubert Lignier"
+  },
+  "vintage": "2009",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "5000 UAH",
+    "150 EUR"
+  ],
+  "available": 1.0,
+  "image": "images/b9/51da6c-6a38-4355-ab9f-6abe92b2d0b1/2022-06-16-09-24-53-10BCBFC7-30FA-49DD-B203-8F18EB0805FC-1-105-c.webp",
+  "rating": "NA"
+}

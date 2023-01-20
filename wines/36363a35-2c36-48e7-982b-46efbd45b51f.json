@@ -1,0 +1,34 @@
+{
+  "id": "36363a35-2c36-48e7-982b-46efbd45b51f",
+  "name": "Serpico",
+  "full-name": "Feudi di San Gregorio Serpico 2005",
+  "producer": {
+    "id": "e9a07255-1376-4b70-bbf2-0d358bff215a",
+    "name": "Feudi di San Gregorio"
+  },
+  "vintage": "2005",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "09807444-0445-4b57-9f04-0d26b8e444a3",
+      "name": "Aglianico"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "3400 UAH"
+  ],
+  "available": 0,
+  "image": "images/36/363a35-2c36-48e7-982b-46efbd45b51f/2021-09-15-20-55-04-654BFA79-67BA-4AF6-8A5E-7438A6AF9357-1-105-c.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ceaf515d-9fda-46c1-8acc-3da2621ffd19",
+  "name": "Chianti Classico",
+  "full-name": "Pruneto Chianti Classico 2013",
+  "producer": {
+    "id": "d3c0dd16-06e9-45e6-b314-3efe62f70da5",
+    "name": "Pruneto"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.5",
+  "prices": [
+    "809 UAH",
+    "920 UAH",
+    "864 UAH",
+    "772 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ce/af515d-9fda-46c1-8acc-3da2621ffd19/2022-09-26-19-23-01-C41329A8-0790-41F8-A0F3-E1A37177D026-1-102-o.webp",
+  "rating": "7.6000000000000005"
+}

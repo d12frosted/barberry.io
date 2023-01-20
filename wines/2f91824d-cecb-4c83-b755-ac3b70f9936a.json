@@ -1,0 +1,44 @@
+{
+  "id": "2f91824d-cecb-4c83-b755-ac3b70f9936a",
+  "name": "Qvevri 'Don Alfio'",
+  "full-name": "Vino di Anna Qvevri 'Don Alfio' 2016",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "b6846384-2132-4c97-b5c9-360acd53f497",
+      "name": "Alicante Henri Bouschet"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1190 UAH",
+    "1092 UAH",
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2f/91824d-cecb-4c83-b755-ac3b70f9936a/2022-09-06-16-35-28-IMG-2035.webp",
+  "rating": "8.2"
+}

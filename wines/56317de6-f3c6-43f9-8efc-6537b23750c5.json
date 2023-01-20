@@ -1,0 +1,39 @@
+{
+  "id": "56317de6-f3c6-43f9-8efc-6537b23750c5",
+  "name": "Viña Tondonia Blanco Reserva",
+  "full-name": "R. López de Heredia Viña Tondonia Blanco Reserva 2009",
+  "producer": {
+    "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
+    "name": "R. López de Heredia"
+  },
+  "vintage": "2009",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.5",
+  "prices": [
+    "2000 UAH",
+    "1200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c.webp",
+  "rating": "9.0"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5d7ceee6-c31a-45b1-a207-90a56fd6a825",
+  "name": "Teresa",
+  "full-name": "Cascina Tavijn Teresa 2021",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "abff4461-3245-4d58-9e2b-86ff55d6ad89",
+      "name": "Ruchè"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "520 UAH",
+    "590 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5d/7ceee6-c31a-45b1-a207-90a56fd6a825/2022-09-26-18-51-06-8519B539-66EE-40C3-9837-111B9B3BA375-1-102-o.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84",
+  "name": "Etna Rosso Contrada Monte Serra",
+  "full-name": "Benanti Etna Rosso Contrada Monte Serra 2016",
+  "producer": {
+    "id": "67b9a0dc-6746-4fba-9e0d-2eaa92eaa0cb",
+    "name": "Benanti"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1772 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/803c15-f4ac-4fe4-9b7d-0c1c02cedc84/2022-11-18-09-10-28-5196AD5E-44CB-4686-8063-A7EF3C163558-1-105-c.webp",
+  "rating": "7.75"
+}

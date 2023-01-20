@@ -1,0 +1,42 @@
+{
+  "id": "c490b3ec-5108-48d6-94ca-87d40ed55c3a",
+  "name": "Vino Rosato di Vera",
+  "full-name": "Fattoria San Lorenzo Vino Rosato di Vera 2020",
+  "producer": {
+    "id": "60baeb1a-2703-459a-b212-7f73465efc67",
+    "name": "Fattoria San Lorenzo"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "2e4fac16-aa60-4d28-871a-9ca3b52cf687",
+      "name": "Montepulciano"
+    },
+    {
+      "id": "0de99dbe-b0fe-4d34-80bc-dfceeedd09c4",
+      "name": "Lacrima"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "413 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2022-11-15-17-09-46-IMG-3192.webp",
+  "rating": "7.5"
+}

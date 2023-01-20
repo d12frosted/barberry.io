@@ -1,0 +1,34 @@
+{
+  "id": "9c98f1c3-0866-4cd9-9c0d-7a43fd269943",
+  "name": "The Incline",
+  "full-name": "Momento Mori The Incline 2018",
+  "producer": {
+    "id": "7ad98ad5-fc54-45ee-ad48-26f2fab01cbc",
+    "name": "Momento Mori"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "1100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9c/98f1c3-0866-4cd9-9c0d-7a43fd269943/2022-07-23-10-32-08-E64E171C-455A-4A5E-8D09-72900E9CA7E1-1-105-c.webp",
+  "rating": "8.0"
+}

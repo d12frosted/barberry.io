@@ -1,0 +1,34 @@
+{
+  "id": "7287f76a-ac95-4832-aedc-a5b0bb26aa17",
+  "name": "Lagrein Rosе Classic Line",
+  "full-name": "Colterenzio Lagrein Rosе Classic Line 2020",
+  "producer": {
+    "id": "68c429e4-a95c-4c9f-ae5a-152d0f691864",
+    "name": "Colterenzio"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "40c09e63-1fcc-4c21-b9e0-c89bcf30eae9",
+      "name": "Lagrein"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3.9",
+  "prices": [
+    "389 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/72/87f76a-ac95-4832-aedc-a5b0bb26aa17/2022-05-08-16-07-14-33618852-1F55-40E6-A2D6-7A31E4B21580-1-102-o.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3004717d-3e01-44bf-b375-e23d26508b9a",
+  "name": "Vin de Soif",
+  "full-name": "Lucy Margaux Vin de Soif 2020",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.3",
+  "prices": [
+    "836 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385.webp",
+  "rating": "7.0"
+}

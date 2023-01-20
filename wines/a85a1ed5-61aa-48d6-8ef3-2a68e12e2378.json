@@ -1,0 +1,34 @@
+{
+  "id": "a85a1ed5-61aa-48d6-8ef3-2a68e12e2378",
+  "name": "Three views of a secret",
+  "full-name": "Patrice Beguet Three view of a secret 2021",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a8/5a1ed5-61aa-48d6-8ef3-2a68e12e2378/2022-12-17-11-54-01-DE1A7071-C382-42F2-8C88-B0AA9CD7F322-1-102-o.webp",
+  "rating": "7.4"
+}

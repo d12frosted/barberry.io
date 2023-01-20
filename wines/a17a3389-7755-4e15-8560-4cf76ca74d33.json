@@ -1,0 +1,39 @@
+{
+  "id": "a17a3389-7755-4e15-8560-4cf76ca74d33",
+  "name": "Flora",
+  "full-name": "Brand Bros Flora NV",
+  "producer": {
+    "id": "19104471-31b8-489f-b5a7-addbadb13b6a",
+    "name": "Brand Bros"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "26789676-ca00-4d27-9f62-7c78c20db118",
+      "name": "Dornfelder"
+    },
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.5",
+  "prices": [
+    "555 UAH",
+    "630 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a1/7a3389-7755-4e15-8560-4cf76ca74d33/2023-01-16-16-09-11-IMG-4319.webp",
+  "rating": "5.75"
+}

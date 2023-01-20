@@ -1,0 +1,42 @@
+{
+  "id": "21570f40-a976-4e90-9007-536840ef7f07",
+  "name": "Saint Gervais Côtes du Rhône Villages",
+  "full-name": "Domaine Claire Clavel Saint Gervais Côtes du Rhône Villages 2018",
+  "producer": {
+    "id": "f5ed683b-4f82-45b6-8cdd-d212d796fba5",
+    "name": "Domaine Claire Clavel"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "618 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/570f40-a976-4e90-9007-536840ef7f07/2022-10-20-16-41-54-IMG-2873.webp",
+  "rating": "4.5"
+}

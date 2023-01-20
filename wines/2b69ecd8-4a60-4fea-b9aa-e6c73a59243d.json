@@ -1,0 +1,50 @@
+{
+  "id": "2b69ecd8-4a60-4fea-b9aa-e6c73a59243d",
+  "name": "Ruby",
+  "full-name": "Krasna Hora Ruby 2020",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "9a31e7c4-1ca4-4f5d-8c18-b5687058fb8d",
+      "name": "Zweigelt"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "ccfdbb32-b2f6-4f8a-bfa6-d11e814bbf2f",
+      "name": "Saint-Laurent"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.65",
+  "prices": [
+    "413 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c.webp",
+  "rating": "7.5"
+}

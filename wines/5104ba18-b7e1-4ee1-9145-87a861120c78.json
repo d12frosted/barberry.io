@@ -1,0 +1,38 @@
+{
+  "id": "5104ba18-b7e1-4ee1-9145-87a861120c78",
+  "name": "Coleccion 125 Rosado",
+  "full-name": "Chivite Coleccion 125 Rosado 2018",
+  "producer": {
+    "id": "21678ebe-7021-424e-8bbd-1e56fe722414",
+    "name": "Chivite"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1.5",
+  "prices": [
+    "1085 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/51/04ba18-b7e1-4ee1-9145-87a861120c78/2021-08-20-08-50-27-6D749E6F-B065-4281-8D91-6D3C26B9A3E7-1-105-c.webp",
+  "rating": "8.0"
+}

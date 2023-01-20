@@ -1,0 +1,32 @@
+{
+  "id": "dab2a380-6aa2-45fa-b870-9a504291acce",
+  "name": "Kali Riza",
+  "full-name": "Kir-Yianni Kali Riza 2017",
+  "producer": {
+    "id": "0c387201-a91c-4c54-b798-5ef20e028411",
+    "name": "Kir-Yianni"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "7f460e26-c200-4020-9244-a321d130c570",
+      "name": "Xinomavro"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.5",
+  "prices": null,
+  "available": 0,
+  "image": "images/da/b2a380-6aa2-45fa-b870-9a504291acce/2020-12-27-13-22-01-3908C915-D6C2-4144-B8FD-A01F61E34A31-1-105-c.webp",
+  "rating": "7.0"
+}

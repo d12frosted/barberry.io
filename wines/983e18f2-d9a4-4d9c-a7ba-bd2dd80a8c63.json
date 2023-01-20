@@ -1,0 +1,38 @@
+{
+  "id": "983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63",
+  "name": "Pet Nat",
+  "full-name": "Loimer Pet Nat 2020",
+  "producer": {
+    "id": "f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff",
+    "name": "Loimer"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "1244da78-529e-4725-bd73-a924c641a33b",
+      "name": "Grüner Veltliner"
+    },
+    {
+      "id": "5dd1f18b-e500-4993-9d13-99f4ae4e5ba2",
+      "name": "Muskateller"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "710 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/98/3e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63/2022-07-16-19-10-20-IMG-0784.webp",
+  "rating": "7.0"
+}

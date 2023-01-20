@@ -1,0 +1,34 @@
+{
+  "id": "237b9bdf-da9a-4374-afe9-7ecc11263bfe",
+  "name": "Spätburgunder-Rosé",
+  "full-name": "Enderle&Moll Spätburgunder-Rosé 2019",
+  "producer": {
+    "id": "5774d37d-7ca7-444c-b981-29ad5a290846",
+    "name": "Enderle&Moll"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.6",
+  "prices": [
+    "620 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/23/7b9bdf-da9a-4374-afe9-7ecc11263bfe/2021-07-03-10-10-42-ECA0C89A-B6FC-4C5D-B8CF-A39DFF1BBCF7-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6352bcd9-4da5-4647-81fe-cb393bff3b03",
+  "name": "Shaman 17 Grand Cru",
+  "full-name": "Marguet Shaman 17 Grand Cru NV",
+  "producer": {
+    "id": "f583fef5-23a6-4932-a036-fb4b7e9e22b8",
+    "name": "Marguet"
+  },
+  "vintage": "NV",
+  "base-vintage": "2017",
+  "degorgee": "2021",
+  "sur-lie": "60 months",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1588 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ed95a91a-0437-40f1-8e9f-e01086ea0ec6",
+  "name": "Blanc de Noir Sekt",
+  "full-name": "Krasna Hora Blanc de Noir Sekt 2018",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.6",
+  "prices": [
+    "836 UAH",
+    "749 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c.webp",
+  "rating": "7.5"
+}

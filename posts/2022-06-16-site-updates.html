@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Site Updates | Barberry Garden</title>
+    <meta name="description" content="Site Updates">
+
+    <meta property="og:site_name" content="Barberry Garden">
+    <meta property="og:title" content="Site Updates | Barberry Garden" />
+    <meta property="og:description" content="Site Updates" />
+    
+    <meta property="og:url" content="https://barberry.io/posts/2022-06-16-site-updates.html" />
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article" />
+    
+    <meta property="article:published_time" content="2022-06-16">
+    
+    
+    <meta property="article:modified_time" content="2022-08-31">
+    
+    <meta property="article:author:first_name" content="Boris">
+    <meta property="article:author:last_name" content="Buliga">
+
+
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=M+PLUS+Rounded+1c:wght@300;400;500;700&family=Source+Code+Pro:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/default.css" />
+    <link rel="stylesheet" href="../css/fonts.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="manifest" href="../site.webmanifest">
+    <script data-goatcounter="https://barberry.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="../">Barberry Garden</a>
+      </div>
+      <nav>
+        <a href="../posts.html">Posts</a>
+        <a href="../wines.html">Wines</a>
+        <a href="../reviews.html">Reviews</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <article>
+  <h1>Site Updates</h1>
+  <section class="subtitle">
+    Posted on June 16, 2022
+    
+      by Boris
+    
+  </section>
+  
+  <section class="subtitle">
+    Updated on August 31, 2022
+  </section>
+  
+  <section>
+    <p>This site is still in active development, but over the last two weeks, many things were implemented. So I thought it would be nice to emphasize some of the delivered goodies. And know that I would gladly hear your opinion on each and every aspect, so share your feedback!</p>
+<p>Let’s start with visual stuff. And the most apparent change in this regard is the set of used fonts. While in Emacs, I use <a href="https://github.com/adobe-fonts/source-code-pro">Source Code Pro</a> exclusively, it’s not that good for reading texts. So instead, this site is using a combination of 3 fonts - <a href="https://fonts.google.com/specimen/Cormorant+Garamond?query=Cormorant+Garamond">Cormorant Garamond</a> as the main serif font, <a href="https://fonts.google.com/specimen/Alegreya+Sans?query=Alegreya+Sans">Alegreya Sans</a> as sans-serif for headers and alike, and <a href="https://github.com/adobe-fonts/source-code-pro">Source Code Pro</a> for code sections (which are not popular here).</p>
+<p>Another thing that changed is how wines and reviews are listed. The list of reviews acts as a log, so I decided to group it by date. This results in less clutter and better readbility of reviews log. Just take a look!</p>
+<p><img src="../images/2022-06-16-site-updates/2022-06-15-15-50-29-Screenshot 2022-06-15 at 15.48.29.webp" class="img-half img-float-left" alt="before" /></p>
+<p><img src="../images/2022-06-16-site-updates/2022-06-15-15-50-41-Screenshot 2022-06-15 at 15.49.42.webp" class="img-half img-float-right" alt="after" /></p>
+<br class="clear-both">
+
+<p>The list of wines got even more love. Since it tends to grow big<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> and I also want to expose more and more information about each wine, the list quickly became not good enough for this role. So instead, wines are listed in a table, which you can filter and sort. You can even toggle column visibility! Simple, yet powerful enough for the time being. The good part that it’s also used in monthly reports.</p>
+<p><img src="../images/2022-06-16-site-updates/2022-06-15-15-55-46-Screenshot 2022-06-15 at 15.48.54.webp" class="img-half img-float-left" alt="before" /></p>
+<p><img src="../images/2022-06-16-site-updates/2022-06-15-15-55-46-Screenshot 2022-06-15 at 15.49.59.webp" class="img-half img-float-right" alt="after" /></p>
+<br class="clear-both">
+
+<p>There are some things visible to readers, but you could easily miss them. Let me just lazily list them in no particular order.</p>
+<ul>
+<li>There are images on wine pages now.</li>
+<li>Spacing was tuned a lot to be consistent and pleasant for reading.</li>
+<li>the color scheme was changed to match my custom theme for Emacs, which is called… barberry! Who would guess? On the other hand, this is plain text, so you are unlikely to notice it too much.</li>
+</ul>
+<p>And last, but probably the most important thing. The process of publication is more or less settled up. I know, it’s invisible to readers, but this site is being built from a subset of private notes that I manage using <a href="https://github.com/d12frosted/vulpea">Vulpea</a> and <a href="https://github.com/d12frosted/Vino">Vino</a>. So I can keep my writing flow without changes, I just mark some notes as public and the build system picks them up. I will describe this flow in a separate post, potentially on <a href="https://d12frosted.io/">d12frosted.io</a> (my technical blog). But just pause for a moment and think about all the tables with custom formatting, graphs, images, and private content (that has not leaked yet). My public notes are accessible both in Emacs and in a browser. This all makes me happy because I could combine three things I am passionate about - software engineering, wine and note-taking in Emacs.</p>
+<p>I hope you enjoy these little updates. Safe travels!</p>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>This list grows not only because I am drinking more wine, but also because I have lots of unpublished notes. At this point of time, I’ve published around 10% of what I have in my private notes.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+  </section>
+</article>
+
+    </main>
+
+    <footer>
+      Site proudly generated by
+      <a href="https://github.com/d12frosted/vulpea">Vulpea</a>,
+      <a href="https://github.com/d12frosted/vino">Vino</a>
+      and
+      <a href="http://jaspervdj.be/hakyll">Hakyll</a>
+    </footer>
+
+  </body>
+</html>

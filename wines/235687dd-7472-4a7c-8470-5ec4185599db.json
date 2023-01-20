@@ -1,0 +1,38 @@
+{
+  "id": "235687dd-7472-4a7c-8470-5ec4185599db",
+  "name": "Etna Rosso Santo Spirito",
+  "full-name": "Tenuta delle Terre Nere Etna Rosso Santo Spirito 2018",
+  "producer": {
+    "id": "150d819d-7b0e-4a2e-b71b-d73a83beae3a",
+    "name": "Tenuta delle Terre Nere"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1681 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/23/5687dd-7472-4a7c-8470-5ec4185599db/2022-11-18-09-08-45-B3D538E7-0935-43A6-B7A8-184185F03AFA-1-105-c.webp",
+  "rating": "8.5"
+}

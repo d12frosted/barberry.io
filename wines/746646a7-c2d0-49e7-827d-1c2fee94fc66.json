@@ -1,0 +1,34 @@
+{
+  "id": "746646a7-c2d0-49e7-827d-1c2fee94fc66",
+  "name": "Chablis Montserre",
+  "full-name": "Château de Béru Chablis Montserre 2018",
+  "producer": {
+    "id": "4d30cbc8-c930-4d1c-b7e6-884e381a0202",
+    "name": "Château de Béru"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0",
+  "prices": [
+    "1370 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/74/6646a7-c2d0-49e7-827d-1c2fee94fc66/2022-08-20-10-43-59-4F425655-952B-4245-B369-224F51BD3A98-1-105-c.webp",
+  "rating": "8.5"
+}

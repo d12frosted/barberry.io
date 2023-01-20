@@ -1,0 +1,34 @@
+{
+  "id": "e6abd222-5254-45ba-bba6-4eb328431065",
+  "name": "Côtes du Jura Savagnin les Chassagnes ouillé",
+  "full-name": "Philippe Bornard Côtes du Jura Savagnin les Chassagnes ouillé 2012",
+  "producer": {
+    "id": "87cad537-a30b-4bfe-af48-de2a73a44e35",
+    "name": "Philippe Bornard"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o.webp",
+  "rating": "8.5"
+}

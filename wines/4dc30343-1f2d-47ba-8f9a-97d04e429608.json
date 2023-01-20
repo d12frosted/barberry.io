@@ -1,0 +1,36 @@
+{
+  "id": "4dc30343-1f2d-47ba-8f9a-97d04e429608",
+  "name": "Carjcanti",
+  "full-name": "Gulfi Carjcanti 2019",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "926 UAH",
+    "908 UAH",
+    "1053 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/4d/c30343-1f2d-47ba-8f9a-97d04e429608/2022-11-25-16-45-49-IMG-3377.webp",
+  "rating": "NA"
+}

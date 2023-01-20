@@ -1,0 +1,38 @@
+{
+  "id": "d61583ca-8331-43ca-8e5e-74361b45b0d1",
+  "name": "Ladoix Les Briquottes",
+  "full-name": "François de Nicolay Ladoix Les Briquottes 2017",
+  "producer": {
+    "id": "163248a9-c9bc-498a-9107-0ab002f2ea9f",
+    "name": "François de Nicolay"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "917 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cd47aa9b-d3ca-4039-8b24-212abb20e97d",
+  "name": "Integer Zibibbo",
+  "full-name": "Marco De Bartoli Integer Zibibbo 2019",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1",
+  "prices": [
+    "1293 UAH",
+    "1090 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/cd/47aa9b-d3ca-4039-8b24-212abb20e97d/2022-08-07-11-26-17-1042A662-7747-448C-93C5-87AA4027CE8A-1-105-c.webp",
+  "rating": "8.0"
+}

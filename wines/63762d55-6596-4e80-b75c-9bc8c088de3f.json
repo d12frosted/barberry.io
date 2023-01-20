@@ -1,0 +1,34 @@
+{
+  "id": "63762d55-6596-4e80-b75c-9bc8c088de3f",
+  "name": "Nossa Calcario Baga",
+  "full-name": "Filipa Pato Nossa Calcario Baga 2018",
+  "producer": {
+    "id": "6537a578-cfe0-42d8-b38f-38ff0696866b",
+    "name": "Filipa Pato"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "984fc88b-636e-4685-a3dd-c8a03e3b3d3f",
+      "name": "Baga"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1313 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/63/762d55-6596-4e80-b75c-9bc8c088de3f/2022-11-19-10-45-19-80371607-7594-40BC-80B7-C4F157F9761E-1-105-c.webp",
+  "rating": "7.800000000000001"
+}

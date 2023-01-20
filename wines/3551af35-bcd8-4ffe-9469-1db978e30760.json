@@ -1,0 +1,34 @@
+{
+  "id": "3551af35-bcd8-4ffe-9469-1db978e30760",
+  "name": "Chablis Terroirs de Béru",
+  "full-name": "Château de Béru Chablis Terroirs de Béru 2018",
+  "producer": {
+    "id": "4d30cbc8-c930-4d1c-b7e6-884e381a0202",
+    "name": "Château de Béru"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/35/51af35-bcd8-4ffe-9469-1db978e30760/2022-11-26-11-19-23-26FFF051-DC18-49D3-A2FE-4393B2F0D5E0-1-105-c.webp",
+  "rating": "8.0"
+}

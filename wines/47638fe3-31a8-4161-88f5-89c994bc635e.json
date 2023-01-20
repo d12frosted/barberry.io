@@ -1,0 +1,35 @@
+{
+  "id": "47638fe3-31a8-4161-88f5-89c994bc635e",
+  "name": "Camándula",
+  "full-name": "Peixes Camándula 2019",
+  "producer": {
+    "id": "5f079311-f61e-4b9a-849e-d3736d0c3f4b",
+    "name": "Peixes"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "520 UAH",
+    "590 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/47/638fe3-31a8-4161-88f5-89c994bc635e/2023-01-16-16-26-38-IMG-4342.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "339f4542-fb3f-4c84-a69e-45548c3aa642",
+  "name": "Riverina Drover's Hut Chardonnay Single Vineyard",
+  "full-name": "Nugan Estate Riverina Drover's Hut Chardonnay Single Vineyard 2019",
+  "producer": {
+    "id": "93ed5d54-33aa-43b6-9c10-131f1c7d5224",
+    "name": "Nugan Estate"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "4.2",
+  "prices": [
+    "285 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/33/9f4542-fb3f-4c84-a69e-45548c3aa642/2023-01-10-06-52-00-1105CC67-B68F-4D63-90E6-E98595441386-1-105-c.webp",
+  "rating": "7.25"
+}

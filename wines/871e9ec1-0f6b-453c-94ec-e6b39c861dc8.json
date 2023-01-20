@@ -1,0 +1,34 @@
+{
+  "id": "871e9ec1-0f6b-453c-94ec-e6b39c861dc8",
+  "name": "Tenuta Regaleali Almerita Metodo Classico Brut",
+  "full-name": "Tasca Tenuta Regaleali Almerita Metodo Classico Brut 2017",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1298 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/87/1e9ec1-0f6b-453c-94ec-e6b39c861dc8/2023-01-07-15-39-33-IMG-4173.webp",
+  "rating": "7.800000000000001"
+}

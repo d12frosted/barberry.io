@@ -1,0 +1,36 @@
+{
+  "id": "470a1738-5cc3-4aac-a09a-7ab314af4c00",
+  "name": "Piano di Montevergine Taurasi",
+  "full-name": "Feudi di San Gregorio Piano di Montevergine Taurasi 2014",
+  "producer": {
+    "id": "e9a07255-1376-4b70-bbf2-0d358bff215a",
+    "name": "Feudi di San Gregorio"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "09807444-0445-4b57-9f04-0d26b8e444a3",
+      "name": "Aglianico"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.4",
+  "prices": [
+    "1472 UAH",
+    "1290 UAH",
+    "1130 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/47/0a1738-5cc3-4aac-a09a-7ab314af4c00/2021-12-23-08-38-50-1103030B-2C05-432E-A71B-913F1B559FC8-1-105-c.webp",
+  "rating": "7.5"
+}

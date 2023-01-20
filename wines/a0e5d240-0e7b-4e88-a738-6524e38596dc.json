@@ -1,0 +1,38 @@
+{
+  "id": "a0e5d240-0e7b-4e88-a738-6524e38596dc",
+  "name": "Viura Malvasia",
+  "full-name": "Viña Pomal Viura Malvasia 2017",
+  "producer": {
+    "id": "4182582c-a43d-4b29-afea-93fdb6352e44",
+    "name": "Viña Pomal"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a0/e5d240-0e7b-4e88-a738-6524e38596dc/2022-06-25-13-47-50-F0215729-4CFE-4BD5-814D-CB4F7E32CD20-1-105-c.webp",
+  "rating": "7.5"
+}

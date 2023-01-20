@@ -1,0 +1,34 @@
+{
+  "id": "39759de1-c9a6-4f03-83e9-455ec32e6459",
+  "name": "Lucido",
+  "full-name": "Marco De Bartoli Lucido 2019",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "489 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c.webp",
+  "rating": "7.5"
+}

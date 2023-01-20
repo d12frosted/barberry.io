@@ -1,0 +1,34 @@
+{
+  "id": "b49bc925-ac23-44e8-a60a-8603fc977cac",
+  "name": "Chardonnay Les Ammonites",
+  "full-name": "Buronfosse Chardonnay Les Ammonites 2018",
+  "producer": {
+    "id": "b9bef468-b428-41b8-a5a0-ecabdb129194",
+    "name": "Buronfosse"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.5",
+  "prices": [
+    "634 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b4/9bc925-ac23-44e8-a60a-8603fc977cac/2022-05-08-16-04-16-391C37B6-E2F3-4394-930D-18269DE5145A-1-102-o.webp",
+  "rating": "NA"
+}

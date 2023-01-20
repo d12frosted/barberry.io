@@ -1,0 +1,34 @@
+{
+  "id": "2d1710fb-5361-48d5-93c5-963b5db134a8",
+  "name": "Sauvignon Blanc Reserva",
+  "full-name": "Luis Felipe Edwards Sauvignon Blanc Reserva 2019",
+  "producer": {
+    "id": "c31688b5-ff1d-4074-b47a-3b2c2c8e5ac4",
+    "name": "Luis Felipe Edwards"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2d/1710fb-5361-48d5-93c5-963b5db134a8/2022-05-25-08-45-04-065CB6D4-9C42-4360-BDB7-65247C26C531-1-105-c.webp",
+  "rating": "7.25"
+}

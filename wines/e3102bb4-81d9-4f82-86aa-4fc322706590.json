@@ -1,0 +1,42 @@
+{
+  "id": "e3102bb4-81d9-4f82-86aa-4fc322706590",
+  "name": "Al Dente",
+  "full-name": "Marto Al Dente 2018",
+  "producer": {
+    "id": "547556c5-86ba-4b9e-a7f9-7776e6963cfc",
+    "name": "Marto"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e3/102bb4-81d9-4f82-86aa-4fc322706590/2020-07-08-15-33-51-134C2EE4-BEF4-4F99-A1F7-5511F39E8BD1-1-105-c.webp",
+  "rating": "7.166666666666667"
+}

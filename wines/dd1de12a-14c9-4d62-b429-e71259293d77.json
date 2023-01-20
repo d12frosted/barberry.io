@@ -1,0 +1,34 @@
+{
+  "id": "dd1de12a-14c9-4d62-b429-e71259293d77",
+  "name": "Tenuta Tascante Buonora",
+  "full-name": "Tasca Tenuta Tascante Buonora 2019",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "815 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dd/1de12a-14c9-4d62-b429-e71259293d77/2022-06-05-10-54-20-4E514A68-3C94-4708-A0B2-CBA77E479A0B-1-105-c.webp",
+  "rating": "7.5"
+}

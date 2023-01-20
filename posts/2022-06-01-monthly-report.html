@@ -1,0 +1,444 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Monthly report - May 2022 | Barberry Garden</title>
+    <meta name="description" content="Monthly report - May 2022">
+
+    <meta property="og:site_name" content="Barberry Garden">
+    <meta property="og:title" content="Monthly report - May 2022 | Barberry Garden" />
+    <meta property="og:description" content="Monthly report - May 2022" />
+    
+    <meta property="og:url" content="https://barberry.io/posts/2022-06-01-monthly-report.html" />
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article" />
+    
+    <meta property="article:published_time" content="2022-06-01">
+    
+    
+    <meta property="article:modified_time" content="2022-12-11">
+    
+    <meta property="article:author:first_name" content="Boris">
+    <meta property="article:author:last_name" content="Buliga">
+
+
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=M+PLUS+Rounded+1c:wght@300;400;500;700&family=Source+Code+Pro:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/default.css" />
+    <link rel="stylesheet" href="../css/fonts.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="manifest" href="../site.webmanifest">
+    <script data-goatcounter="https://barberry.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="../">Barberry Garden</a>
+      </div>
+      <nav>
+        <a href="../posts.html">Posts</a>
+        <a href="../wines.html">Wines</a>
+        <a href="../reviews.html">Reviews</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <article>
+  <h1>Monthly report - May 2022</h1>
+  <section class="subtitle">
+    Posted on June  1, 2022
+    
+      by Boris
+    
+  </section>
+  
+  <section class="subtitle">
+    Updated on December 11, 2022
+  </section>
+  
+  <section>
+    <link href="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css" rel="stylesheet">
+<script src="../library/jquery/dist/jquery.min.js"></script>
+<script src="../library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
+<script>
+function ratingSorter(a, b) {
+  const aa = a == '-' ? 0 : parseFloat(a);
+  const bb = b == '-' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function vintageSorter(a, b) {
+  const aa = a == 'NV' ? 0 : parseFloat(a);
+  const bb = b == 'NV' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function htmlSorter(a, b) {
+  return strSorter($(a).text(), $(b).text())
+}
+
+function strSorter(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
+}
+      </script>
+<script src="../library/chart.js/dist/chart.min.js"></script><script src="../library/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js"></script>
+<p><img src="../images/2022-06-01-monthly-report/dugat-py-cork.webp" /></p>
+<p>Little by little I am getting back to mindful wine consumption. Ratio of total wines rated to total wines consumed is also getting back to normal - 59%. So according to my notes, this month I consumed 49 bottles and rated 29 of them. And all ratings are unique (e.g. no wine was rated twice).</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="countries"></canvas><script>
+      const countriesChart = new Chart(document.getElementById("countries").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["Italy","France","Chile","New Zealand","Australia","Ukraine","Spain","Austria"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["9","6","5","4","2","1","1","1"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * countriesChart.data.labels.length + ticksHeight;
+        document.getElementById("countries").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>Country-wise, this month wasn’t that fruitful, only 8 countries are present in my ratings. But there are several interesting points. Somehow Italy got to the first place with 9 wines rated. And despite the fact that during the last 3 months I’ve been drinking absurdly huge amount of Ukrainian wines, only one was rated, but what a wine - <a href="https://barberry.io/wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">Vinoman BLU Pinot Noir 2019</a>! And what amazes me the most, Chile is on the 3rd place with 5 wines rated. Look, I have nothing against Chile, but my last Chile wine rating was made on 2021-11-20 and before that on 2021-06-17. So not a common guest in my glass. And I must confess, this month I enjoyed some of the Sauvignon Blancs from there.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="vintages"></canvas><script>
+      const vintagesChart = new Chart(document.getElementById("vintages").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["2020","2019","2018","2016","2014","2013","NV"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["8","8","3","1","1","1","7"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * vintagesChart.data.labels.length + ticksHeight;
+        document.getElementById("vintages").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>The youngest vintage rated is 2020 and it was rated 8 times, it’s the same amount of ratings 2019 got. The oldest vintage rated is 2013, and I am happy that it was Champagne - <a href="../wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">Lamiable Cuvee Pheerie 2013</a>.</p>
+<p>In terms of color and carbonation distribution it’s quite boring, but since I have this data, let me share it. This month I rated 14 white, 13 red and 2 rosé wines. 21 of all rated wines are still and 8 sparkling.</p>
+<p>On the other hand, this month is fruitful in terms of grapes (pun intended). In total, I’ve rated 26 distinct grapes. And this is considering I’ve rated 29 wines in total! Top three are Pinot Noir (8), Sauvignon Blanc (5) and Chardonnay (4). But most importantly, this month I’ve tasted and rated Malvasía de Sitges for the first time in my memory (e.g. my system memory) - it was part of the blend in <a href="../wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">Raventós i Blanc Blanc de Blancs Extra Brut 2018</a>.</p>
+<p>Now to the most interesting part. My top list of the month.</p>
+<ol type="1">
+<li>8.5 <a href="../wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">Lamiable Cuvee Pheerie 2013</a> - almost 9 years old Champagne for 1377 UAH (~$46), that’s amazing QPR. Drink now.</li>
+<li>8.5 <a href="../wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">Jacquesson Cuvée 744 Grand Vin (2016) NV</a> - it’s still too young, and seems like it has amazing potential. Buy while it’s in stocks and store it for few years..</li>
+<li>8.0 <a href="../wines/9e046e12-6366-4d23-8657-ee421ad00794.html">Weingut Bründlmayer Brut Rosé NV</a> - one of my favourite sparkling rosé wines, consistently delivers for a good price.</li>
+<li>8.0 <a href="../wines/baf18c42-2e67-4108-967a-d540bc105779.html">Cascina Bertolotto Spumante Brut Metodo Classico NV</a> - discovery of the month. Traditional sparkling from Piedmont that is almost 13 years old. And I found it by accident, it was hidden on a shelf behind some mainstream Champagne labels. Happy that I did!</li>
+<li>8.0 <a href="../wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">Craggy Range Gimblett Gravels Syrah 2018</a> - my first Syrah from New Zealand and definitely not the last. I absolutely love the delicacy and complexity of this wine. Having its potential in mind I can only wonder how it evolve in few years.</li>
+</ol>
+<p>So despite having rated only 8 sparkling wines, 4 of them are at the top. Who would expect that? And there are other interesting wines I rated this month, but now let’s take a look at the worst wines.</p>
+<ol type="1">
+<li>4.5 <a href="../wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html">Cantina la Salute Sauvignon</a> - it is not bad, just… well, at least buy it for adequate price.</li>
+<li>5.0 <a href="../wines/1158f9e0-3925-40bc-976a-91337cfd8031.html">Barton &amp; Guestier Chardonnay Réserve 2019</a> - mediocre Chardonnay for those who want to feel oak pieces in their glass.</li>
+<li>5.2 <a href="../wines/ea476527-6fc9-4400-9827-dbf63cc3299a.html">Sizarini Pinot Grigio 2020</a> - this one must be chilled as much as possible and enjoyed in a hot summer day. Add a nice view, and… ah wine! This one is for background.</li>
+</ol>
+<p>Nothing that critical, just mediocre wines. So no witch hunting this month.</p>
+<div class="table-container">
+<table id="ratings-data" data-toggle="table" data-search="true" data-show-columns="true" data-show-columns-toggle-all="true" data-pagination="false" data-search-accent-neutralise="true" data-trim-on-search="false" data-search-highlight="true" class="wines-table">
+<thead>
+<tr class="header">
+<th data-sortable="true" data-field="date" data-sorter="strSorter">date</th>
+<th data-sortable="true" data-field="country" data-sorter="strSorter">country</th>
+<th data-sortable="true" data-field="producer" data-sorter="htmlSorter">producer</th>
+<th data-sortable="true" data-field="name" data-sorter="htmlSorter">name</th>
+<th data-sortable="true" data-field="vintage" data-sorter="vintageSorter">vintage</th>
+<th data-sortable="true" data-field="rate" data-sorter="ratingSorter">rate</th>
+<th data-sortable="true" data-field="QPR" data-sorter="ratingSorter">QPR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2022-05-31</td>
+<td>New Zealand</td>
+<td><a href="../producers/1c67e0d2-d88a-470d-b953-713eb163a35d.html">Craggy Range</a></td>
+<td><a href="../wines/1ec23f8f-3d80-42b5-88ea-e07543a1471c.html">Craggy Range Gimblett Gravels Syrah 2018</a></td>
+<td>2018</td>
+<td>8.00</td>
+<td>2.6637</td>
+</tr>
+<tr class="even">
+<td>2022-05-31</td>
+<td>Ukraine</td>
+<td><a href="../producers/1360c306-3364-428a-a606-7f44dfbef128.html">Vinoman</a></td>
+<td><a href="../wines/5b2f5a0f-a181-4421-a1bd-9248f685a076.html">Vinoman BLU Pinot Noir 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>1.5078</td>
+</tr>
+<tr class="odd">
+<td>2022-05-31</td>
+<td>Australia</td>
+<td><a href="../producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="../wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">Lucy Margaux Vino Rosso 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>2.1429</td>
+</tr>
+<tr class="even">
+<td>2022-05-30</td>
+<td>Italy</td>
+<td><a href="../producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00.html">Cascina Bertolotto</a></td>
+<td><a href="../wines/baf18c42-2e67-4108-967a-d540bc105779.html">Cascina Bertolotto Spumante Brut Metodo Classico NV</a></td>
+<td>NV</td>
+<td>8.00</td>
+<td>2.8039</td>
+</tr>
+<tr class="odd">
+<td>2022-05-29</td>
+<td>France</td>
+<td><a href="../producers/8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3.html">Francois Montand</a></td>
+<td><a href="../wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">Francois Montand Méthode Traditionnelle Rosé Brut NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>4.4099</td>
+</tr>
+<tr class="even">
+<td>2022-05-29</td>
+<td>New Zealand</td>
+<td><a href="../producers/5adc65b2-3db4-424a-85f7-5bf53d7f5b11.html">Saint Clair</a></td>
+<td><a href="../wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">Saint Clair Origin Pinot Noir Marlborough 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.0685</td>
+</tr>
+<tr class="odd">
+<td>2022-05-29</td>
+<td>Spain</td>
+<td><a href="../producers/506d95ca-6d9a-4931-9f16-cd3e9f6dac8e.html">Raventós i Blanc</a></td>
+<td><a href="../wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">Raventós i Blanc Blanc de Blancs Extra Brut 2018</a></td>
+<td>2018</td>
+<td>7.75</td>
+<td>1.1715</td>
+</tr>
+<tr class="even">
+<td>2022-05-27</td>
+<td>Italy</td>
+<td><a href="../producers/76d73220-0673-4868-99a9-dc6f8e3dcdd8.html">Terra Fresca</a></td>
+<td><a href="../wines/4e6b1890-7360-4d61-af6a-e7a6ac427f98.html">Terra Fresca frizzante NV</a></td>
+<td>NV</td>
+<td>6.50</td>
+<td>1.6570</td>
+</tr>
+<tr class="odd">
+<td>2022-05-27</td>
+<td>Italy</td>
+<td><a href="../producers/046e3c56-7323-4717-b54d-501d72d4df38.html">Borgo Solè</a></td>
+<td><a href="../wines/db3a6fa1-c0df-4989-9814-0ba62b5ea7a0.html">Borgo Solè Prosecco Brut NV</a></td>
+<td>NV</td>
+<td>6.50</td>
+<td>2.0713</td>
+</tr>
+<tr class="even">
+<td>2022-05-25</td>
+<td>Italy</td>
+<td><a href="../producers/9fa9b26e-cc11-4535-a603-35bfcf4f67ea.html">Savella</a></td>
+<td><a href="../wines/52d8f9cc-a099-4ef3-a780-1fc9d4cdfb9b.html">Savella Pinot Grigio 2020</a></td>
+<td>2020</td>
+<td>6.50</td>
+<td>2.7617</td>
+</tr>
+<tr class="odd">
+<td>2022-05-25</td>
+<td>Italy</td>
+<td><a href="../producers/44a9f4a0-8f9f-4022-814c-360f2150997b.html">Cantina la Salute</a></td>
+<td><a href="../wines/f8700904-7523-4355-b681-9ba9f2aa85c4.html">Cantina la Salute Sauvignon NV</a></td>
+<td>NV</td>
+<td>4.50</td>
+<td>0.5665</td>
+</tr>
+<tr class="even">
+<td>2022-05-24</td>
+<td>Chile</td>
+<td><a href="../producers/6b682c47-5759-49f0-98d3-b74af0065304.html">Concha y Toro</a></td>
+<td><a href="../wines/82ef2f7d-3296-4f4c-83e9-42bd04688e9a.html">Concha y Toro Casillero del Diablo Sauvignon Blanc 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>3.1508</td>
+</tr>
+<tr class="odd">
+<td>2022-05-23</td>
+<td>Italy</td>
+<td><a href="../producers/207c456f-75f3-4f37-9870-8cbccfdb4724.html">Villa Puccini</a></td>
+<td><a href="../wines/369b6213-1ce1-44a8-bd85-10ab7bdf2023.html">Villa Puccini Chianti Riserva 2016</a></td>
+<td>2016</td>
+<td>6.50</td>
+<td>2.0975</td>
+</tr>
+<tr class="even">
+<td>2022-05-21</td>
+<td>Chile</td>
+<td><a href="../producers/c31688b5-ff1d-4074-b47a-3b2c2c8e5ac4.html">Luis Felipe Edwards</a></td>
+<td><a href="../wines/fe706fbf-c139-4372-98b7-afe4249f0ce1.html">Luis Felipe Edwards Sauvignon Blanc 2020</a></td>
+<td>2020</td>
+<td>6.50</td>
+<td>2.4368</td>
+</tr>
+<tr class="odd">
+<td>2022-05-21</td>
+<td>Chile</td>
+<td><a href="../producers/c31688b5-ff1d-4074-b47a-3b2c2c8e5ac4.html">Luis Felipe Edwards</a></td>
+<td><a href="../wines/2d1710fb-5361-48d5-93c5-963b5db134a8.html">Luis Felipe Edwards Sauvignon Blanc Reserva 2019</a></td>
+<td>2019</td>
+<td>7.25</td>
+<td>2.8293</td>
+</tr>
+<tr class="even">
+<td>2022-05-20</td>
+<td>France</td>
+<td><a href="../producers/39321d2b-1842-42d5-be3a-4a4edd3322de.html">Barton &amp; Guestier</a></td>
+<td><a href="../wines/1158f9e0-3925-40bc-976a-91337cfd8031.html">Barton &amp; Guestier Chardonnay Réserve 2019</a></td>
+<td>2019</td>
+<td>5.00</td>
+<td>0.7225</td>
+</tr>
+<tr class="odd">
+<td>2022-05-19</td>
+<td>Italy</td>
+<td><a href="../producers/cfa1293d-4c36-4cb6-8a44-0b5d4aee7654.html">Sizarini</a></td>
+<td><a href="../wines/ea476527-6fc9-4400-9827-dbf63cc3299a.html">Sizarini Pinot Grigio 2020</a></td>
+<td>2020</td>
+<td>5.25</td>
+<td>1.3907</td>
+</tr>
+<tr class="even">
+<td>2022-05-18</td>
+<td>Chile</td>
+<td><a href="../producers/1dc2cf9e-9933-46a8-9b6e-4c6cd5a6b0ea.html">San Pedro</a></td>
+<td><a href="../wines/c41d60a7-b441-43cb-8d8a-ca05fed8b2b4.html">San Pedro Gato Negro Merlot 2020</a></td>
+<td>2020</td>
+<td>6.00</td>
+<td>2.5000</td>
+</tr>
+<tr class="odd">
+<td>2022-05-17</td>
+<td>Chile</td>
+<td><a href="../producers/6b682c47-5759-49f0-98d3-b74af0065304.html">Concha y Toro</a></td>
+<td><a href="../wines/ee50b000-a312-4fce-b420-744aaa529116.html">Concha y Toro Casillero del Diablo Carmenere Reserva 2019</a></td>
+<td>2019</td>
+<td>5.75</td>
+<td>1.1421</td>
+</tr>
+<tr class="even">
+<td>2022-05-17</td>
+<td>France</td>
+<td><a href="../producers/d6df0bde-0385-452c-8ec9-43cd9341e5ec.html">Lamiable</a></td>
+<td><a href="../wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">Lamiable Cuvee Pheerie 2013</a></td>
+<td>2013</td>
+<td>8.50</td>
+<td>2.5571</td>
+</tr>
+<tr class="odd">
+<td>2022-05-16</td>
+<td>Austria</td>
+<td><a href="../producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="../wines/9e046e12-6366-4d23-8657-ee421ad00794.html">Weingut Bründlmayer Brut Rosé NV</a></td>
+<td>NV</td>
+<td>8.00</td>
+<td>2.4372</td>
+</tr>
+<tr class="even">
+<td>2022-05-15</td>
+<td>New Zealand</td>
+<td><a href="../producers/86dc3674-f53b-4b77-9d80-07d10dbd1249.html">Fernway</a></td>
+<td><a href="../wines/c15d6dfa-47c0-44e8-8103-015892c1bfcf.html">Fernway Sauvignon Blanc 2019</a></td>
+<td>2019</td>
+<td>7.00</td>
+<td>1.5509</td>
+</tr>
+<tr class="odd">
+<td>2022-05-14</td>
+<td>France</td>
+<td><a href="../producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca.html">Jacquesson</a></td>
+<td><a href="../wines/3d289f72-4a84-4d3e-9598-4865b952b023.html">Jacquesson Cuvée 744 Grand Vin (2016) NV</a></td>
+<td>NV</td>
+<td>8.50</td>
+<td>1.7143</td>
+</tr>
+<tr class="even">
+<td>2022-05-11</td>
+<td>Italy</td>
+<td><a href="../producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e.html">Cascina Tavijn</a></td>
+<td><a href="../wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">Cascina Tavijn Bandita 2019</a></td>
+<td>2019</td>
+<td>7.75</td>
+<td>4.0298</td>
+</tr>
+<tr class="odd">
+<td>2022-05-10</td>
+<td>France</td>
+<td><a href="../producers/edd81899-a92d-49ad-9566-a6f0c333c220.html">Patrice Beguet</a></td>
+<td><a href="../wines/72af4b22-a56f-4f04-a0e7-c6e3a6179600.html">Patrice Beguet Big Bunch Theory Fresh Impression Red 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>2.6752</td>
+</tr>
+<tr class="even">
+<td>2022-05-08</td>
+<td>Australia</td>
+<td><a href="../producers/5166bbee-f282-41d3-a92d-08890f2ce175.html">Two Hands</a></td>
+<td><a href="../wines/c3c1c92a-167f-4360-99af-9c26de2ae5dd.html">Two Hands Sexy Beast 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>2.3770</td>
+</tr>
+<tr class="odd">
+<td>2022-05-04</td>
+<td>Italy</td>
+<td><a href="../producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9.html">San Leonardo</a></td>
+<td><a href="../wines/6f8ecc8d-b962-4a1d-a305-6999b5e6c38e.html">San Leonardo Terre di San Leonardo 2014</a></td>
+<td>2014</td>
+<td>7.75</td>
+<td>2.8210</td>
+</tr>
+<tr class="even">
+<td>2022-05-04</td>
+<td>France</td>
+<td><a href="../producers/20bee0c4-c9a6-42e6-ac4b-c1c04e1aeceb.html">Paul Benoit et Fils</a></td>
+<td><a href="../wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">Paul Benoit et Fils Pinot Arbois 2018</a></td>
+<td>2018</td>
+<td>7.50</td>
+<td>2.3934</td>
+</tr>
+<tr class="odd">
+<td>2022-05-04</td>
+<td>New Zealand</td>
+<td><a href="../producers/7eb768d3-a775-458d-a29c-9a6df3da6216.html">Mud House</a></td>
+<td><a href="../wines/d31203d7-6889-4b84-b67a-05cafc0a5cef.html">Mud House Pinot Noir Central Otago 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>2.3738</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>And I want to finish my report with one special mention. As you might know, Goodwine storage was destroyed at the beginning of the war. Estimated loss is 15 billion euros. Some wines survived physically, though they are completely spoiled. On the last day of May I had an opportunity to taste Gevrey-Chambertin Cuvée Cœur de Roy 2014 by famous Bernard Dugat-Py. This bottle ‘survived’ is the fires, though the label was completely ruined and we figured out what wine we opened only thanks to the writings on the cork.</p>
+<p>I must note that I don’t really like Dugat-Py style. It’s powerful, expressive and stands out from other producers, but I find nothing sexy in this style. For example, there is Jean Grivot with expressive and unique style, but his wines are delicate and beautiful. Someone joked that Dugat-Py is Bourgogne for Bordeaux fans.</p>
+<p>Nevertheless, I tasted this dead wine and in the flavours of burnt tires and paper, in this disintegrated and broken body I found solace. And I found comfort. It’s too early to extract feelings into words, but at least I know that my small world can carry on. Not by inertia, but at will.</p>
+<p>Safe travels!</p>
+  </section>
+</article>
+
+    </main>
+
+    <footer>
+      Site proudly generated by
+      <a href="https://github.com/d12frosted/vulpea">Vulpea</a>,
+      <a href="https://github.com/d12frosted/vino">Vino</a>
+      and
+      <a href="http://jaspervdj.be/hakyll">Hakyll</a>
+    </footer>
+
+  </body>
+</html>

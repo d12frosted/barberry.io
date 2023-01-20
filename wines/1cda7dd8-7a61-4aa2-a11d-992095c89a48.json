@@ -1,0 +1,35 @@
+{
+  "id": "1cda7dd8-7a61-4aa2-a11d-992095c89a48",
+  "name": "Vin Blanc",
+  "full-name": "Clos du Tue-Boeuf Vin Blanc 2021",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "11.86",
+  "sugar": "1.88",
+  "prices": [
+    "554 UAH",
+    "630 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1c/da7dd8-7a61-4aa2-a11d-992095c89a48/2022-09-26-19-08-01-4B921E77-AB08-49AA-AFAA-FE1DEF1BFF98-1-102-o.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "877d6831-deea-428d-b19d-b7908a77389e",
+  "name": "Viognier Yarden",
+  "full-name": "Golan Heights Winery Viognier Yarden 2017",
+  "producer": {
+    "id": "6af33cac-4d40-4a63-9799-597578b5cb1c",
+    "name": "Golan Heights Winery"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "88c84102-40e4-4870-9905-1b3c8c4652f9",
+    "name": "Israel"
+  },
+  "grapes": [
+    {
+      "id": "a4c5d0b7-cac6-43ce-837b-f03c9de19d5a",
+      "name": "Viognier"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "1.1",
+  "prices": [
+    "569 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/87/7d6831-deea-428d-b19d-b7908a77389e/2022-06-12-17-32-22-FD28EF14-DF03-405B-AA06-8A6EA800F3A3.webp",
+  "rating": "7.5"
+}

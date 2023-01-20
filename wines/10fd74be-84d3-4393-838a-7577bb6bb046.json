@@ -1,0 +1,34 @@
+{
+  "id": "10fd74be-84d3-4393-838a-7577bb6bb046",
+  "name": "Bourgogne Chardonnay",
+  "full-name": "Bruno Colin Bourgogne Chardonnay 2020",
+  "producer": {
+    "id": "77900201-feae-42ca-9163-a230072afbac",
+    "name": "Bruno Colin"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/10/fd74be-84d3-4393-838a-7577bb6bb046/2022-11-19-11-01-10-2A8DF956-F9EE-4370-BC8F-698F6B8FA158-1-105-c.webp",
+  "rating": "7.5"
+}

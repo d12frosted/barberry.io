@@ -1,0 +1,34 @@
+{
+  "id": "6fc64ae0-655b-426f-a342-a53f1301391e",
+  "name": "Rosado",
+  "full-name": "Frey Rosado 2016",
+  "producer": {
+    "id": "7682ac73-6e97-4046-8d64-8ffda50fa51a",
+    "name": "Frey"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "3e7b8740-0fe9-4683-af09-15bade39dbf9",
+      "name": "Touriga Nacional"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "821 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6f/c64ae0-655b-426f-a342-a53f1301391e/2022-12-07-21-14-33-89CA1476-EA8A-470D-B160-56B3D851D925-1-105-c.webp",
+  "rating": "7.5"
+}

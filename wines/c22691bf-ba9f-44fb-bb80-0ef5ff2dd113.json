@@ -1,0 +1,34 @@
+{
+  "id": "c22691bf-ba9f-44fb-bb80-0ef5ff2dd113",
+  "name": "Gnarly Dudes",
+  "full-name": "Two Hands Gnarly Dudes 2020",
+  "producer": {
+    "id": "5166bbee-f282-41d3-a92d-08890f2ce175",
+    "name": "Two Hands"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "14.2",
+  "sugar": "0.3",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c2/2691bf-ba9f-44fb-bb80-0ef5ff2dd113/2022-09-20-16-06-18-IMG-2335.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912",
+  "name": "Pietra Nera",
+  "full-name": "Marco De Bartoli Pietra Nera 2018",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "907 UAH",
+    "868 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2020-07-24-20-26-38-214F1F5C-1961-4272-911C-5768091A6EC8-1-105-c.webp",
+  "rating": "8.375"
+}

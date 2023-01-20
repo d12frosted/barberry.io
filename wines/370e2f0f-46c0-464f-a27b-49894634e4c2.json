@@ -1,0 +1,39 @@
+{
+  "id": "370e2f0f-46c0-464f-a27b-49894634e4c2",
+  "name": "Rollaball",
+  "full-name": "Matassa Rollaball 2020",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.5",
+  "prices": [
+    "682 UAH",
+    "774 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/37/0e2f0f-46c0-464f-a27b-49894634e4c2/2021-09-04-13-38-48-D4C72240-BE5B-4393-9C98-D98EB02B87CF-1-105-c.webp",
+  "rating": "7.75"
+}

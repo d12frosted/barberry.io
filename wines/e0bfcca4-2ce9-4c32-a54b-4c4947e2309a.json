@@ -1,0 +1,34 @@
+{
+  "id": "e0bfcca4-2ce9-4c32-a54b-4c4947e2309a",
+  "name": "Bourgogne Tonnerre",
+  "full-name": "Dominuque Gruhier Bourgogne Tonnerre 2019",
+  "producer": {
+    "id": "710b44e2-6c39-49eb-ba99-652475dfab10",
+    "name": "Dominuque Gruhier"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "779 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e0/bfcca4-2ce9-4c32-a54b-4c4947e2309a/2023-01-07-11-41-15-CA9FE2DA-A475-4AB3-B23D-16939651AE02-1-105-c.webp",
+  "rating": "7.5"
+}

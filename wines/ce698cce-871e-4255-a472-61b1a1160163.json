@@ -1,0 +1,35 @@
+{
+  "id": "ce698cce-871e-4255-a472-61b1a1160163",
+  "name": "Fuente de los Huertos",
+  "full-name": "Ca' di Mat Fuente de los Huertos 2017",
+  "producer": {
+    "id": "77579d36-240c-4859-83d2-f3c69fc41c91",
+    "name": "Ca' di Mat"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "572 UAH",
+    "1034 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c.webp",
+  "rating": "8.375"
+}

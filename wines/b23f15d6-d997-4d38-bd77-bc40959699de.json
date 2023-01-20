@@ -1,0 +1,34 @@
+{
+  "id": "b23f15d6-d997-4d38-bd77-bc40959699de",
+  "name": "Le Cornillard Anjou",
+  "full-name": "Domaine Patrick Baudouin Le Cornillard Anjou 2014",
+  "producer": {
+    "id": "fb17990c-6efd-4fab-afe7-72c1d40817a7",
+    "name": "Domaine Patrick Baudouin"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "2200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b2/3f15d6-d997-4d38-bd77-bc40959699de/2021-10-18-21-41-47-34480A54-4F80-46FD-949B-7F1BABBDED2E-1-105-c.webp",
+  "rating": "8.5"
+}

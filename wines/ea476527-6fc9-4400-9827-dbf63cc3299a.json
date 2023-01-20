@@ -1,0 +1,34 @@
+{
+  "id": "ea476527-6fc9-4400-9827-dbf63cc3299a",
+  "name": "Pinot Grigio",
+  "full-name": "Sizarini Pinot Grigio 2020",
+  "producer": {
+    "id": "cfa1293d-4c36-4cb6-8a44-0b5d4aee7654",
+    "name": "Sizarini"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "275 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ea/476527-6fc9-4400-9827-dbf63cc3299a/2022-05-20-08-31-29-3797A28C-8202-44CA-9F0D-FA8DEE9C7B62-1-105-c.webp",
+  "rating": "5.25"
+}

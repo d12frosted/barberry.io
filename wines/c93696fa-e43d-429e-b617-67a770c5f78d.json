@@ -1,0 +1,34 @@
+{
+  "id": "c93696fa-e43d-429e-b617-67a770c5f78d",
+  "name": "Barbera d'Alba",
+  "full-name": "Guido Porro Barbera d'Alba 2018",
+  "producer": {
+    "id": "6eea1b5f-c6e2-4ace-96a6-826481fbc6c7",
+    "name": "Guido Porro"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0.2",
+  "prices": [
+    "464 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c9/3696fa-e43d-429e-b617-67a770c5f78d/2022-06-09-22-11-03-IMG-0396.webp",
+  "rating": "7.25"
+}

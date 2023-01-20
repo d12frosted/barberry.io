@@ -1,0 +1,34 @@
+{
+  "id": "d42317ae-b258-4c87-9fe0-5d94ad9bfaf6",
+  "name": "Cuvee Pheerie",
+  "full-name": "Lamiable Cuvee Pheerie 2013",
+  "producer": {
+    "id": "d6df0bde-0385-452c-8ec9-43cd9341e5ec",
+    "name": "Lamiable"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": "2021",
+  "sur-lie": "84 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "Brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.3",
+  "prices": [
+    "1377 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/2317ae-b258-4c87-9fe0-5d94ad9bfaf6/2021-12-17-18-29-40-4EE43126-146C-4C5A-A507-F4DB70F5A1C0-1-105-c.webp",
+  "rating": "8.375"
+}

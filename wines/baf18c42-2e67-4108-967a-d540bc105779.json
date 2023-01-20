@@ -1,0 +1,40 @@
+{
+  "id": "baf18c42-2e67-4108-967a-d540bc105779",
+  "name": "Spumante Brut Metodo Classico",
+  "full-name": "Cascina Bertolotto Spumante Brut Metodo Classico NV",
+  "producer": {
+    "id": "e0dd5c52-230f-4b71-92d7-d891ded8cc00",
+    "name": "Cascina Bertolotto"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "841 UAH",
+    "825 UAH",
+    "900 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ba/f18c42-2e67-4108-967a-d540bc105779/2022-05-30-21-55-48-IMG-0260.webp",
+  "rating": "8.1"
+}

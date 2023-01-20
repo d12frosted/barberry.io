@@ -1,0 +1,39 @@
+{
+  "id": "509cf98c-c4b2-4ce2-ae02-73ff7e008cb5",
+  "name": "L'Atavique",
+  "full-name": "Mouzon-Leroux L'Atavique NV",
+  "producer": {
+    "id": "81bfd5b7-36b2-4127-91b4-e81f16da69cd",
+    "name": "Mouzon-Leroux"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "8",
+  "prices": [
+    "1510 UAH",
+    "1331 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c.webp",
+  "rating": "8.316666666666666"
+}

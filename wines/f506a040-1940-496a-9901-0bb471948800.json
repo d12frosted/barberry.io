@@ -1,0 +1,51 @@
+{
+  "id": "f506a040-1940-496a-9901-0bb471948800",
+  "name": "Gluegglich Glückliches",
+  "full-name": "Loimer Gluegglich Weiß Glückliches NV",
+  "producer": {
+    "id": "f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff",
+    "name": "Loimer"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "f3a8d85e-1e8e-4161-b2b7-f702b46c1ae4",
+      "name": "Zierfandler"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "67038e4b-a2ed-4b3b-98a7-d898982771a6",
+      "name": "Rotgipfler"
+    },
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "518 UAH",
+    "420 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813.webp",
+  "rating": "7.125"
+}

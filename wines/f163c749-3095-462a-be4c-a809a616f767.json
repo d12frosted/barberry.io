@@ -1,0 +1,34 @@
+{
+  "id": "f163c749-3095-462a-be4c-a809a616f767",
+  "name": "Sauvignon Blanc",
+  "full-name": "Brancott Estate Sauvignon Blanc 2018",
+  "producer": {
+    "id": "cb3d4d47-89e2-4f60-b950-c6b6711b26d1",
+    "name": "Brancott Estate"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "385 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f1/63c749-3095-462a-be4c-a809a616f767/2021-03-03-20-10-42-E9634367-F2F8-411B-B14F-B8BA35420981-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dd7001ca-33ee-42aa-936f-01f253557ecc",
+  "name": "Aus Pet Nat",
+  "full-name": "Alta Alella Aus Pet Nat 2020",
+  "producer": {
+    "id": "22f1d635-2e35-429e-9ba7-4a2b8d3c67f1",
+    "name": "Alta Alella"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "630 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c.webp",
+  "rating": "4.5"
+}

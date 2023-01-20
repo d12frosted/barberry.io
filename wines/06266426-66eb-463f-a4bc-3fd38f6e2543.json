@@ -1,0 +1,38 @@
+{
+  "id": "06266426-66eb-463f-a4bc-3fd38f6e2543",
+  "name": "SP68 Bianco",
+  "full-name": "Arianna Occhipinti SP68 Bianco 2015",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "63532852-c67a-4b8d-ac42-1ae9be28610e",
+      "name": "Albanello"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/06/266426-66eb-463f-a4bc-3fd38f6e2543/2021-09-01-07-41-26-94CA2896-F5CE-4BC3-B2A3-DAE4899A4B74-1-105-c.webp",
+  "rating": "8.25"
+}

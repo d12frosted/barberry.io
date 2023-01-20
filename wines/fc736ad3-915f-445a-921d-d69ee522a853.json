@@ -1,0 +1,34 @@
+{
+  "id": "fc736ad3-915f-445a-921d-d69ee522a853",
+  "name": "Côte Grand Cru",
+  "full-name": "Bérêche & Fils Côte Grand Cru 2016",
+  "producer": {
+    "id": "18b6ff64-8c47-4ad7-8c3c-01176de9a865",
+    "name": "Bérêche & Fils"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": "March 2022",
+  "sur-lie": "70 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3",
+  "prices": [
+    "3348 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fc/736ad3-915f-445a-921d-d69ee522a853/2022-11-29-10-42-21-IMG-3493.webp",
+  "rating": "8.5"
+}

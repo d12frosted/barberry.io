@@ -1,0 +1,38 @@
+{
+  "id": "abe4809a-958e-46f3-8b58-5575332beb1e",
+  "name": "Margaux Cru Bourgeois",
+  "full-name": "Chateau d'Arsac Margaux Cru Bourgeois 2016",
+  "producer": {
+    "id": "b47de2e7-c45e-4c1a-81e7-7555ace9741e",
+    "name": "Chateau d'Arsac"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.1",
+  "prices": [
+    "997 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ab/e4809a-958e-46f3-8b58-5575332beb1e/2021-12-17-18-42-45-80C2A580-612F-47E0-8DFF-216C91331677-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7361e3ae-a0a0-494d-a027-63acd9abdded",
+  "name": "Cuvée 742 Extra Brut (2014)",
+  "full-name": "Jacquesson Cuvée 742 Extra Brut (2014) NV",
+  "producer": {
+    "id": "2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca",
+    "name": "Jacquesson"
+  },
+  "vintage": "NV",
+  "base-vintage": "2014",
+  "degorgee": "October 2018",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.5",
+  "prices": [
+    "2100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/73/61e3ae-a0a0-494d-a027-63acd9abdded/2020-07-29-09-53-43-4D6FCC91-4989-4701-AD16-815B802B2389-1-105-c.webp",
+  "rating": "10.0"
+}

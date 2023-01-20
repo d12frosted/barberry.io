@@ -1,0 +1,34 @@
+{
+  "id": "bcf84367-38ec-4954-87d8-32b3a541d067",
+  "name": "Blaufränkisch aus dem Kalk",
+  "full-name": "Weinbau Wenzel Blaufränkisch aus dem Kalk 2019",
+  "producer": {
+    "id": "38899011-d746-40f2-ba5c-6acf3228a2de",
+    "name": "Weinbau Wenzel"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "217c46e8-bc5f-45c3-8bd1-4f4bddfac69e",
+      "name": "Blaufrankisch"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "570 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bc/f84367-38ec-4954-87d8-32b3a541d067/2022-08-14-12-06-47-573A0B75-7A85-473D-B2B7-1C0E38B824A7-1-105-c.webp",
+  "rating": "7.5"
+}

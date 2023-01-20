@@ -1,0 +1,34 @@
+{
+  "id": "d43bf6e9-bdd8-4805-953a-e23e28699260",
+  "name": "Vidiano Old Vines",
+  "full-name": "Shima L.P Winery Vidiano Old Vines 2020",
+  "producer": {
+    "id": "35491292-92b3-4eff-be00-a5f5ae8a1f2e",
+    "name": "Shima L.P Winery"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "59d39863-9ffb-413b-8a4e-1de6d0df8f78",
+      "name": "Vidiano"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/3bf6e9-bdd8-4805-953a-e23e28699260/2022-07-30-10-40-35-68770FDE-E520-4A41-928C-A1DB3ACD5B4C-1-105-c.webp",
+  "rating": "5.0"
+}

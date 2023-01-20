@@ -1,0 +1,34 @@
+{
+  "id": "895aeb9d-207a-43a3-9d0b-d0480cad8ea0",
+  "name": "Pernand-Vergelesses 1er Cru Ile des Vergelesses",
+  "full-name": "Domaine Pavelot Pernand-Vergelesses 1er Cru Ile des Vergelesses 2017",
+  "producer": {
+    "id": "5fa3a6a9-0d40-4d50-8a51-c3714e05bd06",
+    "name": "Domaine Pavelot"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "2150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/89/5aeb9d-207a-43a3-9d0b-d0480cad8ea0/2022-11-19-11-05-28-277B286C-BF48-4528-B6FD-0B2707E1FC43-1-105-c.webp",
+  "rating": "7.25"
+}

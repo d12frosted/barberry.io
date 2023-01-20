@@ -1,0 +1,35 @@
+{
+  "id": "5370341c-7ad2-4585-98f1-15b790de3840",
+  "name": "Qué Grande SOS!",
+  "full-name": "Pol Opuesto Qué Grande SOS! 2017",
+  "producer": {
+    "id": "28883e04-dde4-4f94-9643-f71a90a8ce48",
+    "name": "Pol Opuesto"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "1fa604cb-a46a-46dd-97bc-67ad49745c0f",
+      "name": "Criolla Grande"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "686 UAH",
+    "780 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/53/70341c-7ad2-4585-98f1-15b790de3840/2022-09-26-18-37-53-805134C3-EE09-4F80-A030-7ED44B276656-1-102-o.webp",
+  "rating": "6.0"
+}

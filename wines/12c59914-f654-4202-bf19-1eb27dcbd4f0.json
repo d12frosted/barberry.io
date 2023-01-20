@@ -1,0 +1,42 @@
+{
+  "id": "12c59914-f654-4202-bf19-1eb27dcbd4f0",
+  "name": "Brut Reserve",
+  "full-name": "Billecart Salmon Brut Reserve NV",
+  "producer": {
+    "id": "2885d4d0-203d-428f-b915-93f64018b112",
+    "name": "Billecart Salmon"
+  },
+  "vintage": "NV",
+  "base-vintage": "???",
+  "degorgee": "???",
+  "sur-lie": "???",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "6",
+  "prices": [
+    "3812 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp",
+  "rating": "8.0"
+}

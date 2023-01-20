@@ -1,0 +1,35 @@
+{
+  "id": "83062163-08fd-4ac2-a0df-83a906418a6e",
+  "name": "impeccable disorder",
+  "full-name": "Ochota barrels impeccable disorder 2020",
+  "producer": {
+    "id": "5fc06935-eb1a-4edd-833a-df0217836334",
+    "name": "Ochota barrels"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.1",
+  "sugar": "0.6",
+  "prices": [
+    "1864 UAH",
+    "2119 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/83/062163-08fd-4ac2-a0df-83a906418a6e/2023-01-16-16-16-07-IMG-4335.webp",
+  "rating": "NA"
+}

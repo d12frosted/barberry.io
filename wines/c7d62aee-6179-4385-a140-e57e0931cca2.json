@@ -1,0 +1,34 @@
+{
+  "id": "c7d62aee-6179-4385-a140-e57e0931cca2",
+  "name": "Veraton",
+  "full-name": "Bodegas Alto Moncayo Veraton 2019",
+  "producer": {
+    "id": "8b78f8b4-35a9-4477-b068-a2e26eb10c6f",
+    "name": "Bodegas Alto Moncayo"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "15.5",
+  "sugar": "1.9",
+  "prices": [
+    "976 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c7/d62aee-6179-4385-a140-e57e0931cca2/2022-11-19-09-51-57-F772C03F-96A4-474F-A897-A80B06D4DB3F-1-105-c.webp",
+  "rating": "NA"
+}

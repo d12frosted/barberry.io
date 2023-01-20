@@ -1,0 +1,35 @@
+{
+  "id": "0fe467a2-56b8-434c-bcb8-c7369bd1167c",
+  "name": "Lluerna",
+  "full-name": "Els Vinyerons Lluerna 2021",
+  "producer": {
+    "id": "3b1ca8ee-2c1c-4767-a40c-3f57fa88df23",
+    "name": "Els Vinyerons"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "334 UAH",
+    "360 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c.webp",
+  "rating": "7.4"
+}

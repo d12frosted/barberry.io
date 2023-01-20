@@ -1,0 +1,34 @@
+{
+  "id": "d475d86d-a8a1-4466-8dce-40252032232d",
+  "name": "Rüdesheimer Burgweg Riesling Trocken",
+  "full-name": "Weinland Rheingau Rüdesheimer Burgweg Riesling Trocken 2021",
+  "producer": {
+    "id": "0d5b050e-52f9-42f9-9403-65b219de680e",
+    "name": "Weinland Rheingau"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "310 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/75d86d-a8a1-4466-8dce-40252032232d/2022-06-27-06-26-30-8F09B65A-07A1-42C6-89FB-8A1A6725CCF5-1-105-c.webp",
+  "rating": "7.3"
+}

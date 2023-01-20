@@ -1,0 +1,34 @@
+{
+  "id": "e2ba6fb5-84a9-4659-bd14-34f40f48bf87",
+  "name": "Filagnotti",
+  "full-name": "Cascina Degli Ulivi Filagnotti 2016",
+  "producer": {
+    "id": "f3a3985a-cd61-4e0c-8d77-a532b6d5da62",
+    "name": "Cascina Degli Ulivi"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8fcdc5eb-9b69-40a0-8546-c53f01e3611e",
+      "name": "Cortese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "983 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ea9b241a-ec1f-4814-ad56-899d497fe95a",
+  "name": "Raiz Red",
+  "full-name": "Tiago Teles Raiz Red 2017",
+  "producer": {
+    "id": "9b7d5999-fe0e-4517-ace4-c0573ccbb5b4",
+    "name": "Tiago Teles"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "be4f0fc3-71a1-4847-99d9-6343df47ee7b",
+      "name": "Alfrocheiro Preto"
+    },
+    {
+      "id": "3e7b8740-0fe9-4683-af09-15bade39dbf9",
+      "name": "Touriga Nacional"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "2.4",
+  "prices": [
+    "454 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ea/9b241a-ec1f-4814-ad56-899d497fe95a/2021-09-01-22-29-10-3350D65C-E4EA-46E7-9D72-DE6C4CD3F7F9-1-105-c.webp",
+  "rating": "7.4"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1722d4fd-8268-4437-8ce1-8fd35925a39f",
+  "name": "Kimmeridgian",
+  "full-name": "Domaine Marchand & Fils Kimmeridgian 2019",
+  "producer": {
+    "id": "574e8941-ef64-4ba3-bb88-bf49899096a5",
+    "name": "Domaine Marchand & Fils"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.95",
+  "prices": [
+    "1350 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/17/22d4fd-8268-4437-8ce1-8fd35925a39f/2022-11-26-11-24-34-9AB63407-AFDC-4F34-B789-167CFC9E545A-1-105-c.webp",
+  "rating": "7.75"
+}

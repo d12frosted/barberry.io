@@ -1,0 +1,42 @@
+{
+  "id": "4491b2e2-25b3-434a-bcbf-943a1c1eda97",
+  "name": "Chianti Classico",
+  "full-name": "Castello dei Rampolla Chianti Classico 2018",
+  "producer": {
+    "id": "97d477ce-5991-410f-9d9b-758c62080c5d",
+    "name": "Castello dei Rampolla"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "1067 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/44/91b2e2-25b3-434a-bcbf-943a1c1eda97/2022-07-26-12-36-43-21469967-EA5F-4912-BF78-CFFF41BBB51F-1-105-c.webp",
+  "rating": "7.75"
+}

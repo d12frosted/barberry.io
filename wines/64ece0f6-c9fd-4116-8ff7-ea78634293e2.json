@@ -1,0 +1,42 @@
+{
+  "id": "64ece0f6-c9fd-4116-8ff7-ea78634293e2",
+  "name": "Bianco",
+  "full-name": "Momento Mori Bianco 2019",
+  "producer": {
+    "id": "7ad98ad5-fc54-45ee-ad48-26f2fab01cbc",
+    "name": "Momento Mori"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "bd1249f2-e210-4aa3-a460-0473ed38c76a",
+      "name": "Fiano"
+    },
+    {
+      "id": "3d3d64a8-6851-4fe1-9780-cf8a6a52a4e8",
+      "name": "Greco di Tufo"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.1",
+  "prices": [
+    "1137 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c.webp",
+  "rating": "8.0"
+}

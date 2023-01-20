@@ -1,0 +1,42 @@
+{
+  "id": "a46400f7-709a-46b8-b152-45e50afb9c85",
+  "name": "Lousas Camino Nuovo",
+  "full-name": "Envínate Lousas Camino Nuovo 2019",
+  "producer": {
+    "id": "046c8a68-0e80-40de-a98b-ba9865ab2160",
+    "name": "Envínate"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "0abf9645-30e0-4115-bf68-7191fa551b8d",
+      "name": "Brancellao"
+    },
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1088 UAH"
+  ],
+  "available": 0,
+  "image": "images/a4/6400f7-709a-46b8-b152-45e50afb9c85/2021-10-27-23-41-45-043C5ABF-8BB4-4996-9E2F-A42DE1A5724B-1-105-c.webp",
+  "rating": "8.0"
+}

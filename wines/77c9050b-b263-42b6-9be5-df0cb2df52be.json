@@ -1,0 +1,34 @@
+{
+  "id": "77c9050b-b263-42b6-9be5-df0cb2df52be",
+  "name": "Primitivo Puglia Primasole",
+  "full-name": "Primasole Primitivo Puglia Primasole NV",
+  "producer": {
+    "id": "0eda5981-cb96-43fd-ad90-e165f2d63719",
+    "name": "Cielo e Terra"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "semi-dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "fbe78398-b1df-405d-9004-80609e45b3b1",
+      "name": "Primitivo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "295 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/77/c9050b-b263-42b6-9be5-df0cb2df52be/2022-11-14-21-24-40-72FC7AE0-969B-4B02-8D70-E43DCA4D416E-1-105-c.webp",
+  "rating": "7.25"
+}

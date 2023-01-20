@@ -1,0 +1,34 @@
+{
+  "id": "493e1962-0123-40b7-848e-c82389444c42",
+  "name": "Suculé Barbera d'Alba Superiore",
+  "full-name": "Lo Zoccolaio Suculé Barbera d'Alba Superiore 2019",
+  "producer": {
+    "id": "8fc3ed06-8aa9-4137-a026-b236d34bf569",
+    "name": "Lo Zoccolaio"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "629 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/49/3e1962-0123-40b7-848e-c82389444c42/2022-09-14-15-05-54-729A5FDE-173B-4D2B-9D26-5C3C47237997-1-105-c.webp",
+  "rating": "7.5"
+}

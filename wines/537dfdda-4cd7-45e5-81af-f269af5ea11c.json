@@ -1,0 +1,35 @@
+{
+  "id": "537dfdda-4cd7-45e5-81af-f269af5ea11c",
+  "name": "Xinomavro Young Vines",
+  "full-name": "Thymiopoulos Xinomavro Young Vines 2018",
+  "producer": {
+    "id": "dbc80a5b-3294-4c28-959c-1f65b7f1decd",
+    "name": "Thymiopoulos"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "7f460e26-c200-4020-9244-a321d130c570",
+      "name": "Xinomavro"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3.1",
+  "prices": [
+    "375 UAH",
+    "365 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/53/7dfdda-4cd7-45e5-81af-f269af5ea11c/2022-01-16-11-45-01-FC00DD11-19CF-4147-B551-1D183B851999-1-105-c.webp",
+  "rating": "7.0"
+}

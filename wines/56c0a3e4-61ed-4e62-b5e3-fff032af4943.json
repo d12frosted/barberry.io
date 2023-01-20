@@ -1,0 +1,34 @@
+{
+  "id": "56c0a3e4-61ed-4e62-b5e3-fff032af4943",
+  "name": "Garganega Veronese Vigne Alte",
+  "full-name": "Zeni Garganega Veronese Vigne Alte 2018",
+  "producer": {
+    "id": "a763ca4c-b855-42cb-9efb-ec6f1aca93c5",
+    "name": "Zeni"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "9",
+  "prices": [
+    "199 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

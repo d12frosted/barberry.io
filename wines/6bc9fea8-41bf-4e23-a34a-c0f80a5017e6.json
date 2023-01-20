@@ -1,0 +1,34 @@
+{
+  "id": "6bc9fea8-41bf-4e23-a34a-c0f80a5017e6",
+  "name": "Juhfark",
+  "full-name": "Bott Frigyes Juhfark 2019",
+  "producer": {
+    "id": "29f7257e-733a-4cd0-bef1-7a2bdbe51ed3",
+    "name": "Bott Frigyes"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "656e55a0-7458-4533-807a-012eea7f87f8",
+    "name": "Slovakia"
+  },
+  "grapes": [
+    {
+      "id": "e00ce093-084d-453e-8306-f7b43e9ae8dc",
+      "name": "Juhfark"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "795 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c.webp",
+  "rating": "7.5"
+}

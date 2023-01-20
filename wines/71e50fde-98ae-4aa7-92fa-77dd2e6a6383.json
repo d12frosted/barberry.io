@@ -1,0 +1,34 @@
+{
+  "id": "71e50fde-98ae-4aa7-92fa-77dd2e6a6383",
+  "name": "An 1618 Picpoul de Pinet",
+  "full-name": "Gérard Bertrand An 1618 Picpoul de Pinet 2019",
+  "producer": {
+    "id": "3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb",
+    "name": "Gérard Bertrand"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "11dbd26f-6d35-403e-b1cc-9e6809705110",
+      "name": "Picpoul Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "399 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/71/e50fde-98ae-4aa7-92fa-77dd2e6a6383/2022-08-29-16-52-44-0AF634D1-2852-48F9-BB75-FF01F92C85BA-1-105-c.webp",
+  "rating": "7.0"
+}

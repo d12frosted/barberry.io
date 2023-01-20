@@ -1,0 +1,34 @@
+{
+  "id": "451f1ee5-b3fb-4b4b-b42e-2057a10bc3af",
+  "name": "Gewurztraminer Grand Cru Steinert Vendanges Tardives",
+  "full-name": "Pierre Frick Gewurztraminer Grand Cru Steinert Vendanges Tardives 2011",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "46.8",
+  "prices": [
+    "1462 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/45/1f1ee5-b3fb-4b4b-b42e-2057a10bc3af/2022-10-20-10-36-52-A88AE797-CD52-42B9-8B49-2A25BE8DA35B-1-105-c.webp",
+  "rating": "7.5"
+}

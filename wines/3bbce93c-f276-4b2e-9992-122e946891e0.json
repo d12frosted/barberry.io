@@ -1,0 +1,35 @@
+{
+  "id": "3bbce93c-f276-4b2e-9992-122e946891e0",
+  "name": "Andrinal",
+  "full-name": "Ca' di Mat Andrinal 2017",
+  "producer": {
+    "id": "77579d36-240c-4859-83d2-f3c69fc41c91",
+    "name": "Ca' di Mat"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "554 UAH",
+    "590 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3b/bce93c-f276-4b2e-9992-122e946891e0/2022-08-14-12-34-01-8AF7A7B2-2982-451B-B93E-A2E52F673F99-1-105-c.webp",
+  "rating": "8.0"
+}

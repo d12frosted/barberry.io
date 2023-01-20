@@ -1,0 +1,34 @@
+{
+  "id": "76ec295d-cca4-46d8-bbb9-0c0e37253ed9",
+  "name": "Rosso di Marco",
+  "full-name": "Marco De Bartoli Rosso di Marco 2017",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8ed2094b-c526-458c-9d76-e437c6d216ba",
+      "name": "Perricone"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "555 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c.webp",
+  "rating": "6.8"
+}

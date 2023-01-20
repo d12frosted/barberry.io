@@ -1,0 +1,34 @@
+{
+  "id": "038a34b5-42dd-4716-a71e-1c6976e4e0de",
+  "name": "Greco di Subur Blanc de Blancs Brut Nature",
+  "full-name": "Clos Lentiscus Greco di Subur Blanc de Blancs Brut Nature 2017",
+  "producer": {
+    "id": "7ee0380b-9c4c-4328-89e2-c44f9dfda9c1",
+    "name": "Clos Lentiscus"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "af0beed3-1f8b-4c8c-9eb9-0fa3b5d4f2a7",
+      "name": "Malvasía de Sitges"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2.1",
+  "prices": [
+    "809 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/03/8a34b5-42dd-4716-a71e-1c6976e4e0de/2022-12-17-14-48-22-IMG-3859.webp",
+  "rating": "7.4"
+}

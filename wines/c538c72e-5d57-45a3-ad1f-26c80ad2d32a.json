@@ -1,0 +1,35 @@
+{
+  "id": "c538c72e-5d57-45a3-ad1f-26c80ad2d32a",
+  "name": "Nerojbleo",
+  "full-name": "Gulfi Nerojbleo 2009",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2009",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "4.6",
+  "prices": [
+    "1534 UAH",
+    "1130 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c5/38c72e-5d57-45a3-ad1f-26c80ad2d32a/2022-12-01-07-36-15-A7C005B4-0823-46DE-A5E5-F447E657C9C1-1-105-c.webp",
+  "rating": "8.0"
+}

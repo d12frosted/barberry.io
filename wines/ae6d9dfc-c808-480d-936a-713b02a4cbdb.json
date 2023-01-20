@@ -1,0 +1,43 @@
+{
+  "id": "ae6d9dfc-c808-480d-936a-713b02a4cbdb",
+  "name": "Crémant d'Alsace Brut",
+  "full-name": "Laugel Crémant d'Alsace Brut NV",
+  "producer": {
+    "id": "dc52ec22-f4ce-464b-ba21-da1f82a9efa0",
+    "name": "Laugel"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "349 UAH",
+    "379 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ae/6d9dfc-c808-480d-936a-713b02a4cbdb/2022-12-11-10-43-02-99AB88CD-91A2-4A97-87F7-BB2798217DC4-1-105-c.webp",
+  "rating": "7.4"
+}

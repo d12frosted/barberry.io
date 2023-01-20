@@ -1,0 +1,47 @@
+{
+  "id": "9a0906be-1274-4820-918e-faf4bf0ec802",
+  "name": "Sollazzo",
+  "full-name": "Villa Calicantus Sollazzo 2018",
+  "producer": {
+    "id": "040a275b-2e16-4d7a-a557-036bf44d85df",
+    "name": "Villa Calicantus"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "13653c43-13e8-49d8-8fe4-1cc8cfa18ed5",
+      "name": "Corvina"
+    },
+    {
+      "id": "fa2e46fa-ab1c-4250-885b-b3395f0b078c",
+      "name": "Molinara"
+    },
+    {
+      "id": "7f50d397-21fa-425e-904e-1256fce6321f",
+      "name": "Rondinella"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "698 UAH",
+    "776 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9a/0906be-1274-4820-918e-faf4bf0ec802/2022-07-02-08-58-11-IMG-0651.webp",
+  "rating": "7.199999999999999"
+}

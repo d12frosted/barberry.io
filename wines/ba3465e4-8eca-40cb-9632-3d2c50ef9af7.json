@@ -1,0 +1,38 @@
+{
+  "id": "ba3465e4-8eca-40cb-9632-3d2c50ef9af7",
+  "name": "Coteaux Bourguignons",
+  "full-name": "Sextant Coteaux Bourguignons 2019",
+  "producer": {
+    "id": "1c05cc7c-8b42-4101-b447-9422c813f6c7",
+    "name": "Sextant"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "3",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ba/3465e4-8eca-40cb-9632-3d2c50ef9af7/2021-03-08-19-54-28-EAE16C74-9917-40D7-A1F8-1098F2ED1A23-1-105-c.webp",
+  "rating": "7.5"
+}

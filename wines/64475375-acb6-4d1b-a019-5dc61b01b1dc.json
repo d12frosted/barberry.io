@@ -1,0 +1,35 @@
+{
+  "id": "64475375-acb6-4d1b-a019-5dc61b01b1dc",
+  "name": "Univers",
+  "full-name": "Muchada-Léclapart Univers 2017",
+  "producer": {
+    "id": "cd1b94b8-6014-440d-8876-b6897a61770e",
+    "name": "Muchada-Léclapart"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1041 UAH",
+    "1141 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/64/475375-acb6-4d1b-a019-5dc61b01b1dc/2022-09-26-18-53-19-8427D758-DF7F-4227-A6A3-648DA6AE3A0B-1-102-o.webp",
+  "rating": "7.5"
+}

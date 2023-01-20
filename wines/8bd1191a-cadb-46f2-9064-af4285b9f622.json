@@ -1,0 +1,34 @@
+{
+  "id": "8bd1191a-cadb-46f2-9064-af4285b9f622",
+  "name": "La Cosa - The Thing",
+  "full-name": "Alfredo Maestro La Cosa - The Thing 2018",
+  "producer": {
+    "id": "5a74c7dc-56c1-4a45-b1d6-849c9f02ecfb",
+    "name": "Alfredo Maestro"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "147",
+  "prices": [
+    "432 UAH"
+  ],
+  "available": 0,
+  "image": "images/8b/d1191a-cadb-46f2-9064-af4285b9f622/2021-08-28-10-48-40-6885FBF5-9EAB-498E-853E-49CA0DD2D381-1-105-c.webp",
+  "rating": "7.75"
+}

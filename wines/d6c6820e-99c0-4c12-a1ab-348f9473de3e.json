@@ -1,0 +1,42 @@
+{
+  "id": "d6c6820e-99c0-4c12-a1ab-348f9473de3e",
+  "name": "Soco Blanco",
+  "full-name": "Soco Vinicola Soco Blanco 2020",
+  "producer": {
+    "id": "9aa8e659-5a4e-4480-b4c0-96056882f353",
+    "name": "Soco Vinicola"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "00ebb0e1-7be8-4439-9962-3096f45c6df3",
+      "name": "Malvasía Volcánica"
+    },
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    },
+    {
+      "id": "6ae20f5c-77f2-49b7-9794-3e9e8106d3c1",
+      "name": "Vijariego Blanco"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1024 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/c6820e-99c0-4c12-a1ab-348f9473de3e/2022-07-26-12-05-40-0592C636-661E-48D7-B538-7B15D5028D82-1-105-c.webp",
+  "rating": "7.5"
+}

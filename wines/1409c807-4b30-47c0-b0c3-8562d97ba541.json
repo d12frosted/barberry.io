@@ -1,0 +1,35 @@
+{
+  "id": "1409c807-4b30-47c0-b0c3-8562d97ba541",
+  "name": "Bourgougne Pinot Noir",
+  "full-name": "Jean Grivot Bourgougne Pinot Noir 2017",
+  "producer": {
+    "id": "7ccd7bff-82b4-4834-ba80-31924e56b364",
+    "name": "Jean Grivot"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "1620 UAH",
+    "1282 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/14/09c807-4b30-47c0-b0c3-8562d97ba541/2021-06-02-10-54-57-1065E2EE-3269-4A70-9024-8294D7832871-1-105-c.webp",
+  "rating": "8.0"
+}

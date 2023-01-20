@@ -1,0 +1,34 @@
+{
+  "id": "fa32e9d0-b448-4094-9c58-3a371d9dfe33",
+  "name": "Les Enfers Blanc des Blancs Extra Brut (2014)",
+  "full-name": "Ulysse Collin Les Enfers Blanc des Blancs Extra Brut (2014) NV",
+  "producer": {
+    "id": "7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46",
+    "name": "Ulysse Collin"
+  },
+  "vintage": "NV",
+  "base-vintage": "2014",
+  "degorgee": "2020",
+  "sur-lie": "60 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.4",
+  "prices": [
+    "5200 UAH"
+  ],
+  "available": 0,
+  "image": "images/fa/32e9d0-b448-4094-9c58-3a371d9dfe33/2021-09-07-11-24-22-5CFCE1EF-DB19-4940-A6C3-B45320280A75-1-105-c.webp",
+  "rating": "10.0"
+}

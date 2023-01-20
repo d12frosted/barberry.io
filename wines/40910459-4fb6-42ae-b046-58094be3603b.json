@@ -1,0 +1,43 @@
+{
+  "id": "40910459-4fb6-42ae-b046-58094be3603b",
+  "name": "Brut Réserve L19.07/2022",
+  "full-name": "Bérêche & Fils Brut Réserve L19.07/2022 NV",
+  "producer": {
+    "id": "18b6ff64-8c47-4ad7-8c3c-01176de9a865",
+    "name": "Bérêche & Fils"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "19 July 2022",
+  "sur-lie": "24 to 36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "6",
+  "prices": [
+    "2095 UAH",
+    "1906 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c.webp",
+  "rating": "8.5"
+}

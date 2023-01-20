@@ -1,0 +1,764 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Monthly report - June 2022 | Barberry Garden</title>
+    <meta name="description" content="Monthly report - June 2022">
+
+    <meta property="og:site_name" content="Barberry Garden">
+    <meta property="og:title" content="Monthly report - June 2022 | Barberry Garden" />
+    <meta property="og:description" content="Monthly report - June 2022" />
+    
+    <meta property="og:url" content="https://barberry.io/posts/2022-07-01-monthly-report.html" />
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article" />
+    
+    <meta property="article:published_time" content="2022-07-01">
+    
+    
+    <meta property="article:modified_time" content="2023-01-10">
+    
+    <meta property="article:author:first_name" content="Boris">
+    <meta property="article:author:last_name" content="Buliga">
+
+
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=M+PLUS+Rounded+1c:wght@300;400;500;700&family=Source+Code+Pro:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/default.css" />
+    <link rel="stylesheet" href="../css/fonts.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="manifest" href="../site.webmanifest">
+    <script data-goatcounter="https://barberry.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="../">Barberry Garden</a>
+      </div>
+      <nav>
+        <a href="../posts.html">Posts</a>
+        <a href="../wines.html">Wines</a>
+        <a href="../reviews.html">Reviews</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <article>
+  <h1>Monthly report - June 2022</h1>
+  <section class="subtitle">
+    Posted on July  1, 2022
+    
+      by Boris
+    
+  </section>
+  
+  <section class="subtitle">
+    Updated on January 10, 2023
+  </section>
+  
+  <section>
+    <link href="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css" rel="stylesheet">
+<script src="../library/jquery/dist/jquery.min.js"></script>
+<script src="../library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
+<script>
+function ratingSorter(a, b) {
+  const aa = a == '-' ? 0 : parseFloat(a);
+  const bb = b == '-' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function vintageSorter(a, b) {
+  const aa = a == 'NV' ? 0 : parseFloat(a);
+  const bb = b == 'NV' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function htmlSorter(a, b) {
+  return strSorter($(a).text(), $(b).text())
+}
+
+function strSorter(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
+}
+      </script>
+<script src="../library/chart.js/dist/chart.min.js"></script><script src="../library/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js"></script>
+<p>Every rain is praised as a divine gift during these hot days in Kyiv. But as human beings, we crave a solution we can predict and replicate on a whim. Luckily, we have wine and technology to chill it. With this melting weather, there is little wonder that <strong>74%</strong> of wines I rated this month are white!</p>
+<blockquote>
+<p>Wait, what? Do you count wines you drink and rate?</p>
+</blockquote>
+<p>Haha, of course, I don’t. But I do track every consumed wine in <a href="https://github.com/d12frosted/vino">a program</a> I’ve created for this purpose. And now that I have data and the Application Programming Interface (API) provided by Vino, I can easily <a href="https://github.com/d12frosted/environment/tree/master/emacs#vino-stats">calculate various statistics</a> related to my wine consumption. I plan to share this kind of report every month. Expect boring stats like the number of rated wines per country, grape, vintage, etc. But also expect a full table of tasted wines, and the list of my favourites and outcasts of the month. Hope you find something interesting here. Share your ideas!</p>
+<p>So this month has started with a beautiful <a href="../wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">Girolamo Russo Etna Rosato 2019</a>, which I haven’t tasted for almost a year. At this point in time, I consider it one of my favourite light rosé wines despite the confusingly mediocre impression when I tasted it for the first time - <span class="material-symbols-outlined"></span> 7.25 vs <span class="material-symbols-outlined"></span> 8.5! It’s not on purpose, but the last wine of the month was another wonderful wine - <a href="../wines/bef62097-f916-4554-a591-42c380412d7b.html">Marc Hebrart Premier Cru Blanc de Blancs</a>.</p>
+<p>The world of wine is big, and there is always something new to explore. So this month, I have several personal novelties.</p>
+<ol type="1">
+<li>At <a href="../posts/2022-06-07-blind-tasting.html">a blind tasting event</a>, I tasted my first Pinot Noir from Alsace - <a href="../wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">J.M Dreyer Elios Pinot Noir 2020</a>.</li>
+<li><a href="../wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">Chandon Argentina Brut NV</a> is my first traditional sparkling from Argentina.</li>
+<li><a href="../wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">Lucy Margaux Le Sauvignon Sensuel 2020</a> is my first Sauvignon Blanc from Australia.</li>
+<li>After a long time of not drinking Bordeaux wines, and despite the hot weather, I actually tasted my first Margaux AOC - <a href="../wines/abe4809a-958e-46f3-8b58-5575332beb1e.html">Chateau d’Arsac Margaux Cru Bourgeois 2016</a>, and my first Saint-Estephe AOC - <a href="../wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">Chateau Laffitte Carcasset Saint-Estephe Cru Bourgeois 2016</a>. After reading about these two left bank AOCs, I realised that my experience is pretty textbook. Margaux is refined and elegant, while Saint-Estephe is robust and rich.</li>
+<li>I tasted Auxerrois blanc for the first time in my life - <a href="../wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">Pierre Frick Crémant d’Alsace 2018</a>.</li>
+<li>I tasted Passerina for the first time in my life, though as part of a blend in <a href="../wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">Illuminati Costalupo 2021</a>.</li>
+<li><a href="../wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51.html">Borgo Conventi Refosco dal Peduncolo Rosso 2019</a> is my first Refosco dal Peduncolo Rosso.</li>
+</ol>
+<p>For the first half of the month, I rated every wine consumed, and I didn’t taste any wine more than once during this period. But then I picked a few favourites for this month’s table, and the ratio of rated to consumed normalised - <strong>74%</strong>. So, according to my notes, I consumed <strong>79</strong> bottles and rated <strong>59</strong> of them. Only one of the wines was rated twice - <a href="../wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">Golan Heights Winery Mount Hermon White 2019</a>, I just had too many bottles of this wine and wanted to share confirmation that it was worth it.</p>
+<p>Compared to the previous month, it’s a 103% of growth in terms of wines rated. Someone would think that it was a tough month for me, but I’d argue that I am just getting back to my regular numbers. Just take a look at the graph (the first months of the war are excluded). Besides, this month I participated in a <a href="../posts/2022-06-07-blind-tasting.html">blind tasting event</a> and <a href="../posts/2022-06-21-chenin-blanc-tasting.html">organised one myself</a>. So this kind of explains the growth.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-y"><canvas id="monthly-ratings"></canvas><script>
+      const monthly_ratingsChart = new Chart(document.getElementById("monthly-ratings").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["2021 December","2022 January","2022 May","2022 June"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"rates","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["74","40","29","59"]}]
+        },
+        options: {"maintainAspectRatio":false,"indexAxis":"y","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"x":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (true) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * monthly_ratingsChart.data.labels.length + ticksHeight;
+        document.getElementById("monthly-ratings").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>Country-wise, this month was more fruitful than the previous, because 13 countries are present in my ratings (compared to 8 in the previous month). And this time, France is on the top of this list. We also have Hungary, Israel, Portugal, Germany and Greece on this list! In terms of quality-price ratio, our leaders are Spain and Italy.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="countries"></canvas><script>
+      const countriesChart = new Chart(document.getElementById("countries").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["France","Spain","South Africa","Italy","Australia","New Zealand","Austria","Israel","Argentina","Germany","Greece","Hungary","Portugal"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["17","9","8","8","4","3","2","2","2","1","1","1","1"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * countriesChart.data.labels.length + ticksHeight;
+        document.getElementById("countries").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>In June, I started to consume wines produced in 2021. As expected, these are the wines you buy to consume young - <a href="../wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">Spier Wines Chenin Blanc 2021</a>, <a href="../wines/7652700d-3edc-46fa-8e74-624826b23830.html">Spy Valley Satellite Sauvignon Blanc 2021</a>, <a href="../wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">Testalonga El Bandito I Wish I was a Ninja 2021</a>, <a href="../wines/d475d86d-a8a1-4466-8dce-40252032232d.html">Weinland Rheingau Rüdesheimer Burgweg Riesling Trocken 2021</a> and <a href="../wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">Illuminati Costalupo 2021</a>.</p>
+<p>On the other hand, I’ve tasted several older bottles. The oldest of them is <a href="../wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">Francoise Bedel L’Âme de la Terre Millésime 2006</a>, a Champagne that spend 13 years on lees! The next oldest is <a href="../wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">Viña Tondonia Blanco Reserva 2009</a>. The fun part is that I’ve tasted this bottle twice - on <code>2021-07-06</code> and on <code>2022-06-07</code>. Just take a look at these dates! Mesmerising.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="vintages"></canvas><script>
+      const vintagesChart = new Chart(document.getElementById("vintages").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["2021","2020","2019","2018","2017","2016","2015","2013","2011","2009","2006","NV"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["5","11","14","5","7","3","1","1","1","1","1","9"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * vintagesChart.data.labels.length + ticksHeight;
+        document.getElementById("vintages").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>In total, I rated wines made of 40 distinct grapes. I am happy that this list includes <strong>three</strong> new members, Auxerrois blanc, Refosco dal Peduncolo Rosso, and Passerina. As well as many less popular grapes like Inzolia, Baga, Colombard, Lado and Carricante. The most popular grapes are Chardonnay, Sauvignon Blanc, Pinot Noir and Chenin Blanc. Considering the heat, there is little wonder that 3 of them are white.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-y"><canvas id="grapes"></canvas><script>
+      const grapesChart = new Chart(document.getElementById("grapes").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["Chardonnay","Sauvignon Blanc","Pinot Noir","Chenin Blanc","Macabeo","Cabernet Sauvignon","Parellada","Xarel-lo","Merlot","Syrah","Malvasia di Candia Aromatica","Cabernet Franc","Refosco dal Peduncolo Rosso","Passerina","Trebbiano","Riesling","Colombard","Monastrell","Grenache","Auxerrois blanc","Zweigelt","Welschriesling","Malagousia","Garganega","Pinot Meunier","Manzoni Bianco","Torrontés","Lado","Treixadura","Albariño","Godello","Doña Blanca","Cinsault","Furmint","Baga","Inzolia","Gamay","Carricante","Sangiovese","Nerello Mascalese"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["13","9","9","8","7","4","3","3","3","2","2","2","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1"]}]
+        },
+        options: {"maintainAspectRatio":false,"indexAxis":"y","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"x":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (true) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * grapesChart.data.labels.length + ticksHeight;
+        document.getElementById("grapes").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>And now the most fascinating part. The favourites and outcasts of the month. Usually, this list matches the list of the best-rated/worst-rated wines, but sometimes I want to emphasise a label or two. In June, my favourites are:</p>
+<ul>
+<li><span class="material-symbols-outlined"></span> 9.0 <a href="../wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">Francoise Bedel L’Âme de la Terre Millésime 2006</a> - a truly amazing Champagne that displays effects of the long ageing on lees. The best sparkling wine of the month. <a href="../producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a> is one of my favourite producers. Even her basic wines are delicious and worth buying.</li>
+<li><span class="material-symbols-outlined"></span> 8.5 <a href="../wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">Sadie Family Pofadder 2020</a> - the best red wine of the month, delicate, juicy and sophisticated. If only the price was lower!</li>
+<li><span class="material-symbols-outlined"></span> 8.5 <a href="../wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">Domaine de la Taille Aux Loups Bretonniere Cuvée Parcellaire Monopole 2017</a> - the best white wine of the month. Multilayered with an amazingly long evolution of the taste. It still has potential. Alas, I don’t have any bottles left.</li>
+<li><span class="material-symbols-outlined"></span> 9.0 <a href="../wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">Viña Tondonia Blanco Reserva 2009</a> - without comments, this is a legendary wine that is rightfully placed on this list.</li>
+<li><span class="material-symbols-outlined"></span> 8.2 <a href="../wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e.html">Crystallum Peter Max Pinot Noir 2018</a> - delicious and juicy Pinot Noir by an excellent producer from South Africa. It definitely was a smart buy.</li>
+<li><span class="material-symbols-outlined"></span> 8.5 <a href="../wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">Girolamo Russo Etna Rosato 2019</a> - complex and delicious rosé for an attractive price, even after the price adjustment.</li>
+<li><span class="material-symbols-outlined"></span> 8.5 <a href="../wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">Sadie Family Skurfberg 2020</a> - approachable and friendly yet complex and multilayered Chenin Blanc by a skilful winemaker.</li>
+<li><span class="material-symbols-outlined"></span> 7.5 <a href="../wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">Golan Heights Winery Mount Hermon White 2019</a> - my favourite table wine of the month. The price tag is not ideal, but the real value of UAH is yet to be discovered.</li>
+</ul>
+<p>The outcasts of this month are those that disappointed me. I mean, there are wines that I rated lower, but that was totally fine and expected. But these labels…</p>
+<ul>
+<li><span class="material-symbols-outlined"></span> 6.5 <a href="../wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">Costador Metamorphika Chenin Blanc 2017</a> - it might be a faulty bottle or serving issue, but still I have not expected it to have so many issues. I tried this wine on the second day, and the experience was slightly better but still disappointing.</li>
+<li><span class="material-symbols-outlined"></span> 7.0 <a href="../wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">Chandon Argentina Brut NV</a> - despite being my first traditional sparkling from Argentina, the experience was not fascinating. A mediocre crowd-pleaser with a high price tag. Not for me, not for you, believe me.</li>
+<li><span class="material-symbols-outlined"></span> 7.0 <a href="../wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">COZs vn-c2 bg 2017</a> - tasted blind and was shocked. I wanted to taste this wine for a long time, but now I am glad that I didn’t buy a bottle myself. Overly straightforward. And I don’t believe in its potential.</li>
+<li><span class="material-symbols-outlined"></span> 7.0 <a href="../wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">Weingut Tement Temento Green 2020</a> - one of my favourite table wines of the previous summer, this year is bland and soulless. I was almost crying.</li>
+</ul>
+<div class="table-container">
+<table id="ratings-data" data-toggle="table" data-search="true" data-show-columns="true" data-show-columns-toggle-all="true" data-pagination="false" data-search-accent-neutralise="true" data-trim-on-search="false" data-search-highlight="true" class="wines-table">
+<thead>
+<tr class="header">
+<th data-sortable="true" data-field="date" data-sorter="strSorter">date</th>
+<th data-sortable="true" data-field="country" data-sorter="strSorter">country</th>
+<th data-sortable="true" data-field="producer" data-sorter="htmlSorter">producer</th>
+<th data-sortable="true" data-field="name" data-sorter="htmlSorter">name</th>
+<th data-sortable="true" data-field="vintage" data-sorter="vintageSorter">vintage</th>
+<th data-sortable="true" data-field="rate" data-sorter="ratingSorter">rate</th>
+<th data-sortable="true" data-field="QPR" data-sorter="ratingSorter">QPR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2022-06-30</td>
+<td>France</td>
+<td><a href="../producers/97bee62d-6e14-4f79-a95d-37893c50a84e.html">Marc Hebrart</a></td>
+<td><a href="../wines/bef62097-f916-4554-a591-42c380412d7b.html">Marc Hebrart Premier Cru Blanc de Blancs NV</a></td>
+<td>NV</td>
+<td>8.00</td>
+<td>1.9098</td>
+</tr>
+<tr class="even">
+<td>2022-06-29</td>
+<td>South Africa</td>
+<td><a href="../producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53.html">Crystallum</a></td>
+<td><a href="../wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e.html">Crystallum Peter Max Pinot Noir 2018</a></td>
+<td>2018</td>
+<td>8.25</td>
+<td>3.4385</td>
+</tr>
+<tr class="odd">
+<td>2022-06-29</td>
+<td>Italy</td>
+<td><a href="../producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2.html">Borgo Conventi</a></td>
+<td><a href="../wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51.html">Borgo Conventi Refosco dal Peduncolo Rosso 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.0628</td>
+</tr>
+<tr class="even">
+<td>2022-06-28</td>
+<td>Australia</td>
+<td><a href="../producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="../wines/20d59f9a-394a-4b90-840e-bf7ab45a833b.html">Jacob’s Creek Classic Cabernet Sauvignon 2016</a></td>
+<td>2016</td>
+<td>6.00</td>
+<td>1.5000</td>
+</tr>
+<tr class="odd">
+<td>2022-06-28</td>
+<td>Italy</td>
+<td><a href="../producers/0ff20e4a-b84c-48dc-b592-5d7619ba7f28.html">Illuminati</a></td>
+<td><a href="../wines/6a0691b6-3827-41fd-8bc8-91393b12503d.html">Illuminati Costalupo 2021</a></td>
+<td>2021</td>
+<td>6.50</td>
+<td>3.7320</td>
+</tr>
+<tr class="even">
+<td>2022-06-27</td>
+<td>South Africa</td>
+<td><a href="../producers/7f36c99b-3225-4883-b12d-11e5a75bfa12.html">Spier Wines</a></td>
+<td><a href="../wines/2a419f13-955d-4675-9ca1-a5800b73cd50.html">Spier Wines Signature Chenin Blanc 2021</a></td>
+<td>2021</td>
+<td>7.40</td>
+<td>5.5509</td>
+</tr>
+<tr class="odd">
+<td>2022-06-27</td>
+<td>Australia</td>
+<td><a href="../producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="../wines/1b9610bc-f390-46f5-989f-da6771f01eef.html">Jacob’s Creek Classic Chardonnay 2017</a></td>
+<td>2017</td>
+<td>7.20</td>
+<td>3.3453</td>
+</tr>
+<tr class="even">
+<td>2022-06-26</td>
+<td>Germany</td>
+<td><a href="../producers/0d5b050e-52f9-42f9-9403-65b219de680e.html">Weinland Rheingau</a></td>
+<td><a href="../wines/d475d86d-a8a1-4466-8dce-40252032232d.html">Weinland Rheingau Rüdesheimer Burgweg Riesling Trocken 2021</a></td>
+<td>2021</td>
+<td>7.30</td>
+<td>4.6340</td>
+</tr>
+<tr class="odd">
+<td>2022-06-26</td>
+<td>Argentina</td>
+<td><a href="../producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="../wines/e2cc07f9-3466-4ab0-bc5b-aaace9681868.html">Bodega Catena Zapata Catena Chardonnay 2020</a></td>
+<td>2020</td>
+<td>7.40</td>
+<td>3.3915</td>
+</tr>
+<tr class="even">
+<td>2022-06-26</td>
+<td>South Africa</td>
+<td><a href="../producers/6f989a26-3b14-4aeb-96b8-2c5133741728.html">Stellenbosch Hills</a></td>
+<td><a href="../wines/8fe19c6a-4169-4e27-bf89-512c429c6725.html">Stellenbosch Hills Chenin Blanc 2019</a></td>
+<td>2019</td>
+<td>7.20</td>
+<td>2.2302</td>
+</tr>
+<tr class="odd">
+<td>2022-06-24</td>
+<td>New Zealand</td>
+<td><a href="../producers/cb3d4d47-89e2-4f60-b950-c6b6711b26d1.html">Brancott Estate</a></td>
+<td><a href="../wines/77312847-db16-4aa4-ad60-59576ffa9b6f.html">Brancott Estate Letter Series T Pinot Noir 2019</a></td>
+<td>2019</td>
+<td>7.20</td>
+<td>1.9143</td>
+</tr>
+<tr class="even">
+<td>2022-06-24</td>
+<td>Spain</td>
+<td><a href="../producers/4182582c-a43d-4b29-afea-93fdb6352e44.html">Viña Pomal</a></td>
+<td><a href="../wines/a0e5d240-0e7b-4e88-a738-6524e38596dc.html">Viña Pomal Viura Malvasia 2017</a></td>
+<td>2017</td>
+<td>7.50</td>
+<td>2.4038</td>
+</tr>
+<tr class="odd">
+<td>2022-06-21</td>
+<td>South Africa</td>
+<td><a href="../producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="../wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">Testalonga El Bandito I Wish I was a Ninja 2021</a></td>
+<td>2021</td>
+<td>7.20</td>
+<td>1.6319</td>
+</tr>
+<tr class="even">
+<td>2022-06-21</td>
+<td>South Africa</td>
+<td><a href="../producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0.html">Sadie Family</a></td>
+<td><a href="../wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">Sadie Family Skurfberg 2020</a></td>
+<td>2020</td>
+<td>8.50</td>
+<td>2.7466</td>
+</tr>
+<tr class="odd">
+<td>2022-06-21</td>
+<td>France</td>
+<td><a href="../producers/f1833780-e704-4017-a518-b32a2baf5f2e.html">Les Vignes De Paradis</a></td>
+<td><a href="../wines/084f2900-816b-4687-bceb-9fe28995f7cc.html">Les Vignes De Paradis Chenin 2019</a></td>
+<td>2019</td>
+<td>7.40</td>
+<td>2.5422</td>
+</tr>
+<tr class="even">
+<td>2022-06-21</td>
+<td>Spain</td>
+<td><a href="../producers/8ba4a237-515d-408f-8fa0-db15f9471ca0.html">Costador</a></td>
+<td><a href="../wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">Costador Metamorphika Chenin Blanc 2017</a></td>
+<td>2017</td>
+<td>6.50</td>
+<td>1.2184</td>
+</tr>
+<tr class="odd">
+<td>2022-06-21</td>
+<td>South Africa</td>
+<td><a href="../producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="../wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">Testalonga El Bandito Skin 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>1.4423</td>
+</tr>
+<tr class="even">
+<td>2022-06-21</td>
+<td>France</td>
+<td><a href="../producers/461a005a-3007-46a9-8ab4-f716429379fa.html">Domaine de la Taille Aux Loups</a></td>
+<td><a href="../wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">Domaine de la Taille Aux Loups Bretonniere Cuvée Parcellaire Monopole 2017</a></td>
+<td>2017</td>
+<td>8.50</td>
+<td>2.8744</td>
+</tr>
+<tr class="odd">
+<td>2022-06-20</td>
+<td>Australia</td>
+<td><a href="../producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="../wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">Lucy Margaux Vin de Soif 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>1.3914</td>
+</tr>
+<tr class="even">
+<td>2022-06-20</td>
+<td>France</td>
+<td><a href="../producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="../wines/34ec8843-cece-4f5a-adde-8b24378efcec.html">Clos du Tue-Boeuf Le Petit Buisson 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>2.8819</td>
+</tr>
+<tr class="odd">
+<td>2022-06-20</td>
+<td>Spain</td>
+<td><a href="../producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a.html">Jaume Serra</a></td>
+<td><a href="../wines/f40ec77a-9564-408b-9fad-7709e2fb6d93.html">Jaume Serra Cava Organic Brut NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>4.0813</td>
+</tr>
+<tr class="even">
+<td>2022-06-18</td>
+<td>Israel</td>
+<td><a href="../producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="../wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">Golan Heights Winery Mount Hermon White 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.9348</td>
+</tr>
+<tr class="odd">
+<td>2022-06-17</td>
+<td>France</td>
+<td><a href="../producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb.html">Gérard Bertrand</a></td>
+<td><a href="../wines/fdcaa3bb-bc73-441c-a387-894cff0e1f38.html">Gérard Bertrand Héritage Kosmos 888 2019</a></td>
+<td>2019</td>
+<td>7.60</td>
+<td>1.8110</td>
+</tr>
+<tr class="even">
+<td>2022-06-16</td>
+<td>Spain</td>
+<td><a href="../producers/038f1c56-9c03-4716-80de-7b9740be0b16.html">Codorníu</a></td>
+<td><a href="../wines/938343b2-010d-4abd-9c14-e5e6f6c88633.html">Codorníu Cava Clasico Brut Nature NV</a></td>
+<td>NV</td>
+<td>7.30</td>
+<td>4.2882</td>
+</tr>
+<tr class="odd">
+<td>2022-06-15</td>
+<td>France</td>
+<td><a href="../producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="../wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">Pierre Frick Crémant d’Alsace 2018</a></td>
+<td>2018</td>
+<td>7.50</td>
+<td>1.8087</td>
+</tr>
+<tr class="even">
+<td>2022-06-15</td>
+<td>Austria</td>
+<td><a href="../producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="../wines/cdd63749-d893-457a-b852-06a407e52c84.html">Weingut Bründlmayer Zweigelt 2015</a></td>
+<td>2015</td>
+<td>7.50</td>
+<td>3.3383</td>
+</tr>
+<tr class="odd">
+<td>2022-06-15</td>
+<td>France</td>
+<td><a href="../producers/7aee6dea-ad2d-4f38-9980-e14de49f0268.html">Maison du Vigneron</a></td>
+<td><a href="../wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6.html">Maison du Vigneron Crémant du Jura NV</a></td>
+<td>NV</td>
+<td>7.20</td>
+<td>2.9736</td>
+</tr>
+<tr class="even">
+<td>2022-06-15</td>
+<td>France</td>
+<td><a href="../producers/1798690d-483b-4f80-a136-93eb9552e48b.html">Domaine de la Touraize</a></td>
+<td><a href="../wines/949e9fb7-b079-491d-9700-3af4e8545c97.html">Domaine de la Touraize Crémant du Jura Millésimé 2018</a></td>
+<td>2018</td>
+<td>7.75</td>
+<td>2.5223</td>
+</tr>
+<tr class="odd">
+<td>2022-06-15</td>
+<td>France</td>
+<td><a href="../producers/81bfd5b7-36b2-4127-91b4-e81f16da69cd.html">Mouzon-Leroux</a></td>
+<td><a href="../wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">Mouzon-Leroux L’Atavique NV</a></td>
+<td>NV</td>
+<td>8.25</td>
+<td>2.0390</td>
+</tr>
+<tr class="even">
+<td>2022-06-14</td>
+<td>Spain</td>
+<td><a href="../producers/e51a0d85-d950-4605-aa06-c232d4b9fc5a.html">Jaume Serra</a></td>
+<td><a href="../wines/1d25ec11-e30c-4b90-b800-0e6fb959c312.html">Jaume Serra Cava Brut Nature NV</a></td>
+<td>NV</td>
+<td>6.50</td>
+<td>3.7597</td>
+</tr>
+<tr class="odd">
+<td>2022-06-13</td>
+<td>Austria</td>
+<td><a href="../producers/10ab4cea-5852-45b1-94bc-97e93fe33956.html">Weingut Tement</a></td>
+<td><a href="../wines/10032e11-4691-4634-8f36-ce7ed8c1dba2.html">Weingut Tement Temento Green 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>2.5564</td>
+</tr>
+<tr class="even">
+<td>2022-06-12</td>
+<td>Greece</td>
+<td><a href="../producers/f17f45c4-3a53-41d6-8ce4-5af676a7af04.html">Ktima Papaioannou</a></td>
+<td><a href="../wines/5cc084ab-5d95-4346-a01b-eb4e27cb2c79.html">Ktima Papaioannou Malagouzia 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>3.8510</td>
+</tr>
+<tr class="odd">
+<td>2022-06-12</td>
+<td>Spain</td>
+<td><a href="../producers/27f09c7c-610f-4111-9ae2-13d02596411e.html">Juvé y Camps</a></td>
+<td><a href="../wines/52fe7333-bad2-4d23-b733-a3520704b5d2.html">Juvé y Camps Reserva de la Familia Gran Reserva Brut Nature 2017</a></td>
+<td>2017</td>
+<td>7.50</td>
+<td>2.9547</td>
+</tr>
+<tr class="even">
+<td>2022-06-11</td>
+<td>Italy</td>
+<td><a href="../producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5.html">Zeni</a></td>
+<td><a href="../wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b.html">Zeni Garganega Veronesse Vigne Alte 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>1.9386</td>
+</tr>
+<tr class="odd">
+<td>2022-06-10</td>
+<td>New Zealand</td>
+<td><a href="../producers/bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c.html">Spy Valley</a></td>
+<td><a href="../wines/7652700d-3edc-46fa-8e74-624826b23830.html">Spy Valley Satellite Sauvignon Blanc 2021</a></td>
+<td>2021</td>
+<td>6.50</td>
+<td>2.6302</td>
+</tr>
+<tr class="even">
+<td>2022-06-10</td>
+<td>Spain</td>
+<td><a href="../producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">R. López de Heredia</a></td>
+<td><a href="../wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">R. López de Heredia Viña Gravonia Blanco Crianza 2013</a></td>
+<td>2013</td>
+<td>8.00</td>
+<td>2.6966</td>
+</tr>
+<tr class="odd">
+<td>2022-06-10</td>
+<td>France</td>
+<td><a href="../producers/95f34fc8-044c-453a-bca7-62e7128ff998.html">Francoise Bedel</a></td>
+<td><a href="../wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">Francoise Bedel L’Âme de la Terre Millésime 2006</a></td>
+<td>2006</td>
+<td>9.00</td>
+<td>2.2410</td>
+</tr>
+<tr class="even">
+<td>2022-06-10</td>
+<td>Australia</td>
+<td><a href="../producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="../wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">Lucy Margaux Le Sauvignon Sensuel 2020</a></td>
+<td>2020</td>
+<td>7.75</td>
+<td>2.1672</td>
+</tr>
+<tr class="odd">
+<td>2022-06-10</td>
+<td>Israel</td>
+<td><a href="../producers/6af33cac-4d40-4a63-9799-597578b5cb1c.html">Golan Heights Winery</a></td>
+<td><a href="../wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">Golan Heights Winery Mount Hermon White 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.9348</td>
+</tr>
+<tr class="even">
+<td>2022-06-08</td>
+<td>Italy</td>
+<td><a href="../producers/4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae.html">Foradori</a></td>
+<td><a href="../wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e.html">Foradori Fontanasanta Manzoni Bianco 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.7503</td>
+</tr>
+<tr class="odd">
+<td>2022-06-08</td>
+<td>Spain</td>
+<td><a href="../producers/0608acc9-e36c-4cff-970e-0f2489d3011a.html">Fedellos do Couto</a></td>
+<td><a href="../wines/8832401d-3910-4072-a585-e7e4ad97324a.html">Fedellos do Couto Conasbrancas 2018</a></td>
+<td>2018</td>
+<td>7.50</td>
+<td>2.7736</td>
+</tr>
+<tr class="even">
+<td>2022-06-07</td>
+<td>France</td>
+<td><a href="../producers/6badeeaf-9e31-4af7-8720-d771de5790f2.html">Simon Bize et Fils</a></td>
+<td><a href="../wines/9e880b48-e667-429f-a5d8-222f6190cb3a.html">Simon Bize et Fils Bourgogne Les Perrières 2017</a></td>
+<td>2017</td>
+<td>8.00</td>
+<td>2.0870</td>
+</tr>
+<tr class="odd">
+<td>2022-06-07</td>
+<td>South Africa</td>
+<td><a href="../producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0.html">Sadie Family</a></td>
+<td><a href="../wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">Sadie Family Pofadder 2020</a></td>
+<td>2020</td>
+<td>8.50</td>
+<td>2.1749</td>
+</tr>
+<tr class="even">
+<td>2022-06-07</td>
+<td>Spain</td>
+<td><a href="../producers/d048b1cd-89b4-413e-a5f7-50ace090907c.html">R. López de Heredia</a></td>
+<td><a href="../wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">R. López de Heredia Viña Tondonia Blanco Reserva 2009</a></td>
+<td>2009</td>
+<td>9.00</td>
+<td>3.1737</td>
+</tr>
+<tr class="odd">
+<td>2022-06-07</td>
+<td>Hungary</td>
+<td><a href="../producers/5d056c7d-d1f4-478f-a63c-9b69e18a38bf.html">Lenkey Pinceszet</a></td>
+<td><a href="../wines/4a169cba-26aa-4d74-a03a-07a7bea905db.html">Lenkey Pinceszet Betsek Korposd Furmint 2011</a></td>
+<td>2011</td>
+<td>8.00</td>
+<td>2.4000</td>
+</tr>
+<tr class="even">
+<td>2022-06-07</td>
+<td>Portugal</td>
+<td><a href="../producers/d333df37-1bf6-4b6f-b48f-4ccf050126cf.html">COZs</a></td>
+<td><a href="../wines/224602d5-c307-4bfc-b84a-bfeede982fc0.html">COZs vn-c2 bg 2017</a></td>
+<td>2017</td>
+<td>7.00</td>
+<td>1.1609</td>
+</tr>
+<tr class="odd">
+<td>2022-06-07</td>
+<td>Argentina</td>
+<td><a href="../producers/43f0dd89-0fb5-4f37-b5f9-3ebfc0c9bfa9.html">Chandon</a></td>
+<td><a href="../wines/268bd2f6-3e62-4a26-ba42-d514bc4e011d.html">Chandon Argentina Brut NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>1.2895</td>
+</tr>
+<tr class="even">
+<td>2022-06-07</td>
+<td>France</td>
+<td><a href="../producers/92c049ed-0591-418d-8f2b-8d20726b8654.html">J.M Dreyer</a></td>
+<td><a href="../wines/f1137f23-9d0b-4e02-a8dc-aeef990ea592.html">J.M Dreyer Elios Pinot Noir 2020</a></td>
+<td>2020</td>
+<td>7.75</td>
+<td>2.2378</td>
+</tr>
+<tr class="odd">
+<td>2022-06-06</td>
+<td>Italy</td>
+<td><a href="../producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da.html">Tasca</a></td>
+<td><a href="../wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">Tasca Tenuta Regaleali Nozze d’Oro 2018</a></td>
+<td>2018</td>
+<td>7.75</td>
+<td>2.2632</td>
+</tr>
+<tr class="even">
+<td>2022-06-06</td>
+<td>France</td>
+<td><a href="../producers/4654ba3e-7c28-40fe-80b4-6639e8ff26e4.html">Raoul Clerget</a></td>
+<td><a href="../wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">Raoul Clerget Crémant de Bourgogne Brut NV</a></td>
+<td>NV</td>
+<td>7.25</td>
+<td>2.0539</td>
+</tr>
+<tr class="odd">
+<td>2022-06-05</td>
+<td>Italy</td>
+<td><a href="../producers/0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da.html">Tasca</a></td>
+<td><a href="../wines/dd1de12a-14c9-4d62-b429-e71259293d77.html">Tasca Tenuta Tascante Buonora 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>2.0351</td>
+</tr>
+<tr class="even">
+<td>2022-06-05</td>
+<td>Italy</td>
+<td><a href="../producers/144fb467-3912-4fe2-8d07-d6077ce2dad0.html">Barberani</a></td>
+<td><a href="../wines/deba8d55-585b-464c-8b45-e2b97702d33f.html">Barberani Foresco 2019</a></td>
+<td>2019</td>
+<td>7.25</td>
+<td>2.0539</td>
+</tr>
+<tr class="odd">
+<td>2022-06-04</td>
+<td>France</td>
+<td><a href="../producers/a20e448a-2939-4cf6-8389-8ebda0bef069.html">Philippe de Charmille</a></td>
+<td><a href="../wines/78c6a471-bf15-44a2-90ce-2a699e46a214.html">Philippe de Charmille Crémant de Loire Brut NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>2.6517</td>
+</tr>
+<tr class="even">
+<td>2022-06-04</td>
+<td>New Zealand</td>
+<td><a href="../producers/269e5124-0361-4c4c-932d-ea4b91d5163b.html">Marlborough Sun</a></td>
+<td><a href="../wines/b17345a2-36ee-4fdf-b083-fc6019941931.html">Marlborough Sun Sauvignon Blanc 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>2.2083</td>
+</tr>
+<tr class="odd">
+<td>2022-06-03</td>
+<td>France</td>
+<td><a href="../producers/b47de2e7-c45e-4c1a-81e7-7555ace9741e.html">Chateau d’Arsac</a></td>
+<td><a href="../wines/abe4809a-958e-46f3-8b58-5575332beb1e.html">Chateau d’Arsac Margaux Cru Bourgeois 2016</a></td>
+<td>2016</td>
+<td>7.50</td>
+<td>1.6636</td>
+</tr>
+<tr class="even">
+<td>2022-06-02</td>
+<td>France</td>
+<td><a href="../producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a.html">Clos du Tue-Boeuf</a></td>
+<td><a href="../wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">Clos du Tue-Boeuf Vin Blanc 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>3.6858</td>
+</tr>
+<tr class="odd">
+<td>2022-06-02</td>
+<td>France</td>
+<td><a href="../producers/61460d46-6c8d-41f3-ad9a-26fed046f622.html">Chateau Laffitte Carcasset</a></td>
+<td><a href="../wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">Chateau Laffitte Carcasset Saint-Estephe Cru Bourgeois 2016</a></td>
+<td>2016</td>
+<td>7.50</td>
+<td>1.8594</td>
+</tr>
+<tr class="even">
+<td>2022-06-02</td>
+<td>South Africa</td>
+<td><a href="../producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c.html">Storm</a></td>
+<td><a href="../wines/b837734a-480c-455b-98e6-25a04b7095ff.html">Storm Vrede Pinot Noir 2019</a></td>
+<td>2019</td>
+<td>8.50</td>
+<td>2.9590</td>
+</tr>
+<tr class="odd">
+<td>2022-06-01</td>
+<td>Italy</td>
+<td><a href="../producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e.html">Girolamo Russo</a></td>
+<td><a href="../wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">Girolamo Russo Etna Rosato 2019</a></td>
+<td>2019</td>
+<td>8.50</td>
+<td>5.4592</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Thanks for reading!</p>
+  </section>
+</article>
+
+    </main>
+
+    <footer>
+      Site proudly generated by
+      <a href="https://github.com/d12frosted/vulpea">Vulpea</a>,
+      <a href="https://github.com/d12frosted/vino">Vino</a>
+      and
+      <a href="http://jaspervdj.be/hakyll">Hakyll</a>
+    </footer>
+
+  </body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "id": "21d131ca-0b4c-4cb1-bbcb-a014bb3f4517",
+  "name": "Gutedel",
+  "full-name": "Wasenhaus Gutedel 2019",
+  "producer": {
+    "id": "e463ddb4-d593-4913-80e1-b841330d4cf6",
+    "name": "Wasenhaus"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "c2c7ab2c-f778-4f63-9452-56f1693444ef",
+      "name": "Chasselas"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0",
+  "prices": [
+    "524 UAH",
+    "570 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/d131ca-0b4c-4cb1-bbcb-a014bb3f4517/2020-09-27-13-35-07-C7D18D38-CD30-4A79-BE4C-22424514C902-1-105-c.webp",
+  "rating": "7.0"
+}

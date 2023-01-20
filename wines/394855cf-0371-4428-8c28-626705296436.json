@@ -1,0 +1,34 @@
+{
+  "id": "394855cf-0371-4428-8c28-626705296436",
+  "name": "Negramoll",
+  "full-name": "Victoria E. Torres Pecis Negramoll 2017",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "71d8db65-4936-4f9d-8819-a8e8f8cfa8af",
+      "name": "Mollar Cano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1010 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/39/4855cf-0371-4428-8c28-626705296436/2022-11-27-10-29-49-IMG-3458.webp",
+  "rating": "8.25"
+}

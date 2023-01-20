@@ -1,0 +1,39 @@
+{
+  "id": "b8ee636c-0490-45a8-b652-02302932ae37",
+  "name": "Nero Ossidiana",
+  "full-name": "Tenuta di Castellaro Nero Ossidiana 2015",
+  "producer": {
+    "id": "9f3f28ba-c0eb-4c19-a1ae-f347c7f70704",
+    "name": "Tenuta di Castellaro"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "feffc6de-9a35-449b-8470-e64b4f28832c",
+      "name": "Corinto"
+    },
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "836 UAH",
+    "861 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/ee636c-0490-45a8-b652-02302932ae37/2022-11-19-09-30-20-A764AF30-1D42-4BAA-A6FF-D85A18CA1AA1-1-105-c.webp",
+  "rating": "7.75"
+}

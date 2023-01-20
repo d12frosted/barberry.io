@@ -1,0 +1,34 @@
+{
+  "id": "f02e451d-3dc2-4b53-a59b-98a8d7144471",
+  "name": "Sogno Blanc de Blancs Pas Operé",
+  "full-name": "Cà del Vént Sogno Blanc de Blancs Pas Operé 2014",
+  "producer": {
+    "id": "10c5a427-ee4a-4962-a855-a9bbfd135d39",
+    "name": "Cà del Vént"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": "09.08.2018",
+  "sur-lie": "44 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "1790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c.webp",
+  "rating": "8.5"
+}

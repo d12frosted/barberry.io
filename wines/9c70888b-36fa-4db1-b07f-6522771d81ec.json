@@ -1,0 +1,34 @@
+{
+  "id": "9c70888b-36fa-4db1-b07f-6522771d81ec",
+  "name": "Masieri",
+  "full-name": "La Biancara Masieri 2019",
+  "producer": {
+    "id": "b896c5d5-53f9-4a09-864f-3cf25810c9ad",
+    "name": "La Biancara"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.6",
+  "prices": [
+    "380 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9c/70888b-36fa-4db1-b07f-6522771d81ec/2021-04-04-12-20-41-E7AA4263-EF68-406F-88C4-5D03E7DB1B9D-1-105-c.webp",
+  "rating": "7.5"
+}

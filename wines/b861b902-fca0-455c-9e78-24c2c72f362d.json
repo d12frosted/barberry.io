@@ -1,0 +1,38 @@
+{
+  "id": "b861b902-fca0-455c-9e78-24c2c72f362d",
+  "name": "Parotet",
+  "full-name": "Celler del Roure Parotet 2017",
+  "producer": {
+    "id": "0e0a9f99-372a-4108-937e-c1d096263ad6",
+    "name": "Celler del Roure"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "9f7ea6c6-87ae-4cf0-a6a6-b74285781989",
+      "name": "Mandó"
+    },
+    {
+      "id": "50ffa651-1a06-4604-8a77-b2313ef4730a",
+      "name": "Moristel"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "869 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b8/61b902-fca0-455c-9e78-24c2c72f362d/2022-08-09-18-17-07-89A5E7F6-5768-481F-A90D-1D3E712B9075-1-105-c.webp",
+  "rating": "7.4"
+}

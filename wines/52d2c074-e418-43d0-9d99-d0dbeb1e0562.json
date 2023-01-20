@@ -1,0 +1,34 @@
+{
+  "id": "52d2c074-e418-43d0-9d99-d0dbeb1e0562",
+  "name": "La Vignée Bourgogne Chardonnay",
+  "full-name": "Bouchard Père et Fils La Vignée Bourgogne Chardonnay 2019",
+  "producer": {
+    "id": "e6ba325c-1910-4711-a487-437df960dce0",
+    "name": "Bouchard Père et Fils"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/52/d2c074-e418-43d0-9d99-d0dbeb1e0562/2022-05-28-10-07-17-CDB1C192-0A77-4DAF-A3D8-F30BE5A9C205-1-105-c.webp",
+  "rating": "7.0"
+}

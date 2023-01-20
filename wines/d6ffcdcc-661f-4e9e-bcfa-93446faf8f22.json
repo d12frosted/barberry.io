@@ -1,0 +1,38 @@
+{
+  "id": "d6ffcdcc-661f-4e9e-bcfa-93446faf8f22",
+  "name": "Tattouine Rouge",
+  "full-name": "Matassa Tattouine Rouge 2020",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c6e1fd3f-d02f-4700-8156-0f81ffd71b89",
+      "name": "Garnacha Roja"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0.5",
+  "prices": [
+    "1092 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d6/ffcdcc-661f-4e9e-bcfa-93446faf8f22/2022-08-12-12-05-19-IMG-1451.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "18ba93cf-75c5-41ea-94f3-7e04f03ceb59",
+  "name": "3B Blanc de Blancs Extra Bruto Unfiltered",
+  "full-name": "Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV",
+  "producer": {
+    "id": "6537a578-cfe0-42d8-b38f-38ff0696866b",
+    "name": "Filipa Pato"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": "9 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "3e7b8740-0fe9-4683-af09-15bade39dbf9",
+      "name": "Touriga Nacional"
+    },
+    {
+      "id": "deb946f7-aac6-49ef-9cb8-33176ac20cbf",
+      "name": "Maria Gomes"
+    },
+    {
+      "id": "9533c730-0f45-46f3-8c3a-6ffa2ce88f87",
+      "name": "Cerceal"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "651 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467.webp",
+  "rating": "7.4"
+}

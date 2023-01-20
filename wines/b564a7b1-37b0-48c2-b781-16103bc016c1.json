@@ -1,0 +1,35 @@
+{
+  "id": "b564a7b1-37b0-48c2-b781-16103bc016c1",
+  "name": "Atlas",
+  "full-name": "Bencze Atlas 2019",
+  "producer": {
+    "id": "e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee",
+    "name": "Bencze"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "900 UAH",
+    "840 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c.webp",
+  "rating": "7.125"
+}

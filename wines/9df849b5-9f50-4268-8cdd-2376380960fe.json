@@ -1,0 +1,39 @@
+{
+  "id": "9df849b5-9f50-4268-8cdd-2376380960fe",
+  "name": "Skerpioen",
+  "full-name": "Sadie Family Skerpioen 2018",
+  "producer": {
+    "id": "c7f2173e-1b32-4e44-8da0-bd36f04b3ae0",
+    "name": "Sadie Family"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    },
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.5",
+  "prices": [
+    "1600 UAH",
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c.webp",
+  "rating": "8.5"
+}

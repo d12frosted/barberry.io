@@ -1,0 +1,42 @@
+{
+  "id": "904ab06e-a6fa-4b0b-8c55-36a48d6d2668",
+  "name": "739 DT",
+  "full-name": "Jacquesson 739 DT 2011",
+  "producer": {
+    "id": "2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca",
+    "name": "Jacquesson"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.75",
+  "prices": [
+    "2555 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/90/4ab06e-a6fa-4b0b-8c55-36a48d6d2668/2021-07-22-09-23-11-5952B1C1-D600-45ED-A079-14B753C772AF-1-105-c.webp",
+  "rating": "9.0"
+}

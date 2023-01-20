@@ -1,0 +1,39 @@
+{
+  "id": "82a470c3-fe0c-49f2-8ff7-fdea39a112de",
+  "name": "Grand Cru Collection Bouzy",
+  "full-name": "Maurice Vesselle Grand Cru Collection Bouzy 2000",
+  "producer": {
+    "id": "84e27083-bf73-49a2-bd8c-25bf78d3f301",
+    "name": "Maurice Vesselle"
+  },
+  "vintage": "2000",
+  "base-vintage": null,
+  "degorgee": "???",
+  "sur-lie": "~60 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "5",
+  "prices": [
+    "3673 UAH",
+    "3950 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921.webp",
+  "rating": "8.75"
+}

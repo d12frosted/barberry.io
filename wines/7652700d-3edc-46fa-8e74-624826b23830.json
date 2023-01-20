@@ -1,0 +1,34 @@
+{
+  "id": "7652700d-3edc-46fa-8e74-624826b23830",
+  "name": "Satellite Sauvignon Blanc",
+  "full-name": "Spy Valley Satellite Sauvignon Blanc 2021",
+  "producer": {
+    "id": "bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c",
+    "name": "Spy Valley"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "315 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/52700d-3edc-46fa-8e74-624826b23830/2022-06-09-21-50-10-IMG-0374.webp",
+  "rating": "6.5"
+}

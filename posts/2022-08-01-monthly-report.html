@@ -1,0 +1,1041 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Monthly report - July 2022 | Barberry Garden</title>
+    <meta name="description" content="A new month has begun, so it's time to look back at tasting notes for a monthly report. Novelties, favourites, outcasts and trends.">
+
+    <meta property="og:site_name" content="Barberry Garden">
+    <meta property="og:title" content="Monthly report - July 2022 | Barberry Garden" />
+    <meta property="og:description" content="A new month has begun, so it's time to look back at tasting notes for a monthly report. Novelties, favourites, outcasts and trends." />
+    
+    <meta property="og:image" content="https://barberry.io/images/2022-08-01-monthly-report/2022-07-30-11-07-09-FA6552DA-C038-4A99-AE2B-39F0E4FA5550-1-201-a.jpeg" />
+    <meta property="og:image:width" content="960">
+    <meta property="og:image:height" content="720">
+    
+    <meta property="og:url" content="https://barberry.io/posts/2022-08-01-monthly-report.html" />
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article" />
+    
+    <meta property="article:published_time" content="2022-08-01">
+    
+    
+    <meta property="article:modified_time" content="2023-01-16">
+    
+    <meta property="article:author:first_name" content="Boris">
+    <meta property="article:author:last_name" content="Buliga">
+
+
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=M+PLUS+Rounded+1c:wght@300;400;500;700&family=Source+Code+Pro:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/default.css" />
+    <link rel="stylesheet" href="../css/fonts.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="manifest" href="../site.webmanifest">
+    <script data-goatcounter="https://barberry.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="../">Barberry Garden</a>
+      </div>
+      <nav>
+        <a href="../posts.html">Posts</a>
+        <a href="../wines.html">Wines</a>
+        <a href="../reviews.html">Reviews</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <article>
+  <h1>Monthly report - July 2022</h1>
+  <section class="subtitle">
+    Posted on August  1, 2022
+    
+      by Boris
+    
+  </section>
+  
+  <section class="subtitle">
+    Updated on January 16, 2023
+  </section>
+  
+  <section>
+    <link href="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.css" rel="stylesheet">
+<script src="../library/jquery/dist/jquery.min.js"></script>
+<script src="../library/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="../library/bootstrap-table/dist/themes/bootstrap-table/bootstrap-table.min.js"></script>
+<script>
+function ratingSorter(a, b) {
+  const aa = a == '-' ? 0 : parseFloat(a);
+  const bb = b == '-' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function vintageSorter(a, b) {
+  const aa = a == 'NV' ? 0 : parseFloat(a);
+  const bb = b == 'NV' ? 0 : parseFloat(b);
+  return aa - bb;
+}
+
+function htmlSorter(a, b) {
+  return strSorter($(a).text(), $(b).text())
+}
+
+function strSorter(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
+}
+      </script>
+<script src="../library/chart.js/dist/chart.min.js"></script><script src="../library/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js"></script>
+<figure>
+<img src="../images/2022-08-01-monthly-report/2022-07-30-11-07-09-FA6552DA-C038-4A99-AE2B-39F0E4FA5550-1-201-a.webp" alt="Photo by Elvira Kantiieva" />
+<figcaption aria-hidden="true">Photo by Elvira Kantiieva</figcaption>
+</figure>
+<p>July was a crazy month. In terms of work, in terms of wines consumed, in terms of novelties. I am happy that August begins with a short vacation. That gives me a chance to clean up my mind and come back full of mental energy to continue living and working during these war times.</p>
+<p>This month I’ve organised two tasting events and attended four tasting events. And that explains why I consumed <strong>97</strong> wines and rated <strong>86</strong> (with <strong>88</strong> ratings total). Ok, constant background stress is also a reason for drinking that much. But at least I can say that amount of red wines increases. This month only <strong>65%</strong> of rated wines were white (compared to 74% the previous month).</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-y"><canvas id="monthly-ratings"></canvas><script>
+      const monthly_ratingsChart = new Chart(document.getElementById("monthly-ratings").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["2021 December","2022 January","2022 May","2022 June","2022 July"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"rates","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["74","40","29","59","88"]}]
+        },
+        options: {"maintainAspectRatio":false,"indexAxis":"y","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"x":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (true) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * monthly_ratingsChart.data.labels.length + ticksHeight;
+        document.getElementById("monthly-ratings").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>Every month the most rated countries are Italy, Spain and France. They just shuffle. But my curiosity is in lower rows. This time Greece wines were rated seven times. And unfortunately, four of them were of poor quality, despite being made by a somewhat legendary oenologist. More on that later.</p>
+<p>I am happy to see that I’ve tasted ten new regions this month. But I am just angry that I’ve rated so few wines from New Zealand. I know that there are many Pinot Noirs available in Good Wine. Yup, it’s an official call for convives.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="countries"></canvas><script>
+      const countriesChart = new Chart(document.getElementById("countries").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["Italy","Spain","France","Greece","Australia","Germany","Hungary","Austria","South Africa","Argentina","Czech Republic","Georgia","Portugal","Ukraine","New Zealand"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["22","17","12","7","5","4","4","4","3","3","2","2","1","1","1"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * countriesChart.data.labels.length + ticksHeight;
+        document.getElementById("countries").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vintage. Though somehow, I’ve got a spike in wines of the 2018 vintage. In that sense, the balance is good. And I am happy that I’ve got my hands on <a href="../wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">La Biancara Sassaia 1997</a>. Legendary year for that region. You can read more <a href="../producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad.html">here</a>. I’ve tasted it as part of <a href="../posts/2022-07-28-mixed-bag.html">Mixed Bag Vol. 2: Orange</a>.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-x"><canvas id="vintages"></canvas><script>
+      const vintagesChart = new Chart(document.getElementById("vintages").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["2021","2020","2019","2018","2017","2016","2014","2013","2009","1997","NV"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["6","22","12","16","7","5","2","1","1","1","15"]}]
+        },
+        options: {"maintainAspectRatio":true,"indexAxis":"x","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"y":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (false) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * vintagesChart.data.labels.length + ticksHeight;
+        document.getElementById("vintages").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>In terms of grapes, July is a festival because I’ve rated wines made of <strong>82</strong> grapes! And 11 of them I tasted for the first time. Though if you take a closer look, many of them are rather rare. And it’s really funny to see how hard it is to move Chardonnay and Pinot Noir away from the first lines.</p>
+<div class="chartjs-wrapper"><div class="chartjs chartjs-bar chartjs-bar-y"><canvas id="grapes"></canvas><script>
+      const grapesChart = new Chart(document.getElementById("grapes").getContext('2d'), {
+        plugins: [ChartDataLabels],
+        type: "bar",
+        data: {
+          labels: ["Pinot Noir","Chardonnay","Xarel-lo","Macabeo","Malvasia di Candia Aromatica","Merlot","Parellada","Palomino Fino","Cabernet Sauvignon","Sauvignon Blanc","Vidiano","Grillo","Assyrtiko","Trousseau","Poulsard","Chenin Blanc","Glera","Blauer Portugieser","Pinot Gris","Zibibbo","Sangiovese","Rondinella","Molinara","Corvina","Savagnin","Grüner Veltliner","Xinomavro","Cariñena","Barbera","Athiri Lefko","Tempranillo","Liatiko","Alicante Henri Bouschet","Rkatsiteli","Trebbiano","Ortrugo","Garganega","Pecorino","Ribolla Gialla","Furmint","Dolcetto","Caiño","Mencía","Brancellao","Dornfelder","Listán Negro","Blaufrankisch","Vijariego Blanco","Malvasía Volcánica","Nebbiolo","Gewürztraminer","Cinsault","Nero d’Avola","Frappato","Rotgipfler","Riesling","Zierfandler","Pelaverga Piccolo","Grenache","Verdelho","Arinto","Viosinho","Pinot Meunier","Muskateller","Bianchetta Trevigiana","Verdicchio","Malvasía de Sitges","Huxelrebe","Würzer","Müller-Thurgau","Hárslevelű","Malbec","Moscato Giallo","Vermentino","Cortese","Saint-Laurent","Zweigelt","Sauvignon Gris","Cabernet Franc","Field Blend","Muscat Blanc"],
+          datasets: [{"borderWidth":1,"fill":false,"label":"count","borderColor":["rgba(255, 99, 132, 1)","rgba(54, 162, 235, 1)","rgba(255, 206, 86, 1)","rgba(75, 192, 192, 1)","rgba(153, 102, 255, 1)","rgba(255, 159, 64, 1)"],"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(54, 162, 235, 0.2)","rgba(255, 206, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(153, 102, 255, 0.2)","rgba(255, 159, 64, 0.2)"],"data":["12","12","5","5","4","4","4","3","3","3","2","2","2","2","2","2","2","2","2","2","2","2","2","2","2","2","2","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1"]}]
+        },
+        options: {"maintainAspectRatio":false,"indexAxis":"y","plugins":{"legend":{"display":false},"datalabels":{"align":"start","anchor":"end"}},"scales":{"x":{"type":"linear","beginAtZero":true}},"skipNull":false}
+      });
+      if (true) {
+        // some magic numbers based on default configurations of fonts, padding of grid and ticks
+        const ticksHeight = Math.ceil(2 * 14 * 1.2 + 8 + 3 + 2 + 2);
+        const height = 24 * grapesChart.data.labels.length + ticksHeight;
+        document.getElementById("grapes").parentNode.style.height = height + 'px';
+      }
+      </script></div></div>
+<p>Before I share my favourites and outcasts of the month, let me briefly talk about the novelties of the month. It’s either a new grape or a new region. As they say, the world of wine is incredibly vast.</p>
+<ul>
+<li><a href="../wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">Hummel Villányi Portugieser 2020</a> is my first Blauer Portugieser. I liked this wine so much that I’ve purchased a few extra bottles for home and office.</li>
+<li><a href="../wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">Marto Crazy Crazy 2020</a> is my first Huxelrebe (used in blend). The wine itself is not my cup of tea (pun intended).</li>
+<li><a href="../wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">Quinta de Chocapalha Branco 2017</a> is my first Viosinho and Arinto. Good table wine.</li>
+<li><a href="../wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">Bel Colle Verduno Pelaverga 2020</a> is my first Pelaverga Piccolo and Verduno Pelaverga DOC. Happy purchase.</li>
+<li><a href="../wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">Domaine Sigalas Santorini 2020</a> is my first Santorini POP wine. Does this experience encourage me to continue exploring Santorini? No. But I am going to regardless.</li>
+<li><a href="../wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">Fio Wein Piu Piu Petnat Rosé NV</a> is my first Dornfelder. One of my favourite petnat, even though I didn’t like it at first. But my mind is quick for changes.</li>
+<li><a href="../wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">Victoria E. Torres Pecis Piezas #4 Malvasia Seco 2018</a> is my first La Palma DO. I am in love with <a href="../producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba.html">Victoria E. Torres Pecis</a> now.</li>
+<li><a href="../wines/d6c6820e-99c0-4c12-a1ab-348f9473de3e.html">Soco Vinicola Soco Blanco 2020</a> is my first Lanzarote DO.</li>
+<li><a href="../wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">Suertes del Marques El Chibirique 2017</a> is my first Listán Negro and Valle de la Orotava DO.</li>
+<li><a href="../wines/acb75785-ee20-419a-a21a-540f51157670.html">Sandro Fay Valtellina Superiore Valgella Riserva Carteria 2014</a> is my first Valtellina Superiore DOCG.</li>
+<li><a href="../wines/d45fd10b-9166-4551-a8be-0c295c96879c.html">Francesco Boschis Dogliani Vigne in Pianezzo 2016</a> is my first Dogliani DOCG.</li>
+<li><a href="../wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">De Fermo Don Carlino Pecorino Colline Pescaresi 2018</a> is my first Pecorino and IGP Colline Pescaresi.</li>
+<li><a href="../wines/bbdbad91-d8e2-419c-9a2a-da23ab73e015.html">Ρίζες 2 Βιδιανό - Ασύρτικο | Vidiano - Assyrtiko 2020</a> is my first Vidiano and my first wine from Crete. More on that later.</li>
+<li><a href="../wines/5a4c0e3b-7f11-46bb-8f17-69588434b9ee.html">Shima L.P Winery Liatiko 2020</a> is my first Liatiko and PGI Rethymno.</li>
+<li><a href="../wines/15040117-337e-43f7-aae4-d74e7ea92d5e.html">Shima L.P Winery Thrapsathiri 2020</a> is my first Thrapsathiri.</li>
+<li><a href="../wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">Domaine Huet Le Haut-Lieu Sec 2017</a> is my first Vouvray AOC. Yup, and I am not ashamed. But happy that I tasted it at last.</li>
+</ul>
+<p>As you can see, I was not lying when I said that July was crazy. So many new grapes and regions. But now the time has come for the trickiest part of the monthly report - the list of favourites. To help myself, I am going to select favourites in specific categories.</p>
+<ol type="1">
+<li>My favourite traditional sparkling of the month is <span class="material-symbols-outlined"></span> 9.0 <a href="../wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">Ulysse Collin Les Maillons Blanc de Noirs Extra Brut (2017) NV</a>. It could be <a href="../wines/baf18c42-2e67-4108-967a-d540bc105779.html">Cascina Bertolotto Spumante Brut Metodo Classico NV</a> because it was a blast during Mixed Bag, but I hope you understand my choice. Besides, I already included it in the favourites list in <a href="../posts/2022-06-01-monthly-report.html">May</a>.</li>
+<li>My favourite petnat of the month is <span class="material-symbols-outlined"></span> 7.5 <a href="../wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">Fio Wein Piu Piu Petnat Rosé NV</a>. If you want white petnat, then I recommend <span class="material-symbols-outlined"></span> 7.5 <a href="../wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">Lucy Margaux Pinot Gris Comme de Fleurs 2020</a>. Still available.</li>
+<li>My favourite skin contact wine is <span class="material-symbols-outlined"></span> 8.5 <a href="../wines/930fb85c-691f-4692-8372-30e03660a72a.html">Gentle Folk Summertown blanc 2019</a>. Aside from being well crafted and delicious, it also offers something new in terms of bouquet and palate. I am happy that I’ve shared it with others as part of <a href="../posts/2022-07-28-mixed-bag.html">Mixed Bag Vol. 2</a>.</li>
+<li>My favourite white wine is <span class="material-symbols-outlined"></span> 8.6 <a href="../wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">La Biancara Sassaia 1997</a>. A legendary year and incredible wine even at its peak.</li>
+<li>My favourite red wine is <span class="material-symbols-outlined"></span> 8.5 <a href="../wines/e761d104-5798-43f7-9d5d-cbf763d587a5.html">Domaine du Pélican Poulsard 2018</a>. Nuff said. Delicate and complex expression of Poulsard by the skilful winemaker. Still available.</li>
+<li>My favourite wine with a unique style is <span class="material-symbols-outlined"></span> 8.8 <a href="../wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013</a>. I am pretty sure it’s my first non-fortified Solera system wine. I simply fell in love with complexity, depth and palate. Still available.</li>
+<li>My favourite sparkling wine below 600 UAH is <span class="material-symbols-outlined"></span> 7.5 <a href="../wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">Els Vinyerons Pregadéu 2020</a>. Incredible Cava with a fresh take on region style. Still available.</li>
+<li>My favourite still white wine below 600 UAH is <span class="material-symbols-outlined"></span> 7.4 <a href="../wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">Weinert Carrascal Chardonnay 2021</a>. It’s just tasty and generous. Still available.</li>
+<li>My favourite still red wine below 600 UAH is <span class="material-symbols-outlined"></span> 7.75 <a href="../wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">Testalonga Baby Bandito Chin Up 2021</a>. The problem with this Cinsault is that it’s quaffable to an unhealthy extent. Luckily, they are not available anymore. And this makes me sad. Other reds in this line are worth noting.</li>
+<li>And the wine I want to emphasise is <span class="material-symbols-outlined"></span> 8.5 <a href="../wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">Marco de Bartoli Integer Grillo 2018</a>. Some would say that I just love Sicily. And that would be correct. But this Grillo became so beautiful after spending more time in the bottle that it’s hard to forget.</li>
+</ol>
+<p>And now, instead of listing all the outcasts of the month, I want to tell you about Iliana Malihin and Spyros Chryssos. Two talented people from two islands - Crete and Santorini. They united the effort to craft a future for their land using pre-phylloxera vines. On the 29th of July, we tasted a set of their wines without knowing anything about them. And the next day, after collecting information about tasted wines, I read an email by Jancis Robinson with disturbing news.</p>
+<blockquote>
+<p>Later on Tuesday we heard devastating news from <a href="https://www.jancisrobinson.com/articles/wwc22-christos-fatouros">Christos Fatouros</a> in Crete, who wrote about the subject of his entry, ‘nearly 80% of the pre-phylloxera vines owned by villagers that Ms Malihin had brought together were burned by wildfires, along with centuries-old olive trees. The people of Melampes are farmers and are now facing a grim future.’ We therefore decided to publish his entry on Wednesday, with a link to a crowdfunding initiative to help these Cretan farmers whose livelihood has literally gone up in smoke.</p>
+</blockquote>
+<figure>
+<img src="../images/2022-08-01-monthly-report/2022-07-30-18-15-11-gqn0mja5mr.webp" alt="Photo by Iliana Malihin" />
+<figcaption aria-hidden="true">Photo by Iliana Malihin</figcaption>
+</figure>
+<p>You can support their effort to restore viticulture on island on <a href="https://www.giveandfund.com/giveandfund/project/save-the-vines?request_locale=en">giveandfund.com</a>.</p>
+<h1 id="170574ac-17c7-483d-b530-71b11a01e6f5" id="all-ratings">All ratings</h1>
+<p>These are all the ratings of the month. Remember that you can search for specific terms and sort any column.</p>
+<div class="table-container">
+<table id="ratings-data" data-toggle="table" data-search="true" data-show-columns="true" data-show-columns-toggle-all="true" data-pagination="false" data-search-accent-neutralise="true" data-trim-on-search="false" data-search-highlight="true" class="wines-table">
+<thead>
+<tr class="header">
+<th data-sortable="true" data-field="date" data-sorter="strSorter">date</th>
+<th data-sortable="true" data-field="country" data-sorter="strSorter">country</th>
+<th data-sortable="true" data-field="producer" data-sorter="htmlSorter">producer</th>
+<th data-sortable="true" data-field="name" data-sorter="htmlSorter">name</th>
+<th data-sortable="true" data-field="vintage" data-sorter="vintageSorter">vintage</th>
+<th data-sortable="true" data-field="rate" data-sorter="ratingSorter">rate</th>
+<th data-sortable="true" data-field="QPR" data-sorter="ratingSorter">QPR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2022-07-31</td>
+<td>South Africa</td>
+<td><a href="../producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="../wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">Testalonga Baby Bandito Follow Your Dreams 2021</a></td>
+<td>2021</td>
+<td>7.50</td>
+<td>2.6696</td>
+</tr>
+<tr class="even">
+<td>2022-07-30</td>
+<td>Italy</td>
+<td><a href="../producers/30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e.html">Cascina Tavijn</a></td>
+<td><a href="../wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be.html">Cascina Tavijn Bandita 2019</a></td>
+<td>2019</td>
+<td>7.75</td>
+<td>4.0298</td>
+</tr>
+<tr class="odd">
+<td>2022-07-29</td>
+<td>Greece</td>
+<td><a href="../producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="../wines/15040117-337e-43f7-aae4-d74e7ea92d5e.html">Shima L.P Winery Thrapsathiri 2020</a></td>
+<td>2020</td>
+<td>3.00</td>
+<td>0.1772</td>
+</tr>
+<tr class="even">
+<td>2022-07-29</td>
+<td>Spain</td>
+<td><a href="../producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="../wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">Els Vinyerons Saltamartí 2020</a></td>
+<td>2020</td>
+<td>7.40</td>
+<td>4.6202</td>
+</tr>
+<tr class="odd">
+<td>2022-07-29</td>
+<td>Greece</td>
+<td><a href="../producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="../wines/d43bf6e9-bdd8-4805-953a-e23e28699260.html">Shima L.P Winery Vidiano Old Vines 2020</a></td>
+<td>2020</td>
+<td>5.00</td>
+<td>0.4431</td>
+</tr>
+<tr class="even">
+<td>2022-07-29</td>
+<td>France</td>
+<td><a href="../producers/ecaf4296-a793-496e-ae68-390c8d25ed0e.html">Domaine Huet</a></td>
+<td><a href="../wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">Domaine Huet Le Haut-Lieu Sec 2017</a></td>
+<td>2017</td>
+<td>8.25</td>
+<td>2.1497</td>
+</tr>
+<tr class="odd">
+<td>2022-07-29</td>
+<td>Greece</td>
+<td><a href="../producers/35491292-92b3-4eff-be00-a5f5ae8a1f2e.html">Shima L.P Winery</a></td>
+<td><a href="../wines/5a4c0e3b-7f11-46bb-8f17-69588434b9ee.html">Shima L.P Winery Liatiko 2020</a></td>
+<td>2020</td>
+<td>5.00</td>
+<td>0.4431</td>
+</tr>
+<tr class="even">
+<td>2022-07-29</td>
+<td>Spain</td>
+<td><a href="../producers/5a74c7dc-56c1-4a45-b1d6-849c9f02ecfb.html">Alfredo Maestro</a></td>
+<td><a href="../wines/918312a7-56b9-4e31-95a0-e5529d7998a2.html">Alfredo Maestro Don Perdigón Pet-Nat NV</a></td>
+<td>NV</td>
+<td>7.20</td>
+<td>2.1583</td>
+</tr>
+<tr class="odd">
+<td>2022-07-29</td>
+<td>Germany</td>
+<td><a href="../producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="../wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">Wasenhaus Spätburgunder 2020</a></td>
+<td>2020</td>
+<td>8.00</td>
+<td>2.7460</td>
+</tr>
+<tr class="even">
+<td>2022-07-29</td>
+<td>Greece</td>
+<td><a href="../producers/95d71a6e-ca7e-4b66-82a9-279ee08acdcb.html">Ρίζες 2</a></td>
+<td><a href="../wines/bbdbad91-d8e2-419c-9a2a-da23ab73e015.html">Ρίζες 2 Βιδιανό - Ασύρτικο (Vidiano - Assyrtiko) 2020</a></td>
+<td>2020</td>
+<td>1.50</td>
+<td>0.1225</td>
+</tr>
+<tr class="odd">
+<td>2022-07-28</td>
+<td>Georgia</td>
+<td><a href="../producers/5b7283e3-a195-4382-901f-04bd6e393d94.html">Tsikhelishvili Wines</a></td>
+<td><a href="../wines/f315c7e4-18d2-4508-ac31-4198302b44aa.html">Tsikhelishvili Wines Alvani Rkatsiteli 2018</a></td>
+<td>2018</td>
+<td>8.20</td>
+<td>4.0481</td>
+</tr>
+<tr class="even">
+<td>2022-07-28</td>
+<td>Italy</td>
+<td><a href="../producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="../wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">La Stoppa Ageno 2019</a></td>
+<td>2019</td>
+<td>6.50</td>
+<td>0.8035</td>
+</tr>
+<tr class="odd">
+<td>2022-07-28</td>
+<td>Australia</td>
+<td><a href="../producers/166e9d27-3a90-4f30-a042-a39ebe67b04e.html">Gentle Folk</a></td>
+<td><a href="../wines/930fb85c-691f-4692-8372-30e03660a72a.html">Gentle Folk Summertown blanc 2019</a></td>
+<td>2019</td>
+<td>8.50</td>
+<td>3.1084</td>
+</tr>
+<tr class="even">
+<td>2022-07-28</td>
+<td>Greece</td>
+<td><a href="../producers/985badd4-6e4e-471e-a7f2-f2ec646f1b1a.html">Ktima Ligas</a></td>
+<td><a href="../wines/6d64366b-03ab-40e9-be42-29b47b5ba98a.html">Ktima Ligas Spira 2019</a></td>
+<td>2019</td>
+<td>8.20</td>
+<td>2.4609</td>
+</tr>
+<tr class="odd">
+<td>2022-07-28</td>
+<td>Australia</td>
+<td><a href="../producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3.html">Lucy Margaux</a></td>
+<td><a href="../wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">Lucy Margaux Pinot Gris Comme de Fleurs 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>1.7533</td>
+</tr>
+<tr class="even">
+<td>2022-07-28</td>
+<td>Italy</td>
+<td><a href="../producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="../wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">La Stoppa Ageno 2018</a></td>
+<td>2018</td>
+<td>8.50</td>
+<td>3.4794</td>
+</tr>
+<tr class="odd">
+<td>2022-07-28</td>
+<td>Italy</td>
+<td><a href="../producers/b896c5d5-53f9-4a09-864f-3cf25810c9ad.html">La Biancara</a></td>
+<td><a href="../wines/aff84447-55cc-496b-bf6c-3881e451e0d0.html">La Biancara Sassaia 1997</a></td>
+<td>1997</td>
+<td>8.60</td>
+<td>2.7044</td>
+</tr>
+<tr class="even">
+<td>2022-07-28</td>
+<td>Italy</td>
+<td><a href="../producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45.html">Marco De Bartoli</a></td>
+<td><a href="../wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">Marco De Bartoli Integer Grillo 2018</a></td>
+<td>2018</td>
+<td>8.50</td>
+<td>3.4021</td>
+</tr>
+<tr class="odd">
+<td>2022-07-27</td>
+<td>Germany</td>
+<td><a href="../producers/e463ddb4-d593-4913-80e1-b841330d4cf6.html">Wasenhaus</a></td>
+<td><a href="../wines/8467ead0-fee2-4ba7-8472-26432a6a8958.html">Wasenhaus Vulkan 2020</a></td>
+<td>2020</td>
+<td>9.00</td>
+<td>4.0957</td>
+</tr>
+<tr class="even">
+<td>2022-07-27</td>
+<td>Italy</td>
+<td><a href="../producers/453cfd4a-8168-4a89-ba48-5561d768e0cd.html">De Fermo</a></td>
+<td><a href="../wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">De Fermo Don Carlino Pecorino Colline Pescaresi 2018</a></td>
+<td>2018</td>
+<td>8.25</td>
+<td>2.8935</td>
+</tr>
+<tr class="odd">
+<td>2022-07-27</td>
+<td>Italy</td>
+<td><a href="../producers/720ba05b-16d2-4224-8041-1e6c72825df1.html">Piera Martellozzo</a></td>
+<td><a href="../wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">Piera Martellozzo Terre Magre Ribolla Gialla NV</a></td>
+<td>NV</td>
+<td>7.50</td>
+<td>3.2206</td>
+</tr>
+<tr class="even">
+<td>2022-07-27</td>
+<td>Hungary</td>
+<td><a href="../producers/e21e6c03-77df-461c-9fee-d57ac8ea8132.html">Oremus</a></td>
+<td><a href="../wines/600a50e9-e2db-47b4-805d-acf0cfa9b018.html">Oremus Mandolás 2016</a></td>
+<td>2016</td>
+<td>8.00</td>
+<td>2.7746</td>
+</tr>
+<tr class="odd">
+<td>2022-07-27</td>
+<td>Spain</td>
+<td><a href="../producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba.html">Victoria E. Torres Pecis</a></td>
+<td><a href="../wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013</a></td>
+<td>2013</td>
+<td>8.80</td>
+<td>2.7933</td>
+</tr>
+<tr class="even">
+<td>2022-07-26</td>
+<td>Italy</td>
+<td><a href="../producers/fbc72411-4089-4209-9367-08fcea803a53.html">Francesco Boschis</a></td>
+<td><a href="../wines/d45fd10b-9166-4551-a8be-0c295c96879c.html">Francesco Boschis Dogliani Vigne in Pianezzo 2016</a></td>
+<td>2016</td>
+<td>7.25</td>
+<td>3.3568</td>
+</tr>
+<tr class="odd">
+<td>2022-07-26</td>
+<td>Spain</td>
+<td><a href="../producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="../wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">Els Vinyerons Lluerna 2021</a></td>
+<td>2021</td>
+<td>7.40</td>
+<td>4.4440</td>
+</tr>
+<tr class="even">
+<td>2022-07-26</td>
+<td>Italy</td>
+<td><a href="../producers/17e44f24-dcf0-4ad7-8782-c6b105db8554.html">Cinque Segni</a></td>
+<td><a href="../wines/21a7106d-62e9-4f0c-8ba4-aa56493007a0.html">Cinque Segni Vigna Pura Grillo 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>2.5345</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>Spain</td>
+<td><a href="../producers/82fbe7e3-ad38-43d9-97ff-3a61452d5892.html">Adegas Guimaro</a></td>
+<td><a href="../wines/bcbf8abd-faff-4a86-a1a6-afae3ff1ace9.html">Adegas Guimaro Camiño Real 2017</a></td>
+<td>2017</td>
+<td>7.50</td>
+<td>2.0080</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>Greece</td>
+<td><a href="../producers/0049dd51-fe96-4d40-b2df-e4f7c948c5c0.html">Domaine Sigalas</a></td>
+<td><a href="../wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">Domaine Sigalas Santorini 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>1.4652</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>Germany</td>
+<td><a href="../producers/aad9deac-2c65-40fd-bbca-79468226b673.html">Fio Wein</a></td>
+<td><a href="../wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">Fio Wein Piu Piu Petnat Rosé NV</a></td>
+<td>NV</td>
+<td>7.50</td>
+<td>2.4058</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>Spain</td>
+<td><a href="../producers/e8898726-cf1b-419e-87f3-41976bd9b480.html">Suertes del Marques</a></td>
+<td><a href="../wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">Suertes del Marques El Chibirique 2017</a></td>
+<td>2017</td>
+<td>8.00</td>
+<td>1.5686</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>France</td>
+<td><a href="../producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="../wines/4b3b5ce1-1779-425e-850b-d44e9f199db5.html">Domaine du Pélican Trois Cépages 2018</a></td>
+<td>2018</td>
+<td>8.20</td>
+<td>1.7147</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>France</td>
+<td><a href="../producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="../wines/e761d104-5798-43f7-9d5d-cbf763d587a5.html">Domaine du Pélican Poulsard 2018</a></td>
+<td>2018</td>
+<td>8.50</td>
+<td>2.0424</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>Austria</td>
+<td><a href="../producers/370d0459-21f1-46c5-aa90-e01458bb5be0.html">Heinrich</a></td>
+<td><a href="../wines/366086d0-9688-4be8-bdac-9b20162de445.html">Heinrich Blaufränkisch 2017</a></td>
+<td>2017</td>
+<td>7.25</td>
+<td>2.1296</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>Italy</td>
+<td><a href="../producers/97d477ce-5991-410f-9d9b-758c62080c5d.html">Castello dei Rampolla</a></td>
+<td><a href="../wines/4491b2e2-25b3-434a-bcbf-943a1c1eda97.html">Castello dei Rampolla Chianti Classico 2018</a></td>
+<td>2018</td>
+<td>7.75</td>
+<td>1.8666</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>Spain</td>
+<td><a href="../producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba.html">Victoria E. Torres Pecis</a></td>
+<td><a href="../wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">Victoria E. Torres Pecis Piezas #4 Malvasia Seco 2018</a></td>
+<td>2018</td>
+<td>8.00</td>
+<td>1.5564</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>Spain</td>
+<td><a href="../producers/9aa8e659-5a4e-4480-b4c0-96056882f353.html">Soco Vinicola</a></td>
+<td><a href="../wines/d6c6820e-99c0-4c12-a1ab-348f9473de3e.html">Soco Vinicola Soco Blanco 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>1.6197</td>
+</tr>
+<tr class="odd">
+<td>2022-07-25</td>
+<td>Spain</td>
+<td><a href="../producers/cd1b94b8-6014-440d-8876-b6897a61770e.html">Muchada-Léclapart</a></td>
+<td><a href="../wines/fef3962b-3fbb-469d-a068-6f75275ce4c3.html">Muchada-Léclapart Elixir 2017</a></td>
+<td>2017</td>
+<td>8.00</td>
+<td>1.4563</td>
+</tr>
+<tr class="even">
+<td>2022-07-25</td>
+<td>Italy</td>
+<td><a href="../producers/2fd367c5-4450-4a7d-bb9c-b953f573745d.html">Sandro Fay</a></td>
+<td><a href="../wines/acb75785-ee20-419a-a21a-540f51157670.html">Sandro Fay Valtellina Superiore Valgella Riserva Carteria 2014</a></td>
+<td>2014</td>
+<td>8.00</td>
+<td>1.4159</td>
+</tr>
+<tr class="odd">
+<td>2022-07-24</td>
+<td>Hungary</td>
+<td><a href="../producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="../wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">Hummel Villányi Portugieser 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>2.9589</td>
+</tr>
+<tr class="even">
+<td>2022-07-23</td>
+<td>Spain</td>
+<td><a href="../producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23.html">Els Vinyerons</a></td>
+<td><a href="../wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">Els Vinyerons Pregadéu 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>4.2128</td>
+</tr>
+<tr class="odd">
+<td>2022-07-22</td>
+<td>South Africa</td>
+<td><a href="../producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="../wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">Testalonga Baby Bandito Stay Brave 2021</a></td>
+<td>2021</td>
+<td>7.50</td>
+<td>2.5916</td>
+</tr>
+<tr class="even">
+<td>2022-07-22</td>
+<td>France</td>
+<td><a href="../producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b.html">Pierre Frick</a></td>
+<td><a href="../wines/254bfd3b-9d98-409c-b1fc-86f6c2591024.html">Pierre Frick Gewürztraminer Macération Pur Vin 2018</a></td>
+<td>2018</td>
+<td>7.50</td>
+<td>2.0733</td>
+</tr>
+<tr class="odd">
+<td>2022-07-21</td>
+<td>Italy</td>
+<td><a href="../producers/040a275b-2e16-4d7a-a557-036bf44d85df.html">Villa Calicantus</a></td>
+<td><a href="../wines/76c88c36-a8b2-4aac-baf1-7a97765f99cd.html">Villa Calicantus Soracuna 2018</a></td>
+<td>2018</td>
+<td>7.80</td>
+<td>2.8467</td>
+</tr>
+<tr class="even">
+<td>2022-07-20</td>
+<td>South Africa</td>
+<td><a href="../producers/28888340-61d4-42b7-9aa6-25ae9bf77e08.html">Testalonga</a></td>
+<td><a href="../wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">Testalonga Baby Bandito Chin Up 2021</a></td>
+<td>2021</td>
+<td>7.75</td>
+<td>3.4232</td>
+</tr>
+<tr class="odd">
+<td>2022-07-20</td>
+<td>Italy</td>
+<td><a href="../producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19.html">Arianna Occhipinti</a></td>
+<td><a href="../wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">Arianna Occhipinti SP68 Rosso 2019</a></td>
+<td>2019</td>
+<td>7.75</td>
+<td>2.5500</td>
+</tr>
+<tr class="even">
+<td>2022-07-20</td>
+<td>Italy</td>
+<td><a href="../producers/e852c48c-eb2b-48ec-90f2-1ac7f0203073.html">La Stoppa</a></td>
+<td><a href="../wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">La Stoppa Ageno 2018</a></td>
+<td>2018</td>
+<td>8.50</td>
+<td>3.4794</td>
+</tr>
+<tr class="odd">
+<td>2022-07-19</td>
+<td>Argentina</td>
+<td><a href="../producers/4547425b-4629-45d5-886b-581416693d89.html">Bodega Catena Zapata</a></td>
+<td><a href="../wines/3f379a50-e386-49c9-a754-66b068648c81.html">Bodega Catena Zapata Appellation Tupungato Chardonnay 2020</a></td>
+<td>2020</td>
+<td>7.75</td>
+<td>4.2923</td>
+</tr>
+<tr class="even">
+<td>2022-07-19</td>
+<td>Spain</td>
+<td><a href="../producers/f918c836-e7f1-4d27-a7d6-707cd508dffe.html">Hoya de Cadenas</a></td>
+<td><a href="../wines/a29c13d9-1345-44a6-b7ea-36630afd1b14.html">Hoya de Cadenas Cava Brut Nature NV</a></td>
+<td>NV</td>
+<td>7.40</td>
+<td>4.7481</td>
+</tr>
+<tr class="odd">
+<td>2022-07-18</td>
+<td>Austria</td>
+<td><a href="../producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff.html">Loimer</a></td>
+<td><a href="../wines/f506a040-1940-496a-9901-0bb471948800.html">Loimer Gluegglich Weiß Glückliches NV</a></td>
+<td>NV</td>
+<td>7.25</td>
+<td>2.9400</td>
+</tr>
+<tr class="even">
+<td>2022-07-18</td>
+<td>Italy</td>
+<td><a href="../producers/baa19b82-af3c-4551-a6ab-58aa26301e51.html">Bel Colle</a></td>
+<td><a href="../wines/339ca8d9-fc56-47b9-8947-fa94115b980d.html">Bel Colle Verduno Pelaverga 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>3.3172</td>
+</tr>
+<tr class="odd">
+<td>2022-07-18</td>
+<td>Spain</td>
+<td><a href="../producers/eb753c76-29ab-4f89-b74e-657273987239.html">Comando G</a></td>
+<td><a href="../wines/1d606897-3641-4a9c-a0ad-87afd8f4b238.html">Comando G Rozas 1-er Cru 2018</a></td>
+<td>2018</td>
+<td>8.25</td>
+<td>1.6471</td>
+</tr>
+<tr class="even">
+<td>2022-07-18</td>
+<td>Portugal</td>
+<td><a href="../producers/24f3412e-d51f-403c-8129-e54a1a8d1c1f.html">Quinta de Chocapalha</a></td>
+<td><a href="../wines/e080c035-c2fa-412a-bce9-007a9ba98063.html">Quinta de Chocapalha Branco 2017</a></td>
+<td>2017</td>
+<td>7.00</td>
+<td>2.2455</td>
+</tr>
+<tr class="odd">
+<td>2022-07-16</td>
+<td>France</td>
+<td><a href="../producers/e147a780-82d4-4e75-b5ba-5ddd761056ba.html">Pierre Trichet</a></td>
+<td><a href="../wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">Pierre Trichet L’Authentique Premier Cru Brut NV</a></td>
+<td>NV</td>
+<td>7.20</td>
+<td>0.8921</td>
+</tr>
+<tr class="even">
+<td>2022-07-16</td>
+<td>France</td>
+<td><a href="../producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb.html">Gérard Bertrand</a></td>
+<td><a href="../wines/7e65f750-5d08-4144-b41f-a8fda1672560.html">Gérard Bertrand Cote des Roses Rouge 2020</a></td>
+<td>2020</td>
+<td>7.40</td>
+<td>2.6837</td>
+</tr>
+<tr class="odd">
+<td>2022-07-16</td>
+<td>Austria</td>
+<td><a href="../producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff.html">Loimer</a></td>
+<td><a href="../wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63.html">Loimer Pet Nat 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>1.6383</td>
+</tr>
+<tr class="even">
+<td>2022-07-16</td>
+<td>Spain</td>
+<td><a href="../producers/ecfc448d-b029-4031-916c-93c5bac91f68.html">Villa Clara</a></td>
+<td><a href="../wines/dae21538-1207-4b55-bebf-07525b9ab10a.html">Villa Clara Cava Brut NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>3.8772</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>Czech Republic</td>
+<td><a href="../producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="../wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">Krasna Hora Blanc de Noir Sekt 2018</a></td>
+<td>2018</td>
+<td>7.50</td>
+<td>2.0898</td>
+</tr>
+<tr class="even">
+<td>2022-07-15</td>
+<td>Italy</td>
+<td><a href="../producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8.html">Costadilà</a></td>
+<td><a href="../wines/d6c593fa-52e7-46db-9097-fe38802ee9d5.html">Costadilà 280 slm 2019</a></td>
+<td>2019</td>
+<td>7.20</td>
+<td>1.8331</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>Spain</td>
+<td><a href="../producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1.html">Clos Lentiscus</a></td>
+<td><a href="../wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">Clos Lentiscus Gentleman 2016</a></td>
+<td>2016</td>
+<td>7.25</td>
+<td>1.6907</td>
+</tr>
+<tr class="even">
+<td>2022-07-15</td>
+<td>Germany</td>
+<td><a href="../producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc.html">Marto</a></td>
+<td><a href="../wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">Marto Crazy Crazy 2020</a></td>
+<td>2020</td>
+<td>7.00</td>
+<td>1.5305</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>Ukraine</td>
+<td><a href="../producers/b5174081-18ee-4abd-8964-971a4439e44b.html">Prince Trubetskoi Winery</a></td>
+<td><a href="../wines/5d1362c2-a73e-4d28-ba46-650254235397.html">Prince Trubetskoi Winery Blanc de Blancs 2017</a></td>
+<td>2017</td>
+<td>5.50</td>
+<td>0.7898</td>
+</tr>
+<tr class="even">
+<td>2022-07-15</td>
+<td>Italy</td>
+<td><a href="../producers/38510d0a-7ae8-4409-bfbc-a3a5d9552ecf.html">Ca Dei Zago</a></td>
+<td><a href="../wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">Ca Dei Zago Valdobbiadene Metodo Classico Dosaggio Zero 2018</a></td>
+<td>2018</td>
+<td>7.40</td>
+<td>1.4697</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>France</td>
+<td><a href="../producers/19e67244-0219-4309-bd91-d790aefd5a3f.html">Hudelot-Noëllat</a></td>
+<td><a href="../wines/61c7931d-0fce-40c1-9569-934fe0059dc1.html">Hudelot-Noëllat Bourgogne Pinot Noir 2019</a></td>
+<td>2019</td>
+<td>8.00</td>
+<td>2.2140</td>
+</tr>
+<tr class="even">
+<td>2022-07-15</td>
+<td>France</td>
+<td><a href="../producers/1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5.html">Jacques Lassaigne</a></td>
+<td><a href="../wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">Jacques Lassaigne La Colline Inspirée NV</a></td>
+<td>NV</td>
+<td>8.00</td>
+<td>0.7915</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>Hungary</td>
+<td><a href="../producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="../wines/0428e6c1-e095-499f-8c38-ede9e2dc2f64.html">Hummel Karašica PetNat Hárslevelű 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>1.9745</td>
+</tr>
+<tr class="even">
+<td>2022-07-15</td>
+<td>France</td>
+<td><a href="../producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46.html">Ulysse Collin</a></td>
+<td><a href="../wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">Ulysse Collin Les Maillons Blanc de Noirs Extra Brut (2017) NV</a></td>
+<td>NV</td>
+<td>9.00</td>
+<td>1.1632</td>
+</tr>
+<tr class="odd">
+<td>2022-07-15</td>
+<td>Italy</td>
+<td><a href="../producers/10c5a427-ee4a-4962-a855-a9bbfd135d39.html">Cà del Vént</a></td>
+<td><a href="../wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">Cà del Vént Sogno Blanc de Blancs Pas Operé 2014</a></td>
+<td>2014</td>
+<td>8.50</td>
+<td>1.9671</td>
+</tr>
+<tr class="even">
+<td>2022-07-13</td>
+<td>Spain</td>
+<td><a href="../producers/ee9d5512-7266-49dd-90ba-07e0d7a7dd7c.html">Lacrima Baccus</a></td>
+<td><a href="../wines/476f7a06-fd20-4887-a5fa-1d77f41309ce.html">Lacrima Baccus Brut Reserva 2019</a></td>
+<td>2019</td>
+<td>7.20</td>
+<td>4.4753</td>
+</tr>
+<tr class="odd">
+<td>2022-07-13</td>
+<td>Argentina</td>
+<td><a href="../producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="../wines/24a83b0b-3c1b-4412-8b5d-febaf2394108.html">Weinert Cavas de Weinert Cask Selection 2009</a></td>
+<td>2009</td>
+<td>8.50</td>
+<td>3.9230</td>
+</tr>
+<tr class="even">
+<td>2022-07-12</td>
+<td>Australia</td>
+<td><a href="../producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc.html">Momento Mori</a></td>
+<td><a href="../wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">Momento Mori Fistful of Flowers 2020</a></td>
+<td>2020</td>
+<td>8.00</td>
+<td>1.8605</td>
+</tr>
+<tr class="odd">
+<td>2022-07-08</td>
+<td>Hungary</td>
+<td><a href="../producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a.html">Hummel</a></td>
+<td><a href="../wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">Hummel Villányi Portugieser 2020</a></td>
+<td>2020</td>
+<td>7.25</td>
+<td>2.9589</td>
+</tr>
+<tr class="even">
+<td>2022-07-08</td>
+<td>Italy</td>
+<td><a href="../producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62.html">Cascina Degli Ulivi</a></td>
+<td><a href="../wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">Cascina Degli Ulivi Filagnotti 2016</a></td>
+<td>2016</td>
+<td>8.00</td>
+<td>2.4415</td>
+</tr>
+<tr class="odd">
+<td>2022-07-07</td>
+<td>Czech Republic</td>
+<td><a href="../producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2.html">Krasna Hora</a></td>
+<td><a href="../wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">Krasna Hora Ruby 2020</a></td>
+<td>2020</td>
+<td>7.50</td>
+<td>4.0160</td>
+</tr>
+<tr class="even">
+<td>2022-07-07</td>
+<td>Australia</td>
+<td><a href="../producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2.html">Jacob’s Creek</a></td>
+<td><a href="../wines/764bd923-7614-4d69-ac9c-556694bb1c9f.html">Jacob’s Creek Sparkling Rosé NV</a></td>
+<td>NV</td>
+<td>7.00</td>
+<td>2.2586</td>
+</tr>
+<tr class="odd">
+<td>2022-07-05</td>
+<td>France</td>
+<td><a href="../producers/3d5928c7-97f8-4a20-bad4-14a91e1ec7c9.html">Éric Chevalier</a></td>
+<td><a href="../wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">Éric Chevalier Cirrus 2018</a></td>
+<td>2018</td>
+<td>8.00</td>
+<td>2.2695</td>
+</tr>
+<tr class="even">
+<td>2022-07-05</td>
+<td>Australia</td>
+<td><a href="../producers/ebcf71da-35d2-45d4-9b87-178179c0b573.html">Patrick Sullivan</a></td>
+<td><a href="../wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">Patrick Sullivan Rain Field Blend 2019</a></td>
+<td>2019</td>
+<td>8.00</td>
+<td>2.1300</td>
+</tr>
+<tr class="odd">
+<td>2022-07-05</td>
+<td>France</td>
+<td><a href="../producers/cdc80e0e-1163-4b33-916d-e6806e5073e3.html">Matassa</a></td>
+<td><a href="../wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">Matassa Cuvée Alexandria 2019</a></td>
+<td>2019</td>
+<td>8.50</td>
+<td>3.5033</td>
+</tr>
+<tr class="even">
+<td>2022-07-05</td>
+<td>Georgia</td>
+<td><a href="../producers/337f6bbd-4050-4ca8-bb4e-a274716e7fad.html">Pheasant’s Tears</a></td>
+<td><a href="../wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79.html">Pheasant’s Tears Poliphonia 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>2.7506</td>
+</tr>
+<tr class="odd">
+<td>2022-07-05</td>
+<td>Italy</td>
+<td><a href="../producers/040a275b-2e16-4d7a-a557-036bf44d85df.html">Villa Calicantus</a></td>
+<td><a href="../wines/9a0906be-1274-4820-918e-faf4bf0ec802.html">Villa Calicantus Sollazzo 2018</a></td>
+<td>2018</td>
+<td>7.20</td>
+<td>1.8131</td>
+</tr>
+<tr class="even">
+<td>2022-07-05</td>
+<td>Italy</td>
+<td><a href="../producers/e0dd5c52-230f-4b71-92d7-d891ded8cc00.html">Cascina Bertolotto</a></td>
+<td><a href="../wines/baf18c42-2e67-4108-967a-d540bc105779.html">Cascina Bertolotto Spumante Brut Metodo Classico NV</a></td>
+<td>NV</td>
+<td>8.20</td>
+<td>3.2633</td>
+</tr>
+<tr class="odd">
+<td>2022-07-05</td>
+<td>France</td>
+<td><a href="../producers/99e4fd27-b7ad-41c5-8986-65e5ae9ab261.html">Domaine du Pélican</a></td>
+<td><a href="../wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">Domaine du Pélican Savagnin Ouillé 2016</a></td>
+<td>2016</td>
+<td>8.50</td>
+<td>2.3271</td>
+</tr>
+<tr class="even">
+<td>2022-07-04</td>
+<td>Argentina</td>
+<td><a href="../producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23.html">Weinert</a></td>
+<td><a href="../wines/60de313a-fc2e-46dd-92d2-4793e97ef93b.html">Weinert Carrascal Chardonnay 2021</a></td>
+<td>2021</td>
+<td>7.40</td>
+<td>4.7191</td>
+</tr>
+<tr class="odd">
+<td>2022-07-03</td>
+<td>Italy</td>
+<td><a href="../producers/d9bdc982-8002-4ac7-be0b-c3c5eb0337a9.html">San Leonardo</a></td>
+<td><a href="../wines/43c2c852-f191-4755-b648-7791aacc9fce.html">San Leonardo Vette 2019</a></td>
+<td>2019</td>
+<td>7.50</td>
+<td>2.1824</td>
+</tr>
+<tr class="even">
+<td>2022-07-03</td>
+<td>Austria</td>
+<td><a href="../producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e.html">Weingut Bründlmayer</a></td>
+<td><a href="../wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">Weingut Bründlmayer Hauswein Grüner Veltliner 2021</a></td>
+<td>2021</td>
+<td>7.00</td>
+<td>2.7305</td>
+</tr>
+<tr class="odd">
+<td>2022-07-02</td>
+<td>New Zealand</td>
+<td><a href="../producers/af64aab6-213e-44e4-acd0-b2b5bacd7b83.html">Félix Solís</a></td>
+<td><a href="../wines/aad8eba2-9514-4eac-8668-2f4ec69c541c.html">Félix Solís Pulpo Sauvignon Blanc NV</a></td>
+<td>NV</td>
+<td>5.25</td>
+<td>1.0421</td>
+</tr>
+<tr class="even">
+<td>2022-07-02</td>
+<td>Greece</td>
+<td><a href="../producers/0c387201-a91c-4c54-b798-5ef20e028411.html">Kir-Yianni</a></td>
+<td><a href="../wines/a4980711-6b29-4392-9585-17310170db4a.html">Kir-Yianni Paranga Sparkling NV</a></td>
+<td>NV</td>
+<td>7.50</td>
+<td>3.2192</td>
+</tr>
+<tr class="odd">
+<td>2022-07-02</td>
+<td>Spain</td>
+<td><a href="../producers/17f9db0d-ae08-4f3e-9c2d-b9094e7ca315.html">Mas Pere</a></td>
+<td><a href="../wines/ad7ea416-1a45-4a6c-8255-114fb9ced2ab.html">Mas Pere Selecció Brut Cava NV</a></td>
+<td>NV</td>
+<td>5.50</td>
+<td>1.0913</td>
+</tr>
+<tr class="even">
+<td>2022-07-01</td>
+<td>Spain</td>
+<td><a href="../producers/d94c2c51-81ef-4bd5-be56-6a28f19a8f2a.html">Bach</a></td>
+<td><a href="../wines/39d4f69e-1397-4e09-9577-48aa088f8dbe.html">Bach Cava Gran Brut NV</a></td>
+<td>NV</td>
+<td>6.00</td>
+<td>1.2712</td>
+</tr>
+</tbody>
+</table>
+</div>
+  </section>
+</article>
+
+    </main>
+
+    <footer>
+      Site proudly generated by
+      <a href="https://github.com/d12frosted/vulpea">Vulpea</a>,
+      <a href="https://github.com/d12frosted/vino">Vino</a>
+      and
+      <a href="http://jaspervdj.be/hakyll">Hakyll</a>
+    </footer>
+
+  </body>
+</html>

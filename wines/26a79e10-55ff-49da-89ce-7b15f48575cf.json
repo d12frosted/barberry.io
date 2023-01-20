@@ -1,0 +1,43 @@
+{
+  "id": "26a79e10-55ff-49da-89ce-7b15f48575cf",
+  "name": "Black Betty",
+  "full-name": "2Naturkinder Black Betty 2020",
+  "producer": {
+    "id": "8985ce5e-6689-48fd-a818-ea3b60a6462b",
+    "name": "2Naturkinder"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "3b9d2c51-458b-4cd5-b297-55987d6eaeaf",
+      "name": "Domina"
+    },
+    {
+      "id": "44030b06-6977-40c8-91af-f1d0b5398ac3",
+      "name": "Regent"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "695 UAH",
+    "790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/26/a79e10-55ff-49da-89ce-7b15f48575cf/2022-09-26-18-31-05-64E7AB15-13FD-4907-8A1C-EB770A28AED0-1-102-o.webp",
+  "rating": "7.4"
+}

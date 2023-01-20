@@ -1,0 +1,42 @@
+{
+  "id": "49087ec0-ce5e-469a-a6c3-9b967f748e1f",
+  "name": "Crémant de Bourgogne Brut",
+  "full-name": "Raoul Clerget Crémant de Bourgogne Brut NV",
+  "producer": {
+    "id": "4654ba3e-7c28-40fe-80b4-6639e8ff26e4",
+    "name": "Raoul Clerget"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "675 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/49/087ec0-ce5e-469a-a6c3-9b967f748e1f/2022-06-05-10-50-28-ADCD7911-5E14-43E5-A2DF-F786A0FF8344-1-105-c.webp",
+  "rating": "7.25"
+}

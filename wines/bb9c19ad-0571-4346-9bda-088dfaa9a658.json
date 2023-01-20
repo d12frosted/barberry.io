@@ -1,0 +1,38 @@
+{
+  "id": "bb9c19ad-0571-4346-9bda-088dfaa9a658",
+  "name": "El Carner",
+  "full-name": "Matassa El Carner 2020",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0.5",
+  "prices": [
+    "910 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bb/9c19ad-0571-4346-9bda-088dfaa9a658/2021-12-27-17-24-14-121A3348-5E44-4369-BF14-238B093A4CC9-1-105-c.webp",
+  "rating": "8.0"
+}

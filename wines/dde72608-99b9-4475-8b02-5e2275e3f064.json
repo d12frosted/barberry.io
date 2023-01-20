@@ -1,0 +1,38 @@
+{
+  "id": "dde72608-99b9-4475-8b02-5e2275e3f064",
+  "name": "Etna Rosso San Lorenzo",
+  "full-name": "Tenuta delle Terre Nere Etna Rosso San Lorenzo 2018",
+  "producer": {
+    "id": "150d819d-7b0e-4a2e-b71b-d73a83beae3a",
+    "name": "Tenuta delle Terre Nere"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "1985 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c.webp",
+  "rating": "8.25"
+}

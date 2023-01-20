@@ -1,0 +1,38 @@
+{
+  "id": "552c84fd-74eb-4e01-80cd-296daf070271",
+  "name": "R.D.",
+  "full-name": "Bollinger R.D. 2007",
+  "producer": {
+    "id": "d66375d3-e0e3-4d7f-8787-55b74ac8fee3",
+    "name": "Bollinger"
+  },
+  "vintage": "2007",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3.4",
+  "prices": [
+    "8500 UAH"
+  ],
+  "available": 0,
+  "image": "images/55/2c84fd-74eb-4e01-80cd-296daf070271/2021-06-23-08-35-59-3DAA10E2-84C5-407C-B571-543631A76405-1-105-c.webp",
+  "rating": "9.0"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "86875e66-4463-4ea8-b4b2-aaacfed6d93b",
+  "name": "The Witches Berry Chardonnay",
+  "full-name": "d'Arenberg The Witches Berry Chardonnay 2021",
+  "producer": {
+    "id": "50932102-af11-449a-9661-de319303af1a",
+    "name": "d'Arenberg"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "503 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/86/875e66-4463-4ea8-b4b2-aaacfed6d93b/2023-01-13-10-39-07-0268C410-DE6E-499D-B27E-9C76E415E08C-1-105-c.webp",
+  "rating": "6.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9dd2628d-c95d-4da9-b807-a667b8962163",
+  "name": "Sauvignon Blanc",
+  "full-name": "Krasna Hora Sauvignon Blanc 2021",
+  "producer": {
+    "id": "c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2",
+    "name": "Krasna Hora"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.4",
+  "prices": [
+    "550 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9d/d2628d-c95d-4da9-b807-a667b8962163/2022-11-25-16-43-19-IMG-3374.webp",
+  "rating": "7.25"
+}

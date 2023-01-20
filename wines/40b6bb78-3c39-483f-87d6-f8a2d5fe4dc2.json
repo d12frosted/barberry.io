@@ -1,0 +1,42 @@
+{
+  "id": "40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2",
+  "name": "Vino Rosso",
+  "full-name": "Lucy Margaux Vino Rosso 2020",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "774 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040.webp",
+  "rating": "7.5"
+}

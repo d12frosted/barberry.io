@@ -1,0 +1,34 @@
+{
+  "id": "1c2dbd99-720b-4c12-8222-1c2f42644946",
+  "name": "Heritage Zibibbo",
+  "full-name": "Serragghia Heritage Zibibbo 2017",
+  "producer": {
+    "id": "5e56d359-076e-42fd-be45-e8d85e10f8b0",
+    "name": "Serragghia"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "3750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1c/2dbd99-720b-4c12-8222-1c2f42644946/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c.webp",
+  "rating": "8.25"
+}

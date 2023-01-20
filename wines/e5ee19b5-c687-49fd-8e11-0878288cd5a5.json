@@ -1,0 +1,34 @@
+{
+  "id": "e5ee19b5-c687-49fd-8e11-0878288cd5a5",
+  "name": "Ruché",
+  "full-name": "Bava Ruché 2019",
+  "producer": {
+    "id": "df91d97f-23f5-42dc-8fbd-eed5efcd72b4",
+    "name": "Bava"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "abff4461-3245-4d58-9e2b-86ff55d6ad89",
+      "name": "Ruchè"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "795 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e5/ee19b5-c687-49fd-8e11-0878288cd5a5/2022-08-24-14-00-10-01C9E9F1-6DE0-48E3-AD0A-47F882D76D55-1-105-c.webp",
+  "rating": "7.4"
+}

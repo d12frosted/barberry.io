@@ -1,0 +1,34 @@
+{
+  "id": "4a169cba-26aa-4d74-a03a-07a7bea905db",
+  "name": "Betsek Korposd Furmint",
+  "full-name": "Lenkey Pinceszet Betsek Korposd Furmint 2011",
+  "producer": {
+    "id": "5d056c7d-d1f4-478f-a63c-9b69e18a38bf",
+    "name": "Lenkey Pinceszet"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "864b7d0d-adac-48fe-92f6-07e917b507b3",
+      "name": "Furmint"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4a/169cba-26aa-4d74-a03a-07a7bea905db/2022-06-08-08-40-30-8E9A0699-5012-4DDB-800C-88569D622FF1-1-105-c.webp",
+  "rating": "8.0"
+}

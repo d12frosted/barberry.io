@@ -1,0 +1,34 @@
+{
+  "id": "f29ce812-d84b-48fb-b0bb-c8e85e092719",
+  "name": "A'Puddara Etna Bianco",
+  "full-name": "Tenuta di Fessina A'Puddara Etna Bianco 2010",
+  "producer": {
+    "id": "0d49980e-7654-4abb-a5e4-fe210d0d0c5d",
+    "name": "Tenuta di Fessina"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "2190 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c.webp",
+  "rating": "8.5"
+}

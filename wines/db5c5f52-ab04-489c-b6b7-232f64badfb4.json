@@ -1,0 +1,35 @@
+{
+  "id": "db5c5f52-ab04-489c-b6b7-232f64badfb4",
+  "name": "Bullswamp",
+  "full-name": "Patrick Sullivan Bullswamp 2019",
+  "producer": {
+    "id": "ebcf71da-35d2-45d4-9b87-178179c0b573",
+    "name": "Patrick Sullivan"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.6",
+  "sugar": "1.1",
+  "prices": [
+    "1250 UAH",
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bbdbad91-d8e2-419c-9a2a-da23ab73e015",
+  "name": "Βιδιανό - Ασύρτικο (Vidiano - Assyrtiko)",
+  "full-name": "Ρίζες 2 Βιδιανό - Ασύρτικο (Vidiano - Assyrtiko) 2020",
+  "producer": {
+    "id": "95d71a6e-ca7e-4b66-82a9-279ee08acdcb",
+    "name": "Ρίζες 2"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "59d39863-9ffb-413b-8a4e-1de6d0df8f78",
+      "name": "Vidiano"
+    },
+    {
+      "id": "d7292622-98ad-427b-bf58-15ecfdab8bf7",
+      "name": "Assyrtiko"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bb/dbad91-d8e2-419c-9a2a-da23ab73e015/2022-07-30-09-36-24-DDBE0898-4A34-4EA3-B668-5041742BEACA-1-105-c.webp",
+  "rating": "1.5"
+}

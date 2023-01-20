@@ -1,0 +1,46 @@
+{
+  "id": "04583f07-cc74-48f3-b344-857460e26733",
+  "name": "Cru Bourgeois Médoc",
+  "full-name": "Château Patache d'Aux Cru Bourgeois Médoc 2014",
+  "producer": {
+    "id": "837df7b8-afbe-46d0-9cc6-4d167ad62bf6",
+    "name": "Château Patache d'Aux"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "0650b249-3982-441c-a3fa-d798c32fe3a9",
+      "name": "Petit Verdot"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "839 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/04/583f07-cc74-48f3-b344-857460e26733/2022-11-26-11-17-52-31BE0828-CEC1-4451-8EDB-6732F608B946-1-105-c.webp",
+  "rating": "7.5"
+}

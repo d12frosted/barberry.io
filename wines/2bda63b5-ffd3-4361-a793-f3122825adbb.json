@@ -1,0 +1,34 @@
+{
+  "id": "2bda63b5-ffd3-4361-a793-f3122825adbb",
+  "name": "Vosne-Romanee 1er cru Les Suchots",
+  "full-name": "Domaine Chantal Lescure Vosne-Romanee 1er cru Les Suchots 2011",
+  "producer": {
+    "id": "1d173609-2c82-48db-882b-6db4708fff2f",
+    "name": "Domaine Chantal Lescure"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "4700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2b/da63b5-ffd3-4361-a793-f3122825adbb/2021-08-27-16-40-06-C0C8E884-98F3-4673-A462-63D9EF1A2728-1-105-c.webp",
+  "rating": "9.0"
+}

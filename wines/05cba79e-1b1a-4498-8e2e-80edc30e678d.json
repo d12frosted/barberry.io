@@ -1,0 +1,34 @@
+{
+  "id": "05cba79e-1b1a-4498-8e2e-80edc30e678d",
+  "name": "Auguste",
+  "full-name": "Sous Le Végétal Auguste 2018",
+  "producer": {
+    "id": "96e58250-b3cb-4ced-a7b8-013bc94d1aed",
+    "name": "Sous Le Végétal"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "ea175759-73ce-48a7-bba3-3012a5b5840d",
+      "name": "Avgoustiatis"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "2",
+  "prices": [
+    "1190 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/05/cba79e-1b1a-4498-8e2e-80edc30e678d/2022-10-28-13-01-58-9ADC84EF-FC07-486E-87C2-9D62466222AB-1-105-c.webp",
+  "rating": "8.0"
+}

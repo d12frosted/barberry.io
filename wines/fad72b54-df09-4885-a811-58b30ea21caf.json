@@ -1,0 +1,34 @@
+{
+  "id": "fad72b54-df09-4885-a811-58b30ea21caf",
+  "name": "Calcarius Rosso Puglia Nu Litr",
+  "full-name": "Valentina Passalacqua Calcarius Rosso Puglia Nu Litr 2019",
+  "producer": {
+    "id": "cf22308d-98a1-4056-921c-49b9cd46f159",
+    "name": "Valentina Passalacqua"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c64f4413-fa17-4881-9fc1-5674ab5e0f34",
+      "name": "Negroamaro"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "600 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

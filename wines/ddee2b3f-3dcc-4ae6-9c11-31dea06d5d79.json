@@ -1,0 +1,34 @@
+{
+  "id": "ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79",
+  "name": "Poliphonia",
+  "full-name": "Pheasant's Tears Poliphonia 2019",
+  "producer": {
+    "id": "337f6bbd-4050-4ca8-bb4e-a274716e7fad",
+    "name": "Pheasant's Tears"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "603 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/dd/ee2b3f-3dcc-4ae6-9c11-31dea06d5d79/2022-05-08-18-05-34-IMG-0038.webp",
+  "rating": "7.5"
+}

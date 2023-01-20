@@ -1,0 +1,38 @@
+{
+  "id": "bcaa149d-9a5e-4dbd-b010-7370a0c858d7",
+  "name": "Brutal Rouge",
+  "full-name": "Matassa Brutal Rouge 2019",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.5",
+  "prices": [
+    "825 UAH"
+  ],
+  "available": 0,
+  "image": "images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1.webp",
+  "rating": "7.25"
+}

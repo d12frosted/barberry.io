@@ -1,0 +1,34 @@
+{
+  "id": "98953414-b1c1-49cb-a48e-e4a0e2593565",
+  "name": "Noir de Florette",
+  "full-name": "Lucy Margaux Noir de Florette 2019",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.9",
+  "prices": [
+    "868 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/98/953414-b1c1-49cb-a48e-e4a0e2593565/2022-11-12-12-33-57-0C817480-A23F-468B-A24F-8957FC97B7CE-1-105-c.webp",
+  "rating": "7.75"
+}

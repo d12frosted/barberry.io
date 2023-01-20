@@ -1,0 +1,42 @@
+{
+  "id": "670fad73-f37f-4fc2-bb51-44452dc9fbe5",
+  "name": "Châteauneuf du Pape Clos La Roquète",
+  "full-name": "Le Vieux Télégraphe Châteauneuf du Pape Clos La Roquète 2020",
+  "producer": {
+    "id": "6f4c96c0-8d4e-4d80-b0b4-abfe900c8186",
+    "name": "Le Vieux Télégraphe"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cc12506c-075a-4f65-b3cc-0d7a07f6c305",
+      "name": "Garnacha Blanca"
+    },
+    {
+      "id": "539c9299-0541-4b0f-87f7-915157f4adc3",
+      "name": "Clairette Blanche"
+    },
+    {
+      "id": "c48f1029-3d31-48fa-960b-5c4690ca9b9f",
+      "name": "Roussanne"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.8",
+  "prices": [
+    "1282 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/67/0fad73-f37f-4fc2-bb51-44452dc9fbe5/2022-09-05-20-46-47-IMG-2010.webp",
+  "rating": "7.75"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5343a20a-c19e-44fd-8bf0-1ca7cf206d97",
+  "name": "Rías Baixas Albariño",
+  "full-name": "Bodegas Martín Códax Rías Baixas Albariño NV",
+  "producer": {
+    "id": "a88d654f-9de3-48c5-9066-dcf7725c3c49",
+    "name": "Bodegas Martín Códax"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "453 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/53/43a20a-c19e-44fd-8bf0-1ca7cf206d97/2022-12-11-10-34-59-A61ACE7F-AF62-47C0-8C3E-F2FBFE922199-1-105-c.webp",
+  "rating": "6.5"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "97722c60-4efd-412c-9474-a050d8e513d4",
+  "name": "Cuvée des Caudalies Grand Cru Rosé (d2021)",
+  "full-name": "De Sousa Cuvée des Caudalies Grand Cru Rosé NV",
+  "producer": {
+    "id": "6c0d7068-c072-49c5-980a-9f45b4d24541",
+    "name": "De Sousa"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "26 November 2021",
+  "sur-lie": "52 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "5",
+  "prices": [
+    "3906 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499.webp",
+  "rating": "8.75"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "093f56d0-7822-458f-bd09-7e015ea8d874",
+  "name": "Calvarino Soave Classico",
+  "full-name": "Pieropan Calvarino Soave Classico 2017",
+  "producer": {
+    "id": "61a2a8cc-37d2-47ac-a883-1c8e95bac5bf",
+    "name": "Pieropan"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.3",
+  "prices": [
+    "890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/09/3f56d0-7822-458f-bd09-7e015ea8d874/2022-12-09-17-40-30-DC3BD82A-5007-4BAD-9821-092BCB1D275F-1-105-c.webp",
+  "rating": "7.0"
+}

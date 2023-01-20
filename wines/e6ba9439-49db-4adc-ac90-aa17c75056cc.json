@@ -1,0 +1,42 @@
+{
+  "id": "e6ba9439-49db-4adc-ac90-aa17c75056cc",
+  "name": "Staring at the Sun",
+  "full-name": "Momento Mori Staring at the Sun 2019",
+  "producer": {
+    "id": "7ad98ad5-fc54-45ee-ad48-26f2fab01cbc",
+    "name": "Momento Mori"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "bd1249f2-e210-4aa3-a460-0473ed38c76a",
+      "name": "Fiano"
+    },
+    {
+      "id": "e4b49bcb-2e7f-4522-bae0-6458d65c775d",
+      "name": "Vermentino"
+    },
+    {
+      "id": "4471f387-4053-41ae-889b-fceb8faa5ec2",
+      "name": "Moscato Giallo"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "948 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e6/ba9439-49db-4adc-ac90-aa17c75056cc/2021-01-20-21-49-29-0D06F122-FB4B-46C0-B43D-F39FB7D40E11-1-105-c.webp",
+  "rating": "7.5"
+}

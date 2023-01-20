@@ -1,0 +1,34 @@
+{
+  "id": "b9972612-deb1-4a2c-910f-42901592cc46",
+  "name": "Bronzelack Trocken Qualitätswein",
+  "full-name": "Schloss Johannisberger Bronzelack Trocken Qualitätswein 2020",
+  "producer": {
+    "id": "1de816a2-2144-494c-8cf3-0d466b602b15",
+    "name": "Schloss Johannisberger"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "4.9",
+  "prices": [
+    "939 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c.webp",
+  "rating": "8.0"
+}

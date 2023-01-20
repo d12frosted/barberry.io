@@ -1,0 +1,41 @@
+{
+  "id": "94ec9be5-892e-4b46-92a6-fcc7ff071b0a",
+  "name": "Pinotage Cinsault",
+  "full-name": "Ashbourne Pinotage Cinsault 2019",
+  "producer": {
+    "id": "0915152e-292c-4278-9725-312eafd39e84",
+    "name": "Ashbourne"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    },
+    {
+      "id": "96976408-68dc-46f6-88e4-bc4254c7c279",
+      "name": "Pinotage"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.1",
+  "prices": [
+    "626 UAH",
+    "549 UAH",
+    "531 UAH",
+    "500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/94/ec9be5-892e-4b46-92a6-fcc7ff071b0a/2020-02-15-11-42-10-5C82A6B3-81D8-4D59-B9D0-233D0680DC67-1-105-c.webp",
+  "rating": "7.75"
+}

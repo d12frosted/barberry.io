@@ -1,0 +1,34 @@
+{
+  "id": "b95bd411-5f4c-47b9-a460-302550f58594",
+  "name": "Clé à molette",
+  "full-name": "L'Octavin Clé à molette 2018",
+  "producer": {
+    "id": "470cddf5-1ed8-42a5-94b0-4ccf5365cd69",
+    "name": "L'Octavin"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b21bbc3c-66f5-4f44-aed8-d494bf035ab2",
+      "name": "Molette"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0",
+  "prices": [
+    "990 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b9/5bd411-5f4c-47b9-a460-302550f58594/2022-10-28-12-56-11-BEB70FA4-B98C-4CAC-9346-40FCC66D96BF-1-105-c.webp",
+  "rating": "7.5"
+}

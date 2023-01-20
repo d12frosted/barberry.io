@@ -1,0 +1,35 @@
+{
+  "id": "fb91e16d-8906-41ed-9435-16035830271c",
+  "name": "Cortezada",
+  "full-name": "Fedellos do Couto Cortezada 2017",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "968 UAH",
+    "533 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/fb/91e16d-8906-41ed-9435-16035830271c/2022-11-15-15-27-46-IMG-3175.webp",
+  "rating": "7.75"
+}

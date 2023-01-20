@@ -1,0 +1,34 @@
+{
+  "id": "1158f9e0-3925-40bc-976a-91337cfd8031",
+  "name": "Chardonnay Réserve",
+  "full-name": "Barton & Guestier Chardonnay Réserve 2019",
+  "producer": {
+    "id": "39321d2b-1842-42d5-be3a-4a4edd3322de",
+    "name": "Barton & Guestier"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "460 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/11/58f9e0-3925-40bc-976a-91337cfd8031/2022-05-21-10-32-01-56D94B67-9E27-4CB2-96E9-6D8592E910FF-1-105-c.webp",
+  "rating": "5.0"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ee26dcf2-0035-4077-a13e-04f2b61a1ec3",
+  "name": "Kalkstein Spätburgunder Trocken",
+  "full-name": "Tiefgang Kalkstein Spätburgunder Trocken 2017",
+  "producer": {
+    "id": "95146412-bfcf-4724-8c50-a4d0ea63fc5a",
+    "name": "Tiefgang"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "335 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ee/26dcf2-0035-4077-a13e-04f2b61a1ec3/2022-08-22-21-58-10-E924EE87-BEE4-4FF8-B302-C35C817F55E0-1-105-c.webp",
+  "rating": "7.0"
+}

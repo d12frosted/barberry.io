@@ -1,0 +1,34 @@
+{
+  "id": "2654fa1a-5b72-4b93-a583-95c94224deba",
+  "name": "Teran",
+  "full-name": "Zidarich Teran 2012",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "f452236b-5fe5-42bc-b3d4-955603928557",
+      "name": "Terrano"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2.4",
+  "prices": [
+    "890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/26/54fa1a-5b72-4b93-a583-95c94224deba/2022-10-28-13-12-24-A00FEE98-34B1-41BB-AA05-301A8D54E5B2-1-105-c.webp",
+  "rating": "8.5"
+}

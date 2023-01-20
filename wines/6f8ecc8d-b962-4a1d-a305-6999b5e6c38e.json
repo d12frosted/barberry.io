@@ -1,0 +1,42 @@
+{
+  "id": "6f8ecc8d-b962-4a1d-a305-6999b5e6c38e",
+  "name": "Terre di San Leonardo",
+  "full-name": "San Leonardo Terre di San Leonardo 2014",
+  "producer": {
+    "id": "d9bdc982-8002-4ac7-be0b-c3c5eb0337a9",
+    "name": "San Leonardo"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "d0734331-9775-4415-aeeb-aefc412ed4f0",
+      "name": "Carménère"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "706 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6f/8ecc8d-b962-4a1d-a305-6999b5e6c38e/2022-05-08-15-06-11-BD4FF34B-D5F9-4361-8BD4-4264952781AF-1-105-c.webp",
+  "rating": "7.75"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5958d241-68e3-4237-bc6d-1b0bb3ab47b7",
+  "name": "Ultreia Douro",
+  "full-name": "Raúl Pérez Ultreia Douro 2015",
+  "producer": {
+    "id": "2fe18e47-ec51-4372-9072-a3e522007d7a",
+    "name": "Raúl Pérez"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "3065b671-c9da-40fa-a3f4-fe2cb996f25e",
+      "name": "Tinta Roriz"
+    },
+    {
+      "id": "de317673-b317-4220-8851-2262571f9119",
+      "name": "Tinta Amarela"
+    },
+    {
+      "id": "dd57fa1f-254c-49e5-81d4-73bad50ecf28",
+      "name": "Tinta Francisca"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.4",
+  "prices": [
+    "1662 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/59/58d241-68e3-4237-bc6d-1b0bb3ab47b7/2022-09-23-21-18-52-IMG-2409.webp",
+  "rating": "8.0"
+}

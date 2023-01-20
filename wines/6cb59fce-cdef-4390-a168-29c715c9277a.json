@@ -1,0 +1,37 @@
+{
+  "id": "6cb59fce-cdef-4390-a168-29c715c9277a",
+  "name": "Gattinara",
+  "full-name": "Antoniolo Gattinara 2014",
+  "producer": {
+    "id": "aca06949-61c1-447d-9fd0-b9d063bfce40",
+    "name": "Antoniolo"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1584 UAH",
+    "1800 UAH",
+    "1250 UAH",
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6c/b59fce-cdef-4390-a168-29c715c9277a/2021-01-04-10-54-54-28E344B3-499D-4274-883A-CA936DDF442B-1-105-c.webp",
+  "rating": "8.333333333333334"
+}

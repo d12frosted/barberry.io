@@ -1,0 +1,34 @@
+{
+  "id": "03818b31-2394-4714-a11c-42ce9cda25cf",
+  "name": "Rkatsiteli Rcheuli Qvevri",
+  "full-name": "Tchotiashvili Rkatsiteli Rcheuli Qvevri 2016",
+  "producer": {
+    "id": "f5dd673c-b366-445d-8be4-5183802d56db",
+    "name": "Tchotiashvili"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "afb94792-cd0f-43a3-889f-cc4abfa36ff5",
+      "name": "Rkatsiteli"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "656 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/03/818b31-2394-4714-a11c-42ce9cda25cf/2022-11-25-17-00-27-IMG-3403.webp",
+  "rating": "7.5"
+}

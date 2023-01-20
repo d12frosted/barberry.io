@@ -1,0 +1,42 @@
+{
+  "id": "cacdfc2c-ef7a-42e8-bdea-441d6150c5b4",
+  "name": "Gilda Tinto",
+  "full-name": "Tiago Teles Gilda Tinto 2012",
+  "producer": {
+    "id": "9b7d5999-fe0e-4517-ace4-c0573ccbb5b4",
+    "name": "Tiago Teles"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "b7a006b4-e6ac-491f-ab93-d7cf8b38eb4f",
+      "name": "Castelão Fritters"
+    },
+    {
+      "id": "e35a00e2-7460-4d09-8dbd-a01231182d71",
+      "name": "Tinto Cão"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.1",
+  "prices": [
+    "720 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e761d104-5798-43f7-9d5d-cbf763d587a5",
+  "name": "Poulsard",
+  "full-name": "Domaine du Pélican Poulsard 2018",
+  "producer": {
+    "id": "99e4fd27-b7ad-41c5-8986-65e5ae9ab261",
+    "name": "Domaine du Pélican"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "1724 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e7/61d104-5798-43f7-9d5d-cbf763d587a5/2022-07-26-12-16-09-20D7DD02-2D4F-4876-AC4D-D549069CFFDA-1-105-c.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "35255164-c2c8-4237-bf4b-be9c3005a37a",
+  "name": "Bacchus Block",
+  "full-name": "Lyme Bay Bacchus Block 2018",
+  "producer": {
+    "id": "aed0fb5b-1db0-4897-b28b-fd39b2bded97",
+    "name": "Lyme Bay"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "8d91dc47-d765-46b2-bcdb-3b52ceeb2780",
+    "name": "England"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "819 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861.webp",
+  "rating": "7.5"
+}

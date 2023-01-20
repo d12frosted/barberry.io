@@ -1,0 +1,34 @@
+{
+  "id": "af8e1a2c-23b8-4262-adc0-5c39e688484d",
+  "name": "Gran Maestro Primitivo di Manduria",
+  "full-name": "Maestro Italiano Gran Maestro Primitivo di Manduria 2020",
+  "producer": {
+    "id": "fad08b42-424d-4f52-875c-397b99ba746e",
+    "name": "Maestro Italiano"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "fbe78398-b1df-405d-9004-80609e45b3b1",
+      "name": "Primitivo"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "419 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/af/8e1a2c-23b8-4262-adc0-5c39e688484d/2022-10-20-16-39-57-IMG-2871.webp",
+  "rating": "7.0"
+}

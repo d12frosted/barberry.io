@@ -1,0 +1,46 @@
+{
+  "id": "3b1a8a8d-4136-45f3-80a5-e72dcb55a929",
+  "name": "Alon",
+  "full-name": "Galil Mountain Alon 2018",
+  "producer": {
+    "id": "21ee677f-e83b-4d71-a2dc-6d6fd18c08f4",
+    "name": "Galil Mountain"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "88c84102-40e4-4870-9905-1b3c8c4652f9",
+    "name": "Israel"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "0650b249-3982-441c-a3fa-d798c32fe3a9",
+      "name": "Petit Verdot"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "3.3",
+  "prices": [
+    "779 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3b/1a8a8d-4136-45f3-80a5-e72dcb55a929/2022-12-07-08-44-12-3A38F9AA-5942-4513-8618-70E9EB16BE07-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a4980711-6b29-4392-9585-17310170db4a",
+  "name": "Paranga Sparkling",
+  "full-name": "Kir-Yianni Paranga Sparkling NV",
+  "producer": {
+    "id": "0c387201-a91c-4c54-b798-5ef20e028411",
+    "name": "Kir-Yianni"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": "5 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "demi-sec",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "7f460e26-c200-4020-9244-a321d130c570",
+      "name": "Xinomavro"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "20",
+  "prices": [
+    "542 UAH",
+    "487 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a4/980711-6b29-4392-9585-17310170db4a/2022-07-02-09-13-54-614A1BD0-F934-4A70-8717-0E1244DA86C5-1-105-c.webp",
+  "rating": "7.5"
+}

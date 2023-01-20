@@ -1,0 +1,34 @@
+{
+  "id": "f7795b1b-bbbf-42d4-888f-19ae004bb5e8",
+  "name": "Pithos Bianco",
+  "full-name": "COS Pithos Bianco 2012",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "1",
+  "prices": [
+    "2489 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "666b87bb-6a15-437c-b269-e0100141b614",
+  "name": "Sauvignon Blanc",
+  "full-name": "Wild Rock Sauvignon Blanc 2021",
+  "producer": {
+    "id": "46602e2d-4d21-4715-8ce3-ead7b8a87d99",
+    "name": "Wild Rock"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "5",
+  "prices": [
+    "467 UAH",
+    "437 UAH",
+    "531 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/66/6b87bb-6a15-437c-b269-e0100141b614/2022-10-13-14-59-36-IMG-2733.webp",
+  "rating": "7.5"
+}

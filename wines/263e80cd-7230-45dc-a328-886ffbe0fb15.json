@@ -1,0 +1,34 @@
+{
+  "id": "263e80cd-7230-45dc-a328-886ffbe0fb15",
+  "name": "Wehler Klosterberg Pinot Blanc",
+  "full-name": "Markus Molitor Wehler Klosterberg Pinot Blanc 2017",
+  "producer": {
+    "id": "b6fc163c-5564-4924-b988-a50ed0889478",
+    "name": "Markus Molitor"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "977 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371.webp",
+  "rating": "8.0"
+}

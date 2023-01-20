@@ -1,0 +1,35 @@
+{
+  "id": "34ec8843-cece-4f5a-adde-8b24378efcec",
+  "name": "Le Petit Buisson",
+  "full-name": "Clos du Tue-Boeuf Le Petit Buisson 2020",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.59",
+  "sugar": "2.04",
+  "prices": [
+    "581 UAH",
+    "570 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/34/ec8843-cece-4f5a-adde-8b24378efcec/2022-06-09-21-53-42-IMG-0380.webp",
+  "rating": "7.5"
+}

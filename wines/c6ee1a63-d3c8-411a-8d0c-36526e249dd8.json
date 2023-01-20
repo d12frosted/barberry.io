@@ -1,0 +1,39 @@
+{
+  "id": "c6ee1a63-d3c8-411a-8d0c-36526e249dd8",
+  "name": "Kleine Wanderlust",
+  "full-name": "2Naturkinder Kleine Wanderlust 2018",
+  "producer": {
+    "id": "8985ce5e-6689-48fd-a818-ea3b60a6462b",
+    "name": "2Naturkinder"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "44030b06-6977-40c8-91af-f1d0b5398ac3",
+      "name": "Regent"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "545 UAH",
+    "620 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c6/ee1a63-d3c8-411a-8d0c-36526e249dd8/2022-09-26-19-04-02-C22A4F5B-77FA-48AB-B9BD-18E8B0E2099F-1-102-o.webp",
+  "rating": "5.5"
+}

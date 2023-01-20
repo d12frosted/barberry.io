@@ -1,0 +1,38 @@
+{
+  "id": "fef3962b-3fbb-469d-a068-6f75275ce4c3",
+  "name": "Elixir",
+  "full-name": "Muchada-Léclapart Elixir 2017",
+  "producer": {
+    "id": "cd1b94b8-6014-440d-8876-b6897a61770e",
+    "name": "Muchada-Léclapart"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1648 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fe/f3962b-3fbb-469d-a068-6f75275ce4c3/2022-07-26-12-12-38-F93A64E5-B50D-4D53-8DEC-1609DFF76FB1-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "62a4a5f1-f9f5-4987-aaeb-009102fb83a9",
+  "name": "Vin Rouge",
+  "full-name": "Lucy Margaux Vin Rouge 2020",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "815 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/62/a4a5f1-f9f5-4987-aaeb-009102fb83a9/2022-10-20-10-56-54-341AEF21-AB92-444D-8872-5011CB3A5BFB-1-105-c.webp",
+  "rating": "7.25"
+}

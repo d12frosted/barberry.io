@@ -1,0 +1,42 @@
+{
+  "id": "d7463ff5-e6fb-4f8e-9b34-e4c3da51157a",
+  "name": "Azimut Cava Blanc Brut Nature",
+  "full-name": "Cellers de Can Suriol Azimut Cava Blanc Brut Nature 2020",
+  "producer": {
+    "id": "cca6f3e0-e878-4a3c-a51a-644d7187be7e",
+    "name": "Cellers de Can Suriol"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": "July 2022",
+  "sur-lie": ">9 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.2",
+  "prices": [
+    "405 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c.webp",
+  "rating": "7.25"
+}

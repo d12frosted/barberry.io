@@ -1,0 +1,34 @@
+{
+  "id": "c0c06686-36ba-4615-a3d8-fc1fe2110ada",
+  "name": "Tenuta Tascante Ghiaia Nera",
+  "full-name": "Tasca Tenuta Tascante Ghiaia Nera 2017",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "746 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c0/c06686-36ba-4615-a3d8-fc1fe2110ada/2022-08-29-16-39-05-056D50F7-1A4B-47B5-8AF4-84DD8D1C5EE5-1-105-c.webp",
+  "rating": "7.4"
+}

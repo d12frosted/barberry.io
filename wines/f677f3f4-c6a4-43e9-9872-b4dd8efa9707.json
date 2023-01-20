@@ -1,0 +1,35 @@
+{
+  "id": "f677f3f4-c6a4-43e9-9872-b4dd8efa9707",
+  "name": "Marche Bianco di Gino",
+  "full-name": "Fattoria San Lorenzo Marche Bianco di Gino 2021",
+  "producer": {
+    "id": "60baeb1a-2703-459a-b212-7f73465efc67",
+    "name": "Fattoria San Lorenzo"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "64804675-05c7-4c4b-8b19-0cef3afe989c",
+      "name": "Verdicchio"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.6",
+  "prices": [
+    "413 UAH",
+    "470 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f6/77f3f4-c6a4-43e9-9872-b4dd8efa9707/2023-01-16-16-48-50-IMG-4380.webp",
+  "rating": "NA"
+}

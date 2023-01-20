@@ -1,0 +1,35 @@
+{
+  "id": "c765bf10-f52c-4c91-bf86-c80c1027c587",
+  "name": "Vino de Solera de Listán Blanco",
+  "full-name": "Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1478 UAH",
+    "1707 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-11-19-09-27-03-7AF7C3C8-9559-42E2-92A5-C32091763D9E-1-105-c.webp",
+  "rating": "8.8"
+}

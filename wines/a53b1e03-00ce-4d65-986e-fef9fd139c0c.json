@@ -1,0 +1,38 @@
+{
+  "id": "a53b1e03-00ce-4d65-986e-fef9fd139c0c",
+  "name": "Viña Albali Gran Reserva de Familia",
+  "full-name": "Félix Solís Viña Albali Gran Reserva de Familia 2009",
+  "producer": {
+    "id": "af64aab6-213e-44e4-acd0-b2b5bacd7b83",
+    "name": "Félix Solís"
+  },
+  "vintage": "2009",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3",
+  "prices": [
+    "480 UAH"
+  ],
+  "available": 0,
+  "image": "images/a5/3b1e03-00ce-4d65-986e-fef9fd139c0c/2020-02-03-08-43-17-CAF26FE8-D1EF-45AC-BD2F-E471D8F27A20-1-105-c.webp",
+  "rating": "8.0"
+}

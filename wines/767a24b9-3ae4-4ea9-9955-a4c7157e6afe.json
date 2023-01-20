@@ -1,0 +1,34 @@
+{
+  "id": "767a24b9-3ae4-4ea9-9955-a4c7157e6afe",
+  "name": "M Rosso",
+  "full-name": "Cantina Alchemica M Rosso 2006",
+  "producer": {
+    "id": "e782c2c3-4f80-4f8b-bd8b-a1b01ab8623b",
+    "name": "Cantina Alchemica"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "4900 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/76/7a24b9-3ae4-4ea9-9955-a4c7157e6afe/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c.webp",
+  "rating": "NA"
+}

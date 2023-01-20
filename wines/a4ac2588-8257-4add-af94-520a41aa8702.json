@@ -1,0 +1,35 @@
+{
+  "id": "a4ac2588-8257-4add-af94-520a41aa8702",
+  "name": "Victoria №2",
+  "full-name": "Jorge Ordoñez Victoria №2 2021",
+  "producer": {
+    "id": "f65394bb-86f0-42da-ac19-2934bff76929",
+    "name": "Jorge Ordoñez"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "186",
+  "prices": [
+    "664 UAH",
+    "699 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a4/ac2588-8257-4add-af94-520a41aa8702/2023-01-10-07-16-43-A08A8A8D-54E7-4A97-BEB4-DEB54A600265-1-105-c.webp",
+  "rating": "8.25"
+}

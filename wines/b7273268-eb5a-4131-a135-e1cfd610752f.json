@@ -1,0 +1,35 @@
+{
+  "id": "b7273268-eb5a-4131-a135-e1cfd610752f",
+  "name": "Saito",
+  "full-name": "Weingut Edgar Brutler Saito 2018",
+  "producer": {
+    "id": "4201bdfd-2fab-4d05-9fd9-0154225a5a7b",
+    "name": "Weingut Edgar Brutler"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "2031ccde-615d-4871-bec4-8b812bf50255",
+    "name": "România"
+  },
+  "grapes": [
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "607 UAH",
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b7/273268-eb5a-4131-a135-e1cfd610752f/2020-09-19-13-51-46-4498FB5C-565A-4914-9D31-4D826BB61A3D-1-105-c.webp",
+  "rating": "6.5"
+}

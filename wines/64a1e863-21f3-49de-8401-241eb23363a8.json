@@ -1,0 +1,36 @@
+{
+  "id": "64a1e863-21f3-49de-8401-241eb23363a8",
+  "name": "Pinotage",
+  "full-name": "Barista Pinotage 2020",
+  "producer": {
+    "id": "9a193cc3-344d-429e-8483-54687cde1a94",
+    "name": "Barista"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "96976408-68dc-46f6-88e4-bc4254c7c279",
+      "name": "Pinotage"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "5.2",
+  "prices": [
+    "479 UAH",
+    "389 UAH",
+    "315 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/64/a1e863-21f3-49de-8401-241eb23363a8/2022-12-03-16-58-09-IMG-3579.webp",
+  "rating": "6.166666666666667"
+}

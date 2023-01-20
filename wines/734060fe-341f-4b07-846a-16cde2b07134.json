@@ -1,0 +1,34 @@
+{
+  "id": "734060fe-341f-4b07-846a-16cde2b07134",
+  "name": "J",
+  "full-name": "Patrick Bouju J 2020",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "eb0cf305-596a-4c7b-b7ff-6b3b732f9efa",
+      "name": "Jacquère"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.5",
+  "prices": [
+    "810 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/73/4060fe-341f-4b07-846a-16cde2b07134/2022-11-25-16-58-22-IMG-3398.webp",
+  "rating": "7.5"
+}

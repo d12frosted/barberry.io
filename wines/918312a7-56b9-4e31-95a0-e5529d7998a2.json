@@ -1,0 +1,38 @@
+{
+  "id": "918312a7-56b9-4e31-95a0-e5529d7998a2",
+  "name": "Don Perdigón Pet-Nat",
+  "full-name": "Alfredo Maestro Don Perdigón Pet-Nat NV",
+  "producer": {
+    "id": "5a74c7dc-56c1-4a45-b1d6-849c9f02ecfb",
+    "name": "Alfredo Maestro"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "b6846384-2132-4c97-b5c9-360acd53f497",
+      "name": "Alicante Henri Bouschet"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "620 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/91/8312a7-56b9-4e31-95a0-e5529d7998a2/2022-07-29-17-04-24-706230EC-D239-4923-B8D9-99D42DD582B4-1-105-c.webp",
+  "rating": "7.199999999999999"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11a8ed67-b0a6-46fb-a449-835d782e6a0e",
+  "name": "Fontanasanta Manzoni Bianco",
+  "full-name": "Foradori Fontanasanta Manzoni Bianco 2019",
+  "producer": {
+    "id": "4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae",
+    "name": "Foradori"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "825075af-6c6d-4ad0-b4d7-6f4516798935",
+      "name": "Manzoni Bianco"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.6",
+  "prices": [
+    "180 UAH",
+    "599 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/11/a8ed67-b0a6-46fb-a449-835d782e6a0e/2020-10-24-10-07-43-B46294F5-B329-43BE-A581-6783A6234DB3-1-105-c.webp",
+  "rating": "6.833333333333333"
+}

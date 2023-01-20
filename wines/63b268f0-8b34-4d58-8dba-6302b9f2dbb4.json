@@ -1,0 +1,35 @@
+{
+  "id": "63b268f0-8b34-4d58-8dba-6302b9f2dbb4",
+  "name": "Méthode Traditionnelle Blanc de Blancs Brut",
+  "full-name": "Francois Montand Méthode Traditionnelle Blanc de Blancs Brut NV",
+  "producer": {
+    "id": "8dbf4cd8-424c-4bd1-8d47-b38a6a5b07b3",
+    "name": "Francois Montand"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "10",
+  "prices": [
+    "299 UAH",
+    "232 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730.webp",
+  "rating": "7.0"
+}

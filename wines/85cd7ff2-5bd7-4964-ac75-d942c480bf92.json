@@ -1,0 +1,42 @@
+{
+  "id": "85cd7ff2-5bd7-4964-ac75-d942c480bf92",
+  "name": "Franciacorta 44a Edizione Cuvée Prestige",
+  "full-name": "Ca' del Bosco Franciacorta 44a Edizione Cuvée Prestige NV",
+  "producer": {
+    "id": "56bcdb13-2a06-4ba9-8649-b5ebcba1c84a",
+    "name": "Ca' del Bosco"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.5",
+  "prices": [
+    "2490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c.webp",
+  "rating": "7.5"
+}

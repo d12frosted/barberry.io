@@ -1,0 +1,46 @@
+{
+  "id": "2ed14445-f42a-4213-8805-5fde9e011dcf",
+  "name": "Mauvais Temps",
+  "full-name": "Nicolas Carmarans Mauvais Temps 2019",
+  "producer": {
+    "id": "4999ae27-f206-4073-955f-2eef8f14db11",
+    "name": "Nicolas Carmarans"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "52ad24c1-3055-4295-a89b-b377e626455c",
+      "name": "Fer Servadou"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "5767b9c5-96d7-4636-a015-79d2b3568857",
+      "name": "Negret de Banhars"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "2",
+  "prices": [
+    "1800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2e/d14445-f42a-4213-8805-5fde9e011dcf/2022-10-28-13-06-37-A7FCF3AD-D6D1-47E7-A120-7B976F062DC1-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3b558b9b-f239-4ad3-b48b-17c07d8d2dfa",
+  "name": "Gevrey-Chambertin 1er cru Champeaux",
+  "full-name": "Bernard Dugat-Py Gevrey-Chambertin 1er cru Champeaux 2008",
+  "producer": {
+    "id": "370e3e02-da43-4ea7-a0cc-982b0a104589",
+    "name": "Bernard Dugat-Py"
+  },
+  "vintage": "2008",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "5000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3b/558b9b-f239-4ad3-b48b-17c07d8d2dfa/2021-08-27-16-30-42-A4C8239E-FF62-4DA1-9058-ACA5239143EC-1-105-c.webp",
+  "rating": "8.0"
+}

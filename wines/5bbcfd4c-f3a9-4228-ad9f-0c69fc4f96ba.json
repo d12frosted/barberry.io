@@ -1,0 +1,36 @@
+{
+  "id": "5bbcfd4c-f3a9-4228-ad9f-0c69fc4f96ba",
+  "name": "As Xaras",
+  "full-name": "Fedellos do Couto As Xaras 2021",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "624 UAH",
+    "667 UAH",
+    "620 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/5b/bcfd4c-f3a9-4228-ad9f-0c69fc4f96ba/2022-12-31-13-52-42-A0F8FF07-8EEF-4870-BB51-B0989AB0C2EE-1-105-c.webp",
+  "rating": "7.75"
+}

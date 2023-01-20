@@ -1,0 +1,34 @@
+{
+  "id": "0570c34d-eef6-4e3e-b4a1-7f854abe33ba",
+  "name": "Maranges 1er Cru Les Clos Roussots",
+  "full-name": "Sextant Maranges 1er Cru Les Clos Roussots 2019",
+  "producer": {
+    "id": "1c05cc7c-8b42-4101-b447-9422c813f6c7",
+    "name": "Sextant"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/05/70c34d-eef6-4e3e-b4a1-7f854abe33ba/2021-12-09-08-51-38-352E7C50-B451-4EB9-834B-1E35853A8D01-1-105-c.webp",
+  "rating": "7.0"
+}

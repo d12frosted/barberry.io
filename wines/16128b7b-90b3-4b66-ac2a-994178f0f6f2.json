@@ -1,0 +1,42 @@
+{
+  "id": "16128b7b-90b3-4b66-ac2a-994178f0f6f2",
+  "name": "A Liberdade",
+  "full-name": "Antonio Madeira A Liberdade 2019",
+  "producer": {
+    "id": "891ebc99-3492-4a66-87d6-2f1c7a098008",
+    "name": "Antonio Madeira"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "3e7b8740-0fe9-4683-af09-15bade39dbf9",
+      "name": "Touriga Nacional"
+    },
+    {
+      "id": "854492ee-a00b-4212-b82b-7abd236189d7",
+      "name": "Encruzado"
+    },
+    {
+      "id": "9533c730-0f45-46f3-8c3a-6ffa2ce88f87",
+      "name": "Cerceal"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1347 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/16/128b7b-90b3-4b66-ac2a-994178f0f6f2/2022-08-20-10-41-48-C6645716-C847-4A44-91AB-5EC24CBC2378-1-105-c.webp",
+  "rating": "7.800000000000001"
+}

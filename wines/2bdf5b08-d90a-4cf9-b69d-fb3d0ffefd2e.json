@@ -1,0 +1,35 @@
+{
+  "id": "2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e",
+  "name": "Anima Brut Rosé Pas Operé VSQ",
+  "full-name": "Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014",
+  "producer": {
+    "id": "10c5a427-ee4a-4962-a855-a9bbfd135d39",
+    "name": "Cà del Vént"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": "18 January 2019",
+  "sur-lie": "45 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.6",
+  "prices": [
+    "1690 UAH",
+    "1477 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2b/df5b08-d90a-4cf9-b69d-fb3d0ffefd2e/2022-12-10-12-12-01-IMG-3682.webp",
+  "rating": "8.375"
+}

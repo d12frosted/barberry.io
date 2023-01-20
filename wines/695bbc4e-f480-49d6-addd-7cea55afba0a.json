@@ -1,0 +1,34 @@
+{
+  "id": "695bbc4e-f480-49d6-addd-7cea55afba0a",
+  "name": "Tros De Clos",
+  "full-name": "Portal del Priorat Tros De Clos 2013",
+  "producer": {
+    "id": "824f09b6-4bf5-43fa-8d2f-09eb5092be8a",
+    "name": "Portal del Priorat"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "1.3",
+  "prices": [
+    "2465 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/69/5bbc4e-f480-49d6-addd-7cea55afba0a/2022-10-13-15-01-05-IMG-2739.webp",
+  "rating": "8.5"
+}

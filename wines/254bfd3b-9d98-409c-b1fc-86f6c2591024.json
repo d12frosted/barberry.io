@@ -1,0 +1,34 @@
+{
+  "id": "254bfd3b-9d98-409c-b1fc-86f6c2591024",
+  "name": "Gewürztraminer Macération Pur Vin",
+  "full-name": "Pierre Frick Gewürztraminer Macération Pur Vin 2018",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/25/4bfd3b-9d98-409c-b1fc-86f6c2591024/2022-07-23-09-27-13-91F016CB-BB07-49DC-8222-3E6CEF1766C0-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "21a7106d-62e9-4f0c-8ba4-aa56493007a0",
+  "name": "Vigna Pura Grillo",
+  "full-name": "Cinque Segni Vigna Pura Grillo 2020",
+  "producer": {
+    "id": "17e44f24-dcf0-4ad7-8782-c6b105db8554",
+    "name": "Cinque Segni"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "547 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/a7106d-62e9-4f0c-8ba4-aa56493007a0/2022-07-27-07-15-36-87E5164E-6FA4-48B8-84DA-C68E96BAE06B-1-105-c.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "67648a12-7d2c-481b-ba2f-707213642f7c",
+  "name": "Oh Yeah",
+  "full-name": "Patrice Beguet Oh Yeah 2020",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "892 UAH"
+  ],
+  "available": 0,
+  "image": "images/67/648a12-7d2c-481b-ba2f-707213642f7c/2021-08-11-08-44-02-FBFF53FB-A541-4325-9C22-E4B78D151272-1-105-c.webp",
+  "rating": "6.5"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fd039a96-5a17-4b9a-8ee8-1337c3e99fba",
+  "name": "Entre Ciel & Terre (2013)",
+  "full-name": "Francoise Bedel Entre Ciel & Terre (2013) NV",
+  "producer": {
+    "id": "95f34fc8-044c-453a-bca7-62e7128ff998",
+    "name": "Francoise Bedel"
+  },
+  "vintage": "NV",
+  "base-vintage": "2013",
+  "degorgee": "October 2018",
+  "sur-lie": "48 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "4.8",
+  "prices": [
+    "2336 UAH",
+    "2042 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c.webp",
+  "rating": "8.5"
+}

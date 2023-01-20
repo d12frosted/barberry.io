@@ -1,0 +1,34 @@
+{
+  "id": "021dfa5a-0340-4f00-bccd-50f5659f688d",
+  "name": "Riesling Heiligenstein Lyra",
+  "full-name": "Weingut Bründlmayer Riesling Heiligenstein Lyra 2018",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.9",
+  "prices": [
+    "1550 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c.webp",
+  "rating": "9.0"
+}

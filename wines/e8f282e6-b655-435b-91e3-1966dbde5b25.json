@@ -1,0 +1,38 @@
+{
+  "id": "e8f282e6-b655-435b-91e3-1966dbde5b25",
+  "name": "Tenuta Regaleali Nozze d'Oro",
+  "full-name": "Tasca Tenuta Regaleali Nozze d'Oro 2018",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "cb51e2e2-1332-45f0-9578-28a0107e08d8",
+      "name": "Inzolia"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "880 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2022-06-05-11-13-19-569DF9E9-240E-4AC1-8E85-33F9ED84D525-1-105-c.webp",
+  "rating": "7.75"
+}

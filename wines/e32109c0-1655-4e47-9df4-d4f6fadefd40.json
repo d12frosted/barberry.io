@@ -1,0 +1,42 @@
+{
+  "id": "e32109c0-1655-4e47-9df4-d4f6fadefd40",
+  "name": "Dinavolino",
+  "full-name": "Denavolo Dinavolino 2020",
+  "producer": {
+    "id": "53e31c1f-70b3-4504-897d-fe020167f48c",
+    "name": "Denavolo"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "66fcf1da-06da-4177-9ec3-66d12e070dc6",
+      "name": "Ortrugo"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "1",
+  "prices": [
+    "726 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e3/2109c0-1655-4e47-9df4-d4f6fadefd40/2022-08-14-11-17-16-E9828D20-9CC3-4EA8-B146-24A41B97E5A9-1-105-c.webp",
+  "rating": "8.0"
+}

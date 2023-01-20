@@ -1,0 +1,35 @@
+{
+  "id": "227e3ccc-3136-4a0d-ac55-b57f780dff25",
+  "name": "Vulkan",
+  "full-name": "Wasenhaus Vulkan 2018",
+  "producer": {
+    "id": "e463ddb4-d593-4913-80e1-b841330d4cf6",
+    "name": "Wasenhaus"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2300 UAH",
+    "1490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/22/7e3ccc-3136-4a0d-ac55-b57f780dff25/2022-09-03-16-22-27-7FE634DC-571C-4E77-92B0-52711C95953B-1-105-c.webp",
+  "rating": "8.5"
+}

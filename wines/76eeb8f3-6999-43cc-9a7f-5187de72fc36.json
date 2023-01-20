@@ -1,0 +1,34 @@
+{
+  "id": "76eeb8f3-6999-43cc-9a7f-5187de72fc36",
+  "name": "Tenuta Regaleali Perricone Guarnaccio",
+  "full-name": "Tasca Tenuta Regaleali Perricone Guarnaccio 2018",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8ed2094b-c526-458c-9d76-e437c6d216ba",
+      "name": "Perricone"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "627 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/eeb8f3-6999-43cc-9a7f-5187de72fc36/2022-08-29-16-21-23-F9AA96AF-77BE-4A44-B4DD-EF5443E00008-1-105-c.webp",
+  "rating": "7.4"
+}

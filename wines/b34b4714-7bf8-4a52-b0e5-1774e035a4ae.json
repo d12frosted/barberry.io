@@ -1,0 +1,39 @@
+{
+  "id": "b34b4714-7bf8-4a52-b0e5-1774e035a4ae",
+  "name": "Rain Field Blend",
+  "full-name": "Patrick Sullivan Rain Field Blend 2019",
+  "producer": {
+    "id": "ebcf71da-35d2-45d4-9b87-178179c0b573",
+    "name": "Patrick Sullivan"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "1103 UAH",
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400.webp",
+  "rating": "8.0"
+}

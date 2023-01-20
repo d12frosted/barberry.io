@@ -1,0 +1,34 @@
+{
+  "id": "aff84447-55cc-496b-bf6c-3881e451e0d0",
+  "name": "Sassaia",
+  "full-name": "La Biancara Sassaia 1997",
+  "producer": {
+    "id": "b896c5d5-53f9-4a09-864f-3cf25810c9ad",
+    "name": "La Biancara"
+  },
+  "vintage": "1997",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1408 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/af/f84447-55cc-496b-bf6c-3881e451e0d0/2022-07-23-10-43-00-ABBE34CE-F1F4-4D42-A5F2-F55BA962508A-1-105-c.webp",
+  "rating": "8.6"
+}

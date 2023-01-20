@@ -1,0 +1,34 @@
+{
+  "id": "68aa146e-d0bc-4688-8e46-9e4f7bfd3c26",
+  "name": "To love somebody",
+  "full-name": "Ovum To love somebody 2018",
+  "producer": {
+    "id": "c6c3f1d6-05a4-44b6-89a3-101ffdb5f98a",
+    "name": "Ovum"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1190 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/68/aa146e-d0bc-4688-8e46-9e4f7bfd3c26/2022-10-15-13-16-29-A4DFF406-D8C6-4A23-8CED-E7D6761C99CF-1-105-c.webp",
+  "rating": "7.75"
+}

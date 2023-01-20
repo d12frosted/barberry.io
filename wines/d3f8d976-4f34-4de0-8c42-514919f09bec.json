@@ -1,0 +1,34 @@
+{
+  "id": "d3f8d976-4f34-4de0-8c42-514919f09bec",
+  "name": "Échezeaux Grand Cru",
+  "full-name": "Jean Grivot Échezeaux Grand Cru 2008",
+  "producer": {
+    "id": "7ccd7bff-82b4-4834-ba80-31924e56b364",
+    "name": "Jean Grivot"
+  },
+  "vintage": "2008",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d3/f8d976-4f34-4de0-8c42-514919f09bec/2022-12-03-09-50-24-photo-2022-12-03 09.14.48.webp",
+  "rating": "8.0"
+}

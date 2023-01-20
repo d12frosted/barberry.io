@@ -1,0 +1,42 @@
+{
+  "id": "1e205bfb-2c28-457c-9949-c1923f812815",
+  "name": "G&M",
+  "full-name": "Patrick Bouju G&M 2021",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c6e1fd3f-d02f-4700-8156-0f81ffd71b89",
+      "name": "Garnacha Roja"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.5",
+  "prices": [
+    "863 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1e/205bfb-2c28-457c-9949-c1923f812815/2022-11-25-16-56-31-IMG-3393.webp",
+  "rating": "7.800000000000001"
+}

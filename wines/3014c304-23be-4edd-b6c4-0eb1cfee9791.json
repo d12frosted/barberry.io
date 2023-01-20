@@ -1,0 +1,34 @@
+{
+  "id": "3014c304-23be-4edd-b6c4-0eb1cfee9791",
+  "name": "Blanc de Craie",
+  "full-name": "Henri Giraud Blanc de Craie NV",
+  "producer": {
+    "id": "7000ca7e-313f-49a9-8506-2d54cb25b0d1",
+    "name": "Henri Giraud"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "2315 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/30/14c304-23be-4edd-b6c4-0eb1cfee9791/2022-12-19-17-44-35-IMG-3932.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "27414711-c577-42e5-99ad-ad4de875534f",
+  "name": "Romanée-Saint-Vivant",
+  "full-name": "Domaine de la Romanée-Conti Romanée-Saint-Vivant 2017",
+  "producer": {
+    "id": "a81dda9d-2b3f-4c48-bf03-8cb7bf1cb646",
+    "name": "Domaine de la Romanée-Conti"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "38000 UAH"
+  ],
+  "available": 0,
+  "image": "images/27/414711-c577-42e5-99ad-ad4de875534f/2021-06-01-07-40-18-FD9BBD6E-516F-486B-8DAA-35F22599D388-1-105-c.webp",
+  "rating": "10.0"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5ca2fbaf-43a6-4973-9533-20f55ee2594f",
+  "name": "Vrede Pinot Noir",
+  "full-name": "Storm Vrede Pinot Noir 2017",
+  "producer": {
+    "id": "0baccd0b-6ff4-4a49-bdb1-a509b1c1314c",
+    "name": "Storm"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.9",
+  "prices": [
+    "1320 UAH",
+    "1390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c.webp",
+  "rating": "8.75"
+}

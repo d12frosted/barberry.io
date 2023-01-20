@@ -1,0 +1,35 @@
+{
+  "id": "c5fc299b-cd69-40ba-844c-175b7b4f0206",
+  "name": "Riesling",
+  "full-name": "Marlborough Sun Riesling 2020",
+  "producer": {
+    "id": "269e5124-0361-4c4c-932d-ea4b91d5163b",
+    "name": "Marlborough Sun"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "semi-dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "12",
+  "prices": [
+    "381 UAH",
+    "433 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c5/fc299b-cd69-40ba-844c-175b7b4f0206/2023-01-16-16-41-13-IMG-4364.webp",
+  "rating": "NA"
+}

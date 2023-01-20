@@ -1,0 +1,38 @@
+{
+  "id": "0e00caf9-100e-4789-a9aa-dbe00f82d8af",
+  "name": "Côtes du Jura Les Lumachelles Rouge",
+  "full-name": "Domaine des Cavarodes Côtes du Jura Les Lumachelles Rouge 2019",
+  "producer": {
+    "id": "c43d8c15-2839-4bce-802f-62c2ac4f55ff",
+    "name": "Domaine des Cavarodes"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o.webp",
+  "rating": "7.5"
+}

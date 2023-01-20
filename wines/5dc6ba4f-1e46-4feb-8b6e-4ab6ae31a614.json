@@ -1,0 +1,35 @@
+{
+  "id": "5dc6ba4f-1e46-4feb-8b6e-4ab6ae31a614",
+  "name": "Jgia",
+  "full-name": "Tsikhelishvili Wines Jgia 2018",
+  "producer": {
+    "id": "5b7283e3-a195-4382-901f-04bd6e393d94",
+    "name": "Tsikhelishvili Wines"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "d77ad416-a5f8-4706-bb67-df1bcfbc1eb4",
+      "name": "Jgia"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.79",
+  "prices": [
+    "818 UAH",
+    "690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5d/c6ba4f-1e46-4feb-8b6e-4ab6ae31a614/2021-11-14-12-42-00-A92D013B-A1FB-4126-9235-AC856848BEDE-1-105-c.webp",
+  "rating": "8.5"
+}

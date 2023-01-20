@@ -1,0 +1,38 @@
+{
+  "id": "ed4d798e-7b3a-482b-89d5-f807db6918cd",
+  "name": "Viña Ardanza Reserva",
+  "full-name": "La Rioja Alta Viña Ardanza Reserva 2010",
+  "producer": {
+    "id": "f0beed1e-653f-451d-84a3-2a8a0d4c463c",
+    "name": "La Rioja Alta"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.7",
+  "prices": [
+    "985 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ed/4d798e-7b3a-482b-89d5-f807db6918cd/2020-12-03-10-49-18-9D348FFB-BA4F-490C-9762-1EE96E21B0ED-1-105-c.webp",
+  "rating": "8.0"
+}

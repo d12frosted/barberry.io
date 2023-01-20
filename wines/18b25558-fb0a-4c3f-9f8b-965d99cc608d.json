@@ -1,0 +1,34 @@
+{
+  "id": "18b25558-fb0a-4c3f-9f8b-965d99cc608d",
+  "name": "Amour de Deutz",
+  "full-name": "Deutz Amour de Deutz 2009",
+  "producer": {
+    "id": "2fc1a555-ee6a-4b30-9ad6-a4ad6a702a5e",
+    "name": "Deutz"
+  },
+  "vintage": "2009",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "11.2",
+  "prices": [
+    "5200 UAH"
+  ],
+  "available": 0,
+  "image": "images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2aec674b-19ba-4cc6-8337-6ca900703aa9",
+  "name": "Santorini",
+  "full-name": "Domaine Sigalas Santorini 2020",
+  "producer": {
+    "id": "0049dd51-fe96-4d40-b2df-e4f7c948c5c0",
+    "name": "Domaine Sigalas"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "d7292622-98ad-427b-bf58-15ecfdab8bf7",
+      "name": "Assyrtiko"
+    }
+  ],
+  "alcohol": "14.8",
+  "sugar": "NA",
+  "prices": [
+    "1132 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2a/ec674b-19ba-4cc6-8337-6ca900703aa9/2022-07-26-11-55-59-B05B77CC-963A-4BE0-9F0B-EE0302AE53AD-1-105-c.webp",
+  "rating": "7.5"
+}

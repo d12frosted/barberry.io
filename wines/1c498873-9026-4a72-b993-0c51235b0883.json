@@ -1,0 +1,41 @@
+{
+  "id": "1c498873-9026-4a72-b993-0c51235b0883",
+  "name": "Memoria Brut Pas Operé VSQ",
+  "full-name": "Cà del Vént Memoria Brut Pas Operé VSQ 2014",
+  "producer": {
+    "id": "10c5a427-ee4a-4962-a855-a9bbfd135d39",
+    "name": "Cà del Vént"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": "~2018-2019",
+  "sur-lie": "44 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1412 UAH",
+    "1518 UAH",
+    "1650 UAH",
+    "1790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3d289f72-4a84-4d3e-9598-4865b952b023",
+  "name": "Cuvée 744 Grand Vin (2016)",
+  "full-name": "Jacquesson Cuvée 744 Grand Vin (2016) NV",
+  "producer": {
+    "id": "2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca",
+    "name": "Jacquesson"
+  },
+  "vintage": "NV",
+  "base-vintage": "2016",
+  "degorgee": "November 2020",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.7",
+  "prices": [
+    "2054 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3d/289f72-4a84-4d3e-9598-4865b952b023/2022-05-16-20-39-10-7860D911-081E-4AF0-A2C9-380A70E5D4AD-1-105-c.webp",
+  "rating": "8.5"
+}

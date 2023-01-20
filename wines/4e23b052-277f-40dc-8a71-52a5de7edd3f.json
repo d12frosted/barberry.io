@@ -1,0 +1,34 @@
+{
+  "id": "4e23b052-277f-40dc-8a71-52a5de7edd3f",
+  "name": "Appellation San Carlos Cabernet Franc",
+  "full-name": "Bodega Catena Zapata Appellation San Carlos Cabernet Franc 2018",
+  "producer": {
+    "id": "4547425b-4629-45d5-886b-581416693d89",
+    "name": "Bodega Catena Zapata"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.8",
+  "prices": [
+    "435 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.5"
+}

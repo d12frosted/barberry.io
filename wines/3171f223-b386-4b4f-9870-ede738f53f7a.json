@@ -1,0 +1,38 @@
+{
+  "id": "3171f223-b386-4b4f-9870-ede738f53f7a",
+  "name": "Schiller Fercsy",
+  "full-name": "Hummel Schiller Fercsy 2021",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "217c46e8-bc5f-45c3-8bd1-4f4bddfac69e",
+      "name": "Blaufrankisch"
+    },
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "13.1",
+  "sugar": "1.1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/31/71f223-b386-4b4f-9870-ede738f53f7a/2022-09-03-12-17-02-0BA9D59B-373C-4877-93F9-8282261DF495-1-105-c.webp",
+  "rating": "7.4"
+}

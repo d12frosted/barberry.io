@@ -1,0 +1,34 @@
+{
+  "id": "187631c3-9d4f-492d-9883-e0908ba55386",
+  "name": "Blanc de Blancs Ambonnay Brut L.04-21",
+  "full-name": "Eric Rodez Blanc de Blancs Ambonnay Brut L.04-21 NV",
+  "producer": {
+    "id": "277503f7-50d7-47d7-9b2d-867b3ef5e49a",
+    "name": "Eric Rodez"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "8",
+  "prices": [
+    "1852 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/18/7631c3-9d4f-492d-9883-e0908ba55386/2022-12-23-13-27-22-IMG-3985.webp",
+  "rating": "8.25"
+}

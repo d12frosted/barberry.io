@@ -1,0 +1,35 @@
+{
+  "id": "c7dc4a40-1731-48fa-964e-3e75566b5234",
+  "name": "Bacchus",
+  "full-name": "Lyme Bay Bacchus 2020",
+  "producer": {
+    "id": "aed0fb5b-1db0-4897-b28b-fd39b2bded97",
+    "name": "Lyme Bay"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "8d91dc47-d765-46b2-bcdb-3b52ceeb2780",
+    "name": "England"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "524 UAH",
+    "699 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c7/dc4a40-1731-48fa-964e-3e75566b5234/2022-08-29-21-05-53-IMG-1864.webp",
+  "rating": "7.5"
+}

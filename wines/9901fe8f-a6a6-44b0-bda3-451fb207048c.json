@@ -1,0 +1,43 @@
+{
+  "id": "9901fe8f-a6a6-44b0-bda3-451fb207048c",
+  "name": "Vino Bianca L.B01/2021/22",
+  "full-name": "Cascina Tavijn Vino Bianca L.B01/2021/22 2021",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "8fcdc5eb-9b69-40a0-8546-c53f01e3611e",
+      "name": "Cortese"
+    },
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "541 UAH",
+    "545 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186.webp",
+  "rating": "7.75"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1712fbad-bd80-496b-a42c-fbba26f058f9",
+  "name": "Audrey's Fairygarten",
+  "full-name": "Jauma Audrey's Fairygarten 2018",
+  "producer": {
+    "id": "85c67ac6-c09f-4ceb-9a49-2f08a20fb25a",
+    "name": "Jauma"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "787 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/17/12fbad-bd80-496b-a42c-fbba26f058f9/2022-08-12-12-19-18-IMG-1457.webp",
+  "rating": "7.4"
+}

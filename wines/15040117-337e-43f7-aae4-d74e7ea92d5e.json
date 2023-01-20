@@ -1,0 +1,34 @@
+{
+  "id": "15040117-337e-43f7-aae4-d74e7ea92d5e",
+  "name": "Thrapsathiri",
+  "full-name": "Shima L.P Winery Thrapsathiri 2020",
+  "producer": {
+    "id": "35491292-92b3-4eff-be00-a5f5ae8a1f2e",
+    "name": "Shima L.P Winery"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "e097993e-6d0f-4890-bdef-43a2e332b41e",
+      "name": "Athiri Lefko"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/15/040117-337e-43f7-aae4-d74e7ea92d5e/2022-07-30-10-33-15-55CCA473-289F-4509-AD73-F8A67376020B-1-105-c.webp",
+  "rating": "3.0"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1003f92f-f182-4775-8602-32d132fa62d5",
+  "name": "Riesling Qualitätswein",
+  "full-name": "Fio Wein Riesling Qualitätswein 2014",
+  "producer": {
+    "id": "aad9deac-2c65-40fd-bbca-79468226b673",
+    "name": "Fio Wein"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "1323 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/10/03f92f-f182-4775-8602-32d132fa62d5/2021-07-20-09-04-42-BEB80E00-01CD-4512-B1D9-D1F5C3F59D1C-1-105-c.webp",
+  "rating": "8.8"
+}

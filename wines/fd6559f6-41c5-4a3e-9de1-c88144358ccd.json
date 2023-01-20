@@ -1,0 +1,42 @@
+{
+  "id": "fd6559f6-41c5-4a3e-9de1-c88144358ccd",
+  "name": "Saint-Estephe Cru Bourgeois",
+  "full-name": "Chateau Laffitte Carcasset Saint-Estephe Cru Bourgeois 2016",
+  "producer": {
+    "id": "61460d46-6c8d-41f3-ad9a-26fed046f622",
+    "name": "Chateau Laffitte Carcasset"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.2",
+  "prices": [
+    "892 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c.webp",
+  "rating": "7.5"
+}

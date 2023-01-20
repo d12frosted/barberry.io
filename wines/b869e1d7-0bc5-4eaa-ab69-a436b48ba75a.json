@@ -1,0 +1,36 @@
+{
+  "id": "b869e1d7-0bc5-4eaa-ab69-a436b48ba75a",
+  "name": "Sin Titulo NG",
+  "full-name": "Victoria E. Torres Pecis Sin Titulo NG 2017",
+  "producer": {
+    "id": "72cdba44-ecb8-4224-97d9-f94b8bc8b6ba",
+    "name": "Victoria E. Torres Pecis"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "71d8db65-4936-4f9d-8819-a8e8f8cfa8af",
+      "name": "Mollar Cano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "991 UAH",
+    "997 UAH",
+    "1102 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b8/69e1d7-0bc5-4eaa-ab69-a436b48ba75a/2022-08-12-12-23-48-IMG-1462.webp",
+  "rating": "8.5"
+}

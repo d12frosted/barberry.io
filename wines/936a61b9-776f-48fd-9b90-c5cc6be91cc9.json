@@ -1,0 +1,38 @@
+{
+  "id": "936a61b9-776f-48fd-9b90-c5cc6be91cc9",
+  "name": "Médoc Cru Bourgeois",
+  "full-name": "Chateau d'Escurac Médoc Cru Bourgeois 2011",
+  "producer": {
+    "id": "793833b0-702b-48d5-b0cd-baf3c3dcf1b3",
+    "name": "Chateau d'Escurac"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.2",
+  "prices": [
+    "949 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/93/6a61b9-776f-48fd-9b90-c5cc6be91cc9/2021-12-17-18-38-52-E4075636-BDB3-4D46-A228-E8DBB7D92640-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a13d51f1-63b5-45cb-8c57-7d52c261d9ef",
+  "name": "Il Frappato",
+  "full-name": "Arianna Occhipinti Il Frappato 2013",
+  "producer": {
+    "id": "8f62b3bd-2a36-4227-a0d3-4107cd8dac19",
+    "name": "Arianna Occhipinti"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.2",
+  "prices": [
+    "2890 UAH",
+    "2390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c.webp",
+  "rating": "9.0"
+}

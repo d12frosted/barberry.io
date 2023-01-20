@@ -1,0 +1,34 @@
+{
+  "id": "8cbe57db-77d3-4d08-9332-86f4635e118d",
+  "name": "Gevrey-Chambertin Ostrea",
+  "full-name": "Domaine Trapet Pere et Fils Gevrey-Chambertin Ostrea 2012",
+  "producer": {
+    "id": "28e1fbe5-34b6-43ab-942a-5695459c90ae",
+    "name": "Domaine Trapet Pere et Fils"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "2200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8c/be57db-77d3-4d08-9332-86f4635e118d/2021-08-27-16-19-40-2B80C1F9-D18C-4E70-BB7C-B2DFF6CCE1C5-1-105-c.webp",
+  "rating": "8.2"
+}

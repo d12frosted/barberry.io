@@ -1,0 +1,45 @@
+{
+  "id": "9e046e12-6366-4d23-8657-ee421ad00794",
+  "name": "Brut Rosé",
+  "full-name": "Weingut Bründlmayer Brut Rosé NV",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "ccfdbb32-b2f6-4f8a-bfa6-d11e814bbf2f",
+      "name": "Saint-Laurent"
+    },
+    {
+      "id": "9a31e7c4-1ca4-4f5d-8c18-b5687058fb8d",
+      "name": "Zweigelt"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1100 UAH",
+    "989 UAH",
+    "831 UAH",
+    "1000 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c.webp",
+  "rating": "8.0"
+}

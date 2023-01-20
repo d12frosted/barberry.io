@@ -1,0 +1,34 @@
+{
+  "id": "f315c7e4-18d2-4508-ac31-4198302b44aa",
+  "name": "Alvani Rkatsiteli",
+  "full-name": "Tsikhelishvili Wines Alvani Rkatsiteli 2018",
+  "producer": {
+    "id": "5b7283e3-a195-4382-901f-04bd6e393d94",
+    "name": "Tsikhelishvili Wines"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "afb94792-cd0f-43a3-889f-cc4abfa36ff5",
+      "name": "Rkatsiteli"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "2.67",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f3/15c7e4-18d2-4508-ac31-4198302b44aa/2021-11-14-12-43-37-D91B710E-1CC8-4FAA-8388-6672F46A9FC2-1-105-c.webp",
+  "rating": "8.2"
+}

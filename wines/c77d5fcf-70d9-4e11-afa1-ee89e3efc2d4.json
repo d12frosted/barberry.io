@@ -1,0 +1,34 @@
+{
+  "id": "c77d5fcf-70d9-4e11-afa1-ee89e3efc2d4",
+  "name": "Baby Bandito Chin Up",
+  "full-name": "Testalonga Baby Bandito Chin Up 2020",
+  "producer": {
+    "id": "28888340-61d4-42b7-9aa6-25ae9bf77e08",
+    "name": "Testalonga"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1.6",
+  "prices": [
+    "550 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c7/7d5fcf-70d9-4e11-afa1-ee89e3efc2d4/2021-05-22-14-17-16-A29D082C-02E3-4779-8506-C695089F9866-1-105-c.webp",
+  "rating": "7.5"
+}

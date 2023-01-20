@@ -1,0 +1,35 @@
+{
+  "id": "5040b17f-02d9-4088-8764-707cf0032439",
+  "name": "Pinot Noir Sous la Roche",
+  "full-name": "Domaine de La Borde Pinot Noir Sous la Roche 2018",
+  "producer": {
+    "id": "831e59f1-2aca-4fb2-8ba9-c75cab9c5dcf",
+    "name": "Domaine de La Borde"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1050 UAH",
+    "840 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/50/40b17f-02d9-4088-8764-707cf0032439/2022-09-14-15-08-37-F1EAADBD-2ABA-4558-93CF-ECDB1BB67695-1-105-c.webp",
+  "rating": "7.75"
+}

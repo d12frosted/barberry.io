@@ -1,0 +1,34 @@
+{
+  "id": "76975d50-7be4-4f3d-b60d-7e01629a1856",
+  "name": "Vigna La Miccia Marsala Superiore Oro",
+  "full-name": "Marco De Bartoli Vigna La Miccia Marsala Superiore Oro 2016",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "semy-sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "18",
+  "sugar": "88",
+  "prices": [
+    "915 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c.webp",
+  "rating": "7.5"
+}

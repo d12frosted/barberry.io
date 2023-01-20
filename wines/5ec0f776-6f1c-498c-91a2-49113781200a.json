@@ -1,0 +1,35 @@
+{
+  "id": "5ec0f776-6f1c-498c-91a2-49113781200a",
+  "name": "Volaina",
+  "full-name": "Celler Credo Volaina 2019",
+  "producer": {
+    "id": "4108850c-f630-467f-98c0-bbbf9edd63f5",
+    "name": "Celler Credo"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "0.5",
+  "prices": [
+    "534 UAH",
+    "607 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5e/c0f776-6f1c-498c-91a2-49113781200a/2023-01-16-16-37-35-IMG-4360.webp",
+  "rating": "NA"
+}

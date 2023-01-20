@@ -1,0 +1,34 @@
+{
+  "id": "2117a6f2-3fb2-44aa-8bb0-6bea15c7db38",
+  "name": "Third Generation Chardonnay",
+  "full-name": "Nugan Estate Third Generation Chardonnay 2020",
+  "producer": {
+    "id": "93ed5d54-33aa-43b6-9c10-131f1c7d5224",
+    "name": "Nugan Estate"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "5.6",
+  "prices": [
+    "332 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/17a6f2-3fb2-44aa-8bb0-6bea15c7db38/2023-01-10-06-57-53-IMG-4208.webp",
+  "rating": "7.25"
+}

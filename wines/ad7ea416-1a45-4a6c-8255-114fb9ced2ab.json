@@ -1,0 +1,43 @@
+{
+  "id": "ad7ea416-1a45-4a6c-8255-114fb9ced2ab",
+  "name": "Selecció Brut Cava",
+  "full-name": "Mas Pere Selecció Brut Cava NV",
+  "producer": {
+    "id": "17f9db0d-ae08-4f3e-9c2d-b9094e7ca315",
+    "name": "Mas Pere"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    },
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "12",
+  "prices": [
+    "420 UAH",
+    "390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ad/7ea416-1a45-4a6c-8255-114fb9ced2ab/2022-07-02-16-19-17-A49BA315-7C28-4549-BC11-D64B72A35027-1-105-c.webp",
+  "rating": "6.0"
+}

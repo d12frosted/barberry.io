@@ -1,0 +1,35 @@
+{
+  "id": "d4f21a37-7537-46d1-9142-0ee459b8bf02",
+  "name": "Joven Trousseau",
+  "full-name": "Marcelo Miras Joven Trousseau 2018",
+  "producer": {
+    "id": "a4893612-33df-49fa-a84a-d52da13def0d",
+    "name": "Marcelo Miras"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "607 UAH",
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/f21a37-7537-46d1-9142-0ee459b8bf02/2022-09-26-18-42-31-DB837F38-8F96-4AF3-9087-7F197D8061AD-1-102-o.webp",
+  "rating": "7.5"
+}

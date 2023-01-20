@@ -1,0 +1,35 @@
+{
+  "id": "12d18471-695a-43bb-b31b-08c9c358069f",
+  "name": "Schieferstern Purus Riesling trocken",
+  "full-name": "Rita & Rudolf Trossen Schieferstern Purus Riesling trocken 2018",
+  "producer": {
+    "id": "dae4f7cc-e606-4b89-aa61-e0e10d7f50a9",
+    "name": "Rita & Rudolf Trossen"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2.4",
+  "prices": [
+    "1025 UAH",
+    "795 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/12/d18471-695a-43bb-b31b-08c9c358069f/2022-01-13-09-58-15-0CA94A32-77A5-4B05-AF9D-F79B4BFF2F2D-1-105-c.webp",
+  "rating": "7.75"
+}

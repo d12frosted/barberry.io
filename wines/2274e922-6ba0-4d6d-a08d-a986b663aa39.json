@@ -1,0 +1,34 @@
+{
+  "id": "2274e922-6ba0-4d6d-a08d-a986b663aa39",
+  "name": "Vitovska",
+  "full-name": "Zidarich Vitovska 2015",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "947f03f5-d565-4af9-8a99-8adbaa2897b2",
+      "name": "Vitovska"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/22/74e922-6ba0-4d6d-a08d-a986b663aa39/2021-07-07-08-49-22-B2AE482A-B98B-42B3-85B1-ED471DDBE469-1-105-c.webp",
+  "rating": "8.0"
+}

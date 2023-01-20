@@ -1,0 +1,35 @@
+{
+  "id": "609809b3-4fed-4dec-a4e2-c799d91f3d14",
+  "name": "Le mie Origini",
+  "full-name": "Alessandro Viola Le mie Origini 2019",
+  "producer": {
+    "id": "f25fbb5a-7339-433c-8a73-17c6157afc1e",
+    "name": "Alessandro Viola"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.8",
+  "prices": [
+    "980 UAH",
+    "889 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "86783d66-c9b9-41ca-95e1-f2d214198157",
+  "name": "Refošk Vrh",
+  "full-name": "Piquentum Refošk Vrh 2018",
+  "producer": {
+    "id": "fd22ffa3-3676-40c5-bd3e-c85f92e17869",
+    "name": "Piquentum"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b1d64d06-a9b2-4686-96fc-92ead72d80ce",
+    "name": "Croatia"
+  },
+  "grapes": [
+    {
+      "id": "f452236b-5fe5-42bc-b3d4-955603928557",
+      "name": "Terrano"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "2",
+  "prices": [
+    "792 UAH",
+    "990 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/86/783d66-c9b9-41ca-95e1-f2d214198157/2022-10-19-11-56-01-IMG-2845.webp",
+  "rating": "8.0"
+}

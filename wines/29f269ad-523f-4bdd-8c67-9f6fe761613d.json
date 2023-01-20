@@ -1,0 +1,38 @@
+{
+  "id": "29f269ad-523f-4bdd-8c67-9f6fe761613d",
+  "name": "Crémant de Limoux Brut",
+  "full-name": "Tholomies Crémant de Limoux Brut NV",
+  "producer": {
+    "id": "781ac853-4b3b-4b08-9259-deb8b07b1d23",
+    "name": "Tholomies"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/29/f269ad-523f-4bdd-8c67-9f6fe761613d/2022-08-24-14-05-07-7E78C0CC-C1E3-482F-8C28-4F602AC64A0C-1-105-c.webp",
+  "rating": "7.5"
+}

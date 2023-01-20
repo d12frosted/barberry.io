@@ -1,0 +1,35 @@
+{
+  "id": "32f2e52b-d8cc-44c1-8f0c-7f966a501699",
+  "name": "The Y Series Riesling",
+  "full-name": "Yalumba The Y Series Riesling 2021",
+  "producer": {
+    "id": "cfc93a07-652e-4100-ba28-971d6c8c2295",
+    "name": "Yalumba"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "496 UAH",
+    "564 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/32/f2e52b-d8cc-44c1-8f0c-7f966a501699/2023-01-16-16-45-20-IMG-4370.webp",
+  "rating": "7.25"
+}

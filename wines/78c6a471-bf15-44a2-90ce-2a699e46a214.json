@@ -1,0 +1,43 @@
+{
+  "id": "78c6a471-bf15-44a2-90ce-2a699e46a214",
+  "name": "Crémant de Loire Brut",
+  "full-name": "Philippe de Charmille Crémant de Loire Brut NV",
+  "producer": {
+    "id": "a20e448a-2939-4cf6-8389-8ebda0bef069",
+    "name": "Philippe de Charmille"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "399 UAH",
+    "475 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/78/c6a471-bf15-44a2-90ce-2a699e46a214/2022-12-11-10-40-21-2FDC9E1A-E193-4964-84BD-E81415DC1F99-1-105-c.webp",
+  "rating": "7.0"
+}

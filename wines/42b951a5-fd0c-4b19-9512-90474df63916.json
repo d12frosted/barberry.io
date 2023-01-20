@@ -1,0 +1,39 @@
+{
+  "id": "42b951a5-fd0c-4b19-9512-90474df63916",
+  "name": "Lacazan",
+  "full-name": "Peixes Lacazan 2016",
+  "producer": {
+    "id": "5f079311-f61e-4b9a-849e-d3736d0c3f4b",
+    "name": "Peixes"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "6892b78e-fd9f-4b23-8843-9415de9a1d00",
+      "name": "Sousón"
+    },
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.5",
+  "prices": [
+    "602 UAH",
+    "893 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/42/b951a5-fd0c-4b19-9512-90474df63916/2022-08-29-17-24-11-2288B02A-6353-469F-8703-B6E381706774-1-105-c.webp",
+  "rating": "8.0"
+}

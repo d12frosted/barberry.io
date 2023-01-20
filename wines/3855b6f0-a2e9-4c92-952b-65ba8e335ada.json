@@ -1,0 +1,35 @@
+{
+  "id": "3855b6f0-a2e9-4c92-952b-65ba8e335ada",
+  "name": "La Colline Inspirée",
+  "full-name": "Jacques Lassaigne La Colline Inspirée NV",
+  "producer": {
+    "id": "1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5",
+    "name": "Jacques Lassaigne"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "3168 UAH",
+    "2890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2023-01-15-12-54-56-110F97BB-8741-436B-9EF0-44171BFE3573-1-105-c.webp",
+  "rating": "7.7"
+}

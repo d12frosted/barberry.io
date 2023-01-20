@@ -1,0 +1,34 @@
+{
+  "id": "e6767402-5d1a-42b1-a3d9-fd6bddc1e11a",
+  "name": "Kakhuri Mtsvivani",
+  "full-name": "Pheasant's Tears Kakhuri Mtsvivani 2018",
+  "producer": {
+    "id": "337f6bbd-4050-4ca8-bb4e-a274716e7fad",
+    "name": "Pheasant's Tears"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "c89c33a7-3c09-467b-809a-c72a7f82520f",
+      "name": "Kakhuri Mtsvivani"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.75",
+  "prices": [
+    "615 UAH"
+  ],
+  "available": 0,
+  "image": "images/e6/767402-5d1a-42b1-a3d9-fd6bddc1e11a/2020-10-13-09-45-38-31C366EB-C9F5-45DD-850A-D7CFD6F98D7A-1-105-c.webp",
+  "rating": "6.0"
+}

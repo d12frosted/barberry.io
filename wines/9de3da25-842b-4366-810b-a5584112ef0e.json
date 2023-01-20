@@ -1,0 +1,34 @@
+{
+  "id": "9de3da25-842b-4366-810b-a5584112ef0e",
+  "name": "Cépage Gringet Les Alpes",
+  "full-name": "Dominique Belluard Cépage Gringet Les Alpes 2018",
+  "producer": {
+    "id": "50ece513-2810-4d34-bd51-ef5586391687",
+    "name": "Dominique Belluard"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "07ed3e8f-7b71-4549-8363-5c86bdf88c9d",
+      "name": "Gringet"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9d/e3da25-842b-4366-810b-a5584112ef0e/2022-10-28-12-59-15-CB045833-B973-4DA3-8C9B-F110A42C8F27-1-105-c.webp",
+  "rating": "7.5"
+}

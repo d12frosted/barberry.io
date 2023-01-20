@@ -1,0 +1,34 @@
+{
+  "id": "5c18d9be-e61a-4d75-9dc9-c68a6b2fbebb",
+  "name": "Klingenberger Spätburgunder",
+  "full-name": "Rudolf Fürst Klingenberger Spätburgunder 2019",
+  "producer": {
+    "id": "0c73ef8f-0f5a-48d9-a2f6-9e98e5fd677b",
+    "name": "Rudolf Fürst"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1793 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5c/18d9be-e61a-4d75-9dc9-c68a6b2fbebb/2022-12-14-08-04-47-IMG-3759.webp",
+  "rating": "8.0"
+}

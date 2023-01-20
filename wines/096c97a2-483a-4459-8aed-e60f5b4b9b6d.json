@@ -1,0 +1,34 @@
+{
+  "id": "096c97a2-483a-4459-8aed-e60f5b4b9b6d",
+  "name": "Latricières-Chambertin",
+  "full-name": "Domaine Rossignol-Trapet Latricières-Chambertin 2017",
+  "producer": {
+    "id": "919b524d-134f-422c-b146-1904d7641d87",
+    "name": "Domaine Rossignol-Trapet"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "5400 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/09/6c97a2-483a-4459-8aed-e60f5b4b9b6d/2021-06-01-07-40-04-3FD8F12B-C3B9-40A9-A0B1-C5F7B55B9AD2-1-105-c.webp",
+  "rating": "9.5"
+}

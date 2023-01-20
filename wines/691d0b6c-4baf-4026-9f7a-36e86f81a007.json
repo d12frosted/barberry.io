@@ -1,0 +1,34 @@
+{
+  "id": "691d0b6c-4baf-4026-9f7a-36e86f81a007",
+  "name": "Tenuta Regaleali Grillo Cavallo Delle Fate",
+  "full-name": "Tasca Tenuta Regaleali Grillo Cavallo Delle Fate 2019",
+  "producer": {
+    "id": "0ce1f9a6-ccd5-49d9-ba2b-951d5959d5da",
+    "name": "Tasca"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "627 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/69/1d0b6c-4baf-4026-9f7a-36e86f81a007/2022-08-21-20-27-53-IMG-1699.webp",
+  "rating": "7.25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "369b6213-1ce1-44a8-bd85-10ab7bdf2023",
+  "name": "Chianti Riserva",
+  "full-name": "Villa Puccini Chianti Riserva 2016",
+  "producer": {
+    "id": "207c456f-75f3-4f37-9870-8cbccfdb4724",
+    "name": "Villa Puccini"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "a3cb4b44-31bc-44bb-96ce-a5bde6c14d4f",
+      "name": "Canaiolo"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "395 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/36/9b6213-1ce1-44a8-bd85-10ab7bdf2023/2022-05-23-20-17-01-IMG-0219.webp",
+  "rating": "6.5"
+}

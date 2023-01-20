@@ -1,0 +1,42 @@
+{
+  "id": "bfde04c3-3a3b-4e38-9448-21bf3f5d52a3",
+  "name": "Arraiano Tinto",
+  "full-name": "Cume do Avia Arraiano Tinto 2019",
+  "producer": {
+    "id": "1a59a1cb-fe8a-4724-b084-c5eef925d567",
+    "name": "Cume do Avia"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c9dae548-8fc2-4c55-90a1-1a31b79719c3",
+      "name": "Treixadura"
+    },
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    },
+    {
+      "id": "0497b784-e633-436a-ab78-dd931ce9b072",
+      "name": "Torrontés"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "1",
+  "prices": [
+    "616 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bf/de04c3-3a3b-4e38-9448-21bf3f5d52a3/2022-09-05-20-50-30-IMG-2012.webp",
+  "rating": "7.5"
+}

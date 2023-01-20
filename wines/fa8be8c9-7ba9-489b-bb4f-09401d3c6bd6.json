@@ -1,0 +1,39 @@
+{
+  "id": "fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6",
+  "name": "Olla Blanc",
+  "full-name": "Matassa Olla Blanc 2021",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0.4",
+  "prices": [
+    "783 UAH",
+    "890 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/fa/8be8c9-7ba9-489b-bb4f-09401d3c6bd6/2023-01-16-16-14-21-IMG-4327.webp",
+  "rating": "NA"
+}

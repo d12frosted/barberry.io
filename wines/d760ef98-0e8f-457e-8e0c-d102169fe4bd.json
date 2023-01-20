@@ -1,0 +1,43 @@
+{
+  "id": "d760ef98-0e8f-457e-8e0c-d102169fe4bd",
+  "name": "Ageno",
+  "full-name": "La Stoppa Ageno 2019",
+  "producer": {
+    "id": "e852c48c-eb2b-48ec-90f2-1ac7f0203073",
+    "name": "La Stoppa"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    },
+    {
+      "id": "66fcf1da-06da-4177-9ec3-66d12e070dc6",
+      "name": "Ortrugo"
+    },
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.6",
+  "prices": [
+    "1012 UAH",
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c.webp",
+  "rating": "7.833333333333333"
+}

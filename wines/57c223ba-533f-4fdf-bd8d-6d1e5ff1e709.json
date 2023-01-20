@@ -1,0 +1,34 @@
+{
+  "id": "57c223ba-533f-4fdf-bd8d-6d1e5ff1e709",
+  "name": "Calcarius Frecciabomb",
+  "full-name": "Valentina Passalacqua Calcarius Frecciabomb 2019",
+  "producer": {
+    "id": "cf22308d-98a1-4056-921c-49b9cd46f159",
+    "name": "Valentina Passalacqua"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "023f380a-cbcf-47e2-8bbd-6aab483ffe3f",
+      "name": "Bombino Bianco"
+    }
+  ],
+  "alcohol": "9",
+  "sugar": "1",
+  "prices": [
+    "630 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.25"
+}

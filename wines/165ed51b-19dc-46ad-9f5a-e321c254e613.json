@@ -1,0 +1,34 @@
+{
+  "id": "165ed51b-19dc-46ad-9f5a-e321c254e613",
+  "name": "Method Cap Classique Brut",
+  "full-name": "Klein Constantia Method Cap Classique Brut 2016",
+  "producer": {
+    "id": "4f7abc40-a0dd-4683-b7bf-e6dfba8a4ddf",
+    "name": "Klein Constantia"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11.82",
+  "sugar": "7.2",
+  "prices": [
+    "899 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/16/5ed51b-19dc-46ad-9f5a-e321c254e613/2021-08-18-10-39-00-CEF410F6-C86F-454B-BA78-43A5C4174888-1-105-c.webp",
+  "rating": "7.25"
+}

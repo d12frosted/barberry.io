@@ -1,0 +1,34 @@
+{
+  "id": "128c692e-8948-454f-bd6a-c03b1f29880d",
+  "name": "Hauswein Grüner Veltliner",
+  "full-name": "Weingut Bründlmayer Hauswein Grüner Veltliner 2021",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "1244da78-529e-4725-bd73-a924c641a33b",
+      "name": "Grüner Veltliner"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "426 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/12/8c692e-8948-454f-bd6a-c03b1f29880d/2022-06-28-07-01-52-1766C041-8346-4B4B-BFEF-9F62FBF31B52-1-105-c.webp",
+  "rating": "7.0"
+}

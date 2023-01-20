@@ -1,0 +1,43 @@
+{
+  "id": "b7ff4247-f4c0-48cf-829c-f735ddeb4e22",
+  "name": "Blanc",
+  "full-name": "Weingut Tement Blanc 2020",
+  "producer": {
+    "id": "10ab4cea-5852-45b1-94bc-97e93fe33956",
+    "name": "Weingut Tement"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "061b7c96-2814-4303-853a-35137ae38718",
+      "name": "Welschriesling"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.2",
+  "prices": [
+    "1100 UAH",
+    "475 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b7/ff4247-f4c0-48cf-829c-f735ddeb4e22/2021-07-15-08-00-02-A0D6EEDC-BA0E-4C2B-8BBE-EC28E45F7B02-1-105-c.webp",
+  "rating": "7.5"
+}

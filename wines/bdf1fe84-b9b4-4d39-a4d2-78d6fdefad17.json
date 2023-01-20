@@ -1,0 +1,35 @@
+{
+  "id": "bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17",
+  "name": "Cometa",
+  "full-name": "Planeta Cometa 2020",
+  "producer": {
+    "id": "e6b1b575-a7bd-429e-8873-1a44944edb05",
+    "name": "Planeta"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "bd1249f2-e210-4aa3-a460-0473ed38c76a",
+      "name": "Fiano"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.9",
+  "prices": [
+    "1195 UAH",
+    "1358 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317.webp",
+  "rating": "7.5"
+}

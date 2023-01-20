@@ -1,0 +1,54 @@
+{
+  "id": "042cfcdf-fc2e-4716-881b-5546c6124052",
+  "name": "Weiss",
+  "full-name": "Marto Weiss 2019",
+  "producer": {
+    "id": "547556c5-86ba-4b9e-a7f9-7776e6963cfc",
+    "name": "Marto"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    },
+    {
+      "id": "3e5e800d-b3b2-4efd-a631-eb0ecfe6f06a",
+      "name": "Würzer"
+    },
+    {
+      "id": "b733e63f-145c-47de-addf-1358823ef15d",
+      "name": "Scheurebe"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    },
+    {
+      "id": "768bf3f9-74f1-4174-8689-806726fd6f38",
+      "name": "Silvaner"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0",
+  "prices": [
+    "515 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c.webp",
+  "rating": "7.0"
+}

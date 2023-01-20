@@ -1,0 +1,34 @@
+{
+  "id": "2d320bfb-05fb-4c2c-9ce8-81b52e6eff76",
+  "name": "Ribolla",
+  "full-name": "Gravner Ribolla 2010",
+  "producer": {
+    "id": "bd1ae49f-3ec6-4701-b633-832d29f929f8",
+    "name": "Gravner"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.7",
+  "prices": [
+    "2327 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c.webp",
+  "rating": "8.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d42189bb-d2e7-483f-a342-5c825997921c",
+  "name": "Saint-Aubin Premier Cru Cuvee Marguerite Blanc",
+  "full-name": "Colin-Morey Pierre-Yves Saint-Aubin Premier Cru Cuvee Marguerite Blanc 2018",
+  "producer": {
+    "id": "70b5a0f1-e020-4074-99a7-cc93c1e7cf99",
+    "name": "Colin-Morey Pierre-Yves"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1847 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c.webp",
+  "rating": "8.5"
+}

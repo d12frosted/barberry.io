@@ -1,0 +1,34 @@
+{
+  "id": "4e6b1890-7360-4d61-af6a-e7a6ac427f98",
+  "name": "frizzante",
+  "full-name": "Terra Fresca frizzante NV",
+  "producer": {
+    "id": "76d73220-0673-4868-99a9-dc6f8e3dcdd8",
+    "name": "Terra Fresca"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "e4d18083-b7a1-4664-8ea9-c72daea8bc29",
+      "name": "Unknown"
+    }
+  ],
+  "alcohol": "8.5",
+  "sugar": "NA",
+  "prices": [
+    "500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4e/6b1890-7360-4d61-af6a-e7a6ac427f98/2022-05-28-10-18-26-IMG-0238.webp",
+  "rating": "6.5"
+}

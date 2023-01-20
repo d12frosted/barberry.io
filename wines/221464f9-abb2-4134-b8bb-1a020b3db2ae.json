@@ -1,0 +1,35 @@
+{
+  "id": "221464f9-abb2-4134-b8bb-1a020b3db2ae",
+  "name": "Vouvray Brut",
+  "full-name": "Félicien Brou Vouvray Brut NV",
+  "producer": {
+    "id": "2a5b0154-c0c9-4221-81c5-44a34a37ed4b",
+    "name": "Félicien Brou"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "339 UAH",
+    "495 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c.webp",
+  "rating": "7.5"
+}

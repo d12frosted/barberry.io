@@ -1,0 +1,36 @@
+{
+  "id": "0707cf77-b985-4c7e-ab45-0286fd86bff2",
+  "name": "Bastarda",
+  "full-name": "Fedellos do Couto Bastarda 2017",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "960 UAH",
+    "1024 UAH",
+    "990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9ac7c172-b901-4f1c-97b7-508fd9dd40c4",
+  "name": "Lezèr",
+  "full-name": "Foradori Lezèr 2020",
+  "producer": {
+    "id": "4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae",
+    "name": "Foradori"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "7dd8824f-7408-40a5-8bb8-e349b1f1b8aa",
+      "name": "Teroldego"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.9",
+  "prices": [
+    "593 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9a/c7c172-b901-4f1c-97b7-508fd9dd40c4/2022-09-17-20-24-48-IMG-2241.webp",
+  "rating": "7.5"
+}

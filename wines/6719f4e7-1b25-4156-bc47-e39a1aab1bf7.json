@@ -1,0 +1,46 @@
+{
+  "id": "6719f4e7-1b25-4156-bc47-e39a1aab1bf7",
+  "name": "Tentations Rosé",
+  "full-name": "Clos Cibonne Tentations Rosé 2019",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    },
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "426 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c.webp",
+  "rating": "7.25"
+}

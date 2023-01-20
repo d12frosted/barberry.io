@@ -1,0 +1,39 @@
+{
+  "id": "eb0e3f46-1417-4e4d-acc5-1fe5e6650a48",
+  "name": "Festejar! Rosé",
+  "full-name": "Patrick Bouju Festejar! Rosé 2021",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "820 UAH",
+    "930 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/eb/0e3f46-1417-4e4d-acc5-1fe5e6650a48/2022-10-15-13-04-56-39D20449-FB2C-4F3F-9121-51B05114536B-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2e729911-2c1c-42fb-a45b-bd5413fffbe7",
+  "name": "Rosé de Macération Champagne Grand Cru 'Bouzy'",
+  "full-name": "Benoît Lahaye Rosé de Macération Champagne Grand Cru 'Bouzy' NV",
+  "producer": {
+    "id": "a216dc89-bf4f-4215-937f-73c3b1de5918",
+    "name": "Benoît Lahaye"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3.5",
+  "prices": [
+    "1650 UAH"
+  ],
+  "available": 0,
+  "image": "images/2e/729911-2c1c-42fb-a45b-bd5413fffbe7/2021-06-01-07-39-13-26B5790F-F01B-43A5-821C-6C085F7C2AB0-1-105-c.webp",
+  "rating": "8.0"
+}

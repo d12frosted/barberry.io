@@ -1,0 +1,35 @@
+{
+  "id": "72663116-30b6-46b7-b74f-73483f66e1cc",
+  "name": "Cava Brut Rosé",
+  "full-name": "Hoya de Cadenas Cava Brut Rosé NV",
+  "producer": {
+    "id": "f918c836-e7f1-4d27-a7d6-707cd508dffe",
+    "name": "Hoya de Cadenas"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "325 UAH",
+    "228 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/72/663116-30b6-46b7-b74f-73483f66e1cc/2022-08-28-22-01-43-A5E97226-4BD3-4C99-AFED-F0CA7D0F4378-1-105-c.webp",
+  "rating": "7.0"
+}

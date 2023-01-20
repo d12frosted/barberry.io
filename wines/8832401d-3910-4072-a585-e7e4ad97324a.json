@@ -1,0 +1,54 @@
+{
+  "id": "8832401d-3910-4072-a585-e7e4ad97324a",
+  "name": "Conasbrancas",
+  "full-name": "Fedellos do Couto Conasbrancas 2018",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "52b39f44-fefb-471a-b4a8-918d11a4e575",
+      "name": "Doña Blanca"
+    },
+    {
+      "id": "552a1924-e540-47be-a682-8ce370758c36",
+      "name": "Godello"
+    },
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    },
+    {
+      "id": "c9dae548-8fc2-4c55-90a1-1a31b79719c3",
+      "name": "Treixadura"
+    },
+    {
+      "id": "b2d0ab0e-c81d-4b72-b329-9b57875e3a20",
+      "name": "Lado"
+    },
+    {
+      "id": "0497b784-e633-436a-ab78-dd931ce9b072",
+      "name": "Torrontés"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.6",
+  "prices": [
+    "598 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/88/32401d-3910-4072-a585-e7e4ad97324a/2022-05-08-16-12-33-253D2491-BB78-4510-A100-ECFB700CB3A8-1-102-o.webp",
+  "rating": "7.5"
+}

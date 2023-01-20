@@ -1,0 +1,34 @@
+{
+  "id": "02983870-d48b-4d04-909e-27b574fcd918",
+  "name": "Speziale Verduno Pelaverga",
+  "full-name": "Fratelli Alessandria Speziale Verduno Pelaverga 2019",
+  "producer": {
+    "id": "e90e01f5-5743-4ac5-accc-110f90981937",
+    "name": "Fratelli Alessandria"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "77d258f7-51aa-4d89-8b70-4a0edc8f936d",
+      "name": "Pelaverga Piccolo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/02/983870-d48b-4d04-909e-27b574fcd918/2022-12-01-07-40-46-E2F004CC-AEA6-409C-95FC-6D8938591C96-1-105-c.webp",
+  "rating": "7.5"
+}

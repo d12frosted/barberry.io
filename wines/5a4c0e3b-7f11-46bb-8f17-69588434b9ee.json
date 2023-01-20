@@ -1,0 +1,34 @@
+{
+  "id": "5a4c0e3b-7f11-46bb-8f17-69588434b9ee",
+  "name": "Liatiko",
+  "full-name": "Shima L.P Winery Liatiko 2020",
+  "producer": {
+    "id": "35491292-92b3-4eff-be00-a5f5ae8a1f2e",
+    "name": "Shima L.P Winery"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "800c8a1a-e3ed-4a34-9a91-79cc91b5c215",
+      "name": "Liatiko"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5a/4c0e3b-7f11-46bb-8f17-69588434b9ee/2022-07-30-10-02-06-20F034B2-17B9-4DD8-8883-770CCA5287D4-1-105-c.webp",
+  "rating": "5.0"
+}

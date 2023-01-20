@@ -1,0 +1,35 @@
+{
+  "id": "ea15e397-8149-405d-992d-63878cb0cebf",
+  "name": "Les Grands Blancs Grand Cru",
+  "full-name": "Robert Moncuit Les Grands Blancs Grand Cru NV",
+  "producer": {
+    "id": "7e19d0e5-c26c-4a0e-84be-5261974e6e83",
+    "name": "Robert Moncuit"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "3",
+  "prices": [
+    "1793 UAH",
+    "1125 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ea/15e397-8149-405d-992d-63878cb0cebf/2020-07-15-20-11-42-02DD7173-A487-4EB4-8D05-83FAD82D0BC7-1-105-c.webp",
+  "rating": "8.0"
+}

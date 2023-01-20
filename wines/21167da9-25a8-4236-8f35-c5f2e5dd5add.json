@@ -1,0 +1,38 @@
+{
+  "id": "21167da9-25a8-4236-8f35-c5f2e5dd5add",
+  "name": "Telescópico Garnacha",
+  "full-name": "Frontonio Telescópico Garnacha 2017",
+  "producer": {
+    "id": "02f16863-4e49-492a-ba27-c48e3184a954",
+    "name": "Frontonio"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "29130473-d8d1-49db-babe-f643921b8d0d",
+      "name": "Garnacha tinta"
+    },
+    {
+      "id": "9fdf4cc4-f6b2-4711-a14a-a19a634b9b7d",
+      "name": "Garnacha peluda"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "787 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/167da9-25a8-4236-8f35-c5f2e5dd5add/2022-08-18-09-09-19-B98DE533-1A37-4B5D-B7C2-6BB4CE9564EA-1-105-c.webp",
+  "rating": "7.4"
+}

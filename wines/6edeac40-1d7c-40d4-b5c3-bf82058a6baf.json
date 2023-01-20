@@ -1,0 +1,34 @@
+{
+  "id": "6edeac40-1d7c-40d4-b5c3-bf82058a6baf",
+  "name": "Barolo",
+  "full-name": "Grimaldi Barolo 2010",
+  "producer": {
+    "id": "b70877a6-4710-4cdc-9c42-abf921b5c722",
+    "name": "Grimaldi"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "1439 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6e/deac40-1d7c-40d4-b5c3-bf82058a6baf/2022-05-08-14-15-12-E35583A1-ED85-4E38-9081-34449DA9F8C9-1-105-c.webp",
+  "rating": "7.5"
+}

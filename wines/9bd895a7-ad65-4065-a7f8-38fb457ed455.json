@@ -1,0 +1,36 @@
+{
+  "id": "9bd895a7-ad65-4065-a7f8-38fb457ed455",
+  "name": "Bandita",
+  "full-name": "Cascina Tavijn Bandita 2016",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "3.2",
+  "prices": [
+    "880 UAH",
+    "1000 UAH",
+    "560 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c.webp",
+  "rating": "8.083333333333334"
+}

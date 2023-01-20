@@ -1,0 +1,34 @@
+{
+  "id": "47a0e9bc-69e9-4149-8f01-a06076e86a31",
+  "name": "Pinot Noir",
+  "full-name": "Johnson Estate Pinot Noir 2018",
+  "producer": {
+    "id": "e91269fa-d425-4efc-b44f-eb09d5dac032",
+    "name": "Johnson Estate"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.4",
+  "prices": [
+    "374 UAH"
+  ],
+  "available": 14.0,
+  "image": "images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o.webp",
+  "rating": "7.5"
+}

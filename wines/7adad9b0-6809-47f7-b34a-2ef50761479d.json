@@ -1,0 +1,35 @@
+{
+  "id": "7adad9b0-6809-47f7-b34a-2ef50761479d",
+  "name": "Etna Rosso A Rina",
+  "full-name": "Girolamo Russo Etna Rosso A Rina 2017",
+  "producer": {
+    "id": "b2257d8d-489c-4d2f-8a44-c080cbbae65e",
+    "name": "Girolamo Russo"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1.5",
+  "prices": [
+    "1150 UAH",
+    "759 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179.webp",
+  "rating": "8.0"
+}

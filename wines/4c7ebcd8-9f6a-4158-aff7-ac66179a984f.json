@@ -1,0 +1,35 @@
+{
+  "id": "4c7ebcd8-9f6a-4158-aff7-ac66179a984f",
+  "name": "Savagnin Ouillé",
+  "full-name": "Domaine du Pélican Savagnin Ouillé 2016",
+  "producer": {
+    "id": "99e4fd27-b7ad-41c5-8986-65e5ae9ab261",
+    "name": "Domaine du Pélican"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1431 UAH",
+    "1591 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c.webp",
+  "rating": "8.5"
+}

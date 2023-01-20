@@ -1,0 +1,39 @@
+{
+  "id": "74357d28-4b8a-4693-a176-3cf0b8a79a5a",
+  "name": "Marche Rosso di Gino",
+  "full-name": "Fattoria San Lorenzo Marche Rosso di Gino 2020",
+  "producer": {
+    "id": "60baeb1a-2703-459a-b212-7f73465efc67",
+    "name": "Fattoria San Lorenzo"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2e4fac16-aa60-4d28-871a-9ca3b52cf687",
+      "name": "Montepulciano"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "413 UAH",
+    "470 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190.webp",
+  "rating": "7.5"
+}

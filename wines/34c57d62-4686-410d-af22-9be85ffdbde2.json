@@ -1,0 +1,35 @@
+{
+  "id": "34c57d62-4686-410d-af22-9be85ffdbde2",
+  "name": "Sivi",
+  "full-name": "Kmetija Štekar Sivi 2021",
+  "producer": {
+    "id": "306b9b05-0245-4f1e-8576-0a34a5908ad1",
+    "name": "Kmetija Štekar"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.9",
+  "prices": [
+    "576 UAH",
+    "660 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/34/c57d62-4686-410d-af22-9be85ffdbde2/2022-12-31-14-00-47-F7777E9F-1B6B-4385-A389-D2D9ABEF9CFD-1-105-c.webp",
+  "rating": "7.45"
+}

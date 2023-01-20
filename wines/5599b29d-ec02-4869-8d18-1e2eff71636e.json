@@ -1,0 +1,53 @@
+{
+  "id": "5599b29d-ec02-4869-8d18-1e2eff71636e",
+  "name": "Lomba dos Ares",
+  "full-name": "Fedellos do Couto Lomba dos Ares 2017",
+  "producer": {
+    "id": "0608acc9-e36c-4cff-970e-0f2489d3011a",
+    "name": "Fedellos do Couto"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "4cec1a78-80f4-44a6-b7f3-9dde6df6f44f",
+      "name": "Mencía"
+    },
+    {
+      "id": "9b5f0504-e78c-483e-a0dc-b13967feb92f",
+      "name": "Mouratón"
+    },
+    {
+      "id": "b6846384-2132-4c97-b5c9-360acd53f497",
+      "name": "Alicante Henri Bouschet"
+    },
+    {
+      "id": "18b53271-24c4-4939-9394-48b63304001a",
+      "name": "Caiño"
+    },
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "634 UAH",
+    "676 UAH",
+    "598 UAH",
+    "650 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o.webp",
+  "rating": "7.875"
+}

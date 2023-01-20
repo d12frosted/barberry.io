@@ -1,0 +1,38 @@
+{
+  "id": "8208a078-db47-44da-9bbb-054b44d6c5d9",
+  "name": "Fleur de L'Europe Brut Nature (2014)",
+  "full-name": "Fleury Fleur de L'Europe Brut Nature (2014) NV",
+  "producer": {
+    "id": "486eb302-99a3-467d-90fa-5042b5c961cd",
+    "name": "Fleury"
+  },
+  "vintage": "NV",
+  "base-vintage": "2014",
+  "degorgee": "October 2020",
+  "sur-lie": "~63 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1836 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/82/08a078-db47-44da-9bbb-054b44d6c5d9/2022-12-27-07-18-13-26541173-0FA5-4A77-B6B6-F6872813BFD9-1-105-c.webp",
+  "rating": "8.25"
+}

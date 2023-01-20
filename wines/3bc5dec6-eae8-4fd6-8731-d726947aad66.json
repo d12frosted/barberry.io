@@ -1,0 +1,34 @@
+{
+  "id": "3bc5dec6-eae8-4fd6-8731-d726947aad66",
+  "name": "Garg'n'go",
+  "full-name": "La Biancara Garg'n'go 2019",
+  "producer": {
+    "id": "b896c5d5-53f9-4a09-864f-3cf25810c9ad",
+    "name": "La Biancara"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "1.3",
+  "prices": [
+    "515 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3b/c5dec6-eae8-4fd6-8731-d726947aad66/2021-07-23-07-51-53-IMG-2660.webp",
+  "rating": "7.0"
+}

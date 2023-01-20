@@ -1,0 +1,34 @@
+{
+  "id": "2b454e2e-09a0-4b48-88d9-36a8f4d759eb",
+  "name": "Vin Blanc",
+  "full-name": "Clos du Tue-Boeuf Vin Blanc 2019",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13.35",
+  "sugar": "1",
+  "prices": [
+    "450 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c.webp",
+  "rating": "7.5"
+}
