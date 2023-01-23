@@ -1,0 +1,42 @@
+{
+  "id": "b94d5f75-4f4d-4e0a-b2fc-c1e919e0712f",
+  "name": "Prestige Millésime la Matinale",
+  "full-name": "Tarlant Prestige Millésime la Lutétienne 2003",
+  "producer": {
+    "id": "ecaa59a5-7b39-48ca-bf6c-a3fd6cb2c7be",
+    "name": "Tarlant"
+  },
+  "vintage": "2003",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1699 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b9/4d5f75-4f4d-4e0a-b2fc-c1e919e0712f/2023-01-23-21-32-10-0DB45A5D-0DBB-42BB-880E-C71694E9206D-1-105-c.webp",
+  "rating": "NA"
+}

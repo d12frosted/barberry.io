@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ee5193a3-7a3f-41e3-a9ce-3e541cbfd784.html">
+    <img class="flex-bottle" src="/images/ee/5193a3-7a3f-41e3-a9ce-3e541cbfd784/2023-01-23-21-35-31-F986111A-E217-492D-9DD3-89485B29D4A4-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Chateau de Chassagne-Montrachet Rouge - 2015</section>
+  </a>
+
+</div>
+#+end_export
