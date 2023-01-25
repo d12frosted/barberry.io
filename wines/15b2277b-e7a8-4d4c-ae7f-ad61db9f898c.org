@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: 0
 - Price :: 785 UAH, 836 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 SP68 is the name of the road that cuts through Arianna's original vineyard in Vittoria. This road has existed for hundreds of years already. And the wine acquired this name because Arianna sees wine as a journey.
 
@@ -35,7 +35,11 @@ I make natural wine, but this is a term I'm beginning to be less and less comfor
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-01-24 - ☆ 7.50
+
+Unfortunately, this bottle seemed a little bit spoiled. I suspect it had cork issues that resulted in premature oxidation. It turned copper in colour, and my favourite field flowers were replaced by bruised apples, buckwheat honey, wax and mushrooms. And while it shows some complexity in the nose, the palate lacks depth and balance. The taste is too bitter and too short. Despite the obvious issue, it was still good and there was enough to talk about.
+
+Wine #2 on [[barberry:/posts/2023-01-24-il-pirata][Il Pirata Vol. 3]].
 
 ** Related
 
@@ -129,6 +133,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
+    <img class="flex-bottle" src="/images/7a/3f478e-ab77-465c-9ef5-80b8e7804817/2023-01-18-21-02-59-IMG-4452@512.webp"></img>
+    <section class="h">Graffetta</section>
+    <section class="h text-bolder">Grillo - 2019</section>
   </a>
 
 </div>
