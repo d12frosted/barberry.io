@@ -1,0 +1,34 @@
+{
+  "id": "026717f4-446c-4982-9dce-66031fcf6294",
+  "name": "Hüpnos",
+  "full-name": "Sous Le Végétal Hüpnos 2019",
+  "producer": {
+    "id": "96e58250-b3cb-4ced-a7b8-013bc94d1aed",
+    "name": "Sous Le Végétal"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "6d2fc50a-85bb-4a37-9c7e-91890f0598ec",
+      "name": "Muscat de Samos"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.4",
+  "prices": [
+    "1092 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/02/6717f4-446c-4982-9dce-66031fcf6294/2023-01-24-07-04-26-IMG-4546.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "c641c3ee-8721-4752-abe8-692e1e2e91b3",
+  "name": "Ruje Rosso",
+  "full-name": "Zidarich Ruje Rosso 2013",
+  "producer": {
+    "id": "36d22abe-5b3e-46a4-9934-78c312eda939",
+    "name": "Zidarich"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "f452236b-5fe5-42bc-b3d4-955603928557",
+      "name": "Terrano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.7",
+  "prices": [
+    "2136 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541.webp",
+  "rating": "NA"
+}

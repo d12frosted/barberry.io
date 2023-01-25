@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e3bd7506-3b14-453f-a2c8-4646e2e7a87f.html">
+    <img class="flex-bottle" src="/images/e3/bd7506-3b14-453f-a2c8-4646e2e7a87f/2023-01-24-07-06-24-IMG-4547@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">La toile de Fond - 2021</section>
+  </a>
+
+</div>
+#+end_export

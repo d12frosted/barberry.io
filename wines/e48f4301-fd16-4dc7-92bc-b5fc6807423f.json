@@ -1,0 +1,34 @@
+{
+  "id": "e48f4301-fd16-4dc7-92bc-b5fc6807423f",
+  "name": "Origin Riesling Macération",
+  "full-name": "J.M Dreyer Origin Riesling Macération 2021",
+  "producer": {
+    "id": "92c049ed-0591-418d-8f2b-8d20726b8654",
+    "name": "J.M Dreyer"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.3",
+  "prices": [
+    "866 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e4/8f4301-fd16-4dc7-92bc-b5fc6807423f/2023-01-24-07-12-40-IMG-4564.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e3bd7506-3b14-453f-a2c8-4646e2e7a87f",
+  "name": "La toile de Fond",
+  "full-name": "Fond Cyprès La toile de Fond 2021",
+  "producer": {
+    "id": "a328db33-47e1-4fb6-a80e-2c7dc3c2b4cd",
+    "name": "Fond Cyprès"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.5",
+  "prices": [
+    "586 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e3/bd7506-3b14-453f-a2c8-4646e2e7a87f/2023-01-24-07-06-24-IMG-4547.webp",
+  "rating": "NA"
+}

@@ -21,19 +21,25 @@ Bitter herbs (thyme and wormwood), cranberry and sweat. Light body with crushing
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
+  <a class="flex-item flex-item-left" href="/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7.html">
+    <img class="flex-bottle" src="/images/47/cb3e57-2e4d-4f25-91e2-b24c322c00b7/2023-01-24-07-08-05-IMG-4552@512.webp"></img>
+    <section class="h">Bencze</section>
+    <section class="h text-bolder">Virgo - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
     <img class="flex-bottle" src="/images/60/eb654c-b828-4c1f-adde-9ebab8360b5d/2022-08-12-11-47-56-IMG-1431@512.webp"></img>
     <section class="h">Bencze</section>
     <section class="h text-bolder">Riesling - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+  <a class="flex-item flex-item-left" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
     <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c@512.webp"></img>
     <section class="h">Bencze</section>
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b564a7b1-37b0-48c2-b781-16103bc016c1.html">
+  <a class="flex-item flex-item-right" href="/wines/b564a7b1-37b0-48c2-b781-16103bc016c1.html">
     <img class="flex-bottle" src="/images/b5/64a7b1-37b0-48c2-b781-16103bc016c1/2022-09-03-16-40-27-720ECA62-EA21-4D6B-9645-452D5C892AE5-1-105-c@512.webp"></img>
     <section class="h">Bencze</section>
     <section class="h text-bolder">Atlas - 2019</section>

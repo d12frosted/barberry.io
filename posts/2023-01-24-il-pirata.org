@@ -1,3 +1,6 @@
+#+DOWNLOADED: file:/Users/d12frosted/IMG_4584.jpeg @ 2023-01-25 07:03:44
+[[file:/images/2023-01-24-il-pirata/2023-01-25-07-03-44-IMG-4584.webp]]
+
 One of my favourite parts of growing anything is the moment it sprouts. You feel relief. But you also hear the fear beating somewhere in the back of your heart. Cause the sprout is only beginning. Your decisions affect its life in non-binary ways. And I can say the same about our wine-tasting events. We plant the idea. And it grows. I know, I know. This mumbo-jumbo sounds like a dumb quote from social media. But Sicily has a special meaning for me. So I get sentimental when it comes to this topic. You see, I want to share my personal and sometimes highly intimate perception of this land and its people.
 
 So what's the deal with this seed and sprout business? There was an idea to gather for a wine-tasting event dedicated to Sicilian wines, but instead, we have two. Making a blind copy was not an option for me. Partially because some of the bottles are not available anymore. But also because different participants have different tastes. Yet despite all Sicilian diversity, the Ukrainian market has its own state. And all things considered, I decided to repeat two bottles. A'Puddara - because several people became curious about it after reading our notes from the previous event. And Corinto because Aeolian islands deserve to be present at every event dedicated to Sicily.
@@ -80,7 +83,7 @@ It's a 60-40 blend of Zibibbo and Albanello from 15 years old vines growing on r
 - location: Fontane, Vittoria, Ragusa province, South-Eastern Sicily, Italy
 - alcohol: 10.5
 - sugar: 1
-- price: 2175 UAH
+- price: 2489 UAH
 
 After spending some time with Arianna Occhipinti, let’s give a visit to her uncle, Guisto Occhipinti. Azienda Agricola COS was founded in 1980 by three friends: Giambattista Cilia, Giusto Occhipinti, and Cirino Strano. The name is just an acronym of their family names (in case you didn't notice).
 
@@ -189,25 +192,44 @@ San Lorenzo is set outside Randazzo on the lower slopes of the volcano, 700 to 8
 :ID:                     c80d0750-44cd-4536-ae63-979bf02d3581
 :END:
 
+1. [[barberry:/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817][Graffetta Grillo 2019]]
+2. [[barberry:/wines/15b2277b-e7a8-4d4c-ae7f-ad61db9f898c][Arianna Occhipinti SP68 Bianco 2017]]
+3. [[barberry:/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8][COS Pithos Bianco 2012]]
+4. [[barberry:/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719][Tenuta di Fessina A'Puddara Etna Bianco 2010]]
+5. [[barberry:/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240][COS Cerasuolo di Vittoria Classico 2010]]
+6. [[barberry:/wines/aba30227-d546-4ce1-94ac-75fa356f7b19][Tenuta di Castellaro Corinto 2017]]
+7. [[barberry:/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82][Girolamo Russo Etna Rosso San Lorenzo 2017]]
+
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|--------------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B      |    3.70 |    3.80 |    4.00 |  *4.10* |    4.00 |    4.00 |  +3.80+ |
+| Oleksandr R  |    3.90 |    3.80 |  *4.00* |    3.60 |    4.10 |    4.10 |  +3.60+ |
+| Andrii S     |    3.60 |    3.70 |    4.10 |    4.40 |  *4.20* |    4.00 |  +3.70+ |
+| Viktoriya Zh |    3.70 |  *4.00* |  +3.80+ |    4.40 |    4.10 |    4.30 |    4.00 |
+| Tetiana S    |    3.80 |    3.80 |  +3.60+ |    4.00 |    3.70 |  *4.20* |    4.00 |
+| Dmytro S     |    3.90 |  +3.60+ |    4.10 |    4.00 |  *4.10* |    4.20 |    4.00 |
+| Lena M       |  +3.30+ |    3.40 |    4.10 |    4.10 |  *4.20* |    3.90 |    4.00 |
+| Oleksii K    |    3.40 |    3.60 |  *4.20* |    4.10 |    4.00 |  +3.60+ |    3.70 |
+| Oleksandr Y  |    3.70 |    3.80 |  *4.20* |    4.00 |    4.10 |    4.00 |  +3.60+ |
+| Elvira K     |  +3.70+ |    3.80 |    4.10 |  *4.30* |    4.00 |    4.10 |    3.80 |
+| Juli S       |    3.90 |  +3.00+ |    3.40 |    3.85 |  *4.60* |    4.10 |    4.30 |
+| Boris B      |    3.80 |  +3.90+ |    4.20 |  *4.20* |    4.50 |    4.00 |    4.20 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | amean  |   sdev | favourite | outcast |  price | QPR      |
-|---------+--------+--------+-----------+---------+--------+----------|
-| Wine #1 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #2 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #3 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #4 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #5 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #6 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #7 | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+|         |  amean |   sdev | favourite | outcast |   price |      QPR |
+|---------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.70 | 0.0333 |      0.00 |    2.00 |  890.00 |   1.7339 |
+| Wine #2 |   3.68 | 0.0647 |      1.00 |    3.00 |  836.00 |   1.8022 |
+| Wine #3 |   3.98 | 0.0597 |      3.00 |    2.00 | 2489.00 |   0.9404 |
+| Wine #4 |   4.09 | 0.0476 |      3.00 |    0.00 | 2190.00 |   1.2513 |
+| Wine #5 | *4.13* | 0.0506 |    *4.00* |    0.00 | 3032.00 |   0.9695 |
+| Wine #6 |   4.04 | 0.0291 |      1.00 |    1.00 | 1250.00 | *2.0447* |
+| Wine #7 |   3.89 | 0.0474 |      0.00 |  +4.00+ | 1578.00 |   1.2936 |
 
 How to read this table:
 

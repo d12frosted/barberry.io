@@ -1,0 +1,34 @@
+{
+  "id": "ca6689dc-9a11-4587-a57c-09edf6f94008",
+  "name": "Palo Blanco",
+  "full-name": "Envínate Palo Blanco 2019",
+  "producer": {
+    "id": "046c8a68-0e80-40de-a98b-ba9865ab2160",
+    "name": "Envínate"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1092 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ca/6689dc-9a11-4587-a57c-09edf6f94008/2023-01-24-07-10-45-IMG-4560.webp",
+  "rating": "NA"
+}
