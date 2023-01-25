@@ -37,13 +37,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Prulke - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8830f571-56c7-4b82-981e-f29819b31004.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Zidarich</section>
-    <section class="h text-bolder">Ruje - 2013</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
+  <a class="flex-item flex-item-right" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
     <img class="flex-bottle" src="/images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Ruje Rosso - 2013</section>

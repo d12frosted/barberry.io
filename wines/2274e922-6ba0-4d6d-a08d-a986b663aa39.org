@@ -39,19 +39,13 @@ Elegant and interesting orange. Brine notes with thyme, wormwood and other herbs
     <section class="h text-bolder">Prulke - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8830f571-56c7-4b82-981e-f29819b31004.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Zidarich</section>
-    <section class="h text-bolder">Ruje - 2013</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
+  <a class="flex-item flex-item-right" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
     <img class="flex-bottle" src="/images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Ruje Rosso - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
+  <a class="flex-item flex-item-left" href="/wines/56317de6-f3c6-43f9-8efc-6537b23750c5.html">
     <img class="flex-bottle" src="/images/56/317de6-f3c6-43f9-8efc-6537b23750c5/2022-06-08-08-50-39-34C9B22D-AED6-42AE-8B31-3E4AD017AB8A-1-105-c@512.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2009</section>
