@@ -44,7 +44,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 | Austria        |     4 | 564.64 UAH   |  7.13 | 2.4144 |
 | South Africa   |     3 | 614.36 UAH   |  7.58 | 2.9190 |
 | Argentina      |     3 | 562.86 UAH   |  7.90 | 4.3237 |
-| Czech Republic |     2 | 603.35 UAH   |  7.50 | 3.2012 |
+| Czech Republic |     2 | 616.73 UAH   |  7.50 | 3.0489 |
 | Georgia        |     2 | 646.50 UAH   |  7.86 | 3.4607 |
 | Portugal       |     1 | 518.00 UAH   |  7.00 | 2.2455 |
 | Ukraine        |     1 | 560.00 UAH   |  5.50 | 0.7898 |
@@ -71,7 +71,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 | vintage | count | p avg        | r rms |    qpr |
 |---------+-------+--------------+-------+--------|
 |    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
-|    2020 |    22 | 728.08 UAH   |  7.04 | 2.7033 |
+|    2020 |    22 | 729.30 UAH   |  7.04 | 2.6872 |
 |    2019 |    12 | 848.51 UAH   |  7.74 | 2.8363 |
 |    2018 |    16 | 1 102.58 UAH |  8.01 | 2.5451 |
 |    2017 |     7 | 1 011.86 UAH |  7.41 | 1.8298 |
@@ -102,15 +102,15 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
-| Pinot Noir                   |    12 | 1 219.80 UAH |  7.88 | 2.6206 |
+| Pinot Noir                   |    12 | 1 222.03 UAH |  7.88 | 2.5902 |
 | Chardonnay                   |    12 | 902.33 UAH   |  7.35 | 2.9654 |
 | Xarel-lo                     |     5 | 383.45 UAH   |  6.77 | 3.4737 |
 | Macabeo                      |     5 | 360.26 UAH   |  6.66 | 3.4760 |
 | Malvasia di Candia Aromatica |     4 | 1 149.29 UAH |  7.92 | 2.6115 |
-| Merlot                       |     4 | 775.89 UAH   |  7.90 | 3.2828 |
+| Merlot                       |     4 | 782.58 UAH   |  7.90 | 3.2095 |
 | Parellada                    |     4 | 369.07 UAH   |  6.46 | 3.0769 |
 | Palomino Fino                |     3 | 1 422.87 UAH |  8.12 | 2.0451 |
-| Cabernet Sauvignon           |     3 | 792.52 UAH   |  7.93 | 3.4158 |
+| Cabernet Sauvignon           |     3 | 801.45 UAH   |  7.93 | 3.3216 |
 | Sauvignon Blanc              |     3 | 753.26 UAH   |  7.21 | 2.2738 |
 | Vidiano                      |     2 | 750.00 UAH   |  3.69 | 0.3251 |
 | Grillo                       |     2 | 791.00 UAH   |  7.90 | 2.9998 |
@@ -177,8 +177,8 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Moscato Giallo               |     1 | 1 290.00 UAH |  8.00 | 1.8605 |
 | Vermentino                   |     1 | 1 290.00 UAH |  8.00 | 1.8605 |
 | Cortese                      |     1 | 983.00 UAH   |  8.00 | 2.4415 |
-| Saint-Laurent                |     1 | 413.00 UAH   |  7.50 | 4.0160 |
-| Zweigelt                     |     1 | 413.00 UAH   |  7.50 | 4.0160 |
+| Saint-Laurent                |     1 | 439.77 UAH   |  7.50 | 3.7716 |
+| Zweigelt                     |     1 | 439.77 UAH   |  7.50 | 3.7716 |
 | Sauvignon Gris               |     1 | 1 057.48 UAH |  8.00 | 2.2695 |
 | Cabernet Franc               |     1 | 1 126.75 UAH |  8.00 | 2.1300 |
 | Field Blend                  |     1 | 603.00 UAH   |  7.50 | 2.7506 |
@@ -319,7 +319,7 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-12 | Australia      | [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]             | [[barberry:/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817][Momento Mori Fistful of Flowers 2020]] |    2020 | 8.00 | 1.8605 |
 | 2022-07-08 | Hungary        | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                   | [[barberry:/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195][Hummel Villányi Portugieser 2020]]   |    2020 | 7.25 | 2.9589 |
 | 2022-07-08 | Italy          | [[barberry:/producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62][Cascina Degli Ulivi]]      | [[barberry:/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87][Cascina Degli Ulivi Filagnotti 2016]] |    2016 | 8.00 | 2.4415 |
-| 2022-07-07 | Czech Republic | [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]              | [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Krasna Hora Ruby 2020]]              |    2020 | 7.50 | 4.0160 |
+| 2022-07-07 | Czech Republic | [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]              | [[barberry:/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d][Krasna Hora Ruby 2020]]              |    2020 | 7.50 | 3.7716 |
 | 2022-07-07 | Australia      | [[barberry:/producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2][Jacob's Creek]]            | [[barberry:/wines/764bd923-7614-4d69-ac9c-556694bb1c9f][Jacob's Creek Sparkling Rosé NV]]    |      NV | 7.00 | 2.2586 |
 | 2022-07-05 | France         | [[barberry:/producers/3d5928c7-97f8-4a20-bad4-14a91e1ec7c9][Éric Chevalier]]           | [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]         |    2018 | 8.00 | 2.2695 |
 | 2022-07-05 | Australia      | [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]]         | [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Patrick Sullivan Rain Field Blend 2019]] |    2019 | 8.00 | 2.1300 |
