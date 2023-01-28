@@ -1,0 +1,39 @@
+{
+  "id": "910ef5ed-ce2f-4745-aa84-cf3d194c2f87",
+  "name": "Blandine Le Blanc",
+  "full-name": "Château du Cèdre Blandine Le Blanc 2018",
+  "producer": {
+    "id": "f8704b96-593e-4519-bc35-13baced0aa44",
+    "name": "Château du Cèdre"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "a98e6c07-1390-4440-8a69-57984ec8c13b",
+      "name": "Colombard"
+    },
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "269 UAH",
+    "299 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/91/0ef5ed-ce2f-4745-aa84-cf3d194c2f87/2023-01-27-11-47-30-IMG-4610.webp",
+  "rating": "NA"
+}

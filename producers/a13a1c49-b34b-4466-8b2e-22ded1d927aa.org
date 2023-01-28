@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c9ff8dd9-ef3c-42fc-9b91-085d842f9586.html">
+    <img class="flex-bottle" src="/images/c9/ff8dd9-ef3c-42fc-9b91-085d842f9586/2023-01-27-11-40-37-IMG-4603@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">La Marina Sauvignon Blanc - 2021</section>
+  </a>
+
+</div>
+#+end_export

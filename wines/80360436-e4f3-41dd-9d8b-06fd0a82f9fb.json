@@ -1,0 +1,35 @@
+{
+  "id": "80360436-e4f3-41dd-9d8b-06fd0a82f9fb",
+  "name": "les Mariés Sauvignon Blanc",
+  "full-name": "Domaine de La Baume les Mariés Sauvignon Blanc 2021",
+  "producer": {
+    "id": "6dc0d187-6318-4d06-8ef5-7fb321e32200",
+    "name": "Domaine de La Baume"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "280 UAH",
+    "356 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "10a4a2d4-c490-41ea-892e-de1b50575da6",
+  "name": "Assyrtiko",
+  "full-name": "Skouras Assyrtiko 2020",
+  "producer": {
+    "id": "c67395df-0522-4912-9cb8-a8f09ecea8dd",
+    "name": "Skouras"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "d7292622-98ad-427b-bf58-15ecfdab8bf7",
+      "name": "Assyrtiko"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "508 UAH",
+    "565 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/10/a4a2d4-c490-41ea-892e-de1b50575da6/2023-01-27-11-53-08-IMG-4612.webp",
+  "rating": "NA"
+}

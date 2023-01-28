@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/10a4a2d4-c490-41ea-892e-de1b50575da6.html">
+    <img class="flex-bottle" src="/images/10/a4a2d4-c490-41ea-892e-de1b50575da6/2023-01-27-11-53-08-IMG-4612@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Assyrtiko - 2020</section>
+  </a>
+
+</div>
+#+end_export

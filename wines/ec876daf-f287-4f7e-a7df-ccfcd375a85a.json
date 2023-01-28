@@ -1,0 +1,34 @@
+{
+  "id": "ec876daf-f287-4f7e-a7df-ccfcd375a85a",
+  "name": "Sauvignon Blanc",
+  "full-name": "Whistling Track Sauvignon Blanc 2022",
+  "producer": {
+    "id": "481f7b3e-2265-4a5d-bb41-56639bd8858d",
+    "name": "Whistling Track"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "458 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/ec/876daf-f287-4f7e-a7df-ccfcd375a85a/2023-01-27-11-58-33-IMG-4616.webp",
+  "rating": "0"
+}
