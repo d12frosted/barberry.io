@@ -1,15 +1,15 @@
 {
-  "id": "71d10b95-a6a2-4136-acfc-5edd0a1b2ed0",
-  "name": "Cuvee des Caudalies Grand Cru Blanc De Blancs (d2019)",
-  "full-name": "De Sousa Cuvee des Caudalies Grand Cru Blanc De Blancs (d2019) NV",
+  "id": "66132041-ecfd-4d79-8f67-6e7aa512947b",
+  "name": "Réserve Grand Cru Blanc de Blancs (d2021)",
+  "full-name": "De Sousa Réserve Grand Cru Blanc de Blancs (d2021) NV",
   "producer": {
     "id": "6c0d7068-c072-49c5-980a-9f45b4d24541",
     "name": "De Sousa"
   },
   "vintage": "NV",
   "base-vintage": "N/A",
-  "degorgee": "[2019-05-06 Mon]",
-  "sur-lie": "48 months",
+  "degorgee": "[2021-12-13 Mon]",
+  "sur-lie": "N/A",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -26,9 +26,9 @@
   "alcohol": "12.5",
   "sugar": "5",
   "prices": [
-    "1947 UAH"
+    "2336 UAH"
   ],
-  "available": 0.0,
-  "image": "images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a.webp",
-  "rating": "8.5"
+  "available": 1.0,
+  "image": "images/66/132041-ecfd-4d79-8f67-6e7aa512947b/2023-01-28-09-28-41-A0772CD8-C3A7-4332-A74B-D27F697E9FAC-1-105-c.webp",
+  "rating": "NA"
 }

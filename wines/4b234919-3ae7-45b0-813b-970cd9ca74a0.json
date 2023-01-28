@@ -1,0 +1,34 @@
+{
+  "id": "4b234919-3ae7-45b0-813b-970cd9ca74a0",
+  "name": "Poulsard en Emphore",
+  "full-name": "Andre et Mireille Tissot Poulsard en Emphore 2018",
+  "producer": {
+    "id": "e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8",
+    "name": "Andre et Mireille Tissot"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1684 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-01-28-09-30-11-FB4EE63E-D0AF-45D6-9E0A-1958E4D304D8-1-105-c.webp",
+  "rating": "NA"
+}

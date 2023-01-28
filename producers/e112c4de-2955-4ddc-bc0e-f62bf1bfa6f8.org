@@ -27,7 +27,13 @@
     <section class="h text-bolder">Pinot Noir Sous la Tour - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-01-28-09-30-11-FB4EE63E-D0AF-45D6-9E0A-1958E4D304D8-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Poulsard en Emphore - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
     <section class="h">★ 7.25</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
