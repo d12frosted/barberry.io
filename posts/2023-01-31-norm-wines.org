@@ -8,10 +8,10 @@ I enjoy drinking wine. Usually, it's an intellectual activity. But I feel no sha
 2. [[barberry:/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb][Domaine de La Baume les Mariés Sauvignon Blanc 2021]]
 3. [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tasca Tenuta Regaleali Nozze d'Oro 2018]]
 4. [[barberry:/wines/64290061-6185-4c40-bc35-6ace93d2334c][Frontonio Microcósmico 2017]]
-5. [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
-6. [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
-7. [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
-8. [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
+5. [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
+6. [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
+7. [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
+8. [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
 
 Important disclaimer. I specifically omitted wines that are not available in the shops today. Also, I wanted to include stores other than Good Wine, so we have Silpo, OK Wine and Roots.
 
@@ -60,6 +60,8 @@ Despite the price, it's made in traditional style (e.g. with second fermentation
 This is the bottle that joined the lineup at the last moment. Initially, I wanted to bring another wine from Silpo, but then I tasted this Sauvignon Blanc and figured that I'll buy at least a case of this wine (already waiting for my delivery). Besides, I think it would be nice for some people to taste Sauvignon Blanc other than from Marlborough for a change.
 
 Not much is known about the technical aspect of Les Mariés. The grapes are sourced from somewhere in Languedoc-Roussillon from vines growing on clay-limestone soils. The fruits are pressed with a pneumatic press, fermented in cold temperatures and aged in tanks/vats.
+
+So what do we have after les Mariés (the wedding)?
 
 * Tasca Tenuta Regaleali Nozze d'Oro 2018
 :PROPERTIES:
@@ -211,22 +213,23 @@ After so many wines, we need a hard reset. And in my opinion, a glass of Cava se
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
 |         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
 |---------+--------+--------+--------+-----------+---------+--------+----------|
-| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 308.00 | *0.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 280.00 | *0.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 548.00 | *0.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 474.00 | *0.0000* |
+| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 374.00 | *0.0000* |
+| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 345.00 | *0.0000* |
+| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 413.00 | *0.0000* |
+| Wine #8 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 325.00 | *0.0000* |
 
 How to read this table:
 
