@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 1.4
 - Price :: 374 UAH
-- Cellar :: 16 bottles
+- Cellar :: 13 bottles
 
 ** Ratings
 
@@ -17,14 +17,62 @@
 
 Good Pinot Noir from Marlborough. Typical bouquet of ripe strawberries, underbrush with some hints of red flowers and bloody meat. A definite surprise is a fresh (aka not tired) mouthfeel. Good balance and structure. Ripe and medium-light body. Flavours of ripe strawberries, raw meat and tomato stem. Did I mention a good price?
 
+*** 2023-01-31 - ☆ 7.50
+
+Wine #5 on [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]].
+
+I have a confession to make. In December, we finished 22 bottles of this wine. This is exactly the style of wine that I love to drink on a daily basis. Typical NZ Pinot Noir. Ripe strawberries, underbrush and raw meat. Medium-light, juicy and slightly mineral. Lovely. It's a shame that the 5+1 offer is over.
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/29553f8f-4097-4388-8f0b-e7719b224831.html">
+  <a class="flex-item flex-item-left" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875@512.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/29553f8f-4097-4388-8f0b-e7719b224831.html">
     <img class="flex-bottle" src="/images/29/553f8f-4097-4388-8f0b-e7719b224831/2022-11-27-10-26-36-IMG-3448@512.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Las Migas - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64290061-6185-4c40-bc35-6ace93d2334c.html">
+    <img class="flex-bottle" src="/images/64/290061-6185-4c40-bc35-6ace93d2334c/2023-01-27-11-51-27-IMG-4618@512.webp"></img>
+    <section class="h">Frontonio</section>
+    <section class="h text-bolder">Microcósmico - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a.html">
+    <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb.html">
+    <img class="flex-bottle" src="/images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606@512.webp"></img>
+    <section class="h">Domaine de La Baume</section>
+    <section class="h text-bolder">les Mariés Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734@512.webp"></img>
+    <section class="h">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2023-01-22-10-41-56-42C3835B-64E7-4633-AFFF-E3D2E3219F33-1-105-c@512.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
 </div>

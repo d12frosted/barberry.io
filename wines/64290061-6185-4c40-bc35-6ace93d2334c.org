@@ -9,11 +9,15 @@
 - Alcohol :: 14
 - Sugar :: NA
 - Price :: 474 UAH, 527 UAH, 620 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-01-31 - ☆ 7.50
+
+Wine #4 on [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]].
+
+A little bit too shy (especially after [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Nozze d'Oro]]) but opens up beautifully. It's hard to guess maceration here, but no wonder - the skin contact was short, and (I guess) the age kicks in. Amber (from the cherry tree), mildew, mushrooms and a little bit of lime. The acidity is good. The palate is fresh and juicy, and the aftertaste is long and delicious.
 
 ** Related
 
@@ -23,6 +27,48 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/21/167da9-25a8-4236-8f35-c5f2e5dd5add/2022-08-18-09-09-19-B98DE533-1A37-4B5D-B7C2-6BB4CE9564EA-1-105-c@512.webp"></img>
     <section class="h">Frontonio</section>
     <section class="h text-bolder">Telescópico Garnacha - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875@512.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31.html">
+    <img class="flex-bottle" src="/images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o@512.webp"></img>
+    <section class="h">Johnson Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a.html">
+    <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb.html">
+    <img class="flex-bottle" src="/images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606@512.webp"></img>
+    <section class="h">Domaine de La Baume</section>
+    <section class="h text-bolder">les Mariés Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734@512.webp"></img>
+    <section class="h">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2023-01-22-10-41-56-42C3835B-64E7-4633-AFFF-E3D2E3219F33-1-105-c@512.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
 </div>

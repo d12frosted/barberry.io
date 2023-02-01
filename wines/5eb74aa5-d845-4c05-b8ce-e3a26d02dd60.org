@@ -4,12 +4,12 @@
 - Type :: White Sparkling, Brut nature
 - Producer :: [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]
 - Vintage :: 2020
-- Location :: Spain, Cava
+- Location :: Spain, Cava DO
 - Grapes :: Xarel-lo
 - Alcohol :: 11.5
 - Sugar :: NA
 - Price :: 325 UAH, 432 UAH, 430 UAH, 378 UAH
-- Cellar :: 12 bottles
+- Cellar :: 11 bottles
 
 100% Xarel-lo 2020.
 
@@ -22,6 +22,12 @@ An interesting Cava, especially considering its price. Neat and friendly combina
 *** 2022-12-25 - ☆ 7.50
 
 Really nice, fresh and precise Cava that managed to sustain its fruitness. Apples, grapefruit, pickles and brioche. Delicate, not complex, friendly and just tasty.
+
+*** 2023-01-31 - ☆ 7.50
+
+Wine #8 on [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]].
+
+One of my favourite Cava available on the UA market these days. It's a shame that the 5+1 offer has ended, but luckily I've stashed a few cases for my own good. It's fresh and expressive, it shows good fruit and sur lie influence. And it's not vulgar! I prefer to decant it and serve it a little bit warmer.
 
 ** Related
 
@@ -39,16 +45,58 @@ Really nice, fresh and precise Cava that managed to sustain its fruitness. Apple
     <section class="h text-bolder">Lluerna - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
+  <a class="flex-item flex-item-left" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875@512.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
     <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp"></img>
     <section class="h">Weingut Brand</section>
     <section class="h text-bolder">Pet Nat Rosé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9e508cc6-0fed-456f-86e2-82d15cecccef.html">
+  <a class="flex-item flex-item-left" href="/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31.html">
+    <img class="flex-bottle" src="/images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o@512.webp"></img>
+    <section class="h">Johnson Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64290061-6185-4c40-bc35-6ace93d2334c.html">
+    <img class="flex-bottle" src="/images/64/290061-6185-4c40-bc35-6ace93d2334c/2023-01-27-11-51-27-IMG-4618@512.webp"></img>
+    <section class="h">Frontonio</section>
+    <section class="h text-bolder">Microcósmico - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a.html">
+    <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb.html">
+    <img class="flex-bottle" src="/images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606@512.webp"></img>
+    <section class="h">Domaine de La Baume</section>
+    <section class="h text-bolder">les Mariés Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e508cc6-0fed-456f-86e2-82d15cecccef.html">
     <img class="flex-bottle" src="/images/9e/508cc6-0fed-456f-86e2-82d15cecccef/2022-12-26-08-36-26-A099DA05-4466-4AD1-879F-8A703CAC7D41-1-105-c@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Rot Glückliches - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734@512.webp"></img>
+    <section class="h">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2023-01-22-10-41-56-42C3835B-64E7-4633-AFFF-E3D2E3219F33-1-105-c@512.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
 </div>

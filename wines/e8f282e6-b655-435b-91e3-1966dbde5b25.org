@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 548 UAH, 880 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 This wine has an intriguing name - golden wedding. Count Giuseppe Tasca d'Almerita is a true winemaker. To celebrate his 50th anniversary with his wife Franca, he decided to create a new wine that would tell a story of estate and family. And so, in 1984, he blends Inzolia and Sauvignon Blanc to get a Nozze d'Oro between two grapes cultivated by his family since WW1.
 
@@ -37,6 +37,12 @@ Interesting blend of Inzolia with Sauvignon Blanc, a pair of grapes for a wine c
 *** 2023-01-21 - ☆ 7.75
 
 It was on a pretty good sale, and remembering my previous experience with this wine, I decided to take a few bottles more. Pretty much the same result. Stone fruits, green hazelnut, citrus, pebbles and honeycomb. It's fresh with good volume, almost full-bodied. It has a long aftertaste with a pleasant bitterness in the finish and flavours of stone fruits, lemon juice and honey.
+
+*** 2023-01-31 - ☆ 7.75
+
+Wine #3 on [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]].
+
+Good blend of Sauvignon Blanc and Inzolia. Stone fruits, green hazelnut, caramel, pebbles and honey. Fresh and voluminous with a long and persistent aftertaste. Lovely finish with flavours of stone fruits, honey and lemon juice.
 
 ** Related
 
@@ -84,10 +90,52 @@ It was on a pretty good sale, and remembering my previous experience with this w
     <section class="h text-bolder">Tenuta Tascante Buonora - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875@512.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31.html">
+    <img class="flex-bottle" src="/images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o@512.webp"></img>
+    <section class="h">Johnson Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/49087ec0-ce5e-469a-a6c3-9b967f748e1f.html">
     <img class="flex-bottle" src="/images/49/087ec0-ce5e-469a-a6c3-9b967f748e1f/2022-06-05-10-50-28-ADCD7911-5E14-43E5-A2DF-F786A0FF8344-1-105-c@512.webp"></img>
     <section class="h">Raoul Clerget</section>
     <section class="h text-bolder">Crémant de Bourgogne Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64290061-6185-4c40-bc35-6ace93d2334c.html">
+    <img class="flex-bottle" src="/images/64/290061-6185-4c40-bc35-6ace93d2334c/2023-01-27-11-51-27-IMG-4618@512.webp"></img>
+    <section class="h">Frontonio</section>
+    <section class="h text-bolder">Microcósmico - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a.html">
+    <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb.html">
+    <img class="flex-bottle" src="/images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606@512.webp"></img>
+    <section class="h">Domaine de La Baume</section>
+    <section class="h text-bolder">les Mariés Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b397acc1-bce4-44c8-b231-2456a03e4740.html">
+    <img class="flex-bottle" src="/images/b3/97acc1-bce4-44c8-b231-2456a03e4740/2022-12-11-10-45-34-IMG-3734@512.webp"></img>
+    <section class="h">Francois Montand</section>
+    <section class="h text-bolder">Méthode Traditionnelle Rosé Brut - NV</section>
   </a>
 
 </div>

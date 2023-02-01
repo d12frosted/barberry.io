@@ -10,7 +10,9 @@
 - Alcohol :: 11.5
 - Sugar :: 10
 - Price :: 308 UAH, 232 UAH, 245 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
+
+A blend of Grenache and Cinsault sourced from vineyards located in Jura. The vines grow at 300 meters above sea level between the plain of Bressane and the foothills of the Jurassian plateau. Despite the price, it's made in traditional style with 9 months spent on lees.
 
 ** Producer
 
@@ -39,6 +41,12 @@ traditional brut for the right price.
 
 Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price. Little by little finishing those cases of this wine I bought before the war. Red berries, peaches and red apples. Lacks delicacy, but there is something good in this energetic and rough profile with long aftertaste.
 
+*** 2023-01-31 - ☆ 7.25
+
+Wine #1 on [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]].
+
+Not pretentious but somehow charming in its direct simplicity. Fruit-forward bouquet (9 months on lees, mind you) of peach, red berries, red apples and some flowers. Not the most delicate sparkling, but it shows energy and good volume. Thanks to the price, I've managed to finish several cases.
+
 ** Related
 
 #+begin_export html
@@ -49,16 +57,52 @@ Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price
     <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
+  <a class="flex-item flex-item-right" href="/wines/0356114f-4682-4632-ac80-47152890b9c9.html">
+    <img class="flex-bottle" src="/images/03/56114f-4682-4632-ac80-47152890b9c9/2022-12-18-14-32-19-IMG-3875@512.webp"></img>
+    <section class="h">Bodegas la Eralta</section>
+    <section class="h text-bolder">Hacienda El Olmo Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
     <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045@512.webp"></img>
     <section class="h">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31.html">
+    <img class="flex-bottle" src="/images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o@512.webp"></img>
+    <section class="h">Johnson Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/4e9dd32c-c8cd-41d7-aa98-2d540b6a5e9c.html">
     <img class="flex-bottle" src="/images/4e/9dd32c-c8cd-41d7-aa98-2d540b6a5e9c/2022-05-29-19-05-38-IMG-0253@512.webp"></img>
     <section class="h">Raventós i Blanc</section>
     <section class="h text-bolder">Blanc de Blancs Extra Brut - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/64290061-6185-4c40-bc35-6ace93d2334c.html">
+    <img class="flex-bottle" src="/images/64/290061-6185-4c40-bc35-6ace93d2334c/2023-01-27-11-51-27-IMG-4618@512.webp"></img>
+    <section class="h">Frontonio</section>
+    <section class="h text-bolder">Microcósmico - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a.html">
+    <img class="flex-bottle" src="/images/74/357d28-4b8a-4693-a176-3cf0b8a79a5a/2022-11-15-17-07-49-IMG-3190@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Rosso di Gino - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb.html">
+    <img class="flex-bottle" src="/images/80/360436-e4f3-41dd-9d8b-06fd0a82f9fb/2023-01-27-11-56-29-IMG-4606@512.webp"></img>
+    <section class="h">Domaine de La Baume</section>
+    <section class="h text-bolder">les Mariés Sauvignon Blanc - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
@@ -71,6 +115,12 @@ Simple, fruit-forward yet pleasant traditional sparkling for absurdly good price
     <img class="flex-bottle" src="/images/ae/b134d4-d015-4e2d-a926-c76b94730538/2021-09-01-22-24-13-7171ACA7-4136-43B2-B46C-813568F8D6B8-1-105-c@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Sein Pour Sein - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e8f282e6-b655-435b-91e3-1966dbde5b25.html">
+    <img class="flex-bottle" src="/images/e8/f282e6-b655-435b-91e3-1966dbde5b25/2023-01-22-10-41-56-42C3835B-64E7-4633-AFFF-E3D2E3219F33-1-105-c@512.webp"></img>
+    <section class="h">Tasca</section>
+    <section class="h text-bolder">Tenuta Regaleali Nozze d'Oro - 2018</section>
   </a>
 
 </div>
