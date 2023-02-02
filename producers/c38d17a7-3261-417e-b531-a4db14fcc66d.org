@@ -1,0 +1,18 @@
+Wine producer from Beaujolais, started natural wine movement. Member of "bande des cinq".
+
+#+begin_quote
+There where two tits of the Beaujolais, sugar and sulfur.
+#+end_quote
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b43a4000-2f4f-46b0-bd4b-df833935345a.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Cuvée MMXVIII - 2018</section>
+  </a>
+
+</div>
+#+end_export
