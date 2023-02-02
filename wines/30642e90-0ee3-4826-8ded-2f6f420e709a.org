@@ -44,16 +44,22 @@ Cake 'golden key' mixed with citron (so think about crème brûlée, citrus, cre
   <a class="flex-item flex-item-right" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
     <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
-    <section class="h text-bolder">Brut Rosé - NV</section>
+    <section class="h text-bolder">Brut Rosé Reserve - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
+  <a class="flex-item flex-item-left" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
+    <img class="flex-bottle" src="/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-02-02-07-16-40-IMG-4695@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé Reserve (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
     <img class="flex-bottle" src="/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Blanc de Blancs Extra Brut Reserve L11778/08/15 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+  <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
     <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>

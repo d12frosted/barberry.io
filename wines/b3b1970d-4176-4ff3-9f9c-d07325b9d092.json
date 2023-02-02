@@ -1,0 +1,42 @@
+{
+  "id": "b3b1970d-4176-4ff3-9f9c-d07325b9d092",
+  "name": "Brut Rosé Reserve (d2022)",
+  "full-name": "Weingut Bründlmayer Brut Rosé Reserve (d2022) NV",
+  "producer": {
+    "id": "e63e9781-9e3f-43ae-b0b0-1366d808ab3e",
+    "name": "Weingut Bründlmayer"
+  },
+  "vintage": "NV",
+  "base-vintage": "2019",
+  "degorgee": "April 2022",
+  "sur-lie": "N/A",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "ccfdbb32-b2f6-4f8a-bfa6-d11e814bbf2f",
+      "name": "Saint-Laurent"
+    },
+    {
+      "id": "9a31e7c4-1ca4-4f5d-8c18-b5687058fb8d",
+      "name": "Zweigelt"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "1293 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-02-02-07-16-40-IMG-4695.webp",
+  "rating": "8.0"
+}

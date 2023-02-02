@@ -54,52 +54,58 @@ Wine #2 on [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vo
   <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
     <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
-    <section class="h text-bolder">Brut Rosé - NV</section>
+    <section class="h text-bolder">Brut Rosé Reserve - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+  <a class="flex-item flex-item-right" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
+    <img class="flex-bottle" src="/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-02-02-07-16-40-IMG-4695@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé Reserve (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
     <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
+  <a class="flex-item flex-item-right" href="/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59.html">
     <img class="flex-bottle" src="/images/18/ba93cf-75c5-41ea-94f3-7e04f03ceb59/2022-11-27-10-33-00-IMG-3467@512.webp"></img>
     <section class="h">Filipa Pato</section>
     <section class="h text-bolder">3B Blanc de Blancs Extra Bruto Unfiltered - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+  <a class="flex-item flex-item-left" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
     <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c@512.webp"></img>
     <section class="h">Félicien Brou</section>
     <section class="h text-bolder">Vouvray Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e.html">
+  <a class="flex-item flex-item-right" href="/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e.html">
     <img class="flex-bottle" src="/images/2b/df5b08-d90a-4cf9-b69d-fb3d0ffefd2e/2022-12-10-12-12-01-IMG-3682@512.webp"></img>
     <section class="h">Cà del Vént</section>
     <section class="h text-bolder">Anima Brut Rosé Pas Operé VSQ - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+  <a class="flex-item flex-item-left" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
     <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c@512.webp"></img>
     <section class="h">Bérêche & Fils</section>
     <section class="h text-bolder">Brut Réserve L19.07/2022 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
+  <a class="flex-item flex-item-right" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
     <img class="flex-bottle" src="/images/75/862600-03f3-4c81-9553-9712d3072df8/2022-11-29-10-36-19-IMG-3485@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Grand Cru Millesime - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
+  <a class="flex-item flex-item-left" href="/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de.html">
     <img class="flex-bottle" src="/images/82/a470c3-fe0c-49f2-8ff7-fdea39a112de/2022-12-19-17-17-19-IMG-3921@512.webp"></img>
     <section class="h">Maurice Vesselle</section>
     <section class="h text-bolder">Grand Cru Collection Bouzy - 2000</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
+  <a class="flex-item flex-item-right" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
     <img class="flex-bottle" src="/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
