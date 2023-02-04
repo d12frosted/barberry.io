@@ -1,0 +1,38 @@
+{
+  "id": "e69c2217-fba4-4c5c-927f-c4d7049745b3",
+  "name": "Apostrophe Brut Classic Dry",
+  "full-name": "46 Parallel Apostrophe Brut Classic Dry NV",
+  "producer": {
+    "id": "909671b4-8775-4032-a88f-389428ff82d7",
+    "name": "46 Parallel"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "149 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c.webp",
+  "rating": "NA"
+}

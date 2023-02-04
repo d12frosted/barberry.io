@@ -37,6 +37,18 @@ Tasted blind and though about Jura or some natural Australia. Nice subtle flor a
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7e53e4b6-e1f4-49dd-a8d1-52e4f58302b3.html">
+    <img class="flex-bottle" src="/images/7e/53e4b6-e1f4-49dd-a8d1-52e4f58302b3/2023-02-04-12-00-30-A61ACDD2-AA86-47FB-A75F-253EB3C22C45-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Rain Pinot Noir - 2020</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
     <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400@512.webp"></img>
     <section class="h">Patrick Sullivan</section>

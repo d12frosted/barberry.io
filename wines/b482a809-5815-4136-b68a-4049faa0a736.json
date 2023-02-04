@@ -1,0 +1,38 @@
+{
+  "id": "b482a809-5815-4136-b68a-4049faa0a736",
+  "name": "Dosage Zéro (d2021)",
+  "full-name": "Bruno Paillard Dosage Zéro (d2021) NV",
+  "producer": {
+    "id": "11da3d83-ca4a-4e23-a8f1-e8d1cf395b58",
+    "name": "Bruno Paillard"
+  },
+  "vintage": "NV",
+  "base-vintage": "2015",
+  "degorgee": "October 2021",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.7",
+  "prices": [
+    "2422 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b4/82a809-5815-4136-b68a-4049faa0a736/2023-02-04-11-52-33-04611971-7C7B-4F73-A776-793C257AE39B-1-105-c.webp",
+  "rating": "NA"
+}

@@ -15,5 +15,11 @@
     <section class="h text-bolder">Bacchus Block - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+    <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
+  </a>
+
 </div>
 #+end_export

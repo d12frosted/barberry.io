@@ -28,16 +28,28 @@ See [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]].
     <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">
+  <a class="flex-item flex-item-left" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/db5c5f52-ab04-489c-b6b7-232f64badfb4.html">
     <img class="flex-bottle" src="/images/db/5c5f52-ab04-489c-b6b7-232f64badfb4/2021-08-18-10-32-50-E41A56A2-30F7-45D3-92C4-7C70ACBF8368-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Bullswamp - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
     <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Rain Field Blend - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7e53e4b6-e1f4-49dd-a8d1-52e4f58302b3.html">
+    <img class="flex-bottle" src="/images/7e/53e4b6-e1f4-49dd-a8d1-52e4f58302b3/2023-02-04-12-00-30-A61ACDD2-AA86-47FB-A75F-253EB3C22C45-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Rain Pinot Noir - 2020</section>
   </a>
 
 </div>

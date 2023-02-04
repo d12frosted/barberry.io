@@ -1,0 +1,34 @@
+{
+  "id": "5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f",
+  "name": "Baw Baw Shire Chardonnay",
+  "full-name": "Patrick Sullivan Baw Baw Shire Chardonnay 2020",
+  "producer": {
+    "id": "ebcf71da-35d2-45d4-9b87-178179c0b573",
+    "name": "Patrick Sullivan"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1290 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c.webp",
+  "rating": "NA"
+}

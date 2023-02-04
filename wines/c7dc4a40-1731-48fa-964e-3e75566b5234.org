@@ -21,19 +21,25 @@ Tropical and ripe Bacchus. When you reveal its origin, it comes out as a surpris
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
+  <a class="flex-item flex-item-left" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+    <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
+    <section class="h">Lyme Bay</section>
+    <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
     <img class="flex-bottle" src="/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861@512.webp"></img>
     <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Bacchus Block - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
+  <a class="flex-item flex-item-left" href="/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae.html">
     <img class="flex-bottle" src="/images/22/1464f9-abb2-4134-b8bb-1a020b3db2ae/2022-10-05-09-43-43-7A7B719D-369E-4532-A731-E65775A3B0F1-1-105-c@512.webp"></img>
     <section class="h">Félicien Brou</section>
     <section class="h text-bolder">Vouvray Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/65bd6d64-29e1-4b3c-ad9a-ce49a291c3e2.html">
+  <a class="flex-item flex-item-right" href="/wines/65bd6d64-29e1-4b3c-ad9a-ce49a291c3e2.html">
     <img class="flex-bottle" src="/images/65/bd6d64-29e1-4b3c-ad9a-ce49a291c3e2/2022-11-06-11-49-53-95EB8687-69B7-48C2-8A39-33B00747CDF8-1-105-c@512.webp"></img>
     <section class="h">Honoro Vera</section>
     <section class="h text-bolder">Garnacha - 2020</section>
