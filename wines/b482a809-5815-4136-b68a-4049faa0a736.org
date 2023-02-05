@@ -77,7 +77,13 @@ In contrast with previous wine, Dosage Zéro explains the meaning of dryness in 
     <section class="h text-bolder">Impérial Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
+  <a class="flex-item flex-item-right" href="/wines/bf77c1a9-c3da-424d-8306-f94769b95a65.html">
+    <img class="flex-bottle" src="/images/bf/77c1a9-c3da-424d-8306-f94769b95a65/2021-12-27-18-44-25-B467424A-B015-4E87-ABE2-6A26CB7C9065-1-105-c@512.webp"></img>
+    <section class="h">Cà del Vént</section>
+    <section class="h text-bolder">Sospiri Brut Riserva Pas Operé - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
     <img class="flex-bottle" src="/images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c@512.webp"></img>
     <section class="h">46 Parallel</section>
     <section class="h text-bolder">Apostrophe Brut Classic Dry - NV</section>
