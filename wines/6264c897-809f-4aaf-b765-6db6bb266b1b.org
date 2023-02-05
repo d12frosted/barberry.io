@@ -9,9 +9,31 @@
 - Alcohol :: 8
 - Sugar :: 80
 - Price :: 346 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-03 - ☆ 5.00
 
+Tada! This is my first Asti. At last! At last, I've tasted this famous wine. And you know, it wasn't as bad as I imagined. Aye, it's a sweet carbonated drink with vulgar aromas and palate. Not my style, but I get why people drink it. Unless you defined sugar as your nemesis, of course. I served it blind, and people quickly realised how treacherous I was. Luckily, they allowed me to stay till the end.
+
+So what do we have here? Moscato-driven "bouquet", so aromatic and shampoo-like. A sweet palate, low alcohol. And a short aftertaste of shampoo.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
+    <img class="flex-bottle" src="/images/62/c52d66-b179-4545-9912-76a701e39534/2023-02-04-11-40-45-AC7529AB-298F-4548-BC14-21F5D80DA1A6-1-105-c@512.webp"></img>
+    <section class="h">Silvano Follador</section>
+    <section class="h text-bolder">Valdobbiaddene Prosecco Superiore Extra Brut - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
+    <img class="flex-bottle" src="/images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c@512.webp"></img>
+    <section class="h">46 Parallel</section>
+    <section class="h text-bolder">Apostrophe Brut Classic Dry - NV</section>
+  </a>
+
+</div>
+#+end_export

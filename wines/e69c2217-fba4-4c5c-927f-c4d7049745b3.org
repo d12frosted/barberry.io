@@ -9,9 +9,29 @@
 - Alcohol :: 11.5
 - Sugar :: NA
 - Price :: 149 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-03 - ☆ 7.50
 
+Tasted blind and didn't guess. My ideas were floating around low intervention Crémants, possibly from Jura or Alsace. Funny, but I was the only person that felt powerful Fino notes in this wine with hints of mushrooms and smeared yellow apples. And since I love these aromas, it settled my decision. Objectively it's not complex. It lacks volume and acidity; it drops in the end, but it's well-made. Subjectively, this is something I would love to drink again.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
+    <img class="flex-bottle" src="/images/62/64c897-809f-4aaf-b765-6db6bb266b1b/2023-02-04-11-50-12-00E745CB-AD13-4323-BE75-20307A2F55B7-1-105-c@512.webp"></img>
+    <section class="h">Canti</section>
+    <section class="h text-bolder">Liberty Asti - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
+    <img class="flex-bottle" src="/images/62/c52d66-b179-4545-9912-76a701e39534/2023-02-04-11-40-45-AC7529AB-298F-4548-BC14-21F5D80DA1A6-1-105-c@512.webp"></img>
+    <section class="h">Silvano Follador</section>
+    <section class="h text-bolder">Valdobbiaddene Prosecco Superiore Extra Brut - 2019</section>
+  </a>
+
+</div>
+#+end_export

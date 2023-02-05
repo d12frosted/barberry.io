@@ -9,9 +9,29 @@
 - Alcohol :: 11
 - Sugar :: 0
 - Price :: 734 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-03 - ☆ 7.50
 
+Tasted blind. My guess was Valdobbiadene producer that flirts with minimal intervention. Cider, flowers, citrus, and apples with some yeasty hints. Easy to drink. Interesting notes of apple seeds and marigolds in the aftertaste.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
+    <img class="flex-bottle" src="/images/62/64c897-809f-4aaf-b765-6db6bb266b1b/2023-02-04-11-50-12-00E745CB-AD13-4323-BE75-20307A2F55B7-1-105-c@512.webp"></img>
+    <section class="h">Canti</section>
+    <section class="h text-bolder">Liberty Asti - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
+    <img class="flex-bottle" src="/images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c@512.webp"></img>
+    <section class="h">46 Parallel</section>
+    <section class="h text-bolder">Apostrophe Brut Classic Dry - NV</section>
+  </a>
+
+</div>
+#+end_export
