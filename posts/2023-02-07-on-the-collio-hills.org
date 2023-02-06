@@ -1,0 +1,69 @@
+It seems that time has no power over interest in amber wines. [[barberry:/posts/2022-12-31-yearly-events-report][Last year]] we tasted quite a lot of them. We loved them. And the interest lingers on. And what is a better way to celebrate our curiosity than to turn to the legends behind the skin-contact renaissance? I said it before, and let me repeat myself. When life gives you a bottle of Gravner Ribolla Anfora 2004, a bottle of Radikon Jakot 2007 and a bottle of Radikon Ribolla 2007, you just put aside whatever urgent matters you had in FFXIV (even preparations for the final section of Pandæmonium). And let's pretend that Zidarich visited Collio Hills. On his way from Carso, he brought us a little present.
+
+1. [[barberry:/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc][Zidarich Malvasia 2011]] (extra)
+2. [[barberry:/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2][Radikon Jakot 2007]]
+3. [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Radikon Ribolla 2007]]
+4. [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Gravner Ribolla Anfora 2004]]
+
+* Gravner Ribolla Anfora 2004
+:PROPERTIES:
+:ID:                     baa379d3-bdf5-46a4-bebd-16a2351c7056
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-02-07-on-the-collio-hills/2022-01-06-19-04-14-5A56E655-A418-4A50-88AA-AD71131E7C3A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Gravner]]
+- name: [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Ribolla Anfora]]
+- vintage: 2004
+- grapes: Ribolla Gialla
+- appellation: IGP Venezia Giulia
+- location: Friuli-Venezia Giulia, Italy
+- alcohol: 12.5
+- sugar: 3
+- price: 3490 UAH
+
+Many consider Joško Gravner to be the father of macerated white wine trend. Yet it's interesting that before his first amber wine, he was a rising star in the modern and technological winemaking scene. He confessed that he would purchase any new equipment he could find. But his life turned upside down after a trip to California back in 1987. California was (and maybe still is) a destination for many winemakers as this region represents triumph and possibilities of new. No wonder, as Californian wines won Judgement of Paris in 1976. This event dramatically changed the wine world. Joško Gravner was taking the same path as Californian winemakers - oak, science, additives and all that cool stuff. But after tasting 1000 wines in 10 days, he was astonished by faceless and tasteless results. And he realised this was the road to a dead end. Now he knew how not to produce wines.
+
+His search lasted for almost a decade. Joško Gravner studied the history of winemaking and searched for a way to produce authentic wines that talk in the language of land and history. He discovered that his ancestors made skin-contact wines here in Collio/Brda. And then, he learned that Georgia has a very long history of winemaking spanning over 8000 years. And more importantly, this history includes skin-contact wines.
+
+Equipped with knowledge and determination to change, Joško Gravner worked hard on his first release of extensively macerated Ribolla. It took three years for the 1997 vintage to become ready for release. But unfortunately, consumers were not happy about this drastic change in style. And most importantly, Gambero Rosso, an influential wine & food magazine, gave a devastating assessment of this new style. As a result, 80% of the 1997 Ribolla was returned to the winery. Joško Gravner was crushed. But he also realised that this was the way to go.
+
+In the same 2000, Joško Gravner visited Georgia and ordered 11 qvevri. Unfortunately, no one knew how to transport these 1000L ceramic vessels, so 9 of them didn't survive the trip. Because of this, Joško had to wait one more year before he could start to use qvevri for production. Nowadays, he owns more than 45 of them in total!
+
+Interestingly, Ribolla and Breg (two wines produced by Joško Gravner) had the word 'Anfora' printed on the labels of the 2001 vintage. However, they were not 100% fermented in qvevri till 2003. Even more, no qvevri was used for Breg Rosso production till 2005. And in 2007, they decided to remove the word 'Anfora' from all labels, as this information became redundant. All their wines were fermented in qvevri now.
+
+And today, wines produced by Joško Gravner are treated as the highest manifestation of skill. Many people consider Ribolla to be the best orange wine in the world.
+
+* Scores
+:PROPERTIES:
+:ID:                     e0c8ad78-744c-4f78-926d-c1fb61589eb8
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 |
+|-------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
+|---------+--------+--------+--------+-----------+---------+--------+----------|
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
