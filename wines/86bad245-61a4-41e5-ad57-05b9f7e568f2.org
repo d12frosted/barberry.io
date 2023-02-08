@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/unknown-wine.webp]]
+[[file:/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/9d3e931a-6a61-4857-aae8-345f86bdcd75][Radikon]]
@@ -9,7 +9,7 @@
 - Alcohol :: 0
 - Sugar :: 0
 - Price :: 1690 UAH
-- Cellar :: N/A
+- Cellar :: 2 bottles
 
 ** Producer
 
@@ -30,7 +30,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
-    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2021-12-26-12-26-23-88D25D69-2E57-48AC-ABAE-E4BB211135EF-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>

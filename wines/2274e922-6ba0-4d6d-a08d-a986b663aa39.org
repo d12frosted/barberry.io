@@ -11,6 +11,12 @@
 - Price :: 1050 UAH
 - Cellar :: N/A
 
+** Producer
+
+Benjamin Zidarich started his wine-making quest in 1988 with just one hectare in Carso, a narrow strip between rocky hills and the Adriatic sea. Today he manages 8 hectares of Vitovska (the classic local variety of the Carso), Malvasia, and Sauvignon Blanc, as well as small amounts of Teran and Merlot for his reds. The vines grow in the classic iron- and calcium-rich red soils, extending deep into the limestone.
+
+All vines 'suffer' low yields, around 30 hectoliters per hectare. In the cellar, Benjamin uses an old basket press and keeps his white wines in contact with their skins for a few weeks during fermentation (this also allows to lower usage of SO2). However, his wines are not as bold as wines made by Radikon or Gravner. These wines are about minerality in the first place and about skin tannins.
+
 ** Ratings
 
 *** 2021-07-06 - ☆ 8.00
@@ -22,7 +28,7 @@ Elegant and interesting orange. Brine notes with thyme, wormwood and other herbs
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/1e/6aec1c-90f1-4cc6-8cb7-f174abd34fdc/2023-02-08-07-13-47-IMG-4807@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Malvasia - 2011</section>
   </a>
