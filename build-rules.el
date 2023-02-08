@@ -588,6 +588,51 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 
 
 
+(cl-defun brb-publish-cellar (target items items-all _cache)
+  "Generate wines list from ITEMS and write it to TARGET file.
+
+ITEMS-ALL is input table as returned by `porg-build-input'."
+  (with-current-buffer (find-file-noselect target)
+    (delete-region (point-min) (point-max))
+    (insert
+     "#+attr_html: :class wines-table\n"
+     (string-table
+      :header '("county" "producer" "name" "vintage" "grapes" "rate" "amount")
+      :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
+      :row-start "| " :sep " | " :row-end " |"
+      :data
+      (->> items
+           (hash-table-values)
+           (--filter (string-equal (porg-item-type it) "note"))
+           (-map #'porg-item-item)
+           (--filter (> (vulpea-note-meta-get it "available" 'number) 0))
+           (brb-wines-sort)
+           (--map
+            (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
+                            (vulpea-note-meta-get it "appellation" 'note)))
+                   (country (vulpea-note-meta-get roa "country" 'note))
+                   (producer (vulpea-note-meta-get it "producer" 'note)))
+              (list
+               (vulpea-utils-link-make-string country)
+               (vulpea-utils-link-make-string producer)
+               (org-link-make-string
+                (concat "id:" (vulpea-note-id it))
+                (vulpea-note-meta-get it "name"))
+               (or (vulpea-note-meta-get it "vintage") "NV")
+               (mapconcat #'vulpea-utils-link-make-string
+                          (vulpea-note-meta-get-list it "grapes" 'note)
+                          ", ")
+               (if (vulpea-note-meta-get it "ratings")
+                   (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
+                 "-")
+               (vulpea-note-meta-get it "available" 'number))))))
+     "\n")
+    (porg-clean-links-in-buffer
+     :sanitize-id-fn (-rpartial #'brb-sanitize-id-link items-all))
+    (save-buffer)))
+
+
+
 (cl-defun brb-publish-ratings (target items items-all _cache &optional limit)
   "Generate ratings list from ITEMS in TARGET file.
 
@@ -873,7 +918,14 @@ init file."
    :filter (-rpartial #'porg-item-that :type "note"
                       :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
    :target "pages/reviews-latest.org"
-   :publish (-rpartial #'brb-publish-ratings 8)))
+   :publish (-rpartial #'brb-publish-ratings 8))
+
+  (porg-batch-rule
+   :name "cellar"
+   :filter (-rpartial #'porg-item-that :type "note"
+                      :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
+   :target "pages/cellar.org"
+   :publish #'brb-publish-cellar))
 
  :compilers
  (list

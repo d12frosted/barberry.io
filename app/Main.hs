@@ -62,6 +62,10 @@ main = hakyll $ do
     route $ gsubRoute "pages/" (const "") <> setExtension "html"
     compile customPandocCompiler
 
+  match "pages/cellar.org" $ do
+    route $ gsubRoute "pages/" (const "") <> setExtension "html"
+    compile customPandocCompiler
+
   match "posts/*.org" $ do
     route $ setExtension "html"
     compile $
@@ -129,6 +133,20 @@ main = hakyll $ do
       let ctx =
             field "reviews" (const . return . itemBody $ reviews)
               <> constField "title" "Reviews"
+              <> defaultContext
+
+      makeItem ""
+        >>= loadAndApplyTemplate "templates/reviews.html" ctx
+        >>= loadAndApplyTemplate "templates/default.html" ctx
+        >>= relativizeUrls
+
+  create ["cellar.html"] $ do
+    route idRoute
+    compile $ do
+      reviews <- load "pages/cellar.org"
+      let ctx =
+            field "reviews" (const . return . itemBody $ reviews)
+              <> constField "title" "Cellar"
               <> defaultContext
 
       makeItem ""

@@ -72,6 +72,7 @@ convert = walk go . embedImport
           "rms" -> "ratingSorter"
           "QPR" -> "ratingSorter"
           "price" -> "ratingSorter"
+          "amount" -> "ratingSorter"
           "producer" -> "htmlSorter"
           "name" -> "htmlSorter"
           _ -> "strSorter"
