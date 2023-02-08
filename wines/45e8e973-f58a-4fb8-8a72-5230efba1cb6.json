@@ -1,0 +1,47 @@
+{
+  "id": "45e8e973-f58a-4fb8-8a72-5230efba1cb6",
+  "name": "Viña Tondonia Tinto Gran Reserva",
+  "full-name": "R. López de Heredia Viña Tondonia Tinto Gran Reserva 2001",
+  "producer": {
+    "id": "d048b1cd-89b4-413e-a5f7-50ace090907c",
+    "name": "R. López de Heredia"
+  },
+  "vintage": "2001",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "abe7a255-d91f-4edd-91df-d80e766b5642",
+      "name": "Graciano"
+    },
+    {
+      "id": "b928d23b-ff32-4ed2-9d54-8fffe2632eea",
+      "name": "Tintilia"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.5",
+  "prices": [
+    "4278 UAH",
+    "4600 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/45/e8e973-f58a-4fb8-8a72-5230efba1cb6/2023-02-08-12-18-36-IMG-4835.webp",
+  "rating": "NA"
+}
