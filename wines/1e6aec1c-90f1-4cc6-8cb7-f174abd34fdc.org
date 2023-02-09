@@ -9,7 +9,7 @@
 - Alcohol :: 0
 - Sugar :: 0
 - Price :: 1890 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -19,7 +19,11 @@ All vines 'suffer' low yields, around 30 hectoliters per hectare. In the cellar,
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-07 - ☆ 8.50
+
+[[barberry:/posts/2023-02-07-on-the-collio-hills][On the Collio Hills]], wine #1.
+
+You know the evening is going to be challenging when you start it with (almost) 12 years old Malvasia from Carso. Strangely, it has a restrained bouquet of persimmon, old apricot jam (with juicy bits), caramel and VA (in tiny amounts). Fresh, even crisp palate with well-matured tannin. Almost perfectly balanced. It has a very long aftertaste with flavours of overripe persimmon, caramel and VA. Sophisticated and delicious wine.
 
 ** Related
 
@@ -47,6 +51,30 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Ruje Rosso - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+    <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Ribolla - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
+    <img class="flex-bottle" src="/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Jakot - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+    <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2023-02-08-07-18-21-IMG-4811@512.webp"></img>
+    <section class="h">Gravner</section>
+    <section class="h text-bolder">Ribolla Anfora - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f677f3f4-c6a4-43e9-9872-b4dd8efa9707.html">
+    <img class="flex-bottle" src="/images/f6/77f3f4-c6a4-43e9-9872-b4dd8efa9707/2023-01-16-16-48-50-IMG-4380@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Bianco di Gino - 2021</section>
   </a>
 
 </div>

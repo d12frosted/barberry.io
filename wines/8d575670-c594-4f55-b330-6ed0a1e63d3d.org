@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 3
 - Price :: 2900 UAH, 3490 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -33,6 +33,18 @@ And today, wines produced by Joško Gravner are treated as the highest manifesta
 
 Well crafted skin contact wine that spent quite some time in qvevri. I definitely like 2004 more than 2010 for being deeper, more interesting and less straight-forward. Deep amber colour. Complex, beautiful bouquet: old apricot jam, caramel, tea, medicinal herbs. Medium-full bodied, fresh with medium-high round tannin, Very long, evolving and flavourful aftertaste - caramel, nuts and condensed milk.
 
+*** 2023-02-07 - ☆ 9.00
+
+[[barberry:/posts/2023-02-07-on-the-collio-hills][On the Collio Hills]], wine #2.
+
+Initially, I was slightly puzzled by the restrained bouquet. But the more time I spent with this wine, the more I fell in love.
+
+Deep cognac-like colour. A beautiful bouquet of mushrooms, burnt caramel, dried medicinal herbs, honey and mould. But boy, when you taste it! This is where it really shines!
+
+The wine fills more than just mouth. My whole head becomes full of it. Perfectly balanced, it is generous and prolonged. It's incredible how the taste evolves and fades over a long time, leaving me in shock. Wonderful sensation. The acidity is still good; tannin is at a respectable age. It feels like the wine reached its peak.
+
+Complex and delicious Ribolla. This bottle needs to be enjoyed in a comfortable chair by the fire. Meditative wine.
+
 ** Related
 
 #+begin_export html
@@ -43,34 +55,52 @@ Well crafted skin contact wine that spent quite some time in qvevri. I definitel
     <section class="h text-bolder">Ribolla - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
+  <a class="flex-item flex-item-right" href="/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc.html">
+    <img class="flex-bottle" src="/images/1e/6aec1c-90f1-4cc6-8cb7-f174abd34fdc/2023-02-08-07-13-47-IMG-4807@512.webp"></img>
+    <section class="h">Zidarich</section>
+    <section class="h text-bolder">Malvasia - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1f4e920e-bfd4-4624-8445-fa8480962c17.html">
     <img class="flex-bottle" src="/images/1f/4e920e-bfd4-4624-8445-fa8480962c17/2020-07-08-15-18-08-FA5501DC-36EF-4CFB-84E3-76F376FADE8A-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
+  <a class="flex-item flex-item-right" href="/wines/4252a292-214e-4ee9-a997-3789f8abc431.html">
     <img class="flex-bottle" src="/images/42/52a292-214e-4ee9-a997-3789f8abc431/2021-03-20-09-39-01-4B369436-65E9-469C-B443-4F9CEF680DEB-1-105-c@512.webp"></img>
     <section class="h">Cantina Alchemica</section>
     <section class="h text-bolder">Lanthano Bianco - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
     <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/783dff51-4a02-4db4-818f-837c2c3eda7e.html">
+  <a class="flex-item flex-item-right" href="/wines/783dff51-4a02-4db4-818f-837c2c3eda7e.html">
     <img class="flex-bottle" src="/images/78/3dff51-4a02-4db4-818f-837c2c3eda7e/2022-01-13-09-35-06-E490246A-99EB-4F92-ADAC-CACCF991C868-1-105-c@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Prulke - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
+    <img class="flex-bottle" src="/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Jakot - 2007</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f677f3f4-c6a4-43e9-9872-b4dd8efa9707.html">
+    <img class="flex-bottle" src="/images/f6/77f3f4-c6a4-43e9-9872-b4dd8efa9707/2023-01-16-16-48-50-IMG-4380@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Marche Bianco di Gino - 2021</section>
   </a>
 
 </div>
