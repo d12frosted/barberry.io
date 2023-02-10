@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded.html">
+    <img class="flex-bottle" src="/images/41/9d4870-6c3b-4bdc-9005-4b99b36e2ded/2023-02-09-17-03-00-IMG-4864@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Aconcagua Costa Chardonnay - 2016</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,35 @@
+{
+  "id": "1eb496a4-58bc-4dc0-bd63-a36278427746",
+  "name": "Rebula Prilo",
+  "full-name": "Kmetija Štekar Rebula Prilo 2017",
+  "producer": {
+    "id": "306b9b05-0245-4f1e-8576-0a34a5908ad1",
+    "name": "Kmetija Štekar"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    }
+  ],
+  "alcohol": "13.0",
+  "sugar": "4.6",
+  "prices": [
+    "1070 UAH",
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1e/b496a4-58bc-4dc0-bd63-a36278427746/2023-02-09-16-56-49-IMG-4857.webp",
+  "rating": "NA"
+}

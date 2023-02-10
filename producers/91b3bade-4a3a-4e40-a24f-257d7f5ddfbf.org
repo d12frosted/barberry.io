@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6ca5876f-814a-4b5c-9a3d-b41f2fdf2431.html">
+    <img class="flex-bottle" src="/images/6c/a5876f-814a-4b5c-9a3d-b41f2fdf2431/2023-02-09-17-38-49-IMG-4885@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Le Dos d'Chat G.G. - 2020</section>
+  </a>
+
+</div>
+#+end_export

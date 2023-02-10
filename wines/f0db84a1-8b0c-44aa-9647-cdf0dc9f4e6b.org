@@ -75,5 +75,11 @@ Had a chance to taste 2019 'vintage' of this confusingly named wine (under the s
     <section class="h text-bolder">Vino Rosso L.F05/2021/22 - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42.html">
+    <img class="flex-bottle" src="/images/c8/d48ec3-1c25-414c-85e0-d944fb493c42/2023-02-09-17-23-22-IMG-4867@512.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Monstro - 2021</section>
+  </a>
+
 </div>
 #+end_export

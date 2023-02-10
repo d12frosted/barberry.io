@@ -21,7 +21,13 @@ Had to hunt a little bit for this bottle and honestly (despite my efforts) I did
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ef0fe47b-89ce-4240-a53c-9bc6351abb07.html">
+  <a class="flex-item flex-item-left" href="/wines/b6d6884e-944b-4c6c-b9c5-a548baf49c21.html">
+    <img class="flex-bottle" src="/images/b6/d6884e-944b-4c6c-b9c5-a548baf49c21/2023-02-09-17-27-12-IMG-4873@512.webp"></img>
+    <section class="h">Montevertine</section>
+    <section class="h text-bolder">Pian del Ciampolo - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ef0fe47b-89ce-4240-a53c-9bc6351abb07.html">
     <img class="flex-bottle" src="/images/ef/0fe47b-89ce-4240-a53c-9bc6351abb07/2022-08-09-08-55-54-74451174-57E6-45D4-9466-763E25DFE95D-1-105-c@512.webp"></img>
     <section class="h">Montevertine</section>
     <section class="h text-bolder">Pian del Ciampolo - 2017</section>

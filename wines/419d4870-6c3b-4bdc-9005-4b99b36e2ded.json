@@ -1,0 +1,35 @@
+{
+  "id": "419d4870-6c3b-4bdc-9005-4b99b36e2ded",
+  "name": "Aconcagua Costa Chardonnay",
+  "full-name": "Errazuriz Aconcagua Costa Chardonnay 2016",
+  "producer": {
+    "id": "ad7351c1-581a-4685-8f0a-ef48b8005b3d",
+    "name": "Errazuriz"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "52077f86-b1fb-443b-9225-303523aa1b8b",
+    "name": "Chile"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "901 UAH",
+    "1053 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/41/9d4870-6c3b-4bdc-9005-4b99b36e2ded/2023-02-09-17-03-00-IMG-4864.webp",
+  "rating": "NA"
+}

@@ -25,13 +25,19 @@ Great Slovenian orange wine. VA, red apple, Jerez, orange peel and spices. Compl
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/34c57d62-4686-410d-af22-9be85ffdbde2.html">
+  <a class="flex-item flex-item-left" href="/wines/1eb496a4-58bc-4dc0-bd63-a36278427746.html">
+    <img class="flex-bottle" src="/images/1e/b496a4-58bc-4dc0-bd63-a36278427746/2023-02-09-16-56-49-IMG-4857@512.webp"></img>
+    <section class="h">Kmetija Štekar</section>
+    <section class="h text-bolder">Rebula Prilo - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/34c57d62-4686-410d-af22-9be85ffdbde2.html">
     <img class="flex-bottle" src="/images/34/c57d62-4686-410d-af22-9be85ffdbde2/2022-12-31-14-00-47-F7777E9F-1B6B-4385-A389-D2D9ABEF9CFD-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Sivi - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>

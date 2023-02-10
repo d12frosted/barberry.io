@@ -1,0 +1,35 @@
+{
+  "id": "c8d48ec3-1c25-414c-85e0-d944fb493c42",
+  "name": "Monstro",
+  "full-name": "Cascina Tavijn Monstro 2021",
+  "producer": {
+    "id": "30c3bcfb-80c3-4ed8-bc6b-c28cfcc9f54e",
+    "name": "Cascina Tavijn"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "84ba9c3d-9a82-4b02-b034-ec549235237b",
+      "name": "Grignolino"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "4",
+  "prices": [
+    "590 UAH",
+    "690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c8/d48ec3-1c25-414c-85e0-d944fb493c42/2023-02-09-17-23-22-IMG-4867.webp",
+  "rating": "NA"
+}

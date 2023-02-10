@@ -1,0 +1,35 @@
+{
+  "id": "f2db9115-8022-484b-bb3d-6b37770adaab",
+  "name": "Mounbè",
+  "full-name": "Cascina Degli Ulivi Mounbè 2010",
+  "producer": {
+    "id": "f3a3985a-cd61-4e0c-8d77-a532b6d5da62",
+    "name": "Cascina Degli Ulivi"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "1",
+  "prices": [
+    "1531 UAH",
+    "1790 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f2/db9115-8022-484b-bb3d-6b37770adaab/2023-02-09-17-29-14-IMG-4875.webp",
+  "rating": "NA"
+}

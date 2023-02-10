@@ -1,0 +1,43 @@
+{
+  "id": "b6d6884e-944b-4c6c-b9c5-a548baf49c21",
+  "name": "Pian del Ciampolo",
+  "full-name": "Montevertine Pian del Ciampolo 2020",
+  "producer": {
+    "id": "492851a2-6796-4abb-a9c2-ff6e342a8c32",
+    "name": "Montevertine"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "a3cb4b44-31bc-44bb-96ce-a5bde6c14d4f",
+      "name": "Canaiolo"
+    },
+    {
+      "id": "cbb1ba5d-14d1-40ef-8fde-329598f70029",
+      "name": "Colorino"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1162 UAH",
+    "1358 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b6/d6884e-944b-4c6c-b9c5-a548baf49c21/2023-02-09-17-27-12-IMG-4873.webp",
+  "rating": "NA"
+}

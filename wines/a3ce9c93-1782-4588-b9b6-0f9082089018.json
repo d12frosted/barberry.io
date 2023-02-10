@@ -35,9 +35,10 @@
   "sugar": "2.5",
   "prices": [
     "1720 UAH",
-    "1850 UAH"
+    "1850 UAH",
+    "2010 UAH"
   ],
-  "available": 1.0,
+  "available": 2.0,
   "image": "images/a3/ce9c93-1782-4588-b9b6-0f9082089018/2023-02-08-12-15-53-IMG-4829.webp",
   "rating": "NA"
 }

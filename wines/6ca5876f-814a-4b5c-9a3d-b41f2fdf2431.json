@@ -1,0 +1,35 @@
+{
+  "id": "6ca5876f-814a-4b5c-9a3d-b41f2fdf2431",
+  "name": "Le Dos d'Chat G.G.",
+  "full-name": "Fabrice Dodane Le Dos d'Chat G.G. 2020",
+  "producer": {
+    "id": "91b3bade-4a3a-4e40-a24f-257d7f5ddfbf",
+    "name": "Fabrice Dodane"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "12.2",
+  "sugar": "2",
+  "prices": [
+    "1582 UAH",
+    "1850 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6c/a5876f-814a-4b5c-9a3d-b41f2fdf2431/2023-02-09-17-38-49-IMG-4885.webp",
+  "rating": "NA"
+}

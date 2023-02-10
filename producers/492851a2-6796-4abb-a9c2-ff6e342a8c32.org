@@ -15,5 +15,11 @@
     <section class="h text-bolder">Pian del Ciampolo - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/b6d6884e-944b-4c6c-b9c5-a548baf49c21.html">
+    <img class="flex-bottle" src="/images/b6/d6884e-944b-4c6c-b9c5-a548baf49c21/2023-02-09-17-27-12-IMG-4873@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pian del Ciampolo - 2020</section>
+  </a>
+
 </div>
 #+end_export
