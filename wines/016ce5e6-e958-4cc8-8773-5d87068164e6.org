@@ -13,7 +13,9 @@
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-10 - ☆ 8.50
+
+Wonderful as always. At first, it feels shy, but after letting it breathe and warm up a bit, it reveals its beauty. Honey, shells, citrus, Jerez, almond and vanilla. Fresh, almost perfectly balanced, sophisticated and multilayered. Obviously, something to repeat. Good value.
 
 ** Related
 
@@ -91,10 +93,22 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2008</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc.html">
+    <img class="flex-bottle" src="/images/ca/7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc/2023-02-08-12-16-52-IMG-4831@512.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Tondonia Blanco Reserva - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b.html">
     <img class="flex-bottle" src="/images/d8/0bf3be-6a53-45ae-97d9-11bb03df727b/2021-11-26-07-52-20-EFDD60E8-41F3-43DF-A7D0-BA8088C4B646-1-105-c@512.webp"></img>
     <section class="h">R. López de Heredia</section>
     <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
+    <img class="flex-bottle" src="/images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c@512.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Bianco Montalto - 2019</section>
   </a>
 
 </div>
