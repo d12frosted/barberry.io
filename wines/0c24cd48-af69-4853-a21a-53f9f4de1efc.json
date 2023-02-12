@@ -1,0 +1,38 @@
+{
+  "id": "0c24cd48-af69-4853-a21a-53f9f4de1efc",
+  "name": "Cuvée Madelon",
+  "full-name": "Anne et J.F. Ganevat Cuvée Madelon 2018",
+  "producer": {
+    "id": "17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6",
+    "name": "Anne et J.F. Ganevat"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "fb1bb818-22d3-4c10-bf1e-d671942ad214",
+      "name": "Enfariné Noir"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "854 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0c/24cd48-af69-4853-a21a-53f9f4de1efc/2021-11-14-12-47-19-0CB6904C-DA31-4A75-AD35-2870A9870DB0-1-105-c.webp",
+  "rating": "7.875"
+}

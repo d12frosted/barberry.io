@@ -21,61 +21,67 @@ Hey, it's a baked apple with honey and nuts. Someone decided to add some salt an
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/1357c3ce-cad1-4f2d-8473-4e05fd524a29.html">
+  <a class="flex-item flex-item-left" href="/wines/0c24cd48-af69-4853-a21a-53f9f4de1efc.html">
+    <img class="flex-bottle" src="/images/0c/24cd48-af69-4853-a21a-53f9f4de1efc/2021-11-14-12-47-19-0CB6904C-DA31-4A75-AD35-2870A9870DB0-1-105-c@512.webp"></img>
+    <section class="h">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Cuvée Madelon - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1357c3ce-cad1-4f2d-8473-4e05fd524a29.html">
     <img class="flex-bottle" src="/images/13/57c3ce-cad1-4f2d-8473-4e05fd524a29/2021-09-15-20-57-33-C8969034-BEBE-44D5-B69B-2A585A38EDB8-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">J'en veux encore !!! - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2e22de49-4153-4f46-bef2-7806cd612810.html">
+  <a class="flex-item flex-item-left" href="/wines/2e22de49-4153-4f46-bef2-7806cd612810.html">
     <img class="flex-bottle" src="/images/2e/22de49-4153-4f46-bef2-7806cd612810/2021-08-18-10-33-38-22BFC91A-1343-4B19-8EDF-8B537419E72F-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">La Graviere - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5f49c6c1-3ce2-484a-96a4-cf48058e1f68.html">
+  <a class="flex-item flex-item-right" href="/wines/5f49c6c1-3ce2-484a-96a4-cf48058e1f68.html">
     <img class="flex-bottle" src="/images/5f/49c6c1-3ce2-484a-96a4-cf48058e1f68/2021-09-01-22-21-49-4A81CD18-7FE4-4713-9A13-2567667D3E5D-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Arces - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb.html">
+  <a class="flex-item flex-item-left" href="/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb.html">
     <img class="flex-bottle" src="/images/71/41038a-4f6b-4a49-97df-c3fc4befd6fb/2022-07-23-10-44-41-CDAA8355-B702-4905-AADC-99BE74F47CD4-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">La Bubulle à Jeannot - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
+  <a class="flex-item flex-item-right" href="/wines/9702605f-3ee2-47ca-af73-037b8a4e6c23.html">
     <img class="flex-bottle" src="/images/97/02605f-3ee2-47ca-af73-037b8a4e6c23/2021-11-14-12-46-08-2C51E28D-3C4F-421D-AFC0-4434D0130F23-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Poulprix - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
+  <a class="flex-item flex-item-left" href="/wines/b812f67d-dfa6-4037-b6eb-dc0144b59001.html">
     <img class="flex-bottle" src="/images/b8/12f67d-dfa6-4037-b6eb-dc0144b59001/2021-11-14-12-48-31-E133C6CD-F27F-4D54-85EC-C3676D4E9666-1-105-c@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Le Jaja du Fred - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2feb39b3-9f38-4074-a53e-db8ea7a8f890.html">
+  <a class="flex-item flex-item-right" href="/wines/2feb39b3-9f38-4074-a53e-db8ea7a8f890.html">
     <img class="flex-bottle" src="/images/2f/eb39b3-9f38-4074-a53e-db8ea7a8f890/2022-08-17-10-30-53-F89666D3-4854-4F22-A74B-9EDA20D2F502-1-105-c@512.webp"></img>
     <section class="h">Alberto Oggero</section>
     <section class="h text-bolder">Roero Nebbiolo - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
     <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Le mie Origini - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
+  <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2022-08-17-10-33-10-02E59099-F76E-4D80-A5F5-FD94E1D10CE7-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+  <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
     <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c@512.webp"></img>
     <section class="h">Sadie Family</section>
     <section class="h text-bolder">Skerpioen - 2018</section>
