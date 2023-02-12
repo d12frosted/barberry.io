@@ -1,0 +1,34 @@
+{
+  "id": "9867cc2c-bc75-47a1-aa08-4c28399e8689",
+  "name": "Vozémieux",
+  "full-name": "Robert Moncuit Vozémieux 2011",
+  "producer": {
+    "id": "7e19d0e5-c26c-4a0e-84be-5261974e6e83",
+    "name": "Robert Moncuit"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "3",
+  "prices": [
+    "2950 UAH"
+  ],
+  "available": 0,
+  "image": "images/98/67cc2c-bc75-47a1-aa08-4c28399e8689/2021-07-13-07-21-36-DC50EF96-1636-4F86-A4FB-1955A29CBB95-1-105-c.webp",
+  "rating": "9.0"
+}
