@@ -1,15 +1,15 @@
 {
   "id": "904ab06e-a6fa-4b0b-8c55-36a48d6d2668",
-  "name": "739 DT",
-  "full-name": "Jacquesson 739 DT 2011",
+  "name": "739 DT (2011)",
+  "full-name": "Jacquesson 739 DT (2011) NV",
   "producer": {
     "id": "2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca",
     "name": "Jacquesson"
   },
-  "vintage": "2011",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "vintage": "NV",
+  "base-vintage": "2011",
+  "degorgee": "June 2020",
+  "sur-lie": "96 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",

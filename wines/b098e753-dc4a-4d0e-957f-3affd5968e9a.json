@@ -1,0 +1,54 @@
+{
+  "id": "b098e753-dc4a-4d0e-957f-3affd5968e9a",
+  "name": "Loca Deserta",
+  "full-name": "Beykush Loca Deserta 2019",
+  "producer": {
+    "id": "06a2adf5-5f66-47e8-9d78-41eaef001e34",
+    "name": "Beykush"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "e90d69c5-dff2-4881-afb9-1f31edb85937",
+      "name": "Rubin"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "829 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-14-12-21-22-IMG-4946.webp",
+  "rating": "7.5"
+}

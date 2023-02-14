@@ -1,3 +1,5 @@
+[[file:/images/2023-02-14-between-collio-and-carso/2023-02-14-22-09-56-IMG-4980.webp]]
+
 It seems that time has no power over interest in amber wines. [[barberry:/posts/2022-12-31-yearly-events-report][Last year]] we tasted quite a lot of them. We loved them. And the interest lingers on. And what is a better way to celebrate our curiosity than to turn to the legends behind the skin-contact renaissance? Last week we had a chance to taste Gravner Ribolla Anfora 2004, Radikon Ribolla 2007 and Radikon Jakot 2007. And lucky me, I've got more of these wines. Seeing the interest, I figure to gather another party to taste these marvellous wines.
 
 1. [[barberry:/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc][Zidarich Malvasia 2011]]
@@ -21,7 +23,7 @@ It seems that time has no power over interest in amber wines. [[barberry:/posts/
 - grapes: Malvasia di Candia Aromatica
 - appellation: IGP Venezia Giulia
 - location: Friuli-Venezia Giulia, Italy
-- alcohol: 0
+- alcohol: 13.5
 - sugar: 0
 - price: 1890 UAH
 
@@ -119,8 +121,8 @@ Unlike Gravner, Radikon separates stems from grapes before fermentation, which o
 - grapes: Tocai Friulano
 - appellation: IGP Venezia Giulia
 - location: Friuli-Venezia Giulia, Italy
-- alcohol: 0
-- sugar: 0
+- alcohol: 13.5
+- sugar: 1.5
 - price: 1690 UAH
 
 Stanko Radikon and Edi Kante were not happy about bottles of regular 0.75l volume. It's not enough for two people and too much for one person. That's why they designed bottles and corks of alternative size - 0.5l and 1.0l with corks that imitate wine to oxygen proportion of magnum bottles. First release that saw new bottles is 2002. Edi Kante likes to joke that 1.0l bottle is ideal for two people when only one is drinking.
@@ -156,25 +158,39 @@ It's time to come back from where we began. And instead of following the path of
 :ID:                     b5079e25-2abb-4905-9032-707337c6e565
 :END:
 
+1. [[barberry:/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc][Zidarich Malvasia 2011]]
+2. [[barberry:/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d][Gravner Ribolla Anfora 2004]]
+3. [[barberry:/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76][Gravner Ribolla 2010]] (extra bottle)
+4. [[barberry:/wines/73ea334f-8f6a-4fec-ad1c-505874003834][Radikon Ribolla 2007]]
+5. [[barberry:/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2][Radikon Jakot 2007]]
+6. [[barberry:/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3][Zidarich Ruje Rosso 2013]]
+
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|--------------+---------+---------+---------+---------+---------+---------|
+| Vova U       |  +3.90+ |    4.60 |    4.40 |  *4.50* |    4.50 |    4.20 |
+| Diana M      |    3.80 |  *4.80* |    3.90 |    4.30 |    4.20 |  +3.80+ |
+| Oleksandr R  |    4.00 |  +3.80+ |    4.30 |    4.10 |    4.20 |  *4.20* |
+| Dimitry G    |    4.30 |  +3.80+ |  *4.50* |    4.30 |    4.40 |    4.40 |
+| Irina L      |    3.60 |    4.50 |  *4.50* |    3.80 |  +3.50+ |    4.70 |
+| Lena M       |    4.00 |  +3.80+ |    4.40 |  *4.60* |    4.60 |    4.50 |
+| Rostyslav Ya |  *4.20* |    3.20 |    4.00 |    4.10 |  +3.00+ |    4.40 |
+| Anna Kh      |    4.00 |  +3.50+ |    4.50 |    4.40 |  *4.60* |    4.50 |
+| Boris        |    4.10 |    4.50 |  *4.40* |    4.50 |  +4.20+ |    4.20 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
-|---------+--------+--------+--------+-----------+---------+--------+----------|
-| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+|         |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
+|---------+--------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.99 |   3.99 | 0.0388 |      1.00 |    1.00 | 1890.00 |   1.2488 |
+| Wine #2 |   4.06 |   4.09 | 0.2758 |      1.00 |  +4.00+ | 3490.00 |   0.7479 |
+| Wine #3 | *4.32* |   4.33 | 0.0440 |    *3.00* |    0.00 | 2633.00 |   1.4976 |
+| Wine #4 |   4.29 |   4.30 | 0.0565 |      2.00 |    0.00 | 1890.00 | *1.9799* |
+| Wine #5 |   4.13 |   4.16 | 0.2600 |      1.00 |    3.00 | 1690.00 |   1.7393 |
+| Wine #6 | *4.32* | *4.33* | 0.0595 |      1.00 |    1.00 | 2445.00 |   1.6128 |
 
 How to read this table:
 

@@ -21,7 +21,13 @@
     <section class="h text-bolder">Chardonnay Reserve - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dc03aa64-676f-49f0-a813-4adeeff703f2.html">
+  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+    <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-14-12-21-22-IMG-4946@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Loca Deserta - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dc03aa64-676f-49f0-a813-4adeeff703f2.html">
     <img class="flex-bottle" src="/images/dc/03aa64-676f-49f0-a813-4adeeff703f2/2021-03-03-20-14-46-7069F3DF-EDEF-485B-B78F-D6201F15F5C1-1-105-c@512.webp"></img>
     <section class="h">★ 6.00</section>
     <section class="h text-bolder">Sauvignon Blanc Reserve - 2018</section>

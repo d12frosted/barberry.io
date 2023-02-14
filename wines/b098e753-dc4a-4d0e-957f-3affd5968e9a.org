@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-14-12-21-22-IMG-4946@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/06a2adf5-5f66-47e8-9d78-41eaef001e34][Beykush]]
+- Vintage :: 2019
+- Location :: Ukraine, Mykolaiv Oblast
+- Grapes :: Merlot, Cabernet Sauvignon, Tempranillo, Cabernet Franc, Rubin, Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 829 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-02-14 - ☆ 7.50
+
+Unexpectedly good. I am going to take a few bottles and serve one of them blindly to my friends. So be prepared. Unlike most other wines by Beykush, this one is not over-oaked. Charming nose with ripe wild cherry, fig, red flowers, and coffee. Quite juicy, medium to full body with good tannin. The aftertaste is rather long and fruitful (man, the black currant juice). Definitely worth checking.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52ac7f99-cf2f-4590-b19d-141f3aa2c217.html">
+    <img class="flex-bottle" src="/images/52/ac7f99-cf2f-4590-b19d-141f3aa2c217/2022-08-20-10-32-36-3C6BE3AB-B559-4183-BF9C-A95E85752B6D-1-105-c@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Chardonnay Reserve - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dc03aa64-676f-49f0-a813-4adeeff703f2.html">
+    <img class="flex-bottle" src="/images/dc/03aa64-676f-49f0-a813-4adeeff703f2/2021-03-03-20-14-46-7069F3DF-EDEF-485B-B78F-D6201F15F5C1-1-105-c@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Sauvignon Blanc Reserve - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ea445548-2b5e-45b0-b985-33f8589b1f52.html">
+    <img class="flex-bottle" src="/images/ea/445548-2b5e-45b0-b985-33f8589b1f52/2021-03-03-19-58-22-4F3D6572-CE2B-4151-B129-C11454F07AE6-1-105-c@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Albariño - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ffc29f89-1b63-4c09-8f6d-a0077962e90f.html">
+    <img class="flex-bottle" src="/images/ff/c29f89-1b63-4c09-8f6d-a0077962e90f/2022-08-20-10-52-44-0024A8F7-0A04-4081-B87D-77A41FEC425A-1-105-c@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Arbina - 2017</section>
+  </a>
+
+</div>
+#+end_export
