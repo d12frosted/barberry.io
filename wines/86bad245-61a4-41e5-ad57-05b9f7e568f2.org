@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: 1.5
 - Price :: 1690 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -28,6 +28,12 @@ After Stanko passing away in 2016, his son Saša took the winery in his hands. T
 [[barberry:/posts/2023-02-07-on-the-collio-hills][On the Collio Hills]], wine #4.
 
 It's hard to keep up in such a challenging lineup, and IMO, Jakot manages. It's not as complex as Ribolla (both of them, actually), but it's still a great wine. Fresh bouquet of slightly spoiled citrus (mix of pomelo with grapefruit), VA, field flowers (mostly fresh), toffee and buckwheat honey. A good amount of funkiness, just to spice things up a little bit. Fresh and juicy with a long aftertaste.
+
+*** 2023-02-14 - ☆ 8.50
+
+Wine #5 on [[barberry:/posts/2023-02-14-between-collio-and-carso][Between Collio and Carso]].
+
+This Tocai Friulano is relatively crazy and bright (mind the respectable age). I guess this is what many people imagine when they talk about orange wines. Maybe I am tired of this style, but at least Jakot is so well made that I am ready to drink it every day. One more study case of VA adding complexity. Soaked apples? Don't mind. Pickles soaked in kombucha? No one is ideal. This wine has lots of fruits combined with honey and tea. Juicy and vivid. Glou glou.
 
 ** Related
 
@@ -63,13 +69,31 @@ It's hard to keep up in such a challenging lineup, and IMO, Jakot manages. It's 
     <section class="h text-bolder">Malvasia - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+  <a class="flex-item flex-item-right" href="/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">
+    <img class="flex-bottle" src="/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c@512.webp"></img>
+    <section class="h">Gravner</section>
+    <section class="h text-bolder">Ribolla - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
     <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2023-02-08-07-18-21-IMG-4811@512.webp"></img>
     <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f677f3f4-c6a4-43e9-9872-b4dd8efa9707.html">
+  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+    <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-14-12-21-22-IMG-4946@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Loca Deserta - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
+    <img class="flex-bottle" src="/images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541@512.webp"></img>
+    <section class="h">Zidarich</section>
+    <section class="h text-bolder">Ruje Rosso - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f677f3f4-c6a4-43e9-9872-b4dd8efa9707.html">
     <img class="flex-bottle" src="/images/f6/77f3f4-c6a4-43e9-9872-b4dd8efa9707/2023-01-16-16-48-50-IMG-4380@512.webp"></img>
     <section class="h">Fattoria San Lorenzo</section>
     <section class="h text-bolder">Marche Bianco di Gino - 2021</section>
