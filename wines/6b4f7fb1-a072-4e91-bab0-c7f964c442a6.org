@@ -1,0 +1,51 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/d88861c5-a65f-4bbe-b8e0-6478d927ec4e][Pierre Gimonnet & Fils]]
+- Base vintage :: 2016
+- Disgorged in :: January 2020
+- Spent on lees :: >40 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 6
+- Price :: 1084 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-05-30 - ☆ 7.50
+
+Apple, pear, brioche, baked apple. Good acidity, well balanced. Friendly and enjoyable.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f40f24e-d014-4d61-9909-dfa11c6aadff.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut 1er Cru Blanc de Blancs Cuvee Fleuron - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bac13ff4-c7e4-420d-80f8-14097174a66b.html">
+    <img class="flex-bottle" src="/images/ba/c13ff4-c7e4-420d-80f8-14097174a66b/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c@512.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+    <img class="flex-bottle" src="/images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Rosso di Marco - 2017</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,57 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/d88861c5-a65f-4bbe-b8e0-6478d927ec4e][Pierre Gimonnet & Fils]]
+- Vintage :: 2014
+- Disgorged in :: August 2019
+- Spent on lees :: >40 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 5
+- Price :: 1371 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-11-21 - ☆ 8.50
+
+Very nice Champagne. Quite simple, but highly enjoyable. Pear, plastic, salt, dust and oil. Long aftertaste, very tasty and refreshing. Well made, great QPR.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6b4f7fb1-a072-4e91-bab0-c7f964c442a6.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuis 1er Cru (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bac13ff4-c7e4-420d-80f8-14097174a66b.html">
+    <img class="flex-bottle" src="/images/ba/c13ff4-c7e4-420d-80f8-14097174a66b/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c@512.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+    <img class="flex-bottle" src="/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Lucido - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+    <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c@512.webp"></img>
+    <section class="h">Jacquesson</section>
+    <section class="h text-bolder">Cuvee 743 Grand Vin (2015) - NV</section>
+  </a>
+
+</div>
+#+end_export

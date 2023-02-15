@@ -1,0 +1,43 @@
+{
+  "id": "ea95b34e-b0e6-4581-a6b0-47d39234286f",
+  "name": "CHARdO",
+  "full-name": "Sarnin-Berrux CHARdO 2020",
+  "producer": {
+    "id": "114302ea-341a-4631-ba59-18e9b0691b0c",
+    "name": "Sarnin-Berrux"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3",
+  "prices": [
+    "1060 UAH",
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ea/95b34e-b0e6-4581-a6b0-47d39234286f/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c.webp",
+  "rating": "NA"
+}

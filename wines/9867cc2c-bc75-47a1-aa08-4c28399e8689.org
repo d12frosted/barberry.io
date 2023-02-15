@@ -41,7 +41,13 @@ P.S. We paired this wine with duck! Now you have to live with this information.
     <section class="h text-bolder">Amour de Deutz - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
+  <a class="flex-item flex-item-right" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
     <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
     <section class="h">Marc Hebrart</section>
     <section class="h text-bolder">Premier Cru Blanc de Blancs - NV</section>

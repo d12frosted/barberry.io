@@ -1,0 +1,41 @@
+#+attr_html: :class wine-main-image
+[[file:/images/75/ff8822-53d4-4e4a-ba0d-75c9096cea59/2023-02-15-08-52-26-AC006626-6C93-4B1D-BC09-4A2FCD488810-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/e6b1b575-a7bd-429e-8873-1a44944edb05][Planeta]]
+- Vintage :: 2020
+- Location :: Italy, Cerasuolo di Vittoria DOCG
+- Grapes :: Nero d'Avola, Frappato
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 530 UAH, 629 UAH, 683 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Despite the rich wine history that spans over 3000 years, Sicily started to appear on international wine maps only in the last few decades. Planeta winery is among the leading winemakers responsible for quality revolution on the island. Alessio Planeta decided to experiment with international grapes alongside autochthonous ones. In 1985, after establishing the first winery at Ulmo, they planted their first vines. And ten years later, they released their first wine - Chardonnay. Many consider (citation needed) that this particular wine (among a few others) changed the perception of Sicily on the international market.
+
+Today Planeta owns 6 wineries across Sicily: Ulmo and Dispensa in Menfi, Dorilli in Vittoria, Buonivini in Noto, Feudo di Mezzo on Etna and La Baronia in Capo Milazzo.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a9209b03-ecbd-44f9-a5dd-b13fae5e9f99.html">
+    <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Etna Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
+    <img class="flex-bottle" src="/images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Cometa - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,31 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9f40f24e-d014-4d61-9909-dfa11c6aadff.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Brut 1er Cru Blanc de Blancs Cuvee Fleuron - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6b4f7fb1-a072-4e91-bab0-c7f964c442a6.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuis 1er Cru (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bac13ff4-c7e4-420d-80f8-14097174a66b.html">
+    <img class="flex-bottle" src="/images/ba/c13ff4-c7e4-420d-80f8-14097174a66b/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 8.75</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2010</section>
+  </a>
+
+</div>
+#+end_export

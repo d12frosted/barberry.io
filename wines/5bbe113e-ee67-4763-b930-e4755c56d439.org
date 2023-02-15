@@ -1,0 +1,69 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/d88861c5-a65f-4bbe-b8e0-6478d927ec4e][Pierre Gimonnet & Fils]]
+- Vintage :: 2010
+- Disgorged in :: August 2020
+- Spent on lees :: >72 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 2.5
+- Price :: 1902 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-07-12 - ☆ 8.75
+
+Bdb Dinner #4. It's always interesting to taste vintage non-dosage Champagne. They say 2010 was a hard year, and here were are despite the odds. Reductive style, elegant and beautiful wine. Lemon tart, oysters, ripe pear, brioche and hints of gorgonzola docle. Fresh, sharp with evolving aftertaste and flavours of oysters with cheese. Even picante in the finish. Great bargain.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6b4f7fb1-a072-4e91-bab0-c7f964c442a6.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuis 1er Cru (2016) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f40f24e-d014-4d61-9909-dfa11c6aadff.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut 1er Cru Blanc de Blancs Cuvee Fleuron - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bac13ff4-c7e4-420d-80f8-14097174a66b.html">
+    <img class="flex-bottle" src="/images/ba/c13ff4-c7e4-420d-80f8-14097174a66b/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c@512.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2008</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
+    <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Carjcanti - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
+    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c@512.webp"></img>
+    <section class="h">Deutz</section>
+    <section class="h text-bolder">Amour de Deutz - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9867cc2c-bc75-47a1-aa08-4c28399e8689.html">
+    <img class="flex-bottle" src="/images/98/67cc2c-bc75-47a1-aa08-4c28399e8689/2021-07-13-07-21-36-DC50EF96-1636-4F86-A4FB-1955A29CBB95-1-105-c@512.webp"></img>
+    <section class="h">Robert Moncuit</section>
+    <section class="h text-bolder">Vozémieux - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
+    <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
+    <section class="h">Marc Hebrart</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs - NV</section>
+  </a>
+
+</div>
+#+end_export

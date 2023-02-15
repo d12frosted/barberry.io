@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ea/95b34e-b0e6-4581-a6b0-47d39234286f/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c@512.webp]]
+
+- Type :: Rose Still, Dry
+- Producer :: [[barberry:/producers/114302ea-341a-4631-ba59-18e9b0691b0c][Sarnin-Berrux]]
+- Vintage :: 2020
+- Location :: France, Vin de Table
+- Grapes :: Chardonnay, Pinot Noir, Gamay
+- Alcohol :: 14
+- Sugar :: 3
+- Price :: 1060 UAH, 1250 UAH
+- Cellar :: 1 bottle
+
+A blend of Chardonnay (80%), Pinot Noir (10%) and Gamay (10%).
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6827c49b-0da9-4160-b70f-a4aa17d65e62.html">
+    <img class="flex-bottle" src="/images/68/27c49b-0da9-4160-b70f-a4aa17d65e62/2021-11-30-09-13-59-099BD7B7-15E2-48E2-AFDE-E25BFB8529FE-1-105-c@512.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">Savigny-les-Beaune - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6dc614b9-ea55-4585-8731-0da5814308f7.html">
+    <img class="flex-bottle" src="/images/6d/c614b9-ea55-4585-8731-0da5814308f7/2022-09-17-20-17-26-IMG-2248@512.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">SAIGNéE - 2020</section>
+  </a>
+
+</div>
+#+end_export

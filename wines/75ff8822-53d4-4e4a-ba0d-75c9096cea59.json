@@ -1,0 +1,40 @@
+{
+  "id": "75ff8822-53d4-4e4a-ba0d-75c9096cea59",
+  "name": "Cerasuolo di Vittoria",
+  "full-name": "Planeta Cerasuolo di Vittoria 2020",
+  "producer": {
+    "id": "e6b1b575-a7bd-429e-8873-1a44944edb05",
+    "name": "Planeta"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "530 UAH",
+    "629 UAH",
+    "683 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/75/ff8822-53d4-4e4a-ba0d-75c9096cea59/2023-02-15-08-52-26-AC006626-6C93-4B1D-BC09-4A2FCD488810-1-105-c.webp",
+  "rating": "NA"
+}

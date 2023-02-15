@@ -1,0 +1,30 @@
+{
+  "id": "bac13ff4-c7e4-420d-80f8-14097174a66b",
+  "name": "Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé",
+  "full-name": "Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008",
+  "producer": {
+    "id": "d88861c5-a65f-4bbe-b8e0-6478d927ec4e",
+    "name": "Pierre Gimonnet & Fils"
+  },
+  "vintage": "2008",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "2985 UAH",
+    "3300 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ba/c13ff4-c7e4-420d-80f8-14097174a66b/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c.webp",
+  "rating": "NA"
+}

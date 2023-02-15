@@ -1,0 +1,34 @@
+{
+  "id": "5bbe113e-ee67-4763-b930-e4755c56d439",
+  "name": "Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé",
+  "full-name": "Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2010",
+  "producer": {
+    "id": "d88861c5-a65f-4bbe-b8e0-6478d927ec4e",
+    "name": "Pierre Gimonnet & Fils"
+  },
+  "vintage": "2010",
+  "base-vintage": null,
+  "degorgee": "August 2020",
+  "sur-lie": ">72 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.5",
+  "prices": [
+    "1902 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "8.75"
+}

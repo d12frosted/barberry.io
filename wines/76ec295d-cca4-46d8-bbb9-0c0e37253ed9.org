@@ -93,5 +93,11 @@ Medium intensity, vanilla, black and red berries, hints of leather (in a funky w
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/6b4f7fb1-a072-4e91-bab0-c7f964c442a6.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Pierre Gimonnet & Fils</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuis 1er Cru (2016) - NV</section>
+  </a>
+
 </div>
 #+end_export

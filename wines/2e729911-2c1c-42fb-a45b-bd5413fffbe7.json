@@ -1,15 +1,15 @@
 {
   "id": "2e729911-2c1c-42fb-a45b-bd5413fffbe7",
-  "name": "Rosé de Macération Champagne Grand Cru 'Bouzy'",
-  "full-name": "Benoît Lahaye Rosé de Macération Champagne Grand Cru 'Bouzy' NV",
+  "name": "Rosé de Macération a Bouzy (d2020)",
+  "full-name": "Benoît Lahaye Rosé de Macération a Bouzy (d2020) NV",
   "producer": {
     "id": "a216dc89-bf4f-4215-937f-73c3b1de5918",
     "name": "Benoît Lahaye"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "N/A",
+  "degorgee": "April 2020",
+  "sur-lie": "N/A",
   "colour": "rose",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
