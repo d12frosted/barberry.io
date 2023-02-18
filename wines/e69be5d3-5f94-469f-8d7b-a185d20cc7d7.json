@@ -1,0 +1,34 @@
+{
+  "id": "e69be5d3-5f94-469f-8d7b-a185d20cc7d7",
+  "name": "Ladoix Rouge",
+  "full-name": "Domaine Prieure Roch Ladoix Rouge 2020",
+  "producer": {
+    "id": "8985344d-15a4-49b7-93b9-32e729294881",
+    "name": "Domaine Prieure Roch"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0.1",
+  "prices": [
+    "3950 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e6/9be5d3-5f94-469f-8d7b-a185d20cc7d7/2023-02-17-13-36-32-0B9D6722-4D3A-4F0B-AB0B-E617641AE44C-1-105-c.webp",
+  "rating": "7.25"
+}

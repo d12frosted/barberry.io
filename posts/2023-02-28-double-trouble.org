@@ -1,0 +1,80 @@
+Wines:
+
+1. [[barberry:/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608][Gulfi Carjcanti 2019]]
+2. [[barberry:/wines/070e8a7b-c212-458b-a737-c9ba893150dc][Gulfi Carjcanti 2017]]
+3. [[barberry:/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91][Gulfi Carjcanti 2015]]
+4. [[barberry:/wines/ab4efba9-201e-4489-b2db-43a6f7863585][Raúl Pérez La Vizcaína La Del Vivo 2017]]
+5. [[barberry:/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c][Raúl Pérez La Vizcaína La Del Vivo 2015]]
+6. [[barberry:/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe][Cantina Alchemica M Rosso 2006]]
+
+* Gulfi Carjcanti 2015 / 2017 / 2019
+:PROPERTIES:
+:ID:                     11f2a5dc-6022-4365-a474-558d0a95c95d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-02-28-double-trouble/2022-12-09-17-37-39-C0B71F75-4229-44CE-846D-DF008F8E3553-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7bec814a-5334-4712-9ffb-46c8cc42ca8b][Gulfi]]
+- name: Carjcanti
+- vintage: [[barberry:/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91][2015]] / [[barberry:/wines/070e8a7b-c212-458b-a737-c9ba893150dc][2017]] / [[barberry:/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608][2019]]
+- grapes: Carricante
+- appellation: Sicilia DOC
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: 2
+- price: 908 UAH
+
+* Raúl Pérez La Vizcaína La Del Vivo 2015 / 2017
+:PROPERTIES:
+:ID:                     49fd7ef9-819b-42ee-b105-4b087ace5a22
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-02-28-double-trouble/2022-11-23-14-38-35-IMG-3337.webp]]
+
+- producer: [[barberry:/producers/2fe18e47-ec51-4372-9072-a3e522007d7a][Raúl Pérez]]
+- name: La Vizcaína La Del Vivo
+- vintage: [[barberry:/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c][2015]] / [[barberry:/wines/ab4efba9-201e-4489-b2db-43a6f7863585][2017]]
+- grapes: Godello
+- appellation: Bierzo DO
+- location: Castile and León, Spain
+- alcohol: 13.5
+- sugar: 1.2
+- price: 808 UAH
+
+* Scores
+:PROPERTIES:
+:ID:                     f89522c3-02c0-4fde-8712-da0846524251
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------+---------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
+|---------+--------+--------+--------+-----------+---------+--------+----------|
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+

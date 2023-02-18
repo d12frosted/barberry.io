@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8a289b1c-eda1-470c-8622-49175f0c3da7.html">
+    <img class="flex-bottle" src="/images/8a/289b1c-eda1-470c-8622-49175f0c3da7/2023-02-17-13-39-44-9232F2BC-73D4-49C0-8066-71B6FCCD88EC-1-105-c@512.webp"></img>
+    <section class="h">★ 7.40</section>
+    <section class="h text-bolder">Noir - 2011</section>
+  </a>
+
+</div>
+#+end_export

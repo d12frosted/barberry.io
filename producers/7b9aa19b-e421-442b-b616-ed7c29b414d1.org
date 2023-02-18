@@ -9,5 +9,11 @@
     <section class="h text-bolder">Barda Pinot Noir - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/1d7d2493-1eb3-4764-8d2c-e8fd8e6822f0.html">
+    <img class="flex-bottle" src="/images/1d/7d2493-1eb3-4764-8d2c-e8fd8e6822f0/2023-02-17-13-42-24-8C58489F-8BBE-498E-AE2B-42587840E8F7-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Cincuenta Y Cinco Pinot Noir - 2016</section>
+  </a>
+
 </div>
 #+end_export

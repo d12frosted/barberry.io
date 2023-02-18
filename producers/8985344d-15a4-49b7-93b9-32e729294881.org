@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e69be5d3-5f94-469f-8d7b-a185d20cc7d7.html">
+    <img class="flex-bottle" src="/images/e6/9be5d3-5f94-469f-8d7b-a185d20cc7d7/2023-02-17-13-36-32-0B9D6722-4D3A-4F0B-AB0B-E617641AE44C-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Ladoix Rouge - 2020</section>
+  </a>
+
+</div>
+#+end_export
