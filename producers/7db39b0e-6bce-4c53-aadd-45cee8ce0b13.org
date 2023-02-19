@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/bfa42d1b-04b4-4661-90ec-b75ddcd866e0.html">
+    <img class="flex-bottle" src="/images/bf/a42d1b-04b4-4661-90ec-b75ddcd866e0/2023-02-19-11-58-34-02CF2597-B43F-456C-A75E-528200451976-1-105-c@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">7 Crus (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
+    <img class="flex-bottle" src="/images/6f/9aaefd-a731-4fb3-8878-977fae2064b7/2021-08-18-10-39-17-EB1D80EC-E0BF-42D6-990B-C549E843B9BE-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Terroirs (d2021) - NV</section>
+  </a>
+
+</div>
+#+end_export

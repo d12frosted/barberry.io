@@ -6,7 +6,19 @@
   <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
     <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
     <section class="h">★ 8.00</section>
-    <section class="h text-bolder">Premier Cru Blanc de Blancs - NV</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L539/2020.09.15 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/49d883c7-bd45-4447-8500-8ed807cc8afe.html">
+    <img class="flex-bottle" src="/images/49/d883c7-bd45-4447-8500-8ed807cc8afe/2023-02-19-11-43-47-2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L539/2021.03.16 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/eb96190b-7cf2-4bf8-b632-ce335b4d34af.html">
+    <img class="flex-bottle" src="/images/eb/96190b-7cf2-4bf8-b632-ce335b4d34af/2023-02-19-11-48-51-B5A277EC-04C7-4130-88D5-031DC11F9452-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L540/2021.07.20 - NV</section>
   </a>
 
 </div>

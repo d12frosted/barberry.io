@@ -31,25 +31,31 @@ Every bottle of Radikon is a celebration, but Jakot 2013 is even more. Amazing o
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+  <a class="flex-item flex-item-left" href="/wines/61f08e0e-3004-44aa-a663-133f41b252b2.html">
+    <img class="flex-bottle" src="/images/61/f08e0e-3004-44aa-a663-133f41b252b2/2023-02-19-11-33-43-photo-2023-02-19 11.32.10@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Ribolla - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
     <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
+  <a class="flex-item flex-item-left" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
     <img class="flex-bottle" src="/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Jakot - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">
+  <a class="flex-item flex-item-right" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">
     <img class="flex-bottle" src="/images/e5/c2e4c9-4027-410f-8a20-e14079d83416/2020-08-13-08-57-34-ADE4EDAE-70E0-445D-A462-FB72F489EFBA-1-105-c@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Slatnik - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
+  <a class="flex-item flex-item-left" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
     <img class="flex-bottle" src="/images/e9/365c42-85f2-472a-b2cb-c16985f36a4e/2021-03-20-09-18-16-549E62EC-36E7-4CC8-9A27-6839AFB2B85D-1-105-c@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Slatnik - 2018</section>

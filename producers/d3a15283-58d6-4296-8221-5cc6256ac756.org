@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8e202699-8150-4190-8a8f-85131957a6f6.html">
+    <img class="flex-bottle" src="/images/8e/202699-8150-4190-8a8f-85131957a6f6/2023-02-19-12-00-52-52B7EF3D-87DA-48E6-AD1E-B3C6515FB9B0-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Blanc de Blancs Brut Millésime - 2006</section>
+  </a>
+
+</div>
+#+end_export

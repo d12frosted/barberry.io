@@ -1,15 +1,15 @@
 {
   "id": "bef62097-f916-4554-a591-42c380412d7b",
-  "name": "Premier Cru Blanc de Blancs",
-  "full-name": "Marc Hebrart Premier Cru Blanc de Blancs NV",
+  "name": "Premier Cru Blanc de Blancs Brut L539/2020.09.15",
+  "full-name": "Marc Hebrart Premier Cru Blanc de Blancs Brut L539/2020.09.15 NV",
   "producer": {
     "id": "97bee62d-6e14-4f79-a95d-37893c50a84e",
     "name": "Marc Hebrart"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "N/A",
+  "degorgee": "15 September 2020",
+  "sur-lie": "N/A",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -26,10 +26,9 @@
   "alcohol": "12",
   "sugar": "NA",
   "prices": [
-    "1320 UAH",
     "1190 UAH"
   ],
-  "available": 0.0,
+  "available": 0,
   "image": "images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C.webp",
   "rating": "8.0"
 }

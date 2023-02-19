@@ -1,0 +1,34 @@
+{
+  "id": "61f08e0e-3004-44aa-a663-133f41b252b2",
+  "name": "Ribolla",
+  "full-name": "Radikon Ribolla 2013",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2336 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/61/f08e0e-3004-44aa-a663-133f41b252b2/2023-02-19-11-33-43-photo-2023-02-19 11.32.10.webp",
+  "rating": "8.5"
+}

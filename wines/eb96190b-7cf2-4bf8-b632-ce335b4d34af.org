@@ -1,0 +1,47 @@
+#+attr_html: :class wine-main-image
+[[file:/images/eb/96190b-7cf2-4bf8-b632-ce335b4d34af/2023-02-19-11-48-51-B5A277EC-04C7-4130-88D5-031DC11F9452-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/97bee62d-6e14-4f79-a95d-37893c50a84e][Marc Hebrart]]
+- Base vintage :: N/A
+- Disgorged in :: 20 July 2021
+- Spent on lees :: N/A
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 1607 UAH
+- Cellar :: N/A
+
+Grande Vallée de la Marne, Côtes des Blancs.
+
+** Ratings
+
+*** 2023-02-17 - ☆ 7.50
+
+Simple entry-level Blanc de Blancs. Typical bouquet of crème brûlée, pear and croissant. Well-made, round and butter. Relatively long aftertaste. Worth the price tag? No.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/49d883c7-bd45-4447-8500-8ed807cc8afe.html">
+    <img class="flex-bottle" src="/images/49/d883c7-bd45-4447-8500-8ed807cc8afe/2023-02-19-11-43-47-2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
+    <section class="h">Marc Hebrart</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L539/2021.03.16 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
+    <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
+    <section class="h">Marc Hebrart</section>
+    <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L539/2020.09.15 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61f08e0e-3004-44aa-a663-133f41b252b2.html">
+    <img class="flex-bottle" src="/images/61/f08e0e-3004-44aa-a663-133f41b252b2/2023-02-19-11-33-43-photo-2023-02-19 11.32.10@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Ribolla - 2013</section>
+  </a>
+
+</div>
+#+end_export

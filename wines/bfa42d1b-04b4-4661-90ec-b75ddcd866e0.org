@@ -1,0 +1,45 @@
+#+attr_html: :class wine-main-image
+[[file:/images/bf/a42d1b-04b4-4661-90ec-b75ddcd866e0/2023-02-19-11-58-34-02CF2597-B43F-456C-A75E-528200451976-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/7db39b0e-6bce-4c53-aadd-45cee8ce0b13][Agrapart]]
+- Base vintage :: N/A
+- Disgorged in :: February 2021
+- Spent on lees :: ~36 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12
+- Sugar :: 5
+- Price :: 4500 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-02-18 - ☆ 8.25
+
+Stylish wine. Thanks to 2 years in the bottle after disgorgement, it offers freshly baked croissants with butter in addition to restrained minerality. Voluminous, vinous and long aftertaste. The balance is close to ideal. It has nice bitternes in the finish with flavours of Jerez and iodine.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
+    <img class="flex-bottle" src="/images/6f/9aaefd-a731-4fb3-8878-977fae2064b7/2021-08-18-10-39-17-EB1D80EC-E0BF-42D6-990B-C549E843B9BE-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">Terroirs (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8e202699-8150-4190-8a8f-85131957a6f6.html">
+    <img class="flex-bottle" src="/images/8e/202699-8150-4190-8a8f-85131957a6f6/2023-02-19-12-00-52-52B7EF3D-87DA-48E6-AD1E-B3C6515FB9B0-1-105-c@512.webp"></img>
+    <section class="h">Adam-Jaeger</section>
+    <section class="h text-bolder">Blanc de Blancs Brut Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f.html">
+    <img class="flex-bottle" src="/images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2022-12-19-17-40-31-IMG-3923@512.webp"></img>
+    <section class="h">Jacquesson</section>
+    <section class="h text-bolder">Cuvée 745 Grand Vin (2017) - NV</section>
+  </a>
+
+</div>
+#+end_export

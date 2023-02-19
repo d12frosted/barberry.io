@@ -39,19 +39,25 @@ Tasted as part of Divych Vechir.
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+  <a class="flex-item flex-item-right" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
+    <img class="flex-bottle" src="/images/6f/9aaefd-a731-4fb3-8878-977fae2064b7/2021-08-18-10-39-17-EB1D80EC-E0BF-42D6-990B-C549E843B9BE-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">Terroirs (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle (2015) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c@512.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>

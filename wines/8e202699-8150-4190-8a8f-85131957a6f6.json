@@ -1,0 +1,34 @@
+{
+  "id": "8e202699-8150-4190-8a8f-85131957a6f6",
+  "name": "Blanc de Blancs Brut Millésime",
+  "full-name": "Adam-Jaeger Blanc de Blancs Brut Millésime 2006",
+  "producer": {
+    "id": "d3a15283-58d6-4296-8221-5cc6256ac756",
+    "name": "Adam-Jaeger"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "3200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8e/202699-8150-4190-8a8f-85131957a6f6/2023-02-19-12-00-52-52B7EF3D-87DA-48E6-AD1E-B3C6515FB9B0-1-105-c.webp",
+  "rating": "8.5"
+}
