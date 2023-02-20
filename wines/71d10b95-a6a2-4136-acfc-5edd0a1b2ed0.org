@@ -35,5 +35,11 @@ Interesting Chardonnay. Oil, oak, brioche, creme brulee, butter and apples. Deep
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée Umami Grand Cru - 2012</section>
+  </a>
+
 </div>
 #+end_export

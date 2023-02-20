@@ -1,3 +1,24 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Gravner]]
+- Vintage :: 2003
+- Location :: Italy, Vino (IT)
+- Grapes :: Pignolo
+- Alcohol :: 13.5
+- Sugar :: 2.4
+- Price :: 5900 UAH
+- Cellar :: N/A
+
+#+begin_quote
+Produced only with local red grapes, fermented on the skins in wooden vats, with wild yeasts and no temperature control. After the drawing off and pressing phases the wine was aged in oak barrels for four years. Bottled during a waning moon without fining or filtration.
+
+--- [[https://www.gravner.it/][gravner.it]]
+#+end_quote
+
+** Producer
+
 Many consider Joško Gravner to be the father of macerated white wine trend. Yet it's interesting that before his first amber wine, he was a rising star in the modern and technological winemaking scene. He confessed that he would purchase any new equipment he could find. But his life turned upside down after a trip to California back in 1987. California was (and maybe still is) a destination for many winemakers as this region represents triumph and possibilities of new. No wonder, as Californian wines won Judgement of Paris in 1976. This event dramatically changed the wine world. Joško Gravner was taking the same path as Californian winemakers - oak, science, additives and all that cool stuff. But after tasting 1000 wines in 10 days, he was astonished by faceless and tasteless results. And he realised this was the road to a dead end. Now he knew how not to produce wines.
 
 His search lasted for almost a decade. Joško Gravner studied the history of winemaking and searched for a way to produce authentic wines that talk in the language of land and history. He discovered that his ancestors made skin-contact wines here in Collio/Brda. And then, he learned that Georgia has a very long history of winemaking spanning over 8000 years. And more importantly, this history includes skin-contact wines.
@@ -10,25 +31,25 @@ Interestingly, Ribolla and Breg (two wines produced by Joško Gravner) had the w
 
 And today, wines produced by Joško Gravner are treated as the highest manifestation of skill. Many people consider Ribolla to be the best orange wine in the world.
 
-** Wines
+[[barberry:/producers/bd1ae49f-3ec6-4701-b633-832d29f929f8][Read more...]]
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/4ceb9459-9367-48c8-996d-440223870289.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">★ -</section>
-    <section class="h text-bolder">Breg Rosso - 2003</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">
+  <a class="flex-item flex-item-left" href="/wines/2d320bfb-05fb-4c2c-9ce8-81b52e6eff76.html">
     <img class="flex-bottle" src="/images/2d/320bfb-05fb-4c2c-9ce8-81b52e6eff76/2021-05-26-09-53-35-8AE25052-C7F8-4558-9583-0D322C4A8332-1-105-c@512.webp"></img>
-    <section class="h">★ 8.65</section>
+    <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
     <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2023-02-08-07-18-21-IMG-4811@512.webp"></img>
-    <section class="h">★ 9.00</section>
+    <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>
 

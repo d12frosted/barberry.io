@@ -1,0 +1,38 @@
+{
+  "id": "c90f0d65-bdfa-4b21-93fd-936e99a296c4",
+  "name": "Cuvée Umami Grand Cru",
+  "full-name": "De Sousa Cuvée Umami Grand Cru 2012",
+  "producer": {
+    "id": "6c0d7068-c072-49c5-980a-9f45b4d24541",
+    "name": "De Sousa"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "5",
+  "prices": [
+    "7700 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

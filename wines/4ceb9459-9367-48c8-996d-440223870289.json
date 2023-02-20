@@ -1,0 +1,34 @@
+{
+  "id": "4ceb9459-9367-48c8-996d-440223870289",
+  "name": "Breg Rosso",
+  "full-name": "Gravner Breg Rosso 2003",
+  "producer": {
+    "id": "bd1ae49f-3ec6-4701-b633-832d29f929f8",
+    "name": "Gravner"
+  },
+  "vintage": "2003",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "a802faa2-dd65-47d2-94b9-b7e06e2cb4b4",
+      "name": "Pignolo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.4",
+  "prices": [
+    "5900 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

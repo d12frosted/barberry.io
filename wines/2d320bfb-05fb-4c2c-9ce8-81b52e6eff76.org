@@ -48,37 +48,43 @@ To have an opportunity to compare two vintages of Ribolla Gialla by Gravner! Unl
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
+  <a class="flex-item flex-item-left" href="/wines/4ceb9459-9367-48c8-996d-440223870289.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Gravner</section>
+    <section class="h text-bolder">Breg Rosso - 2003</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8d575670-c594-4f55-b330-6ed0a1e63d3d.html">
     <img class="flex-bottle" src="/images/8d/575670-c594-4f55-b330-6ed0a1e63d3d/2023-02-08-07-18-21-IMG-4811@512.webp"></img>
     <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla Anfora - 2004</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc.html">
+  <a class="flex-item flex-item-left" href="/wines/1e6aec1c-90f1-4cc6-8cb7-f174abd34fdc.html">
     <img class="flex-bottle" src="/images/1e/6aec1c-90f1-4cc6-8cb7-f174abd34fdc/2023-02-08-07-13-47-IMG-4807@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Malvasia - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+  <a class="flex-item flex-item-right" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
     <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
+  <a class="flex-item flex-item-left" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
     <img class="flex-bottle" src="/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Jakot - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
     <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-14-12-21-22-IMG-4946@512.webp"></img>
     <section class="h">Beykush</section>
     <section class="h text-bolder">Loca Deserta - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
+  <a class="flex-item flex-item-left" href="/wines/c641c3ee-8721-4752-abe8-692e1e2e91b3.html">
     <img class="flex-bottle" src="/images/c6/41c3ee-8721-4752-abe8-692e1e2e91b3/2023-01-24-07-02-19-IMG-4541@512.webp"></img>
     <section class="h">Zidarich</section>
     <section class="h text-bolder">Ruje Rosso - 2013</section>
