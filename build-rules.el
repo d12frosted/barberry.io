@@ -594,39 +594,47 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 ITEMS-ALL is input table as returned by `porg-build-input'."
   (with-current-buffer (find-file-noselect target)
     (delete-region (point-min) (point-max))
-    (insert
-     "#+attr_html: :class wines-table\n"
-     (string-table
-      :header '("county" "producer" "name" "vintage" "grapes" "rate" "amount")
-      :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
-      :row-start "| " :sep " | " :row-end " |"
-      :data
-      (->> items
-           (hash-table-values)
-           (--filter (string-equal (porg-item-type it) "note"))
-           (-map #'porg-item-item)
-           (--filter (> (vulpea-note-meta-get it "available" 'number) 0))
-           (brb-wines-sort)
-           (--map
-            (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
-                            (vulpea-note-meta-get it "appellation" 'note)))
-                   (country (vulpea-note-meta-get roa "country" 'note))
-                   (producer (vulpea-note-meta-get it "producer" 'note)))
-              (list
-               (vulpea-utils-link-make-string country)
-               (vulpea-utils-link-make-string producer)
-               (org-link-make-string
-                (concat "id:" (vulpea-note-id it))
-                (vulpea-note-meta-get it "name"))
-               (or (vulpea-note-meta-get it "vintage") "NV")
-               (mapconcat #'vulpea-utils-link-make-string
-                          (vulpea-note-meta-get-list it "grapes" 'note)
-                          ", ")
-               (if (vulpea-note-meta-get it "ratings")
-                   (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
-                 "-")
-               (vulpea-note-meta-get it "available" 'number))))))
-     "\n")
+    (let ((cellar (->> items
+                       (hash-table-values)
+                       (--filter (string-equal (porg-item-type it) "note"))
+                       (-map #'porg-item-item)
+                       (--filter (> (vulpea-note-meta-get it "available" 'number) 0)))))
+      (insert
+       "Welcome to my virtual cellar. It contains *"
+       (format "%d" (seq-length cellar))
+       "* wines or *"
+       (format "%.2f" (--reduce-from (+ acc (vulpea-note-meta-get it "available" 'number))
+                                     0 cellar))
+       "* bottles in total, scattered around different places. In case the amount of bottles is not a natural number, it means that I started a bottle, but didn't finish it yet (e.g. using Coravin or the wine doesn't mind being opened)."
+       "\n\n"
+       "#+attr_html: :class wines-table\n"
+       (string-table
+        :header '("county" "producer" "name" "vintage" "grapes" "rate" "amount")
+        :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
+        :row-start "| " :sep " | " :row-end " |"
+        :data
+        (->> cellar
+             (brb-wines-sort)
+             (--map
+              (let* ((roa (or (vulpea-note-meta-get it "region" 'note)
+                              (vulpea-note-meta-get it "appellation" 'note)))
+                     (country (vulpea-note-meta-get roa "country" 'note))
+                     (producer (vulpea-note-meta-get it "producer" 'note)))
+                (list
+                 (vulpea-utils-link-make-string country)
+                 (vulpea-utils-link-make-string producer)
+                 (org-link-make-string
+                  (concat "id:" (vulpea-note-id it))
+                  (vulpea-note-meta-get it "name"))
+                 (or (vulpea-note-meta-get it "vintage") "NV")
+                 (mapconcat #'vulpea-utils-link-make-string
+                            (vulpea-note-meta-get-list it "grapes" 'note)
+                            ", ")
+                 (if (vulpea-note-meta-get it "ratings")
+                     (format "%.2f" (vulpea-note-meta-get it "rating" 'number))
+                   "-")
+                 (vulpea-note-meta-get it "available" 'number))))))
+       "\n"))
     (porg-clean-links-in-buffer
      :sanitize-id-fn (-rpartial #'brb-sanitize-id-link items-all))
     (save-buffer)))
