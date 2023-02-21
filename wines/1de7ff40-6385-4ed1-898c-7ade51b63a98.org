@@ -8,8 +8,8 @@
 - Grapes :: Cabernet Sauvignon
 - Alcohol :: 14.5
 - Sugar :: NA
-- Price :: 613 UAH, 626 UAH
-- Cellar :: N/A
+- Price :: 739 UAH, 929 UAH, 613 UAH, 626 UAH
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -63,13 +63,19 @@ It's more lively than Merlot of the same vintage. Beautiful and ripe bouquet: eu
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bcc18dc0-d37b-49bf-84a0-7168f595e7ed.html">
+  <a class="flex-item flex-item-left" href="/wines/7267de94-08ba-46be-a6c8-cef992cf97a6.html">
+    <img class="flex-bottle" src="/images/72/67de94-08ba-46be-a6c8-cef992cf97a6/2023-02-21-06-39-39-IMG-5145@512.webp"></img>
+    <section class="h">Weinert</section>
+    <section class="h text-bolder">Malbec - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bcc18dc0-d37b-49bf-84a0-7168f595e7ed.html">
     <img class="flex-bottle" src="/images/bc/c18dc0-d37b-49bf-84a0-7168f595e7ed/2022-09-26-22-13-39-F2ED61B7-F62E-4A18-A941-CBCBBE8D1945-1-102-o@512.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Carrascal Cabernet Sauvignon - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
+  <a class="flex-item flex-item-left" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
     <img class="flex-bottle" src="/images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o@512.webp"></img>
     <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Dos Canotos - 2018</section>

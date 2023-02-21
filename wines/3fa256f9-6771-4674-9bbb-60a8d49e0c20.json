@@ -1,0 +1,35 @@
+{
+  "id": "3fa256f9-6771-4674-9bbb-60a8d49e0c20",
+  "name": "Clásico Garnacha",
+  "full-name": "Bodegas Borsao Clásico Garnacha 2021",
+  "producer": {
+    "id": "777ece9c-bbad-433b-8401-7deebf3f7f5d",
+    "name": "Bodegas Borsao"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "165 UAH",
+    "216 UAH"
+  ],
+  "available": 12.0,
+  "image": "images/3f/a256f9-6771-4674-9bbb-60a8d49e0c20/2023-02-21-06-46-50-IMG-5140.webp",
+  "rating": "NA"
+}

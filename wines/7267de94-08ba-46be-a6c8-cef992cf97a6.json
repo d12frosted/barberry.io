@@ -1,0 +1,35 @@
+{
+  "id": "7267de94-08ba-46be-a6c8-cef992cf97a6",
+  "name": "Malbec",
+  "full-name": "Weinert Malbec 2015",
+  "producer": {
+    "id": "75dc06c5-259d-4a2f-854f-d7cba5af0d23",
+    "name": "Weinert"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "3be8d6dc-2436-4778-b213-48f6cf63687e",
+    "name": "Argentina"
+  },
+  "grapes": [
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.37",
+  "prices": [
+    "739 UAH",
+    "929 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/72/67de94-08ba-46be-a6c8-cef992cf97a6/2023-02-21-06-39-39-IMG-5145.webp",
+  "rating": "NA"
+}

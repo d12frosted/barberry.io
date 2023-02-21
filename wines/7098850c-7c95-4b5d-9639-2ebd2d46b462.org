@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/a31e9be7-f242-441a-b913-60f591159ba9][John Duval]]
+- Vintage :: 2016
+- Location :: Australia, Barossa Valley
+- Grapes :: Grenache
+- Alcohol :: 13.5
+- Sugar :: 0.4
+- Price :: 1375 UAH, 1728 UAH, 1400 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+*** 2021-05-21 - ☆ 8.00
+
+I love those situations when you taste a wine with little knowledge about itself and its producer, so you have less expectations. Typical, but very well made Grenache from Barossa Valley. Fruit-forward, with lots of leather and licorice hints. Not overly complicated, but not vulgar.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Conasbrancas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85f17ebb-1523-4b9f-a940-36415c2e4f86.html">
+    <img class="flex-bottle" src="/images/85/f17ebb-1523-4b9f-a940-36415c2e4f86/2021-05-22-14-55-47-E76ACAA8-F43F-4EF2-8F6A-1FC0426FB792-1-105-c@512.webp"></img>
+    <section class="h">Rita & Rudolf Trossen</section>
+    <section class="h text-bolder">Schieferblume Riesling Trocken Qualitätswein - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+    <img class="flex-bottle" src="/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c@512.webp"></img>
+    <section class="h">Clos Lentiscus</section>
+    <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  </a>
+
+</div>
+#+end_export

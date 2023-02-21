@@ -9,5 +9,11 @@
     <section class="h text-bolder">Costalupo - 2021</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/c7f437a0-dcaf-44c7-95e9-11919aa0ada0.html">
+    <img class="flex-bottle" src="/images/c7/f437a0-dcaf-44c7-95e9-11919aa0ada0/2023-02-20-22-11-16-IMG-5136@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Riparosso - 2020</section>
+  </a>
+
 </div>
 #+end_export

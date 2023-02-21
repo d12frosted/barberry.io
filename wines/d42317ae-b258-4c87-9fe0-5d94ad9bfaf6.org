@@ -32,7 +32,13 @@ Amazing value. Considering that it spent 84 months on lees, the price under $50 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ee50b000-a312-4fce-b420-744aaa529116.html">
+  <a class="flex-item flex-item-left" href="/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca.html">
+    <img class="flex-bottle" src="/images/f0/d79447-307b-4b8f-af51-79bfb9aa6fca/2023-02-21-07-12-55-E4AA6046-C491-473E-8C53-CF8097D8CBBB-1-105-c@512.webp"></img>
+    <section class="h">Lamiable</section>
+    <section class="h text-bolder">Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee50b000-a312-4fce-b420-744aaa529116.html">
     <img class="flex-bottle" src="/images/ee/50b000-a312-4fce-b420-744aaa529116/2022-05-21-10-30-30-B4A8E648-D83F-4A9A-8A04-BAF5FDC68AC1-1-105-c@512.webp"></img>
     <section class="h">Concha y Toro</section>
     <section class="h text-bolder">Casillero del Diablo Carmenere Reserva - 2019</section>

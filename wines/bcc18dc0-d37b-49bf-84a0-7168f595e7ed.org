@@ -69,7 +69,13 @@ Not a complex, but friendly and pleasant wine. Black currant (jam?), bark (sligh
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/64a1e863-21f3-49de-8401-241eb23363a8.html">
+  <a class="flex-item flex-item-right" href="/wines/7267de94-08ba-46be-a6c8-cef992cf97a6.html">
+    <img class="flex-bottle" src="/images/72/67de94-08ba-46be-a6c8-cef992cf97a6/2023-02-21-06-39-39-IMG-5145@512.webp"></img>
+    <section class="h">Weinert</section>
+    <section class="h text-bolder">Malbec - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/64a1e863-21f3-49de-8401-241eb23363a8.html">
     <img class="flex-bottle" src="/images/64/a1e863-21f3-49de-8401-241eb23363a8/2022-12-03-16-58-09-IMG-3579@512.webp"></img>
     <section class="h">Barista</section>
     <section class="h text-bolder">Pinotage - 2020</section>

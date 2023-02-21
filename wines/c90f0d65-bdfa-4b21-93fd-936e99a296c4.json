@@ -8,8 +8,8 @@
   },
   "vintage": "2012",
   "base-vintage": null,
-  "degorgee": "N/A",
-  "sur-lie": "N/A",
+  "degorgee": "09.10.2020",
+  "sur-lie": "~87 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -28,11 +28,12 @@
     }
   ],
   "alcohol": "12.5",
-  "sugar": "5",
+  "sugar": "3",
   "prices": [
+    "6600 UAH",
     "7700 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/c9/0f0d65-bdfa-4b21-93fd-936e99a296c4/2023-02-20-22-14-53-IMG-5086.webp",
   "rating": "NA"
 }

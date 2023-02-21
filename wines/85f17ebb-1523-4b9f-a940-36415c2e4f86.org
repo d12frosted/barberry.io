@@ -39,7 +39,13 @@ Pleasant fruit-forward bouquet with apples, citrus, and pebbles. Fresh, but dull
     <section class="h text-bolder">Conasbrancas - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+  <a class="flex-item flex-item-right" href="/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462.html">
+    <img class="flex-bottle" src="/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp"></img>
+    <section class="h">John Duval</section>
+    <section class="h text-bolder">Annexus - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
     <img class="flex-bottle" src="/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c@512.webp"></img>
     <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>

@@ -1,0 +1,35 @@
+{
+  "id": "c7f437a0-dcaf-44c7-95e9-11919aa0ada0",
+  "name": "Riparosso",
+  "full-name": "Illuminati Riparosso 2020",
+  "producer": {
+    "id": "0ff20e4a-b84c-48dc-b592-5d7619ba7f28",
+    "name": "Illuminati"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2e4fac16-aa60-4d28-871a-9ca3b52cf687",
+      "name": "Montepulciano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.5",
+  "prices": [
+    "240 UAH",
+    "314 UAH"
+  ],
+  "available": 12.0,
+  "image": "images/c7/f437a0-dcaf-44c7-95e9-11919aa0ada0/2023-02-20-22-11-16-IMG-5136.webp",
+  "rating": "NA"
+}

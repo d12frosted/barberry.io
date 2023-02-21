@@ -1,0 +1,39 @@
+{
+  "id": "790dc102-a839-4cef-a0d4-7fbb4926a057",
+  "name": "Cabernet Sauvignon Shiraz",
+  "full-name": "Oxford Landing Cabernet Sauvignon Shiraz 2019",
+  "producer": {
+    "id": "bc4a8c8d-3c1f-4806-ab9b-863b28ddcc53",
+    "name": "Oxford Landing"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "345 UAH",
+    "433 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/79/0dc102-a839-4cef-a0d4-7fbb4926a057/2023-02-21-06-44-26-IMG-5103.webp",
+  "rating": "NA"
+}

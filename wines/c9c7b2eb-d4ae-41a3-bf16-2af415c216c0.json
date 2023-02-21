@@ -1,0 +1,43 @@
+{
+  "id": "c9c7b2eb-d4ae-41a3-bf16-2af415c216c0",
+  "name": "Domaine Virgine Thunevin",
+  "full-name": "Thunevin Domaine Virgine Thunevin 2006",
+  "producer": {
+    "id": "44dd1311-bf9e-40c6-8728-88af5383b762",
+    "name": "Thunevin"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.3",
+  "prices": [
+    "507 UAH",
+    "596 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/c9/c7b2eb-d4ae-41a3-bf16-2af415c216c0/2023-02-20-21-50-55-IMG-5109.webp",
+  "rating": "NA"
+}

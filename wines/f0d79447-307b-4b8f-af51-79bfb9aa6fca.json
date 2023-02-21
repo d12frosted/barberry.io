@@ -1,0 +1,38 @@
+{
+  "id": "f0d79447-307b-4b8f-af51-79bfb9aa6fca",
+  "name": "Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020)",
+  "full-name": "Lamiable Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020) NV",
+  "producer": {
+    "id": "d6df0bde-0385-452c-8ec9-43cd9341e5ec",
+    "name": "Lamiable"
+  },
+  "vintage": "NV",
+  "base-vintage": "2020",
+  "degorgee": "September 2022",
+  "sur-lie": "~15 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "7.5",
+  "prices": [
+    "1282 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f0/d79447-307b-4b8f-af51-79bfb9aa6fca/2023-02-21-07-12-55-E4AA6046-C491-473E-8C53-CF8097D8CBBB-1-105-c.webp",
+  "rating": "NA"
+}

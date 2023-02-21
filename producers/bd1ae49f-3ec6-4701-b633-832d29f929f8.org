@@ -15,7 +15,7 @@ And today, wines produced by Joško Gravner are treated as the highest manifesta
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4ceb9459-9367-48c8-996d-440223870289.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/4c/eb9459-9367-48c8-996d-440223870289/2023-02-21-06-56-16-IMG-5150@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Breg Rosso - 2003</section>
   </a>

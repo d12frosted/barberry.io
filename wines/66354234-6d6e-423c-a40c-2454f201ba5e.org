@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/66/354234-6d6e-423c-a40c-2454f201ba5e/2021-11-14-12-28-18-C7BDFFA9-4E89-4E8D-8ECD-C216835165D6-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/777ece9c-bbad-433b-8401-7deebf3f7f5d][Bodegas Borsao]]
+- Vintage :: 2019
+- Location :: Spain, Campo de Borja DO
+- Grapes :: Grenache, Tempranillo
+- Alcohol :: 13.5
+- Sugar :: 2.2
+- Price :: 132 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-11-26 - ☆ 6.00
+
+Unexpectedly good, especially having in mind it's price. Nice table wine with straight-forward and easy to understand profile. In the nose it's all about plum, spices and vanilla. In the taste it's all about... well, medium-plus wine with medium-high tannin and good acidity, making it good food pairing.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3fa256f9-6771-4674-9bbb-60a8d49e0c20.html">
+    <img class="flex-bottle" src="/images/3f/a256f9-6771-4674-9bbb-60a8d49e0c20/2023-02-21-06-46-50-IMG-5140@512.webp"></img>
+    <section class="h">Bodegas Borsao</section>
+    <section class="h text-bolder">Clásico Garnacha - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/762727eb-e3c6-443d-8c0e-915bba9854f3.html">
+    <img class="flex-bottle" src="/images/76/2727eb-e3c6-443d-8c0e-915bba9854f3/2022-01-16-11-40-12-FE82D411-09A3-4E17-9DD9-B07E7A498874-1-105-c@512.webp"></img>
+    <section class="h">Bodegas Borsao</section>
+    <section class="h text-bolder">Tres Picos - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0c24cd48-af69-4853-a21a-53f9f4de1efc.html">
+    <img class="flex-bottle" src="/images/0c/24cd48-af69-4853-a21a-53f9f4de1efc/2021-11-14-12-47-19-0CB6904C-DA31-4A75-AD35-2870A9870DB0-1-105-c@512.webp"></img>
+    <section class="h">Anne et J.F. Ganevat</section>
+    <section class="h text-bolder">Cuvée Madelon - 2018</section>
+  </a>
+
+</div>
+#+end_export

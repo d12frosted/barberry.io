@@ -4,7 +4,7 @@
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/d39488ac-3cfd-4c03-a490-8c8ed9781861][Naveran]]
 - Vintage :: 2019
-- Location :: Spain, Cava
+- Location :: Spain, Cava DO
 - Grapes :: Chardonnay, Parellada
 - Alcohol :: 12.5
 - Sugar :: NA
@@ -21,6 +21,18 @@ Pale yellow colour. Youthful and aromatic bouquet mostly showing secondary aroma
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d02d57a9-82e6-4425-bd18-ea7db56a113c.html">
+    <img class="flex-bottle" src="/images/d0/2d57a9-82e6-4425-bd18-ea7db56a113c/2023-02-20-22-09-29-IMG-5138@512.webp"></img>
+    <section class="h">Naveran</section>
+    <section class="h text-bolder">Brut Nature Vintage - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee5cbb30-2dd2-4355-b9c9-156c1b2302ab.html">
+    <img class="flex-bottle" src="/images/ee/5cbb30-2dd2-4355-b9c9-156c1b2302ab/2020-06-01-21-15-41-14AE461B-B5BD-45A8-BE06-1E4FFB3B3F8A-1-105-c@512.webp"></img>
+    <section class="h">Naveran</section>
+    <section class="h text-bolder">Brut Nature Vintage - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
     <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c@512.webp"></img>
     <section class="h">Weingut Tement</section>

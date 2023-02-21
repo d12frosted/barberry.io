@@ -38,5 +38,11 @@
     <section class="h text-bolder">Cuvée 745 Grand Vin (2017) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/7d05b4fc-7566-475a-87f2-eb913136c733.html">
+    <img class="flex-bottle" src="/images/7d/05b4fc-7566-475a-87f2-eb913136c733/2023-02-21-06-58-38-IMG-5142@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Dizy Corne Bautray Extra Brut - 2012</section>
+  </a>
+
 </div>
 #+end_export

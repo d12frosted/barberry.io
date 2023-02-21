@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d0/2d57a9-82e6-4425-bd18-ea7db56a113c/2023-02-20-22-09-29-IMG-5138@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/d39488ac-3cfd-4c03-a490-8c8ed9781861][Naveran]]
+- Vintage :: 2020
+- Location :: Spain, Cava DO
+- Grapes :: Xarel-lo, Parellada, Macabeo, Chardonnay
+- Alcohol :: 12
+- Sugar :: 3
+- Price :: 324 UAH, 422 UAH
+- Cellar :: 12 bottles
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+    <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c@512.webp"></img>
+    <section class="h">Naveran</section>
+    <section class="h text-bolder">Odisea - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee5cbb30-2dd2-4355-b9c9-156c1b2302ab.html">
+    <img class="flex-bottle" src="/images/ee/5cbb30-2dd2-4355-b9c9-156c1b2302ab/2020-06-01-21-15-41-14AE461B-B5BD-45A8-BE06-1E4FFB3B3F8A-1-105-c@512.webp"></img>
+    <section class="h">Naveran</section>
+    <section class="h text-bolder">Brut Nature Vintage - 2018</section>
+  </a>
+
+</div>
+#+end_export

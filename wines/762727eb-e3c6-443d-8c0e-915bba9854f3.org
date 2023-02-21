@@ -23,6 +23,18 @@ Unfortunately, slightly corked wine. Hence, the rating is lower than it could be
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3fa256f9-6771-4674-9bbb-60a8d49e0c20.html">
+    <img class="flex-bottle" src="/images/3f/a256f9-6771-4674-9bbb-60a8d49e0c20/2023-02-21-06-46-50-IMG-5140@512.webp"></img>
+    <section class="h">Bodegas Borsao</section>
+    <section class="h text-bolder">Clásico Garnacha - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/66354234-6d6e-423c-a40c-2454f201ba5e.html">
+    <img class="flex-bottle" src="/images/66/354234-6d6e-423c-a40c-2454f201ba5e/2021-11-14-12-28-18-C7BDFFA9-4E89-4E8D-8ECD-C216835165D6-1-105-c@512.webp"></img>
+    <section class="h">Bodegas Borsao</section>
+    <section class="h text-bolder">Clásico Garnacha - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/0346dda7-b320-4d33-b87c-1aaa7ad13955.html">
     <img class="flex-bottle" src="/images/03/46dda7-b320-4d33-b87c-1aaa7ad13955/2022-01-16-11-43-00-D2F5F049-80AA-4139-B3D4-27BD996201DF-1-105-c@512.webp"></img>
     <section class="h">Weingut Tement</section>

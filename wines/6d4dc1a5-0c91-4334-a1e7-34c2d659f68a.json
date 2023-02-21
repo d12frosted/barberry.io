@@ -1,0 +1,35 @@
+{
+  "id": "6d4dc1a5-0c91-4334-a1e7-34c2d659f68a",
+  "name": "Ius Naturae Valdobbiadene Millesimato",
+  "full-name": "Bortolomiol Ius Naturae Valdobbiadene Millesimato 2021",
+  "producer": {
+    "id": "c53b8c63-e2dc-4c9a-9b3f-3a367a264e9e",
+    "name": "Bortolomiol"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "10",
+  "prices": [
+    "472 UAH",
+    "679 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6d/4dc1a5-0c91-4334-a1e7-34c2d659f68a/2023-02-20-22-14-17-IMG-5083.webp",
+  "rating": "NA"
+}

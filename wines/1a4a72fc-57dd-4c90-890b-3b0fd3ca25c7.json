@@ -1,0 +1,35 @@
+{
+  "id": "1a4a72fc-57dd-4c90-890b-3b0fd3ca25c7",
+  "name": "Shiraz",
+  "full-name": "Oxford Landing Shiraz 2019",
+  "producer": {
+    "id": "bc4a8c8d-3c1f-4806-ab9b-863b28ddcc53",
+    "name": "Oxford Landing"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "345 UAH",
+    "433 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/1a/4a72fc-57dd-4c90-890b-3b0fd3ca25c7/2023-02-21-06-42-52-IMG-5101.webp",
+  "rating": "NA"
+}

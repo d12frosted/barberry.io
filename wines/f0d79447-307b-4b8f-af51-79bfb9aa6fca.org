@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/f0/d79447-307b-4b8f-af51-79bfb9aa6fca/2023-02-21-07-12-55-E4AA6046-C491-473E-8C53-CF8097D8CBBB-1-105-c@512.webp]]
+
+- Type :: Rose Sparkling, Brut
+- Producer :: [[barberry:/producers/d6df0bde-0385-452c-8ec9-43cd9341e5ec][Lamiable]]
+- Base vintage :: 2020
+- Disgorged in :: September 2022
+- Spent on lees :: ~15 months
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir, Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 7.5
+- Price :: 1282 UAH
+- Cellar :: 1 bottle
+
+65% Pinot Noir, 35% Chardonnay. 60% 2020, 40% of reserve wines.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
+    <img class="flex-bottle" src="/images/d4/2317ae-b258-4c87-9fe0-5d94ad9bfaf6/2021-12-17-18-29-40-4EE43126-146C-4C5A-A507-F4DB70F5A1C0-1-105-c@512.webp"></img>
+    <section class="h">Lamiable</section>
+    <section class="h text-bolder">Cuvee Pheerie - 2013</section>
+  </a>
+
+</div>
+#+end_export
