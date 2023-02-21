@@ -7,7 +7,7 @@ Wines:
 5. [[barberry:/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c][Raúl Pérez La Vizcaína La Del Vivo 2015]]
 6. [[barberry:/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe][Cantina Alchemica M Rosso 2006]]
 
-* Gulfi Carjcanti 2015 / 2017 / 2019
+* Gulfi Carjcanti 2019 / 2017 / 2015
 :PROPERTIES:
 :ID:                     11f2a5dc-6022-4365-a474-558d0a95c95d
 :END:
@@ -17,15 +17,15 @@ Wines:
 
 - producer: [[barberry:/producers/7bec814a-5334-4712-9ffb-46c8cc42ca8b][Gulfi]]
 - name: Carjcanti
-- vintage: [[barberry:/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91][2015]] / [[barberry:/wines/070e8a7b-c212-458b-a737-c9ba893150dc][2017]] / [[barberry:/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608][2019]]
+- vintage: [[barberry:/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608][2019]] / [[barberry:/wines/070e8a7b-c212-458b-a737-c9ba893150dc][2017]] / [[barberry:/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91][2015]]
 - grapes: Carricante
 - appellation: Sicilia DOC
 - location: Sicily, Italy
 - alcohol: 12.5
-- sugar: 2
-- price: 908 UAH
+- sugar: NA / 1.5 / 2
+- price: 1053 UAH / 1064 UAH / 949 (?) UAH
 
-* Raúl Pérez La Vizcaína La Del Vivo 2015 / 2017
+* Raúl Pérez La Vizcaína La Del Vivo 2017 / 2015
 :PROPERTIES:
 :ID:                     49fd7ef9-819b-42ee-b105-4b087ace5a22
 :END:
@@ -35,13 +35,31 @@ Wines:
 
 - producer: [[barberry:/producers/2fe18e47-ec51-4372-9072-a3e522007d7a][Raúl Pérez]]
 - name: La Vizcaína La Del Vivo
-- vintage: [[barberry:/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c][2015]] / [[barberry:/wines/ab4efba9-201e-4489-b2db-43a6f7863585][2017]]
+- vintage: [[barberry:/wines/ab4efba9-201e-4489-b2db-43a6f7863585][2017]] / [[barberry:/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c][2015]]
 - grapes: Godello
 - appellation: Bierzo DO
 - location: Castile and León, Spain
 - alcohol: 13.5
-- sugar: 1.2
-- price: 808 UAH
+- sugar: 1.5 / 1.2
+- price: 944 UAH
+
+* Cantina Alchemica M Rosso 2006
+:PROPERTIES:
+:ID:                     03eeab75-9cc1-40b8-b3b6-7bf9c1563339
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-02-28-double-trouble/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e782c2c3-4f80-4f8b-bd8b-a1b01ab8623b][Cantina Alchemica]]
+- name: [[barberry:/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe][M Rosso]]
+- vintage: 2006
+- grapes: Field Blend
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 15
+- sugar: N/A
+- price: 4900 UAH
 
 * Scores
 :PROPERTIES:
@@ -51,22 +69,21 @@ Wines:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|-------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
-|---------+--------+--------+--------+-----------+---------+--------+----------|
-| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+|         | amean  | rms    |   sdev | favourite | outcast |   price | QPR      |
+|---------+--------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1053.00 | *0.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1064.00 | *0.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  949.00 | *0.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  944.00 | *0.0000* |
+| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  944.00 | *0.0000* |
+| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 4900.00 | *0.0000* |
 
 How to read this table:
 
