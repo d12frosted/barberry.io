@@ -3,13 +3,19 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/18904020-2d95-4222-918c-08fd62362d1c.html">
+  <a class="flex-item flex-item-left" href="/wines/1e9f6aa9-7e8a-4c28-bc89-c33bc7ee08ad.html">
+    <img class="flex-bottle" src="/images/1e/9f6aa9-7e8a-4c28-bc89-c33bc7ee08ad/2021-08-18-18-59-53-986C216A-C250-4696-9801-210E5B3B7A8F-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Central Otago Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/18904020-2d95-4222-918c-08fd62362d1c.html">
     <img class="flex-bottle" src="/images/18/904020-2d95-4222-918c-08fd62362d1c/2021-03-08-19-57-08-D230C65D-B495-4D35-9443-01881A87ACCD-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Earth Smoke Pinot Noir - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
+  <a class="flex-item flex-item-left" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
     <img class="flex-bottle" src="/images/b6/660f69-14d7-4715-985d-9d24597506ed/2021-08-18-18-56-39-A750A4C3-A050-4A01-B154-30DBEF179D74-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">North Canterbury Pinot Noir - 2018</section>

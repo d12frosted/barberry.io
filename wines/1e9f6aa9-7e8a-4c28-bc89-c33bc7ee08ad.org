@@ -1,0 +1,66 @@
+#+attr_html: :class wine-main-image
+[[file:/images/1e/9f6aa9-7e8a-4c28-bc89-c33bc7ee08ad/2021-08-18-18-59-53-986C216A-C250-4696-9801-210E5B3B7A8F-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/32e6cc69-90ec-4700-bdb5-d1a396315b9e][Pyramid Valley]]
+- Vintage :: 2018
+- Location :: New Zealand, Central Otago
+- Grapes :: Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 997 UAH
+- Cellar :: N/A
+
+#+begin_quote
+Medium dark purple with clear hues.
+
+Fragrant blackberry and raspberry with hints of liquorice, black
+pepper and clove. Sweet red plum, cherry and spice. Richly textured
+with lovely minerality. Complex with a long and silky sweet berry
+finish.
+
+A collection of appellation specific wines that show a unique stamp of
+their place and honour the Pyramid Valley philosophy of natural
+production techniques and wines that breathe of their place.
+
+100% estate grown Pinot Noir from our Manata Estate, Lowburn valley.
+
+[[https://www.pyramidvalley.co.nz/collections/appellation-series/products/2018-central-otago-pinot-noir][pyramidvalley.co.nz]]
+#+end_quote
+
+** Ratings
+
+*** 2021-08-25 - ☆ 8.00
+
+Ripe but sophisticated bouquet. Strawberry stew, sweet plum, clove, tomato, sagebrush and underbrush. Less fruity, more mineral palate with flavours of raw meat, iron, underbrush and sagebrush. Wonderful and demanding wine that without proper attention can be easily underestimated. Very young.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18904020-2d95-4222-918c-08fd62362d1c.html">
+    <img class="flex-bottle" src="/images/18/904020-2d95-4222-918c-08fd62362d1c/2021-03-08-19-57-08-D230C65D-B495-4D35-9443-01881A87ACCD-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">Earth Smoke Pinot Noir - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
+    <img class="flex-bottle" src="/images/b6/660f69-14d7-4715-985d-9d24597506ed/2021-08-18-18-56-39-A750A4C3-A050-4A01-B154-30DBEF179D74-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">North Canterbury Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
+    <img class="flex-bottle" src="/images/52/b83646-0cd4-49be-8356-f6d6ec7c7559/2021-08-25-23-27-35-0018144C-557E-41BB-A48E-2F567CAFAA21-1-102-o@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis Sur Loire Clos Michet - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+    <img class="flex-bottle" src="/images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>
+  </a>
+
+</div>
+#+end_export
