@@ -9,11 +9,13 @@
 - Alcohol :: 12
 - Sugar :: 3
 - Price :: 324 UAH, 422 UAH
-- Cellar :: 12 bottles
+- Cellar :: 11 bottles
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-02-27 - ☆ 7.50
+
+Well-made Cava. Creamy (more like Crémant, but names should not mislead us, right?), pear candy, brioche and overripe lemon. Rounded, well-balanced, intense and fresh. Flavours? Lemon tart! A nice choice for a good price.
 
 ** Related
 
@@ -29,6 +31,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/ee/5cbb30-2dd2-4355-b9c9-156c1b2302ab/2020-06-01-21-15-41-14AE461B-B5BD-45A8-BE06-1E4FFB3B3F8A-1-105-c@512.webp"></img>
     <section class="h">Naveran</section>
     <section class="h text-bolder">Brut Nature Vintage - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
+    <img class="flex-bottle" src="/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c@512.webp"></img>
+    <section class="h">Éric Chevalier</section>
+    <section class="h text-bolder">Cirrus - 2018</section>
   </a>
 
 </div>

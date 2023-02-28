@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/12/4f0b28-e18a-488c-a8b4-776de6c93e37/2023-02-27-21-51-54-0B593394-E20A-41A8-B537-2FC91621EE99-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/6c0d7068-c072-49c5-980a-9f45b4d24541][De Sousa]]
+- Base vintage :: N/A
+- Disgorged in :: [2022-01-27 Thu]
+- Spent on lees :: N/A
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir, Pinot Meunier
+- Alcohol :: 12.5
+- Sugar :: 7
+- Price :: 1750 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
+    <img class="flex-bottle" src="/images/66/132041-ecfd-4d79-8f67-6e7aa512947b/2023-01-28-09-28-41-A0772CD8-C3A7-4332-A74B-D27F697E9FAC-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Réserve Grand Cru Blanc de Blancs (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
+    <img class="flex-bottle" src="/images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvee des Caudalies Grand Cru Blanc De Blancs (d2019) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
+    <img class="flex-bottle" src="/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
+    <img class="flex-bottle" src="/images/c9/0f0d65-bdfa-4b21-93fd-936e99a296c4/2023-02-20-22-14-53-IMG-5086@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée Umami Grand Cru - 2012</section>
+  </a>
+
+</div>
+#+end_export

@@ -27,5 +27,11 @@
     <section class="h text-bolder">Réserve Grand Cru Blanc de Blancs (d2021) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/124f0b28-e18a-488c-a8b4-776de6c93e37.html">
+    <img class="flex-bottle" src="/images/12/4f0b28-e18a-488c-a8b4-776de6c93e37/2023-02-27-21-51-54-0B593394-E20A-41A8-B537-2FC91621EE99-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Tradition (d2022) - NV</section>
+  </a>
+
 </div>
 #+end_export
