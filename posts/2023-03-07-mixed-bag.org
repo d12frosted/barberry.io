@@ -72,6 +72,24 @@ Macération pelliculaire means pre-fermentation maceration. Numerous English sou
 
 So what's the point? Unlike Savagnin Ouillé we tasted almost a year ago, this specific Savagnin is slightly macerated before fermentation. And hence, more expressive. On the other hand, all sources ([[https://vervewine.com/products/domaine-du-pelican-arbois-savagnin-maceration-pelliculaire-2018][example]]) I found say it spent 10 days on skins, which puzzles me. Why? Because 10 days for pre-fermentation maceration sounds too much. Unless it's done in a cold environment to block fermentation. Unfortunately, there is no official technical information from the producer. In any case, 2018 is the first release of this wine. So our best course of action is to drink this wine. And figure out nuances with the help of our senses.
 
+* J.M Dreyer Origin Pinot Gris Macération 2021
+:PROPERTIES:
+:ID:                     50573318-f3dc-43c9-b607-70cb9187a476
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-07-mixed-bag/2023-01-24-07-11-52-IMG-4562.webp]]
+
+- producer: [[barberry:/producers/92c049ed-0591-418d-8f2b-8d20726b8654][J.M Dreyer]]
+- name: [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][Origin Pinot Gris Macération]]
+- vintage: 2021
+- grapes: Pinot Gris
+- appellation: Alsace AOC
+- location: Alsace, France
+- alcohol: 12.5
+- sugar: 1.2
+- price: 1050 UAH
+
 * Sarnin-Berrux CHARdO 2020
 :PROPERTIES:
 :ID:                     87cba958-e5a7-426a-a3fb-667d7200c8ed
@@ -150,30 +168,35 @@ Grapes from this wine come from young vines (average age is 4 years). In total [
 - sugar: N/A
 - price: 3700 UAH
 
+Those who drink with me know I am an average vin jaune enjoyer. Aside from drinking these marvellous wines, I love to spy on other people's reactions when they taste this style for the first time. Ivan Omelchenko rarely brings a bottle of vin jaune, so I figured to gather the subjects myself.
+
+Vin jaune (literally, yellow wine) is a Jura white wine matured in a barrel under a film of yeast, known as the voile, on the wine's surface. The result is similar to dry fino Jerez, but vin jaune is not fortified.
+
 * Scores
 :PROPERTIES:
 :ID:                     70d7ec85-57b2-4230-8dac-713bd0d4defe
 :END:
 
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+1. [[barberry:/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652][Lyme Bay Classic Cuvée Brut 2016]]
+2. [[barberry:/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2][Domaine du Pélican Savagnin Macération Pelliculaire 2018]]
+3. [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][J.M Dreyer Origin Pinot Gris Macération 2021]]
+4. [[barberry:/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f][Sarnin-Berrux CHARdO 2020]]
+5. [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Et Cetera Pinot Noir 2018]]
+6. [[barberry:/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a][Beykush Loca Deserta 2019]]
+7. [[barberry:/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede][Andre et Mireille Tissot La Mailloche Vin Jaune 2011]]
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | amean  | rms    |   sdev | favourite | outcast |  price | QPR      |
-|---------+--------+--------+--------+-----------+---------+--------+----------|
-| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
-| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 100.00 | *1.0000* |
+|         | amean  | rms    |   sdev | favourite | outcast |   price | QPR      |
+|---------+--------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1299.00 | *0.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1956.00 | *0.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1050.00 | *0.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 | *0.0000* |
+| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  835.00 | *0.0000* |
+| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  901.00 | *0.0000* |
+| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 3700.00 | *0.0000* |
 
 How to read this table:
 
@@ -184,4 +207,11 @@ How to read this table:
 - =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------+---------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
 
