@@ -128,23 +128,6 @@ Mercandelli's biotic philosophy enhances the potential of plants, which only nee
 6. [[barberry:/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe][Cantina Alchemica M Rosso 2006]] (bonus)
 7. [[barberry:/wines/02f99618-1f5f-42e8-9e45-3d8f55664f4d][Denavolo Catavela 2021]] (bonus)
 
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|--------------+---------+---------+---------+---------+---------+---------+---------|
-| Daria B      |    4.00 |  *4.40* |    4.20 |    4.20 |    4.00 |    3.80 |    3.80 |
-| Oleksandr R  |    4.00 |  *4.30* |    4.20 |    3.80 |    4.20 |    3.50 |    4.00 |
-| Valerii V    |    4.00 |    3.70 |    4.20 |  *4.40* |    2.70 |    3.90 |    4.40 |
-| Andrii S     |    4.20 |  *4.40* |    4.20 |    4.40 |    4.40 |    3.80 |    4.00 |
-| Viktoriya Zh |    4.20 |  *4.60* |    4.40 |    3.90 |    4.50 |    4.00 |    4.10 |
-| Dimitry G    |    3.40 |    3.20 |  *4.00* |    3.50 |    3.70 |    3.40 |    4.40 |
-| Elvira K     |    4.00 |    4.10 |    4.20 |    4.10 |    4.00 |  *4.10* |       - |
-| Oleksandr Y  |    3.70 |    3.80 |  *3.90* |    3.80 |    3.70 |    3.80 |    4.10 |
-| Mariia S     |    3.50 |    4.00 |    4.00 |    4.00 |  *4.10* |    3.60 |    3.90 |
-| Kris S       |    2.80 |    3.00 |  *4.00* |    4.20 |    4.20 |    3.50 |    4.80 |
-| Boris B      |    4.10 |    4.30 |    4.20 |    4.20 |    4.20 |  *4.10* |    3.80 |
-
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
@@ -167,4 +150,21 @@ How to read this table:
 - =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|--------------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B      |    4.00 |  *4.40* |    4.20 |    4.20 |    4.00 |    3.80 |    3.80 |
+| Oleksandr R  |    4.00 |  *4.30* |    4.20 |    3.80 |    4.20 |    3.50 |    4.00 |
+| Valerii V    |    4.00 |    3.70 |    4.20 |  *4.40* |    2.70 |    3.90 |    4.40 |
+| Andrii S     |    4.20 |  *4.40* |    4.20 |    4.40 |    4.40 |    3.80 |    4.00 |
+| Viktoriya Zh |    4.20 |  *4.60* |    4.40 |    3.90 |    4.50 |    4.00 |    4.10 |
+| Dimitry G    |    3.40 |    3.20 |  *4.00* |    3.50 |    3.70 |    3.40 |    4.40 |
+| Elvira K     |    4.00 |    4.10 |    4.20 |    4.10 |    4.00 |  *4.10* |       - |
+| Oleksandr Y  |    3.70 |    3.80 |  *3.90* |    3.80 |    3.70 |    3.80 |    4.10 |
+| Mariia S     |    3.50 |    4.00 |    4.00 |    4.00 |  *4.10* |    3.60 |    3.90 |
+| Kris S       |    2.80 |    3.00 |  *4.00* |    4.20 |    4.20 |    3.50 |    4.80 |
+| Boris B      |    4.10 |    4.30 |    4.20 |    4.20 |    4.20 |  *4.10* |    3.80 |
 

@@ -2,8 +2,8 @@ The mixed bag!
 
 1. [[barberry:/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652][Lyme Bay Classic Cuvée Brut 2016]]
 2. [[barberry:/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2][Domaine du Pélican Savagnin Macération Pelliculaire 2018]]
-3. [[barberry:/wines/c0acd31a-42df-449b-8667-24de166fe520][Hummel Resi 2019]]
-4. [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][J.M Dreyer Origin Pinot Gris Macération 2021]]
+3. [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][J.M Dreyer Origin Pinot Gris Macération 2021]]
+4. [[barberry:/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f][Sarnin-Berrux CHARdO 2020]]
 5. [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Et Cetera Pinot Noir 2018]]
 6. [[barberry:/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a][Beykush Loca Deserta 2019]]
 7. [[barberry:/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede][Andre et Mireille Tissot La Mailloche Vin Jaune 2011]]
@@ -56,7 +56,7 @@ The Classic Cuvée is a blend of Pinot Noir (81%) and Chardonnay (19%). The grap
 - location: Jura, France
 - alcohol: 13.5
 - sugar: N/A
-- price: 1760 UAH
+- price: 1956 UAH
 
 Guillaume d'Angerville, current owner of famous Le Domaine Marquis d'Angerville from Bourgogne, decided to create a new project in Jura after tasting a single bottle - Tissot’s Chardonnay Arbois Les Bruyères 2005.
 
@@ -66,9 +66,89 @@ I tasted this bottle blind in a restaurant in Paris that I often go to. I always
 Guillaume d’Angerville
 #+end_quote
 
-I understand that now you want to taste this wine. But unfortunately, even 2017 is not available in Ukraine anymore.
+I understand that now you want to taste this wine. But unfortunately, even 2017 is not available in Ukraine anymore. But I guess a bottle of Savagnin by Domaine du Pélican is a good alternative. Besides, it's 'Macération Pelliculaire'! I bet you are already excited about tasting macerated Savagnin but hold your horses.
 
-According to my notes, we haven't tasted Savagnin yet. Even though we had many bottles from Jura. So, of course, we have to give it a try. This Savagnin is made in a clean and non-oxidative style just to be our entry to the new world. It could be the first step of many...
+Macération pelliculaire means pre-fermentation maceration. Numerous English sources online ([[https://oray-wine.com/en/what-does-maceration-pelliculaire-mean/][example]]) draw an equivalence between orange wines and Macération Pelliculaire, but it's a matter of definition of the former term. For example, [[https://fr-m-wikipedia-org.translate.goog/wiki/Mac%C3%A9ration_pelliculaire?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp][French Wikipedia]] (aye, a trustworthy source, but some other sources are similar in this) states that orange wine requires fermentation on skins. Without too many details, pre-fermentation maceration is used to enhance the wine with aromatics and colour but without tannin extraction (or at least minimal). Interestingly, tannin is more soluble in an alcoholic environment (citation needed). And the cooler this environment, the less tannin is extracted. And before fermentation, there is no alcohol. Bam!
+
+So what's the point? Unlike Savagnin Ouillé we tasted almost a year ago, this specific Savagnin is slightly macerated before fermentation. And hence, more expressive. On the other hand, all sources ([[https://vervewine.com/products/domaine-du-pelican-arbois-savagnin-maceration-pelliculaire-2018][example]]) I found say it spent 10 days on skins, which puzzles me. Why? Because 10 days for pre-fermentation maceration sounds too much. Unless it's done in a cold environment to block fermentation. Unfortunately, there is no official technical information from the producer. In any case, 2018 is the first release of this wine. So our best course of action is to drink this wine. And figure out nuances with the help of our senses.
+
+* Sarnin-Berrux CHARdO 2020
+:PROPERTIES:
+:ID:                     87cba958-e5a7-426a-a3fb-667d7200c8ed
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-07-mixed-bag/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/114302ea-341a-4631-ba59-18e9b0691b0c][Sarnin-Berrux]]
+- name: [[barberry:/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f][CHARdO]]
+- vintage: 2020
+- grapes: Chardonnay, Pinot Noir, Gamay
+- appellation: Vin de Table
+- location: France
+- alcohol: 14
+- sugar: 3
+- price: 1250 UAH
+
+* Et Cetera Pinot Noir 2018
+:PROPERTIES:
+:ID:                     573a6010-eb42-48cb-bae3-256e4a1defcb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-07-mixed-bag/2022-09-05-20-36-28-IMG-2001.webp]]
+
+- producer: [[barberry:/producers/71e2d1b5-3a20-4b47-a061-5911708ba091][Et Cetera]]
+- name: [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Pinot Noir]]
+- vintage: 2018
+- grapes: Pinot Noir
+- region: Ștefan Vodă
+- location: Moldova
+- alcohol: 13.5
+- sugar: N/A
+- price: 835 UAH
+
+A young family-owned winery from Ștefan Vodă, Moldova. Alexandru Luchianov purchased the land in 2002 and started to grow vines in 2003. The first harvest and bottling were rewarded in a local competition in 2005. In 2006 his brother Igor joined this project.
+
+On 24.2 ha, they cultivate Merlot, Cabernet Franc, Fetească Neagră, Saperavi, Carmenere, Cabernet Sauvignon, Pinot Noir, Marselan, Albarosa, Chardonnay, Sauvignon Blanc and Viognier.
+
+Grapes from this wine come from young vines (average age is 4 years). In total [[barberry:/producers/71e2d1b5-3a20-4b47-a061-5911708ba091][Et Cetera]] owns 1.2 ha of Pinot Noir.
+
+* Beykush Loca Deserta 2019
+:PROPERTIES:
+:ID:                     a67b5c92-0497-4f78-ab62-b4c73e4580d0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-07-mixed-bag/2023-02-27-21-52-38-IMG-5230.webp]]
+
+- producer: [[barberry:/producers/06a2adf5-5f66-47e8-9d78-41eaef001e34][Beykush]]
+- name: [[barberry:/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a][Loca Deserta]]
+- vintage: 2019
+- grapes: Merlot, Cabernet Sauvignon, Tempranillo, Cabernet Franc, Rubin, Pinot Noir
+- region: Mykolaiv Oblast
+- location: Ukraine
+- alcohol: 13.5
+- sugar: N/A
+- price: 901 UAH
+
+* Andre et Mireille Tissot La Mailloche Vin Jaune 2011
+:PROPERTIES:
+:ID:                     706ba0f5-5235-4ad4-a924-e639d76aa56c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-07-mixed-bag/2022-09-26-19-21-48-7A33AE56-40AB-46DA-9477-04AC52136A7A-1-102-o.webp]]
+
+- producer: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
+- name: [[barberry:/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede][La Mailloche Vin Jaune]]
+- vintage: 2011
+- grapes: Savagnin
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 15
+- sugar: N/A
+- price: 3700 UAH
 
 * Scores
 :PROPERTIES:
