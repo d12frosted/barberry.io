@@ -1,0 +1,46 @@
+{
+  "id": "ceb4e15d-7a71-4593-8b43-683c0bb49a4f",
+  "name": "Manna",
+  "full-name": "Marto Manna 2021",
+  "producer": {
+    "id": "547556c5-86ba-4b9e-a7f9-7776e6963cfc",
+    "name": "Marto"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    },
+    {
+      "id": "44030b06-6977-40c8-91af-f1d0b5398ac3",
+      "name": "Regent"
+    },
+    {
+      "id": "b733e63f-145c-47de-addf-1358823ef15d",
+      "name": "Scheurebe"
+    },
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "0",
+  "prices": [
+    "740 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ce/b4e15d-7a71-4593-8b43-683c0bb49a4f/2023-03-02-21-30-55-IMG-5303.webp",
+  "rating": "6.75"
+}

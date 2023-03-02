@@ -9,9 +9,29 @@
 - Alcohol :: 13
 - Sugar :: 0.5
 - Price :: 586 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-02 - ☆ 7.25
 
+Aggressive and unfriendly at the beginning, but after giving it some time to breathe and calm down, it became a pretty decent (kind of) 'table' wine. Fruit-forward: black currant and blackberry with some volatility and chocolate. Almost full-bodied, quite fresh and astringent. With flavours of chocolate cherry cake. Hard to drink solo.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5b6478c0-d189-4ad7-8065-72f7ec023ec8.html">
+    <img class="flex-bottle" src="/images/5b/6478c0-d189-4ad7-8065-72f7ec023ec8/2023-03-02-21-11-51-IMG-5301@512.webp"></img>
+    <section class="h">Marto</section>
+    <section class="h text-bolder">Weiss - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ceb4e15d-7a71-4593-8b43-683c0bb49a4f.html">
+    <img class="flex-bottle" src="/images/ce/b4e15d-7a71-4593-8b43-683c0bb49a4f/2023-03-02-21-30-55-IMG-5303@512.webp"></img>
+    <section class="h">Marto</section>
+    <section class="h text-bolder">Manna - 2021</section>
+  </a>
+
+</div>
+#+end_export

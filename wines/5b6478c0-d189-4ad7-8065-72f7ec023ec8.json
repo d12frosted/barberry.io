@@ -1,0 +1,58 @@
+{
+  "id": "5b6478c0-d189-4ad7-8065-72f7ec023ec8",
+  "name": "Weiss",
+  "full-name": "Marto Weiss 2021",
+  "producer": {
+    "id": "547556c5-86ba-4b9e-a7f9-7776e6963cfc",
+    "name": "Marto"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    },
+    {
+      "id": "3e5e800d-b3b2-4efd-a631-eb0ecfe6f06a",
+      "name": "Würzer"
+    },
+    {
+      "id": "b733e63f-145c-47de-addf-1358823ef15d",
+      "name": "Scheurebe"
+    },
+    {
+      "id": "121784d4-cfd6-43c7-80a9-f79fc8356893",
+      "name": "Faberrebe"
+    },
+    {
+      "id": "768bf3f9-74f1-4174-8689-806726fd6f38",
+      "name": "Silvaner"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0",
+  "prices": [
+    "740 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5b/6478c0-d189-4ad7-8065-72f7ec023ec8/2023-03-02-21-11-51-IMG-5301.webp",
+  "rating": "5.75"
+}

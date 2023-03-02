@@ -1,0 +1,34 @@
+{
+  "id": "ed9565f3-3d99-4067-8dcf-bfe14e0b1abb",
+  "name": "Extra-Brut Blanc de Blancs Grand Cru Cramant",
+  "full-name": "Dhondt-Grellet Extra-Brut Blanc de Blancs Grand Cru Cramant",
+  "producer": {
+    "id": "190dc584-4d62-4720-939c-e292ee754782",
+    "name": "Dhondt-Grellet"
+  },
+  "vintage": "NV",
+  "base-vintage": "2018",
+  "degorgee": "May 2021",
+  "sur-lie": "24 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "3500 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ed/9565f3-3d99-4067-8dcf-bfe14e0b1abb/2023-03-02-11-16-21-IMG-5294.webp",
+  "rating": "NA"
+}

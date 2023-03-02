@@ -1,30 +1,30 @@
 #+attr_html: :class wine-main-image
-[[file:/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c@512.webp]]
+[[file:/images/5b/6478c0-d189-4ad7-8065-72f7ec023ec8/2023-03-02-21-11-51-IMG-5301@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]
-- Vintage :: 2019
+- Vintage :: 2021
 - Location :: Germany, Deutscher Wein
-- Grapes :: Bacchus, Würzer, Scheurebe, Riesling, Müller-Thurgau, Silvaner
+- Grapes :: Bacchus, Riesling, Müller-Thurgau, Würzer, Scheurebe, Faberrebe, Silvaner
 - Alcohol :: 10
 - Sugar :: 0
-- Price :: 515 UAH
+- Price :: 740 UAH
 - Cellar :: N/A
 
 ** Ratings
 
-*** 2021-07-15 - ☆ 7.00
+*** 2023-03-02 - ☆ 5.75
 
-Tasting new vintage and I must say that 2018 was much more interesting. This one is about soaked lilac flowers, VA, brine and yellow fruits. Feels like it has lost its character and merged with many other similar 'unique' natural wines.
+It seems like 2018 was the only good vintage of this wine. It's a new release, and I suspect it might become better in a few weeks, but at this point, it doesn't worth its price. A simple tropical bouquet with soaked white flowers. Good acidity, light and volatile. It gives so many promises in the first moments after the first sip. Promises of passion and long-lasting pleasure. But instead, you get a cold deserted bed. A vinous manifestation of a bummer.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/5b6478c0-d189-4ad7-8065-72f7ec023ec8.html">
-    <img class="flex-bottle" src="/images/5b/6478c0-d189-4ad7-8065-72f7ec023ec8/2023-03-02-21-11-51-IMG-5301@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/042cfcdf-fc2e-4716-881b-5546c6124052.html">
+    <img class="flex-bottle" src="/images/04/2cfcdf-fc2e-4716-881b-5546c6124052/2021-07-16-09-39-16-F62FCB94-CC8B-43E9-8164-617B1302863E-1-105-c@512.webp"></img>
     <section class="h">Marto</section>
-    <section class="h text-bolder">Weiss - 2021</section>
+    <section class="h text-bolder">Weiss - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/72b542d8-fab8-4147-8436-297f41c46ade.html">
@@ -49,6 +49,12 @@ Tasting new vintage and I must say that 2018 was much more interesting. This one
     <img class="flex-bottle" src="/images/e3/102bb4-81d9-4f82-86aa-4fc322706590/2020-07-08-15-33-51-134C2EE4-BEF4-4F99-A1F7-5511F39E8BD1-1-105-c@512.webp"></img>
     <section class="h">Marto</section>
     <section class="h text-bolder">Al Dente - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e3bd7506-3b14-453f-a2c8-4646e2e7a87f.html">
+    <img class="flex-bottle" src="/images/e3/bd7506-3b14-453f-a2c8-4646e2e7a87f/2023-01-24-07-06-24-IMG-4547@512.webp"></img>
+    <section class="h">Fond Cyprès</section>
+    <section class="h text-bolder">La toile de Fond - 2021</section>
   </a>
 
 </div>
