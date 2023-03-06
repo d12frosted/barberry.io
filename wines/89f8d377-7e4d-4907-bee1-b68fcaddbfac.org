@@ -9,11 +9,13 @@
 - Alcohol :: 12.5
 - Sugar :: 4
 - Price :: 255 UAH, 320 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-05 - ☆ 7.50
+
+Valdebarón is a wine to open if you want an affordable (in terms of price and stocks) white from Rioja. It's not complex, but it's definitely good. Intense bouquet of honey, apple, butter and tropical fruits. It feels naked if you remove the lees/oak layer. Aye, it lacks freshness (think of smeared apple vs green apple), but overall it has good volume, minerality and concentration. Considering the price tag, good choice for an everyday drink.
 
 ** Related
 
@@ -41,6 +43,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/fb/adcf93-5dcb-4d63-b28d-a9ae1ee25b04/2021-08-21-16-55-13-E9C3AF49-63DE-44A3-BB97-9672B444956E-1-105-c@512.webp"></img>
     <section class="h">Bodegas Olarra</section>
     <section class="h text-bolder">Cerro Añon Crianza - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6d4dc1a5-0c91-4334-a1e7-34c2d659f68a.html">
+    <img class="flex-bottle" src="/images/6d/4dc1a5-0c91-4334-a1e7-34c2d659f68a/2023-02-20-22-14-17-IMG-5083@512.webp"></img>
+    <section class="h">Bortolomiol</section>
+    <section class="h text-bolder">Ius Naturae Valdobbiadene Millesimato - 2021</section>
   </a>
 
 </div>
