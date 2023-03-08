@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 835 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 Comes from young vines (average age is 4 years). In total [[barberry:/producers/71e2d1b5-3a20-4b47-a061-5911708ba091][Et Cetera]] owns 1.2 ha of Pinot Noir.
 
@@ -29,6 +29,12 @@ My favourite winery from Ștefan Vodă. Beautiful nose full of strawberry stew,
 
 Tasted again in a more appropriate environment - chilled and served in big Zalto glasses. Pale garnet colour. Warm and oldish bouquet: rich strawberry compote, bitter herbs, dill, wet forest floor, raw meat, mushrooms and hints of rabbit fur. Medium body, juicy, elegant and stylish. It would be nice to have higher acidity. It's getting close to its peak, so don't hide too far away. Better drink within a year or two.
 
+*** 2023-03-07 - ☆ 8.00
+
+Wine #5 on [[barberry:/posts/2023-03-07-mixed-bag][Mixed Bag Vol. 5]].
+
+One more experiment of the evening. But the one that turned out to have a happy ending. It took second place based on the average score. A good combination of warm-climate Pinot Noir (e.g. red fruits, blood and underbrush) with caramel, chilli and coffee. Round, velvety and well-balanced. It has a long aftertaste with flavours of blood, red fruits and dark chocolate with chilli pepper. Nice.
+
 ** Related
 
 #+begin_export html
@@ -39,16 +45,58 @@ Tasted again in a more appropriate environment - chilled and served in big Zalto
     <section class="h text-bolder">Saltamartí - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+    <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
+    <section class="h">Lyme Bay</section>
+    <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6.html">
+    <img class="flex-bottle" src="/images/30/3d09ba-ded9-49b8-a09b-4f89b6607da6/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o@512.webp"></img>
+    <section class="h">Taittinger</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/493e1962-0123-40b7-848e-c82389444c42.html">
     <img class="flex-bottle" src="/images/49/3e1962-0123-40b7-848e-c82389444c42/2022-09-14-15-05-54-729A5FDE-173B-4D2B-9D26-5C3C47237997-1-105-c@512.webp"></img>
     <section class="h">Lo Zoccolaio</section>
     <section class="h text-bolder">Suculé Barbera d'Alba Superiore - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/94ec9be5-892e-4b46-92a6-fcc7ff071b0a.html">
+  <a class="flex-item flex-item-left" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
+    <img class="flex-bottle" src="/images/74/d9ccb5-28fc-4b73-9496-5215458d4ede/2022-09-26-19-21-48-7A33AE56-40AB-46DA-9477-04AC52136A7A-1-102-o@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/94ec9be5-892e-4b46-92a6-fcc7ff071b0a.html">
     <img class="flex-bottle" src="/images/94/ec9be5-892e-4b46-92a6-fcc7ff071b0a/2020-02-15-11-42-10-5C82A6B3-81D8-4D59-B9D0-233D0680DC67-1-105-c@512.webp"></img>
     <section class="h">Ashbourne</section>
     <section class="h text-bolder">Pinotage Cinsault - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2.html">
+    <img class="flex-bottle" src="/images/a7/0d304d-581f-44e1-91b5-dfa8422a03d2/2022-12-31-14-06-20-47BDFE1E-174F-4E70-BFBA-923BA978D79C-1-105-c@512.webp"></img>
+    <section class="h">Domaine du Pélican</section>
+    <section class="h text-bolder">Savagnin Macération Pelliculaire - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+    <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-27-21-52-38-IMG-5230@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Loca Deserta - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5.html">
+    <img class="flex-bottle" src="/images/cb/a5ddb4-b51f-4fb9-a28f-40489793aeb5/2023-01-24-07-11-52-IMG-4562@512.webp"></img>
+    <section class="h">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Pinot Gris Macération - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f.html">
+    <img class="flex-bottle" src="/images/ea/95b34e-b0e6-4581-a6b0-47d39234286f/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c@512.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">CHARdO - 2020</section>
   </a>
 
 </div>

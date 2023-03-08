@@ -1,0 +1,39 @@
+{
+  "id": "303d09ba-ded9-49b8-a09b-4f89b6607da6",
+  "name": "Brut Réserve",
+  "full-name": "Taittinger Brut Reserve NV",
+  "producer": {
+    "id": "5c099613-14a4-4dd3-8c29-f331efa52474",
+    "name": "Taittinger"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "9.8",
+  "prices": [
+    "1890 UAH",
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/30/3d09ba-ded9-49b8-a09b-4f89b6607da6/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o.webp",
+  "rating": "7.666666666666667"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6.html">
+    <img class="flex-bottle" src="/images/30/3d09ba-ded9-49b8-a09b-4f89b6607da6/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o@512.webp"></img>
+    <section class="h">★ 7.67</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
+</div>
+#+end_export

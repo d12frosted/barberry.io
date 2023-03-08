@@ -9,11 +9,15 @@
 - Alcohol :: 15
 - Sugar :: NA
 - Price :: 3256 UAH, 3700 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-07 - ☆ 8.50
+
+Wine #7 on [[barberry:/posts/2023-03-07-mixed-bag][Mixed Bag Vol. 5]].
+
+Hehe. What can I say? A bottle of good vin jaune is a bottle of a good vin jaune. Aye, it's hard to talk about terroir here, but I find it tasty. Fino Jerez, raw nuts, maple syrup, curry, mould and tilia honey. Bright, expressive, fresh and well-balanced.
 
 ** Related
 
@@ -47,6 +51,48 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+    <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
+    <section class="h">Lyme Bay</section>
+    <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6.html">
+    <img class="flex-bottle" src="/images/30/3d09ba-ded9-49b8-a09b-4f89b6607da6/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o@512.webp"></img>
+    <section class="h">Taittinger</section>
+    <section class="h text-bolder">Brut Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c.html">
+    <img class="flex-bottle" src="/images/8b/78bea1-7eb3-4aba-953d-44b164aa164c/2022-09-05-20-36-28-IMG-2001@512.webp"></img>
+    <section class="h">Et Cetera</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2.html">
+    <img class="flex-bottle" src="/images/a7/0d304d-581f-44e1-91b5-dfa8422a03d2/2022-12-31-14-06-20-47BDFE1E-174F-4E70-BFBA-923BA978D79C-1-105-c@512.webp"></img>
+    <section class="h">Domaine du Pélican</section>
+    <section class="h text-bolder">Savagnin Macération Pelliculaire - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+    <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-27-21-52-38-IMG-5230@512.webp"></img>
+    <section class="h">Beykush</section>
+    <section class="h text-bolder">Loca Deserta - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5.html">
+    <img class="flex-bottle" src="/images/cb/a5ddb4-b51f-4fb9-a28f-40489793aeb5/2023-01-24-07-11-52-IMG-4562@512.webp"></img>
+    <section class="h">J.M Dreyer</section>
+    <section class="h text-bolder">Origin Pinot Gris Macération - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f.html">
+    <img class="flex-bottle" src="/images/ea/95b34e-b0e6-4581-a6b0-47d39234286f/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c@512.webp"></img>
+    <section class="h">Sarnin-Berrux</section>
+    <section class="h text-bolder">CHARdO - 2020</section>
   </a>
 
 </div>
