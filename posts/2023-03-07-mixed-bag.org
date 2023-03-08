@@ -1,5 +1,5 @@
-#+DOWNLOADED: file:/Users/d12frosted/IMG_5336.jpeg @ 2023-03-06 19:42:50
-[[file:/images/2023-03-07-mixed-bag/2023-03-06-19-42-50-IMG-5336.webp]]
+#+caption: Photo by Elvira Kantiieva
+[[file:/images/2023-03-07-mixed-bag/2023-03-08-09-19-37-photo-2023-03-08 09.19.25.webp]]
 
 After tasting so many wines from Italy, it's time to turn to our favourite source of wines - my endless bag. And it's an excellent opportunity to explore the world of wine without any specific ties. Sparkling from England? You've got it! Moldova? Ukraine? There are no rules. Just an attempt to build a sensual story.
 
@@ -249,15 +249,15 @@ Aye, I use Wikipedia, and I am not ashamed.
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | amean  | rms    |   sdev | favourite | outcast |   price | QPR      |
+|         |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
 |---------+--------+--------+--------+-----------+---------+---------+----------|
-| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1299.00 | *0.0000* |
-| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1956.00 | *0.0000* |
-| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1050.00 | *0.0000* |
-| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 | *0.0000* |
-| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  835.00 | *0.0000* |
-| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  901.00 | *0.0000* |
-| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 3700.00 | *0.0000* |
+| Wine #1 |   3.95 |   3.96 | 0.0588 |      1.00 |    1.00 | 1299.00 |   1.7257 |
+| Wine #2 |   3.80 |   3.81 | 0.0727 |      0.00 |    2.00 | 1956.00 |   0.9120 |
+| Wine #3 |   3.91 |   3.93 | 0.1899 |    *3.00* |    3.00 | 1050.00 |   1.9951 |
+| Wine #4 |   3.97 |   3.97 | 0.0519 |    *3.00* |    0.00 | 1250.00 |   1.8304 |
+| Wine #5 |   4.01 |   4.02 | 0.0536 |      1.00 |    0.00 |  835.00 | *2.9139* |
+| Wine #6 |   3.97 |   3.97 | 0.0265 |      0.00 |  +4.00+ |  901.00 |   2.5394 |
+| Wine #7 | *4.04* | *4.05* | 0.0408 |    *3.00* |    0.00 | 3700.00 |   0.6938 |
 
 How to read this table:
 
@@ -272,7 +272,17 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B     |    4.00 |    3.80 |    4.00 |    4.00 |    4.00 |  +3.80+ |  *4.20* |
+| Oleksandr R |    3.90 |    3.90 |  +3.60+ |  *4.00* |    4.10 |    4.10 |    4.00 |
+| Ivietta K   |    4.40 |    3.80 |    4.10 |    4.00 |    4.10 |  +3.90+ |  *4.20* |
+| Dmytro D    |    4.00 |    3.70 |  +3.50+ |    3.60 |  *4.40* |    4.10 |    4.20 |
+| Anna K      |    4.00 |  +4.40+ |  *4.50* |    4.45 |    4.40 |    4.25 |    3.90 |
+| Rostyslav Y |    4.00 |    3.60 |  +2.90+ |  *4.10* |    3.90 |    4.20 |    3.80 |
+| Oleksii K   |  +3.30+ |    3.80 |    4.00 |  *4.00* |    3.80 |    4.00 |    3.60 |
+| Elvira K    |    3.90 |    3.90 |    4.10 |    4.10 |    4.00 |    3.80 |  *4.30* |
+| Daria K     |  *4.00* |    3.80 |    3.80 |    3.60 |    3.80 |  +3.90+ |    3.99 |
+| Andrii U    |    4.00 |  +3.20+ |  *4.50* |    3.80 |    3.60 |    3.80 |    4.10 |
+| Boris B     |    4.00 |    3.90 |  *4.00* |    4.00 |    4.00 |  +3.80+ |    4.20 |
 
