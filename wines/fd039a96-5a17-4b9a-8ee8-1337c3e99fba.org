@@ -95,13 +95,19 @@ Tasted after Divych Vechir event.
     <section class="h text-bolder">Le mie Origini - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-left" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
+    <img class="flex-bottle" src="/images/6f/9aaefd-a731-4fb3-8878-977fae2064b7/2021-08-18-10-39-17-EB1D80EC-E0BF-42D6-990B-C549E843B9BE-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">Terroirs (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c@512.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
+  <a class="flex-item flex-item-left" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
     <img class="flex-bottle" src="/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c@512.webp"></img>
     <section class="h">Chandon de Briailles</section>
     <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2017</section>
