@@ -10,11 +10,11 @@ Wines:
 
 * Bodegas Olarra Ondarre Valdebarón Blanco 2020
 :PROPERTIES:
-:ID:                     0bae88e6-bff0-488a-b464-27eaef85e830
+:ID:                     ec3fd53f-97f2-463a-808d-85595c0c46d4
 :END:
 
 #+attr_html: :class bottle-right
-[[file:/images/2023-03-14-quest-for-value/2023-02-20-21-45-47-IMG-5125.webp]]
+[[file:/images/2023-03-14-quest-for-value/2023-02-20-21-45-47-IMG-5122.webp]]
 
 - producer: [[barberry:/producers/898c51d1-e204-4395-89d9-be79c134a593][Bodegas Olarra]]
 - name: [[barberry:/wines/89f8d377-7e4d-4907-bee1-b68fcaddbfac][Ondarre Valdebarón Blanco]]
@@ -135,6 +135,12 @@ Camándula is a field blend, seemingly consisting of all the grapes Fedellos are
 - alcohol: 13
 - sugar: 0.3
 - price: 1075 UAH
+
+Well, well, well, if it's the Vells itself. Alfredo Arribas (ex-architect, though not from IT, so restrain from asking him to validate your distributed system design) is one of the people that arrived to beautifully shaped Priorat and Montsant to shape them as winemaking regions. His main project is Portal del Priorat. Trossos is the second one and is located in Montsant.
+
+Despite their proximity (30 km), Priorat and Montsant are strongly contrasting terroirs, landscape- and soil-wise. Monstant hills surround Priorat, thus creating a micro-climate within. Priorat is predominantly slate soil, on very sloped land. Montsant is much flatter, meaning ‘less aggressive topography’, with clay and chalky soil.
+
+Vells is 100% Cariñena from 60+ years old vines cultivated organically with biodynamic practices on red chalky soils at 300-350m above sea level. Lots are fermented separately in small tanks. Matured in French oak barrels of different sizes for 11 months.
 
 * Weinert Cabernet Sauvignon 2011
 :PROPERTIES:
