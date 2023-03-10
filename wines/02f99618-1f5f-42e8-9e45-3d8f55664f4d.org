@@ -9,7 +9,7 @@
 - Alcohol :: 11.5
 - Sugar :: 8
 - Price :: 603 UAH, 690 UAH, 607 UAH
-- Cellar :: 3 bottles
+- Cellar :: N/A
 
 ** Producer
 
@@ -22,6 +22,10 @@ When Giulio Armani is not busy with [[barberry:/producers/e852c48c-eb2b-48ec-90f
 Bonus wine on [[barberry:/posts/2023-02-28-double-trouble][Double trouble]].
 
 After complicated Mercandelli we all required something easy to enjoy. A crowd-pleaser! Catavela over delivered in this regard. Typical bouquet, but nothing crazy. Cider, ripe apples, apricot jam and lemon. Juicy and so quaffable. Great balance, not complicated. Kind of reminded a dry version of Cascina Tavijn Bianca.
+
+*** 2023-03-09 - ☆ 7.75
+
+At last, I had a chance to witness some evolution of this wine in the glass. Fizzy when opened. Yells in the words of acetone. And then it slowly reveals its crowd-pleasing nature. Good fruit, cider, ripe yellow apples, apricot jam, lemon and pencil shavings. Well balanced and fresh. Not simple, generous and voluminous. The comparison with Cascina Tavijn Bianca still stands. The latter is just cleaner.
 
 ** Related
 
@@ -51,31 +55,37 @@ After complicated Mercandelli we all required something easy to enjoy. A crowd-p
     <section class="h text-bolder">Carjcanti - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608.html">
+  <a class="flex-item flex-item-left" href="/wines/2b69ecd8-4a60-4fea-b9aa-e6c73a59243d.html">
+    <img class="flex-bottle" src="/images/2b/69ecd8-4a60-4fea-b9aa-e6c73a59243d/2022-06-28-07-04-51-97350933-21F9-403B-AD7D-28E137922FE5-1-105-c@512.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Ruby - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608.html">
     <img class="flex-bottle" src="/images/4d/c30343-1f2d-47ba-8f9a-97d04e429608/2022-11-25-16-45-49-IMG-3377@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Carjcanti - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
+  <a class="flex-item flex-item-left" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
     <img class="flex-bottle" src="/images/76/7a24b9-3ae4-4ea9-9955-a4c7157e6afe/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c@512.webp"></img>
     <section class="h">Cantina Alchemica</section>
     <section class="h text-bolder">M Rosso - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91.html">
+  <a class="flex-item flex-item-right" href="/wines/8699dab9-59a5-41f3-8e57-df21f04d5e91.html">
     <img class="flex-bottle" src="/images/86/99dab9-59a5-41f3-8e57-df21f04d5e91/2022-12-09-17-37-39-C0B71F75-4229-44CE-846D-DF008F8E3553-1-105-c@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Carjcanti - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ab4efba9-201e-4489-b2db-43a6f7863585.html">
+  <a class="flex-item flex-item-left" href="/wines/ab4efba9-201e-4489-b2db-43a6f7863585.html">
     <img class="flex-bottle" src="/images/ab/4efba9-201e-4489-b2db-43a6f7863585/2022-11-23-14-36-53-35973946-3804-4ECF-9961-4F2D0E73B1AA-1-102-o@512.webp"></img>
     <section class="h">Raúl Pérez</section>
     <section class="h text-bolder">La Vizcaína La Del Vivo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c.html">
+  <a class="flex-item flex-item-right" href="/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c.html">
     <img class="flex-bottle" src="/images/e4/e90e65-228d-4605-a0f5-bf9681aa278c/2022-11-23-14-38-35-IMG-3337@512.webp"></img>
     <section class="h">Raúl Pérez</section>
     <section class="h text-bolder">La Vizcaína La Del Vivo - 2015</section>
