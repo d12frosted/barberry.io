@@ -21,7 +21,13 @@ Simple and friendly Pinot Noir. Cherry jam and leather hints. Almost off-dry, ye
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
+  <a class="flex-item flex-item-left" href="/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450.html">
+    <img class="flex-bottle" src="/images/c9/55b7cb-7f5b-401f-9da2-4364f8f70450/2023-03-09-11-37-59-IMG-5398@512.webp"></img>
+    <section class="h">Pete's Pure</section>
+    <section class="h text-bolder">Prosecco - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0cc02b3c-25bc-4ed0-8ca0-ea680e9f19d4.html">
     <img class="flex-bottle" src="/images/0c/c02b3c-25bc-4ed0-8ca0-ea680e9f19d4/2022-05-08-18-10-15-IMG-0045@512.webp"></img>
     <section class="h">Saint Clair</section>
     <section class="h text-bolder">Origin Pinot Noir Marlborough - 2019</section>

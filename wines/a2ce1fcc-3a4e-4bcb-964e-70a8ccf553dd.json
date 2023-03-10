@@ -1,0 +1,43 @@
+{
+  "id": "a2ce1fcc-3a4e-4bcb-964e-70a8ccf553dd",
+  "name": "Pitt Nat Rosé",
+  "full-name": "Pittnauer Pitt Nat Rosé 2021",
+  "producer": {
+    "id": "793037db-00f1-4ccc-a1cd-c26c19590b1e",
+    "name": "Pittnauer"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "217c46e8-bc5f-45c3-8bd1-4f4bddfac69e",
+      "name": "Blaufrankisch"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "10",
+  "prices": [
+    "847 UAH",
+    "990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a2/ce1fcc-3a4e-4bcb-964e-70a8ccf553dd/2023-03-09-11-35-19-IMG-5396.webp",
+  "rating": "NA"
+}

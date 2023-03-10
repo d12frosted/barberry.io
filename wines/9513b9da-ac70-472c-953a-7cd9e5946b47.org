@@ -59,31 +59,37 @@ Wine #4 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin 
     <section class="h text-bolder">Skerpioen - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/084f2900-816b-4687-bceb-9fe28995f7cc.html">
+  <a class="flex-item flex-item-left" href="/wines/f9b6ea46-f032-45c3-b18f-951508064989.html">
+    <img class="flex-bottle" src="/images/f9/b6ea46-f032-45c3-b18f-951508064989/2023-03-09-11-40-36-IMG-5405@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Columella - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/084f2900-816b-4687-bceb-9fe28995f7cc.html">
     <img class="flex-bottle" src="/images/08/4f2900-816b-4687-bceb-9fe28995f7cc/2022-05-08-16-14-07-C8EB9916-4DCA-4E14-81F1-C4A8C12D814D-1-102-o@512.webp"></img>
     <section class="h">Les Vignes De Paradis</section>
     <section class="h text-bolder">Chenin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">
+  <a class="flex-item flex-item-left" href="/wines/0aa4db7d-22bc-4e3e-876a-1740b7cfe73f.html">
     <img class="flex-bottle" src="/images/0a/a4db7d-22bc-4e3e-876a-1740b7cfe73f/2022-05-08-16-07-29-56302E38-0D8B-4AEE-A7DC-10D011443159-1-102-o@512.webp"></img>
     <section class="h">Costador</section>
     <section class="h text-bolder">Metamorphika Chenin Blanc - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+  <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
     <img class="flex-bottle" src="/images/83/d90838-5e63-43af-abc5-f5fb482bc36f/2021-11-26-07-56-58-413ECF5C-A714-4E30-9173-CC549B874B94-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
+  <a class="flex-item flex-item-left" href="/wines/a00de9a6-3e60-4ab4-8b81-279995809572.html">
     <img class="flex-bottle" src="/images/a0/0de9a6-3e60-4ab4-8b81-279995809572/2022-06-21-14-29-45-EB85A16C-F636-4B32-A6DE-208899B4AA1C-1-102-o@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
+  <a class="flex-item flex-item-right" href="/wines/d38aadd5-6c84-40a0-93c9-8ff6b7468553.html">
     <img class="flex-bottle" src="/images/d3/8aadd5-6c84-40a0-93c9-8ff6b7468553/2022-06-21-14-31-39-C73B544C-2B9B-4113-B737-A75DE735090F-1-102-o@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito Skin - 2019</section>

@@ -1,0 +1,38 @@
+{
+  "id": "a5d1450d-9a0c-4783-8229-e192633601fd",
+  "name": "Les Prémices (d2021)",
+  "full-name": "Egly-Ouriet Les Prémices (d2021)",
+  "producer": {
+    "id": "c889ae32-a1bc-444e-8aef-16826b33a2e4",
+    "name": "Egly-Ouriet"
+  },
+  "vintage": "NV",
+  "base-vintage": "N/A",
+  "degorgee": "July 2021",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "2130 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a5/d1450d-9a0c-4783-8229-e192633601fd/2023-03-09-11-26-02-IMG-5383.webp",
+  "rating": "NA"
+}

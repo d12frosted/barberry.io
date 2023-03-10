@@ -1,0 +1,43 @@
+{
+  "id": "8311bac9-a95a-4680-b011-589a569065b6",
+  "name": "Big Bunch Theory Fresh Impression Red",
+  "full-name": "Patrice Beguet Big Bunch Theory Fresh Impression Red 2021",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0",
+  "prices": [
+    "702 UAH",
+    "820 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/83/11bac9-a95a-4680-b011-589a569065b6/2023-03-09-11-45-36-IMG-5422.webp",
+  "rating": "NA"
+}

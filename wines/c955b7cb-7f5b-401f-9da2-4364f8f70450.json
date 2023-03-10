@@ -1,0 +1,43 @@
+{
+  "id": "c955b7cb-7f5b-401f-9da2-4364f8f70450",
+  "name": "Prosecco",
+  "full-name": "Pete's Pure Prosecco",
+  "producer": {
+    "id": "b76709e7-dd5a-4e9c-9ea8-96365ea07dde",
+    "name": "Pete's Pure"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "40280e64-046d-4769-99f2-a4a72a2e3e71",
+      "name": "Sémillon"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "12.5",
+  "prices": [
+    "427 UAH",
+    "498 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c9/55b7cb-7f5b-401f-9da2-4364f8f70450/2023-03-09-11-37-59-IMG-5398.webp",
+  "rating": "NA"
+}

@@ -9,5 +9,11 @@
     <section class="h text-bolder">Perfect Day - 2021</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/a2ce1fcc-3a4e-4bcb-964e-70a8ccf553dd.html">
+    <img class="flex-bottle" src="/images/a2/ce1fcc-3a4e-4bcb-964e-70a8ccf553dd/2023-03-09-11-35-19-IMG-5396@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pitt Nat Rosé - 2021</section>
+  </a>
+
 </div>
 #+end_export
