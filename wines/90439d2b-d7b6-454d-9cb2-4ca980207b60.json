@@ -1,0 +1,38 @@
+{
+  "id": "90439d2b-d7b6-454d-9cb2-4ca980207b60",
+  "name": "Crozes-Hermitage Blanc",
+  "full-name": "René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018",
+  "producer": {
+    "id": "f01d36e7-2a65-4b9e-9d22-b828b6f015bc",
+    "name": "René-Jean Dard et François Ribo"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c48f1029-3d31-48fa-960b-5c4690ca9b9f",
+      "name": "Roussanne"
+    },
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "2190 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: 0.4
 - Price :: 808 UAH, 869 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -27,7 +27,9 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-10 - ☆ 7.80
+
+Unlike other fresh releases of Matassa, this one is edgy and bites a bit. Will keep a bottle or two to taste later. A funky bouquet of barnyard, black currant and tapenade. Playful palate with high acidity and tannin. IMO it slightly lacks balance today, but overall it's sophisticated and highly enjoyable wine.
 
 ** Related
 
@@ -133,6 +135,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/fa/8be8c9-7ba9-489b-bb4f-09401d3c6bd6/2023-01-16-16-14-21-IMG-4327@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Olla Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661.html">
+    <img class="flex-bottle" src="/images/9d/e8ffb2-0758-48cf-b43c-5ec7a2010661/2022-08-14-11-52-47-77D2A2F0-F519-437F-BE7C-3515F3D3E6F0-1-105-c@512.webp"></img>
+    <section class="h">Pittnauer</section>
+    <section class="h text-bolder">Perfect Day - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cd0eb8ce-b498-4518-836c-206f4db1367b.html">
+    <img class="flex-bottle" src="/images/cd/0eb8ce-b498-4518-836c-206f4db1367b/2023-01-16-16-50-37-IMG-4376@512.webp"></img>
+    <section class="h">Callia</section>
+    <section class="h text-bolder">CHT Chardonnay Torrontes - 2021</section>
   </a>
 
 </div>

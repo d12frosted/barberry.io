@@ -12,7 +12,7 @@
   "sur-lie": null,
   "colour": "white",
   "carbonation": "sparkling",
-  "sweetness": "brut",
+  "sweetness": "brut-nature",
   "country": {
     "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
     "name": "Spain"
@@ -38,10 +38,11 @@
   "alcohol": "12",
   "sugar": "3",
   "prices": [
+    "362 UAH",
     "325 UAH",
     "422 UAH"
   ],
-  "available": 5.0,
+  "available": 6.0,
   "image": "images/d0/2d57a9-82e6-4425-bd18-ea7db56a113c/2023-02-20-22-09-29-IMG-5138.webp",
   "rating": "7.5"
 }

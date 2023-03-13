@@ -1,15 +1,15 @@
 #+attr_html: :class wine-main-image
 [[file:/images/d0/2d57a9-82e6-4425-bd18-ea7db56a113c/2023-02-20-22-09-29-IMG-5138@512.webp]]
 
-- Type :: White Sparkling, Brut
+- Type :: White Sparkling, Brut nature
 - Producer :: [[barberry:/producers/d39488ac-3cfd-4c03-a490-8c8ed9781861][Naveran]]
 - Vintage :: 2020
 - Location :: Spain, Cava DO
 - Grapes :: Xarel-lo, Parellada, Macabeo, Chardonnay
 - Alcohol :: 12
 - Sugar :: 3
-- Price :: 325 UAH, 422 UAH
-- Cellar :: 5 bottles
+- Price :: 362 UAH, 325 UAH, 422 UAH
+- Cellar :: 6 bottles
 
 ** Ratings
 
@@ -21,19 +21,25 @@ Well-made Cava. Creamy (more like Crémant, but names should not mislead us, rig
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
+  <a class="flex-item flex-item-left" href="/wines/4c6b2e14-4595-4009-a339-8cc37166eae7.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Naveran</section>
+    <section class="h text-bolder">Brut Vintage - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9504e2d0-06dd-4a3f-9b24-51dbad1454f8.html">
     <img class="flex-bottle" src="/images/95/04e2d0-06dd-4a3f-9b24-51dbad1454f8/2022-01-13-10-00-56-BF768C12-ADD9-4B8D-BEA8-135B687A2720-1-105-c@512.webp"></img>
     <section class="h">Naveran</section>
     <section class="h text-bolder">Odisea - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ee5cbb30-2dd2-4355-b9c9-156c1b2302ab.html">
+  <a class="flex-item flex-item-left" href="/wines/ee5cbb30-2dd2-4355-b9c9-156c1b2302ab.html">
     <img class="flex-bottle" src="/images/ee/5cbb30-2dd2-4355-b9c9-156c1b2302ab/2020-06-01-21-15-41-14AE461B-B5BD-45A8-BE06-1E4FFB3B3F8A-1-105-c@512.webp"></img>
     <section class="h">Naveran</section>
     <section class="h text-bolder">Brut Nature Vintage - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
+  <a class="flex-item flex-item-right" href="/wines/38b023df-8c26-45e1-80f7-6be3f53681cc.html">
     <img class="flex-bottle" src="/images/38/b023df-8c26-45e1-80f7-6be3f53681cc/2022-07-02-08-51-20-288D8710-8471-4749-8587-B2CB20DA255A-1-105-c@512.webp"></img>
     <section class="h">Éric Chevalier</section>
     <section class="h text-bolder">Cirrus - 2018</section>

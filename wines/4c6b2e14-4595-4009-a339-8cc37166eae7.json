@@ -1,0 +1,46 @@
+{
+  "id": "4c6b2e14-4595-4009-a339-8cc37166eae7",
+  "name": "Brut Vintage",
+  "full-name": "Naveran Brut Vintage 2020",
+  "producer": {
+    "id": "d39488ac-3cfd-4c03-a490-8c8ed9781861",
+    "name": "Naveran"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "3",
+  "prices": [
+    "362 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

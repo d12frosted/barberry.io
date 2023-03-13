@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 1.3
 - Price :: 628 UAH, 790 UAH, 705 UAH, 740 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -20,6 +20,12 @@ I am not a fan of this wine. But I must admit that this vintage is so much bette
 *** 2022-10-27 - ☆ 5.50
 
 Ah, the Perfect Day, the way I remember it. Fermented elderflower and defiled toiled in the middle of nowhere. Why do I have to suffer? Aside from this nuance, it's pretty crowd-pleasing, tropical and quaffable. Just not my thing.
+
+*** 2023-03-10 - ☆ 6.00
+
+A bottle that I purchased by accident. Someone would say it's a happy (or rather perfect) accident. For me - it's money well wasted. At least I did my best to find the perfect convives to share this wine with, those who would enjoy and appreciate it. I had a bottle of Matassa for my own sake.
+
+Less brett than usual. A tropical perfumed bomb with lychee, peach, spoiled lemon and flowers. Simple palate with a short aftertaste. Lacks acidity. But it's well made, I guess. At least, it's better than the new release of Marto Weiss.
 
 ** Related
 
@@ -91,22 +97,34 @@ Ah, the Perfect Day, the way I remember it. Fermented elderflower and defiled to
     <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e1619879-8376-4b01-ba2a-8bacc0ad01e2.html">
+  <a class="flex-item flex-item-right" href="/wines/cd0eb8ce-b498-4518-836c-206f4db1367b.html">
+    <img class="flex-bottle" src="/images/cd/0eb8ce-b498-4518-836c-206f4db1367b/2023-01-16-16-50-37-IMG-4376@512.webp"></img>
+    <section class="h">Callia</section>
+    <section class="h text-bolder">CHT Chardonnay Torrontes - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e1619879-8376-4b01-ba2a-8bacc0ad01e2.html">
     <img class="flex-bottle" src="/images/e1/619879-8376-4b01-ba2a-8bacc0ad01e2/2022-10-28-13-08-58-154004E6-6825-4A32-AD1E-8A7A48A6470F-1-105-c@512.webp"></img>
     <section class="h">Cataldo Calabretta</section>
     <section class="h text-bolder">Cirò Rosso Classico Superiore - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
+  <a class="flex-item flex-item-right" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
     <img class="flex-bottle" src="/images/e2/282dba-1045-49a9-a806-631f570e0f0d/2022-08-12-11-50-44-IMG-1437@512.webp"></img>
     <section class="h">Ochota barrels</section>
     <section class="h text-bolder">the price of silence gamay - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6552fb9-5d4d-4b28-a5bd-86add75d2949.html">
+  <a class="flex-item flex-item-left" href="/wines/e6552fb9-5d4d-4b28-a5bd-86add75d2949.html">
     <img class="flex-bottle" src="/images/e6/552fb9-5d4d-4b28-a5bd-86add75d2949/2022-10-28-13-08-30-A0E81EE7-DC94-4B4A-9E06-1CA73F403353-1-105-c@512.webp"></img>
     <section class="h">Domaine Le Briseau</section>
     <section class="h text-bolder">Patapon - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f617f9f0-8472-4f81-b334-aff85c2ae294.html">
+    <img class="flex-bottle" src="/images/f6/17f9f0-8472-4f81-b334-aff85c2ae294/2023-02-20-22-18-25-IMG-5099@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Ace of Spades Les Myrs - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">

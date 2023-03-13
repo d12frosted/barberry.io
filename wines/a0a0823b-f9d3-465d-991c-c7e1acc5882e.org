@@ -1,0 +1,41 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/32e6cc69-90ec-4700-bdb5-d1a396315b9e][Pyramid Valley]]
+- Vintage :: 2021
+- Location :: New Zealand, North Canterbury
+- Grapes :: Pinot Gris
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 1396 UAH
+- Cellar :: N/A
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18904020-2d95-4222-918c-08fd62362d1c.html">
+    <img class="flex-bottle" src="/images/18/904020-2d95-4222-918c-08fd62362d1c/2021-03-08-19-57-08-D230C65D-B495-4D35-9443-01881A87ACCD-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">Earth Smoke Pinot Noir - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1e9f6aa9-7e8a-4c28-bc89-c33bc7ee08ad.html">
+    <img class="flex-bottle" src="/images/1e/9f6aa9-7e8a-4c28-bc89-c33bc7ee08ad/2021-08-18-18-59-53-986C216A-C250-4696-9801-210E5B3B7A8F-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">Central Otago Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b6660f69-14d7-4715-985d-9d24597506ed.html">
+    <img class="flex-bottle" src="/images/b6/660f69-14d7-4715-985d-9d24597506ed/2021-08-18-18-56-39-A750A4C3-A050-4A01-B154-30DBEF179D74-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">North Canterbury Pinot Noir - 2018</section>
+  </a>
+
+</div>
+#+end_export
