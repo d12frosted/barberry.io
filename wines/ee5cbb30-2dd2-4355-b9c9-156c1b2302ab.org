@@ -22,7 +22,7 @@ Elegant and fresh Cava from good producer. Apple, baked pear, crepes with butter
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/4c6b2e14-4595-4009-a339-8cc37166eae7.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/4c/6b2e14-4595-4009-a339-8cc37166eae7/2023-03-14-14-07-47-01B43462-D601-484F-879D-C1CAA26235FB-1-105-c@512.webp"></img>
     <section class="h">Naveran</section>
     <section class="h text-bolder">Brut Vintage - 2020</section>
   </a>
