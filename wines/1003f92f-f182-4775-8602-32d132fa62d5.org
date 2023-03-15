@@ -9,13 +9,17 @@
 - Alcohol :: 10.5
 - Sugar :: NA
 - Price :: 1440 UAH, 1323 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2021-07-19 - ☆ 8.80
 
 Tasted blind. Beeswax, green apple, tilia and honey. After some time it becomes magnificent, bouquet enriches by honeysuckle and amber with some musk notes. Energetic, crisp and well balanced with high acidity. Lovely long aftertaste that evolves over time. It was the most interesting wine of the evening, no wonder it was named favourite by most of the people.
+
+*** 2023-03-14 - ☆ 7.50
+
+Unfortunately, this Riesling feels close to its death. Initially, it displays a beautiful bouquet of beeswax, gingerbread, yellow apple, hay, tilia, amber, honey and petroleum. But it quickly evaporates and becomes lifeless. On the palate, it's fresh with a nice oily mouthfeel. It's not simple though.
 
 ** Related
 
@@ -51,16 +55,52 @@ Tasted blind. Beeswax, green apple, tilia and honey. After some time it becomes 
     <section class="h text-bolder">kids of the black hole - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/1de7ff40-6385-4ed1-898c-7ade51b63a98.html">
+    <img class="flex-bottle" src="/images/1d/e7ff40-6385-4ed1-898c-7ade51b63a98/2022-09-20-15-43-17-IMG-2295@512.webp"></img>
+    <section class="h">Weinert</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/47638fe3-31a8-4161-88f5-89c994bc635e.html">
+    <img class="flex-bottle" src="/images/47/638fe3-31a8-4161-88f5-89c994bc635e/2023-03-09-11-40-00-IMG-5403@512.webp"></img>
+    <section class="h">Peixes</section>
+    <section class="h text-bolder">Camándula - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/89f8d377-7e4d-4907-bee1-b68fcaddbfac.html">
+    <img class="flex-bottle" src="/images/89/f8d377-7e4d-4907-bee1-b68fcaddbfac/2023-02-20-21-45-47-IMG-5122@512.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Ondarre Valdebarón Blanco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c.html">
+    <img class="flex-bottle" src="/images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186@512.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Vino Bianca - 2021</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/b9972612-deb1-4a2c-910f-42901592cc46.html">
     <img class="flex-bottle" src="/images/b9/972612-deb1-4a2c-910f-42901592cc46/2021-07-20-09-08-54-09302D0D-A089-4965-888A-0299714EE9E2-1-105-c@512.webp"></img>
     <section class="h">Schloss Johannisberger</section>
     <section class="h text-bolder">Bronzelack Trocken Qualitätswein - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
+  <a class="flex-item flex-item-left" href="/wines/c7f437a0-dcaf-44c7-95e9-11919aa0ada0.html">
+    <img class="flex-bottle" src="/images/c7/f437a0-dcaf-44c7-95e9-11919aa0ada0/2023-02-20-22-11-16-IMG-5136@512.webp"></img>
+    <section class="h">Illuminati</section>
+    <section class="h text-bolder">Riparosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/eecd139e-6555-46c7-927b-5b222d9f5583.html">
     <img class="flex-bottle" src="/images/ee/cd139e-6555-46c7-927b-5b222d9f5583/2021-07-20-09-16-45-48107411-B181-4B9F-A767-28E6B3DD3301-1-105-c@512.webp"></img>
     <section class="h">F. X. Pichler</section>
     <section class="h text-bolder">Riesling Loibenberg Smaragd - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b.html">
+    <img class="flex-bottle" src="/images/f9/13d77f-17a6-4b79-b8b3-41967cdf315b/2022-09-20-15-44-58-IMG-2297@512.webp"></img>
+    <section class="h">Trossos</section>
+    <section class="h text-bolder">Vells - 2018</section>
   </a>
 
 </div>

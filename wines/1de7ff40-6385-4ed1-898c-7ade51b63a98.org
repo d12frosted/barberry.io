@@ -9,7 +9,7 @@
 - Alcohol :: 14.5
 - Sugar :: NA
 - Price :: 739 UAH, 929 UAH, 613 UAH, 626 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 The wine is aged in French oak casks of 2000-600 litres. During this ageing process, winemaker Hubert Weber selects casks to compose a terroir blend of Cabernet Sauvignon from different vineyards within Lujan de Cuyo. 2011 vintage saw 9.5 years. Bottled in February 2021.
 
@@ -24,6 +24,10 @@ But what makes this winery interesting for us, plebeians? First of all, it is lo
 *** 2022-10-03 - ☆ 8.00
 
 It's more lively than Merlot of the same vintage. Beautiful and ripe bouquet: eucalyptus, tobacco, black currant (jaaam), pine nuts, bay leaf, and oak. Round, almost perfectly balanced, long aftertaste with a liquorice finish. Not overly sophisticated, but approachable and delicious.
+
+*** 2023-03-14 - ☆ 8.25
+
+Not sure if I was drunk already. But it seemed like this Cabernet Sauvignon had improved since the last time I tasted it. Generous, yet not simple. It's self-sufficient but friendly enough to accompany food. Pine nuts, bay leaf, eucalyptus, black currant jam, smoked prune and oak. Round and almost perfectly balanced. The aftertaste is long and flavourful with a delicious liquorice root syrup finish. Great value.
 
 ** Related
 
@@ -77,10 +81,46 @@ It's more lively than Merlot of the same vintage. Beautiful and ripe bouquet: eu
     <section class="h text-bolder">Carrascal Cabernet Sauvignon - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
+  <a class="flex-item flex-item-left" href="/wines/1003f92f-f182-4775-8602-32d132fa62d5.html">
+    <img class="flex-bottle" src="/images/10/03f92f-f182-4775-8602-32d132fa62d5/2023-01-27-11-48-31-IMG-4621@512.webp"></img>
+    <section class="h">Fio Wein</section>
+    <section class="h text-bolder">Riesling Qualitätswein - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/47638fe3-31a8-4161-88f5-89c994bc635e.html">
+    <img class="flex-bottle" src="/images/47/638fe3-31a8-4161-88f5-89c994bc635e/2023-03-09-11-40-00-IMG-5403@512.webp"></img>
+    <section class="h">Peixes</section>
+    <section class="h text-bolder">Camándula - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/89f8d377-7e4d-4907-bee1-b68fcaddbfac.html">
+    <img class="flex-bottle" src="/images/89/f8d377-7e4d-4907-bee1-b68fcaddbfac/2023-02-20-21-45-47-IMG-5122@512.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Ondarre Valdebarón Blanco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c.html">
+    <img class="flex-bottle" src="/images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186@512.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Vino Bianca - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c7f437a0-dcaf-44c7-95e9-11919aa0ada0.html">
+    <img class="flex-bottle" src="/images/c7/f437a0-dcaf-44c7-95e9-11919aa0ada0/2023-02-20-22-11-16-IMG-5136@512.webp"></img>
+    <section class="h">Illuminati</section>
+    <section class="h text-bolder">Riparosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
     <img class="flex-bottle" src="/images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o@512.webp"></img>
     <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Dos Canotos - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b.html">
+    <img class="flex-bottle" src="/images/f9/13d77f-17a6-4b79-b8b3-41967cdf315b/2022-09-20-15-44-58-IMG-2297@512.webp"></img>
+    <section class="h">Trossos</section>
+    <section class="h text-bolder">Vells - 2018</section>
   </a>
 
 </div>
