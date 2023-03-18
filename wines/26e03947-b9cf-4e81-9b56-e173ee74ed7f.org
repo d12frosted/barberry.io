@@ -9,9 +9,59 @@
 - Alcohol :: 13
 - Sugar :: 1
 - Price :: 2036 UAH, 2380 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-17 - ☆ 8.50
 
+The most complex wine of the evening caught me tired. A wine to spend the night with. Multilayered bouquet. Bear with me as I've found lots of curious things. Hay, green apples, green hazelnuts, flint, honey, wet stone, shells, crushed apple seeds, mushrooms, brine and lemon tart. Wonderfully fresh, prolonged and delicious. Demanding style, so I am going to repeat this experienc.e
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/124f0b28-e18a-488c-a8b4-776de6c93e37.html">
+    <img class="flex-bottle" src="/images/12/4f0b28-e18a-488c-a8b4-776de6c93e37/2023-02-27-21-51-54-0B593394-E20A-41A8-B537-2FC91621EE99-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Brut Tradition (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/22b86d9f-0061-4888-8f40-9ecaed828feb.html">
+    <img class="flex-bottle" src="/images/22/b86d9f-0061-4888-8f40-9ecaed828feb/2023-03-13-21-22-20-22956ED4-22CF-4D0B-998E-0C608272F697-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée (d2019) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/24dc4374-1c30-4710-9f15-5c6fd054eef5.html">
+    <img class="flex-bottle" src="/images/24/dc4374-1c30-4710-9f15-5c6fd054eef5/2023-03-13-21-25-47-CF27D223-4D09-4A09-A740-47100AB1C8DB-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée (d2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5af0828d-ba29-4ddf-af8c-96ade35dea35.html">
+    <img class="flex-bottle" src="/images/5a/f0828d-ba29-4ddf-af8c-96ade35dea35/2023-03-18-08-06-03-2B0B418B-42DB-4CB9-AC4E-F22787521CD6-1-105-c@512.webp"></img>
+    <section class="h">Alice et Olivier De Moor</section>
+    <section class="h text-bolder">Chablis Coteau de rosette - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e411f8b3-02a7-4cb9-b240-f8816237c851.html">
+    <img class="flex-bottle" src="/images/e4/11f8b3-02a7-4cb9-b240-f8816237c851/2023-03-13-21-27-54-952ACFAA-8C54-44E9-9DA5-1FE5B04E5AB1-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée (d2014 May) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ef0b81d2-16cc-4a84-91e4-acfeb1c8316e.html">
+    <img class="flex-bottle" src="/images/ef/0b81d2-16cc-4a84-91e4-acfeb1c8316e/2022-11-11-08-56-44-01C59607-934A-46D3-96D4-BEB26BBFA925-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée (d2010) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f0036bf5-0e50-4cd3-b537-2af0978a7c01.html">
+    <img class="flex-bottle" src="/images/f0/036bf5-0e50-4cd3-b537-2af0978a7c01/2023-03-13-21-20-10-32ADF7A1-A41C-4D6C-94C9-0FB869377E4D-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">Première Cuvée (d2022) - NV</section>
+  </a>
+
+</div>
+#+end_export

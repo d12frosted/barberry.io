@@ -40,7 +40,7 @@ In Jason’s words, “This project is entirely geared towards a very specific l
 
   <a class="flex-item flex-item-left" href="/wines/a4d331bc-521d-430d-a892-3fa96f017f1a.html">
     <img class="flex-bottle" src="/images/a4/d331bc-521d-430d-a892-3fa96f017f1a/2022-12-23-13-21-49-IMG-3975@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Octave - 2019</section>
   </a>
 

@@ -89,5 +89,17 @@ A 'vertical' tasting of Bruno Paillard Première Cuvée NV. Disgorged in 	June 2
     <section class="h text-bolder">Brut Tradition (d2022) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/26e03947-b9cf-4e81-9b56-e173ee74ed7f.html">
+    <img class="flex-bottle" src="/images/26/e03947-b9cf-4e81-9b56-e173ee74ed7f/2023-02-09-17-32-26-IMG-4878@512.webp"></img>
+    <section class="h">Domaine Daniel-Etienne Defaix</section>
+    <section class="h text-bolder">Chablis Premier Cru Les Lys - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5af0828d-ba29-4ddf-af8c-96ade35dea35.html">
+    <img class="flex-bottle" src="/images/5a/f0828d-ba29-4ddf-af8c-96ade35dea35/2023-03-18-08-06-03-2B0B418B-42DB-4CB9-AC4E-F22787521CD6-1-105-c@512.webp"></img>
+    <section class="h">Alice et Olivier De Moor</section>
+    <section class="h text-bolder">Chablis Coteau de rosette - 2018</section>
+  </a>
+
 </div>
 #+end_export
