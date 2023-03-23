@@ -1,0 +1,34 @@
+{
+  "id": "f480d241-3eee-44e1-84ed-06a94c749a88",
+  "name": "Chardonnay Arbois-Pupullin",
+  "full-name": "Paul Benoit et Fils Chardonnay Arbois-Pupullin 2018",
+  "producer": {
+    "id": "20bee0c4-c9a6-42e6-ac4b-c1c04e1aeceb",
+    "name": "Paul Benoit et Fils"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "1292 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f4/80d241-3eee-44e1-84ed-06a94c749a88/2023-03-23-07-38-47-A22CB2E2-E94B-4A00-8BB2-7CDCA952B00E-1-105-c.webp",
+  "rating": "6.5"
+}

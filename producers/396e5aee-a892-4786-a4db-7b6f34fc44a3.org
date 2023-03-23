@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4afaf163-7d47-4b38-b92b-9084985c6d62.html">
+    <img class="flex-bottle" src="/images/4a/faf163-7d47-4b38-b92b-9084985c6d62/2023-03-23-07-24-46-74B56DB2-FD4F-4B51-A2B4-71D1C17C0744-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Crémant du Jura Extra Brut 60 mois - 2017</section>
+  </a>
+
+</div>
+#+end_export

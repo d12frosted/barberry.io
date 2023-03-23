@@ -1,0 +1,34 @@
+{
+  "id": "75c908d0-28c8-44fc-9152-c124993101d5",
+  "name": "Boal 10 Years Old",
+  "full-name": "Justino's Madeira Boal 10 Years Old NV",
+  "producer": {
+    "id": "bd6ac40b-6af8-47ee-acf9-fd43e2f3401c",
+    "name": "Justino's Madeira"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "edbaa4d5-420c-4ad3-ae88-87f3d645ff69",
+      "name": "Boal"
+    }
+  ],
+  "alcohol": "19",
+  "sugar": "NA",
+  "prices": [
+    "3981 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/75/c908d0-28c8-44fc-9152-c124993101d5/2023-03-23-07-50-03-EC282B77-F18C-4DE1-9123-EFAB72063D70-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f790ac69-e61b-455e-8e94-133a7aee3542.html">
+    <img class="flex-bottle" src="/images/f7/90ac69-e61b-455e-8e94-133a7aee3542/2023-03-23-07-29-42-CF0BB9E8-9D43-4331-B4C4-8006568157C2-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Euphoria - 2022</section>
+  </a>
+
+</div>
+#+end_export

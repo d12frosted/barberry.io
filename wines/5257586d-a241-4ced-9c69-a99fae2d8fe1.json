@@ -1,0 +1,34 @@
+{
+  "id": "5257586d-a241-4ced-9c69-a99fae2d8fe1",
+  "name": "Chardonnay Reserve",
+  "full-name": "Leleka Wines Chardonnay Reserve 2021",
+  "producer": {
+    "id": "5ddd89ec-d4c3-44af-8b13-6f9ce6f3e5c9",
+    "name": "Leleka Wines"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "255 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/52/57586d-a241-4ced-9c69-a99fae2d8fe1/2023-03-23-07-09-39-51267D3E-AEFD-41C7-B5CA-76E4F08E5022-1-105-c.webp",
+  "rating": "6.5"
+}

@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/75c908d0-28c8-44fc-9152-c124993101d5.html">
+    <img class="flex-bottle" src="/images/75/c908d0-28c8-44fc-9152-c124993101d5/2023-03-23-07-50-03-EC282B77-F18C-4DE1-9123-EFAB72063D70-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Boal 10 Years Old - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9db6c7c0-f5e1-450f-8edf-8e73b4348804.html">
+    <img class="flex-bottle" src="/images/9d/b6c7c0-f5e1-450f-8edf-8e73b4348804/2023-03-23-07-54-47-87231A43-32A3-4312-9591-687A0A4747ED-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">East India Madeira Old Reserve 10 Years Old Fine Dry - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,34 @@
+{
+  "id": "b21b3ce7-c18c-4dab-b344-d646a2ba94c0",
+  "name": "Бурштинове Коло",
+  "full-name": "Fathers Wine Бурштинове Коло 2021",
+  "producer": {
+    "id": "97a32e47-98b2-429e-af04-4fec0d735b27",
+    "name": "Fathers Wine"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "55d799b6-fefa-4173-ba3a-652be5ac0a14",
+      "name": "Muscat Ottonel"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b2/1b3ce7-c18c-4dab-b344-d646a2ba94c0/2023-03-23-07-31-26-3AEEFE2A-BFAD-4DA2-808D-F4CD5B33735B-1-105-c.webp",
+  "rating": "6.75"
+}

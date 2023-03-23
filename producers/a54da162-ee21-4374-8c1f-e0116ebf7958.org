@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/95825590-a5cc-4454-94fc-83131c10a76c.html">
+    <img class="flex-bottle" src="/images/95/825590-a5cc-4454-94fc-83131c10a76c/2023-03-23-07-41-47-2E494157-7002-45E5-9635-518203B09284-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Cuvée Saint-Vincent Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

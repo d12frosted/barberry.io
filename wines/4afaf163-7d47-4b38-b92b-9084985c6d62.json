@@ -1,0 +1,34 @@
+{
+  "id": "4afaf163-7d47-4b38-b92b-9084985c6d62",
+  "name": "Crémant du Jura Extra Brut 60 mois",
+  "full-name": "Marcel Cabelier Crémant du Jura Extra Brut 60 mois 2017",
+  "producer": {
+    "id": "396e5aee-a892-4786-a4db-7b6f34fc44a3",
+    "name": "Marcel Cabelier"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1675 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/4a/faf163-7d47-4b38-b92b-9084985c6d62/2023-03-23-07-24-46-74B56DB2-FD4F-4B51-A2B4-71D1C17C0744-1-105-c.webp",
+  "rating": "7.75"
+}

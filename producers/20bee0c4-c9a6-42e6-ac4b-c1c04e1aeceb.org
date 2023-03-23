@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
+  <a class="flex-item flex-item-left" href="/wines/f480d241-3eee-44e1-84ed-06a94c749a88.html">
+    <img class="flex-bottle" src="/images/f4/80d241-3eee-44e1-84ed-06a94c749a88/2023-03-23-07-38-47-A22CB2E2-E94B-4A00-8BB2-7CDCA952B00E-1-105-c@512.webp"></img>
+    <section class="h">★ 6.50</section>
+    <section class="h text-bolder">Chardonnay Arbois-Pupullin - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3ca3a174-d541-4c3c-a988-dc286fb421d7.html">
     <img class="flex-bottle" src="/images/3c/a3a174-d541-4c3c-a988-dc286fb421d7/2022-05-08-15-03-09-BFF3464B-3D6B-4BA0-A1C6-2B9371762F61-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pinot Arbois - 2018</section>

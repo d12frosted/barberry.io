@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5257586d-a241-4ced-9c69-a99fae2d8fe1.html">
+    <img class="flex-bottle" src="/images/52/57586d-a241-4ced-9c69-a99fae2d8fe1/2023-03-23-07-09-39-51267D3E-AEFD-41C7-B5CA-76E4F08E5022-1-105-c@512.webp"></img>
+    <section class="h">★ 6.50</section>
+    <section class="h text-bolder">Chardonnay Reserve - 2021</section>
+  </a>
+
+</div>
+#+end_export

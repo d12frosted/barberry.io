@@ -1,0 +1,34 @@
+{
+  "id": "74ca3238-3a2a-4eb7-be31-2c8086b3a521",
+  "name": "Лице",
+  "full-name": "Fathers Wine Лице 2021",
+  "producer": {
+    "id": "97a32e47-98b2-429e-af04-4fec0d735b27",
+    "name": "Fathers Wine"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/74/ca3238-3a2a-4eb7-be31-2c8086b3a521/2023-03-23-07-33-33-C69386FD-03EB-4E13-9DE8-224044DF91AD-1-105-c.webp",
+  "rating": "6.75"
+}

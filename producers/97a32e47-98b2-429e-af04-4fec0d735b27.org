@@ -1,0 +1,25 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b21b3ce7-c18c-4dab-b344-d646a2ba94c0.html">
+    <img class="flex-bottle" src="/images/b2/1b3ce7-c18c-4dab-b344-d646a2ba94c0/2023-03-23-07-31-26-3AEEFE2A-BFAD-4DA2-808D-F4CD5B33735B-1-105-c@512.webp"></img>
+    <section class="h">★ 6.75</section>
+    <section class="h text-bolder">Бурштинове Коло - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/74ca3238-3a2a-4eb7-be31-2c8086b3a521.html">
+    <img class="flex-bottle" src="/images/74/ca3238-3a2a-4eb7-be31-2c8086b3a521/2023-03-23-07-33-33-C69386FD-03EB-4E13-9DE8-224044DF91AD-1-105-c@512.webp"></img>
+    <section class="h">★ 6.75</section>
+    <section class="h text-bolder">Лице - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f8119a97-045b-4d84-8309-5f2da0a8687c.html">
+    <img class="flex-bottle" src="/images/f8/119a97-045b-4d84-8309-5f2da0a8687c/2023-03-23-07-16-14-8975DC2F-858A-42F5-B3CE-51FF9AD83770-1-105-c@512.webp"></img>
+    <section class="h">★ 7.40</section>
+    <section class="h text-bolder">Рожевий Квадрат - 2022</section>
+  </a>
+
+</div>
+#+end_export
