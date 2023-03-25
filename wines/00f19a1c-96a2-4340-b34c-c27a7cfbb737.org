@@ -47,22 +47,34 @@ Ah, what a lovely blend of Galician grapes. Every time I drink a bottle of Cume 
     <section class="h text-bolder">Arraiano Tinto - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
+  <a class="flex-item flex-item-right" href="/wines/2875f334-852d-4a1e-9135-964683629074.html">
+    <img class="flex-bottle" src="/images/28/75f334-852d-4a1e-9135-964683629074/2023-03-24-13-40-14-IMG-5689@512.webp"></img>
+    <section class="h">Cume do Avia</section>
+    <section class="h text-bolder">Rosete - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bfde04c3-3a3b-4e38-9448-21bf3f5d52a3.html">
     <img class="flex-bottle" src="/images/bf/de04c3-3a3b-4e38-9448-21bf3f5d52a3/2022-09-05-20-50-30-IMG-2012@512.webp"></img>
     <section class="h">Cume do Avia</section>
     <section class="h text-bolder">Arraiano Tinto - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
+  <a class="flex-item flex-item-right" href="/wines/cc592f25-7a87-4c6e-bbf9-5a21bd58f51b.html">
     <img class="flex-bottle" src="/images/cc/592f25-7a87-4c6e-bbf9-5a21bd58f51b/2022-09-26-19-06-38-0ABCC972-303C-401D-9D4D-CEBB47BFE182-1-102-o@512.webp"></img>
     <section class="h">Cume do Avia</section>
-    <section class="h text-bolder">Dos Canotos - 2018</section>
+    <section class="h text-bolder">Dos Canotos Tinto - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e774ec91-9bb0-424f-b7c1-010f9b9a3869.html">
+  <a class="flex-item flex-item-left" href="/wines/e774ec91-9bb0-424f-b7c1-010f9b9a3869.html">
     <img class="flex-bottle" src="/images/e7/74ec91-9bb0-424f-b7c1-010f9b9a3869/2022-09-20-15-52-14-IMG-2310@512.webp"></img>
     <section class="h">Cume do Avia</section>
-    <section class="h text-bolder">Dos Canotos - 2019</section>
+    <section class="h text-bolder">Dos Canotos Tinto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ff334be9-aca4-487a-8c2b-b0a6f67a1dfe.html">
+    <img class="flex-bottle" src="/images/ff/334be9-aca4-487a-8c2b-b0a6f67a1dfe/2023-03-24-13-36-47-IMG-5681@512.webp"></img>
+    <section class="h">Cume do Avia</section>
+    <section class="h text-bolder">Colleita #7 Branco - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6.html">

@@ -1,0 +1,39 @@
+{
+  "id": "d7af2d11-78bb-49c1-bbda-31a7a9535e51",
+  "name": "Cerasuolo di Vittoria",
+  "full-name": "Gulfi Cerasuolo di Vittoria 2020",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "637 UAH",
+    "744 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/d7/af2d11-78bb-49c1-bbda-31a7a9535e51/2023-03-24-13-08-54-IMG-5652.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "c3fe7282-9b75-4931-88e4-1eca262675ff",
+  "name": "GPS Vin Blanc d'Antan",
+  "full-name": "Domaine Pignier GPS Vin Blanc d'Antan 2018",
+  "producer": {
+    "id": "e526c4b5-e92f-48cd-8c90-f1e5123ab7c5",
+    "name": "Domaine Pignier"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    },
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "669 UAH",
+    "955 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c3/fe7282-9b75-4931-88e4-1eca262675ff/2023-03-24-13-31-48-IMG-5674.webp",
+  "rating": "NA"
+}

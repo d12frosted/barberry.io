@@ -1,0 +1,39 @@
+{
+  "id": "9f44d705-621b-41dd-a6c3-85b61df98b2f",
+  "name": "Vittoria Rosso Delle Fontane",
+  "full-name": "COS Vittoria Rosso Delle Fontane 2018",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "3.2",
+  "prices": [
+    "1256 UAH",
+    "1467 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9f/44d705-621b-41dd-a6c3-85b61df98b2f/2023-03-24-13-23-39-IMG-5659.webp",
+  "rating": "NA"
+}

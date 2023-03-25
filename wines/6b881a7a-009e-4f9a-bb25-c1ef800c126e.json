@@ -1,0 +1,39 @@
+{
+  "id": "6b881a7a-009e-4f9a-bb25-c1ef800c126e",
+  "name": "Cerasuolo di Vittoria",
+  "full-name": "COS Cerasuolo di Vittoria 2017",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.1",
+  "prices": [
+    "1070 UAH",
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6b/881a7a-009e-4f9a-bb25-c1ef800c126e/2023-03-24-13-11-13-IMG-5655.webp",
+  "rating": "NA"
+}

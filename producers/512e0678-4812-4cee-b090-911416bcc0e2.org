@@ -6,46 +6,58 @@ COS started its adventure with biodynamic farming and neutral terracotta vases. 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
+  <a class="flex-item flex-item-left" href="/wines/6b881a7a-009e-4f9a-bb25-c1ef800c126e.html">
+    <img class="flex-bottle" src="/images/6b/881a7a-009e-4f9a-bb25-c1ef800c126e/2023-03-24-13-11-13-IMG-5655@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Cerasuolo di Vittoria - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
     <img class="flex-bottle" src="/images/b7/01a9ea-9bea-4b05-a9f7-de9f41256240/2023-01-16-16-52-45-IMG-4387@512.webp"></img>
     <section class="h">★ 9.00</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+  <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
     <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
     <section class="h">★ 8.75</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
+  <a class="flex-item flex-item-right" href="/wines/f913a858-7eb0-4dfb-9adf-cd5c431db7cd.html">
     <img class="flex-bottle" src="/images/f9/13a858-7eb0-4dfb-9adf-cd5c431db7cd/IMG-1236@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8eb40a5f-dcc7-4e39-8a70-da38e5d6124c.html">
+  <a class="flex-item flex-item-left" href="/wines/8eb40a5f-dcc7-4e39-8a70-da38e5d6124c.html">
     <img class="flex-bottle" src="/images/8e/b40a5f-dcc7-4e39-8a70-da38e5d6124c/2021-08-14-09-54-47-B7D86A6C-FF77-43F6-A473-175414F31B89-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+  <a class="flex-item flex-item-right" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+  <a class="flex-item flex-item-left" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
     <img class="flex-bottle" src="/images/f7/795b1b-bbbf-42d4-888f-19ae004bb5e8/2023-01-20-14-38-54-IMG-4487@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Pithos Bianco - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+  <a class="flex-item flex-item-right" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
     <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Ramí - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9f44d705-621b-41dd-a6c3-85b61df98b2f.html">
+    <img class="flex-bottle" src="/images/9f/44d705-621b-41dd-a6c3-85b61df98b2f/2023-03-24-13-23-39-IMG-5659@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Vittoria Rosso Delle Fontane - 2018</section>
   </a>
 
 </div>

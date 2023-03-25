@@ -1,0 +1,47 @@
+{
+  "id": "74a920c7-60ac-4e6c-8b7e-cf24db4d3046",
+  "name": "Trebianco di S. Lucia",
+  "full-name": "Castello dei Rampolla Trebianco di S. Lucia 2020",
+  "producer": {
+    "id": "97d477ce-5991-410f-9d9b-758c62080c5d",
+    "name": "Castello dei Rampolla"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "864 UAH",
+    "1067 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/74/a920c7-60ac-4e6c-8b7e-cf24db4d3046/2023-03-24-13-33-30-IMG-5678.webp",
+  "rating": "NA"
+}

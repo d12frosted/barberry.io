@@ -1,0 +1,189 @@
+Wines:
+
+1. [[barberry:/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff][Alex Craighead Kindeli Otoño 2021]]
+2. [[barberry:/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f][Patrick Sullivan Baw Baw Shire Chardonnay 2020]]
+3. [[barberry:/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e][Pyramid Valley North Canterbury Orange 2021]]
+4. [[barberry:/wines/83062163-08fd-4ac2-a0df-83a906418a6e][Ochota barrels impeccable disorder 2020]]
+5. [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Gentle Folk Oakbank Shiraz 2019]]
+6. [[barberry:/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462][John Duval Annexus 2016]]
+7. [[barberry:/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b][Felton Road Calvert Pinot Noir 2019]]
+
+* /(welcome drink)/ Pete's Pure Prosecco
+:PROPERTIES:
+:ID:                     ffaab6c4-a586-443e-b21a-c056a0db3b99
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-03-09-11-37-59-IMG-5398.webp]]
+
+- producer: [[barberry:/producers/b76709e7-dd5a-4e9c-9ea8-96365ea07dde][Pete's Pure]]
+- name: [[barberry:/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450][Prosecco]]
+- vintage: NV
+- grapes: Sémillon, Chardonnay, Glera
+- region: Australia
+- location: Australia
+- alcohol: 9.5
+- sugar: 12.5
+- price: 498 UAH
+
+* Alex Craighead Kindeli Otoño 2021
+:PROPERTIES:
+:ID:                     9cc46844-341d-498c-8f78-031750b11eaf
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-01-16-16-32-04-IMG-4351.webp]]
+
+- producer: [[barberry:/producers/9880c5f6-e77b-4171-9e0f-069b9c4fcae0][Alex Craighead]]
+- name: [[barberry:/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff][Kindeli Otoño]]
+- vintage: 2021
+- grapes: Riesling, Gewürztraminer, Pinot Gris
+- region: Nelson
+- location: Nelson, New Zealand
+- alcohol: 12.5
+- sugar: 1
+- price: 977 UAH
+
+* Patrick Sullivan Baw Baw Shire Chardonnay 2020
+:PROPERTIES:
+:ID:                     f2e05546-0a9b-4693-b276-83a668dfb187
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c.webp]]
+
+- producer: [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]]
+- name: [[barberry:/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f][Baw Baw Shire Chardonnay]]
+- vintage: 2020
+- grapes: Chardonnay
+- region: Gippsland
+- location: Victoria, Australia
+- alcohol: 12
+- sugar: 0
+- price: 1290 UAH
+
+* Pyramid Valley North Canterbury Orange 2021
+:PROPERTIES:
+:ID:                     bb5be686-beb9-4310-8a5c-f1a3a99dc9c0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-03-14-14-08-07-B54C18E9-1258-44D4-BB68-6F02CE404148-1-105-c.webp]]
+
+- producer: [[barberry:/producers/32e6cc69-90ec-4700-bdb5-d1a396315b9e][Pyramid Valley]]
+- name: [[barberry:/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e][North Canterbury Orange]]
+- vintage: 2021
+- grapes: Pinot Gris
+- region: North Canterbury
+- location: Canterbury, New Zealand
+- alcohol: 12.5
+- sugar: N/A
+- price: 1396 UAH
+
+* Ochota barrels impeccable disorder 2020
+:PROPERTIES:
+:ID:                     0f7002e6-cb9b-41f2-a25c-093ebdd838dc
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-01-16-16-16-07-IMG-4335.webp]]
+
+- producer: [[barberry:/producers/5fc06935-eb1a-4edd-833a-df0217836334][Ochota barrels]]
+- name: [[barberry:/wines/83062163-08fd-4ac2-a0df-83a906418a6e][impeccable disorder]]
+- vintage: 2020
+- grapes: Pinot Noir
+- region: Adelaide Hills
+- location: Australia
+- alcohol: 12.1
+- sugar: 0.6
+- price: 2119 UAH
+
+* Gentle Folk Oakbank Shiraz 2019
+:PROPERTIES:
+:ID:                     a16b0971-85eb-4ad3-b62e-76eca324ff71
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2021-12-17-15-38-12-6692CAE4-0D9C-455D-8053-5ED830A49256-1-105-c.webp]]
+
+- producer: [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]
+- name: [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Oakbank Shiraz]]
+- vintage: 2019
+- grapes: Syrah
+- region: Adelaide Hills
+- location: Australia
+- alcohol: 13
+- sugar: 0.4
+- price: 1184 UAH
+
+* John Duval Annexus 2016
+:PROPERTIES:
+:ID:                     42814b30-db94-40b1-b81a-252b6d24d302
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-02-21-06-55-20-IMG-5147.webp]]
+
+- producer: [[barberry:/producers/a31e9be7-f242-441a-b913-60f591159ba9][John Duval]]
+- name: [[barberry:/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462][Annexus]]
+- vintage: 2016
+- grapes: Grenache
+- region: Barossa Valley
+- location: Australia
+- alcohol: 13.5
+- sugar: 0.4
+- price: 1728 UAH
+
+* Felton Road Calvert Pinot Noir 2019
+:PROPERTIES:
+:ID:                     f47bfe0c-e996-447e-82ef-435a56af949f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-03-28-oceania-of-time/2023-01-24-06-58-32-IMG-4538.webp]]
+
+- producer: [[barberry:/producers/1845b9b1-6a81-4d07-8878-69d1c4e63068][Felton Road]]
+- name: [[barberry:/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b][Calvert Pinot Noir]]
+- vintage: 2019
+- grapes: Pinot Noir
+- region: Central Otago
+- location: Otago, New Zealand
+- alcohol: 14
+- sugar: 0
+- price: 2270 UAH
+
+* Scores
+:PROPERTIES:
+:ID:                     ba1bac7d-6723-41f9-8792-390a8f5d1927
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------+---------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | amean  | rms    |   sdev | favourite | outcast |   price | QPR      |
+|---------+--------+--------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ |  977.00 | *0.0000* |
+| Wine #2 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1290.00 | *0.0000* |
+| Wine #3 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1396.00 | *0.0000* |
+| Wine #4 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 2119.00 | *0.0000* |
+| Wine #5 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1184.00 | *0.0000* |
+| Wine #6 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 1728.00 | *0.0000* |
+| Wine #7 | *1.00* | *1.00* | 0.0000 | *0.00*    |  +0.00+ | 2270.00 | *0.0000* |
+
+How to read this table:
+
+- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+

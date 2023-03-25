@@ -1,0 +1,43 @@
+{
+  "id": "ff334be9-aca4-487a-8c2b-b0a6f67a1dfe",
+  "name": "Colleita #7 Branco",
+  "full-name": "Cume do Avia Colleita #7 Branco 2019",
+  "producer": {
+    "id": "1a59a1cb-fe8a-4724-b084-c5eef925d567",
+    "name": "Cume do Avia"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c9dae548-8fc2-4c55-90a1-1a31b79719c3",
+      "name": "Treixadura"
+    },
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    },
+    {
+      "id": "28c43196-ab76-478a-82e1-db13aad7334f",
+      "name": "Loureiro"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "589 UAH",
+    "727 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ff/334be9-aca4-487a-8c2b-b0a6f67a1dfe/2023-03-24-13-36-47-IMG-5681.webp",
+  "rating": "NA"
+}
