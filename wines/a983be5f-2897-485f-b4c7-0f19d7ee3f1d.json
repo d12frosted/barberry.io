@@ -1,0 +1,38 @@
+{
+  "id": "a983be5f-2897-485f-b4c7-0f19d7ee3f1d",
+  "name": "Etna Rosso",
+  "full-name": "Tornatore Etna Rosso 2018",
+  "producer": {
+    "id": "fcf29984-916f-4c41-82e4-a2508aa50374",
+    "name": "Tornatore"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "775 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a9/83be5f-2897-485f-b4c7-0f19d7ee3f1d/2023-03-26-12-28-20-0DB0DC86-E168-4BF0-8A46-1D5E2E26A13B-1-105-c.webp",
+  "rating": "7.25"
+}

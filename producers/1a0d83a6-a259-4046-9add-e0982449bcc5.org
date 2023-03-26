@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6b49bbee-521c-42e9-864f-7213169054f9.html">
+    <img class="flex-bottle" src="/images/6b/49bbee-521c-42e9-864f-7213169054f9/2023-03-26-12-33-13-5FB1692E-68BF-4EB9-9107-2A73315E2066-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Luisa - 2011</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,38 @@
+{
+  "id": "7e1e22c7-020e-4bbb-b6c2-1faee55256da",
+  "name": "Axioma",
+  "full-name": "Axis Wine Axioma 2021",
+  "producer": {
+    "id": "0f5413c4-bea9-46fa-a989-571eabe75896",
+    "name": "Axis Wine"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "e4d18083-b7a1-4664-8ea9-c72daea8bc29",
+      "name": "Unknown"
+    }
+  ],
+  "alcohol": "12.6",
+  "sugar": "NA",
+  "prices": [
+    "420 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/7e/1e22c7-020e-4bbb-b6c2-1faee55256da/2023-03-26-10-39-19-7798B9A2-2009-45B5-860C-AD4AAF8A0F8F-1-105-c.webp",
+  "rating": "4.0"
+}

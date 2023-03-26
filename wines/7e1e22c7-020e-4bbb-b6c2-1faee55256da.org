@@ -1,0 +1,57 @@
+#+attr_html: :class wine-main-image
+[[file:/images/7e/1e22c7-020e-4bbb-b6c2-1faee55256da/2023-03-26-10-39-19-7798B9A2-2009-45B5-860C-AD4AAF8A0F8F-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/0f5413c4-bea9-46fa-a989-571eabe75896][Axis Wine]]
+- Vintage :: 2021
+- Location :: Ukraine, Lviv Oblast
+- Grapes :: Merlot, Unknown
+- Alcohol :: 12.6
+- Sugar :: NA
+- Price :: 420 UAH
+- Cellar :: N/A
+
+Axioma is a blend of Merlot (60%) and Moldova (40%), whatever the latest grape is. I can't believe it, but apparently, they decided to make a wine partially from a table grape. Merlot spent six months in barriques.
+
+** Ratings
+
+*** 2023-03-24 - ☆ 4.00
+
+Oh my god. This is exactly the wine you would expect your mother's uncle to 'produce' in the garage. Of course, from grapes grown on the balcony. Because fuck you and everyone near you. All the family must become blind from methanol. It's hard to drink. Aromatic but overly simple fruit-forward nose. Warm and rustic, slightly sweet with a long aftertaste and flavours of isabella grape.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e46e9d57-67f5-4718-adf7-a82b7537f88d.html">
+    <img class="flex-bottle" src="/images/e4/6e9d57-67f5-4718-adf7-a82b7537f88d/2023-03-26-12-23-17-CD709EE8-6625-4C4D-9215-03CC792360A9-1-105-c@512.webp"></img>
+    <section class="h">Axis Wine</section>
+    <section class="h text-bolder">Saturday Dream - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6b49bbee-521c-42e9-864f-7213169054f9.html">
+    <img class="flex-bottle" src="/images/6b/49bbee-521c-42e9-864f-7213169054f9/2023-03-26-12-33-13-5FB1692E-68BF-4EB9-9107-2A73315E2066-1-105-c@512.webp"></img>
+    <section class="h">Kabaj</section>
+    <section class="h text-bolder">Luisa - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/880bd891-e17c-483a-9114-4bc4e01585dc.html">
+    <img class="flex-bottle" src="/images/88/0bd891-e17c-483a-9114-4bc4e01585dc/2023-03-25-13-12-23-FA722AF0-1C05-4E73-8B71-44168397C7E7-1-105-c@512.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Gluegglich Rosé Glückliches - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a983be5f-2897-485f-b4c7-0f19d7ee3f1d.html">
+    <img class="flex-bottle" src="/images/a9/83be5f-2897-485f-b4c7-0f19d7ee3f1d/2023-03-26-12-28-20-0DB0DC86-E168-4BF0-8A46-1D5E2E26A13B-1-105-c@512.webp"></img>
+    <section class="h">Tornatore</section>
+    <section class="h text-bolder">Etna Rosso - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dfc0aa39-a133-46c4-a218-d2d5db4de7dc.html">
+    <img class="flex-bottle" src="/images/df/c0aa39-a133-46c4-a218-d2d5db4de7dc/2023-03-25-13-09-44-A3F7C9B1-B83A-4454-83C1-A2CFF553C066-1-105-c@512.webp"></img>
+    <section class="h">Stakhovsky</section>
+    <section class="h text-bolder">W Orange Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export

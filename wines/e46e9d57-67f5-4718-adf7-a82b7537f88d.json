@@ -1,0 +1,42 @@
+{
+  "id": "e46e9d57-67f5-4718-adf7-a82b7537f88d",
+  "name": "Saturday Dream",
+  "full-name": "Axis Wine Saturday Dream 2021",
+  "producer": {
+    "id": "0f5413c4-bea9-46fa-a989-571eabe75896",
+    "name": "Axis Wine"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "05d63250-fea9-4680-8ffe-10ea95f0535b",
+      "name": "Saperavi"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e4/6e9d57-67f5-4718-adf7-a82b7537f88d/2023-03-26-12-23-17-CD709EE8-6625-4C4D-9215-03CC792360A9-1-105-c.webp",
+  "rating": "5.0"
+}

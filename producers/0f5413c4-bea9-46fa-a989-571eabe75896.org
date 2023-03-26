@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7e1e22c7-020e-4bbb-b6c2-1faee55256da.html">
+    <img class="flex-bottle" src="/images/7e/1e22c7-020e-4bbb-b6c2-1faee55256da/2023-03-26-10-39-19-7798B9A2-2009-45B5-860C-AD4AAF8A0F8F-1-105-c@512.webp"></img>
+    <section class="h">★ 4.00</section>
+    <section class="h text-bolder">Axioma - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e46e9d57-67f5-4718-adf7-a82b7537f88d.html">
+    <img class="flex-bottle" src="/images/e4/6e9d57-67f5-4718-adf7-a82b7537f88d/2023-03-26-12-23-17-CD709EE8-6625-4C4D-9215-03CC792360A9-1-105-c@512.webp"></img>
+    <section class="h">★ 5.00</section>
+    <section class="h text-bolder">Saturday Dream - 2021</section>
+  </a>
+
+</div>
+#+end_export

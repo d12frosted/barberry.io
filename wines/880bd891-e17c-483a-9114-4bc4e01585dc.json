@@ -1,0 +1,42 @@
+{
+  "id": "880bd891-e17c-483a-9114-4bc4e01585dc",
+  "name": "Gluegglich Rosé Glückliches",
+  "full-name": "Loimer Gluegglich Rosé Glückliches NV",
+  "producer": {
+    "id": "f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff",
+    "name": "Loimer"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "9a31e7c4-1ca4-4f5d-8c18-b5687058fb8d",
+      "name": "Zweigelt"
+    },
+    {
+      "id": "ccfdbb32-b2f6-4f8a-bfa6-d11e814bbf2f",
+      "name": "Saint-Laurent"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "518 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/88/0bd891-e17c-483a-9114-4bc4e01585dc/2023-03-25-13-12-23-FA722AF0-1C05-4E73-8B71-44168397C7E7-1-105-c.webp",
+  "rating": "7.4"
+}

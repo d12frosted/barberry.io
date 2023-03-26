@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/dfc0aa39-a133-46c4-a218-d2d5db4de7dc.html">
+    <img class="flex-bottle" src="/images/df/c0aa39-a133-46c4-a218-d2d5db4de7dc/2023-03-25-13-09-44-A3F7C9B1-B83A-4454-83C1-A2CFF553C066-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">W Orange Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export

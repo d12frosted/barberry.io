@@ -1,0 +1,34 @@
+{
+  "id": "dfc0aa39-a133-46c4-a218-d2d5db4de7dc",
+  "name": "W Orange Riesling",
+  "full-name": "Stakhovsky W Orange Riesling 2021",
+  "producer": {
+    "id": "279c59ed-9c79-4d14-b7fd-5b265d098311",
+    "name": "Stakhovsky"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "11.8",
+  "sugar": "NA",
+  "prices": [
+    "700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/df/c0aa39-a133-46c4-a218-d2d5db4de7dc/2023-03-25-13-09-44-A3F7C9B1-B83A-4454-83C1-A2CFF553C066-1-105-c.webp",
+  "rating": "7.25"
+}

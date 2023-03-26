@@ -1,0 +1,46 @@
+{
+  "id": "6b49bbee-521c-42e9-864f-7213169054f9",
+  "name": "Luisa",
+  "full-name": "Kabaj Luisa 2011",
+  "producer": {
+    "id": "1a0d83a6-a259-4046-9add-e0982449bcc5",
+    "name": "Kabaj"
+  },
+  "vintage": "2011",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "819 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6b/49bbee-521c-42e9-864f-7213169054f9/2023-03-26-12-33-13-5FB1692E-68BF-4EB9-9107-2A73315E2066-1-105-c.webp",
+  "rating": "7.25"
+}
