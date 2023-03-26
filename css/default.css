@@ -587,6 +587,7 @@ ul.rating-list {
     float: right;
     margin-right: 2rem;
     margin-left: 2rem;
+    margin-bottom: 2rem;
   }
   .wine-main-image {
     width: 37.5%;
