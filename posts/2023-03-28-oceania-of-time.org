@@ -8,7 +8,7 @@ Wines:
 6. [[barberry:/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462][John Duval Annexus 2016]]
 7. [[barberry:/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b][Felton Road Calvert Pinot Noir 2019]]
 
-* /(welcome drink)/ Pete's Pure Prosecco
+* (welcome drink) Pete's Pure Prosecco NV
 :PROPERTIES:
 :ID:                     ffaab6c4-a586-443e-b21a-c056a0db3b99
 :END:
@@ -25,6 +25,14 @@ Wines:
 - alcohol: 9.5
 - sugar: 12.5
 - price: 498 UAH
+
+Almost every event of ours begins with a welcome drink. But usually, we don't talk too much about welcome drinks. And I rarely mention them in our reports. There is nothing special about this Prosecco except for its name.
+
+It's a well-known fact that Prosecco is a protected name reserved for sparkling wines from northeastern Italy. But before becoming a toponym and a designated appellation in 2009, Prosecco was a grape. Seeing how this name quickly turned into a brand, winemakers from Friuli-Venezia Giulia and Veneto desired to protect it from outside usage. Some say it was to monopolise the growing market. Some say it was to protect consumers and the brand from low-quality wines. What was the genuine reason? Who knows.
+
+The only problem was one of nomenclature. Fundamentally, wine appellations are geographically designated areas tied to place rather than grape varieties. Italian Prosecco wines had long been made from grapes widely recognised by the name Prosecco, making the term itself fair game for producers globally. Luckily for Italians, there was a tiny Italian-Slovenian border town of Prosecco. So overnight, Prosecco ceased to describe a grape variety and instead described a style of sparkling wine and a region. And for the grape, they decided to use a fairly esoteric synonym for the same variety - Glera.
+
+Since becoming a protected geographical designation, Prosecco became a hurdle in bilateral free trade negotiations between Australia and the European Union. Even today, it is still [[https://www.bloomberg.com/news/articles/2023-01-20/eu-tells-australia-don-t-name-products-feta-and-prosecco?sref=vIMBelW3][a striking point]]. After-the-fact rebranding of Prosecco as a region rather than a grape is something of a rug pull. Australian winemakers have produced wines from the Prosecco /grape/ since 2001. The grape was brought to Australia in the late 1990s by the Dal Zotto family of Valdobbiadene. It quickly became popular in the local market. Today Prosecco grapes fetch [[https://www.agw.org.au/wp-content/uploads/2022/11/AGW_Australian-Prosecco-fact-sheet_visual-1.pdf][the second-highest prices]] of all white wine grapes. At the end of 2021, [[https://www.agw.org.au/wp-content/uploads/2022/11/AGW_Australian-Prosecco-fact-sheet_visual-1.pdf][the sales value reached]] more than AUD 200 million (more than USD 130 million).
 
 * Alex Craighead Kindeli Otoño 2021
 :PROPERTIES:
@@ -186,4 +194,13 @@ How to read this table:
 - =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Resources
+:PROPERTIES:
+:ID:                     bf2d2d2a-d04b-4e0f-b7fb-521ca1b3b6f8
+:END:
+
+- [[https://www.bloomberg.com/news/articles/2023-01-20/eu-tells-australia-don-t-name-products-feta-and-prosecco?sref=vIMBelW3][Fight Over Parmesan and Prosecco Stalls EU-Australia Trade Deal]]
+- [[https://vinepair.com/articles/italian-vs-australian-prosecco/][Italy and Australia's Battle Over the Term 'Prosecco' Is Coming to a Bubbly Head]]
+- [[https://www.agw.org.au/wp-content/uploads/2022/11/AGW_Australian-Prosecco-fact-sheet_visual-1.pdf][Australian Prosecco]] (Australian Grape & Wine)
 
