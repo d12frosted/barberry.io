@@ -34,8 +34,7 @@
 
   --header-font: "Alegreya Sans", sans-serif;
   --code-font: "Source Code Pro", monospace;
-  --default-font: "M PLUS Rounded 1c", sans-serif;
-  /* --default-font: "Alegreya Sans", sans-serif; */
+  --default-font: "Open Sans", sans-serif;
 }
 
 html {
@@ -45,6 +44,7 @@ html {
 body {
   font-family: var(--default-font);
   font-size: var(--default-size);
+  font-weight: 400;
 }
 
 /* header { */
