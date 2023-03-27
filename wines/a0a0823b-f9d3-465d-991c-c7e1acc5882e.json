@@ -21,6 +21,22 @@
     {
       "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
       "name": "Pinot Gris"
+    },
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
     }
   ],
   "alcohol": "12.5",

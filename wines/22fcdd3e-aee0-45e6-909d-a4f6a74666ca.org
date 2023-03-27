@@ -39,13 +39,19 @@ Basic Pinotage by Spier. Black fruits, cured meat. Well balanced, though acidity
     <section class="h text-bolder">Pinotage Signature - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
+  <a class="flex-item flex-item-right" href="/wines/9555acaa-05b1-4adc-b0b5-8d04c5b91016.html">
+    <img class="flex-bottle" src="/images/95/55acaa-05b1-4adc-b0b5-8d04c5b91016/2023-03-27-16-50-10-57165F28-AD30-4929-9F04-AE7D6A753AFE-1-105-c@512.webp"></img>
+    <section class="h">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5.html">
     <img class="flex-bottle" src="/images/50/9cf98c-c4b2-4ce2-ae02-73ff7e008cb5/2020-06-12-11-05-40-5E167167-FCFF-4037-B1A3-3B0B6C8EDBE1-1-105-c@512.webp"></img>
     <section class="h">Mouzon-Leroux</section>
     <section class="h text-bolder">L'Atavique - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/53f01fa4-b0e9-429b-9ce5-baa9c01dc59e.html">
+  <a class="flex-item flex-item-right" href="/wines/53f01fa4-b0e9-429b-9ce5-baa9c01dc59e.html">
     <img class="flex-bottle" src="/images/53/f01fa4-b0e9-429b-9ce5-baa9c01dc59e/2020-10-08-10-33-50-CE9BB4FE-5ED0-4E0E-8A96-4A7B2B1499B9-1-105-c@512.webp"></img>
     <section class="h">Felton Road</section>
     <section class="h text-bolder">Calvert Pinot Noir - 2018</section>

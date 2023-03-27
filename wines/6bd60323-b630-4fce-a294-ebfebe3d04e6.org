@@ -39,19 +39,25 @@ A table wine. It's a mix of dark fruits, raspberry and roasted coffee beans. Med
     <section class="h text-bolder">Chenin Blanc 21 Gables - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
+  <a class="flex-item flex-item-right" href="/wines/9555acaa-05b1-4adc-b0b5-8d04c5b91016.html">
+    <img class="flex-bottle" src="/images/95/55acaa-05b1-4adc-b0b5-8d04c5b91016/2023-03-27-16-50-10-57165F28-AD30-4929-9F04-AE7D6A753AFE-1-105-c@512.webp"></img>
+    <section class="h">Spier Wines</section>
+    <section class="h text-bolder">Chenin Blanc 21 Gables - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1cef4a62-828f-47ca-8489-ea911196b860.html">
     <img class="flex-bottle" src="/images/1c/ef4a62-828f-47ca-8489-ea911196b860/2022-09-14-15-06-59-67A8CA19-8B5B-4E29-92B5-6CF952C935D9-1-105-c@512.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Merlot - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a.html">
+  <a class="flex-item flex-item-right" href="/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a.html">
     <img class="flex-bottle" src="/images/9f/c6f99d-6ed4-4be1-9da1-8e1428868f5a/2022-09-17-20-10-31-IMG-2252@512.webp"></img>
     <section class="h">Boekenhoutskloof</section>
     <section class="h text-bolder">Porcupine Ridge Cabernet Sauvignon - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d615372c-6638-4603-9b3e-0f75f9f00215.html">
+  <a class="flex-item flex-item-left" href="/wines/d615372c-6638-4603-9b3e-0f75f9f00215.html">
     <img class="flex-bottle" src="/images/d6/15372c-6638-4603-9b3e-0f75f9f00215/2022-09-17-20-11-51-IMG-2254@512.webp"></img>
     <section class="h">Spy Valley</section>
     <section class="h text-bolder">Pinot Noir - 2017</section>
