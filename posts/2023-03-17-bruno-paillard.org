@@ -95,19 +95,18 @@ The idea of Collection Anciens Dégorgements is to provide the experience of tas
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|          |  amean |    rms |   sdev |   price |      QPR |
-|----------+--------+--------+--------+---------+----------|
-| Wine #1  |   4.00 |   4.00 | 0.0109 | 2101.00 |   1.0000 |
-| Wine #2  |   4.05 |   4.05 | 0.0061 | 3236.00 |   0.7944 |
-| Wine #3  |   4.23 |   4.23 | 0.0020 | 4371.00 |   0.7776 |
-| Wine #4  |   4.18 |   4.18 | 0.0124 | 5506.00 |   0.5753 |
-| Wine #5  | *4.27* | *4.27* | 0.0101 | 6641.00 |   0.5455 |
-| Bonus #1 |   4.16 |   4.16 | 0.0136 | 1576.00 | *1.9300* |
-| Bonus #2 |   4.21 |   4.21 | 0.0136 | 2380.00 |   1.3956 |
+|          |      rms |   sdev |   price |      QPR |
+|----------+----------+--------+---------+----------|
+| Wine #1  |   4.0014 | 0.0109 | 2101.00 |   1.0000 |
+| Wine #2  |   4.0462 | 0.0061 | 3236.00 |   0.7944 |
+| Wine #3  |   4.2275 | 0.0020 | 4371.00 |   0.7776 |
+| Wine #4  |   4.1833 | 0.0124 | 5506.00 |   0.5753 |
+| Wine #5  | *4.2694* | 0.0101 | 6641.00 |   0.5455 |
+| Bonus #1 |   4.1572 | 0.0136 | 1576.00 | *1.9300* |
+| Bonus #2 |   4.2141 | 0.0136 | 2380.00 |   1.3956 |
 
 How to read this table:
 
-- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =price= is wine price in UAH.

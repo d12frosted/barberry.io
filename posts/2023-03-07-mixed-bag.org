@@ -249,19 +249,18 @@ Aye, I use Wikipedia, and I am not ashamed.
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |  amean |    rms |   sdev | favourite | outcast |   price |      QPR |
-|---------+--------+--------+--------+-----------+---------+---------+----------|
-| Wine #1 |   3.95 |   3.96 | 0.0588 |      1.00 |    1.00 | 1299.00 |   1.7257 |
-| Wine #2 |   3.80 |   3.81 | 0.0727 |      0.00 |    2.00 | 1956.00 |   0.9120 |
-| Wine #3 |   3.91 |   3.93 | 0.1899 |    *3.00* |    3.00 | 1050.00 |   1.9951 |
-| Wine #4 |   3.97 |   3.97 | 0.0519 |    *3.00* |    0.00 | 1250.00 |   1.8304 |
-| Wine #5 |   4.01 |   4.02 | 0.0536 |      1.00 |    0.00 |  835.00 | *2.9139* |
-| Wine #6 |   3.97 |   3.97 | 0.0265 |      0.00 |  +4.00+ |  901.00 |   2.5394 |
-| Wine #7 | *4.04* | *4.05* | 0.0408 |    *3.00* |    0.00 | 3700.00 |   0.6938 |
+|         |      rms |   sdev | favourite | outcast |   price |      QPR |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 |   3.9620 | 0.0588 |      1.00 |    1.00 | 1299.00 |   1.7257 |
+| Wine #2 |   3.8096 | 0.0727 |      0.00 |    2.00 | 1956.00 |   0.9120 |
+| Wine #3 |   3.9333 | 0.1899 |    *3.00* |    3.00 | 1050.00 |   1.9951 |
+| Wine #4 |   3.9747 | 0.0519 |    *3.00* |    0.00 | 1250.00 |   1.8304 |
+| Wine #5 |   4.0158 | 0.0536 |      1.00 |    0.00 |  835.00 | *2.9139* |
+| Wine #6 |   3.9715 | 0.0265 |      0.00 |  +4.00+ |  901.00 |   2.5394 |
+| Wine #7 | *4.0496* | 0.0408 |    *3.00* |    0.00 | 3700.00 |   0.6938 |
 
 How to read this table:
 
-- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.

@@ -129,20 +129,17 @@ After Stanko passing away in 2016, his son Saša took the winery in his hands. T
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |  amean |    rms |   sdev |   price |      QPR |
-|---------+--------+--------+--------+---------+----------|
-| Wine #1 |   4.07 |   4.07 | 0.0089 | 1890.00 |   1.4047 |
-| Wine #2 |   4.25 |   4.25 | 0.0225 | 3490.00 |   1.0089 |
-| Wine #3 | *4.30* | *4.30* | 0.0167 | 1890.00 | *2.0147* |
-| Wine #4 |   4.20 |   4.20 | 0.0200 | 1690.00 |   1.9277 |
+|         |      rms |   sdev |   price |      QPR |
+|---------+----------+--------+---------+----------|
+| Wine #1 |   4.0678 | 0.0089 | 1890.00 |   1.4047 |
+| Wine #2 |   4.2526 | 0.0225 | 3490.00 |   1.0089 |
+| Wine #3 | *4.3019* | 0.0167 | 1890.00 | *2.0147* |
+| Wine #4 |   4.2024 | 0.0200 | 1690.00 |   1.9277 |
 
 How to read this table:
 
-- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
-- =favourite= is amount of people who marked this wine as favourite of the event.
-- =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
