@@ -255,10 +255,6 @@ article .highlight-critical {
   background: var(--highlight-critical);
 }
 
-article a {
-  font-weight: var(--nav-font-weight);
-}
-
 article img {
   max-width: 100%;
   margin-left: auto;
@@ -354,6 +350,10 @@ table.tasting-scores thead tr th {
 
 table.tasting-scores td, th {
   padding: 0.6rem;
+}
+
+main a {
+  font-weight: var(--nav-font-weight);
 }
 
 main dt {
