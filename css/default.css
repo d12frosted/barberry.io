@@ -34,7 +34,13 @@
 
   --header-font: "Alegreya Sans", sans-serif;
   --code-font: "Source Code Pro", monospace;
+
   --default-font: "Open Sans", sans-serif;
+  --default-font-weight: 300;
+  --lighter-font-weight: 200;
+  --bolder-font-weight: 600;
+  --title-font-weight: 500;
+  --nav-font-weight: 400;
 }
 
 html {
@@ -44,7 +50,7 @@ html {
 body {
   font-family: var(--default-font);
   font-size: var(--default-size);
-  font-weight: 400;
+  font-weight: var(--default-font-weight);
 }
 
 /* header { */
@@ -101,7 +107,7 @@ img.bg-logo {
   text-decoration: overline;
   text-decoration-color: var(--subtle);
   color: var(--foreground);
-  font-weight: 500;
+  font-weight: var(--title-font-weight);
 }
 
 header {
@@ -114,7 +120,7 @@ nav {
 
 nav a {
   font-size: var(--h2-size);
-  /* font-weight: bold; */
+  font-weight: var(--nav-font-weight);
   color: var(--foreground);
   text-decoration: none;
   text-transform: uppercase;
@@ -166,11 +172,11 @@ h3 {
 }
 
 .text-lighter {
-  font-weight: 300;
+  font-weight: var(--lighter-font-weight);
 }
 
 .text-bolder {
-  font-weight: 700;
+  font-weight: var(--bolder-font-weight);
 }
 
 .text-small {
