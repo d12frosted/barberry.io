@@ -255,6 +255,10 @@ article .highlight-critical {
   background: var(--highlight-critical);
 }
 
+article a {
+  font-weight: var(--nav-font-weight);
+}
+
 article img {
   max-width: 100%;
   margin-left: auto;
