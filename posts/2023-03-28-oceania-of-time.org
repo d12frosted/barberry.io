@@ -1,4 +1,5 @@
-[[file:/images/2023-03-28-oceania-of-time/2023-03-27-18-24-12-IMG-5728.webp]]
+#+caption: Photo by Elvira Kantiieva
+[[file:/images/2023-03-28-oceania-of-time/2023-03-29-07-40-48-photo-2023-03-29 07.40.02.webp]]
 
 #+begin_quote
 It's dangerous to go alone! Take this.
@@ -6,7 +7,7 @@ It's dangerous to go alone! Take this.
 --- Old Man
 #+end_quote
 
-Instead of a wooden sword, the unnamed old man gives us a set of glasses. As we touch the stem, a vision strikes us. Cloaked bottles (clearly from Gippsland, Adelaide Hills, Nelson, Central Orago and North Canterbury) stand in a cold dark place. They chant. They whisper. They call us. They promise to show death, life and kindness. Armed and confused, we start our quest. Luckily the first chest contains a legendary artefact - Oceania of Time, a teleportation device.
+Instead of a wooden sword, the unnamed old man gives us a set of glasses. As we touch the stem, a vision strikes us. Cloaked bottles (clearly from Gippsland, Adelaide Hills, Nelson, Central Orago and North Canterbury) stand in a cold dark place. They chant. They whisper. They call us. They promise to show death, life and kindness. Armed and confused, we start our quest. Luckily the first chest contains a legendary artefact - Oceania of Time, equipped with teleportation magics.
 
 Any decent device has a guide, and this one is no different. Yet it's written in gibberish. After hours spent decrypting the ancient (or futuristic) language, we conclude that our goal is to complete the following trials. For some reason, all related to wine tasting. Mystery.
 
@@ -142,8 +143,8 @@ Kindeli Otoño is a blend of Gewürztraminer (50%), Riesling (50%), and Pinot Gr
 - grapes: Pinot Gris, Muscat, Sauvignon Blanc, Riesling, Gewürztraminer
 - region: North Canterbury
 - location: Canterbury, New Zealand
-- alcohol: 12.5
-- sugar: N/A
+- alcohol: 13.5
+- sugar: 1.1
 - price: 1396 UAH
 
 Despite the long road, I still [[https://www.youtube.com/watch?v=u8ccGjar4Es][can count to four]]. Lucky us. The fourth trial awaits slightly to the south, in North Canterbury. We are still in New Zealand, folks. Canterbury is a funny region because its northern part is located to the north of Christchurch, while the southern part is far away, closer to Central Otago.
@@ -234,15 +235,15 @@ The grapes are destemmed directly into open-top fermenters without pumping, with
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms      |   sdev | favourite | outcast |   price | QPR      |
+|         |      rms |   sdev | favourite | outcast |   price |      QPR |
 |---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1290.00 | *0.0000* |
-| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2119.00 | *0.0000* |
-| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  977.00 | *0.0000* |
-| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1396.00 | *0.0000* |
-| Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1184.00 | *0.0000* |
-| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1728.00 | *0.0000* |
-| Wine #7 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2270.00 | *0.0000* |
+| Wine #1 |   4.0692 | 0.0206 |    *5.00* |    0.00 | 1290.00 | *2.0580* |
+| Wine #2 |   4.0113 | 0.0241 |      1.00 |    0.00 | 2119.00 |   1.1469 |
+| Wine #3 |   3.8221 | 0.0414 |      0.00 |  +4.00+ |  977.00 |   1.8708 |
+| Wine #4 |   4.0500 | 0.0339 |      0.00 |    1.00 | 1396.00 |   1.8425 |
+| Wine #5 |   3.8978 | 0.0478 |      1.00 |    1.00 | 1184.00 |   1.7241 |
+| Wine #6 |   3.9541 | 0.0325 |      1.00 |    2.00 | 1728.00 |   1.2885 |
+| Wine #7 | *4.1559* | 0.0492 |      3.00 |    0.00 | 2270.00 |   1.3285 |
 
 How to read this table:
 
@@ -256,9 +257,20 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Oleksandr R |    3.90 |  *4.00* |    3.80 |    4.20 |    3.70 |    4.20 |    4.20 |
+| Ivietta K   |  *4.30* |    3.90 |    4.00 |    4.20 |    4.10 |    4.20 |    4.40 |
+| Dmytro D    |  *4.10* |    4.10 |  +3.50+ |    3.80 |    3.70 |    3.80 |    4.00 |
+| Anna K      |    4.30 |    4.00 |    3.80 |    3.90 |    4.25 |  +4.10+ |  *4.50* |
+| Rostyslav Y |    4.00 |    4.20 |    4.00 |  +3.80+ |    4.15 |    4.10 |  *4.30* |
+| Dimitry G   |    3.80 |    3.90 |    3.50 |    4.30 |  +3.50+ |  *4.00* |    4.30 |
+| Oleksandr Y |  *4.00* |    4.00 |  +3.80+ |    4.00 |    4.00 |    3.90 |    4.00 |
+| Elvira K    |  *4.20* |    4.10 |    4.00 |    4.20 |    4.00 |    3.90 |    3.90 |
+| Andrii K    |  *4.00* |    3.70 |  +3.60+ |    3.80 |    3.70 |    3.70 |    3.70 |
+| Marii S     |    4.00 |    3.80 |    3.80 |    4.05 |    3.90 |    3.90 |    4.00 |
+| Inna S      |    4.10 |    4.20 |    4.20 |    4.30 |    3.70 |  +3.60+ |  *4.30* |
+| Boris B     |    4.10 |    4.20 |  +3.80+ |    4.00 |  *4.00* |    4.00 |    4.20 |
 
 * Resources
 :PROPERTIES:

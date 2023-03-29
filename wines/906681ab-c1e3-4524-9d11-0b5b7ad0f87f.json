@@ -1,0 +1,43 @@
+{
+  "id": "906681ab-c1e3-4524-9d11-0b5b7ad0f87f",
+  "name": "Cuvée Prestige Olivier Cru Classé",
+  "full-name": "Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "1",
+  "prices": [
+    "1349 UAH",
+    "1576 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}
