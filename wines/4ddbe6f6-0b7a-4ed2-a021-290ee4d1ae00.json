@@ -1,0 +1,35 @@
+{
+  "id": "4ddbe6f6-0b7a-4ed2-a021-290ee4d1ae00",
+  "name": "Merlot20",
+  "full-name": "Radikon Merlot20 1997",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "1997",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "3384 UAH",
+    "3600 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4d/dbe6f6-0b7a-4ed2-a021-290ee4d1ae00/2023-03-29-19-23-43-984B73FE-E030-40ED-993B-A2BAEE2E83D4-1-105-c.webp",
+  "rating": "NA"
+}

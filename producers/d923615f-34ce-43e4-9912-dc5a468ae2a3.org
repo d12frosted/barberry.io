@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/91cff5ad-673d-45de-a5e8-33b7337e1b3c.html">
+    <img class="flex-bottle" src="/images/91/cff5ad-673d-45de-a5e8-33b7337e1b3c/2023-03-29-19-26-39-34272E0E-E47F-4773-B38A-4131ACFE57D1-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2016</section>
+  </a>
+
+</div>
+#+end_export

@@ -9,11 +9,15 @@
 - Alcohol :: 9.5
 - Sugar :: 12.5
 - Price :: 427 UAH, 498 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-28 - ☆ 7.40
+
+A welcome drink on [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]].
+
+Maybe my expectations were unfairly low, but I enjoyed this simple 'Prosecco'. Lime, pears and delicate brioche notes. Not complex, but it offers good mousse, creamy and fresh texture.
 
 ** Related
 
@@ -23,6 +27,18 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/dd/c6fe97-3acc-40b4-8f94-4a8642f76b52/2022-10-13-14-51-29-IMG-2762@512.webp"></img>
     <section class="h">Pete's Pure</section>
     <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/83062163-08fd-4ac2-a0df-83a906418a6e.html">
+    <img class="flex-bottle" src="/images/83/062163-08fd-4ac2-a0df-83a906418a6e/2023-01-16-16-16-07-IMG-4332@512.webp"></img>
+    <section class="h">Ochota barrels</section>
+    <section class="h text-bolder">impeccable disorder - 2020</section>
   </a>
 
 </div>

@@ -1,0 +1,35 @@
+{
+  "id": "91cff5ad-673d-45de-a5e8-33b7337e1b3c",
+  "name": "Trebbiano d'Abruzzo",
+  "full-name": "Emidio Pepe Trebbiano d'Abruzzo 2016",
+  "producer": {
+    "id": "d923615f-34ce-43e4-9912-dc5a468ae2a3",
+    "name": "Emidio Pepe"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.07",
+  "prices": [
+    "2442 UAH",
+    "2598 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/91/cff5ad-673d-45de-a5e8-33b7337e1b3c/2023-03-29-19-26-39-34272E0E-E47F-4773-B38A-4131ACFE57D1-1-105-c.webp",
+  "rating": "NA"
+}

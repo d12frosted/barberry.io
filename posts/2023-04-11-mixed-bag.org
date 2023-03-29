@@ -1,0 +1,46 @@
+Wines:
+
+1. [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
+2. [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
+3. [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Colin-Morey Pierre-Yves Saint-Aubin Premier Cru Les Champlots 2020]]
+4. [[barberry:/wines/ce698cce-871e-4255-a472-61b1a1160163][Ca' di Mat Fuente de los Huertos 2017]]
+5. [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][Domaine Pignier GPS Vin Blanc d'Antan 2018]]
+6. [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
+7. [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
+
+Bring still Champagne!
+
+* Scores
+:PROPERTIES:
+:ID:                     531b74f8-851e-4ec7-ad08-1be19992c8ed
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms      |   sdev | favourite | outcast |   price | QPR      |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  890.00 | *0.0000* |
+| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  997.00 | *0.0000* |
+| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 3033.00 | *0.0000* |
+| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1034.00 | *0.0000* |
+| Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  955.00 | *0.0000* |
+| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1576.00 | *0.0000* |
+| Wine #7 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1027.00 | *0.0000* |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------+---------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+

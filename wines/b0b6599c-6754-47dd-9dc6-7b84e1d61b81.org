@@ -1,0 +1,53 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b0/b6599c-6754-47dd-9dc6-7b84e1d61b81/2023-03-29-13-17-17-B151D8BC-E7E3-4AB4-B677-E5D429B33D0D-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/632239c5-ab6a-427b-b119-861515f4ff23][Novak]]
+- Vintage :: 2017
+- Location :: Moldova, Valul lui Traian
+- Grapes :: Saperavi, Merlot, Cabernet Sauvignon, Fetească neagră
+- Alcohol :: 14
+- Sugar :: NA
+- Price :: 820 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3b6a3a40-f466-4519-894d-f8a512f25935.html">
+    <img class="flex-bottle" src="/images/3b/6a3a40-f466-4519-894d-f8a512f25935/2023-03-29-13-19-11-748D15E0-87D1-4C55-A3BA-DDA63E54FB97-1-105-c@512.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">500 Litres Barrels Alb de Oniţcani - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/48f2d982-1713-4d31-9f30-53d620d84ce7.html">
+    <img class="flex-bottle" src="/images/48/f2d982-1713-4d31-9f30-53d620d84ce7/2022-10-26-19-27-07-02D06BBC-7AD5-4B14-A7E2-4354C8D155DD-1-105-c@512.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">White Label Rară Neagră - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5a3bf0fa-8865-4367-98e7-cf570c161410.html">
+    <img class="flex-bottle" src="/images/5a/3bf0fa-8865-4367-98e7-cf570c161410/2023-03-29-13-20-39-A2A02EC1-4EF3-4213-BA6C-C95914C1F7A6-1-105-c@512.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">Black Label Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dbc20fb4-477e-40bc-ad90-dbee52766baa.html">
+    <img class="flex-bottle" src="/images/db/c20fb4-477e-40bc-ad90-dbee52766baa/2022-10-26-19-36-15-887080B6-118E-4628-9282-4A962E821FC7-1-105-c@512.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">White Label Floricica - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f5eddf26-7538-46bf-89ff-75a98a5f628b.html">
+    <img class="flex-bottle" src="/images/f5/eddf26-7538-46bf-89ff-75a98a5f628b/2023-03-29-13-16-20-AA41214C-060E-4DA7-9A2E-0D75A547A726-1-105-c@512.webp"></img>
+    <section class="h">Novak</section>
+    <section class="h text-bolder">Black Label Red Blend #1 - 2018</section>
+  </a>
+
+</div>
+#+end_export

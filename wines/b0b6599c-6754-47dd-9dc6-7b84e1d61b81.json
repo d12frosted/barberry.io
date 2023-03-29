@@ -1,0 +1,46 @@
+{
+  "id": "b0b6599c-6754-47dd-9dc6-7b84e1d61b81",
+  "name": "Black Label Red Blend #2",
+  "full-name": "Novak Black Label Red Blend #2 2017",
+  "producer": {
+    "id": "632239c5-ab6a-427b-b119-861515f4ff23",
+    "name": "Novak"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "05d63250-fea9-4680-8ffe-10ea95f0535b",
+      "name": "Saperavi"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "388d2d93-35a2-4977-aa20-2ec95486da65",
+      "name": "Fetească neagră"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "820 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b0/b6599c-6754-47dd-9dc6-7b84e1d61b81/2023-03-29-13-17-17-B151D8BC-E7E3-4AB4-B677-E5D429B33D0D-1-105-c.webp",
+  "rating": "NA"
+}

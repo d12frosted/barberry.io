@@ -1,0 +1,42 @@
+Wines:
+
+1. [[barberry:/wines/3ee144b6-ac98-428b-99c9-21ee42c66f0f][Vintense Prestige Blanc de Blancs NV]]
+2. [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Matassa Brutal Rouge 2021]]
+3. [[barberry:/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60][René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018]]
+4. [[barberry:/wines/edaf36b4-74ae-4bb0-8724-514037582de0][Enderle&Moll Pinot Noir 2021]]
+5. [[barberry:/wines/666b87bb-6a15-437c-b269-e0100141b614][Wild Rock Sauvignon Blanc 2021]]
+6. [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][Jorge Ordoñez Victoria №2 2021]]
+
+* Scores
+:PROPERTIES:
+:ID:                     f78ceda0-35fb-4da6-b8d3-bf0166c2b8a4
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms      |   sdev | favourite | outcast |   price | QPR      |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  249.00 | *0.0000* |
+| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1060.00 | *0.0000* |
+| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2190.00 | *0.0000* |
+| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  662.00 | *0.0000* |
+| Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  531.00 | *0.0000* |
+| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1518.00 | *0.0000* |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|-------+---------+---------+---------+---------+---------+---------|
+| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+
