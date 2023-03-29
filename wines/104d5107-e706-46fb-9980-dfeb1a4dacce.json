@@ -1,0 +1,35 @@
+{
+  "id": "104d5107-e706-46fb-9980-dfeb1a4dacce",
+  "name": "Mersault Village",
+  "full-name": "Colin-Morey Pierre-Yves Meursault Village 2020",
+  "producer": {
+    "id": "70b5a0f1-e020-4074-99a7-cc93c1e7cf99",
+    "name": "Colin-Morey Pierre-Yves"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "2352 UAH",
+    "3500 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

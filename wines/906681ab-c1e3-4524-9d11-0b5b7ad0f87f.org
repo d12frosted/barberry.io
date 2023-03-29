@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/55f2f20d-fd2e-4381-9848-8c6547056b7c][Clos Cibonne]]
+- Vintage :: 2019
+- Location :: France, Côtes de Provence AOC
+- Grapes :: Syrah, Grenache, Tibouren
+- Alcohol :: 15
+- Sugar :: 1
+- Price :: 1349 UAH, 1576 UAH
+- Cellar :: N/A
+
+Aged in new 300-liter casks, this Cuvée Prestige is a blend of Syrah (60%), Grenache (15%) and Tibouren (25%). The Syrah predominates. Elegance, balance of the tannins and intensity make this Cuvée Prestige a Provencal grand cru you must discover right away.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <img class="flex-bottle" src="/images/0a/942613-bbc6-4a56-a00b-c156bca2d4aa/2021-07-14-08-46-04-F0B2CA52-DA84-4739-8C7F-233801D8B6E7-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6719f4e7-1b25-4156-bc47-e39a1aab1bf7.html">
+    <img class="flex-bottle" src="/images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Tentations Rosé - 2019</section>
+  </a>
+
+</div>
+#+end_export

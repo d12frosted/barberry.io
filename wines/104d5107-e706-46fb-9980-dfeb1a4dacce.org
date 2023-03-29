@@ -1,0 +1,47 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Colin-Morey Pierre-Yves]]
+- Vintage :: 2020
+- Location :: France, Meursault AOC
+- Grapes :: Chardonnay
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 2352 UAH, 3500 UAH
+- Cellar :: N/A
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/88c63945-bcf3-4ad7-8208-2178cc5e12ce.html">
+    <img class="flex-bottle" src="/images/88/c63945-bcf3-4ad7-8208-2178cc5e12ce/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c@512.webp"></img>
+    <section class="h">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Le Banc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
+    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c@512.webp"></img>
+    <section class="h">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d85e8c99-c857-4754-bda0-5640e29e96be.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniere - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Colin-Morey Pierre-Yves</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Les Champlots - 2020</section>
+  </a>
+
+</div>
+#+end_export
