@@ -9,9 +9,9 @@
 - Alcohol :: 12.5
 - Sugar :: 1
 - Price :: 860 UAH, 977 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
-Kindless Otoño is a blend of Gewürztraminer (50%), Riesling (50%), and Pinot Gris (10%). Gewurztraminer was fermented on skins for five days in amphora. After pressing, Riesling and Pinot Gris juice is added to the spent skins for a day. The wines are all blended together and age in amphora for several months before being bottled, unfined, unfiltered, and without sulphur.
+Kindeli Otoño is a blend of Gewürztraminer (50%), Riesling (40%), and Pinot Gris (10%). Gewurztraminer was fermented on skins for five days in amphora. After pressing, Riesling and Pinot Gris juice is added to the spent skins for a day. The wines are all blended together and age in amphora for several months before being bottled, unfined, unfiltered, and without sulphur.
 
 ** Producer
 
@@ -23,7 +23,11 @@ On 4.5 hectares of clay soils in Upper Moutere, Alex and Josefina cultivate 14 v
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-03-28 - ☆ 7.75
+
+Wine #3 on [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]].
+
+A decent macerated blend of Riesling, Gewürztraminer and Pinot Grigio. Soaked apples, ginger, rose water, VA, uzvar and pencil shavings. Good tannin, a bit rough. Well made.
 
 ** Related
 
@@ -45,6 +49,48 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/5d/58df70-237b-49d5-b236-b91ce5c45eba/2022-08-12-12-23-30-IMG-1459@512.webp"></img>
     <section class="h">Alex Craighead</section>
     <section class="h text-bolder">Kindeli Verano - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">
+    <img class="flex-bottle" src="/images/61/e954ff-3637-41a3-a893-8ab869c352ca/2021-12-17-15-38-12-6692CAE4-0D9C-455D-8053-5ED830A49256-1-105-c@512.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Oakbank Shiraz - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462.html">
+    <img class="flex-bottle" src="/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp"></img>
+    <section class="h">John Duval</section>
+    <section class="h text-bolder">Annexus Grenache - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/83062163-08fd-4ac2-a0df-83a906418a6e.html">
+    <img class="flex-bottle" src="/images/83/062163-08fd-4ac2-a0df-83a906418a6e/2023-01-16-16-16-07-IMG-4332@512.webp"></img>
+    <section class="h">Ochota barrels</section>
+    <section class="h text-bolder">impeccable disorder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+    <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2023-01-24-06-58-32-IMG-4538@512.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e.html">
+    <img class="flex-bottle" src="/images/a0/a0823b-f9d3-465d-991c-c7e1acc5882e/2023-03-14-14-08-07-B54C18E9-1258-44D4-BB68-6F02CE404148-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">North Canterbury Orange - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450.html">
+    <img class="flex-bottle" src="/images/c9/55b7cb-7f5b-401f-9da2-4364f8f70450/2023-03-09-11-37-59-IMG-5398@512.webp"></img>
+    <section class="h">Pete's Pure</section>
+    <section class="h text-bolder">Prosecco - NV</section>
   </a>
 
 </div>

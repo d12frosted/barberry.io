@@ -1,11 +1,119 @@
 Wines:
 
 1. [[barberry:/wines/3ee144b6-ac98-428b-99c9-21ee42c66f0f][Vintense Prestige Blanc de Blancs NV]]
-2. [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Matassa Brutal Rouge 2021]]
+2. [[barberry:/wines/f617f9f0-8472-4f81-b334-aff85c2ae294][Matassa Ace of Spades Les Myrs 2021]]
 3. [[barberry:/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60][René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018]]
 4. [[barberry:/wines/edaf36b4-74ae-4bb0-8724-514037582de0][Enderle&Moll Pinot Noir 2021]]
 5. [[barberry:/wines/666b87bb-6a15-437c-b269-e0100141b614][Wild Rock Sauvignon Blanc 2021]]
 6. [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][Jorge Ordoñez Victoria №2 2021]]
+
+* Vintense Prestige Blanc de Blancs NV
+:PROPERTIES:
+:ID:                     06179dfc-ad81-475e-a759-374b330d309d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2023-03-28-11-37-05-IMG-5759.webp]]
+
+- producer: [[barberry:/producers/55ef22f9-b787-4242-8f42-0d16909f6955][Vintense]]
+- name: [[barberry:/wines/3ee144b6-ac98-428b-99c9-21ee42c66f0f][Prestige Blanc de Blancs]]
+- vintage: NV
+- grapes: Chardonnay
+- region: Belgium
+- location: Belgium
+- alcohol: 0
+- sugar: N/A
+- price: 249 UAH
+
+* Matassa Ace of Spades Les Myrs 2021
+:PROPERTIES:
+:ID:                     b014a4c2-e035-4ca6-b22b-35f7246705de
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2023-02-20-22-18-25-IMG-5099.webp]]
+
+- producer: [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]
+- name: [[barberry:/wines/f617f9f0-8472-4f81-b334-aff85c2ae294][Ace of Spades Les Myrs]]
+- vintage: 2021
+- grapes: Monastrell, Cariñena
+- appellation: Vin de Table
+- location: France
+- alcohol: 12
+- sugar: 0.4
+- price: 869 UAH
+
+* René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018
+:PROPERTIES:
+:ID:                     fc7e8523-1e16-41bc-abb4-5dfc0c94272c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2023-03-29-19-27-37-B573B12D-A133-4A83-BCDE-93A76C502A33-1-105-c.webp]]
+
+- producer: [[barberry:/producers/f01d36e7-2a65-4b9e-9d22-b828b6f015bc][René-Jean Dard et François Ribo]]
+- name: [[barberry:/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60][Crozes-Hermitage Blanc]]
+- vintage: 2018
+- grapes: Roussanne, Marsanne
+- appellation: Crozes-Hermitage AOC
+- location: Rhône, Auvergne-Rhône-Alpes, France
+- alcohol: 14
+- sugar: 1
+- price: 2190 UAH
+
+* Enderle&Moll Pinot Noir 2021
+:PROPERTIES:
+:ID:                     e6ea3112-616a-4e3f-85c9-fa5b1b082696
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2023-01-24-07-06-47-IMG-4550.webp]]
+
+- producer: [[barberry:/producers/5774d37d-7ca7-444c-b981-29ad5a290846][Enderle&Moll]]
+- name: [[barberry:/wines/edaf36b4-74ae-4bb0-8724-514037582de0][Pinot Noir]]
+- vintage: 2021
+- grapes: Pinot Noir
+- appellation: Deutscher Wein
+- location: Germany
+- alcohol: 11.5
+- sugar: 0.7
+- price: 662 UAH
+
+* Wild Rock Sauvignon Blanc 2021
+:PROPERTIES:
+:ID:                     374fe530-ef61-4af4-94f2-bee671e03ff6
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2022-10-13-14-59-36-IMG-2733.webp]]
+
+- producer: [[barberry:/producers/46602e2d-4d21-4715-8ce3-ead7b8a87d99][Wild Rock]]
+- name: [[barberry:/wines/666b87bb-6a15-437c-b269-e0100141b614][Sauvignon Blanc]]
+- vintage: 2021
+- grapes: Sauvignon Blanc
+- region: Marlborough
+- location: Marlborough, New Zealand
+- alcohol: 13
+- sugar: 5
+- price: 531 UAH
+
+* (x2) Jorge Ordoñez Victoria №2 2021
+:PROPERTIES:
+:ID:                     da77c99f-bf74-4773-9dd1-4b4bb20733d3
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2023-01-10-07-16-43-A08A8A8D-54E7-4A97-BEB4-DEB54A600265-1-105-c.webp]]
+
+- producer: [[barberry:/producers/f65394bb-86f0-42da-ac19-2934bff76929][Jorge Ordoñez]]
+- name: [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][Victoria №2]]
+- vintage: 2021
+- grapes: Zibibbo
+- appellation: Málaga DO
+- location: Andalusia, Spain
+- alcohol: 10.5
+- sugar: 186
+- price: 759 UAH
 
 * Scores
 :PROPERTIES:
@@ -18,7 +126,7 @@ Wines:
 |         | rms      |   sdev | favourite | outcast |   price | QPR      |
 |---------+----------+--------+-----------+---------+---------+----------|
 | Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  249.00 | *0.0000* |
-| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1060.00 | *0.0000* |
+| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  869.00 | *0.0000* |
 | Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2190.00 | *0.0000* |
 | Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  662.00 | *0.0000* |
 | Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  531.00 | *0.0000* |

@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 0.4
 - Price :: 1014 UAH, 1184 UAH, 869 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 The grapes for this wine come from 3.3-ha Murdoch Hill vineyard in Oakbank planted by Michael Downer in 1998 on 390 meters above sea level. Soils are predominantly sandy loam over medium clay subsoils, with varying levels of ironstone, quartz and schist. The Oakbank area is a little warmer than some of the pockets of the Hills where Gareth grows his Pinot Noir, making it the perfect place to grow spicy, slippery, peppery cool-climate Shiraz. It's made in the same way as the Pinot Noirs with 100% whole bunches and a quarter new oak.
 
@@ -18,6 +18,12 @@ The grapes for this wine come from 3.3-ha Murdoch Hill vineyard in Oakbank plant
 *** 2022-01-03 - ☆ 8.00
 
 Great and not typical Australian Shiraz. Delicate and complex. Dark ruby colour. Aromatic and slightly reductive bouquet with blackberry, vanilla, cranberry and pepper. Unexpectedly crisp with dry medium tannin and good balance. Long and flavourful finish.
+
+*** 2023-03-28 - ☆ 8.00
+
+Wine #5 on [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]].
+
+Delicate and energetic Shiraz. Musky bouquet with black forest berries, earth, meat and violets. Juicy on the palate with good acidity. Good tannin and fruit. Yet overall, it's more animalistic and mineral than fruit-forward.
 
 ** Related
 
@@ -65,10 +71,52 @@ Great and not typical Australian Shiraz. Delicate and complex. Dark ruby colour.
     <section class="h text-bolder">Bourgogne - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff.html">
+    <img class="flex-bottle" src="/images/6f/9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff/2023-01-16-16-32-04-IMG-4351@512.webp"></img>
+    <section class="h">Alex Craighead</section>
+    <section class="h text-bolder">Kindeli Otoño - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462.html">
+    <img class="flex-bottle" src="/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp"></img>
+    <section class="h">John Duval</section>
+    <section class="h text-bolder">Annexus Grenache - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/83062163-08fd-4ac2-a0df-83a906418a6e.html">
+    <img class="flex-bottle" src="/images/83/062163-08fd-4ac2-a0df-83a906418a6e/2023-01-16-16-16-07-IMG-4332@512.webp"></img>
+    <section class="h">Ochota barrels</section>
+    <section class="h text-bolder">impeccable disorder - 2020</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/936a61b9-776f-48fd-9b90-c5cc6be91cc9.html">
     <img class="flex-bottle" src="/images/93/6a61b9-776f-48fd-9b90-c5cc6be91cc9/2021-12-17-18-38-52-E4075636-BDB3-4D46-A228-E8DBB7D92640-1-105-c@512.webp"></img>
     <section class="h">Chateau d'Escurac</section>
     <section class="h text-bolder">Médoc Cru Bourgeois - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+    <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2023-01-24-06-58-32-IMG-4538@512.webp"></img>
+    <section class="h">Felton Road</section>
+    <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e.html">
+    <img class="flex-bottle" src="/images/a0/a0823b-f9d3-465d-991c-c7e1acc5882e/2023-03-14-14-08-07-B54C18E9-1258-44D4-BB68-6F02CE404148-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">North Canterbury Orange - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450.html">
+    <img class="flex-bottle" src="/images/c9/55b7cb-7f5b-401f-9da2-4364f8f70450/2023-03-09-11-37-59-IMG-5398@512.webp"></img>
+    <section class="h">Pete's Pure</section>
+    <section class="h text-bolder">Prosecco - NV</section>
   </a>
 
 </div>

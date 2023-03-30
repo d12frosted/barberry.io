@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: 0
 - Price :: 2270 UAH, 1510 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -22,6 +22,14 @@ That case when Pinot Noir is delicious at the young age and is still promising i
 *** 2023-02-16 - ☆ 8.25
 
 Tasted blind. I guessed New Zealand here, but the bottle was revealed too quickly, so I had no time to speculate on the specific producer and wine. Genuinely enjoyed it. It shares first place with Kelley Fox. Typical bouquet of wet forest floor mixed with wild strawberry jam. Maybe it's age (unfortunately, I usually drink Felton Road at a young age), but there are even some dried medicinal herbs. Beautiful, round and well-balanced. I wish the ethanol level was lower, but... it is what it is.
+
+*** 2023-03-28 - ☆ 8.50
+
+Wine #7 on [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]].
+
+Just a few weeks ago, I tasted this wine blindly, and it lacked the balance and delicacy one would expect from Felton Road wines. So I was in doubt regarding my decision to take this bottle on Oceania of Time. Well, score-wise, Calvert became the best wine of the evening. Happy me.
+
+A beautiful floral bouquet. Wet forest floor, slightly spoiled wild strawberries, a handful of blossoming red flowers, and mushrooms. Good volume, fruit and juiciness. And a long and flavourful aftertaste. The wine balances well between complexity and approachability.
 
 ** Related
 
@@ -93,16 +101,28 @@ Tasted blind. I guessed New Zealand here, but the bottle was revealed too quickl
     <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0.html">
+  <a class="flex-item flex-item-right" href="/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f.html">
+    <img class="flex-bottle" src="/images/51/47ca62-b8fa-4cde-a0a4-ec1c1ba8372f/2023-02-04-11-59-29-F9BE13F4-267C-4E7B-B3B4-0764876669A5-1-105-c@512.webp"></img>
+    <section class="h">Patrick Sullivan</section>
+    <section class="h text-bolder">Baw Baw Shire Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0.html">
     <img class="flex-bottle" src="/images/5a/117d28-e2b6-490c-90a6-a4145fd72fd0/2022-12-14-08-06-15-IMG-3761@512.webp"></img>
     <section class="h">Tomislav Marković</section>
     <section class="h text-bolder">On the Rocks - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
+  <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
     <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61e954ff-3637-41a3-a893-8ab869c352ca.html">
+    <img class="flex-bottle" src="/images/61/e954ff-3637-41a3-a893-8ab869c352ca/2021-12-17-15-38-12-6692CAE4-0D9C-455D-8053-5ED830A49256-1-105-c@512.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Oakbank Shiraz - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/697a50e3-196c-48c3-b531-f3879dd9b694.html">
@@ -111,43 +131,73 @@ Tasted blind. I guessed New Zealand here, but the bottle was revealed too quickl
     <section class="h text-bolder">Le Brin De Chevre Touraine - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8a289b1c-eda1-470c-8622-49175f0c3da7.html">
+  <a class="flex-item flex-item-left" href="/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff.html">
+    <img class="flex-bottle" src="/images/6f/9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff/2023-01-16-16-32-04-IMG-4351@512.webp"></img>
+    <section class="h">Alex Craighead</section>
+    <section class="h text-bolder">Kindeli Otoño - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462.html">
+    <img class="flex-bottle" src="/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp"></img>
+    <section class="h">John Duval</section>
+    <section class="h text-bolder">Annexus Grenache - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/83062163-08fd-4ac2-a0df-83a906418a6e.html">
+    <img class="flex-bottle" src="/images/83/062163-08fd-4ac2-a0df-83a906418a6e/2023-01-16-16-16-07-IMG-4332@512.webp"></img>
+    <section class="h">Ochota barrels</section>
+    <section class="h text-bolder">impeccable disorder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8a289b1c-eda1-470c-8622-49175f0c3da7.html">
     <img class="flex-bottle" src="/images/8a/289b1c-eda1-470c-8622-49175f0c3da7/2023-02-17-13-39-44-9232F2BC-73D4-49C0-8066-71B6FCCD88EC-1-105-c@512.webp"></img>
     <section class="h">Paraschos</section>
     <section class="h text-bolder">Noir - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/98f32d59-a395-4287-8adb-9ddf1de9f894.html">
+  <a class="flex-item flex-item-left" href="/wines/98f32d59-a395-4287-8adb-9ddf1de9f894.html">
     <img class="flex-bottle" src="/images/98/f32d59-a395-4287-8adb-9ddf1de9f894/2022-10-13-15-02-55-IMG-2735@512.webp"></img>
     <section class="h">Comando G</section>
     <section class="h text-bolder">La Bruja de Rozas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
+  <a class="flex-item flex-item-right" href="/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e.html">
+    <img class="flex-bottle" src="/images/a0/a0823b-f9d3-465d-991c-c7e1acc5882e/2023-03-14-14-08-07-B54C18E9-1258-44D4-BB68-6F02CE404148-1-105-c@512.webp"></img>
+    <section class="h">Pyramid Valley</section>
+    <section class="h text-bolder">North Canterbury Orange - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450.html">
+    <img class="flex-bottle" src="/images/c9/55b7cb-7f5b-401f-9da2-4364f8f70450/2023-03-09-11-37-59-IMG-5398@512.webp"></img>
+    <section class="h">Pete's Pure</section>
+    <section class="h text-bolder">Prosecco - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
     <img class="flex-bottle" src="/images/cb/f036a5-283a-4cc4-b7ba-a512828d1967/2020-12-22-08-34-51-4F9409BA-7E86-4E80-B394-8F966F74A827-1-105-c@512.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Orange Puglia Nu Litr - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
+  <a class="flex-item flex-item-left" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
     <img class="flex-bottle" src="/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c@512.webp"></img>
     <section class="h">François de Nicolay</section>
     <section class="h text-bolder">Ladoix Les Briquottes - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
+  <a class="flex-item flex-item-right" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
     <img class="flex-bottle" src="/images/e4/0c45c4-aeab-47b0-bc9c-8a2e36223063/2023-02-17-13-51-03-9D1F1E65-6562-4BB2-86F2-FAC8E276F3FE-1-105-c@512.webp"></img>
     <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Frizzante ...Naturalmente L0621 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e69be5d3-5f94-469f-8d7b-a185d20cc7d7.html">
+  <a class="flex-item flex-item-left" href="/wines/e69be5d3-5f94-469f-8d7b-a185d20cc7d7.html">
     <img class="flex-bottle" src="/images/e6/9be5d3-5f94-469f-8d7b-a185d20cc7d7/2023-02-17-13-36-32-0B9D6722-4D3A-4F0B-AB0B-E617641AE44C-1-105-c@512.webp"></img>
     <section class="h">Domaine Prieure Roch</section>
     <section class="h text-bolder">Ladoix Rouge - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+  <a class="flex-item flex-item-right" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
     <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>
