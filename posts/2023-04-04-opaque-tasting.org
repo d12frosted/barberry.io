@@ -1,3 +1,11 @@
+#+begin_quote
+We sometimes forget how important color and temperature are in assessing wines.
+
+--- James Laube
+#+end_quote
+
+A (professional) sensory analysis of wine breaks it down using the eyes, nose, and mouth. We often focus more on the smell and the taste of a particular wine, not talking much about its visuals. Yet, the sight reveals a lot of information about wine: grape varietal, the region it comes from, some of the winemaking aspects, and its age. Our brain perceives this information even if we don't acknowledge it or even if we don't know its meaning. Aside from removing the last source of subjective judgement, what else would happen if we won't see the wine? And if both red and white wines are served at room temperature in opaque glasses, would we be able to guess at least the colour? I've heard, from various sources, that it's not as easy as it seems. So let's try! Again.
+
 Wines:
 
 1. [[barberry:/wines/3ee144b6-ac98-428b-99c9-21ee42c66f0f][Vintense Prestige Blanc de Blancs NV]]
@@ -25,6 +33,19 @@ Wines:
 - sugar: N/A
 - price: 249 UAH
 
+Yes, an alcohol-free wine served blind. What? Don't look at me like I am some sort of a monster. Vintense is a Belgian brand focused specifically on the alcohol-free segment. As they say, 100% pleasure and 0.0% alcohol. Take a look at the scores to compare advertisements with our perception.
+
+To get alcohol-free wine, first, it must be fermented as usual. After alcoholic fermentation, the wines are selected for de-alcoholisation. The low pressure under a vacuum is applied to the wine, thus allowing the evaporation of alcohol at a low temperature (no more than 40°). This avoids the loss of volatile aromas and maintains the organoleptic qualities in the original wine. The key flavours and aromas of the wine are preserved. The winemaker doesn't share technical specifications, but my hunch is that they simply carbonated the resulting wine to make it sparkling. 100% Chardonnay. Our welcome drinks become bizarre.
+
+** Results
+:PROPERTIES:
+:ID:                     e2b533e0-0f61-4ebb-8c9a-2cc8f150294a
+:END:
+
+- The bottle was served chilled.
+- X people guessed it was a sparkling wine.
+- Y people guessed it was a non-alcoholic wine. Bravo.
+
 * Matassa Ace of Spades Les Myrs 2021
 :PROPERTIES:
 :ID:                     b014a4c2-e035-4ca6-b22b-35f7246705de
@@ -42,6 +63,20 @@ Wines:
 - alcohol: 12
 - sugar: 0.4
 - price: 869 UAH
+
+Initially, I planned to bring [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Brutal Rouge]], a delicious blend of red and white grapes. But I felt like there must be a limit to my experiments. Besides, the last time I tasted this wine, we argued if it was easy to guess the colour in a blind tasting. Some questions crave answers.
+
+Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. The estate is owned by three incredible people - Tom Lubbe, his wife Nathalie Gauby and Sam Harrop MW. Tom and Sam are from New Zealand, while Nathalie is from Roussillon. And Matassa is located in Roussillon... Sounds suspicious. [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Cherchez la femme]]!
+
+Le Myrs Ace Of Spades is a blend of Cariñena (Carignan) and Monastrell (Mourvèdre). The name "Les Myrs" refers to the dark soils of the vineyard, where they came from. It has a short maceration of 4 days and is aged for 5 months on its lees in concrete tanks. It is bottled without filtering or fining, and of course, without additives or sulphur.
+
+** Results
+:PROPERTIES:
+:ID:                     0c63a128-8468-4823-bf52-7052a9861fe1
+:END:
+
+- The bottle was served chilled.
+- X people guessed it was a red wine.
 
 * René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018
 :PROPERTIES:
@@ -61,6 +96,23 @@ Wines:
 - sugar: 1
 - price: 2190 UAH
 
+Following the reasoning from the previous Opaque Tasting, I decided to continue discovering whites from Rhône Valley. This time we are in Crozes-Hermitage, located in Northern Rhône. This is the biggest production-wise. It often lies in the shadow of the inner Hermitage AOC. Most of the wines are reds made of Syrah. Yet around 10% of all wines produced in Crozes-Hermitage are white wines made of Marsanne and/or Roussanne.
+
+#+caption: https://www.vins-rhone.com/en/vineyard/appellations/crozes-hermitage
+[[file:/images/2023-04-04-opaque-tasting/2023-04-01-14-19-02-crozes-hermitage-carte.png.webp]]
+
+To my understanding (and limited experience with the region), René-Jean Dard et François Ribo bedazzle and belie the general reputation of their labels' AOCs thanks to lower-extraction SO2-free expressions of local grapes. They have been making natural wines since 1983.
+
+The Crozes-Hermitage Blanc is a blend of Marsanne (80%) and Roussanne (20%) from the Les Bâties vineyard. The vines are around 30 years old and are planted on a slope of clay soils oriented to the southwest. The winemaking is traditional, without additives with direct pressing. Ageing is carried out in demi-muids and barrels. The wine is bottled without filtration or added sulfur.
+
+** Results
+:PROPERTIES:
+:ID:                     ec264ee9-05f0-4e0b-9415-0a38c3aeb065
+:END:
+
+- The bottle was served chilled.
+- X people guessed it was a white wine.
+
 * Enderle&Moll Pinot Noir 2021
 :PROPERTIES:
 :ID:                     e6ea3112-616a-4e3f-85c9-fa5b1b082696
@@ -78,6 +130,20 @@ Wines:
 - alcohol: 11.5
 - sugar: 0.7
 - price: 662 UAH
+
+A small German winery from Baden founded in 2006 by two wine college graduates Sven Enderle and Florian Moll. They were fortunate enough to get their hands on some pretty old plots of Pinot Noir sites (planted in 1953). They follow a philosophy of Low Intervention and Sustainable Vineyard Management.
+
+Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consider them the best Pinot Noir producers in Germany. I lack qualification and experience to support this claim, so I am going to challenge it through tasting.
+
+A classic northern Pinot Noir without any hitch. I am trying to be a lawful citizen here.
+
+** Results
+:PROPERTIES:
+:ID:                     0037cece-51ee-4849-9f5a-34f8757c3a0c
+:END:
+
+- The bottle was served a the room temperature.
+- X people guessed it was a red wine.
 
 * Wild Rock Sauvignon Blanc 2021
 :PROPERTIES:
@@ -97,7 +163,20 @@ Wines:
 - sugar: 5
 - price: 531 UAH
 
-* (x2) Jorge Ordoñez Victoria №2 2021
+And here we come. I know that several participants of this evening started their journey to the wine world from the bottom of New Zealand Sauvignon Blanc. Maybe I am a snob, but I see nothing naughty in a well-made tropical Sauvning Blanc.
+
+There are two reasons to pick this bottle. First of all, I wanted to take something relatively easy to guess. After all, Wild Rock makes a typical gooseberry-driven Sauvignon Blanc. Secondly, I wanted to bring something with not a single naked ass (of course, I am talking about divine buttcheeks of Psyche depicted on every bottle of Gulfi).
+
+** Results
+:PROPERTIES:
+:ID:                     bf017fec-5856-40b9-8144-926e898dd1ff
+:END:
+
+- The bottle was served a the room temperature.
+- X people guessed it was a red wine.
+- Y people guessed the wine/region/whatever.
+
+* (x2) Jorge Ordoñez №2 Victoria 2021
 :PROPERTIES:
 :ID:                     da77c99f-bf74-4773-9dd1-4b4bb20733d3
 :END:
@@ -106,7 +185,7 @@ Wines:
 [[file:/images/2023-04-04-opaque-tasting/2023-01-10-07-16-43-A08A8A8D-54E7-4A97-BEB4-DEB54A600265-1-105-c.webp]]
 
 - producer: [[barberry:/producers/f65394bb-86f0-42da-ac19-2934bff76929][Jorge Ordoñez]]
-- name: [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][Victoria №2]]
+- name: [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][№2 Victoria]]
 - vintage: 2021
 - grapes: Zibibbo
 - appellation: Málaga DO
@@ -114,6 +193,29 @@ Wines:
 - alcohol: 10.5
 - sugar: 186
 - price: 759 UAH
+
+Now that the sugar level started to grow (hey, 5g/L in the previous wine is no joke), we can meet a sweety (not sweaty, mind you) wine from Málaga, Andalucia, Spain. And I have a decent pair for this fresh and sweet Zibibbo. I asked everyone to stay calm, taste the wine, and share their thoughts before I give everyone a lemon tart, thus revealing everything about the wine.
+
+This is my quest to destroy the negative perception of sweet wines. Aye, there are tons of awful syrupy wines. They use sugar to mask their imperfections. On the other hand, it's just popular to hate sugar in any form.
+
+But look, there is a vast world of high-quality sweet wines. They do not taste like a headache or blindness. They balance all the components - alcohol, sweetness and acidity level. The latter is so important to make a pleasant and delicious wine.
+
+№2 Victoria is 100% Muscat of Alexandria. The oldest variety in the Muscat family and one of the few remaining genetically unmodified Vitis vinifera cultivars remaining in the world today. The Phoenicians transplanted this grape from Alexandria (Egypt) to Málaga (Spain) approximately 2,800 years ago.
+
+The grapes come from the following vineyards: Frontilla, Panderón, Navarrete, Villazo, and Villalto. Vines are planted between 1902 and 1935. Traditional dry-farmed viticulture. Cultivated completely by hand, with minimal human intervention. The majority of the vines receive no treatments whatsoever. Many of the vineyards are planted directly into the rock (slate) immediately after the phylloxera.
+
+Late-harvest (partially dehydrated) bunches are whole-cluster pressed in a pneumatic press. Fermentation occurs in small (1,500L) stainless steel tanks. When fermentation reaches 10% alcohol, the temperature of the tank is dropped dramatically to halt fermentation. A small amount of SO2 is added to stop fermentation. Then the wine is aged for 8 months sur lie in stainless steel.
+
+Fun fact. 4.5 kg of grapes are required to create just one bottle (375 ml). What a feast.
+
+** Results
+:PROPERTIES:
+:ID:                     7ba18c7a-f0b3-4954-984e-2e871c2f7c8d
+:END:
+
+- The bottle was served chilled.
+- X people guessed it was a white wine.
+- Y sweet/region/whatever.
 
 * Scores
 :PROPERTIES:
