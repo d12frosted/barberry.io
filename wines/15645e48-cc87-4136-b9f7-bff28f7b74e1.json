@@ -1,0 +1,46 @@
+{
+  "id": "15645e48-cc87-4136-b9f7-bff28f7b74e1",
+  "name": "Otima Single Year Tawny",
+  "full-name": "Warre's Otima Single Year Tawny 2006",
+  "producer": {
+    "id": "68f87a47-f0de-4f2b-8f6d-d5bc3a1bdce7",
+    "name": "Warre's"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "3e7b8740-0fe9-4683-af09-15bade39dbf9",
+      "name": "Touriga Nacional"
+    },
+    {
+      "id": "b4c45fe5-f375-4152-91c8-b3af71b65236",
+      "name": "Touriga Franca"
+    },
+    {
+      "id": "0b9bc3f8-fbe0-4880-a876-1fb7314edf07",
+      "name": "Tinta Barroca"
+    },
+    {
+      "id": "3065b671-c9da-40fa-a3f4-fe2cb996f25e",
+      "name": "Tinta Roriz"
+    }
+  ],
+  "alcohol": "20",
+  "sugar": "116",
+  "prices": [
+    "816 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/15/645e48-cc87-4136-b9f7-bff28f7b74e1/2023-04-01-10-20-28-CF9B054A-2A6E-4C33-82F5-FA3A410C8303-1-105-c.webp",
+  "rating": "7.5"
+}

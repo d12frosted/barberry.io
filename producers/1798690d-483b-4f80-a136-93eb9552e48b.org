@@ -9,7 +9,13 @@
     <section class="h text-bolder">Crémant du Jura Millésimé - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
+  <a class="flex-item flex-item-right" href="/wines/c52c8091-3c3c-4090-a998-7db077b0e857.html">
+    <img class="flex-bottle" src="/images/c5/2c8091-3c3c-4090-a998-7db077b0e857/2023-04-01-10-11-38-E23E5BF5-A4E6-4522-94F8-B31839BE4B41-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Ploussard La Cabane - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2022-08-17-10-33-10-02E59099-F76E-4D80-A5F5-FD94E1D10CE7-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>

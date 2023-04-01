@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
+    <img class="flex-bottle" src="/images/a5/021c3f-3d2c-42c2-a984-5455b774d224/2023-04-01-10-09-41-FA7B2B61-4AA9-44E9-9CC5-089B8C5D2579-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Côtes du Jura Poulsard - 2019</section>
+  </a>
+
+</div>
+#+end_export

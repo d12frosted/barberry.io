@@ -1,0 +1,35 @@
+{
+  "id": "904a71d9-103c-4229-b350-b02db00651ea",
+  "name": "Bourgogne Aligoté",
+  "full-name": "Dubois Bernard et Fils Bourgogne Aligoté 2018",
+  "producer": {
+    "id": "3fd690ab-81af-4540-a6ba-b96bc8c56b59",
+    "name": "Dubois Bernard et Fils"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "a067bded-65a9-4e5d-b0d4-f81eb5f88990",
+      "name": "Aligoté"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "397 UAH",
+    "496 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/90/4a71d9-103c-4229-b350-b02db00651ea/2023-04-01-09-54-22-95AFB553-1DA3-4AC4-81FC-B23B80E3F415-1-105-c.webp",
+  "rating": "NA"
+}

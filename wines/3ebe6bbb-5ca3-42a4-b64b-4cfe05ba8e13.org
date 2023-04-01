@@ -43,25 +43,31 @@ Interesting and sophisticated wine. It opens up with pear, lychee, grass, nuts a
     <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
+  <a class="flex-item flex-item-right" href="/wines/e400d41f-6be2-4898-a383-203b45fca1b2.html">
+    <img class="flex-bottle" src="/images/e4/00d41f-6be2-4898-a383-203b45fca1b2/2023-04-01-10-06-24-4B1BFC32-8DAE-47BB-AF17-C5EE267E3EC6-1-105-c@512.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Ploussard Côte de Fuele - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
     <img class="flex-bottle" src="/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Pinostradamus Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f1cff90d-27af-4f71-9694-956ca5b8c789.html">
+  <a class="flex-item flex-item-right" href="/wines/f1cff90d-27af-4f71-9694-956ca5b8c789.html">
     <img class="flex-bottle" src="/images/f1/cff90d-27af-4f71-9694-956ca5b8c789/2022-12-10-12-07-10-IMG-3688@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Terre du Lias - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f2f86ca7-58c8-4afc-96ee-8a2485b26aa7.html">
+  <a class="flex-item flex-item-left" href="/wines/f2f86ca7-58c8-4afc-96ee-8a2485b26aa7.html">
     <img class="flex-bottle" src="/images/f2/f86ca7-58c8-4afc-96ee-8a2485b26aa7/2022-12-10-12-11-21-IMG-3685@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Vin Jaune - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
+  <a class="flex-item flex-item-right" href="/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0.html">
     <img class="flex-bottle" src="/images/44/ee0d12-de03-42f2-83f0-502be8bd54b0/2022-06-21-14-32-56-92927A43-D648-451D-B84F-CB4DE7ED60EF-1-102-o@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2019</section>

@@ -1,0 +1,34 @@
+{
+  "id": "a5021c3f-3d2c-42c2-a984-5455b774d224",
+  "name": "Côtes du Jura Poulsard",
+  "full-name": "Marie-Pierre Chevassu-Jassenet Côtes du Jura Poulsard 2019",
+  "producer": {
+    "id": "30a41392-c831-48c5-8fd6-6b4021c45237",
+    "name": "Marie-Pierre Chevassu-Jassenet"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1090 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a5/021c3f-3d2c-42c2-a984-5455b774d224/2023-04-01-10-09-41-FA7B2B61-4AA9-44E9-9CC5-089B8C5D2579-1-105-c.webp",
+  "rating": "7.5"
+}

@@ -8,7 +8,7 @@
 - Grapes :: Poulsard
 - Alcohol :: 12.3
 - Sugar :: 1
-- Price :: 1050 UAH
+- Price :: 1141 UAH, 1050 UAH
 - Cellar :: N/A
 
 ** Ratings
@@ -17,14 +17,30 @@
 
 A wine with a story more interesting than the wine itself. Some subtle notes of barnyard mixed with brine (was it a sweating cow or horse?). Ground pepper and guelder rose. Unlike Tôt out Tard, this one has less balance, more volume and higher acidity lifted by VA. Flavours of red apple and cranberry. Straight-forward, simple and juicy.
 
+*** 2023-03-31 - ☆ 7.25
+
+There is something charming in its teenager's spirit, yet it's not my cup of Ploussard. Dogwood, cranberry and iron rust. Some tomato sauce and white pepper. VA adds unnecessary strain and tries to hide the volume. Despite the descriptors, it feels rather simple.
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/0e00caf9-100e-4789-a9aa-dbe00f82d8af.html">
+  <a class="flex-item flex-item-left" href="/wines/0800b46f-7338-416b-b827-3bfb071e1238.html">
+    <img class="flex-bottle" src="/images/08/00b46f-7338-416b-b827-3bfb071e1238/2023-04-01-09-58-09-9E85DC50-DA9C-482C-B4E8-3BF49562BBD9-1-105-c@512.webp"></img>
+    <section class="h">Mongarda</section>
+    <section class="h text-bolder">Glera Colli Trevigiani Col Fondo - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0e00caf9-100e-4789-a9aa-dbe00f82d8af.html">
     <img class="flex-bottle" src="/images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o@512.webp"></img>
     <section class="h">Domaine des Cavarodes</section>
     <section class="h text-bolder">Côtes du Jura Les Lumachelles Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/15645e48-cc87-4136-b9f7-bff28f7b74e1.html">
+    <img class="flex-bottle" src="/images/15/645e48-cc87-4136-b9f7-bff28f7b74e1/2023-04-01-10-20-28-CF9B054A-2A6E-4C33-82F5-FA3A410C8303-1-105-c@512.webp"></img>
+    <section class="h">Warre's</section>
+    <section class="h text-bolder">Otima Single Year Tawny - 2006</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
@@ -33,16 +49,40 @@ A wine with a story more interesting than the wine itself. Some subtle notes of 
     <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/45289e25-fbd9-4045-8ad4-cf52f5ffb871.html">
+    <img class="flex-bottle" src="/images/45/289e25-fbd9-4045-8ad4-cf52f5ffb871/2023-04-01-10-13-00-698A1A22-B661-46BE-8631-D991BD98B9D0-1-105-c@512.webp"></img>
+    <section class="h">Frédéric Cossard</section>
+    <section class="h text-bolder">Ploussard - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-04-01-10-13-47-F3879159-4040-4F98-AC94-26E04954BBB5-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Poulsard en Amphore - 2018</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
     <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730@512.webp"></img>
     <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+    <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis Sur Loire Les Hauts de Husseau - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
     <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o@512.webp"></img>
     <section class="h">Buronfosse</section>
     <section class="h text-bolder">Chardonnay Marcus - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
+    <img class="flex-bottle" src="/images/a5/021c3f-3d2c-42c2-a984-5455b774d224/2023-04-01-10-09-41-FA7B2B61-4AA9-44E9-9CC5-089B8C5D2579-1-105-c@512.webp"></img>
+    <section class="h">Marie-Pierre Chevassu-Jassenet</section>
+    <section class="h text-bolder">Côtes du Jura Poulsard - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/a85a1ed5-61aa-48d6-8ef3-2a68e12e2378.html">
@@ -51,22 +91,34 @@ A wine with a story more interesting than the wine itself. Some subtle notes of 
     <section class="h text-bolder">Three views of a secret - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58.html">
+  <a class="flex-item flex-item-right" href="/wines/c52c8091-3c3c-4090-a998-7db077b0e857.html">
+    <img class="flex-bottle" src="/images/c5/2c8091-3c3c-4090-a998-7db077b0e857/2023-04-01-10-11-38-E23E5BF5-A4E6-4522-94F8-B31839BE4B41-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Touraize</section>
+    <section class="h text-bolder">Ploussard La Cabane - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58.html">
     <img class="flex-bottle" src="/images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o@512.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Bastarda - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
+  <a class="flex-item flex-item-right" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
     <img class="flex-bottle" src="/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c@512.webp"></img>
     <section class="h">Cellers de Can Suriol</section>
     <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+  <a class="flex-item flex-item-left" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
     <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e400d41f-6be2-4898-a383-203b45fca1b2.html">
+    <img class="flex-bottle" src="/images/e4/00d41f-6be2-4898-a383-203b45fca1b2/2023-04-01-10-06-24-4B1BFC32-8DAE-47BB-AF17-C5EE267E3EC6-1-105-c@512.webp"></img>
+    <section class="h">Domaine de La Borde</section>
+    <section class="h text-bolder">Ploussard Côte de Fuele - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">

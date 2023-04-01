@@ -1,0 +1,34 @@
+{
+  "id": "45289e25-fbd9-4045-8ad4-cf52f5ffb871",
+  "name": "Ploussard",
+  "full-name": "Frédéric Cossard Ploussard 2020",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.3",
+  "prices": [
+    "1350 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/45/289e25-fbd9-4045-8ad4-cf52f5ffb871/2023-04-01-10-13-00-698A1A22-B661-46BE-8631-D991BD98B9D0-1-105-c.webp",
+  "rating": "7.5"
+}

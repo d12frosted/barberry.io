@@ -1,0 +1,34 @@
+{
+  "id": "0800b46f-7338-416b-b827-3bfb071e1238",
+  "name": "Glera Colli Trevigiani Col Fondo",
+  "full-name": "Mongarda Glera Colli Trevigiani Col Fondo 2021",
+  "producer": {
+    "id": "dc773d9b-7dda-493c-99d6-1364fa1993e1",
+    "name": "Mongarda"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0",
+  "prices": [
+    "683 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/08/00b46f-7338-416b-b827-3bfb071e1238/2023-04-01-09-58-09-9E85DC50-DA9C-482C-B4E8-3BF49562BBD9-1-105-c.webp",
+  "rating": "7.0"
+}

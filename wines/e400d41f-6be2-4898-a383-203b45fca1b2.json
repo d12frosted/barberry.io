@@ -1,0 +1,34 @@
+{
+  "id": "e400d41f-6be2-4898-a383-203b45fca1b2",
+  "name": "Ploussard Côte de Fuele",
+  "full-name": "Domaine de La Borde Ploussard Côte de Fuele 2020",
+  "producer": {
+    "id": "831e59f1-2aca-4fb2-8ba9-c75cab9c5dcf",
+    "name": "Domaine de La Borde"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "1086 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e4/00d41f-6be2-4898-a383-203b45fca1b2/2023-04-01-10-06-24-4B1BFC32-8DAE-47BB-AF17-C5EE267E3EC6-1-105-c.webp",
+  "rating": "7.75"
+}

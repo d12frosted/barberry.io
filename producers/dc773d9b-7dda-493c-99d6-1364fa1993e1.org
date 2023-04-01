@@ -1,0 +1,14 @@
+Small family winery from the north-east part of Italy. They produce Prosecco with low intervention and experiment with  method. They mostly use Glera, but they also grow rare local verities.
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0800b46f-7338-416b-b827-3bfb071e1238.html">
+    <img class="flex-bottle" src="/images/08/00b46f-7338-416b-b827-3bfb071e1238/2023-04-01-09-58-09-9E85DC50-DA9C-482C-B4E8-3BF49562BBD9-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Glera Colli Trevigiani Col Fondo - 2021</section>
+  </a>
+
+</div>
+#+end_export

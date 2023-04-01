@@ -1,0 +1,35 @@
+{
+  "id": "5288d4c7-99a8-4cb7-bfbc-0d24b001dffc",
+  "name": "Etna Rosato",
+  "full-name": "Tenuta delle Terre Nere Etna Rosato 2018",
+  "producer": {
+    "id": "150d819d-7b0e-4a2e-b71b-d73a83beae3a",
+    "name": "Tenuta delle Terre Nere"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "499 UAH",
+    "713 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/52/88d4c7-99a8-4cb7-bfbc-0d24b001dffc/2023-04-01-09-49-53-37F22836-2A2C-4800-B34C-AC56EAE3EE92-1-102-o.webp",
+  "rating": "NA"
+}
