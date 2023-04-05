@@ -1,3 +1,6 @@
+#+DOWNLOADED: file:/Users/d12frosted/IMG_5935.jpeg @ 2023-04-05 08:23:58
+[[file:/images/2023-04-04-opaque-tasting/2023-04-05-08-23-58-IMG-5935.webp]]
+
 #+begin_quote
 We sometimes forget how important color and temperature are in assessing wines.
 
@@ -5,6 +8,9 @@ We sometimes forget how important color and temperature are in assessing wines.
 #+end_quote
 
 A (professional) sensory analysis of wine breaks it down using the eyes, nose, and mouth. We often focus more on the smell and the taste of a particular wine, not talking much about its visuals. Yet, the sight reveals a lot of information about wine: grape varietal, the region it comes from, some of the winemaking aspects, and its age. Our brain perceives this information even if we don't acknowledge it or even if we don't know its meaning. Aside from removing the last source of subjective judgement, what else would happen if we won't see the wine? And if both red and white wines are served at room temperature in opaque glasses, would we be able to guess at least the colour? I've heard, from various sources, that it's not as easy as it seems. So let's try! Again.
+
+#+DOWNLOADED: file:/Users/d12frosted/IMG_5911.jpeg @ 2023-04-05 08:24:33
+[[file:/images/2023-04-04-opaque-tasting/2023-04-05-08-24-33-IMG-5911.webp]]
 
 Wines:
 
@@ -14,6 +20,7 @@ Wines:
 4. [[barberry:/wines/edaf36b4-74ae-4bb0-8724-514037582de0][Enderle&Moll Pinot Noir 2021]]
 5. [[barberry:/wines/666b87bb-6a15-437c-b269-e0100141b614][Wild Rock Sauvignon Blanc 2021]]
 6. [[barberry:/wines/a4ac2588-8257-4add-af94-520a41aa8702][Jorge Ordoñez Victoria №2 2021]]
+7. [[barberry:/wines/b5f2078a-01a2-4134-958c-d8ff543a7945][Momento Mori Give up the Ghost 2019]] (bonus)
 
 * Vintense Prestige Blanc de Blancs NV
 :PROPERTIES:
@@ -42,9 +49,9 @@ To get alcohol-free wine, first, it must be fermented as usual. After alcoholic 
 :ID:                     e2b533e0-0f61-4ebb-8c9a-2cc8f150294a
 :END:
 
-- The bottle was served chilled.
-- X people guessed it was a sparkling wine.
-- Y people guessed it was a non-alcoholic wine. Bravo.
+- Everyone agreed that it was sparkling.
+- Half of the participants thought it was rosé.
+- Only one person realised that it was non-alcoholic drink.
 
 * Matassa Ace of Spades Les Myrs 2021
 :PROPERTIES:
@@ -64,7 +71,7 @@ To get alcohol-free wine, first, it must be fermented as usual. After alcoholic 
 - sugar: 0.4
 - price: 869 UAH
 
-Initially, I planned to bring [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Brutal Rouge]], a delicious blend of red and white grapes. But I felt like there must be a limit to my experiments. Besides, the last time I tasted this wine, we argued if it was easy to guess the colour in a blind tasting. Some questions crave answers.
+Initially, I planned to bring [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Brutal Rouge 2021]], a delicious blend of red and white grapes. But I felt like there must be a limit to my experiments. Besides, the last time I tasted [[barberry:/wines/f617f9f0-8472-4f81-b334-aff85c2ae294][Ace of Spades Les Myrs 2021]], we argued if it was easy to guess the colour in a blind tasting. Easy to find out the answer.
 
 Matassa is a small, naturally farmed estate located in the township of Calce in the Val d'Agly region of Roussillon, Pyrenee-Orientales, France. The estate is owned by three incredible people - Tom Lubbe, his wife Nathalie Gauby and Sam Harrop MW. Tom and Sam are from New Zealand, while Nathalie is from Roussillon. And Matassa is located in Roussillon... Sounds suspicious. [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Cherchez la femme]]!
 
@@ -75,8 +82,7 @@ Le Myrs Ace Of Spades is a blend of Cariñena (Carignan) and Monastrell (Mourvè
 :ID:                     0c63a128-8468-4823-bf52-7052a9861fe1
 :END:
 
-- The bottle was served chilled.
-- X people guessed it was a red wine.
+Nothing interesting because everyone believed it was an orange wine.
 
 * René-Jean Dard et François Ribo Crozes-Hermitage Blanc 2018
 :PROPERTIES:
@@ -101,7 +107,7 @@ Following the reasoning from the previous [[barberry:/posts/2022-09-20-opaque-ta
 #+caption: https://www.vins-rhone.com/en/vineyard/appellations/crozes-hermitage
 [[file:/images/2023-04-04-opaque-tasting/2023-04-01-14-19-02-crozes-hermitage-carte.png.webp]]
 
-To my understanding (and limited experience with the region), René-Jean Dard et François Ribo bedazzle and belie the general reputation of their labels' AOCs thanks to lower-extraction SO2-free expressions of local grapes. They have been making natural wines since 1983.
+To my understanding (and limited experience with the region), René-Jean Dard et François Ribo bedazzled and belied the general reputation of their labels' AOCs thanks to lower-extraction $SO_2$-free expressions of local grapes. They have been making natural wines since 1983.
 
 The Crozes-Hermitage Blanc is a blend of Marsanne (80%) and Roussanne (20%) from the Les Bâties vineyard. The vines are around 30 years old and are planted on a slope of clay soils oriented to the southwest. The winemaking is traditional, without additives with direct pressing. Ageing is carried out in demi-muids and barrels. The wine is bottled without filtration or added sulfur.
 
@@ -110,8 +116,9 @@ The Crozes-Hermitage Blanc is a blend of Marsanne (80%) and Roussanne (20%) from
 :ID:                     ec264ee9-05f0-4e0b-9415-0a38c3aeb065
 :END:
 
-- The bottle was served chilled.
-- X people guessed it was a white wine.
+- Almost everyone agreed that it's white.
+- One person was confident it's red.
+- Two others were confused.
 
 * Enderle&Moll Pinot Noir 2021
 :PROPERTIES:
@@ -133,7 +140,7 @@ The Crozes-Hermitage Blanc is a blend of Marsanne (80%) and Roussanne (20%) from
 
 A small German winery from Baden founded in 2006 by two wine college graduates Sven Enderle and Florian Moll. They were fortunate enough to get their hands on some pretty old plots of Pinot Noir sites (planted in 1953). They follow a philosophy of Low Intervention and Sustainable Vineyard Management.
 
-Enderle and Moll are considered to be a cult even by Jancis Robinson. Some consider them the best Pinot Noir producers in Germany. I lack qualification and experience to support this claim, so I am going to challenge it through tasting.
+Enderle and Moll are [[https://www.jancisrobinson.com/articles/the-beards-of-baden][considered to be a cult]] even by Jancis Robinson. Some consider them the best Pinot Noir producers in Germany. I lack qualification and experience to support this claim, so I am going to challenge it through tasting.
 
 A classic northern Pinot Noir without any hitch. I am trying to be a lawful citizen here.
 
@@ -142,8 +149,10 @@ A classic northern Pinot Noir without any hitch. I am trying to be a lawful citi
 :ID:                     0037cece-51ee-4849-9f5a-34f8757c3a0c
 :END:
 
-- The bottle was served a the room temperature.
-- X people guessed it was a red wine.
+- 3 participants were confident it's orange.
+- 7 participants were confident it's red.
+- And one participant was confident it's white.
+- Two people guessed Pinot Noir.
 
 * Wild Rock Sauvignon Blanc 2021
 :PROPERTIES:
@@ -165,16 +174,16 @@ A classic northern Pinot Noir without any hitch. I am trying to be a lawful citi
 
 And here we come. I know that several participants of this evening started their journey to the wine world from the bottom of New Zealand Sauvignon Blanc. Maybe I am a snob, but I see nothing naughty in a well-made tropical Sauvning Blanc.
 
-There are two reasons to pick this bottle. First of all, I wanted to take something relatively easy to guess. After all, Wild Rock makes a typical gooseberry-driven Sauvignon Blanc. Secondly, I wanted to bring something with not a single naked ass (of course, I am talking about divine buttcheeks of Psyche depicted on every bottle of Gulfi).
+There are two reasons to pick this bottle. First of all, I wanted to take something relatively easy to guess. After all, Wild Rock makes a typical gooseberry-driven Sauvignon Blanc. Secondly, I wanted to bring something with not a single naked ass (of course, I am talking about divine buttcheeks of Psyche depicted on every bottle of Gulfi). Makes sense, right?
 
 ** Results
 :PROPERTIES:
 :ID:                     bf017fec-5856-40b9-8144-926e898dd1ff
 :END:
 
-- The bottle was served a the room temperature.
-- X people guessed it was a red wine.
-- Y people guessed the wine/region/whatever.
+- Funny, but only one person said with confidence that it's Sauvignon Blanc from New Zealand.
+- Despite acknowledging the typical profile of this wine, others didn't guess.
+- At least, everyone were on the same page regarding the colour of this wine - white.
 
 * (x2) Jorge Ordoñez №2 Victoria 2021
 :PROPERTIES:
@@ -194,7 +203,7 @@ There are two reasons to pick this bottle. First of all, I wanted to take someth
 - sugar: 186
 - price: 759 UAH
 
-Now that the sugar level started to grow (hey, 5g/L in the previous wine is no joke), we can meet a sweety (not sweaty, mind you) wine from Málaga, Andalucia, Spain. And I have a decent pair for this fresh and sweet Zibibbo. I asked everyone to stay calm, taste the wine, and share their thoughts before I give everyone a lemon tart, thus revealing everything about the wine.
+Now that the sugar level started to grow (hey, 5g/L in the previous wine is no joke), we can meet a sweetie (not sweaty, mind you) wine from Málaga, Andalucia, Spain. And I have a decent pair for this fresh and sweet Zibibbo. I asked everyone to stay calm, taste the wine, and share their thoughts before I give everyone a lemon tart, thus revealing everything about the wine.
 
 This is my quest to destroy the negative perception of sweet wines. Aye, there are tons of awful syrupy wines. They use sugar to mask their imperfections. On the other hand, it's just popular to hate sugar in any form.
 
@@ -207,6 +216,29 @@ The grapes come from the following vineyards: Frontilla, Panderón, Navarrete, V
 Late-harvest (partially dehydrated) bunches are whole-cluster pressed in a pneumatic press. Fermentation occurs in small (1,500L) stainless steel tanks. When fermentation reaches 10% alcohol, the temperature of the tank is dropped dramatically to halt fermentation. A small amount of SO2 is added to stop fermentation. Then the wine is aged for 8 months sur lie in stainless steel.
 
 Fun fact. 4.5 kg of grapes are required to create just one bottle (375 ml). What a feast.
+
+#+attr_html: :class img-half
+[[file:/images/2023-04-04-opaque-tasting/2023-04-05-08-22-56-81CAE152-066D-41E4-9F9A-964BAC45B28D-1-105-c.webp]]
+
+* Momento Mori Give up the Ghost 2019
+:PROPERTIES:
+:ID:                     a6ea3d30-b17f-44fd-a8b2-92d7cc835813
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-04-opaque-tasting/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
+- name: [[barberry:/wines/b5f2078a-01a2-4134-958c-d8ff543a7945][Give up the Ghost]]
+- vintage: 2019
+- grapes: Greco di Tufo
+- region: Gippsland
+- location: Victoria, Australia
+- alcohol: 12.3
+- sugar: 1.1
+- price: 1402 UAH
+
+People demanded an extra bottle. It's hard to pick anything after sweet wine. But it seemed like this Greco di Tufo could be a good reset.
 
 ** Results
 :PROPERTIES:
@@ -225,14 +257,15 @@ Fun fact. 4.5 kg of grapes are required to create just one bottle (375 ml). What
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms      |   sdev | favourite | outcast |   price | QPR      |
+|         |      rms |   sdev | favourite | outcast |   price |      QPR |
 |---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  249.00 | *0.0000* |
-| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  869.00 | *0.0000* |
-| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2190.00 | *0.0000* |
-| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  662.00 | *0.0000* |
-| Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  531.00 | *0.0000* |
-| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1518.00 | *0.0000* |
+| Wine #1 |   3.3277 | 0.0731 |      0.00 |  +5.00+ |  249.00 | *3.6367* |
+| Wine #2 |   3.6891 | 0.1035 |    *3.00* |    0.00 |  869.00 |   1.7132 |
+| Wine #3 |   3.8328 | 0.1231 |      2.00 |    1.00 | 2190.00 |   0.8346 |
+| Wine #4 |   3.8619 | 0.1558 |      2.00 |    1.00 |  662.00 |   2.8642 |
+| Wine #5 |   3.5750 | 0.1191 |      0.00 |    1.00 |  531.00 |   2.3764 |
+| Wine #6 |   3.5548 | 0.2697 |      2.00 |    4.00 | 1518.00 |   0.7842 |
+| Bonus   | *4.1289* | 0.0736 |    *3.00* |    0.00 | 1402.00 |   2.0542 |
 
 How to read this table:
 
@@ -246,7 +279,18 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
-|-------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus  |
+|--------------+---------+---------+---------+---------+---------+---------+--------|
+| Oleksandr R  |  +3.70+ |    3.70 |    3.30 |  *4.20* |    3.50 |    3.50 | 3.80   |
+| Andrii S     |  +3.30+ |    3.70 |    4.20 |    3.80 |    3.70 |  *4.00* | -      |
+| Viktoriya Zh |  +3.60+ |    3.90 |    4.10 |  *3.90* |    3.30 |    4.10 | -      |
+| Yulia K      |    3.50 |  *4.00* |    3.50 |    4.20 |    3.00 |  +3.50+ | -      |
+| Lena M       |  +3.00+ |  *3.90* |    3.70 |    3.90 |    3.50 |    3.30 | -      |
+| Kateryna S   |    3.00 |    3.00 |  *3.50* |    3.00 |    3.00 |  +2.50+ | -      |
+| Anna K       |    3.40 |    3.80 |  *4.50* |  +3.20+ |    3.50 |    3.30 | -      |
+| Rostyslav Y  |  +3.10+ |  *3.90* |    3.90 |    4.00 |    3.90 |    4.10 | -      |
+| Oksana R     |    3.00 |    3.40 |  +3.60+ |    3.70 |    3.60 |    3.80 | *4.00* |
+| Dimitry G    |    3.60 |    3.70 |    3.80 |    4.50 |    4.30 |  +3.00+ | *4.60* |
+| Andrii Sh    |    3.60 |    3.10 |    3.50 |    3.80 |    3.70 |  +2.90+ | *4.20* |
+| Boris B      |    3.00 |    4.00 |    4.20 |    3.90 |  +3.70+ |  *4.20* | 4.00   |
 

@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/790dc102-a839-4cef-a0d4-7fbb4926a057.html">
     <img class="flex-bottle" src="/images/79/0dc102-a839-4cef-a0d4-7fbb4926a057/2023-02-21-06-44-26-IMG-5103@512.webp"></img>
-    <section class="h">★ 7.00</section>
+    <section class="h">★ 6.50</section>
     <section class="h text-bolder">Cabernet Sauvignon Shiraz - 2019</section>
   </a>
 
@@ -17,7 +17,7 @@
 
   <a class="flex-item flex-item-left" href="/wines/1a4a72fc-57dd-4c90-890b-3b0fd3ca25c7.html">
     <img class="flex-bottle" src="/images/1a/4a72fc-57dd-4c90-890b-3b0fd3ca25c7/2023-02-21-06-42-52-IMG-5101@512.webp"></img>
-    <section class="h">★ 7.25</section>
+    <section class="h">★ 7.00</section>
     <section class="h text-bolder">Shiraz - 2019</section>
   </a>
 
