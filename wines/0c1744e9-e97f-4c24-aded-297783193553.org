@@ -1,0 +1,65 @@
+#+attr_html: :class wine-main-image
+[[file:/images/0c/1744e9-e97f-4c24-aded-297783193553/2023-04-06-16-00-04-74DAEC57-4EE6-4F3B-A593-5FB172F497AA-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/c889ae32-a1bc-444e-8aef-16826b33a2e4][Egly-Ouriet]]
+- Vintage :: 2018
+- Location :: France, Coteaux Champenois AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 1
+- Price :: 8900 UAH
+- Cellar :: N/A
+
+** Producer
+
+Egly-Ouriet produces Champagne primarily from Grand Cru village of Ambonnay located in Montagne de Reims. Ambonnay is known as the top village for Pinot Noir. Egly uses Organic Farming, his Pinot Noir and Chardonnay grapes are 50 years old on average. Wines are aged extensively on the lees (up to 10 years).
+
+** Ratings
+
+*** 2023-04-06 - ☆ 8.50
+
+A combination of delicacy and character. A charming bouquet of red flowers, cherry, red berries, dry earth, and cloves. Austere mouthfeel with high acidity, tight tannin (reminiscent of the walnut husk), a long and flavourful aftertaste and a mineral-fruity-flowery finish. Sophisticated and delicious.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a5d1450d-9a0c-4783-8229-e192633601fd.html">
+    <img class="flex-bottle" src="/images/a5/d1450d-9a0c-4783-8229-e192633601fd/2023-03-09-11-26-02-IMG-5383@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Brut Les Prémices (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">
+    <img class="flex-bottle" src="/images/f0/ca7444-7d73-4df6-a42b-9368a4f9f32e/2021-12-27-18-35-57-8A00A13D-100B-469D-A773-A350D24F31C5-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Brut Grand Cru (d2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f6970285-56be-4249-bd4e-e10357691111.html">
+    <img class="flex-bottle" src="/images/f6/970285-56be-4249-bd4e-e10357691111/2021-07-22-09-31-40-8F106BFF-1324-494F-BDC9-8CBCF0318FB6-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Brut Les Prémices (d2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
+    <img class="flex-bottle" src="/images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c@512.webp"></img>
+    <section class="h">Larmandier-Bernier</section>
+    <section class="h text-bolder">Cramant Nature Grand Cru - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b73fa916-48c3-4be6-a38f-8ae212d7fff6.html">
+    <img class="flex-bottle" src="/images/b7/3fa916-48c3-4be6-a38f-8ae212d7fff6/2023-04-06-12-16-20-7B554311-7DF4-4E8C-B698-798550877CFD-1-105-c@512.webp"></img>
+    <section class="h">Marie-Courtin</section>
+    <section class="h text-bolder">Concordance Blanc de Noirs Extra Brut - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+    <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
+  </a>
+
+</div>
+#+end_export

@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 5
 - Price :: 467 UAH, 437 UAH, 531 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -17,20 +17,61 @@
 
 Unexpectedly nice. Aye, it's a tropical bomb, but with a nice bouquet of fennel, citrus, mango, passion fruit, and (typical) black currant leaves. Round with fresh mouthfeel and flavours of fennel and menthol.
 
+*** 2023-04-04 - ☆ 7.50
+
+It was a blind tasting from black glasses. I wanted to have something everyone would easily guess. New Zealand to the rescue! Unfortunately, only one person was confident enough to call this wine out. And it's funny because all the correct descriptors were named, they were flying in the air, and yet...
+A tropical bomb. Gooseberry, black currant leaves, fennel, citrus, mango and passion fruit. Round, fresh and delicious. But after several more serious wines, this one was an outcast for me.
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/8939a9d3-fd08-428c-a127-5825d205f4f9.html">
+  <a class="flex-item flex-item-left" href="/wines/5288d4c7-99a8-4cb7-bfbc-0d24b001dffc.html">
+    <img class="flex-bottle" src="/images/52/88d4c7-99a8-4cb7-bfbc-0d24b001dffc/2023-04-01-09-49-53-37F22836-2A2C-4800-B34C-AC56EAE3EE92-1-102-o@512.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosato - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8939a9d3-fd08-428c-a127-5825d205f4f9.html">
     <img class="flex-bottle" src="/images/89/39a9d3-fd08-428c-a127-5825d205f4f9/2022-12-18-14-34-53-IMG-3879@512.webp"></img>
     <section class="h">Bodegas la Eralta</section>
     <section class="h text-bolder">Hacienda El Olmo Blanco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60.html">
+    <img class="flex-bottle" src="/images/90/439d2b-d7b6-454d-9cb2-4ca980207b60/2023-03-29-19-27-37-B573B12D-A133-4A83-BCDE-93A76C502A33-1-105-c@512.webp"></img>
+    <section class="h">René-Jean Dard et François Ribo</section>
+    <section class="h text-bolder">Crozes-Hermitage Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a4ac2588-8257-4add-af94-520a41aa8702.html">
+    <img class="flex-bottle" src="/images/a4/ac2588-8257-4add-af94-520a41aa8702/2023-01-10-07-16-43-A08A8A8D-54E7-4A97-BEB4-DEB54A600265-1-105-c@512.webp"></img>
+    <section class="h">Jorge Ordoñez</section>
+    <section class="h text-bolder">№2 Victoria - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <img class="flex-bottle" src="/images/b5/f2078a-01a2-4134-958c-d8ff543a7945/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/e66a71fd-38dc-4b3f-83df-07ae3dbb0566.html">
     <img class="flex-bottle" src="/images/e6/6a71fd-38dc-4b3f-83df-07ae3dbb0566/2022-12-18-14-37-12-IMG-3881@512.webp"></img>
     <section class="h">Chartron et Trébuchet</section>
     <section class="h text-bolder">Bourgogne Chardonnay - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/edaf36b4-74ae-4bb0-8724-514037582de0.html">
+    <img class="flex-bottle" src="/images/ed/af36b4-74ae-4bb0-8724-514037582de0/2023-01-24-07-06-47-IMG-4550@512.webp"></img>
+    <section class="h">Enderle&Moll</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f617f9f0-8472-4f81-b334-aff85c2ae294.html">
+    <img class="flex-bottle" src="/images/f6/17f9f0-8472-4f81-b334-aff85c2ae294/2023-02-20-22-18-25-IMG-5099@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Ace of Spades Les Myrs - 2021</section>
   </a>
 
 </div>

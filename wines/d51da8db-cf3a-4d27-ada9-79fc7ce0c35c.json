@@ -1,0 +1,34 @@
+{
+  "id": "d51da8db-cf3a-4d27-ada9-79fc7ce0c35c",
+  "name": "Rosso di Montalcino",
+  "full-name": "Il Paradiso di Manfredi Rosso di Montalcino 2019",
+  "producer": {
+    "id": "971605cb-3bf2-4d6b-b4ba-8d55680247bc",
+    "name": "Il Paradiso di Manfredi"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "13.6",
+  "sugar": "0.1",
+  "prices": [
+    "1290 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d5/1da8db-cf3a-4d27-ada9-79fc7ce0c35c/2023-04-07-20-39-14-14F384C5-9DAD-4509-AA49-EF91D2954420-1-105-c.webp",
+  "rating": "NA"
+}

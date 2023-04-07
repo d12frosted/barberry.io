@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b7/3fa916-48c3-4be6-a38f-8ae212d7fff6/2023-04-06-12-16-20-7B554311-7DF4-4E8C-B698-798550877CFD-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/66983a8f-a2b6-4b1b-8f1e-b94aa67d5261][Marie-Courtin]]
+- Vintage :: 2015
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: 4
+- Price :: 2924 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-04-06 - ☆ 8.00
+
+Expressive and intense bouquet. Not complex yet has things to offer - honey, nectarine, lychee, yellow apple, and chalk. Vinous mouthfeel. Good acidity and volume. The aftertaste is long. Initially in bursts with baked apples and Jerez notes, but this flavourful quickly fades, leaving a long chalk trail.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0c1744e9-e97f-4c24-aded-297783193553.html">
+    <img class="flex-bottle" src="/images/0c/1744e9-e97f-4c24-aded-297783193553/2023-04-06-16-00-04-74DAEC57-4EE6-4F3B-A593-5FB172F497AA-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Coteaux Champenois Cuvée des Grands Côtés Vielles Vignes Grand Cru Ambonnay Rouge - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
+    <img class="flex-bottle" src="/images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c@512.webp"></img>
+    <section class="h">Larmandier-Bernier</section>
+    <section class="h text-bolder">Cramant Nature Grand Cru - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+    <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
+  </a>
+
+</div>
+#+end_export

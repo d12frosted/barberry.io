@@ -22,5 +22,11 @@ Egly-Ouriet produces Champagne primarily from Grand Cru village of Ambonnay loca
     <section class="h text-bolder">Brut Les Prémices (d2021) - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/0c1744e9-e97f-4c24-aded-297783193553.html">
+    <img class="flex-bottle" src="/images/0c/1744e9-e97f-4c24-aded-297783193553/2023-04-06-16-00-04-74DAEC57-4EE6-4F3B-A593-5FB172F497AA-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">Coteaux Champenois Cuvée des Grands Côtés Vielles Vignes Grand Cru Ambonnay Rouge - 2018</section>
+  </a>
+
 </div>
 #+end_export

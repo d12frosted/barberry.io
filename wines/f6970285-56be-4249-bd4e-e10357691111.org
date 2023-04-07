@@ -29,13 +29,19 @@ Liquid gold. Expressive bouquet of red baked apples, 'golden key' cake, white st
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/a5d1450d-9a0c-4783-8229-e192633601fd.html">
+  <a class="flex-item flex-item-left" href="/wines/0c1744e9-e97f-4c24-aded-297783193553.html">
+    <img class="flex-bottle" src="/images/0c/1744e9-e97f-4c24-aded-297783193553/2023-04-06-16-00-04-74DAEC57-4EE6-4F3B-A593-5FB172F497AA-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Coteaux Champenois Cuvée des Grands Côtés Vielles Vignes Grand Cru Ambonnay Rouge - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a5d1450d-9a0c-4783-8229-e192633601fd.html">
     <img class="flex-bottle" src="/images/a5/d1450d-9a0c-4783-8229-e192633601fd/2023-03-09-11-26-02-IMG-5383@512.webp"></img>
     <section class="h">Egly-Ouriet</section>
     <section class="h text-bolder">Brut Les Prémices (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">
+  <a class="flex-item flex-item-left" href="/wines/f0ca7444-7d73-4df6-a42b-9368a4f9f32e.html">
     <img class="flex-bottle" src="/images/f0/ca7444-7d73-4df6-a42b-9368a4f9f32e/2021-12-27-18-35-57-8A00A13D-100B-469D-A773-A350D24F31C5-1-105-c@512.webp"></img>
     <section class="h">Egly-Ouriet</section>
     <section class="h text-bolder">Brut Grand Cru (d2020) - NV</section>

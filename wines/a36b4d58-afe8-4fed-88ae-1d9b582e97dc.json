@@ -1,0 +1,35 @@
+{
+  "id": "a36b4d58-afe8-4fed-88ae-1d9b582e97dc",
+  "name": "Tattouine Rouge",
+  "full-name": "Matassa Tattouine Rouge 2019",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c6e1fd3f-d02f-4700-8156-0f81ffd71b89",
+      "name": "Garnacha Roja"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "1195 UAH",
+    "1358 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a3/6b4d58-afe8-4fed-88ae-1d9b582e97dc/2023-04-07-10-50-19-FCD3F887-17B1-4F05-8CD3-C3D39D129502-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
+    <img class="flex-bottle" src="/images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Cramant Nature Grand Cru - 2017</section>
+  </a>
+
+</div>
+#+end_export

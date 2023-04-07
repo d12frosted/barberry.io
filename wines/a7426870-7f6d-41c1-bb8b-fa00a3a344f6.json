@@ -1,0 +1,35 @@
+{
+  "id": "a7426870-7f6d-41c1-bb8b-fa00a3a344f6",
+  "name": "La Pépée",
+  "full-name": "Les Bottes Rouges La Pépée 2018",
+  "producer": {
+    "id": "ff12da2b-6418-4827-b680-d48bc77709b6",
+    "name": "Les Bottes Rouges"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1",
+  "prices": [
+    "1452 UAH",
+    "1650 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a7/426870-7f6d-41c1-bb8b-fa00a3a344f6/2023-04-07-15-54-44-824E7E2A-8550-4804-AF36-8C18AEC60B6A-1-105-c.webp",
+  "rating": "NA"
+}

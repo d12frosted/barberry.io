@@ -1,10 +1,10 @@
 {
   "id": "104d5107-e706-46fb-9980-dfeb1a4dacce",
-  "name": "Mersault Village",
-  "full-name": "Colin-Morey Pierre-Yves Meursault Village 2020",
+  "name": "Meursault Village",
+  "full-name": "Pierre-Yves Colin-Morey Meursault Village 2020",
   "producer": {
     "id": "70b5a0f1-e020-4074-99a7-cc93c1e7cf99",
-    "name": "Colin-Morey Pierre-Yves"
+    "name": "Pierre-Yves Colin-Morey"
   },
   "vintage": "2020",
   "base-vintage": null,
@@ -26,10 +26,10 @@
   "alcohol": "13.5",
   "sugar": "1",
   "prices": [
-    "2352 UAH",
+    "2350 UAH",
     "3500 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/10/4d5107-e706-46fb-9980-dfeb1a4dacce/2023-04-07-20-22-10-39E1987A-CBB4-4B2F-B504-DA8ECFCECB52-1-105-c.webp",
   "rating": "NA"
 }

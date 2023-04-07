@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b73fa916-48c3-4be6-a38f-8ae212d7fff6.html">
+    <img class="flex-bottle" src="/images/b7/3fa916-48c3-4be6-a38f-8ae212d7fff6/2023-04-06-12-16-20-7B554311-7DF4-4E8C-B698-798550877CFD-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Concordance Blanc de Noirs Extra Brut - 2015</section>
+  </a>
+
+</div>
+#+end_export

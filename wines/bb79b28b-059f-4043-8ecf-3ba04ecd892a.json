@@ -1,0 +1,43 @@
+{
+  "id": "bb79b28b-059f-4043-8ecf-3ba04ecd892a",
+  "name": "Comme Autrefois",
+  "full-name": "Francoise Bedel Comme Autrefois 2005",
+  "producer": {
+    "id": "95f34fc8-044c-453a-bca7-62e7128ff998",
+    "name": "Francoise Bedel"
+  },
+  "vintage": "2005",
+  "base-vintage": null,
+  "degorgee": "January 2021",
+  "sur-lie": "168 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "3813 UAH",
+    "4100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bb/79b28b-059f-4043-8ecf-3ba04ecd892a/2023-04-07-20-29-04-488FD3E3-7AD8-475B-A4C1-C5A4B3BE378B-1-105-c.webp",
+  "rating": "NA"
+}

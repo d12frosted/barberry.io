@@ -9,7 +9,7 @@
 - Alcohol :: 10.5
 - Sugar :: 186
 - Price :: 650 UAH, 664 UAH, 699 UAH, 759 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 №2 Victoria is 100% Muscat of Alexandria. The oldest variety in the Muscat family and one of the few remaining genetically unmodified Vitis vinifera cultivars remaining in the world today. The Phoenicians transplanted this grape from Alexandria (Egypt) to Málaga (Spain) approximately 2,800 years ago.
 
@@ -25,14 +25,56 @@ Fun fact. 4.5 kg of grapes are required to create just one bottle (375 ml). What
 
 Neat sweet wine. An attractive bouquet of candied fruits, lemon, white flowers, mould, sea and pine nuts. Surprisingly good acidity for a wine with 186 g/L of residual sugar. It also has a low alcohol level (10 abv). It's well-structured and has a long aftertaste with flavours of citrus, pine nuts and blue cheese. A liquid dessert we all deserve.
 
+*** 2023-04-04 - ☆ 8.50
+
+Every fine evening should end with a delicious sweet wine paired with lemon tart. At least in my book. So here we are!
+
+The acidity level still surprises me. Combined with a low alcohol level and a charming bouquet, it makes a beautiful sweet Málaga. Candied fruits, lemon, white flowers, mould, blue cheese, sea and pine nuts. Sophisticated and almost perfectly balanced. Happy me!
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/a6d4180f-77c0-4348-b963-b7af0feeb1df.html">
+  <a class="flex-item flex-item-left" href="/wines/5288d4c7-99a8-4cb7-bfbc-0d24b001dffc.html">
+    <img class="flex-bottle" src="/images/52/88d4c7-99a8-4cb7-bfbc-0d24b001dffc/2023-04-01-09-49-53-37F22836-2A2C-4800-B34C-AC56EAE3EE92-1-102-o@512.webp"></img>
+    <section class="h">Tenuta delle Terre Nere</section>
+    <section class="h text-bolder">Etna Rosato - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/666b87bb-6a15-437c-b269-e0100141b614.html">
+    <img class="flex-bottle" src="/images/66/6b87bb-6a15-437c-b269-e0100141b614/2022-10-13-14-59-36-IMG-2733@512.webp"></img>
+    <section class="h">Wild Rock</section>
+    <section class="h text-bolder">Sauvignon Blanc - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60.html">
+    <img class="flex-bottle" src="/images/90/439d2b-d7b6-454d-9cb2-4ca980207b60/2023-03-29-19-27-37-B573B12D-A133-4A83-BCDE-93A76C502A33-1-105-c@512.webp"></img>
+    <section class="h">René-Jean Dard et François Ribo</section>
+    <section class="h text-bolder">Crozes-Hermitage Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a6d4180f-77c0-4348-b963-b7af0feeb1df.html">
     <img class="flex-bottle" src="/images/a6/d4180f-77c0-4348-b963-b7af0feeb1df/2022-12-18-14-41-03-IMG-3885@512.webp"></img>
     <section class="h">Gérard Bertrand</section>
     <section class="h text-bolder">Cote des Roses Sauvignon Blanc - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b5f2078a-01a2-4134-958c-d8ff543a7945.html">
+    <img class="flex-bottle" src="/images/b5/f2078a-01a2-4134-958c-d8ff543a7945/2021-12-17-15-42-32-47956D3D-E5F9-4B53-90E2-2B96EF079476-1-105-c@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Give up the Ghost - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/edaf36b4-74ae-4bb0-8724-514037582de0.html">
+    <img class="flex-bottle" src="/images/ed/af36b4-74ae-4bb0-8724-514037582de0/2023-01-24-07-06-47-IMG-4550@512.webp"></img>
+    <section class="h">Enderle&Moll</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f617f9f0-8472-4f81-b334-aff85c2ae294.html">
+    <img class="flex-bottle" src="/images/f6/17f9f0-8472-4f81-b334-aff85c2ae294/2023-02-20-22-18-25-IMG-5099@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Ace of Spades Les Myrs - 2021</section>
   </a>
 
 </div>

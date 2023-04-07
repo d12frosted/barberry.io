@@ -1,0 +1,34 @@
+{
+  "id": "69e57681-c051-46b4-8b10-2ae22c7bfaaf",
+  "name": "Cramant Nature Grand Cru",
+  "full-name": "Larmandier-Bernier Cramant Nature Grand Cru 2017",
+  "producer": {
+    "id": "a2bd896f-5875-4448-9a68-4c58c3a3240a",
+    "name": "Larmandier-Bernier"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "3700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c.webp",
+  "rating": "7.0"
+}

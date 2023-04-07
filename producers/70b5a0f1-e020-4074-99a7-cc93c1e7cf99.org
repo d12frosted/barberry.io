@@ -3,9 +3,9 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/104d5107-e706-46fb-9980-dfeb1a4dacce.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/10/4d5107-e706-46fb-9980-dfeb1a4dacce/2023-04-07-20-22-10-39E1987A-CBB4-4B2F-B504-DA8ECFCECB52-1-105-c@512.webp"></img>
     <section class="h">★ -</section>
-    <section class="h text-bolder">Mersault Village - 2020</section>
+    <section class="h text-bolder">Meursault Village - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/88c63945-bcf3-4ad7-8208-2178cc5e12ce.html">
@@ -21,13 +21,13 @@
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/d85e8c99-c857-4754-bda0-5640e29e96be.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/d8/5e8c99-c857-4754-bda0-5640e29e96be/2023-04-07-20-25-21-342FDA56-ED9C-4026-A91D-035CB863C78A-1-105-c@512.webp"></img>
     <section class="h">★ -</section>
-    <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniere - 2020</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniére - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/f1/6dab18-1a1f-4883-a6cb-9c9f9b047987/2023-04-07-20-25-58-837A1441-76CC-41B6-81BB-0BF9ED692949-1-105-c@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Saint-Aubin Premier Cru Les Champlots - 2020</section>
   </a>

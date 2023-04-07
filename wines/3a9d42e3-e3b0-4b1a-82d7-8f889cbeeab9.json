@@ -1,0 +1,34 @@
+{
+  "id": "3a9d42e3-e3b0-4b1a-82d7-8f889cbeeab9",
+  "name": "Rot-Murlé Riesling Macération Pur Vín",
+  "full-name": "Pierre Frick Rot-Murlé Riesling Macération Pur Vín 2019",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.2",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/3a/9d42e3-e3b0-4b1a-82d7-8f889cbeeab9/2023-04-05-21-17-38-D01C27D5-0D54-41EF-B5C8-7350062DCE6E-1-105-c.webp",
+  "rating": "7.5"
+}
