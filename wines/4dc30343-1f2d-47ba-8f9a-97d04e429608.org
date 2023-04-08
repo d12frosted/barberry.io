@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: NA
 - Price :: 926 UAH, 908 UAH, 1053 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -27,6 +27,10 @@ It is worth mentioning that the naked ass on the label has a meaning. A meaning 
 Wine #1 on [[barberry:/posts/2023-02-28-double-trouble][Double trouble]].
 
 Tasting together with 2017 and 2015. The youngest vintage is fresh, mineral and detailed. Green apple, quince, apple blossoms and shells. The marine notes reveal themselves more on the palate. Precise, fresh and well-balanced. Great acidity. Incredible value.
+
+*** 2023-04-07 - ☆ 8.50
+
+Gulfi makes a wonderful Carricante that can easily outperform many Etna wines. It is fresh, mineral and nuanced. Green apple, white flowers and shells. Mineral and fresh mouthfeel. Precise and almost perfectly balanced.
 
 ** Related
 
@@ -116,10 +120,22 @@ Tasting together with 2017 and 2015. The youngest vintage is fresh, mineral and 
     <section class="h text-bolder">Catavela - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
+  <a class="flex-item flex-item-left" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
+    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Bastarda - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/767a24b9-3ae4-4ea9-9955-a4c7157e6afe.html">
     <img class="flex-bottle" src="/images/76/7a24b9-3ae4-4ea9-9955-a4c7157e6afe/2022-09-02-09-28-53-75CCCB59-15DD-4A30-8E91-BF6E2DF1CE7E-1-105-c@512.webp"></img>
     <section class="h">Cantina Alchemica</section>
     <section class="h text-bolder">M Rosso - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9b216ee2-9add-4347-a228-fdc83f582539.html">
+    <img class="flex-bottle" src="/images/9b/216ee2-9add-4347-a228-fdc83f582539/2023-01-10-07-16-08-B78FE61C-57B9-473D-AA8B-F6C01B8A604F-1-105-c@512.webp"></img>
+    <section class="h">Domaine Gérard Seguin</section>
+    <section class="h text-bolder">Bourgogne Cuvée Gérard - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ab4efba9-201e-4489-b2db-43a6f7863585.html">
@@ -128,7 +144,13 @@ Tasting together with 2017 and 2015. The youngest vintage is fresh, mineral and 
     <section class="h text-bolder">La Vizcaína La Del Vivo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c.html">
+  <a class="flex-item flex-item-left" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
+    <img class="flex-bottle" src="/images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c@512.webp"></img>
+    <section class="h">Ca' di Mat</section>
+    <section class="h text-bolder">Fuente de los Huertos - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e4e90e65-228d-4605-a0f5-bf9681aa278c.html">
     <img class="flex-bottle" src="/images/e4/e90e65-228d-4605-a0f5-bf9681aa278c/2022-11-23-14-38-35-IMG-3337@512.webp"></img>
     <section class="h">Raúl Pérez</section>
     <section class="h text-bolder">La Vizcaína La Del Vivo - 2015</section>

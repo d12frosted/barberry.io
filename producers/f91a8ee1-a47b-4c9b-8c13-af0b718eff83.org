@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cc47c97d-f578-4008-9079-fb74834ede1d.html">
+    <img class="flex-bottle" src="/images/cc/47c97d-f578-4008-9079-fb74834ede1d/2023-04-08-08-33-02-451D0942-0946-40FE-8D6E-BD9A685B55E7-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Campoleone - 1997</section>
+  </a>
+
+</div>
+#+end_export

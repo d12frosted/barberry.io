@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 1
 - Price :: 1035 UAH, 1090 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -20,6 +20,10 @@ Hard to guess the age here. Only to think that it is 7 years old already! A typi
 *** 2023-02-08 - ☆ 8.00
 
 Delicious Bourgogne in good shape. A charming bouquet of dried cherries, peonies and raw meat. Almost perfectly balanced, round and vivid. Good fruit, good acidity and tannin. A wine you open to enjoy till the last drop. Not overly complicated, just delicious to drink.
+
+*** 2023-04-07 - ☆ 8.00
+
+Delicious and convincingly masculine doorway in Bourgogne. A charming bouquet of dried cherries, wet leaves, raw meat and peonies. Almost perfectly balanced, round and vivid. Good fruit, good acidity and tannin. It's not simple yet approachable.
 
 ** Related
 
@@ -37,13 +41,31 @@ Delicious Bourgogne in good shape. A charming bouquet of dried cherries, peonies
     <section class="h text-bolder">Gevrey-Chambertin 1er Cru Craipillot - 2015</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2.html">
+    <img class="flex-bottle" src="/images/07/07cf77-b985-4c7e-ab45-0286fd86bff2/2022-08-29-17-25-56-E7AF9AD7-62F3-41C7-A08E-0544AA6EFFC7-1-105-c@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Bastarda - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608.html">
+    <img class="flex-bottle" src="/images/4d/c30343-1f2d-47ba-8f9a-97d04e429608/2022-11-25-16-45-49-IMG-3377@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Carjcanti - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/91a0a4f3-23de-439d-acdf-4d84fcd3dcb4.html">
     <img class="flex-bottle" src="/images/91/a0a4f3-23de-439d-acdf-4d84fcd3dcb4/2023-01-05-08-28-01-3ECFD4A6-BEED-48A5-A275-A581830913B3-1-105-c@512.webp"></img>
     <section class="h">J.M Dreyer</section>
     <section class="h text-bolder">Elios Pinot Noir - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/da4b9699-fa88-4058-a013-214e9e2f5cc5.html">
+  <a class="flex-item flex-item-right" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
+    <img class="flex-bottle" src="/images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c@512.webp"></img>
+    <section class="h">Ca' di Mat</section>
+    <section class="h text-bolder">Fuente de los Huertos - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/da4b9699-fa88-4058-a013-214e9e2f5cc5.html">
     <img class="flex-bottle" src="/images/da/4b9699-fa88-4058-a013-214e9e2f5cc5/2023-01-16-16-19-52-IMG-4338@512.webp"></img>
     <section class="h">Peixes</section>
     <section class="h text-bolder">Eixe - 2019</section>

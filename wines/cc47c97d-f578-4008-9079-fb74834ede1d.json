@@ -1,0 +1,38 @@
+{
+  "id": "cc47c97d-f578-4008-9079-fb74834ede1d",
+  "name": "Campoleone",
+  "full-name": "Lamborghini Campoleone 1997",
+  "producer": {
+    "id": "f91a8ee1-a47b-4c9b-8c13-af0b718eff83",
+    "name": "Lamborghini"
+  },
+  "vintage": "1997",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "6300 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/cc/47c97d-f578-4008-9079-fb74834ede1d/2023-04-08-08-33-02-451D0942-0946-40FE-8D6E-BD9A685B55E7-1-105-c.webp",
+  "rating": "8.0"
+}
