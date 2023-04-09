@@ -73,6 +73,24 @@ Domaine Pinson farmed in Chablis since 1640. In 1940 they became one of the firs
 
 Domaine Pinson Chablis 2020 comes from two parcels in the heart of Chablis: one half from just below 1er Cru Mont de Milieu and another half from between 1er Cru Vaillons and 1er Cru Montmain. We are talking about 40+ years old Chardonnay vines growing on classic Kimmeridgian soil. Hand-harvested grapes. The wine spontaneously ferments and ages in stainless steel.
 
+* Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020
+:PROPERTIES:
+:ID:                     10d6cb5b-cc9e-452e-859b-07198124e2d3
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-11-mixed-bag/2023-04-07-20-25-58-837A1441-76CC-41B6-81BB-0BF9ED692949-1-105-c.webp]]
+
+- producer: [[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Pierre-Yves Colin-Morey]]
+- name: [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Saint-Aubin Premier Cru Les Champlots]]
+- vintage: 2020
+- grapes: Chardonnay
+- appellation: Saint-Aubin AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 1
+- price: 3033 UAH
+
 * Sous Le Végétal Hüpnos 2019
 :PROPERTIES:
 :ID:                     13966e46-03d8-4914-a1d3-e4ba45e71fa3
@@ -108,6 +126,24 @@ Domaine Pinson Chablis 2020 comes from two parcels in the heart of Chablis: one 
 - alcohol: 12.5
 - sugar: 0.6
 - price: 1946 UAH
+
+* Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019
+:PROPERTIES:
+:ID:                     4060df82-a183-4819-973d-9166a6313774
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-11-mixed-bag/2023-04-07-20-34-39-E9C1E94E-0867-491E-A30A-91E0D24A350F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/55f2f20d-fd2e-4381-9848-8c6547056b7c][Clos Cibonne]]
+- name: [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Cuvée Prestige Olivier Cru Classé]]
+- vintage: 2019
+- grapes: Syrah, Grenache, Tibouren
+- appellation: Côtes de Provence AOC
+- location: Provence, France
+- alcohol: 15
+- sugar: 1
+- price: 1576 UAH (newest vintage)
 
 * Haras de Pirque Galantas Gran Reserva 2018
 :PROPERTIES:

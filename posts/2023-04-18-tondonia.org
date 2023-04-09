@@ -8,6 +8,132 @@ Wines:
 6. [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][R. López de Heredia Viña Tondonia Blanco Reserva 2011]]
 7. [[barberry:/wines/a3ce9c93-1782-4588-b9b6-0f9082089018][R. López de Heredia Viña Tondonia Rosé Gran Reserva 2012]]
 
+* R. López de Heredia Cubillo Crianza 2014
+:PROPERTIES:
+:ID:                     a8b8cadf-c905-4fbc-90ab-7791a60b5959
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2022-09-17-20-56-12-IMG-2237.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32][Cubillo Crianza]]
+- vintage: 2014
+- grapes: Tempranillo, Grenache, Tintilia, Graciano
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 13.5
+- sugar: N/A
+- price: 727 UAH
+
+* R. López de Heredia Bosconia Reserva 2011
+:PROPERTIES:
+:ID:                     c24e058e-afcd-4ee8-a13c-de517993cc62
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2022-09-17-20-55-09-IMG-2229.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/3fb511fa-b0d8-45e4-b873-bd1edd50a543][Bosconia Reserva]]
+- vintage: 2011
+- grapes: Tempranillo, Grenache, Tintilia, Graciano
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 13.5
+- sugar: N/A
+- price: 1180 UAH
+
+* R. López de Heredia Viña Tondonia Tinto Reserva 2010
+:PROPERTIES:
+:ID:                     098b12a8-1953-437f-a238-43a37d79c868
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2022-11-19-09-54-17-C0A8C98B-7FD6-4B57-A627-F861774DAFB2-1-105-c.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/7c02f810-b722-492d-a23e-40c1c1ef41f4][Viña Tondonia Tinto Reserva]]
+- vintage: 2010
+- grapes: Tempranillo, Graciano, Tintilia, Grenache
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 13
+- sugar: 2.5
+- price: 1510 UAH
+
+* R. López de Heredia Viña Tondonia Tinto Gran Reserva 2001
+:PROPERTIES:
+:ID:                     b427ac7b-a4fc-4082-b511-4ce72e93fd7f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2023-02-08-12-18-36-IMG-4835.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/45e8e973-f58a-4fb8-8a72-5230efba1cb6][Viña Tondonia Tinto Gran Reserva]]
+- vintage: 2001
+- grapes: Tempranillo, Grenache, Graciano, Tintilia
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 13
+- sugar: 2.5
+- price: 4600 UAH
+
+* R. López de Heredia Viña Gravonia Blanco Crianza 2014
+:PROPERTIES:
+:ID:                     51eb73f4-4eab-4c6a-8c67-56792c527fe4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2022-11-05-11-56-30-photo-2022-11-05 11.56.13.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/1a2df79b-c2e6-4bbd-b4fe-013b511fa05d][Viña Gravonia Blanco Crianza]]
+- vintage: 2014
+- grapes: Macabeo
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 12.5
+- sugar: 2.5
+- price: 1250 UAH
+
+* R. López de Heredia Viña Tondonia Blanco Reserva 2011
+:PROPERTIES:
+:ID:                     81626d6f-3216-46da-9326-bd77f99ad6f1
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2023-02-08-12-16-52-IMG-4831.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/ca7b2b58-fb6d-4110-84f0-aa8b6c7ed3dc][Viña Tondonia Blanco Reserva]]
+- vintage: 2011
+- grapes: Macabeo, Malvasia di Candia Aromatica
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 12.5
+- sugar: N/A
+- price: 2010 UAH
+
+* R. López de Heredia Viña Tondonia Rosé Gran Reserva 2012
+:PROPERTIES:
+:ID:                     e81d3f0b-d832-4517-9412-a397b8d50500
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-04-18-tondonia/2023-02-08-12-15-53-IMG-4829.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/a3ce9c93-1782-4588-b9b6-0f9082089018][Viña Tondonia Rosé Gran Reserva]]
+- vintage: 2012
+- grapes: Tempranillo, Grenache, Macabeo
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 12.5
+- sugar: 2.5
+- price: 2010 UAH
+
 * Scores
 :PROPERTIES:
 :ID:                     1fcc477c-32a7-461b-86d8-363a0027b46d
