@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-02-02-07-16-40-IMG-4695@512.webp]]
+[[file:/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-04-08-19-18-19-D64CCE8B-3E4B-4F67-9C21-A45B9FAE4F6F-1-105-c@512.webp]]
 
 - Type :: Rose Sparkling, Brut
 - Producer :: [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]
@@ -10,7 +10,7 @@
 - Grapes :: Pinot Noir, Saint-Laurent, Zweigelt
 - Alcohol :: 11.5
 - Sugar :: NA
-- Price :: 1293 UAH
+- Price :: 1550 UAH, 1293 UAH
 - Cellar :: N/A
 
 ** Ratings
@@ -22,6 +22,10 @@ Lovely traditional rosé sparkling. Definitely can give a head start to many ros
 *** 2023-02-20 - ☆ 8.00
 
 I consistently enjoy every bottle of this wine. Not that easy to find such a good rosé sparkling at an affordable price. Red currant, pomegranate, and red apple pie (yeasty-yeasty yeast). Sharp, delicate and simply delicious.
+
+*** 2023-04-08 - ☆ 8.00
+
+Nothing new about this wine. Such a lovely drink that I decided to start the weekend with a few bottles of this easy beauty. Red currant, pomegranate, and Chaussons aux Pommes. Sharp and delicate.
 
 ** Related
 
@@ -75,13 +79,19 @@ I consistently enjoy every bottle of this wine. Not that easy to find such a goo
     <section class="h text-bolder">Saint-Pierre - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca.html">
+  <a class="flex-item flex-item-left" href="/wines/c10c218e-6358-4d6b-a09e-8c8a7131ecc7.html">
+    <img class="flex-bottle" src="/images/c1/0c218e-6358-4d6b-a09e-8c8a7131ecc7/2023-01-10-07-03-41-490B2539-9E40-40F7-B882-8CAB12DD538E-1-102-o@512.webp"></img>
+    <section class="h">Tarlant</section>
+    <section class="h text-bolder">Prestige Millésime la Lutétienne - 2005</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca.html">
     <img class="flex-bottle" src="/images/f0/d79447-307b-4b8f-af51-79bfb9aa6fca/2023-02-21-07-12-55-E4AA6046-C491-473E-8C53-CF8097D8CBBB-1-105-c@512.webp"></img>
     <section class="h">Lamiable</section>
     <section class="h text-bolder">Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6.html">
+  <a class="flex-item flex-item-left" href="/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6.html">
     <img class="flex-bottle" src="/images/fa/8be8c9-7ba9-489b-bb4f-09401d3c6bd6/2023-01-16-16-14-21-IMG-4327@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Olla Blanc - 2021</section>
