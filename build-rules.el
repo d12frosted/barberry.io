@@ -521,7 +521,9 @@ Access to full ITEMS for related wines."
                                     #'string>))))
     (with-current-buffer (find-file-noselect (porg-item-target-abs item))
       (delete-region (point-min) (point-max))
-      (insert "Hello, fellow convive! This page contains a list of wines we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+      (insert "Hello, fellow convive! This page contains a list of wines ("
+              (number-to-string (seq-length wines))
+              " total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.\n\n")
       (if wines
