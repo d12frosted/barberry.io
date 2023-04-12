@@ -1,12 +1,17 @@
-Wines:
+#+caption: Photo by Elvira Kantiieva
+[[file:/images/2023-04-11-mixed-bag/2023-04-12-08-00-20-photo-2023-04-12 07.57.28.webp]]
 
-1. [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
-2. [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
-3. [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020]]
-4. [[barberry:/wines/026717f4-446c-4982-9dce-66031fcf6294][Sous Le Végétal Hüpnos 2019]]
-5. [[barberry:/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0][Foradori Morei Teroldego 2011]]
-6. [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
-7. [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
+The Mixed Bag is a splendid format for wine tastings. On the one hand, it gives me lots of space to adapt the lineup according to participants. On the other hand, no one knows what to expect. Without further ado, meet our protagonists (some turned out to be villains, hehe).
+
+1. [[barberry:/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42][Cascina Tavijn Monstro 2021]] (welcome drink)
+2. [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
+3. [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
+4. [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020]]
+5. [[barberry:/wines/026717f4-446c-4982-9dce-66031fcf6294][Sous Le Végétal Hüpnos 2019]]
+6. [[barberry:/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0][Foradori Morei Teroldego 2011]]
+7. [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
+8. [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
+9. [[barberry:/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f][J.M Dreyer Origin Riesling Macération 2021]] (farewell drink)
 
 * Matassa Olla Blanc 2021
 :PROPERTIES:
@@ -230,18 +235,30 @@ Galantas is produced from organic vineyards in the Maipo Andres Valley at 700 me
 :ID:                     531b74f8-851e-4ec7-ad08-1be19992c8ed
 :END:
 
+1. [[barberry:/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42][Cascina Tavijn Monstro 2021]] (welcome drink)
+2. [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
+3. [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
+4. [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020]]
+5. [[barberry:/wines/026717f4-446c-4982-9dce-66031fcf6294][Sous Le Végétal Hüpnos 2019]]
+6. [[barberry:/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0][Foradori Morei Teroldego 2011]]
+7. [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
+8. [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
+9. [[barberry:/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f][J.M Dreyer Origin Riesling Macération 2021]] (farewell drink)
+
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms      |   sdev | favourite | outcast |   price | QPR      |
-|---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  890.00 | *0.0000* |
-| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  997.00 | *0.0000* |
-| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 3033.00 | *0.0000* |
-| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 | *0.0000* |
-| Wine #5 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1946.00 | *0.0000* |
-| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1027.00 | *0.0000* |
-| Wine #7 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1576.00 | *0.0000* |
+|          |      rms |   sdev | favourite | outcast |   price |      QPR |
+|----------+----------+--------+-----------+---------+---------+----------|
+| Welcome  | *4.2631* | 0.0264 |      1.00 |    0.00 |  690.00 | *5.1834* |
+| Wine #1  |   4.1230 | 0.0181 |      1.00 |    0.00 |  890.00 |   3.2401 |
+| Wine #2  |   4.1476 | 0.0491 |    *4.00* |    0.00 |  997.00 |   2.9863 |
+| Wine #3  |   4.1308 | 0.0620 |    *4.00* |    2.00 | 3033.00 |   0.9544 |
+| Wine #4  |   3.8997 | 0.0951 |      0.00 |  +3.00+ | 1250.00 |   1.6230 |
+| Wine #5  |   4.1329 | 0.0652 |      1.00 |    1.00 | 1946.00 |   1.4913 |
+| Wine #6  |   4.1379 | 0.0719 |      1.00 |  +3.00+ | 1576.00 |   1.8533 |
+| Wine #7  |   3.9824 | 0.0585 |      0.00 |    1.00 | 1027.00 |   2.2507 |
+| Farewell |   4.0000 | 0.0000 |      0.00 |    0.00 |  866.00 |   2.0000 |
 
 How to read this table:
 
@@ -255,7 +272,18 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
+|             | Welcome | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Farewell |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------+----------|
+| Daria B     | -       |    4.10 |    4.20 |  *4.20* |    3.80 |    4.00 |  +3.80+ |    3.80 | -        |
+| Oleksadr R  | 4.20    |    3.90 |  *4.00* |    4.08 |    3.90 |  +3.60+ |    4.10 |    3.70 | -        |
+| Ivietta K   | -       |    4.00 |  *4.40* |    4.20 |    3.90 |    4.20 |    4.10 |    4.20 | -        |
+| Dmytro D    | -       |    4.20 |  *4.30* |    4.00 |  +3.70+ |    4.30 |    3.90 |    4.30 | -        |
+| Kateryna S  | 4.50    |    4.00 |  *4.50* |    4.30 |  +3.90+ |    4.30 |    4.50 |    4.30 | -        |
+| Anna K      | 4.30    |    4.15 |    3.60 |    3.90 |    3.75 |    4.50 |  *4.55* |    4.30 | -        |
+| Rostyslav Y | *4.30*  |    4.20 |    4.00 |  +3.80+ |    3.90 |    4.40 |    4.50 |    4.10 | -        |
+| Oksana R    | -       |  *4.40* |    4.20 |  +3.60+ |    4.40 |    4.10 |    4.00 |    3.80 | -        |
+| Dimitry G   | -       |    4.30 |    4.20 |  *4.50* |  +3.10+ |    3.70 |    4.30 |    3.70 | -        |
+| Yaroslav M  | -       |    4.10 |    4.10 |    4.20 |    4.30 |  *4.20* |  +4.00+ |    4.00 | -        |
+| Elvira K    | 4.00    |    4.10 |    4.20 |  *4.30* |    4.00 |    4.00 |  +3.70+ |    3.70 | -        |
+| Boris B     | -       |    4.00 |    4.00 |  *4.40* |    4.00 |    4.20 |    4.10 |  +3.80+ | 4.00     |
 
