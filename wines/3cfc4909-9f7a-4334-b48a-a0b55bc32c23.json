@@ -1,0 +1,34 @@
+{
+  "id": "3cfc4909-9f7a-4334-b48a-a0b55bc32c23",
+  "name": "Barbera del Monferrato il Monello",
+  "full-name": "Braida di Giacomo Bologna Barbera del Monferrato il Monello 2017",
+  "producer": {
+    "id": "16b62392-8a1e-4ea0-a34f-40098a42db47",
+    "name": "Braida di Giacomo Bologna"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "3832ed9c-a953-4ea0-a3bf-74428703279a",
+      "name": "Barbera"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.97",
+  "prices": [
+    "542 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3c/fc4909-9f7a-4334-b48a-a0b55bc32c23/2023-04-13-09-51-50-973466BF-8465-47DE-A788-C5688B138B61-1-105-c.webp",
+  "rating": "NA"
+}

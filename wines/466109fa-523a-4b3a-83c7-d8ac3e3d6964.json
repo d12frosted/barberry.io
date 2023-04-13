@@ -1,0 +1,34 @@
+{
+  "id": "466109fa-523a-4b3a-83c7-d8ac3e3d6964",
+  "name": "Gavi di Gavi Villa Brogliа",
+  "full-name": "Broglia Gavi di Gavi Villa Brogliа 2019",
+  "producer": {
+    "id": "ef3c040b-acf5-4108-a7ce-2eaf89b54298",
+    "name": "Broglia"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8fcdc5eb-9b69-40a0-8546-c53f01e3611e",
+      "name": "Cortese"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "679 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/46/6109fa-523a-4b3a-83c7-d8ac3e3d6964/2023-04-13-09-55-21-295796AC-8466-43B5-BD38-6313997DDCAB-1-105-c.webp",
+  "rating": "NA"
+}
