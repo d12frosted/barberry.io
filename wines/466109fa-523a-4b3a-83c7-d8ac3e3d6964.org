@@ -33,5 +33,11 @@ Good mineral Gavi. A mixture of fruits, almonds and white flowers. Fresh, focuse
     <section class="h text-bolder">Barolo Bussia - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/ea72c10d-e2f9-4821-b683-84e2880676e0.html">
+    <img class="flex-bottle" src="/images/ea/72c10d-e2f9-4821-b683-84e2880676e0/2023-04-13-20-39-45-IMG-6274@512.webp"></img>
+    <section class="h">Purcari</section>
+    <section class="h text-bolder">Sauvignon de Purcari - 2021</section>
+  </a>
+
 </div>
 #+end_export
