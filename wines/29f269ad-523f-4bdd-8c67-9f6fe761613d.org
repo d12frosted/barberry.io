@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 490 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -17,3 +17,25 @@
 
 Good traditional sparkling from Limoux. Baked apples, lemon tart, almond, and flowers. Not complex, pretty intense and tasty. QPR is great. Will definitely drink more.
 
+*** 2023-04-13 - ☆ 7.50
+
+One of my goodnight drinks. Lemon tart with meringue, almonds, white flowers and a delicate Jerez touch. Not complex yet pleasant traditional sparkling. I love the freshness and delicacy combined with the relative intensity of flavours.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5ec0f776-6f1c-498c-91a2-49113781200a.html">
+    <img class="flex-bottle" src="/images/5e/c0f776-6f1c-498c-91a2-49113781200a/2023-03-09-11-42-14-IMG-5410@512.webp"></img>
+    <section class="h">Celler Credo</section>
+    <section class="h text-bolder">Volaina - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8311bac9-a95a-4680-b011-589a569065b6.html">
+    <img class="flex-bottle" src="/images/83/11bac9-a95a-4680-b011-589a569065b6/2023-03-09-11-45-36-IMG-5422@512.webp"></img>
+    <section class="h">Patrice Beguet</section>
+    <section class="h text-bolder">Big Bunch Theory Fresh Impression Red - 2021</section>
+  </a>
+
+</div>
+#+end_export
