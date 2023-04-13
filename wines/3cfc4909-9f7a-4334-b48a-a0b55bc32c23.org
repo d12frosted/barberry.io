@@ -9,9 +9,29 @@
 - Alcohol :: 14
 - Sugar :: 0.97
 - Price :: 542 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-04-12 - ☆ 7.40
 
+Good basic Barbera. Intense, a bit rustic, and gastronomic. Dark cherry, chocolate, spices and a touch of the forest floor. Medium body, high acidity, and good grippy tannin. The aftertaste is a bit short. Flavours of chocolate, red apple and sour cherry.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/466109fa-523a-4b3a-83c7-d8ac3e3d6964.html">
+    <img class="flex-bottle" src="/images/46/6109fa-523a-4b3a-83c7-d8ac3e3d6964/2023-04-13-09-55-21-295796AC-8466-43B5-BD38-6313997DDCAB-1-105-c@512.webp"></img>
+    <section class="h">Broglia</section>
+    <section class="h text-bolder">Gavi di Gavi Villa Brogliа - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/df1c9477-99a9-4ed6-a05b-b895c73d215b.html">
+    <img class="flex-bottle" src="/images/df/1c9477-99a9-4ed6-a05b-b895c73d215b/2023-04-13-09-49-02-A9845864-DDE6-4A48-A903-83FE01AD60B9-1-105-c@512.webp"></img>
+    <section class="h">Giacomo Fenocchio</section>
+    <section class="h text-bolder">Barolo Bussia - 2016</section>
+  </a>
+
+</div>
+#+end_export

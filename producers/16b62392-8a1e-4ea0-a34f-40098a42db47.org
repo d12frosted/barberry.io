@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3cfc4909-9f7a-4334-b48a-a0b55bc32c23.html">
     <img class="flex-bottle" src="/images/3c/fc4909-9f7a-4334-b48a-a0b55bc32c23/2023-04-13-09-51-50-973466BF-8465-47DE-A788-C5688B138B61-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Barbera del Monferrato il Monello - 2017</section>
   </a>
 
