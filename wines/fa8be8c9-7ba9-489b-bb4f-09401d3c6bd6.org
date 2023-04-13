@@ -9,7 +9,7 @@
 - Alcohol :: 10
 - Sugar :: 0.4
 - Price :: 783 UAH, 890 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 Olla Blanc 2021 is a blend of Muscat Blanc à Petit Grains and Macabeu. Yes, the Good Wine label says it's a blend of Grenache and Macabeu, yet I believe it's a mistake, considering the production technology. The vines grow at 600 meters above sea level on limestone with a high iron content. After spontaneous fermentation, the wine ages on sur lie in 2,000l concrete vats. How long did it spend on skins? Different sources diverge. [[https://louisdressner.com/wines?wine=VDF%20Blanc%20%22Coume%20de%20l%27Olla%22&prod=Matassa][Some say]] it had a two-week whole-cluster maceration. [[https://www.differentdrop.com/products/2021-matassa-olla-blanc][Others state]] it was only one week. Unfortunately, there are no official technical sheets. So let's trust our senses.
 
@@ -32,6 +32,12 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
 *** 2023-02-01 - ☆ 8.00
 
 How come this wine is still freely available on the Good Wine shelves? Well, better for me as this orange blend of Macabeo and Grenache is delicious and fun to drink. Moderate funkiness, just enough to make it more interesting. Dried apples, kōcha kinoko, dried field flowers, and oranges from the floor with subtle yeasty touch. Medium body, fresh and flavourful.
+
+*** 2023-04-11 - ☆ 8.00
+
+Wine #1 on Mixed Bag Vol. 6.
+
+A delicious beauty. A wine to consume in huge quantities without any consequences. Dried apples, kōcha kinoko, dried field flowers, and oranges from the floor with subtle yeasty touch. Medium body, fresh and flavourful. Moderately funky. Quite sophisticated and well-balanced.
 
 ** Related
 
@@ -157,10 +163,28 @@ How come this wine is still freely available on the Good Wine shelves? Well, bet
     <section class="h text-bolder">Saint-Pierre - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
+  <a class="flex-item flex-item-left" href="/wines/4c766528-8c5d-4d33-83fb-270463090018.html">
+    <img class="flex-bottle" src="/images/4c/766528-8c5d-4d33-83fb-270463090018/2023-03-24-13-38-06-IMG-5687@512.webp"></img>
+    <section class="h">Domaine Pinson</section>
+    <section class="h text-bolder">Chablis - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
     <img class="flex-bottle" src="/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-04-08-19-18-19-D64CCE8B-3E4B-4F67-9C21-A45B9FAE4F6F-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé Reserve (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42.html">
+    <img class="flex-bottle" src="/images/c8/d48ec3-1c25-414c-85e0-d944fb493c42/2023-02-09-17-23-22-IMG-4867@512.webp"></img>
+    <section class="h">Cascina Tavijn</section>
+    <section class="h text-bolder">Monstro - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
+    <img class="flex-bottle" src="/images/f1/6dab18-1a1f-4883-a6cb-9c9f9b047987/2023-04-07-20-25-58-837A1441-76CC-41B6-81BB-0BF9ED692949-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Les Champlots - 2020</section>
   </a>
 
 </div>
