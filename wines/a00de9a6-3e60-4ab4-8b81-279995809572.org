@@ -13,7 +13,7 @@
 
 ** Producer
 
-Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and Niepoort Vinhos S.A.), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
+Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and [[barberry:/producers/1405b4d4-44cc-4685-a471-94fd20d248e8][Niepoort Vinhos S.A.]]), they decided to settle down in Swartland and start their own winery. The year was 2008, and they produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
 
 In the 2015 they bough Bandits Kloof farm in the northern mountains of Swartland. Climate is similar to Sicilian, so they planted Frappato, Macabeo, Carignan, Mataro, Grenache and Garnacha Blanca.
 
@@ -31,22 +31,34 @@ Wine #1 on [[barberry:/posts/2022-06-21-chenin-blanc-tasting][A taste of Chenin 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
+  <a class="flex-item flex-item-left" href="/wines/13b11427-367f-4fe1-8261-0c0426631122.html">
+    <img class="flex-bottle" src="/images/13/b11427-367f-4fe1-8261-0c0426631122/2023-04-15-14-31-25-0A61D1D6-3A2A-4B9D-B364-48BDD42A29BB-1-105-c@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Chin Up - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2adba2d9-cc62-4e2b-bcec-5bc363fc2194.html">
     <img class="flex-bottle" src="/images/2a/dba2d9-cc62-4e2b-bcec-5bc363fc2194/2020-11-07-10-05-32-4D059B94-51B5-4A46-95AE-357BE9C7517A-1-105-c@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">
+  <a class="flex-item flex-item-left" href="/wines/4941eb84-f727-4196-a96c-502a5bc2137f.html">
     <img class="flex-bottle" src="/images/49/41eb84-f727-4196-a96c-502a5bc2137f/2022-07-22-20-01-31-5736B22E-0A5C-4064-B71E-78AE4122AAD4-1-102-o@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
+  <a class="flex-item flex-item-right" href="/wines/5d4114ef-7bb4-4274-8889-d349f7971daa.html">
     <img class="flex-bottle" src="/images/5d/4114ef-7bb4-4274-8889-d349f7971daa/2022-07-21-07-35-44-DEEDE4DF-E60D-4DA4-88E5-438F0D616FC5-1-105-c@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Chin Up - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/61a051f1-c0ce-4469-adfc-5dee0854979b.html">
+    <img class="flex-bottle" src="/images/61/a051f1-c0ce-4469-adfc-5dee0854979b/2023-04-15-14-32-24-F071ECC0-6EA9-4E03-B4DE-1CFEA3FE817F-1-105-c@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Follow Your Dreams - 2022</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8ad2d430-ba67-47e0-a257-c05ffe537bff.html">

@@ -37,5 +37,11 @@ Treacherous and powerful Campo de Borja. Charming and complex nose, black curran
     <section class="h text-bolder">Veraton - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/778e0759-473a-4f4e-b98e-cf9308ff2034.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Fränk - 2019</section>
+  </a>
+
 </div>
 #+end_export

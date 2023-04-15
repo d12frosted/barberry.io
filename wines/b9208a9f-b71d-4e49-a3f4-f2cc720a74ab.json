@@ -1,0 +1,35 @@
+{
+  "id": "b9208a9f-b71d-4e49-a3f4-f2cc720a74ab",
+  "name": "Furmint Ried Vogelsang",
+  "full-name": "Weinbau Wenzel Furmint Ried Vogelsang 2018",
+  "producer": {
+    "id": "38899011-d746-40f2-ba5c-6acf3228a2de",
+    "name": "Weinbau Wenzel"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "864b7d0d-adac-48fe-92f6-07e917b507b3",
+      "name": "Furmint"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "1212 UAH",
+    "1290 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b9/208a9f-b71d-4e49-a3f4-f2cc720a74ab/2023-04-15-14-35-17-DFCFB6F2-5FD0-42F6-80AD-332028E058B6-1-105-c.webp",
+  "rating": "NA"
+}

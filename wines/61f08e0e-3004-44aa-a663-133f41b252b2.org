@@ -31,28 +31,40 @@ Well, it's Radikon. Expectations are high, and the wine delivers. Consistently. 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/4ddbe6f6-0b7a-4ed2-a021-290ee4d1ae00.html">
+  <a class="flex-item flex-item-left" href="/wines/446df39e-ea08-4dd7-a420-e5c57cef377d.html">
+    <img class="flex-bottle" src="/images/44/6df39e-ea08-4dd7-a420-e5c57cef377d/2023-04-15-13-54-18-C956A8D1-55B5-4865-A8D2-1029EFB8A69C-1-105-c@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Slatnik - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4ddbe6f6-0b7a-4ed2-a021-290ee4d1ae00.html">
     <img class="flex-bottle" src="/images/4d/dbe6f6-0b7a-4ed2-a021-290ee4d1ae00/2023-03-29-19-23-43-984B73FE-E030-40ED-993B-A2BAEE2E83D4-1-105-c@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Merlot20 - 1997</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
+  <a class="flex-item flex-item-left" href="/wines/73ea334f-8f6a-4fec-ad1c-505874003834.html">
     <img class="flex-bottle" src="/images/73/ea334f-8f6a-4fec-ad1c-505874003834/2023-02-08-07-19-17-IMG-4815@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Ribolla - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
+  <a class="flex-item flex-item-right" href="/wines/86bad245-61a4-41e5-ad57-05b9f7e568f2.html">
     <img class="flex-bottle" src="/images/86/bad245-61a4-41e5-ad57-05b9f7e568f2/2023-02-08-07-20-19-IMG-4818@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Jakot - 2007</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bb8ae1e3-0415-4012-ab06-55937df3cc10.html">
+  <a class="flex-item flex-item-left" href="/wines/bb8ae1e3-0415-4012-ab06-55937df3cc10.html">
     <img class="flex-bottle" src="/images/bb/8ae1e3-0415-4012-ab06-55937df3cc10/2021-03-20-09-27-04-A6B8D25C-4CB4-4360-BE7C-46DEA0AC36CE-1-105-c@512.webp"></img>
     <section class="h">Radikon</section>
     <section class="h text-bolder">Jakot - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d41f34c5-0e35-4e1b-8c5c-5792d817bb38.html">
+    <img class="flex-bottle" src="/images/d4/1f34c5-0e35-4e1b-8c5c-5792d817bb38/2023-04-15-14-06-35-DF208755-CCC5-42DC-960B-85D1129BA6ED-1-105-c@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Jakot - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">

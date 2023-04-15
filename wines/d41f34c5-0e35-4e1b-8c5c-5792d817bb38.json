@@ -1,0 +1,34 @@
+{
+  "id": "d41f34c5-0e35-4e1b-8c5c-5792d817bb38",
+  "name": "Jakot",
+  "full-name": "Radikon Jakot 2018",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.1",
+  "prices": [
+    "3250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d4/1f34c5-0e35-4e1b-8c5c-5792d817bb38/2023-04-15-14-06-35-DF208755-CCC5-42DC-960B-85D1129BA6ED-1-105-c.webp",
+  "rating": "8.0"
+}

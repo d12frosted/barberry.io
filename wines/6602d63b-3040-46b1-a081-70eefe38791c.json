@@ -1,0 +1,46 @@
+{
+  "id": "6602d63b-3040-46b1-a081-70eefe38791c",
+  "name": "I'm forever blowing bubbles",
+  "full-name": "Patrice Beguet I'm forever blowing bubbles 2022",
+  "producer": {
+    "id": "edd81899-a92d-49ad-9566-a6f0c333c220",
+    "name": "Patrice Beguet"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "a4c5d0b7-cac6-43ce-837b-f03c9de19d5a",
+      "name": "Viognier"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/66/02d63b-3040-46b1-a081-70eefe38791c/2023-04-15-13-11-02-EA4C108B-C670-4AC1-A8DC-7B0BFB590E98-1-105-c.webp",
+  "rating": "7.4"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f8d552cc-0829-4efa-8c87-365e82b3d04b.html">
+    <img class="flex-bottle" src="/images/f8/d552cc-0829-4efa-8c87-365e82b3d04b/2023-04-15-14-16-16-62F778D1-1B32-4DF2-AE22-917988C5255B-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Basis Zweigelt - 2019</section>
+  </a>
+
+</div>
+#+end_export

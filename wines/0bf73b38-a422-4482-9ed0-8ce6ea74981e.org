@@ -10,7 +10,7 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: 510 UAH, 436 UAH, 480 UAH, 484 UAH
-- Cellar :: 3 bottles
+- Cellar :: 4 bottles
 
 ** Ratings
 
@@ -38,25 +38,31 @@ Really nice bubbles. Friendly and enjoyable with the right volume, freshness and
     <section class="h text-bolder">Refugi Brut Nature Reserva - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
+  <a class="flex-item flex-item-left" href="/wines/49234287-d036-4017-9bfb-480b26e6516d.html">
+    <img class="flex-bottle" src="/images/49/234287-d036-4017-9bfb-480b26e6516d/2023-04-15-12-50-28-4F899CCB-E1DA-4BA9-B34B-CD93D81962E8-1-105-c@512.webp"></img>
+    <section class="h">Loxarel</section>
+    <section class="h text-bolder">Amaltea Clàssic Penedès Brut Nature Reserva - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
     <img class="flex-bottle" src="/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c@512.webp"></img>
     <section class="h">Ca' del Bosco</section>
     <section class="h text-bolder">Franciacorta 44a Edizione Cuvée Prestige - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/96cc80e9-b31a-4d48-8a64-94b50d2e3014.html">
+  <a class="flex-item flex-item-left" href="/wines/96cc80e9-b31a-4d48-8a64-94b50d2e3014.html">
     <img class="flex-bottle" src="/images/96/cc80e9-b31a-4d48-8a64-94b50d2e3014/2022-12-17-14-51-07-IMG-3863@512.webp"></img>
     <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Rosé N 41° 15,656'' E 1° 45,086'' Brut Nature - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+  <a class="flex-item flex-item-right" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
     <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+  <a class="flex-item flex-item-left" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
     <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c@512.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin (2015) - NV</section>

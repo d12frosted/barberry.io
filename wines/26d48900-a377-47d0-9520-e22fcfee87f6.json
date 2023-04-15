@@ -1,0 +1,35 @@
+{
+  "id": "26d48900-a377-47d0-9520-e22fcfee87f6",
+  "name": "wild+free Voodoo Child",
+  "full-name": "Weinbau Wenzel wild+free Voodoo Child 2021",
+  "producer": {
+    "id": "38899011-d746-40f2-ba5c-6acf3228a2de",
+    "name": "Weinbau Wenzel"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.4",
+  "prices": [
+    "790 UAH",
+    "840 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/26/d48900-a377-47d0-9520-e22fcfee87f6/2023-04-15-14-39-51-9E43FBEF-01B4-4ACB-A8EE-A55D6D6117BB-1-105-c.webp",
+  "rating": "NA"
+}

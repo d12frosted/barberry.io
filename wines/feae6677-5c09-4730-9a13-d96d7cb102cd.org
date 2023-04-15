@@ -39,7 +39,13 @@ You don't expect much from petnats, and when it's summer, you just take a bottle
     <section class="h text-bolder">Arraiano Tinto - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+  <a class="flex-item flex-item-right" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
+    <img class="flex-bottle" src="/images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Lockvogel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
     <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>

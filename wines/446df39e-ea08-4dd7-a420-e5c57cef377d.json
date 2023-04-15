@@ -1,0 +1,38 @@
+{
+  "id": "446df39e-ea08-4dd7-a420-e5c57cef377d",
+  "name": "Slatnik",
+  "full-name": "Radikon Slatnik 2021",
+  "producer": {
+    "id": "9d3e931a-6a61-4857-aae8-345f86bdcd75",
+    "name": "Radikon"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3.6",
+  "prices": [
+    "1684 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/44/6df39e-ea08-4dd7-a420-e5c57cef377d/2023-04-15-13-54-18-C956A8D1-55B5-4865-A8D2-1029EFB8A69C-1-105-c.webp",
+  "rating": "8.5"
+}

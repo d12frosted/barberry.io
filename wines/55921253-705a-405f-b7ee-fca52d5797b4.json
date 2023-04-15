@@ -1,0 +1,42 @@
+{
+  "id": "55921253-705a-405f-b7ee-fca52d5797b4",
+  "name": "wild+free Lockvogel",
+  "full-name": "Weinbau Wenzel wild+free Lockvogel 2019",
+  "producer": {
+    "id": "38899011-d746-40f2-ba5c-6acf3228a2de",
+    "name": "Weinbau Wenzel"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "5dd1f18b-e500-4993-9d13-99f4ae4e5ba2",
+      "name": "Muskateller"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "630 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c.webp",
+  "rating": "7.3125"
+}

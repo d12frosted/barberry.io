@@ -9,5 +9,35 @@
     <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/e0bf53eb-ddbf-4f57-9c58-18258b155835.html">
+    <img class="flex-bottle" src="/images/e0/bf53eb-ddbf-4f57-9c58-18258b155835/2020-10-17-10-06-23-E7BE1855-F45E-473F-B8C0-A703E59C7A18-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Furmint Aus Dem Quarz unfiltriert - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab.html">
+    <img class="flex-bottle" src="/images/b9/208a9f-b71d-4e49-a3f4-f2cc720a74ab/2023-04-15-14-35-17-DFCFB6F2-5FD0-42F6-80AD-332028E058B6-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Furmint Ried Vogelsang - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/778e0759-473a-4f4e-b98e-cf9308ff2034.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">wild+free Fränk - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
+    <img class="flex-bottle" src="/images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c@512.webp"></img>
+    <section class="h">★ 7.31</section>
+    <section class="h text-bolder">wild+free Lockvogel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26d48900-a377-47d0-9520-e22fcfee87f6.html">
+    <img class="flex-bottle" src="/images/26/d48900-a377-47d0-9520-e22fcfee87f6/2023-04-15-14-39-51-9E43FBEF-01B4-4ACB-A8EE-A55D6D6117BB-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">wild+free Voodoo Child - 2021</section>
+  </a>
+
 </div>
 #+end_export

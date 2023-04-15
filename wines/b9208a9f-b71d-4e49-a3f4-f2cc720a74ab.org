@@ -1,0 +1,53 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b9/208a9f-b71d-4e49-a3f4-f2cc720a74ab/2023-04-15-14-35-17-DFCFB6F2-5FD0-42F6-80AD-332028E058B6-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/38899011-d746-40f2-ba5c-6acf3228a2de][Weinbau Wenzel]]
+- Vintage :: 2018
+- Location :: Austria, Burgenland
+- Grapes :: Furmint
+- Alcohol :: 12.5
+- Sugar :: 2
+- Price :: 1212 UAH, 1290 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/26d48900-a377-47d0-9520-e22fcfee87f6.html">
+    <img class="flex-bottle" src="/images/26/d48900-a377-47d0-9520-e22fcfee87f6/2023-04-15-14-39-51-9E43FBEF-01B4-4ACB-A8EE-A55D6D6117BB-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Voodoo Child - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
+    <img class="flex-bottle" src="/images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Lockvogel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/778e0759-473a-4f4e-b98e-cf9308ff2034.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Fränk - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bcf84367-38ec-4954-87d8-32b3a541d067.html">
+    <img class="flex-bottle" src="/images/bc/f84367-38ec-4954-87d8-32b3a541d067/2022-08-14-12-06-47-573A0B75-7A85-473D-B2B7-1C0E38B824A7-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">Blaufränkisch aus dem Kalk - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e0bf53eb-ddbf-4f57-9c58-18258b155835.html">
+    <img class="flex-bottle" src="/images/e0/bf53eb-ddbf-4f57-9c58-18258b155835/2020-10-17-10-06-23-E7BE1855-F45E-473F-B8C0-A703E59C7A18-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">Furmint Aus Dem Quarz unfiltriert - 2019</section>
+  </a>
+
+</div>
+#+end_export

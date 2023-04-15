@@ -1,0 +1,50 @@
+{
+  "id": "e59a8be4-5f58-4756-90ee-b3582e6fb86d",
+  "name": "Finisterra Macération",
+  "full-name": "JM Dreyer Finisterra Macération 2021",
+  "producer": {
+    "id": "92c049ed-0591-418d-8f2b-8d20726b8654",
+    "name": "JM Dreyer"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c933109e-faba-42a3-a608-d91ad3cc7875",
+      "name": "Auxerrois blanc"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    },
+    {
+      "id": "768bf3f9-74f1-4174-8689-806726fd6f38",
+      "name": "Silvaner"
+    },
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.4",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e5/9a8be4-5f58-4756-90ee-b3582e6fb86d/2023-04-15-13-39-53-78F6F403-3DD2-48A2-A3A6-B6F23D836A7B-1-105-c.webp",
+  "rating": "7.75"
+}

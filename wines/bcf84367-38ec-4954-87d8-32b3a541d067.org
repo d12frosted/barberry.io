@@ -21,37 +21,67 @@ Nice expressive Blaufränkisch that colours your teeth and mouth. Good combinati
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/14bfdb67-e5c3-48cb-b555-5f0acf303b79.html">
+  <a class="flex-item flex-item-left" href="/wines/26d48900-a377-47d0-9520-e22fcfee87f6.html">
+    <img class="flex-bottle" src="/images/26/d48900-a377-47d0-9520-e22fcfee87f6/2023-04-15-14-39-51-9E43FBEF-01B4-4ACB-A8EE-A55D6D6117BB-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Voodoo Child - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
+    <img class="flex-bottle" src="/images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Lockvogel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/778e0759-473a-4f4e-b98e-cf9308ff2034.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">wild+free Fränk - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab.html">
+    <img class="flex-bottle" src="/images/b9/208a9f-b71d-4e49-a3f4-f2cc720a74ab/2023-04-15-14-35-17-DFCFB6F2-5FD0-42F6-80AD-332028E058B6-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">Furmint Ried Vogelsang - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e0bf53eb-ddbf-4f57-9c58-18258b155835.html">
+    <img class="flex-bottle" src="/images/e0/bf53eb-ddbf-4f57-9c58-18258b155835/2020-10-17-10-06-23-E7BE1855-F45E-473F-B8C0-A703E59C7A18-1-105-c@512.webp"></img>
+    <section class="h">Weinbau Wenzel</section>
+    <section class="h text-bolder">Furmint Aus Dem Quarz unfiltriert - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/14bfdb67-e5c3-48cb-b555-5f0acf303b79.html">
     <img class="flex-bottle" src="/images/14/bfdb67-e5c3-48cb-b555-5f0acf303b79/2022-08-14-11-41-34-4EB47FF8-7206-464B-A93D-3C2757DFC8A3-1-105-c@512.webp"></img>
     <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2d3c1ace-271e-4b2a-80e5-0579c356e025.html">
+  <a class="flex-item flex-item-left" href="/wines/2d3c1ace-271e-4b2a-80e5-0579c356e025.html">
     <img class="flex-bottle" src="/images/2d/3c1ace-271e-4b2a-80e5-0579c356e025/2022-08-14-11-30-09-D013AC0E-B17E-470F-BE64-49C235C42A4E-1-105-c@512.webp"></img>
     <section class="h">La Biancara</section>
     <section class="h text-bolder">Sassaia - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3bbce93c-f276-4b2e-9992-122e946891e0.html">
+  <a class="flex-item flex-item-right" href="/wines/3bbce93c-f276-4b2e-9992-122e946891e0.html">
     <img class="flex-bottle" src="/images/3b/bce93c-f276-4b2e-9992-122e946891e0/2022-08-14-12-34-01-8AF7A7B2-2982-451B-B93E-A2E52F673F99-1-105-c@512.webp"></img>
     <section class="h">Ca' di Mat</section>
     <section class="h text-bolder">Andrinal - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661.html">
+  <a class="flex-item flex-item-left" href="/wines/9de8ffb2-0758-48cf-b43c-5ec7a2010661.html">
     <img class="flex-bottle" src="/images/9d/e8ffb2-0758-48cf-b43c-5ec7a2010661/2022-08-14-11-52-47-77D2A2F0-F519-437F-BE7C-3515F3D3E6F0-1-105-c@512.webp"></img>
     <section class="h">Pittnauer</section>
     <section class="h text-bolder">Perfect Day - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
+  <a class="flex-item flex-item-right" href="/wines/e2282dba-1045-49a9-a806-631f570e0f0d.html">
     <img class="flex-bottle" src="/images/e2/282dba-1045-49a9-a806-631f570e0f0d/2022-08-12-11-50-44-IMG-1437@512.webp"></img>
     <section class="h">Ochota barrels</section>
     <section class="h text-bolder">the price of silence gamay - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+  <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>

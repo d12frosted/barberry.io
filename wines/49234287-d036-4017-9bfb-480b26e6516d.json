@@ -1,0 +1,42 @@
+{
+  "id": "49234287-d036-4017-9bfb-480b26e6516d",
+  "name": "Amaltea Clàssic Penedès Brut Nature Reserva",
+  "full-name": "Loxarel Amaltea Clàssic Penedès Brut Nature Reserva 2020",
+  "producer": {
+    "id": "b26ec7b9-a4d6-4918-a384-f2f1fb1f2f6a",
+    "name": "Loxarel"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "70ccfc50-0c09-4273-9d1d-a192a292cf54",
+      "name": "Xarel-lo"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "edbf19a6-9066-4fbc-b251-f2aafddb6c34",
+      "name": "Parellada"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "510 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/49/234287-d036-4017-9bfb-480b26e6516d/2023-04-15-12-50-28-4F899CCB-E1DA-4BA9-B34B-CD93D81962E8-1-105-c.webp",
+  "rating": "7.5"
+}
