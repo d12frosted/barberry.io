@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/83941406-4862-434c-8edd-a8f1b701d204.html">
+    <img class="flex-bottle" src="/images/83/941406-4862-434c-8edd-a8f1b701d204/2023-04-16-12-47-11-DCF6749A-D1A2-41D6-B9D3-B662935E554B-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Marchese Antinori Tenuta Montenisa Cuvée Royale - NV</section>
+  </a>
+
+</div>
+#+end_export

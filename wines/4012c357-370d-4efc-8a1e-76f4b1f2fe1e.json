@@ -1,0 +1,42 @@
+{
+  "id": "4012c357-370d-4efc-8a1e-76f4b1f2fe1e",
+  "name": "Erse Bianco",
+  "full-name": "Tenuta di Fessina Erse Bianco 2016",
+  "producer": {
+    "id": "0d49980e-7654-4abb-a5e4-fe210d0d0c5d",
+    "name": "Tenuta di Fessina"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    },
+    {
+      "id": "90fa2880-a977-41ff-ad4e-a560f316dddb",
+      "name": "Minnella Bianca"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/40/12c357-370d-4efc-8a1e-76f4b1f2fe1e/2023-04-16-12-49-35-9E6B7F39-AA46-4A31-879F-EF199BE61CB6-1-105-c.webp",
+  "rating": "7.75"
+}

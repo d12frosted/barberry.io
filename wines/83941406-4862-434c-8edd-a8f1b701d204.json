@@ -1,0 +1,42 @@
+{
+  "id": "83941406-4862-434c-8edd-a8f1b701d204",
+  "name": "Marchese Antinori Tenuta Montenisa Cuvée Royale",
+  "full-name": "Antinori Marchese Antinori Tenuta Montenisa Cuvée Royale NV",
+  "producer": {
+    "id": "dee8918e-c6ab-4688-ad31-0b548e733114",
+    "name": "Antinori"
+  },
+  "vintage": "NV",
+  "base-vintage": "???",
+  "degorgee": "2021",
+  "sur-lie": "??? months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "2190 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/83/941406-4862-434c-8edd-a8f1b701d204/2023-04-16-12-47-11-DCF6749A-D1A2-41D6-B9D3-B662935E554B-1-105-c.webp",
+  "rating": "7.5"
+}

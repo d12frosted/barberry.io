@@ -1,0 +1,34 @@
+{
+  "id": "93623b57-eedf-47b7-a404-ff8e80bcbd64",
+  "name": "Barolo",
+  "full-name": "Roberto Sarotto Barolo 2018",
+  "producer": {
+    "id": "335b1291-1bf7-4a3c-b917-41877ab068f4",
+    "name": "Roberto Sarotto"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "NA",
+  "prices": [
+    "2154 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/93/623b57-eedf-47b7-a404-ff8e80bcbd64/2023-04-16-12-51-25-277DE2CF-52C4-4CB4-9761-D93E5226267C-1-105-c.webp",
+  "rating": "8.0"
+}

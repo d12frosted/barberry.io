@@ -1,0 +1,38 @@
+{
+  "id": "bf924b26-a34b-4b7c-8d7c-24b9c71865a4",
+  "name": "Garganega / Chardonnay",
+  "full-name": "Scaia Garganega / Chardonnay 2020",
+  "producer": {
+    "id": "6598a3c6-7240-4b01-bac1-d29f8440a1f7",
+    "name": "Scaia"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "6144c362-b2c4-476c-ae51-129e38b13f05",
+      "name": "Garganega"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1374 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/bf/924b26-a34b-4b7c-8d7c-24b9c71865a4/2023-04-16-12-54-50-B06B8DE8-ABD8-49BC-B2A8-37C3E3B7ECD2-1-105-c.webp",
+  "rating": "7.5"
+}

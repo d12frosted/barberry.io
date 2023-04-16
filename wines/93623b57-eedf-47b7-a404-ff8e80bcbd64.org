@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/93/623b57-eedf-47b7-a404-ff8e80bcbd64/2023-04-16-12-51-25-277DE2CF-52C4-4CB4-9761-D93E5226267C-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/335b1291-1bf7-4a3c-b917-41877ab068f4][Roberto Sarotto]]
+- Vintage :: 2018
+- Location :: Italy, Barolo DOCG
+- Grapes :: Nebbiolo
+- Alcohol :: 14.5
+- Sugar :: NA
+- Price :: 2154 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-04-15 - ☆ 8.00
+
+Wow, what an approachable Barolo despite its young age. Dried red flowers, pomegranate, chocolate, and briar with a touch of animalistic notes and autumn forest floor. They say Barolos is masculine, but this one is quite delicate and charming. The tannin is high but round and mature. Good acidity and volume. The aftertaste is long and flavourful. Nice.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4012c357-370d-4efc-8a1e-76f4b1f2fe1e.html">
+    <img class="flex-bottle" src="/images/40/12c357-370d-4efc-8a1e-76f4b1f2fe1e/2023-04-16-12-49-35-9E6B7F39-AA46-4A31-879F-EF199BE61CB6-1-105-c@512.webp"></img>
+    <section class="h">Tenuta di Fessina</section>
+    <section class="h text-bolder">Erse Bianco - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/72663116-30b6-46b7-b74f-73483f66e1cc.html">
+    <img class="flex-bottle" src="/images/72/663116-30b6-46b7-b74f-73483f66e1cc/2022-08-28-22-01-43-A5E97226-4BD3-4C99-AFED-F0CA7D0F4378-1-105-c@512.webp"></img>
+    <section class="h">Hoya de Cadenas</section>
+    <section class="h text-bolder">Cava Brut Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/83941406-4862-434c-8edd-a8f1b701d204.html">
+    <img class="flex-bottle" src="/images/83/941406-4862-434c-8edd-a8f1b701d204/2023-04-16-12-47-11-DCF6749A-D1A2-41D6-B9D3-B662935E554B-1-105-c@512.webp"></img>
+    <section class="h">Antinori</section>
+    <section class="h text-bolder">Marchese Antinori Tenuta Montenisa Cuvée Royale - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bf924b26-a34b-4b7c-8d7c-24b9c71865a4.html">
+    <img class="flex-bottle" src="/images/bf/924b26-a34b-4b7c-8d7c-24b9c71865a4/2023-04-16-12-54-50-B06B8DE8-ABD8-49BC-B2A8-37C3E3B7ECD2-1-105-c@512.webp"></img>
+    <section class="h">Scaia</section>
+    <section class="h text-bolder">Garganega / Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

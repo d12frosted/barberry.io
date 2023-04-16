@@ -1,0 +1,14 @@
+Part of Tenuta Sant'Antonio.
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/bf924b26-a34b-4b7c-8d7c-24b9c71865a4.html">
+    <img class="flex-bottle" src="/images/bf/924b26-a34b-4b7c-8d7c-24b9c71865a4/2023-04-16-12-54-50-B06B8DE8-ABD8-49BC-B2A8-37C3E3B7ECD2-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Garganega / Chardonnay - 2020</section>
+  </a>
+
+</div>
+#+end_export

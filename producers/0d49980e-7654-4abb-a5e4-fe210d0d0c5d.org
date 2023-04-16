@@ -10,5 +10,11 @@ Mount Etna. Crazy winemaking region with its charm, elegance, beauty, and, most 
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/4012c357-370d-4efc-8a1e-76f4b1f2fe1e.html">
+    <img class="flex-bottle" src="/images/40/12c357-370d-4efc-8a1e-76f4b1f2fe1e/2023-04-16-12-49-35-9E6B7F39-AA46-4A31-879F-EF199BE61CB6-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Erse Bianco - 2016</section>
+  </a>
+
 </div>
 #+end_export
