@@ -88,13 +88,13 @@ I am happy to see Moldova, England and Slovakia on this list. And I am also happ
 | country      | count | p avg        | r rms |    qpr |
 |--------------+-------+--------------+-------+--------|
 | France       |    20 | 1 154.46 UAH |  7.75 | 2.3142 |
-| Italy        |    20 | 895.86 UAH   |  7.70 | 2.4964 |
-| Spain        |    13 | 737.81 UAH   |  7.89 | 3.3806 |
-| Hungary      |     7 | 732.02 UAH   |  7.37 | 2.3051 |
+| Italy        |    20 | 897.15 UAH   |  7.70 | 2.4898 |
+| Spain        |    13 | 739.66 UAH   |  7.89 | 3.3744 |
+| Hungary      |     7 | 771.63 UAH   |  7.37 | 2.2029 |
 | Australia    |     5 | 973.76 UAH   |  7.82 | 3.6178 |
 | New Zealand  |     5 | 626.51 UAH   |  7.50 | 2.7345 |
 | Germany      |     5 | 1 279.89 UAH |  7.97 | 2.0305 |
-| Argentina    |     4 | 704.70 UAH   |  7.57 | 2.9552 |
+| Argentina    |     4 | 759.62 UAH   |  7.57 | 2.6636 |
 | South Africa |     4 | 454.69 UAH   |  6.87 | 2.6362 |
 | Moldova      |     2 | 835.00 UAH   |  7.63 | 2.1949 |
 | Greece       |     2 | 1 075.00 UAH |  8.02 | 2.6562 |
@@ -129,16 +129,16 @@ This month the oldest vintage is 2010. It’s sad to see 2012 missing. I would h
 |---------+-------+--------------+-------+--------|
 |    2021 |     4 | 621.29 UAH   |  7.39 | 2.6696 |
 |    2020 |    16 | 782.68 UAH   |  7.46 | 2.5293 |
-|    2019 |    22 | 769.37 UAH   |  7.55 | 2.5090 |
+|    2019 |    22 | 775.27 UAH   |  7.55 | 2.4812 |
 |    2018 |    15 | 942.98 UAH   |  7.85 | 3.0569 |
 |    2017 |    15 | 895.42 UAH   |  7.84 | 2.9974 |
 |    2016 |     2 | 899.35 UAH   |  8.02 | 2.8190 |
 |    2015 |     1 | 1 065.61 UAH |  8.50 | 3.3044 |
-|    2014 |     3 | 1 235.24 UAH |  8.09 | 2.3331 |
+|    2014 |     3 | 1 243.25 UAH |  8.09 | 2.2934 |
 |    2013 |     2 | 1 219.86 UAH |  8.32 | 2.6279 |
-|    2011 |     2 | 591.31 UAH   |  7.75 | 3.3682 |
+|    2011 |     2 | 701.16 UAH   |  7.75 | 2.8405 |
 |    2010 |     1 | 2 590.00 UAH |  7.75 | 0.7690 |
-|      NV |     7 | 1 238.92 UAH |  7.61 | 2.0252 |
+|      NV |     7 | 1 241.37 UAH |  7.61 | 2.0103 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -170,15 +170,15 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | grape                        | count | p avg        | r rms |    qpr |
 |------------------------------+-------+--------------+-------+--------|
 | Pinot Noir                   |    21 | 1 080.95 UAH |  7.79 | 2.2232 |
-| Grenache                     |     7 | 660.20 UAH   |  7.52 | 3.2411 |
+| Grenache                     |     7 | 663.63 UAH   |  7.52 | 3.2289 |
 | Chardonnay                   |     5 | 1 425.40 UAH |  8.07 | 3.5241 |
 | Gamay                        |     5 | 776.08 UAH   |  7.56 | 2.5570 |
-| Merlot                       |     4 | 1 153.93 UAH |  7.76 | 2.7060 |
+| Merlot                       |     4 | 1 208.86 UAH |  7.76 | 2.3842 |
 | Trousseau                    |     4 | 758.20 UAH   |  7.70 | 2.7923 |
 | Pinot Gris                   |     4 | 1 108.87 UAH |  8.07 | 2.5592 |
-| Glera                        |     4 | 598.12 UAH   |  7.03 | 2.3230 |
+| Glera                        |     4 | 602.40 UAH   |  7.03 | 2.3002 |
 | Sauvignon Blanc              |     3 | 967.02 UAH   |  7.86 | 2.4026 |
-| Tempranillo                  |     3 | 467.44 UAH   |  7.43 | 3.6544 |
+| Tempranillo                  |     3 | 475.46 UAH   |  7.43 | 3.6291 |
 | Nerello Mascalese            |     3 | 1 197.57 UAH |  7.90 | 2.2443 |
 | Cabernet Sauvignon           |     3 | 1 475.00 UAH |  7.19 | 1.7158 |
 | Blauer Portugieser           |     3 | 468.55 UAH   |  7.35 | 2.9589 |
@@ -186,14 +186,14 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | Pinotage                     |     2 | 418.73 UAH   |  6.72 | 2.7726 |
 | Cariñena                     |     2 | 949.15 UAH   |  7.75 | 2.3086 |
 | Riesling                     |     2 | 923.62 UAH   |  7.88 | 2.3848 |
-| Tintilia                     |     2 | 534.17 UAH   |  7.45 | 3.0592 |
-| Graciano                     |     2 | 534.17 UAH   |  7.45 | 3.0592 |
+| Tintilia                     |     2 | 546.19 UAH   |  7.45 | 3.0138 |
+| Graciano                     |     2 | 546.19 UAH   |  7.45 | 3.0138 |
 | Malvasia di Candia Aromatica |     2 | 1 086.64 UAH |  8.02 | 2.4247 |
 | Sangiovese                   |     2 | 871.56 UAH   |  7.90 | 2.5613 |
 | Alicante Henri Bouschet      |     2 | 892.42 UAH   |  8.25 | 3.4292 |
 | Mencía                       |     2 | 542.56 UAH   |  7.75 | 3.7383 |
-| Blaufrankisch                |     2 | NA           |  7.45 |     NA |
-| Moscato Giallo               |     1 | 598.14 UAH   |  7.50 | 2.7729 |
+| Blaufrankisch                |     2 | 890.46 UAH   |  7.45 | 1.8627 |
+| Moscato Giallo               |     1 | 615.27 UAH   |  7.50 | 2.6958 |
 | Nerello Cappuccio            |     1 | 1 144.71 UAH |  8.50 | 3.0760 |
 | Muscat de Samos              |     1 | 1 018.00 UAH |  8.50 | 3.4589 |
 | Pinot Meunier                |     1 | 2 042.00 UAH |  8.25 | 1.4212 |
@@ -230,7 +230,7 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | Assyrtiko                    |     1 | 1 132.00 UAH |  7.50 | 1.4652 |
 | Zibibbo                      |     1 | 1 141.00 UAH |  8.00 | 2.1034 |
 | Palomino Fino                |     1 | 1 596.61 UAH |  8.80 | 2.7933 |
-| Nero di Troia                |     1 | 521.95 UAH   |  7.25 | 2.6561 |
+| Nero di Troia                |     1 | 530.66 UAH   |  7.25 | 2.6125 |
 
 #+name: grapes-data
 #+begin_src elisp :exports results
@@ -250,12 +250,12 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 #+results: ratings-data
 |       date | country                                                   | producer                                                                   | name                                                                            | vintage | rate |    QPR |
 |------------+-----------------------------------------------------------+----------------------------------------------------------------------------+---------------------------------------------------------------------------------+---------+------+--------|
+| 2022-09-30 | Spain        | [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]           | [[barberry:/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32][R. López de Heredia Viña Cubillo Crianza 2014]] |    2014 | 7.50 | 2.6179 |
 | 2022-09-30 | Germany      | [[barberry:/producers/8985ce5e-6689-48fd-a818-ea3b60a6462b][2Naturkinder]]                  | [[barberry:/wines/55243040-cae6-4b3a-ac77-757ca8ab626b][2Naturkinder Spätburgunder 2017]]    |    2017 | 7.00 | 1.2475 |
-| 2022-09-30 | Spain        | [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]           | [[barberry:/wines/849dafd4-c8d6-4ec7-a265-25ccf1f72e32][R. López de Heredia Cubillo Crianza 2014]] |    2014 | 7.50 | 2.7211 |
 | 2022-09-30 | France       | [[barberry:/producers/4668ff75-e9b6-4362-bf07-ec1e4a9485e7][Le Grappin]]                    | [[barberry:/wines/944529fb-e85a-418e-ae20-43df4675c822][Le Grappin Fleurie-Poncié 2020]]     |    2020 | 8.00 | 3.7482 |
 | 2022-09-28 | New Zealand  | [[barberry:/producers/bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c][Spy Valley]]                    | [[barberry:/wines/362d0ef0-5c07-4fbd-90a0-4797088728f4][Spy Valley Satellite Pinot Noir 2020]] |    2020 | 7.00 | 2.4540 |
 | 2022-09-27 | Spain        | [[barberry:/producers/0608acc9-e36c-4cff-970e-0f2489d3011a][Fedellos do Couto]]             | [[barberry:/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2][Fedellos do Couto Bastarda 2017]]    |    2017 | 8.00 | 2.4201 |
-| 2022-09-27 | Italy        | [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadilà]]                     | [[barberry:/wines/065720da-6456-4df3-9afb-8634b425580e][Costadilà Mòz NV]]                   |      NV | 7.50 | 2.7729 |
+| 2022-09-27 | Italy        | [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadilà]]                     | [[barberry:/wines/065720da-6456-4df3-9afb-8634b425580e][Costadilà Mòz NV]]                   |      NV | 7.50 | 2.6958 |
 | 2022-09-27 | Italy        | [[barberry:/producers/c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be][Vino di Anna]]                  | [[barberry:/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a][Vino di Anna Qvevri 'Don Alfio' 2016]] |    2016 | 8.50 | 3.0760 |
 | 2022-09-27 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]             | [[barberry:/wines/1a73439a-6bbe-4621-a76f-567b9d436876][Tomislav Marković Quo Vadis 2019]]   |    2019 | 8.00 | 2.5806 |
 | 2022-09-27 | Australia    | [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]]              | [[barberry:/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634][Patrick Sullivan Baw Baw Shire Ada River Chardonnay 2018]] |    2018 | 8.50 | 2.1736 |
@@ -265,7 +265,7 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | 2022-09-25 | New Zealand  | [[barberry:/producers/c31a826a-e40f-4e98-8e96-f7c0fe1274e1][Clos Henri]]                    | [[barberry:/wines/c99af144-3659-4c39-8982-179e4883c28b][Clos Henri Petit Clos Pinot Noir 2018]] |    2018 | 7.75 | 2.7282 |
 | 2022-09-24 | France       | [[barberry:/producers/95f34fc8-044c-453a-bca7-62e7128ff998][Francoise Bedel]]               | [[barberry:/wines/0514a4a1-e52c-4bcd-bec3-b1fdfdb63ff3][Francoise Bedel Origin'elle (2017) NV]] |      NV | 8.25 | 1.4212 |
 | 2022-09-24 | Australia    | [[barberry:/producers/5166bbee-f282-41d3-a92d-08890f2ce175][Two Hands]]                     | [[barberry:/wines/c22691bf-ba9f-44fb-bb80-0ef5ff2dd113][Two Hands Gnarly Dudes 2020]]        |    2020 | 7.25 | 1.8991 |
-| 2022-09-24 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                       | [[barberry:/wines/1cef4a62-828f-47ca-8489-ea911196b860][Weinert Merlot 2011]]                |    2011 | 7.75 | 3.3682 |
+| 2022-09-24 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                       | [[barberry:/wines/1cef4a62-828f-47ca-8489-ea911196b860][Weinert Merlot 2011]]                |    2011 | 7.75 | 2.8405 |
 | 2022-09-24 | Italy        | [[barberry:/producers/e85e05fc-f328-4042-9e3d-6634b6b93287][Adriano Adami]]                 | [[barberry:/wines/e71574c1-9ab4-4bb5-9700-5a46563dd5d5][Adriano Adami Bosco di Gica NV]]     |      NV | 7.50 | 3.1236 |
 | 2022-09-23 | France       | [[barberry:/producers/c03bbb9a-0e74-4e99-a4aa-aad5f7c4b26f][Jean Foillard]]                 | [[barberry:/wines/8ba16651-36cb-44a9-b778-57776431425e][Jean Foillard Morgon Classique 2019]] |    2019 | 7.25 | 1.9609 |
 | 2022-09-23 | Australia    | [[barberry:/producers/93ed5d54-33aa-43b6-9c10-131f1c7d5224][Nugan Estate]]                  | [[barberry:/wines/72b01643-222c-41ca-a512-263814270455][Nugan Estate Third Generation Chardonnay 2018]] |    2018 | 7.25 | 6.9666 |
@@ -283,12 +283,13 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | 2022-09-20 | South Africa | [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]                    | [[barberry:/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd][Testalonga Baby Bandito Follow Your Dreams 2021]] |    2021 | 7.50 | 2.6696 |
 | 2022-09-18 | South Africa | [[barberry:/producers/db59c4a0-6c6d-48c4-8e40-466dcdf79f79][Boekenhoutskloof]]              | [[barberry:/wines/9fc6f99d-6ed4-4be1-9da1-8e1428868f5a][Boekenhoutskloof Porcupine Ridge Cabernet Sauvignon 2019]] |    2019 | 6.50 | 2.3014 |
 | 2022-09-18 | New Zealand  | [[barberry:/producers/bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c][Spy Valley]]                    | [[barberry:/wines/d615372c-6638-4603-9b3e-0f75f9f00215][Spy Valley Pinot Noir 2017]]         |    2017 | 7.50 | 2.9459 |
-| 2022-09-18 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                       | [[barberry:/wines/1cef4a62-828f-47ca-8489-ea911196b860][Weinert Merlot 2011]]                |    2011 | 7.75 | 3.3682 |
+| 2022-09-18 | Argentina    | [[barberry:/producers/75dc06c5-259d-4a2f-854f-d7cba5af0d23][Weinert]]                       | [[barberry:/wines/1cef4a62-828f-47ca-8489-ea911196b860][Weinert Merlot 2011]]                |    2011 | 7.75 | 2.8405 |
 | 2022-09-18 | South Africa | [[barberry:/producers/7f36c99b-3225-4883-b12d-11e5a75bfa12][Spier Wines]]                   | [[barberry:/wines/6bd60323-b630-4fce-a294-ebfebe3d04e6][Spier Wines Pinotage Signature 2020]] |    2020 | 5.50 | 1.5574 |
 | 2022-09-17 | Argentina    | [[barberry:/producers/4547425b-4629-45d5-886b-581416693d89][Bodega Catena Zapata]]          | [[barberry:/wines/2de3fd09-db65-496a-a89b-ef3792991247][Bodega Catena Zapata Appellation San Carlos Cabernet Franc 2019]] |    2019 | 7.50 | 3.2768 |
 | 2022-09-16 | South Africa | [[barberry:/producers/0915152e-292c-4278-9725-312eafd39e84][Ashbourne]]                     | [[barberry:/wines/94ec9be5-892e-4b46-92a6-fcc7ff071b0a][Ashbourne Pinotage Cinsault 2019]]   |    2019 | 7.75 | 3.5985 |
 | 2022-09-16 | Moldova      | [[barberry:/producers/71e2d1b5-3a20-4b47-a061-5911708ba091][Et Cetera]]                     | [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Et Cetera Pinot Noir 2018]]          |    2018 | 7.75 | 2.3852 |
 | 2022-09-16 | Italy        | [[barberry:/producers/8fc3ed06-8aa9-4137-a026-b236d34bf569][Lo Zoccolaio]]                  | [[barberry:/wines/493e1962-0123-40b7-848e-c82389444c42][Lo Zoccolaio Suculé Barbera d'Alba Superiore 2019]] |    2019 | 7.50 | 2.6369 |
+| 2022-09-15 | France       | [[barberry:/producers/92c049ed-0591-418d-8f2b-8d20726b8654][JM Dreyer]]                     | [[barberry:/wines/2122b911-de3a-467b-ba99-cbdb4204a084][JM Dreyer Anigma Pinot Noir 2020]]   |    2020 | 7.75 | 2.2056 |
 | 2022-09-15 | Italy        | [[barberry:/producers/d3c0dd16-06e9-45e6-b314-3efe62f70da5][Pruneto]]                       | [[barberry:/wines/ceaf515d-9fda-46c1-8acc-3da2621ffd19][Pruneto Chianti Classico 2013]]      |    2013 | 7.80 | 2.4513 |
 | 2022-09-15 | Italy        | [[barberry:/producers/ee20a0e3-c5ed-4cd2-9603-2e774fb7a1c8][Škerk]]                         | [[barberry:/wines/a050a3c3-e72d-4b7e-8577-9e32cd850872][Škerk Ograde 2017]]                  |    2017 | 8.50 | 3.0012 |
 | 2022-09-15 | France       | [[barberry:/producers/f583fef5-23a6-4932-a036-fb4b7e9e22b8][Marguet]]                       | [[barberry:/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03][Marguet Shaman 17 Grand Cru NV]]     |      NV | 8.25 | 1.8275 |
@@ -296,10 +297,9 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | 2022-09-15 | France       | [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]]                | [[barberry:/wines/1f7e5557-18aa-4054-a674-9b5f5edfdf19][Patrice Beguet Go Together Red 2019]] |    2019 | 7.00 | 1.6022 |
 | 2022-09-15 | Australia    | [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]                   | [[barberry:/wines/930fb85c-691f-4692-8372-30e03660a72a][Gentle Folk Summertown blanc 2019]]  |    2019 | 8.00 | 2.1187 |
 | 2022-09-15 | France       | [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]                       | [[barberry:/wines/4d3cc054-f510-409b-8278-2b6cdb439b7a][Matassa Rouge 2019]]                 |    2019 | 8.00 | 1.8794 |
-| 2022-09-15 | France       | [[barberry:/producers/92c049ed-0591-418d-8f2b-8d20726b8654][J.M Dreyer]]                    | [[barberry:/wines/2122b911-de3a-467b-ba99-cbdb4204a084][J.M Dreyer Anigma Pinot Noir 2020]]  |    2020 | 7.75 | 2.2056 |
 | 2022-09-15 | Germany      | [[barberry:/producers/dae4f7cc-e606-4b89-aa61-e0e10d7f50a9][Rita & Rudolf Trossen]]         | [[barberry:/wines/12d18471-695a-43bb-b31b-08c9c358069f][Rita & Rudolf Trossen Schieferstern Purus Riesling trocken 2018]] |    2018 | 7.75 | 2.1713 |
+| 2022-09-14 | Spain        | [[barberry:/producers/1a59a1cb-fe8a-4724-b084-c5eef925d567][Cume do Avia]]                  | [[barberry:/wines/00f19a1c-96a2-4340-b34c-c27a7cfbb737][Cume do Avia Colleita #7 Tinto 2019]] |    2019 | 7.75 | 2.9506 |
 | 2022-09-14 | Spain        | [[barberry:/producers/898c51d1-e204-4395-89d9-be79c134a593][Bodegas Olarra]]                | [[barberry:/wines/1666a061-db29-41fb-bda4-1ab1e605ebb6][Bodegas Olarra Cerro Añon Reserva 2018]] |    2018 | 7.40 | 3.3635 |
-| 2022-09-14 | Spain        | [[barberry:/producers/1a59a1cb-fe8a-4724-b084-c5eef925d567][Cume do Avia]]                  | [[barberry:/wines/00f19a1c-96a2-4340-b34c-c27a7cfbb737][Cume do Avia Colleita #7 2019]]      |    2019 | 7.75 | 2.9506 |
 | 2022-09-13 | Germany      | [[barberry:/producers/cd60c419-207b-415c-88a4-2634db20ed8d][Tomislav Marković]]             | [[barberry:/wines/be82c004-a570-40ec-9962-87836bfeacd2][Tomislav Marković Parabole 2018]]    |    2018 | 8.50 | 2.0934 |
 | 2022-09-13 | Spain        | [[barberry:/producers/77579d36-240c-4859-83d2-f3c69fc41c91][Ca' di Mat]]                    | [[barberry:/wines/ce698cce-871e-4255-a472-61b1a1160163][Ca' di Mat Fuente de los Huertos 2017]] |    2017 | 8.50 | 4.2141 |
 | 2022-09-13 | Slovenia     | [[barberry:/producers/306b9b05-0245-4f1e-8576-0a34a5908ad1][Kmetija Štekar]]                | [[barberry:/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e][Kmetija Štekar Rebula Prilo 2015]]   |    2015 | 8.50 | 3.3044 |
@@ -336,10 +336,10 @@ And quite expectable, with the fall in white wine consumption, Chardonnay, at la
 | 2022-09-02 | Italy        | [[barberry:/producers/1dcb5f50-069b-4f63-9810-3b1c2b0a8ed8][Frank Cornelissen]]             | [[barberry:/wines/72499131-58aa-4bdb-8956-38f3fb189c90][Frank Cornelissen Munjebel VA 2017]] |    2017 | 7.75 | 1.1702 |
 | 2022-09-02 | Hungary      | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                        | [[barberry:/wines/be2a9fd4-3b19-4e77-bf63-23e1a04a2ca4][Hummel Csury 2021]]                  |    2021 | 7.25 |        |
 | 2022-09-02 | Germany      | [[barberry:/producers/e463ddb4-d593-4913-80e1-b841330d4cf6][Wasenhaus]]                     | [[barberry:/wines/227e3ccc-3136-4a0d-ac55-b57f780dff25][Wasenhaus Vulkan 2018]]              |    2018 | 8.50 | 1.8171 |
-| 2022-09-02 | Hungary      | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                        | [[barberry:/wines/c0acd31a-42df-449b-8667-24de166fe520][Hummel Resi 2019]]                   |    2019 | 7.50 |        |
+| 2022-09-02 | Hungary      | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                        | [[barberry:/wines/c0acd31a-42df-449b-8667-24de166fe520][Hummel Resi 2019]]                   |    2019 | 7.50 | 1.8627 |
 | 2022-09-02 | Spain        | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]      | [[barberry:/wines/c765bf10-f52c-4c91-bf86-c80c1027c587][Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013]] |    2013 | 8.80 | 2.7933 |
 | 2022-09-02 | Hungary      | [[barberry:/producers/fe3fbe0e-e74d-48e5-b223-fdacd7847e0a][Hummel]]                        | [[barberry:/wines/4bac6da8-95e1-4c49-bcfc-f7b8e672d543][Hummel Villányi Portugieser 2021]]   |    2021 | 7.40 |        |
-| 2022-09-02 | Italy        | [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]         | [[barberry:/wines/39a934ab-0f33-4466-894b-72d822ce15d4][Valentina Passalacqua Sintonia 2019]] |    2019 | 7.25 | 2.6561 |
+| 2022-09-02 | Italy        | [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]         | [[barberry:/wines/39a934ab-0f33-4466-894b-72d822ce15d4][Valentina Passalacqua Sintonia 2019]] |    2019 | 7.25 | 2.6125 |
 
 #+name: ratings-data
 #+begin_src elisp :exports results
