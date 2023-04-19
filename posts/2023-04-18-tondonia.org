@@ -1,3 +1,5 @@
+[[file:/images/2023-04-18-tondonia/2023-04-19-07-17-22-EB8846F4-8B1A-4B9F-A824-D88AA3700B35-1-102-a.webp]]
+
 #+begin_quote
 If it ain't broke, don't fix it.
 
@@ -19,6 +21,7 @@ Reading about these wines is one thing. But it's always better to taste the hist
 5. [[barberry:/wines/a3ce9c93-1782-4588-b9b6-0f9082089018][R. López de Heredia Viña Tondonia Rosado Gran Reserva 2012]]
 6. [[barberry:/wines/7c02f810-b722-492d-a23e-40c1c1ef41f4][R. López de Heredia Viña Tondonia Tinto Reserva 2010]]
 7. [[barberry:/wines/45e8e973-f58a-4fb8-8a72-5230efba1cb6][R. López de Heredia Viña Tondonia Tinto Gran Reserva 2001]]
+8. [[barberry:/wines/dd40e9e7-9060-4e13-ae70-a3c2c946562b][Envínate Lousas Viñas de aldea 2019]] (bonus)
 
 * Wine range
 :PROPERTIES:
@@ -35,6 +38,8 @@ López de Heredia produces wines in four ranges - Viña Tondonia, Viña Bosconia
 
 *Viña Tondonia* is the most famous and largest vineyard of López de Heredia. It's made up of 100 ha of red and white grapes. Five wines are produced: Tinto Reserva, Tinto Gran Reserva, Blanco Reserva, Blanco Gran Reserva and Rosado Gran Reserva.
 
+[[file:/images/2023-04-18-tondonia/2023-04-19-08-23-03-IMG-6457.webp]]
+
 It means we will taste all but two wines from López de Heredia. And while we are missing Viña Tondonia Blanco Gran Reserva and Viña Bosconia Gran Reserva, we are still among the lucky few to taste so many rare wines in one go.
 
 * Scores
@@ -45,26 +50,36 @@ It means we will taste all but two wines from López de Heredia. And while we ar
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Bosconia | Cubillo | Gravonia | Blanco Reserva | Rosado Gran Reserva | Tinto Reserva | Tinto Gran Reserva |
-|-------+----------+---------+----------+----------------+---------------------+---------------+--------------------|
-| Boris |     1.00 |    1.00 |     1.00 |           1.00 |                1.00 |          1.00 |               1.00 |
+|             | Bosconia | Cubillo | Gravonia | Blanco R | Rosado GR | Tinto R | Tinto GR | Bonus |
+|-------------+----------+---------+----------+----------+-----------+---------+----------+-------|
+| Daria B     |     4.00 |    3.80 |     4.20 |   *4.40* |      4.40 |    4.00 |     4.20 |     - |
+| Oleksandr R |     4.00 |  *4.00* |     3.90 |     4.10 |      4.10 |    3.90 |     3.80 |  3.80 |
+| Andrii S    |   +3.80+ |    3.90 |     4.35 |     4.50 |    *4.30* |    3.90 |     4.30 |  3.70 |
+| Dimitry G   |     3.70 |  *3.90* |     4.30 |     4.30 |    +3.30+ |    3.50 |     4.40 |  3.80 |
+| Elvira K    |     3.90 |    3.80 |     4.20 |   *4.30* |      4.30 |    4.00 |     4.20 |     - |
+| Oleksandr Y |     3.80 |  *3.90* |     3.90 |     3.90 |    +3.80+ |    3.90 |     3.90 |     - |
+| Vova U      |     4.10 |  +3.90+ |     4.30 |     4.40 |    *4.40* |    3.90 |     4.20 |  4.00 |
+| Diana M     |     3.80 |    3.90 |   *4.30* |     4.00 |      3.90 |  +3.70+ |     3.90 |     - |
+| Andrii U    |     4.20 |    4.10 |     4.30 |   *4.40* |      4.30 |    4.10 |   +4.00+ |  4.10 |
+| Inna S      |     3.95 |    3.80 |   +3.60+ |   *4.20* |         - |    3.70 |     3.90 |  4.10 |
+| Boris B     |     4.00 |    3.80 |     4.20 |     4.50 |      4.40 |    4.00 |     4.20 |  4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|                     | amean    | rms      |   sdev | favourite | outcast |   price | QPR      |
-|---------------------+----------+----------+--------+-----------+---------+---------+----------|
-| Bosconia            | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1180.00 | *0.0000* |
-| Cubillo             | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  727.00 | *0.0000* |
-| Gravonia            | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 | *0.0000* |
-| Blanco Reserva      | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2010.00 | *0.0000* |
-| Rosado Gran Reserva | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2010.00 | *0.0000* |
-| Tinto Reserva       | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1510.00 | *0.0000* |
-| Tinto Gran Reserva  | *1.0000* | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 4600.00 | *0.0000* |
+|           |      rms |   sdev | favourite | outcast |   price |      QPR |
+|-----------+----------+--------+-----------+---------+---------+----------|
+| Bosconia  |   3.9344 | 0.0201 |      0.00 |    1.00 | 1180.00 |   1.8364 |
+| Cubillo   |   3.8919 | 0.0081 |      3.00 |    1.00 |  727.00 | *2.8048* |
+| Gravonia  |   4.1471 | 0.0513 |      1.00 |    1.00 | 1250.00 |   2.3791 |
+| Blanco R  | *4.2770* | 0.0365 |    *4.00* |    0.00 | 2010.00 |   1.8151 |
+| Rosado GR |   4.1340 | 0.1156 |      2.00 |  +2.00+ | 2010.00 |   1.4328 |
+| Tinto R   |   3.8763 | 0.0274 |      0.00 |    1.00 | 1510.00 |   1.3145 |
+| Tinto GR  |   4.0952 | 0.0354 |      0.00 |    1.00 | 4600.00 |   0.5988 |
+| Bonus     |   3.9314 | 0.0220 |      0.00 |    0.00 |  804.00 |   2.6821 |
 
 How to read this table:
 
-- =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because on some events some wines are not tasted by all participants.
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.
@@ -92,7 +107,7 @@ How to read this table:
 
 Viña Bosconia is a Tempranillo-based blend from the El Bosque vineyard. Don Rafael used to make Rioja Cepa Borgoña - a Burgundy-style wine based on Pinot Noir. The El Bosque vineyard is situated next to the river Ebro at an altitude of 465 m. It consists of 15 ha: 11 of which are Tempranillo, 2 ha of Garnacha, 1 ha of Mazuelo and 1 ha of Graciano.
 
-Viña Bosconia Reserva 2011 was fermented in 144-year-old oak vats and matured in used American oak barrels for five years. It was bottled in May 2018. It is unfiltered but fined with fresh egg whites. In total, 88,000 bottles were produced. To my knowledge, 2011 is freely available in Good Wine. The most recent release is Cosecha 2012, which is not available on our market yet.
+Viña Bosconia Reserva 2011 was fermented in large 144-year-old oak vats and matured in used American oak barrels (225L) for five years. It was bottled in May 2018. It is unfiltered but fined with fresh egg whites. In total, 88,000 bottles were produced. To my knowledge, 2011 is freely available in Good Wine. The most recent release is Cosecha 2012, which is not available on our market yet.
 
 * R. López de Heredia Viña Cubillo Crianza 2014
 :PROPERTIES:
@@ -114,7 +129,7 @@ Viña Bosconia Reserva 2011 was fermented in 144-year-old oak vats and matured i
 
 Viña Cubillo is a blend of Tempranillo-based blend from the vineyard called Viña Cubillas. Historically these wines were called "Special Harvest". Located at 410 meters above sea level, the vineyard covers 24 hectares: 16 ha are under Tempranillo, 4 ha Garnacha, 2 ha Mazuelo and 2 ha Graciano. The average age of vines is 40 years.
 
-Viña Cubillo Crianza 2014 spent three years in well-seasoned, neutral American oak barrels. It was bottled in November 2020. In total, 150,000 bottles were produced. Prior to release, it spent four to five years in a bottle. To my knowledge, 2014 is freely available in Good Wine. The most recent release is Cosecha 2015, which is not available on our market yet.
+Viña Cubillo Crianza 2014 spent three years in well-seasoned, neutral American oak barrels. In total, 150,000 bottles were produced. Prior to release, it spent four to five years in a bottle. To my knowledge, 2014 is freely available in Good Wine. The most recent release is Cosecha 2015, which is not available on our market yet.
 
 * R. López de Heredia Viña Gravonia Blanco Crianza 2014
 :PROPERTIES:
@@ -148,7 +163,7 @@ To María José López de Heredia, Gravonia has to be very fresh with citrus fre
 --- [[https://www.robertparker.com/wines/mnKWKWo3J3oHfmfcJ/lopez-de-heredia-vina-gravonia-blanco-2014#professional-notes][Luis Gutiérrez]]
 #+end_quote
 
-Viña Gravonia Crianza 2014 spent four years (or maybe even more because of late bottling) in barrels. It was bottled in November 2021. In total, 25,000 bottles were produced. Prior to release, it spent four to five years in a bottle. To my knowledge, 2014 is not available in Good Wine. The most recent release is Cosecha 2015, which you can freely find on the shelves.
+Viña Gravonia Crianza 2014 spent four years (or maybe even more because of late bottling) in barrels. In total, 25,000 bottles were produced. Prior to release, it spent four to five years in a bottle. To my knowledge, 2014 is not available in Good Wine. The most recent release is Cosecha 2015, which you can freely find on the shelves.
 
 * R. López de Heredia Viña Tondonia Blanco Reserva 2011
 :PROPERTIES:
@@ -176,9 +191,9 @@ Ageing wines should be seen as a pedagogic act; the wine is “educated", and he
 --- [[https://lopezdeheredia.com/english/elaboracion/crianza.html][R. López de Heredia]]
 #+end_quote
 
-Unlike Viña Gravonia, Viña Tondonia Blanco Reserva is a Viura-based blend with only 10% of Malvasia - a rather rare grape in Rioja as it represents only 0.23% of Denomination's total cultivated area. The Viña Tondonia Blanco Reserva spends six years in oak. 19,000 bottles were filled in November 2019. After bottling, the wine spends up to four years in a bottle to acquire a certain smoothness and a range of aromatic nuances.
+Unlike Viña Gravonia, Viña Tondonia Blanco Reserva is a Viura-based blend with only 10% of Malvasia - a rather rare grape in Rioja as it represents only 0.23% of Denomination's total cultivated area. The Viña Tondonia Blanco Reserva spends six years in oak. Only 19,000 bottles produced. After bottling, the wine spends up to four years in a bottle to acquire a certain smoothness and a range of aromatic nuances.
 
-For those who enjoy this oxidative style, it's impossible to substitute these wines. Huge demand and low supply mean these wines are not easy to get. Unfortunately, they are sold without being put on the shelves.
+For those who enjoy this oxidative style, it's impossible to substitute these wines. Huge demand and low supply mean these wines are not easy to get.
 
 * R. López de Heredia Viña Tondonia Rosado Gran Reserva 2012
 :PROPERTIES:
@@ -198,7 +213,7 @@ For those who enjoy this oxidative style, it's impossible to substitute these wi
 - sugar: 2.5
 - price: 2010 UAH
 
-Viña Tondonia Rosado is a blend of Garnacha (60%), Tempranillo (30%), and Viura (10%). It matured in American oak barrels for four years before being bottled in April 2018. Then it spent a few years in the winery before its release. And 2012 is the most recent one. In total, López de Heredia produced 15,000 bottles.
+Viña Tondonia Rosado is a blend of Garnacha (60%), Tempranillo (30%), and Viura (10%). It matured in American oak barrels for four years before being bottled. Then it spent a few years in the winery before its release. And 2012 is the most recent one. In total, López de Heredia produced 15,000 bottles.
 
 * R. López de Heredia Viña Tondonia Tinto Reserva 2010
 :PROPERTIES:
@@ -218,6 +233,8 @@ Viña Tondonia Rosado is a blend of Garnacha (60%), Tempranillo (30%), and Viura
 - sugar: 2.5
 - price: 1510 UAH
 
+The powerhorse of López de Heredia. Tinto Reserva is produced in huge quantities compared to some other wines. 2010 resulted in 260,000 bottles. And if you think about it, it's not that much. A blend of 70% Tempranillo, 20% Garnacha, 5% Graciano and 5% Mazuelo that fermented in 144-year-old oak vats from when the winery was created and matured in well-seasoned, American oak barrels for six years. It was bottled in May 2017.
+
 * R. López de Heredia Viña Tondonia Tinto Gran Reserva 2001
 :PROPERTIES:
 :ID:                     b427ac7b-a4fc-4082-b511-4ce72e93fd7f
@@ -236,6 +253,8 @@ Viña Tondonia Rosado is a blend of Garnacha (60%), Tempranillo (30%), and Viura
 - sugar: 2.5
 - price: 4600 UAH
 
+The 2001 Viña Tondonia Tinto Gran Reserva is the most recent release. And they produce Gran Reserva wines only in exceptional years. For example, the previous release was Cosecha 1995. A blend of 70% Tempranillo, 20% Garnacha, 5% Graciano and 5% Mazuelo that fermented in their ancient oak vats with indigenous yeasts and matured in used barrels for ten years. López de Heredia filled 25,000 bottles in July 2012. After that, the bottle waited for us to open it.
+
 * Resources
 :PROPERTIES:
 :ID:                     d4c6ef88-1554-431a-b1b9-a8cfc3c197bc
@@ -243,4 +262,5 @@ Viña Tondonia Rosado is a blend of Garnacha (60%), Tempranillo (30%), and Viura
 
 - [[https://www.robertparker.com/articles/T4MZS8yYsQYYtk2id/spain-rioja-great-again-2018-2019-2020-2021-vintages][Spain: Make Rioja Great Again!]] by Luis Gutiérrez (The Wine Advocate | July 2022 Week 2)
 - [[https://lopezdeheredia.com/][R. López de Heredia]]
+- [[https://www.bowlerwine.com/producer/lopez-de-heredia][Lopez de Heredia | Bowler Wine]]
 

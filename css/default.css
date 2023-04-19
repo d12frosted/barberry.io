@@ -352,6 +352,19 @@ table.tasting-scores td, th {
   padding: 0.6rem;
 }
 
+table.tasting-scores td, th {
+  border-right: 0.1rem solid var(--subtle);
+  border-left: 0.1rem solid var(--subtle);
+}
+
+table.tasting-scores td:first-child, th:first-child {
+  border-left: 0;
+}
+
+table.tasting-scores td:last-child, th:last-child {
+  border-right: 0;
+}
+
 main a {
   font-weight: var(--nav-font-weight);
 }
