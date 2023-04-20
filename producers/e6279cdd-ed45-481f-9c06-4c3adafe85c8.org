@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/929d295b-21c8-4e8f-89e2-909df134530c.html">
+    <img class="flex-bottle" src="/images/92/9d295b-21c8-4e8f-89e2-909df134530c/2023-04-19-19-41-53-76BDF9E6-1D93-4300-97E4-77E791C92E95-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Chablis Saint Martin - 2020</section>
+  </a>
+
+</div>
+#+end_export

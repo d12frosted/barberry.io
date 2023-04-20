@@ -1,0 +1,34 @@
+{
+  "id": "929d295b-21c8-4e8f-89e2-909df134530c",
+  "name": "Chablis Saint Martin",
+  "full-name": "Domaine Laroche Chablis Saint Martin 2020",
+  "producer": {
+    "id": "e6279cdd-ed45-481f-9c06-4c3adafe85c8",
+    "name": "Domaine Laroche"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1309 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/92/9d295b-21c8-4e8f-89e2-909df134530c/2023-04-19-19-41-53-76BDF9E6-1D93-4300-97E4-77E791C92E95-1-105-c.webp",
+  "rating": "NA"
+}
