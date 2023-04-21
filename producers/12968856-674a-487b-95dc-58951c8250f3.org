@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/31627510-8533-4130-9001-76bea481b6f2.html">
+    <img class="flex-bottle" src="/images/31/627510-8533-4130-9001-76bea481b6f2/2023-04-21-11-42-29-5BF17962-EA68-480E-A47A-25E236932E3F-1-105-c@512.webp"></img>
+    <section class="h">★ 7.40</section>
+    <section class="h text-bolder">Solaris Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

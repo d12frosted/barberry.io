@@ -27,31 +27,37 @@ It was really interesting to taste 2018 while my memory of 2006 is still fresh. 
     <section class="h text-bolder">Coleccion 125 Tinto Reserva - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
+  <a class="flex-item flex-item-right" href="/wines/424eb112-836b-4d9a-870a-bb3108b0c136.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Chivite</section>
+    <section class="h text-bolder">Coleccion 125 Rosado - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cdbb0e56-a671-46e2-9ea2-5ca831c46d47.html">
     <img class="flex-bottle" src="/images/cd/bb0e56-a671-46e2-9ea2-5ca831c46d47/2021-07-14-08-46-13-D9599F9A-47F6-46EA-8BB4-704363D84E42-1-105-c@512.webp"></img>
     <section class="h">Chivite</section>
     <section class="h text-bolder">Coleccion 125 Rosado - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
+  <a class="flex-item flex-item-right" href="/wines/4a2db391-157a-45ac-9fcf-f44ad28d7548.html">
     <img class="flex-bottle" src="/images/4a/2db391-157a-45ac-9fcf-f44ad28d7548/2021-08-20-08-51-33-DA309637-829D-4D3D-88BF-0123CAE0775A-1-105-c@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Brutal Orange - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
+  <a class="flex-item flex-item-left" href="/wines/64cb0bbe-8a1f-4909-8a99-c4ecfcec14af.html">
     <img class="flex-bottle" src="/images/64/cb0bbe-8a1f-4909-8a99-c4ecfcec14af/2021-08-20-08-48-50-1F6D9AF9-E85E-47F5-B746-326E976F1B46-1-105-c@512.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Montfleury - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c753c2d5-d002-4f72-9c8d-d97370f984f4.html">
+  <a class="flex-item flex-item-right" href="/wines/c753c2d5-d002-4f72-9c8d-d97370f984f4.html">
     <img class="flex-bottle" src="/images/c7/53c2d5-d002-4f72-9c8d-d97370f984f4/2021-08-20-08-37-40-0B352E89-1191-4E8E-B0D8-CFBDAE020E6D-1-105-c@512.webp"></img>
     <section class="h">Chartron et Trébuchet</section>
     <section class="h text-bolder">Crémant de Bourgogne Brut Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
     <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>

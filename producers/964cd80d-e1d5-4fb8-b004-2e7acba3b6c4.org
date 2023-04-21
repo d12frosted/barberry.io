@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6129929a-354b-42ef-b17c-7e564869833b.html">
+    <img class="flex-bottle" src="/images/61/29929a-354b-42ef-b17c-7e564869833b/2023-04-21-12-07-37-1B9E6AAC-45E4-4B67-A7B5-B00262A6BCD3-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Buz'kiy Flor - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b8a79685-ba6b-4456-b1bf-7dbbb6b9185d.html">
+    <img class="flex-bottle" src="/images/b8/a79685-ba6b-4456-b1bf-7dbbb6b9185d/2023-04-21-12-04-04-F4D3A727-5BA9-4B84-A4EF-B6C2EA989ADA-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export

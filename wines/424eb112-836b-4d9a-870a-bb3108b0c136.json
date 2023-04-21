@@ -1,0 +1,34 @@
+{
+  "id": "424eb112-836b-4d9a-870a-bb3108b0c136",
+  "name": "Coleccion 125 Rosado",
+  "full-name": "Chivite Coleccion 125 Rosado 2007",
+  "producer": {
+    "id": "21678ebe-7021-424e-8bbd-1e56fe722414",
+    "name": "Chivite"
+  },
+  "vintage": "2007",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.3",
+  "prices": [
+    "1500 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

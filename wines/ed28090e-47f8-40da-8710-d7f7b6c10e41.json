@@ -1,0 +1,34 @@
+{
+  "id": "ed28090e-47f8-40da-8710-d7f7b6c10e41",
+  "name": "Orange Riesling",
+  "full-name": "Petropol Orange Riesling 2021",
+  "producer": {
+    "id": "2e141292-5353-400f-bc0a-4feaa2262384",
+    "name": "Petropol"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ed/28090e-47f8-40da-8710-d7f7b6c10e41/2023-04-21-12-11-00-32B6F237-D5B1-4EAA-9B6E-2C500A23B509-1-105-c.webp",
+  "rating": "NA"
+}

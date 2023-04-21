@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/11477927-1c18-48e9-b928-2bb3c59dddb0.html">
+    <img class="flex-bottle" src="/images/11/477927-1c18-48e9-b928-2bb3c59dddb0/2023-04-21-12-09-33-FB00F71E-C9FE-4028-A437-D22306232667-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b8/a79685-ba6b-4456-b1bf-7dbbb6b9185d/2023-04-21-12-04-04-F4D3A727-5BA9-4B84-A4EF-B6C2EA989ADA-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/964cd80d-e1d5-4fb8-b004-2e7acba3b6c4][Falko]]
+- Vintage :: 2021
+- Location :: Ukraine, Mykolaiv Oblast
+- Grapes :: Riesling
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 300 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6129929a-354b-42ef-b17c-7e564869833b.html">
+    <img class="flex-bottle" src="/images/61/29929a-354b-42ef-b17c-7e564869833b/2023-04-21-12-07-37-1B9E6AAC-45E4-4B67-A7B5-B00262A6BCD3-1-105-c@512.webp"></img>
+    <section class="h">Falko</section>
+    <section class="h text-bolder">Buz'kiy Flor - 2021</section>
+  </a>
+
+</div>
+#+end_export

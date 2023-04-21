@@ -1,0 +1,34 @@
+{
+  "id": "b8a79685-ba6b-4456-b1bf-7dbbb6b9185d",
+  "name": "Riesling",
+  "full-name": "Falko Riesling 2021",
+  "producer": {
+    "id": "964cd80d-e1d5-4fb8-b004-2e7acba3b6c4",
+    "name": "Falko"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "300 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b8/a79685-ba6b-4456-b1bf-7dbbb6b9185d/2023-04-21-12-04-04-F4D3A727-5BA9-4B84-A4EF-B6C2EA989ADA-1-105-c.webp",
+  "rating": "NA"
+}

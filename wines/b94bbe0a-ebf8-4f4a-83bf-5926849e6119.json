@@ -1,0 +1,38 @@
+{
+  "id": "b94bbe0a-ebf8-4f4a-83bf-5926849e6119",
+  "name": "Cuvée Prestige Caroline Tibouren Rosé Cru Classé",
+  "full-name": "Clos Cibonne Cuvée Prestige Caroline Tibouren Rosé Cru Classé 2021",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "1576 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

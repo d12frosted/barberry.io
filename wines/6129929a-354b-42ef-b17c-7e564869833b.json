@@ -1,0 +1,46 @@
+{
+  "id": "6129929a-354b-42ef-b17c-7e564869833b",
+  "name": "Buz'kiy Flor",
+  "full-name": "Falko Buz'kiy Flor 2021",
+  "producer": {
+    "id": "964cd80d-e1d5-4fb8-b004-2e7acba3b6c4",
+    "name": "Falko"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "a067bded-65a9-4e5d-b0d4-f81eb5f88990",
+      "name": "Aligoté"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    },
+    {
+      "id": "23a7427d-d747-4b5f-8918-ce2661d71dcf",
+      "name": "Sauvignon Gris"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "NA",
+  "prices": [
+    "300 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/61/29929a-354b-42ef-b17c-7e564869833b/2023-04-21-12-07-37-1B9E6AAC-45E4-4B67-A7B5-B00262A6BCD3-1-105-c.webp",
+  "rating": "NA"
+}

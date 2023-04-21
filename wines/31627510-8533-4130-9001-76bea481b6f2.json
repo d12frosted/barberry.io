@@ -1,0 +1,34 @@
+{
+  "id": "31627510-8533-4130-9001-76bea481b6f2",
+  "name": "Solaris Brut",
+  "full-name": "Korus wine Solaris Brut NV",
+  "producer": {
+    "id": "12968856-674a-487b-95dc-58951c8250f3",
+    "name": "Korus wine"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "d82d922c-0d20-469a-a03a-62fde88b4d06",
+      "name": "Solaris"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/31/627510-8533-4130-9001-76bea481b6f2/2023-04-21-11-42-29-5BF17962-EA68-480E-A47A-25E236932E3F-1-105-c.webp",
+  "rating": "7.4"
+}
