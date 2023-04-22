@@ -1,0 +1,34 @@
+{
+  "id": "7574d399-4877-4f3a-8cfb-62376c83e765",
+  "name": "Rkatsiteli Amber",
+  "full-name": "Narovylo Rkatsiteli Amber 2021",
+  "producer": {
+    "id": "1b14e360-b309-475a-9178-1a4624cee949",
+    "name": "Narovylo"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "afb94792-cd0f-43a3-889f-cc4abfa36ff5",
+      "name": "Rkatsiteli"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/75/74d399-4877-4f3a-8cfb-62376c83e765/2023-04-22-09-06-48-615861F5-A957-4291-9BBA-0901180C5E00-1-105-c.webp",
+  "rating": "7.25"
+}

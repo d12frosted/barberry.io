@@ -9,9 +9,65 @@
 - Alcohol :: 13
 - Sugar :: NA
 - Price :: XXX UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-04-20 - ☆ 7.00
 
+Simple yet attractive bouquet of white peaches, honey and butter. A bit shy, though. It has good acidity and decent balance. A pleasant bitterness and saltiness spice things up. Any problems? Not really. It just lacks focus and structure. It's like talking to a person who constantly looks sideways.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7574d399-4877-4f3a-8cfb-62376c83e765.html">
+    <img class="flex-bottle" src="/images/75/74d399-4877-4f3a-8cfb-62376c83e765/2023-04-22-09-06-48-615861F5-A957-4291-9BBA-0901180C5E00-1-105-c@512.webp"></img>
+    <section class="h">Narovylo</section>
+    <section class="h text-bolder">Rkatsiteli Amber - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/16ba656d-13cc-4405-8c97-4d9ea7312fa2.html">
+    <img class="flex-bottle" src="/images/16/ba656d-13cc-4405-8c97-4d9ea7312fa2/2023-04-21-12-17-44-C31FF1EC-8408-4B43-BC63-CCC8FF1FBD87-1-105-c@512.webp"></img>
+    <section class="h">Bohdan's Winery</section>
+    <section class="h text-bolder">Cavetcina Sauvignon Blanc - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/31627510-8533-4130-9001-76bea481b6f2.html">
+    <img class="flex-bottle" src="/images/31/627510-8533-4130-9001-76bea481b6f2/2023-04-21-11-42-29-5BF17962-EA68-480E-A47A-25E236932E3F-1-105-c@512.webp"></img>
+    <section class="h">Korus wine</section>
+    <section class="h text-bolder">Solaris Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6129929a-354b-42ef-b17c-7e564869833b.html">
+    <img class="flex-bottle" src="/images/61/29929a-354b-42ef-b17c-7e564869833b/2023-04-21-12-07-37-1B9E6AAC-45E4-4B67-A7B5-B00262A6BCD3-1-105-c@512.webp"></img>
+    <section class="h">Falko</section>
+    <section class="h text-bolder">Buz'kiy Flor - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8b1284dc-dec9-4a4f-acdf-502ba05187af.html">
+    <img class="flex-bottle" src="/images/8b/1284dc-dec9-4a4f-acdf-502ba05187af/2023-04-21-12-14-37-59E5F41C-2D11-4696-B68A-E27AFC17259E-1-105-c@512.webp"></img>
+    <section class="h">Honcharna Hora</section>
+    <section class="h text-bolder">Cytronnyj - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b50a05a1-15a4-4710-94bd-fb609af5e911.html">
+    <img class="flex-bottle" src="/images/b5/0a05a1-15a4-4710-94bd-fb609af5e911/2023-04-21-12-01-02-0337006D-4884-46D2-A65D-1CFEFDCDB60D-1-105-c@512.webp"></img>
+    <section class="h">Frumushika-Nova</section>
+    <section class="h text-bolder">Suholimanske - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b8a79685-ba6b-4456-b1bf-7dbbb6b9185d.html">
+    <img class="flex-bottle" src="/images/b8/a79685-ba6b-4456-b1bf-7dbbb6b9185d/2023-04-21-12-04-04-F4D3A727-5BA9-4B84-A4EF-B6C2EA989ADA-1-105-c@512.webp"></img>
+    <section class="h">Falko</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed28090e-47f8-40da-8710-d7f7b6c10e41.html">
+    <img class="flex-bottle" src="/images/ed/28090e-47f8-40da-8710-d7f7b6c10e41/2023-04-21-12-11-00-32B6F237-D5B1-4EAA-9B6E-2C500A23B509-1-105-c@512.webp"></img>
+    <section class="h">Petropol</section>
+    <section class="h text-bolder">Orange Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export
