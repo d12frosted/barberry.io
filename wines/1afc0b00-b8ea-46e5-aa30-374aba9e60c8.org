@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/1a/fc0b00-b8ea-46e5-aa30-374aba9e60c8/2023-04-27-09-33-22-1FF181A0-999B-49E8-AB63-7D691A6BC95B-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/e91269fa-d425-4efc-b44f-eb09d5dac032][Johnson Estate]]
+- Vintage :: 2022
+- Location :: New Zealand, Marlborough
+- Grapes :: Sauvignon Blanc
+- Alcohol :: 12.5
+- Sugar :: 1.82
+- Price :: 384 UAH
+- Cellar :: 2 bottles
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31.html">
+    <img class="flex-bottle" src="/images/47/a0e9bc-69e9-4149-8f01-a06076e86a31/2023-01-10-07-00-07-C9B2EEC3-F1F1-4C66-A8C0-59B1A91E6D8B-1-102-o@512.webp"></img>
+    <section class="h">Johnson Estate</section>
+    <section class="h text-bolder">Pinot Noir - 2018</section>
+  </a>
+
+</div>
+#+end_export

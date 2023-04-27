@@ -1,0 +1,34 @@
+{
+  "id": "1afc0b00-b8ea-46e5-aa30-374aba9e60c8",
+  "name": "Sauvignon Blanc",
+  "full-name": "Johnson Estate Sauvignon Blanc 2022",
+  "producer": {
+    "id": "e91269fa-d425-4efc-b44f-eb09d5dac032",
+    "name": "Johnson Estate"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.82",
+  "prices": [
+    "384 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/1a/fc0b00-b8ea-46e5-aa30-374aba9e60c8/2023-04-27-09-33-22-1FF181A0-999B-49E8-AB63-7D691A6BC95B-1-105-c.webp",
+  "rating": "NA"
+}
