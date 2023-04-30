@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/38/a928d9-d363-4990-9b6b-3a939ec4bfd4/2023-04-29-19-18-13-5AB5CFCF-AFFB-4E29-A2CC-571E84F6E4B1-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/1b14e360-b309-475a-9178-1a4624cee949][Narovylo]]
+- Vintage :: 2021
+- Location :: Ukraine, Kyiv Oblast
+- Grapes :: Merlot
+- Alcohol :: 14
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/11477927-1c18-48e9-b928-2bb3c59dddb0.html">
+    <img class="flex-bottle" src="/images/11/477927-1c18-48e9-b928-2bb3c59dddb0/2023-04-21-12-09-33-FB00F71E-C9FE-4028-A437-D22306232667-1-105-c@512.webp"></img>
+    <section class="h">Narovylo</section>
+    <section class="h text-bolder">Riesling - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7574d399-4877-4f3a-8cfb-62376c83e765.html">
+    <img class="flex-bottle" src="/images/75/74d399-4877-4f3a-8cfb-62376c83e765/2023-04-22-09-06-48-615861F5-A957-4291-9BBA-0901180C5E00-1-105-c@512.webp"></img>
+    <section class="h">Narovylo</section>
+    <section class="h text-bolder">Rkatsiteli Amber - 2021</section>
+  </a>
+
+</div>
+#+end_export

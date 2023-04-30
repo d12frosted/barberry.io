@@ -1,0 +1,38 @@
+{
+  "id": "41b4dfcb-6861-4970-8754-f32addc3508f",
+  "name": "Red wine",
+  "full-name": "Petropol Red wine 2021",
+  "producer": {
+    "id": "2e141292-5353-400f-bc0a-4feaa2262384",
+    "name": "Petropol"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "a7abe8d4-eec4-4721-ad64-6155fd9074c5",
+      "name": "Odesa black"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/41/b4dfcb-6861-4970-8754-f32addc3508f/2023-04-29-19-53-08-D2DB8403-8752-4354-AC9D-D89699C04FF8-1-105-c.webp",
+  "rating": "NA"
+}

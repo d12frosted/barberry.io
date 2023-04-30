@@ -1,0 +1,34 @@
+{
+  "id": "64726d9d-de2d-4f5d-a995-4dcd112f1df3",
+  "name": "Pinot Noir Rosé Brut Traditional Method",
+  "full-name": "Frumushika-Nova Pinot Noir Rosé Brut Traditional Method 2020",
+  "producer": {
+    "id": "5e3302ca-a6e3-4643-a907-0610dc1812bc",
+    "name": "Frumushika-Nova"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "325 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

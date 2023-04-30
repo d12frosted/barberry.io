@@ -1,0 +1,31 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d3/0fb947-39f6-40c8-9716-a17d3d59f2ef/2023-04-29-19-52-08-E39BC132-C5F7-4D0E-B470-D4990EFEF4B0-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/12968856-674a-487b-95dc-58951c8250f3][Korus wine]]
+- Vintage :: 2020
+- Location :: Ukraine, Kirovohrad Oblast
+- Grapes :: Odesa black
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+Not sure about alcohol level.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/31627510-8533-4130-9001-76bea481b6f2.html">
+    <img class="flex-bottle" src="/images/31/627510-8533-4130-9001-76bea481b6f2/2023-04-21-11-42-29-5BF17962-EA68-480E-A47A-25E236932E3F-1-105-c@512.webp"></img>
+    <section class="h">Korus wine</section>
+    <section class="h text-bolder">Solaris Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

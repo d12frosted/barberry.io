@@ -1,0 +1,34 @@
+{
+  "id": "5861ed11-c509-4a3d-8446-3687b6d5fd03",
+  "name": "Melon le Rouge-queue",
+  "full-name": "Philippe Bornard Melon le Rouge-queue 2015",
+  "producer": {
+    "id": "87cad537-a30b-4bfe-af48-de2a73a44e35",
+    "name": "Philippe Bornard"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.8",
+  "sugar": "5",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c.webp",
+  "rating": "NA"
+}

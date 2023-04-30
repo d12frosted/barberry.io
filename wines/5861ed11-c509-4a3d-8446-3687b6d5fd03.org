@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/87cad537-a30b-4bfe-af48-de2a73a44e35][Philippe Bornard]]
+- Vintage :: 2015
+- Location :: France, Arbois AOC
+- Grapes :: Chardonnay
+- Alcohol :: 13.8
+- Sugar :: 5
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+It is not clear if Melon-Queue-Rouge is a distinct grape variety or just a stain of Chardonnay that happens to have red stalks. INAO doesn't recognize it as a distinct grape, so some producers from Jura simply label the cuvée with the unofficial grape name.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/8be288b4-c865-4237-8125-936b27b93e6f.html">
+    <img class="flex-bottle" src="/images/8b/e288b4-c865-4237-8125-936b27b93e6f/2022-12-17-11-52-38-F42BB5C1-A8B3-476A-9403-C1581856794A-1-105-c@512.webp"></img>
+    <section class="h">Philippe Bornard</section>
+    <section class="h text-bolder">Ploussard Point barre - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
+    <img class="flex-bottle" src="/images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o@512.webp"></img>
+    <section class="h">Philippe Bornard</section>
+    <section class="h text-bolder">Savagnin les Chassagnes lieu dit ouillé - 2012</section>
+  </a>
+
+</div>
+#+end_export

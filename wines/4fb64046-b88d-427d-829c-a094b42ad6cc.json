@@ -1,0 +1,38 @@
+{
+  "id": "4fb64046-b88d-427d-829c-a094b42ad6cc",
+  "name": "Tibouren Rosé Cru Classé",
+  "full-name": "Clos Cibonne Tibouren Rosé Cru Classé 2021",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.8",
+  "prices": [
+    "1141 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4f/b64046-b88d-427d-829c-a094b42ad6cc/2023-04-29-17-51-34-225EC85F-FB4F-4DF1-93A8-7F160EED5070-1-105-c.webp",
+  "rating": "NA"
+}

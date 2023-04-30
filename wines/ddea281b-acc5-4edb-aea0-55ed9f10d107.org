@@ -1,0 +1,63 @@
+#+attr_html: :class wine-main-image
+[[file:/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Pierre-Yves Colin-Morey]]
+- Vintage :: 2020
+- Location :: France, Bourgogne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 1
+- Price :: 1250 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Pierre-Yves Colin is one of Burgundy's (and the wine world's) most iconic winemakers. After working as the winemaker at his father's domaine from 1994 to 2005, Pierre-Yves established his own domaine alongside his wife, Caroline Morey. And while they inherited quite a few vineyards from their families, Pierre-Yves had to prove himself before his father, Marc Colin, allowed him to take over the vineyard in Bâtard-Montrachet. Today, it's the only Grand Cru owned by Pierre-Yves Colin-Morey.
+
+His fastidious farming (lutte raisonnée[fn:1]), incredible attention to detail, use of larger demi-muid barrels, and long elevage - all that makes each one of his bottlings a clear expression of its terroir and a study in mineral-driven Chardonnay. Unlike many locals, Pierre-Yves uses 350L barrels (instead of 225L) and also ages his wines for a longer period of 18 months (vs 12 months).
+
+[fn:1] Lutte raisonnée (literally 'reasoned struggle') is an approach to viticulture which permits the application of agrochemicals only when absolutely necessary and not as a matter of routine. Practically, that means no chemicals unless there is a high risk of losing harvest or vines altogether.
+
+[[barberry:/producers/70b5a0f1-e020-4074-99a7-cc93c1e7cf99][Read more...]]
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/104d5107-e706-46fb-9980-dfeb1a4dacce.html">
+    <img class="flex-bottle" src="/images/10/4d5107-e706-46fb-9980-dfeb1a4dacce/2023-04-07-20-22-10-39E1987A-CBB4-4B2F-B504-DA8ECFCECB52-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Meursault Village - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/88c63945-bcf3-4ad7-8208-2178cc5e12ce.html">
+    <img class="flex-bottle" src="/images/88/c63945-bcf3-4ad7-8208-2178cc5e12ce/2021-12-09-08-50-16-8E47B39A-1C56-4891-B0E6-7D414FB906E7-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Saint-Aubin Le Banc - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d42189bb-d2e7-483f-a342-5c825997921c.html">
+    <img class="flex-bottle" src="/images/d4/2189bb-d2e7-483f-a342-5c825997921c/2021-08-18-10-33-06-598E4464-4ED3-45C4-8B6D-E805746CA0DE-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Cuvee Marguerite Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d85e8c99-c857-4754-bda0-5640e29e96be.html">
+    <img class="flex-bottle" src="/images/d8/5e8c99-c857-4754-bda0-5640e29e96be/2023-04-07-20-25-21-342FDA56-ED9C-4026-A91D-035CB863C78A-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniére - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
+    <img class="flex-bottle" src="/images/f1/6dab18-1a1f-4883-a6cb-9c9f9b047987/2023-04-07-20-25-58-837A1441-76CC-41B6-81BB-0BF9ED692949-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Saint-Aubin Premier Cru Les Champlots - 2020</section>
+  </a>
+
+</div>
+#+end_export

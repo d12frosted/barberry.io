@@ -1,0 +1,34 @@
+{
+  "id": "939baa58-54d8-4750-b951-e8b000c87f19",
+  "name": "Point barre",
+  "full-name": "Tony Bornard Point barre 2020",
+  "producer": {
+    "id": "4aa53868-481e-4498-9bd8-55c0a0f717e2",
+    "name": "Tony Bornard"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1467 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/93/9baa58-54d8-4750-b951-e8b000c87f19/2023-04-29-17-22-48-68E93862-31D0-4A17-B085-6BD5FE4CAFCA-1-105-c.webp",
+  "rating": "NA"
+}

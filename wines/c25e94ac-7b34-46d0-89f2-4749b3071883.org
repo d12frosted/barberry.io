@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c2/5e94ac-7b34-46d0-89f2-4749b3071883/2023-04-29-19-57-10-656E3817-AF22-4935-B42C-4E168E0F67B6-1-105-c@512.webp]]
+
+- Type :: Rose Still, Dry
+- Producer :: [[barberry:/producers/79c1e148-76d1-43d5-a66a-991d11c3a1f3][Bohdan's Winery]]
+- Vintage :: 2022
+- Location :: Ukraine, Khmelnytskyi Oblast
+- Grapes :: Rkatsiteli
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0b2e84ea-cc0f-452c-ad7f-e59dbb8b96a6.html">
+    <img class="flex-bottle" src="/images/0b/2e84ea-cc0f-452c-ad7f-e59dbb8b96a6/2023-04-29-19-20-47-9216C58D-91F4-4CD8-89B5-0A36D77D7B2F-1-105-c@512.webp"></img>
+    <section class="h">Bohdan's Winery</section>
+    <section class="h text-bolder">Bacota Syrah - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/16ba656d-13cc-4405-8c97-4d9ea7312fa2.html">
+    <img class="flex-bottle" src="/images/16/ba656d-13cc-4405-8c97-4d9ea7312fa2/2023-04-21-12-17-44-C31FF1EC-8408-4B43-BC63-CCC8FF1FBD87-1-105-c@512.webp"></img>
+    <section class="h">Bohdan's Winery</section>
+    <section class="h text-bolder">Cavetcina Sauvignon Blanc - 2022</section>
+  </a>
+
+</div>
+#+end_export

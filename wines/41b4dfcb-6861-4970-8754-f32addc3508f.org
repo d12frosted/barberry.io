@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/41/b4dfcb-6861-4970-8754-f32addc3508f/2023-04-29-19-53-08-D2DB8403-8752-4354-AC9D-D89699C04FF8-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/2e141292-5353-400f-bc0a-4feaa2262384][Petropol]]
+- Vintage :: 2021
+- Location :: Ukraine, Odesa Region
+- Grapes :: Cabernet Sauvignon, Odesa black
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ed28090e-47f8-40da-8710-d7f7b6c10e41.html">
+    <img class="flex-bottle" src="/images/ed/28090e-47f8-40da-8710-d7f7b6c10e41/2023-04-21-12-11-00-32B6F237-D5B1-4EAA-9B6E-2C500A23B509-1-105-c@512.webp"></img>
+    <section class="h">Petropol</section>
+    <section class="h text-bolder">Orange Riesling - 2021</section>
+  </a>
+
+</div>
+#+end_export

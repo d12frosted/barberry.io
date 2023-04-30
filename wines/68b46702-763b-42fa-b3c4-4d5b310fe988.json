@@ -1,0 +1,34 @@
+{
+  "id": "68b46702-763b-42fa-b3c4-4d5b310fe988",
+  "name": "le Ginglet",
+  "full-name": "Tony Bornard le Ginglet 2019",
+  "producer": {
+    "id": "4aa53868-481e-4498-9bd8-55c0a0f717e2",
+    "name": "Tony Bornard"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "12.7",
+  "sugar": "1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 2.0,
+  "image": "images/68/b46702-763b-42fa-b3c4-4d5b310fe988/2023-04-29-17-28-21-F40AEC59-4E45-442F-B357-72E9316D5408-1-105-c.webp",
+  "rating": "NA"
+}

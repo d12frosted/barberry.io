@@ -1,0 +1,34 @@
+{
+  "id": "c28d1e1e-048a-4143-ada1-bcf192a5285a",
+  "name": "les Marnes",
+  "full-name": "Tony Bornard les Marnes 2016",
+  "producer": {
+    "id": "4aa53868-481e-4498-9bd8-55c0a0f717e2",
+    "name": "Tony Bornard"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12.8",
+  "sugar": "1",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 2.0,
+  "image": "images/c2/8d1e1e-048a-4143-ada1-bcf192a5285a/2023-04-29-15-22-35-DFE13E62-16A0-4CCA-B5BA-77F14FF77F6E-1-105-c.webp",
+  "rating": "NA"
+}

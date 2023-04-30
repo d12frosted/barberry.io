@@ -1,0 +1,34 @@
+{
+  "id": "0b2e84ea-cc0f-452c-ad7f-e59dbb8b96a6",
+  "name": "Bacota Syrah",
+  "full-name": "Bohdan's Winery Bacota Syrah 2021",
+  "producer": {
+    "id": "79c1e148-76d1-43d5-a66a-991d11c3a1f3",
+    "name": "Bohdan's Winery"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/0b/2e84ea-cc0f-452c-ad7f-e59dbb8b96a6/2023-04-29-19-20-47-9216C58D-91F4-4CD8-89B5-0A36D77D7B2F-1-105-c.webp",
+  "rating": "NA"
+}
