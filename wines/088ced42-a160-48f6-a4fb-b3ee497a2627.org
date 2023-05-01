@@ -9,11 +9,13 @@
 - Alcohol :: 12.7
 - Sugar :: 1
 - Price :: 1293 UAH
-- Cellar :: 2 bottles
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-04-27 - ☆ 7.25
+
+A sharp and simple Trousseau. Red berries mixed with acetone. Well-balanced, easy to drink, yet nothing special.
 
 ** Related
 
@@ -77,6 +79,30 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o@512.webp"></img>
     <section class="h">Tony Bornard</section>
     <section class="h text-bolder">le Vin de Ploussard ouvre L'esprit - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c@512.webp"></img>
+    <section class="h">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4fb64046-b88d-427d-829c-a094b42ad6cc.html">
+    <img class="flex-bottle" src="/images/4f/b64046-b88d-427d-829c-a094b42ad6cc/2023-04-29-17-51-34-225EC85F-FB4F-4DF1-93A8-7F160EED5070-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Tibouren Rosé Cru Classé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03.html">
+    <img class="flex-bottle" src="/images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c@512.webp"></img>
+    <section class="h">Philippe Bornard</section>
+    <section class="h text-bolder">Melon le Rouge-queue - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
+    <img class="flex-bottle" src="/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
   </a>
 
 </div>
