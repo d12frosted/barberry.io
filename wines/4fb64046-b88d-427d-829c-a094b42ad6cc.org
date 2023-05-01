@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 1.8
 - Price :: 1141 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -19,7 +19,9 @@ In the 1930s, André Roux took over the winery and brought it to a new level. Th
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-04-27 - ☆ 7.75
+
+It's already far from being an easy summer drink. And at the same time, it's not convincing enough to be treated as a serious drink. It tries. Too young? Maybe. A bit shy and restrained bouquet of caramel, wet wood and spices. Medium acidity seems lacking though it's well-balanced and relatively complex.
 
 ** Related
 
@@ -47,6 +49,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Clos Cibonne</section>
     <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/18504209-097a-41cc-b6ac-e1cf5d449b37.html">
+    <img class="flex-bottle" src="/images/18/504209-097a-41cc-b6ac-e1cf5d449b37/2023-04-29-15-21-13-07734D65-7FDA-464C-AB7D-673E96C0E48B-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Gaudrettes Troisième Tirage - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+    <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c@512.webp"></img>
+    <section class="h">La Stoppa</section>
+    <section class="h text-bolder">Ageno - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03.html">
+    <img class="flex-bottle" src="/images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c@512.webp"></img>
+    <section class="h">Philippe Bornard</section>
+    <section class="h text-bolder">Melon le Rouge-queue - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c28d1e1e-048a-4143-ada1-bcf192a5285a.html">
+    <img class="flex-bottle" src="/images/c2/8d1e1e-048a-4143-ada1-bcf192a5285a/2023-04-29-15-22-35-DFE13E62-16A0-4CCA-B5BA-77F14FF77F6E-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Marnes - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
+    <img class="flex-bottle" src="/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
   </a>
 
 </div>

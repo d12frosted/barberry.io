@@ -25,6 +25,66 @@ There is something charming in its teenager's spirit, yet it's not my cup of Plo
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/025a7525-569d-4713-b565-f8b215b5f6f1.html">
+    <img class="flex-bottle" src="/images/02/5a7525-569d-4713-b565-f8b215b5f6f1/2020-09-06-12-18-37-AD25ECF0-A2AC-497D-8D99-433C3AA7D616-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">Triffaut le Ginglet - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/088ced42-a160-48f6-a4fb-b3ee497a2627.html">
+    <img class="flex-bottle" src="/images/08/8ced42-a160-48f6-a4fb-b3ee497a2627/2023-04-29-17-29-22-8FD2A62D-E0A8-445E-80FB-6DDB2D92E117-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">le Ginglet - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/113057d7-a5f2-4969-93b9-49dc6f919d6b.html">
+    <img class="flex-bottle" src="/images/11/3057d7-a5f2-4969-93b9-49dc6f919d6b/2023-04-29-17-25-50-0E2F8E96-54E5-4580-9ACF-3912308B1D80-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">l'Aide mémoire - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/18504209-097a-41cc-b6ac-e1cf5d449b37.html">
+    <img class="flex-bottle" src="/images/18/504209-097a-41cc-b6ac-e1cf5d449b37/2023-04-29-15-21-13-07734D65-7FDA-464C-AB7D-673E96C0E48B-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Gaudrettes Troisième Tirage - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1ea0718e-34ae-4d3d-9d95-c51a388ed6a9.html">
+    <img class="flex-bottle" src="/images/1e/a0718e-34ae-4d3d-9d95-c51a388ed6a9/2023-04-29-17-24-35-B32283FB-0F54-4585-8AFE-1E8DAC2FE511-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">la Chamade - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4cb1a6b0-47f1-45db-b62c-89af3512213e.html">
+    <img class="flex-bottle" src="/images/4c/b1a6b0-47f1-45db-b62c-89af3512213e/2023-04-29-17-27-08-F3CC93C7-2AF9-4038-9704-C56B8997E446-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">le Pinot noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/68b46702-763b-42fa-b3c4-4d5b310fe988.html">
+    <img class="flex-bottle" src="/images/68/b46702-763b-42fa-b3c4-4d5b310fe988/2023-04-29-17-28-21-F40AEC59-4E45-442F-B357-72E9316D5408-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">le Ginglet - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/69dc0d5b-9597-4583-9989-052c4ad19c05.html">
+    <img class="flex-bottle" src="/images/69/dc0d5b-9597-4583-9989-052c4ad19c05/2023-04-29-17-23-46-81209B79-27F6-4C8E-ACA2-DB331FF18060-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">la Chamade - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/939baa58-54d8-4750-b951-e8b000c87f19.html">
+    <img class="flex-bottle" src="/images/93/9baa58-54d8-4750-b951-e8b000c87f19/2023-04-29-17-22-48-68E93862-31D0-4A17-B085-6BD5FE4CAFCA-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">Point barre - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c28d1e1e-048a-4143-ada1-bcf192a5285a.html">
+    <img class="flex-bottle" src="/images/c2/8d1e1e-048a-4143-ada1-bcf192a5285a/2023-04-29-15-22-35-DFE13E62-16A0-4CCA-B5BA-77F14FF77F6E-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Marnes - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/0800b46f-7338-416b-b827-3bfb071e1238.html">
     <img class="flex-bottle" src="/images/08/00b46f-7338-416b-b827-3bfb071e1238/2023-04-01-09-58-09-9E85DC50-DA9C-482C-B4E8-3BF49562BBD9-1-105-c@512.webp"></img>
     <section class="h">Mongarda</section>
@@ -124,7 +184,7 @@ There is something charming in its teenager's spirit, yet it's not my cup of Plo
   <a class="flex-item flex-item-left" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
     <img class="flex-bottle" src="/images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o@512.webp"></img>
     <section class="h">Philippe Bornard</section>
-    <section class="h text-bolder">Côtes du Jura Savagnin les Chassagnes ouillé - 2012</section>
+    <section class="h text-bolder">Savagnin les Chassagnes lieu dit ouillé - 2012</section>
   </a>
 
 </div>

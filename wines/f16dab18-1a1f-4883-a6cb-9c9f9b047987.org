@@ -59,49 +59,55 @@ It feels wasteful to put it on a blind tasting, but boy, how happy I am that so 
     <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniére - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/026717f4-446c-4982-9dce-66031fcf6294.html">
+  <a class="flex-item flex-item-left" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
+    <img class="flex-bottle" src="/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/026717f4-446c-4982-9dce-66031fcf6294.html">
     <img class="flex-bottle" src="/images/02/6717f4-446c-4982-9dce-66031fcf6294/2023-01-24-07-04-26-IMG-4546@512.webp"></img>
     <section class="h">Sous Le Végétal</section>
     <section class="h text-bolder">Hüpnos - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4c766528-8c5d-4d33-83fb-270463090018.html">
+  <a class="flex-item flex-item-left" href="/wines/4c766528-8c5d-4d33-83fb-270463090018.html">
     <img class="flex-bottle" src="/images/4c/766528-8c5d-4d33-83fb-270463090018/2023-03-24-13-38-06-IMG-5687@512.webp"></img>
     <section class="h">Domaine Pinson</section>
     <section class="h text-bolder">Chablis - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f.html">
+  <a class="flex-item flex-item-right" href="/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f.html">
     <img class="flex-bottle" src="/images/90/6681ab-c1e3-4524-9d11-0b5b7ad0f87f/2023-04-07-20-34-39-E9C1E94E-0867-491E-A30A-91E0D24A350F-1-105-c@512.webp"></img>
     <section class="h">Clos Cibonne</section>
     <section class="h text-bolder">Cuvée Prestige Olivier Cru Classé - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42.html">
+  <a class="flex-item flex-item-left" href="/wines/c8d48ec3-1c25-414c-85e0-d944fb493c42.html">
     <img class="flex-bottle" src="/images/c8/d48ec3-1c25-414c-85e0-d944fb493c42/2023-02-09-17-23-22-IMG-4867@512.webp"></img>
     <section class="h">Cascina Tavijn</section>
     <section class="h text-bolder">Monstro - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176.html">
+  <a class="flex-item flex-item-right" href="/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176.html">
     <img class="flex-bottle" src="/images/cc/6e12e2-3df7-4230-a784-5d7a19b9b176/2023-01-16-16-12-46-IMG-4325@512.webp"></img>
     <section class="h">Haras de Pirque</section>
     <section class="h text-bolder">Galantas Gran Reserva - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f.html">
+  <a class="flex-item flex-item-left" href="/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f.html">
     <img class="flex-bottle" src="/images/e4/8f4301-fd16-4dc7-92bc-b5fc6807423f/2023-01-24-07-12-40-IMG-4564@512.webp"></img>
     <section class="h">JM Dreyer</section>
     <section class="h text-bolder">Origin Riesling Macération - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0.html">
+  <a class="flex-item flex-item-right" href="/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0.html">
     <img class="flex-bottle" src="/images/f9/d85e1b-8424-498e-83e8-e1307d7dd9b0/2022-09-26-19-13-00-1FF220DE-1716-4A41-B4A7-3F51BBA198C2-1-102-o@512.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Morei Teroldego - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6.html">
+  <a class="flex-item flex-item-left" href="/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6.html">
     <img class="flex-bottle" src="/images/fa/8be8c9-7ba9-489b-bb4f-09401d3c6bd6/2023-01-16-16-14-21-IMG-4327@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Olla Blanc - 2021</section>

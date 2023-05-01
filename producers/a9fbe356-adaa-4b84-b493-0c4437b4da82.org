@@ -9,5 +9,11 @@
     <section class="h text-bolder">Cytronnyj - 2022</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/6071bcf1-13ea-4e63-88e6-f865fa799ad0.html">
+    <img class="flex-bottle" src="/images/60/71bcf1-13ea-4e63-88e6-f865fa799ad0/2023-04-29-19-19-23-673CE3B2-576C-4296-BAA9-914C6EF4F084-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
 </div>
 #+end_export

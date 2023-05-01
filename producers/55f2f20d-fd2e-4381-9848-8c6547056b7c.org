@@ -30,5 +30,11 @@ In the 1930s, André Roux took over the winery and brought it to a new level. Th
     <section class="h text-bolder">Tentations Rosé - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/4fb64046-b88d-427d-829c-a094b42ad6cc.html">
+    <img class="flex-bottle" src="/images/4f/b64046-b88d-427d-829c-a094b42ad6cc/2023-04-29-17-51-34-225EC85F-FB4F-4DF1-93A8-7F160EED5070-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Tibouren Rosé Cru Classé - 2021</section>
+  </a>
+
 </div>
 #+end_export

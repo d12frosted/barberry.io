@@ -3,22 +3,22 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/8be288b4-c865-4237-8125-936b27b93e6f.html">
+  <a class="flex-item flex-item-left" href="/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03.html">
+    <img class="flex-bottle" src="/images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Melon le Rouge-queue - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8be288b4-c865-4237-8125-936b27b93e6f.html">
     <img class="flex-bottle" src="/images/8b/e288b4-c865-4237-8125-936b27b93e6f/2022-12-17-11-52-38-F42BB5C1-A8B3-476A-9403-C1581856794A-1-105-c@512.webp"></img>
     <section class="h">★ -</section>
-    <section class="h text-bolder">Côtes du Jura Ploussard Point barre - 2015</section>
+    <section class="h text-bolder">Ploussard Point barre - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
+  <a class="flex-item flex-item-left" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
     <img class="flex-bottle" src="/images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o@512.webp"></img>
     <section class="h">★ 8.50</section>
-    <section class="h text-bolder">Côtes du Jura Savagnin les Chassagnes ouillé - 2012</section>
-  </a>
-
-  <a class="flex-item flex-item-left" href="/wines/025a7525-569d-4713-b565-f8b215b5f6f1.html">
-    <img class="flex-bottle" src="/images/02/5a7525-569d-4713-b565-f8b215b5f6f1/2020-09-06-12-18-37-AD25ECF0-A2AC-497D-8D99-433C3AA7D616-1-105-c@512.webp"></img>
-    <section class="h">★ 7.50</section>
-    <section class="h text-bolder">Trousseau Le Ginglet - 2018</section>
+    <section class="h text-bolder">Savagnin les Chassagnes lieu dit ouillé - 2012</section>
   </a>
 
 </div>

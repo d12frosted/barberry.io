@@ -47,7 +47,13 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniére - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
+  <a class="flex-item flex-item-right" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
+    <img class="flex-bottle" src="/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp"></img>
+    <section class="h">Pierre-Yves Colin-Morey</section>
+    <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987.html">
     <img class="flex-bottle" src="/images/f1/6dab18-1a1f-4883-a6cb-9c9f9b047987/2023-04-07-20-25-58-837A1441-76CC-41B6-81BB-0BF9ED692949-1-105-c@512.webp"></img>
     <section class="h">Pierre-Yves Colin-Morey</section>
     <section class="h text-bolder">Saint-Aubin Premier Cru Les Champlots - 2020</section>
