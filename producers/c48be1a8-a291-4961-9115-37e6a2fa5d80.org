@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/db04925f-0f91-4fc6-99bb-dc85f9f10266.html">
+    <img class="flex-bottle" src="/images/db/04925f-0f91-4fc6-99bb-dc85f9f10266/2023-05-01-12-11-37-64A65F0E-6713-48A8-B850-6A94AAFD5007-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2018</section>
+  </a>
+
+</div>
+#+end_export

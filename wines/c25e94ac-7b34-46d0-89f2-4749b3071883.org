@@ -9,11 +9,13 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: XXX UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-04-28 - ☆ 7.40
+
+A mix of peach, spicy herbs and sweet spices. Flowery and green. Easy to drink as it has good balance, freshness and structure.
 
 ** Related
 
@@ -29,6 +31,48 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/16/ba656d-13cc-4405-8c97-4d9ea7312fa2/2023-04-21-12-17-44-C31FF1EC-8408-4B43-BC63-CCC8FF1FBD87-1-105-c@512.webp"></img>
     <section class="h">Bohdan's Winery</section>
     <section class="h text-bolder">Cavetcina Sauvignon Blanc - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/38a928d9-d363-4990-9b6b-3a939ec4bfd4.html">
+    <img class="flex-bottle" src="/images/38/a928d9-d363-4990-9b6b-3a939ec4bfd4/2023-04-29-19-18-13-5AB5CFCF-AFFB-4E29-A2CC-571E84F6E4B1-1-105-c@512.webp"></img>
+    <section class="h">Narovylo</section>
+    <section class="h text-bolder">Merlot - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/41b4dfcb-6861-4970-8754-f32addc3508f.html">
+    <img class="flex-bottle" src="/images/41/b4dfcb-6861-4970-8754-f32addc3508f/2023-04-29-19-53-08-D2DB8403-8752-4354-AC9D-D89699C04FF8-1-105-c@512.webp"></img>
+    <section class="h">Petropol</section>
+    <section class="h text-bolder">Red wine - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6071bcf1-13ea-4e63-88e6-f865fa799ad0.html">
+    <img class="flex-bottle" src="/images/60/71bcf1-13ea-4e63-88e6-f865fa799ad0/2023-04-29-19-19-23-673CE3B2-576C-4296-BAA9-914C6EF4F084-1-105-c@512.webp"></img>
+    <section class="h">Honcharna Hora</section>
+    <section class="h text-bolder">Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/64726d9d-de2d-4f5d-a995-4dcd112f1df3.html">
+    <img class="flex-bottle" src="/images/64/726d9d-de2d-4f5d-a995-4dcd112f1df3/2023-05-02-08-26-15-B75F116A-F460-4E15-8497-50E3E51DC459-1-105-c@512.webp"></img>
+    <section class="h">Frumushika-Nova</section>
+    <section class="h text-bolder">Pinot Noir Rosé Brut Traditional Method - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/95320bf1-f3b2-4627-9bbb-9725571358ae.html">
+    <img class="flex-bottle" src="/images/95/320bf1-f3b2-4627-9bbb-9725571358ae/2023-04-29-19-56-04-D1853E57-DF5A-49FB-973A-F1B512011063-1-105-c@512.webp"></img>
+    <section class="h">Frumushika-Nova</section>
+    <section class="h text-bolder">Not Filtered Cabernet Sauvignon Rosé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d30fb947-39f6-40c8-9716-a17d3d59f2ef.html">
+    <img class="flex-bottle" src="/images/d3/0fb947-39f6-40c8-9716-a17d3d59f2ef/2023-04-29-19-52-08-E39BC132-C5F7-4D0E-B470-D4990EFEF4B0-1-105-c@512.webp"></img>
+    <section class="h">Korus wine</section>
+    <section class="h text-bolder">Volja - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/db04925f-0f91-4fc6-99bb-dc85f9f10266.html">
+    <img class="flex-bottle" src="/images/db/04925f-0f91-4fc6-99bb-dc85f9f10266/2023-05-01-12-11-37-64A65F0E-6713-48A8-B850-6A94AAFD5007-1-105-c@512.webp"></img>
+    <section class="h">Alex Prykhodko</section>
+    <section class="h text-bolder">Cabernet Sauvignon - 2018</section>
   </a>
 
 </div>

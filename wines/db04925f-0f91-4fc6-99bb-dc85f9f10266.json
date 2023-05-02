@@ -1,0 +1,34 @@
+{
+  "id": "db04925f-0f91-4fc6-99bb-dc85f9f10266",
+  "name": "Cabernet Sauvignon",
+  "full-name": "Alex Prykhodko Cabernet Sauvignon 2018",
+  "producer": {
+    "id": "c48be1a8-a291-4961-9115-37e6a2fa5d80",
+    "name": "Alex Prykhodko"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/db/04925f-0f91-4fc6-99bb-dc85f9f10266/2023-05-01-12-11-37-64A65F0E-6713-48A8-B850-6A94AAFD5007-1-105-c.webp",
+  "rating": "7.5"
+}
