@@ -29,13 +29,19 @@ Stylish wine. Thanks to 2 years in the bottle after disgorgement, it offers fres
     <section class="h text-bolder">Terroirs (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8e202699-8150-4190-8a8f-85131957a6f6.html">
+  <a class="flex-item flex-item-right" href="/wines/f3e7725c-2b10-4dab-8358-eeddd9330371.html">
+    <img class="flex-bottle" src="/images/f3/e7725c-2b10-4dab-8358-eeddd9330371/2023-05-03-21-14-10-9A868160-A1DF-426E-AC96-D54942FD73AF-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">Terroirs (d2023) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8e202699-8150-4190-8a8f-85131957a6f6.html">
     <img class="flex-bottle" src="/images/8e/202699-8150-4190-8a8f-85131957a6f6/2023-02-19-12-00-52-52B7EF3D-87DA-48E6-AD1E-B3C6515FB9B0-1-105-c@512.webp"></img>
     <section class="h">Adam-Jaeger</section>
     <section class="h text-bolder">Blanc de Blancs Brut Millésime - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f.html">
+  <a class="flex-item flex-item-right" href="/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f.html">
     <img class="flex-bottle" src="/images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2022-12-19-17-40-31-IMG-3923@512.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvée 745 Grand Vin (2017) - NV</section>

@@ -1,0 +1,35 @@
+{
+  "id": "f3e7725c-2b10-4dab-8358-eeddd9330371",
+  "name": "Terroirs (d2023)",
+  "full-name": "Agrapart Terroirs (d2023) NV",
+  "producer": {
+    "id": "7db39b0e-6bce-4c53-aadd-45cee8ce0b13",
+    "name": "Agrapart"
+  },
+  "vintage": "NV",
+  "base-vintage": "2018",
+  "degorgee": "February 2023",
+  "sur-lie": "~45 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "4.8",
+  "prices": [
+    "2780 UAH",
+    "3250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f3/e7725c-2b10-4dab-8358-eeddd9330371/2023-05-03-21-14-10-9A868160-A1DF-426E-AC96-D54942FD73AF-1-105-c.webp",
+  "rating": "8.25"
+}

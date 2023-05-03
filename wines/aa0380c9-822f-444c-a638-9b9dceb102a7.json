@@ -1,0 +1,50 @@
+{
+  "id": "aa0380c9-822f-444c-a638-9b9dceb102a7",
+  "name": "Frauen Power Rosé",
+  "full-name": "Alanna Lagamba Frauen Power Rosé 2022",
+  "producer": {
+    "id": "98f8dded-b62b-475c-9bcc-36e6ebe0dc2d",
+    "name": "Alanna Lagamba"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "26789676-ca00-4d27-9f62-7c78c20db118",
+      "name": "Dornfelder"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "82836dd6-d237-4d29-94f0-9d2746aa8cf1",
+      "name": "Siegerrebe"
+    },
+    {
+      "id": "aca6e7ad-e751-40e6-b82c-785e407501d2",
+      "name": "Johanniter"
+    },
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "0",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/aa/0380c9-822f-444c-a638-9b9dceb102a7/2023-05-03-20-10-55-8C1FC947-8713-45B6-97BB-F126CEECFB60-1-105-c.webp",
+  "rating": "7.0"
+}

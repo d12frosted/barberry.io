@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/aa0380c9-822f-444c-a638-9b9dceb102a7.html">
+    <img class="flex-bottle" src="/images/aa/0380c9-822f-444c-a638-9b9dceb102a7/2023-05-03-20-10-55-8C1FC947-8713-45B6-97BB-F126CEECFB60-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Frauen Power Rosé - 2022</section>
+  </a>
+
+</div>
+#+end_export

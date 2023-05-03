@@ -1,0 +1,38 @@
+{
+  "id": "149668d8-4c02-44c0-8955-8d6028e35c92",
+  "name": "Pet-Nat Brut Tsolikauri-Tsitska",
+  "full-name": "Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021",
+  "producer": {
+    "id": "30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7",
+    "name": "Mtsvane Estate"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "5455d79d-aea7-428b-aea6-1ff346f83078",
+      "name": "Tsolikouri"
+    },
+    {
+      "id": "c94f4f99-7a4c-4a75-b3e3-4f4491cde08b",
+      "name": "Tsitska"
+    }
+  ],
+  "alcohol": "11.7",
+  "sugar": "0.86",
+  "prices": [
+    "1147 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/14/9668d8-4c02-44c0-8955-8d6028e35c92/2023-05-03-21-10-46-6C56FF35-3CFA-4F1B-B967-CD31D7BCE010-1-105-c.webp",
+  "rating": "7.75"
+}
