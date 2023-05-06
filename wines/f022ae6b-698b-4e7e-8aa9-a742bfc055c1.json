@@ -1,0 +1,34 @@
+{
+  "id": "f022ae6b-698b-4e7e-8aa9-a742bfc055c1",
+  "name": "Arbois Les Nouvelles Chardonnay",
+  "full-name": "Renaud Bruyère & Adeline Houillon Arbois Les Nouvelles Chardonnay 2016",
+  "producer": {
+    "id": "971b7dfa-6fd4-46c2-8282-806fdd97856a",
+    "name": "Renaud Bruyère & Adeline Houillon"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "7900 UAH"
+  ],
+  "available": 0,
+  "image": "images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-05-05-16-30-06-IMG-6765.webp",
+  "rating": "NA"
+}

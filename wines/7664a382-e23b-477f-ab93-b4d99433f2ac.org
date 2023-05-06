@@ -33,5 +33,11 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Grand Cru Millesime - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
+    <img class="flex-bottle" src="/images/b5/c99371-b78e-464e-a3b4-6ed56440c830/2023-05-06-12-00-11-IMG-6809@512.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Le Jardin de la Grosse Pierre - 2015</section>
+  </a>
+
 </div>
 #+end_export

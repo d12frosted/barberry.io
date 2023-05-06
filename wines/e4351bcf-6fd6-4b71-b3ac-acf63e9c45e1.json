@@ -1,0 +1,34 @@
+{
+  "id": "e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1",
+  "name": "Arbois Pupillin Savagnin",
+  "full-name": "Renaud Bruyère & Adeline Houillon Arbois Pupillin Savagnin 2014",
+  "producer": {
+    "id": "971b7dfa-6fd4-46c2-8282-806fdd97856a",
+    "name": "Renaud Bruyère & Adeline Houillon"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "8900 UAH"
+  ],
+  "available": 0,
+  "image": "images/e4/351bcf-6fd6-4b71-b3ac-acf63e9c45e1/2023-05-05-16-28-57-IMG-6762.webp",
+  "rating": "NA"
+}

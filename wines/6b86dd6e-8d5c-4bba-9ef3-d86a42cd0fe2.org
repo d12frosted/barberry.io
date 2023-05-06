@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/6b/86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2/2023-05-06-11-53-01-IMG-6750@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/74e0c03e-7cf5-4f27-b263-3512418031a3][Stephane Bernaudeau]]
+- Vintage :: 2019
+- Location :: France, Vin de Table
+- Grapes :: Chenin Blanc
+- Alcohol :: 13.5
+- Sugar :: 2
+- Price :: 7500 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/37112ddf-9b53-4c56-8e36-c71002ea06ab.html">
+    <img class="flex-bottle" src="/images/37/112ddf-9b53-4c56-8e36-c71002ea06ab/2023-05-06-11-54-20-IMG-6748@512.webp"></img>
+    <section class="h">Stephane Bernaudeau</section>
+    <section class="h text-bolder">Les Coqueries - 2019</section>
+  </a>
+
+</div>
+#+end_export

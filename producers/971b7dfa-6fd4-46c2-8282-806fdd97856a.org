@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
+    <img class="flex-bottle" src="/images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-05-05-16-30-06-IMG-6765@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Arbois Les Nouvelles Chardonnay - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
+    <img class="flex-bottle" src="/images/e4/351bcf-6fd6-4b71-b3ac-acf63e9c45e1/2023-05-05-16-28-57-IMG-6762@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Arbois Pupillin Savagnin - 2014</section>
+  </a>
+
+</div>
+#+end_export

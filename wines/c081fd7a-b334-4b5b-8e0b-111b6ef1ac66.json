@@ -1,0 +1,34 @@
+{
+  "id": "c081fd7a-b334-4b5b-8e0b-111b6ef1ac66",
+  "name": "Trousseau sous la Roche",
+  "full-name": "Domaine de La Borde Trousseau sous la Roche 2018",
+  "producer": {
+    "id": "831e59f1-2aca-4fb2-8ba9-c75cab9c5dcf",
+    "name": "Domaine de La Borde"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c68dd21a-5969-4b5a-9046-909aea8b4766",
+      "name": "Trousseau"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1141 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
+    <img class="flex-bottle" src="/images/cb/e859e6-edcd-41a3-9d72-3a4bfb4be7bc/2023-05-06-11-36-38-IMG-6791@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">l'Ange Vin L'iris - 2019</section>
+  </a>
+
+</div>
+#+end_export

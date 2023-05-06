@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/30e2bafe-08f1-45a1-b7f4-91d93b5e1488.html">
+    <img class="flex-bottle" src="/images/30/e2bafe-08f1-45a1-b7f4-91d93b5e1488/2023-05-06-11-13-42-IMG-6781@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">La Dilettante - 2018</section>
+  </a>
+
+</div>
+#+end_export

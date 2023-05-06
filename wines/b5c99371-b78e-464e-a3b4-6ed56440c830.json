@@ -1,0 +1,50 @@
+{
+  "id": "b5c99371-b78e-464e-a3b4-6ed56440c830",
+  "name": "Le Jardin de la Grosse Pierre",
+  "full-name": "Benoît Lahaye Le Jardin de la Grosse Pierre 2015",
+  "producer": {
+    "id": "a216dc89-bf4f-4215-937f-73c3b1de5918",
+    "name": "Benoît Lahaye"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": "February 2020",
+  "sur-lie": "~48 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "245034ac-85a0-475f-8cab-31f306acceca",
+      "name": "Arbane"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "aa1be6b1-cef4-48ae-9c08-7accc7fde76d",
+      "name": "Petite Meslier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "3950 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b5/c99371-b78e-464e-a3b4-6ed56440c830/2023-05-06-12-00-11-IMG-6809.webp",
+  "rating": "NA"
+}

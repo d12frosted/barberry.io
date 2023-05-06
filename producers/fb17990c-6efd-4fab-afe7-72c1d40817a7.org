@@ -15,5 +15,11 @@
     <section class="h text-bolder">Le Cornillard Anjou - 2014</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/01025fcf-ae2c-4a42-8d0e-1b6d9c5207cf.html">
+    <img class="flex-bottle" src="/images/01/025fcf-ae2c-4a42-8d0e-1b6d9c5207cf/2023-05-06-11-06-17-38ADE6D7-BFCD-4F5D-A918-FA924EC9FBAE-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Savennières Bellevue - 2018</section>
+  </a>
+
 </div>
 #+end_export

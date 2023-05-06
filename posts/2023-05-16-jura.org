@@ -1,0 +1,51 @@
+Характерна неврозність та неврозна привабливість. Так от вдача тих, хто кидає виклик людству у спробах відстояти власні вподобання. Пропоную залізти на мур, наповнити келихи солоними мріями та насолоджуватися виставою.
+
+Іншими словами, ставимо вина Жури проти +людства+ представників інших частин світу. Відкриваємо три пари (Жура + щось інше), дегустуємо та вгадуємо. 4 пляшки будуть з червоними етикетками (себто їх можна пити лише в Гаражі). Одна пляшка буде 8900.
+
+Wines:
+
+1. [[barberry:/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1][Renaud Bruyère & Adeline Houillon Arbois Pupillin Savagnin 2014]] - 8900
+2. [[barberry:/wines/68aa146e-d0bc-4688-8e46-9e4f7bfd3c26][Ovum To love somebody 2018]] - 1190
+3. [[barberry:/wines/18504209-097a-41cc-b6ac-e1cf5d449b37][Tony Bornard les Gaudrettes Troisième Tirage 2018]] - 1293
+4. [[barberry:/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912][Marco De Bartoli Pietra Nera 2018]] - 1293
+5. [[barberry:/wines/3e07d3ab-d122-4eee-94dd-0770a526125b][Les Bottes Rouges Tôt out Tard Ploussard 2018]] - 1800
+6. [[barberry:/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc][Matassa Tattouine Rouge 2019]] - 1800
+
+Other candidates:
+
+1. [[barberry:/wines/c081fd7a-b334-4b5b-8e0b-111b6ef1ac66][Domaine de La Borde Trousseau sous la Roche 2018]] - 1141
+2. [[barberry:/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58][Fedellos do Couto Bastarda 2021]] - 1090
+
+* Scores
+:PROPERTIES:
+:ID:                     1fcc477c-32a7-461b-86d8-363a0027b46d
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|---------+---------+---------+---------+---------+---------+---------|
+| Boris B |    4.00 |    4.00 |    4.00 |    4.00 |    4.00 |    4.00 |
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms      |   sdev | favourite | outcast |   price |      QPR |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 8900.00 |   0.0000 |
+| Wine #2 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1190.00 | *2.0000* |
+| Wine #3 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1293.00 |   1.0000 |
+| Wine #4 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1293.00 |   1.0000 |
+| Wine #5 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1800.00 |   1.0000 |
+| Wine #6 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1800.00 |   1.0000 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
