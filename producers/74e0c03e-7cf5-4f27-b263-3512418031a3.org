@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/37112ddf-9b53-4c56-8e36-c71002ea06ab.html">
     <img class="flex-bottle" src="/images/37/112ddf-9b53-4c56-8e36-c71002ea06ab/2023-05-06-11-54-20-IMG-6748@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 9.00</section>
     <section class="h text-bolder">Les Coqueries - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/6b86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2.html">
     <img class="flex-bottle" src="/images/6b/86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2/2023-05-06-11-53-01-IMG-6750@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Les Onglés - 2019</section>
   </a>
 
