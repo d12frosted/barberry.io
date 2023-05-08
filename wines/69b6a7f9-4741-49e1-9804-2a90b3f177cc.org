@@ -79,13 +79,19 @@ This bottle was part of the Chenin Blanc blind tasting organised by Vova Ulianov
     <section class="h text-bolder">Savennières Arena - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
+  <a class="flex-item flex-item-right" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
+    <img class="flex-bottle" src="/images/b5/c99371-b78e-464e-a3b4-6ed56440c830/2023-05-06-12-00-11-IMG-6809@512.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Le Jardin de la Grosse Pierre - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
     <img class="flex-bottle" src="/images/cb/e859e6-edcd-41a3-9d72-3a4bfb4be7bc/2023-05-06-11-36-38-IMG-6791@512.webp"></img>
     <section class="h">Jean-Pierre Robinot</section>
     <section class="h text-bolder">l'Ange Vin L'iris - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da4e356a-f465-4ba5-996c-2f97a9dab5f7.html">
+  <a class="flex-item flex-item-right" href="/wines/da4e356a-f465-4ba5-996c-2f97a9dab5f7.html">
     <img class="flex-bottle" src="/images/da/4e356a-f465-4ba5-996c-2f97a9dab5f7/2023-05-06-11-01-49-D218EB70-0C33-4201-92A3-ECB1F344098B-1-105-c@512.webp"></img>
     <section class="h">Denavolo</section>
     <section class="h text-bolder">Mansano - 2021</section>

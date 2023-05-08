@@ -19,7 +19,13 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+  <a class="flex-item flex-item-left" href="/wines/4a382c04-692c-44aa-848b-8f77fcaff68d.html">
+    <img class="flex-bottle" src="/images/4a/382c04-692c-44aa-848b-8f77fcaff68d/2023-05-08-12-11-19-B77A5D6C-FC11-490E-9AF3-507CFCCB9663-1-105-c@512.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">Chardonnay Les Ammonites - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
     <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o@512.webp"></img>
     <section class="h">Buronfosse</section>
     <section class="h text-bolder">Chardonnay Marcus - 2018</section>

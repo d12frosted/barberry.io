@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/4a/382c04-692c-44aa-848b-8f77fcaff68d/2023-05-08-12-11-19-B77A5D6C-FC11-490E-9AF3-507CFCCB9663-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/b9bef468-b428-41b8-a5a0-ecabdb129194][Buronfosse]]
+- Vintage :: 2020
+- Location :: France, Côtes du Jura AOC
+- Grapes :: Chardonnay
+- Alcohol :: 13.5
+- Sugar :: 1.5
+- Price :: 1090 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-05-06 - ☆ 7.50
+
+Hehe, the first bottle we opened was corked. Luckily there was a second bottle to 'cure this taint'. Not complex and linear yet delicious and mineral Chardonnay. Salted nuts, white chocolate candy filled with marzipan, lemon, and seawater. Flavourful, good structure and acidity.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+    <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o@512.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">Chardonnay Marcus - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b49bc925-ac23-44e8-a60a-8603fc977cac.html">
+    <img class="flex-bottle" src="/images/b4/9bc925-ac23-44e8-a60a-8603fc977cac/2022-05-08-16-04-16-391C37B6-E2F3-4394-930D-18269DE5145A-1-102-o@512.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">Chardonnay Les Ammonites - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/29040e0f-f5b9-494b-98e4-72fea2d983de.html">
+    <img class="flex-bottle" src="/images/29/040e0f-f5b9-494b-98e4-72fea2d983de/2023-05-08-12-13-59-DC6D25E1-1A4E-46CC-9F6A-8B0697BE195C-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Bukkuram Sole d'Agosto - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5875eb17-c716-4438-abce-ff4e048ca0f2.html">
+    <img class="flex-bottle" src="/images/58/75eb17-c716-4438-abce-ff4e048ca0f2/2023-05-08-12-07-39-28EC525B-0F29-45F1-ADC6-50DBD4EF2466-1-105-c@512.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Blanc de Noirs (d2022) - NV</section>
+  </a>
+
+</div>
+#+end_export

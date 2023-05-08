@@ -23,43 +23,49 @@ Wonderful rosé, complex and deep. Red currant, cranberry, peach, tea, toast wit
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
+  <a class="flex-item flex-item-left" href="/wines/5875eb17-c716-4438-abce-ff4e048ca0f2.html">
+    <img class="flex-bottle" src="/images/58/75eb17-c716-4438-abce-ff4e048ca0f2/2023-05-08-12-07-39-28EC525B-0F29-45F1-ADC6-50DBD4EF2466-1-105-c@512.webp"></img>
+    <section class="h">Benoît Lahaye</section>
+    <section class="h text-bolder">Blanc de Noirs (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/75862600-03f3-4c81-9553-9712d3072df8.html">
     <img class="flex-bottle" src="/images/75/862600-03f3-4c81-9553-9712d3072df8/2022-11-29-10-36-19-IMG-3485@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Grand Cru Millesime - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7664a382-e23b-477f-ab93-b4d99433f2ac.html">
+  <a class="flex-item flex-item-left" href="/wines/7664a382-e23b-477f-ab93-b4d99433f2ac.html">
     <img class="flex-bottle" src="/images/76/64a382-e23b-477f-ab93-b4d99433f2ac/2023-02-15-09-07-31-IMG-4970@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Rosé de Macération a Bouzy (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
+  <a class="flex-item flex-item-right" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
     <img class="flex-bottle" src="/images/b5/c99371-b78e-464e-a3b4-6ed56440c830/2023-05-06-12-00-11-IMG-6809@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Le Jardin de la Grosse Pierre - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">
+  <a class="flex-item flex-item-left" href="/wines/096c97a2-483a-4459-8aed-e60f5b4b9b6d.html">
     <img class="flex-bottle" src="/images/09/6c97a2-483a-4459-8aed-e60f5b4b9b6d/2021-06-01-07-40-04-3FD8F12B-C3B9-40A9-A0B1-C5F7B55B9AD2-1-105-c@512.webp"></img>
     <section class="h">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Latricières-Chambertin - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
+  <a class="flex-item flex-item-right" href="/wines/27414711-c577-42e5-99ad-ad4de875534f.html">
     <img class="flex-bottle" src="/images/27/414711-c577-42e5-99ad-ad4de875534f/2021-06-01-07-40-18-FD9BBD6E-516F-486B-8DAA-35F22599D388-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Romanée-Conti</section>
     <section class="h text-bolder">Romanée-Saint-Vivant - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
+  <a class="flex-item flex-item-left" href="/wines/e77ba7fc-950c-4c76-b1ee-93d88ca7b801.html">
     <img class="flex-bottle" src="/images/e7/7ba7fc-950c-4c76-b1ee-93d88ca7b801/2021-06-01-07-39-47-75FDFB8D-22FD-439D-893C-492C64205866-1-105-c@512.webp"></img>
     <section class="h">Jean Grivot</section>
     <section class="h text-bolder">Clos de Vougeot - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
+  <a class="flex-item flex-item-right" href="/wines/fbc96f93-ba25-44b4-a8d0-de75510b9fc9.html">
     <img class="flex-bottle" src="/images/fb/c96f93-ba25-44b4-a8d0-de75510b9fc9/2021-06-01-07-39-31-AF72052C-F879-49AC-A670-4B357FD1D884-1-105-c@512.webp"></img>
     <section class="h">Louis Jadot</section>
     <section class="h text-bolder">Échezeaux - 2013</section>

@@ -1,0 +1,34 @@
+{
+  "id": "29040e0f-f5b9-494b-98e4-72fea2d983de",
+  "name": "Bukkuram Sole d'Agosto",
+  "full-name": "Marco De Bartoli Bukkuram Sole d'Agosto 2019",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "138",
+  "prices": [
+    "2663 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/29/040e0f-f5b9-494b-98e4-72fea2d983de/2023-05-08-12-13-59-DC6D25E1-1A4E-46CC-9F6A-8B0697BE195C-1-105-c.webp",
+  "rating": "8.75"
+}
