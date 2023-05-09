@@ -248,7 +248,7 @@ Enough of food for your fantasies. Nerojbleo is 100% Nero d'Avola from different
 
 How to read this table:
 
-- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.
 - =outcast= is amount of people who marked this wine as outcast of the event.

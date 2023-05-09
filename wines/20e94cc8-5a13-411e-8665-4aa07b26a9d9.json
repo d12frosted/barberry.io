@@ -1,0 +1,34 @@
+{
+  "id": "20e94cc8-5a13-411e-8665-4aa07b26a9d9",
+  "name": "Baby Bandito Stay Brave",
+  "full-name": "Testalonga Baby Bandito Stay Brave 2022",
+  "producer": {
+    "id": "28888340-61d4-42b7-9aa6-25ae9bf77e08",
+    "name": "Testalonga"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.8",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

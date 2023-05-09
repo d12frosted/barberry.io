@@ -18,10 +18,22 @@ Interestingly, before Hennes Storm started own project, he worked as a winemaker
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+  <a class="flex-item flex-item-left" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ridge Chardonnay - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2023-02-23-12-13-49-IMG-5187@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/579aad87-cad5-423b-9d3f-d3a2ba05aa4f.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ridge Pinot Noir - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">

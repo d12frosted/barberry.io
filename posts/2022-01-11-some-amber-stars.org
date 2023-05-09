@@ -17,18 +17,18 @@ When life gives you a bottle of Gravner Ribolla Anfora 2004, and a bottle of Rad
 
 #+attr_html: :class tasting-scores
 #+results: summary
-|         |  amean |    rms |   sdev | favourite |   price |      QPR |
-|---------+--------+--------+--------+-----------+---------+----------|
-| Wine #1 |   4.21 |   4.22 | 0.0454 |      2.00 | 1890.00 |   1.7537 |
-| Wine #2 |   4.17 |   4.17 | 0.0622 |      1.00 | 1050.00 |   2.9468 |
-| Wine #3 | *4.24* | *4.27* | 0.2358 |    *4.00* | 1090.00 | *3.2026* |
-| Wine #4 |   4.22 |   4.23 | 0.0528 |      0.00 | 1690.00 |   1.9953 |
-| Wine #5 |   4.06 |   4.10 | 0.3847 |      2.00 | 2900.00 |   0.9001 |
+|         |    amean |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.2111 |   4.2165 | 0.0454 |      2.00 | 1890.00 |   1.7537 |
+| Wine #2 |   4.1667 |   4.1741 | 0.0622 |      1.00 | 1050.00 |   2.9468 |
+| Wine #3 | *4.2444* | *4.2721* | 0.2358 |    *4.00* | 1090.00 | *3.2026* |
+| Wine #4 |   4.2222 |   4.2285 | 0.0528 |      0.00 | 1690.00 |   1.9953 |
+| Wine #5 |   4.0556 |   4.1027 | 0.3847 |      2.00 | 2900.00 |   0.9001 |
 
 How to read this table:
 
 - =amean= is arithmetic mean (and not 'amen'), calculated as sum of all scores divided by count of scores for particular wine. It is more useful than =total=, because some wines are not tasted by all participants.
-- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score. Without deeper explanation, RMS is picked because it is bigger than or equal to average, because it basically includes standard deviation.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.
 - =outcast= is amount of people who marked this wine as outcast of the event.
