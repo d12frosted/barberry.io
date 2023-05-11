@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c489fc64-609e-484c-b803-fb60acc7ef82.html">
+    <img class="flex-bottle" src="/images/c4/89fc64-609e-484c-b803-fb60acc7ef82/2023-05-10-13-36-14-D2613325-C260-4BFC-ADB3-1E3A072BF1BB-1-105-c@512.webp"></img>
+    <section class="h">★ 6.50</section>
+    <section class="h text-bolder">Weißer Mulatschak - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -9,5 +9,11 @@
     <section class="h text-bolder">Basis Zweigelt - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/a33a2fdf-375a-4e65-8051-51bd7fe802e6.html">
+    <img class="flex-bottle" src="/images/a3/3a2fdf-375a-4e65-8051-51bd7fe802e6/2023-05-10-13-33-39-AFAF7088-7FC1-41D5-A705-BB2839D00E3F-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Potato Land - 2021</section>
+  </a>
+
 </div>
 #+end_export

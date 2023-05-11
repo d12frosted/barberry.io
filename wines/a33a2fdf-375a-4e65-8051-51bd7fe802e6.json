@@ -1,0 +1,34 @@
+{
+  "id": "a33a2fdf-375a-4e65-8051-51bd7fe802e6",
+  "name": "Potato Land",
+  "full-name": "Matthias Warnung Potato Land 2021",
+  "producer": {
+    "id": "edde6646-316f-493c-a46d-7df7be7be6b7",
+    "name": "Matthias Warnung"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "1244da78-529e-4725-bd73-a924c641a33b",
+      "name": "Grüner Veltliner"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.4",
+  "prices": [
+    "530 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a3/3a2fdf-375a-4e65-8051-51bd7fe802e6/2023-05-10-13-33-39-AFAF7088-7FC1-41D5-A705-BB2839D00E3F-1-105-c.webp",
+  "rating": "7.25"
+}

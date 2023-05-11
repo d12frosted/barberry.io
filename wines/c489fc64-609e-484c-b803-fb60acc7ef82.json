@@ -1,0 +1,42 @@
+{
+  "id": "c489fc64-609e-484c-b803-fb60acc7ef82",
+  "name": "Weißer Mulatschak",
+  "full-name": "Meinklang Weißer Mulatschak 2021",
+  "producer": {
+    "id": "4512595c-951c-42d5-8fbf-b46e52749605",
+    "name": "Meinklang"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "061b7c96-2814-4303-853a-35137ae38718",
+      "name": "Welschriesling"
+    },
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "2.7",
+  "prices": [
+    "520 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c4/89fc64-609e-484c-b803-fb60acc7ef82/2023-05-10-13-36-14-D2613325-C260-4BFC-ADB3-1E3A072BF1BB-1-105-c.webp",
+  "rating": "6.5"
+}

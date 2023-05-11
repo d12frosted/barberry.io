@@ -1,0 +1,38 @@
+{
+  "id": "3221756b-4946-49ae-a1b7-08fe40983d69",
+  "name": "Valcanzjria",
+  "full-name": "Gulfi Valcanzjria 2021",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.6",
+  "prices": [
+    "635 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/32/21756b-4946-49ae-a1b7-08fe40983d69/2023-05-10-13-30-53-D3E5CEE4-4DA4-494E-933F-BDFB6C93A504-1-105-c.webp",
+  "rating": "7.25"
+}
