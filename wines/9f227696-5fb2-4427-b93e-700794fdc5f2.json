@@ -1,0 +1,34 @@
+{
+  "id": "9f227696-5fb2-4427-b93e-700794fdc5f2",
+  "name": "Les Arènes Cornas",
+  "full-name": "Chapoutier Les Arènes Cornas 2019",
+  "producer": {
+    "id": "0beaef9f-ff9d-4f6b-995e-79fe9e164114",
+    "name": "Chapoutier"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.25",
+  "prices": [
+    "1619 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/9f/227696-5fb2-4427-b93e-700794fdc5f2/2023-05-11-22-11-42-IMG-6879.webp",
+  "rating": "8.0"
+}

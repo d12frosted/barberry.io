@@ -1,0 +1,39 @@
+{
+  "id": "4ffde9b6-648c-4e72-8f9f-d3a9ea9ebfb1",
+  "name": "Château Cibon Cuvée Hommage à Marius Rosé Tibouren Prestige Cru Classé",
+  "full-name": "Clos Cibonne Château Cibon Cuvée Hommage à Marius Rosé Tibouren Prestige Cru Classé 2019",
+  "producer": {
+    "id": "55f2f20d-fd2e-4381-9848-8c6547056b7c",
+    "name": "Clos Cibonne"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "244e5820-d3c0-41f2-80ca-61a76014bb27",
+      "name": "Tibouren"
+    },
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1.8",
+  "prices": [
+    "1809 UAH",
+    "1946 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4f/fde9b6-648c-4e72-8f9f-d3a9ea9ebfb1/2023-05-11-22-07-04-C16322A6-C985-43AF-8E6F-E7B0F48C8A25-1-102-o.webp",
+  "rating": "NA"
+}

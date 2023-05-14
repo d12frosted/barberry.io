@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9f227696-5fb2-4427-b93e-700794fdc5f2.html">
+    <img class="flex-bottle" src="/images/9f/227696-5fb2-4427-b93e-700794fdc5f2/2023-05-11-22-11-42-IMG-6879@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Les Arènes Cornas - 2019</section>
+  </a>
+
+</div>
+#+end_export

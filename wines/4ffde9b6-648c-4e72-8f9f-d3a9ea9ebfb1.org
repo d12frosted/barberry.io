@@ -1,0 +1,59 @@
+#+attr_html: :class wine-main-image
+[[file:/images/4f/fde9b6-648c-4e72-8f9f-d3a9ea9ebfb1/2023-05-11-22-07-04-C16322A6-C985-43AF-8E6F-E7B0F48C8A25-1-102-o@512.webp]]
+
+- Type :: Rose Still, Dry
+- Producer :: [[barberry:/producers/55f2f20d-fd2e-4381-9848-8c6547056b7c][Clos Cibonne]]
+- Vintage :: 2019
+- Location :: France, Côtes de Provence AOC
+- Grapes :: Tibouren, Grenache
+- Alcohol :: 14
+- Sugar :: 1.8
+- Price :: 1809 UAH, 1946 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Clos Cibonne draws its name from Jean-Baptiste de Cibon, captain of Louis XVI's Royal Navy and the first owner of the vineyard. After he died in 1797, the property was sold to the Roux family.
+
+In the 1930s, André Roux took over the winery and brought it to a new level. Thanks to Adnré Roux, Clos Cibonne acquired the status of Crus Classés Côtes de Provence when the classification was established in 1955. Aside from the official merits, Adnré Roux is also responsible for the focus on Tibouren. It is safe to say that, without him and his passion, this old grape variety would have disappeared.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0a942613-bbc6-4a56-a00b-c156bca2d4aa.html">
+    <img class="flex-bottle" src="/images/0a/942613-bbc6-4a56-a00b-c156bca2d4aa/2021-07-14-08-46-04-F0B2CA52-DA84-4739-8C7F-233801D8B6E7-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4fb64046-b88d-427d-829c-a094b42ad6cc.html">
+    <img class="flex-bottle" src="/images/4f/b64046-b88d-427d-829c-a094b42ad6cc/2023-04-29-17-51-34-225EC85F-FB4F-4DF1-93A8-7F160EED5070-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Tibouren Rosé Cru Classé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6719f4e7-1b25-4156-bc47-e39a1aab1bf7.html">
+    <img class="flex-bottle" src="/images/67/19f4e7-1b25-4156-bc47-e39a1aab1bf7/2021-07-14-08-45-10-7CBF853D-78AF-4E9B-BE52-C304E15DE9BC-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Tentations Rosé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f.html">
+    <img class="flex-bottle" src="/images/90/6681ab-c1e3-4524-9d11-0b5b7ad0f87f/2023-04-07-20-34-39-E9C1E94E-0867-491E-A30A-91E0D24A350F-1-105-c@512.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Olivier Cru Classé - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b94bbe0a-ebf8-4f4a-83bf-5926849e6119.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Clos Cibonne</section>
+    <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2021</section>
+  </a>
+
+</div>
+#+end_export
