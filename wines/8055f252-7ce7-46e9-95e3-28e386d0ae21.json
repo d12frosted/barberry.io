@@ -1,0 +1,51 @@
+{
+  "id": "8055f252-7ce7-46e9-95e3-28e386d0ae21",
+  "name": "Bubble Bee Pét Nat",
+  "full-name": "Hummel Bubble Bee Pét Nat 2022",
+  "producer": {
+    "id": "fe3fbe0e-e74d-48e5-b223-fdacd7847e0a",
+    "name": "Hummel"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "3b7ecd5f-3e9e-4e20-b17f-5dcc73b2dde1",
+      "name": "Fetească regală"
+    },
+    {
+      "id": "e00ce093-084d-453e-8306-f7b43e9ae8dc",
+      "name": "Juhfark"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "061b7c96-2814-4303-853a-35137ae38718",
+      "name": "Welschriesling"
+    },
+    {
+      "id": "cd6123c7-241e-4d0a-b857-837900bea31e",
+      "name": "Hárslevelű"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.1",
+  "prices": [
+    "757 UAH",
+    "930 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/80/55f252-7ce7-46e9-95e3-28e386d0ae21/2023-05-17-12-33-16-8889FDEA-8D80-4A35-867D-FAC49F1F0CAD-1-105-c.webp",
+  "rating": "NA"
+}
