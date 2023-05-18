@@ -8,7 +8,7 @@
 - Grapes :: Poulsard
 - Alcohol :: 11
 - Sugar :: 1
-- Price :: 1800 UAH
+- Price :: 1800 UAH, 1186 UAH
 - Cellar :: N/A
 
 Poulsard planted in clay soils from a lieu-dit within the Arbois AOC called La Mulatiere. Destemmed, 20 days maceration, without extraction. Then pressed before continuous fermentation and ageing in 600-litre old oak barrels. Aged six months in bottle before release.
@@ -69,58 +69,70 @@ Paired with [[barberry:/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc][Matassa Tatt
     <section class="h text-bolder">Otima Single Year Tawny - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/45289e25-fbd9-4045-8ad4-cf52f5ffb871.html">
+  <a class="flex-item flex-item-left" href="/wines/18504209-097a-41cc-b6ac-e1cf5d449b37.html">
+    <img class="flex-bottle" src="/images/18/504209-097a-41cc-b6ac-e1cf5d449b37/2023-04-29-15-21-13-07734D65-7FDA-464C-AB7D-673E96C0E48B-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Gaudrettes Troisième Tirage - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/45289e25-fbd9-4045-8ad4-cf52f5ffb871.html">
     <img class="flex-bottle" src="/images/45/289e25-fbd9-4045-8ad4-cf52f5ffb871/2023-04-01-10-13-00-698A1A22-B661-46BE-8631-D991BD98B9D0-1-105-c@512.webp"></img>
     <section class="h">Frédéric Cossard</section>
     <section class="h text-bolder">Ploussard - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
     <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-04-01-10-13-47-F3879159-4040-4F98-AC94-26E04954BBB5-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Poulsard en Amphore - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+  <a class="flex-item flex-item-right" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
     <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730@512.webp"></img>
     <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8055f252-7ce7-46e9-95e3-28e386d0ae21.html">
+  <a class="flex-item flex-item-left" href="/wines/8055f252-7ce7-46e9-95e3-28e386d0ae21.html">
     <img class="flex-bottle" src="/images/80/55f252-7ce7-46e9-95e3-28e386d0ae21/2023-05-17-12-33-16-8889FDEA-8D80-4A35-867D-FAC49F1F0CAD-1-105-c@512.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Bubble Bee Pét Nat - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+  <a class="flex-item flex-item-left" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
     <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o@512.webp"></img>
     <section class="h">Buronfosse</section>
     <section class="h text-bolder">Chardonnay Marcus - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc.html">
+  <a class="flex-item flex-item-right" href="/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc.html">
     <img class="flex-bottle" src="/images/a3/6b4d58-afe8-4fed-88ae-1d9b582e97dc/2023-04-07-10-50-19-FCD3F887-17B1-4F05-8CD3-C3D39D129502-1-105-c@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Tattouine Rouge - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
+  <a class="flex-item flex-item-left" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
     <img class="flex-bottle" src="/images/a5/021c3f-3d2c-42c2-a984-5455b774d224/2023-04-01-10-09-41-FA7B2B61-4AA9-44E9-9CC5-089B8C5D2579-1-105-c@512.webp"></img>
     <section class="h">Marie-Pierre Chevassu-Jassenet</section>
     <section class="h text-bolder">Côtes du Jura Poulsard - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a85a1ed5-61aa-48d6-8ef3-2a68e12e2378.html">
+  <a class="flex-item flex-item-right" href="/wines/a85a1ed5-61aa-48d6-8ef3-2a68e12e2378.html">
     <img class="flex-bottle" src="/images/a8/5a1ed5-61aa-48d6-8ef3-2a68e12e2378/2022-12-17-11-54-01-DE1A7071-C382-42F2-8C88-B0AA9CD7F322-1-102-o@512.webp"></img>
     <section class="h">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+    <img class="flex-bottle" src="/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2023-05-18-08-22-51-D0078754-0173-46E1-9DE3-3A020900A73F-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">

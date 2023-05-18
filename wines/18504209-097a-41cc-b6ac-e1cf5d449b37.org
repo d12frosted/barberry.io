@@ -19,6 +19,12 @@ Les Gaudrettes is a 100% Chardonnay cuvée from vines farmed biodynamically and 
 
 Delicious and approachable. A charming bouquet of salted almonds, butter, fruit trees blossoms, apples and lemon. Salty and a bit fizzy mouthfeel with good balance, structure and a persistent aftertaste.
 
+*** 2023-05-16 - ☆ 8.00
+
+Nothing new here. It's delicious, charming and approachable. Yet not overly complex. Salted almonds, butter, fruit trees blossoms, apples and lemon. Salty mouthfeel with good balance and structure. The aftertaste is long and flavourful.
+
+Paired with [[barberry:/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912][Marco De Bartoli Pietra Nera 2018]] on [[barberry:/posts/2023-05-16-jura][Jura contre l'humanité]].
+
 ** Related
 
 #+begin_export html
@@ -89,19 +95,49 @@ Delicious and approachable. A charming bouquet of salted almonds, butter, fruit 
     <section class="h text-bolder">Ageno - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4fb64046-b88d-427d-829c-a094b42ad6cc.html">
+  <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2023-05-18-08-15-18-3DCF93C5-1E02-474F-BF86-F5715E1D8533-1-105-c@512.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4fb64046-b88d-427d-829c-a094b42ad6cc.html">
     <img class="flex-bottle" src="/images/4f/b64046-b88d-427d-829c-a094b42ad6cc/2023-04-29-17-51-34-225EC85F-FB4F-4DF1-93A8-7F160EED5070-1-105-c@512.webp"></img>
     <section class="h">Clos Cibonne</section>
     <section class="h text-bolder">Tibouren Rosé Cru Classé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03.html">
+  <a class="flex-item flex-item-right" href="/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03.html">
     <img class="flex-bottle" src="/images/58/61ed11-c509-4a3d-8446-3687b6d5fd03/2023-04-29-17-21-43-74F69B4C-4CFE-44C6-9C4C-7620E0FFFF6E-1-105-c@512.webp"></img>
     <section class="h">Philippe Bornard</section>
     <section class="h text-bolder">Melon le Rouge-queue - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
+  <a class="flex-item flex-item-left" href="/wines/8055f252-7ce7-46e9-95e3-28e386d0ae21.html">
+    <img class="flex-bottle" src="/images/80/55f252-7ce7-46e9-95e3-28e386d0ae21/2023-05-17-12-33-16-8889FDEA-8D80-4A35-867D-FAC49F1F0CAD-1-105-c@512.webp"></img>
+    <section class="h">Hummel</section>
+    <section class="h text-bolder">Bubble Bee Pét Nat - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc.html">
+    <img class="flex-bottle" src="/images/a3/6b4d58-afe8-4fed-88ae-1d9b582e97dc/2023-04-07-10-50-19-FCD3F887-17B1-4F05-8CD3-C3D39D129502-1-105-c@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+    <img class="flex-bottle" src="/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2023-05-18-08-22-51-D0078754-0173-46E1-9DE3-3A020900A73F-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
+    <img class="flex-bottle" src="/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-18-07-40-46-85CFE073-6601-4404-AD70-D24733A97C2B-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ddea281b-acc5-4edb-aea0-55ed9f10d107.html">
     <img class="flex-bottle" src="/images/dd/ea281b-acc5-4edb-aea0-55ed9f10d107/2023-04-29-17-49-29-2D0A8DEE-7566-43A0-BA4E-19CA92683A35-1-105-c@512.webp"></img>
     <section class="h">Pierre-Yves Colin-Morey</section>
     <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>

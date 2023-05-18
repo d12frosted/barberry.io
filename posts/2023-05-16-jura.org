@@ -201,7 +201,7 @@ Produced from a 100% Savagnin, this wine is made using the "ouillé" method. Thi
 | Yaroslav M   |    4.00 |  +3.90+ |    4.20 |    4.20 |    4.50 |  *4.70* | -       |
 | Maryna Yu    |    4.30 |    4.10 |    4.70 |    4.60 |  +4.20+ |  *4.90* | -       |
 | Daria B      |    4.00 |    4.00 |    4.20 |    3.90 |    4.00 |  *4.30* | -       |
-| Boris B      |    4.00 |  *4.10* |    4.10 |  +4.00+ |    3.90 |    4.30 | -       |
+| Boris B      |    4.00 |  *4.20* |    4.10 |  +4.00+ |    3.90 |    4.30 | -       |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
@@ -209,7 +209,7 @@ Produced from a 100% Savagnin, this wine is made using the "ouillé" method. Thi
 |         |      rms |   sdev | favourite | outcast |   price |      QPR |
 |---------+----------+--------+-----------+---------+---------+----------|
 | Wine #1 |   4.0132 | 0.0165 |      2.00 |    0.00 | 1800.00 |   1.3559 |
-| Wine #2 |   3.9261 | 0.0306 |      1.00 |    1.00 | 1800.00 |   1.1867 |
+| Wine #2 |   3.9379 | 0.0356 |      1.00 |    1.00 | 1800.00 |   1.2066 |
 | Wine #3 | *4.2181* | 0.0588 |      2.00 |    0.00 | 1293.00 | *2.5634* |
 | Wine #4 |   4.0092 | 0.0733 |      0.00 |    2.00 | 1293.00 |   1.0000 |
 | Wine #5 |   4.0313 | 0.0728 |      0.00 |    1.00 | 1190.00 |   2.0856 |

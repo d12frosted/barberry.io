@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2020-07-24-20-26-38-214F1F5C-1961-4272-911C-5768091A6EC8-1-105-c@512.webp]]
+[[file:/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2023-05-18-08-22-51-D0078754-0173-46E1-9DE3-3A020900A73F-1-105-c@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]
@@ -8,7 +8,7 @@
 - Grapes :: Zibibbo
 - Alcohol :: 11.5
 - Sugar :: 1
-- Price :: 907 UAH, 868 UAH
+- Price :: 1293 UAH, 1032 UAH, 907 UAH, 868 UAH
 - Cellar :: N/A
 
 Pietra Nera is a 100% Zibibbo from 60 years old vines growing on volcanic terraced slopes of Pantelleria. The grapes are picked by hand. After a rigorous manual selection of the clusters, they are destemmed, gently pressed and macerated at a controlled temperature for approximately 24 hours. After the soft pressing, the must decants at a low temperature for 48 hours. The limpid run starts fermenting with wild yeasts in stainless steel vats. Aged for 6 months in stainless steel vats. 20,000 bottles were produced.
@@ -22,6 +22,12 @@ Love at the first sniff. Clean style and sophisticated Zibibbo from Marco De Bar
 *** 2021-07-31 - ☆ 8.25
 
 This wine impressed me when I tasted it for the first time a year ago. So I was afraid to taste it again, because I wanted it to always stay magnificent in my memory. But... here I am with a glass of Pietra Nera. Pickles, apples and sea breeze - this is how it starts. Then it opens up more, revealing ginger, white plum and rose petals. Light, well balanced with long and evolving and flavourful finish - citrus, green apple with saline notes. Was not disappointed.
+
+*** 2023-05-16 - ☆ 8.25
+
+Over time Pietra Nera got rid of all the funkiness and became cleanly beautiful. Pear candy, mint, ice cream and sea pebbles. Almost perfectly balanced, wonderfully structured and delicious. The aftertaste is long and flavourful.
+
+Paired with[[barberry:/wines/18504209-097a-41cc-b6ac-e1cf5d449b37][Tony Bornard les Gaudrettes Troisième Tirage 2018]] on [[barberry:/posts/2023-05-16-jura][Jura contre l'humanité]]. Turned out to be the winner of the night based on the average score.
 
 ** Related
 
@@ -105,10 +111,40 @@ This wine impressed me when I tasted it for the first time a year ago. So I was 
     <section class="h text-bolder">Bourgogne Pinot Noir - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/18504209-097a-41cc-b6ac-e1cf5d449b37.html">
+    <img class="flex-bottle" src="/images/18/504209-097a-41cc-b6ac-e1cf5d449b37/2023-04-29-15-21-13-07734D65-7FDA-464C-AB7D-673E96C0E48B-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">les Gaudrettes Troisième Tirage - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2023-05-18-08-15-18-3DCF93C5-1E02-474F-BF86-F5715E1D8533-1-105-c@512.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8055f252-7ce7-46e9-95e3-28e386d0ae21.html">
+    <img class="flex-bottle" src="/images/80/55f252-7ce7-46e9-95e3-28e386d0ae21/2023-05-17-12-33-16-8889FDEA-8D80-4A35-867D-FAC49F1F0CAD-1-105-c@512.webp"></img>
+    <section class="h">Hummel</section>
+    <section class="h text-bolder">Bubble Bee Pét Nat - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc.html">
+    <img class="flex-bottle" src="/images/a3/6b4d58-afe8-4fed-88ae-1d9b582e97dc/2023-04-07-10-50-19-FCD3F887-17B1-4F05-8CD3-C3D39D129502-1-105-c@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/bcaa149d-9a5e-4dbd-b010-7370a0c858d7.html">
     <img class="flex-bottle" src="/images/bc/aa149d-9a5e-4dbd-b010-7370a0c858d7/2020-12-19-11-17-18-68B72B83-3F45-4F50-B6F2-EB72E89087F1@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
+    <img class="flex-bottle" src="/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-18-07-40-46-85CFE073-6601-4404-AD70-D24733A97C2B-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2022) - NV</section>
   </a>
 
 </div>
