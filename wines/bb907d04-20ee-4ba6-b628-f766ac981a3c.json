@@ -1,15 +1,15 @@
 {
   "id": "bb907d04-20ee-4ba6-b628-f766ac981a3c",
-  "name": "Blanc De Blancs Metodo Classico Pas dose",
-  "full-name": "Alessandro Viola Blanc De Blancs Metodo Classico Pas dose NV",
+  "name": "Blanc de Blancs Metodo Classico Pas dosé (d2020)",
+  "full-name": "Alessandro Viola Blanc de Blancs Metodo Classico Pas dosé (d2020) NV",
   "producer": {
     "id": "f25fbb5a-7339-433c-8a73-17c6157afc1e",
     "name": "Alessandro Viola"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "???",
+  "degorgee": "January 2020",
+  "sur-lie": "24 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut-nature",

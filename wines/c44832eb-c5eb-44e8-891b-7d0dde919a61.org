@@ -1,0 +1,61 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-18-07-40-46-85CFE073-6601-4404-AD70-D24733A97C2B-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/f25fbb5a-7339-433c-8a73-17c6157afc1e][Alessandro Viola]]
+- Base vintage :: ???
+- Disgorged in :: October 2022
+- Spent on lees :: ??? months
+- Location :: Italy, Vino (IT)
+- Grapes :: Catarratto
+- Alcohol :: 12.5
+- Sugar :: 2
+- Price :: 1190 UAH
+- Cellar :: N/A
+
+** Producer
+
+Alessandro Viola is a small winery owning 7 hectares of vineyard planted with grapes Grillo, Nero d'Avola, Nerello Mascalese and Catarratto. It is located in Trapani province, near Alcamo city in Pietra district and just on the rest of Mount Bonifitato.
+
+** Ratings
+
+*** 2023-05-16 - ☆ 7.75
+
+Lovely traditional sparkling from Trepani. IMO, Alessandro Viola displays that Catarratto shines in the right hands. A bit oxidated bouquet with notes of nuts, flowers, Jerez and sea breeze. Elegant, delicious and well-balanced.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+    <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Le mie Origini - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+    <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2022-12-17-11-07-55-CC5ADD1A-A472-4573-B92C-3C13E05A8E48-1-102-o@512.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8055f252-7ce7-46e9-95e3-28e386d0ae21.html">
+    <img class="flex-bottle" src="/images/80/55f252-7ce7-46e9-95e3-28e386d0ae21/2023-05-17-12-33-16-8889FDEA-8D80-4A35-867D-FAC49F1F0CAD-1-105-c@512.webp"></img>
+    <section class="h">Hummel</section>
+    <section class="h text-bolder">Bubble Bee Pét Nat - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a36b4d58-afe8-4fed-88ae-1d9b582e97dc.html">
+    <img class="flex-bottle" src="/images/a3/6b4d58-afe8-4fed-88ae-1d9b582e97dc/2023-04-07-10-50-19-FCD3F887-17B1-4F05-8CD3-C3D39D129502-1-105-c@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Tattouine Rouge - 2019</section>
+  </a>
+
+</div>
+#+end_export
