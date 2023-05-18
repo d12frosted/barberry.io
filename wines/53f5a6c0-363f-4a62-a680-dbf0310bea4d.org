@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/53/f5a6c0-363f-4a62-a680-dbf0310bea4d/2021-09-01-22-08-09-529690A7-80C3-42F7-867E-F13240B794CE-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/85be7630-4fda-4b8e-9e59-b2c8084bb499][Paolo Bea]]
+- Vintage :: 2012
+- Location :: Italy, IGP Umbria
+- Grapes :: Trebbiano
+- Alcohol :: 12.5
+- Sugar :: 0
+- Price :: 1757 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-09-01 - ☆ 8.00
+
+This wine spent in my wishlist for a long time. And at last, spontaneously, the party has formed and we seized a bottle. Initially closed and shy nose, requires time to open up. Oxidised apples, apricots, amber, zest, and well integrated VA. Medium tannins, medium acidity, all combining into long and tasty symphony of oxidised apple juice.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52bf4d91-a4d5-4111-9fb4-bddad2d87b1b.html">
+    <img class="flex-bottle" src="/images/52/bf4d91-a4d5-4111-9fb4-bddad2d87b1b/2023-05-18-09-51-38-8C07B980-1384-4287-9E67-09E96571BB1E-1-105-c@512.webp"></img>
+    <section class="h">Paolo Bea</section>
+    <section class="h text-bolder">Rosso de Véo - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d1b437fb-d654-400b-a6b6-8698a5f94673.html">
+    <img class="flex-bottle" src="/images/d1/b437fb-d654-400b-a6b6-8698a5f94673/2021-11-06-11-04-59-6973E7C1-3BDE-4C96-847A-19D56D849AF7-1-105-c@512.webp"></img>
+    <section class="h">Paolo Bea</section>
+    <section class="h text-bolder">Sanvalentino Rosso - 2012</section>
+  </a>
+
+</div>
+#+end_export

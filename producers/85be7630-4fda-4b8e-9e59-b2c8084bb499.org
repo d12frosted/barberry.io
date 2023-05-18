@@ -1,0 +1,25 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/53f5a6c0-363f-4a62-a680-dbf0310bea4d.html">
+    <img class="flex-bottle" src="/images/53/f5a6c0-363f-4a62-a680-dbf0310bea4d/2021-09-01-22-08-09-529690A7-80C3-42F7-867E-F13240B794CE-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Arboreus - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/52bf4d91-a4d5-4111-9fb4-bddad2d87b1b.html">
+    <img class="flex-bottle" src="/images/52/bf4d91-a4d5-4111-9fb4-bddad2d87b1b/2023-05-18-09-51-38-8C07B980-1384-4287-9E67-09E96571BB1E-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Rosso de Véo - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d1b437fb-d654-400b-a6b6-8698a5f94673.html">
+    <img class="flex-bottle" src="/images/d1/b437fb-d654-400b-a6b6-8698a5f94673/2021-11-06-11-04-59-6973E7C1-3BDE-4C96-847A-19D56D849AF7-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Sanvalentino Rosso - 2012</section>
+  </a>
+
+</div>
+#+end_export

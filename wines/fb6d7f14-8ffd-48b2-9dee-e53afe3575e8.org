@@ -75,5 +75,11 @@ Tasted as part of Il Pirata event.
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/d1b437fb-d654-400b-a6b6-8698a5f94673.html">
+    <img class="flex-bottle" src="/images/d1/b437fb-d654-400b-a6b6-8698a5f94673/2021-11-06-11-04-59-6973E7C1-3BDE-4C96-847A-19D56D849AF7-1-105-c@512.webp"></img>
+    <section class="h">Paolo Bea</section>
+    <section class="h text-bolder">Sanvalentino Rosso - 2012</section>
+  </a>
+
 </div>
 #+end_export

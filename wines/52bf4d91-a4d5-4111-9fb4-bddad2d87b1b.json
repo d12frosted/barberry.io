@@ -1,0 +1,34 @@
+{
+  "id": "52bf4d91-a4d5-4111-9fb4-bddad2d87b1b",
+  "name": "Rosso de Véo",
+  "full-name": "Paolo Bea Rosso de Véo 2012",
+  "producer": {
+    "id": "85be7630-4fda-4b8e-9e59-b2c8084bb499",
+    "name": "Paolo Bea"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "65c5e6cc-bf1f-4538-a5ad-e2f4ffb2cf6e",
+      "name": "Sagrantino"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "0",
+  "prices": [
+    "3098 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/52/bf4d91-a4d5-4111-9fb4-bddad2d87b1b/2023-05-18-09-51-38-8C07B980-1384-4287-9E67-09E96571BB1E-1-105-c.webp",
+  "rating": "8.0"
+}

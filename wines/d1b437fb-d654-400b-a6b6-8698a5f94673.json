@@ -1,0 +1,42 @@
+{
+  "id": "d1b437fb-d654-400b-a6b6-8698a5f94673",
+  "name": "Sanvalentino Rosso",
+  "full-name": "Paolo Bea Sanvalentino Rosso 2012",
+  "producer": {
+    "id": "85be7630-4fda-4b8e-9e59-b2c8084bb499",
+    "name": "Paolo Bea"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "65c5e6cc-bf1f-4538-a5ad-e2f4ffb2cf6e",
+      "name": "Sagrantino"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "2e4fac16-aa60-4d28-871a-9ca3b52cf687",
+      "name": "Montepulciano"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0",
+  "prices": [
+    "1728 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d1/b437fb-d654-400b-a6b6-8698a5f94673/2021-11-06-11-04-59-6973E7C1-3BDE-4C96-847A-19D56D849AF7-1-105-c.webp",
+  "rating": "8.0"
+}
