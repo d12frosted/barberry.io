@@ -44,7 +44,7 @@ Wine #3 on [[barberry:/posts/2022-09-20-opaque-tasting][Opaque Tasting Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/20e94cc8-5a13-411e-8665-4aa07b26a9d9.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/20/e94cc8-5a13-411e-8665-4aa07b26a9d9/2023-05-19-16-48-16-IMG-7038@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2022</section>
   </a>
@@ -80,7 +80,7 @@ Wine #3 on [[barberry:/posts/2022-09-20-opaque-tasting][Opaque Tasting Vol. 1]].
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
-    <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-05-03-21-16-08-2A3D8A51-5DF1-43D7-BFED-26235EE84576-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-05-19-16-24-32-IMG-7025@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
   </a>
@@ -109,31 +109,37 @@ Wine #3 on [[barberry:/posts/2022-09-20-opaque-tasting][Opaque Tasting Vol. 1]].
     <section class="h text-bolder">El Bandito Skin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/da22054b-8886-4194-9e2c-e3a798aaa374.html">
+    <img class="flex-bottle" src="/images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-05-19-16-51-18-IMG-7045@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b.html">
+    <img class="flex-bottle" src="/images/f7/0047ef-3506-4395-ba7d-c6867ab3bd5b/2023-05-19-16-54-01-IMG-7067@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Keep on Punching - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e.html">
+  <a class="flex-item flex-item-left" href="/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e.html">
     <img class="flex-bottle" src="/images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Pouilly-Loché Climat La Colonge - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/345c98e3-665a-416f-83a7-b31d12e29361.html">
+  <a class="flex-item flex-item-right" href="/wines/345c98e3-665a-416f-83a7-b31d12e29361.html">
     <img class="flex-bottle" src="/images/34/5c98e3-665a-416f-83a7-b31d12e29361/2021-12-27-17-27-44-0DAB7A51-B181-427A-834C-7C35D43BEDAA-1-102-o@512.webp"></img>
     <section class="h">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Savigny-Les-Beaune Les Bas Liards - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b4e3ce1-235d-4f81-b79b-90371a3d74fc.html">
+  <a class="flex-item flex-item-left" href="/wines/4b4e3ce1-235d-4f81-b79b-90371a3d74fc.html">
     <img class="flex-bottle" src="/images/4b/4e3ce1-235d-4f81-b79b-90371a3d74fc/2022-09-06-16-01-30-IMG-2027@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Pinoit Gris Macération Pur Vin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5.html">
+  <a class="flex-item flex-item-right" href="/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5.html">
     <img class="flex-bottle" src="/images/67/0fad73-f37f-4fc2-bb51-44452dc9fbe5/2022-09-05-20-46-47-IMG-2010@512.webp"></img>
     <section class="h">Le Vieux Télégraphe</section>
     <section class="h text-bolder">Châteauneuf du Pape Clos La Roquète - 2020</section>

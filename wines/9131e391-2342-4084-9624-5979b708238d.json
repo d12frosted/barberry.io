@@ -1,0 +1,39 @@
+{
+  "id": "9131e391-2342-4084-9624-5979b708238d",
+  "name": "Rosé Première Cuvée (d2019)",
+  "full-name": "Bruno Paillard Rosé Première Cuvée (d2019) NV",
+  "producer": {
+    "id": "11da3d83-ca4a-4e23-a8f1-e8d1cf395b58",
+    "name": "Bruno Paillard"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "December 2019",
+  "sur-lie": "36 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "6.3",
+  "prices": [
+    "2500 UAH",
+    "3350 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/91/31e391-2342-4084-9624-5979b708238d/2023-05-19-16-47-36-IMG-7035.webp",
+  "rating": "NA"
+}

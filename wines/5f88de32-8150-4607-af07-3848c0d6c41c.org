@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/67b094dd-f7b3-4e46-8d7d-cf56339a7cf6][Domaine Derain]]
+- Vintage :: 2018
+- Location :: France, Pommard AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: 1
+- Price :: 2450 UAH
+- Cellar :: N/A
+
+** Producer
+
+Created by [[barberry:/producers/4191c986-fc88-4e47-a038-cc1dd4c8fa31][Dominique Derain]], now managed by his 'student' Julien Altaber also known by his [[barberry:/producers/1c05cc7c-8b42-4101-b447-9422c813f6c7][Sextant]] project.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c@512.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
+  </a>
+
+</div>
+#+end_export

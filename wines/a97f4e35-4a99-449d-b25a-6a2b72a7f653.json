@@ -1,0 +1,43 @@
+{
+  "id": "a97f4e35-4a99-449d-b25a-6a2b72a7f653",
+  "name": "Petit Castel",
+  "full-name": "Domaine du Castel Petit Castel 2020",
+  "producer": {
+    "id": "ec6ae43c-fa47-482a-890c-860e8ce3f25f",
+    "name": "Domaine du Castel"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "88c84102-40e4-4870-9905-1b3c8c4652f9",
+    "name": "Israel"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "0650b249-3982-441c-a3fa-d798c32fe3a9",
+      "name": "Petit Verdot"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3",
+  "prices": [
+    "1535 UAH",
+    "1793 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a9/7f4e35-4a99-449d-b25a-6a2b72a7f653/2023-05-19-16-39-04-IMG-7029.webp",
+  "rating": "NA"
+}

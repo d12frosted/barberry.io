@@ -1,0 +1,35 @@
+{
+  "id": "da22054b-8886-4194-9e2c-e3a798aaa374",
+  "name": "El Bandito I Wish I was a Ninja",
+  "full-name": "Testalonga El Bandito I Wish I was a Ninja 2022",
+  "producer": {
+    "id": "28888340-61d4-42b7-9aa6-25ae9bf77e08",
+    "name": "Testalonga"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "a98e6c07-1390-4440-8a69-57984ec8c13b",
+      "name": "Colombard"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "31.5",
+  "prices": [
+    "787 UAH",
+    "920 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-05-19-16-51-18-IMG-7045.webp",
+  "rating": "NA"
+}

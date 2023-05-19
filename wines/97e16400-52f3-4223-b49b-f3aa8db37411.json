@@ -1,0 +1,35 @@
+{
+  "id": "97e16400-52f3-4223-b49b-f3aa8db37411",
+  "name": "Montlouis Sur Loire Clos de Mosny Monopole",
+  "full-name": "Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018",
+  "producer": {
+    "id": "461a005a-3007-46a9-8ab4-f716429379fa",
+    "name": "Domaine de la Taille Aux Loups"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "1163 UAH",
+    "1619 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/97/e16400-52f3-4223-b49b-f3aa8db37411/2023-05-19-16-44-27-IMG-7033.webp",
+  "rating": "NA"
+}

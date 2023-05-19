@@ -36,7 +36,7 @@ Maybe I am getting older and more serious, so to compensate, I enjoy this light 
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/20e94cc8-5a13-411e-8665-4aa07b26a9d9.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/20/e94cc8-5a13-411e-8665-4aa07b26a9d9/2023-05-19-16-48-16-IMG-7038@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Stay Brave - 2022</section>
   </a>
@@ -66,7 +66,7 @@ Maybe I am getting older and more serious, so to compensate, I enjoy this light 
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
-    <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-05-03-21-16-08-2A3D8A51-5DF1-43D7-BFED-26235EE84576-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-05-19-16-24-32-IMG-7025@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
   </a>
@@ -101,19 +101,25 @@ Maybe I am getting older and more serious, so to compensate, I enjoy this light 
     <section class="h text-bolder">Baby Bandito Follow Your Dreams - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/da22054b-8886-4194-9e2c-e3a798aaa374.html">
+    <img class="flex-bottle" src="/images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-05-19-16-51-18-IMG-7045@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b.html">
+    <img class="flex-bottle" src="/images/f7/0047ef-3506-4395-ba7d-c6867ab3bd5b/2023-05-19-16-54-01-IMG-7067@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Keep on Punching - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
+  <a class="flex-item flex-item-left" href="/wines/300f65a6-f3a7-413d-8e8f-4b06abb5f11d.html">
     <img class="flex-bottle" src="/images/30/0f65a6-f3a7-413d-8e8f-4b06abb5f11d/2022-07-21-07-25-15-A4CFA21A-346D-4FEC-8702-7CF7A154CE73-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
