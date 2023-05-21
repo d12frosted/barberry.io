@@ -1,0 +1,38 @@
+{
+  "id": "3d56770c-4363-4108-9bac-3af5c1d7d3f3",
+  "name": "Malterdinger Weiss",
+  "full-name": "Bernard Huber Malterdinger Weiss 2019",
+  "producer": {
+    "id": "529f9690-8295-438b-a325-fea652f785a6",
+    "name": "Bernard Huber"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "1358 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3d/56770c-4363-4108-9bac-3af5c1d7d3f3/2023-05-21-15-09-57-0DF4675C-CE13-4715-B3C7-6540C32CBC01-1-105-c.webp",
+  "rating": "NA"
+}
