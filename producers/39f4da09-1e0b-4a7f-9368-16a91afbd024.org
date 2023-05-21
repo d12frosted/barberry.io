@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3d8379e9-7c33-49e2-b448-e391ae312b0c.html">
+    <img class="flex-bottle" src="/images/3d/8379e9-7c33-49e2-b448-e391ae312b0c/2023-05-20-10-48-59-DBA2FDE8-1128-479D-928E-94C7892D074D-1-105-c@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Bourgogne Blanc - 2017</section>
+  </a>
+
+</div>
+#+end_export

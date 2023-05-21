@@ -29,13 +29,19 @@ This is beautiful and ephemeral. Cherry, candy, strawberry, autumn flowers, subt
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+  <a class="flex-item flex-item-left" href="/wines/055df196-2f0a-462a-9be5-09fa24b17517.html">
+    <img class="flex-bottle" src="/images/05/5df196-2f0a-462a-9be5-09fa24b17517/2023-05-20-10-39-37-8F3E641D-0810-4F38-9D9F-9E8E68CF36AA-1-105-c@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
     <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Le mie Origini - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>

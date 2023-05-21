@@ -1,0 +1,34 @@
+{
+  "id": "0d85ef4c-700d-4cfc-8ce6-8dc5c4b67cd7",
+  "name": "Marsannay Chardonnay rose",
+  "full-name": "Sylvain Pataille Marsannay Chardonnay rose 2020",
+  "producer": {
+    "id": "6bbdc278-2ace-4362-bc06-ab16c1ca5ed7",
+    "name": "Sylvain Pataille"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1950 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0d/85ef4c-700d-4cfc-8ce6-8dc5c4b67cd7/2023-05-20-10-43-21-77017A5F-7F3C-4F6C-A29F-167C5DCD9ED6-1-105-c.webp",
+  "rating": "8.0"
+}

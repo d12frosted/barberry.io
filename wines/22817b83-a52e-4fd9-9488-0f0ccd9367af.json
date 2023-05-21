@@ -1,0 +1,35 @@
+{
+  "id": "22817b83-a52e-4fd9-9488-0f0ccd9367af",
+  "name": "Puligny-Montrachet 1er Cru Les Folatières",
+  "full-name": "Frédéric Cossard Puligny-Montrachet 1er Cru Les Folatières 2018",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "10900 UAH",
+    "10500 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/22/817b83-a52e-4fd9-9488-0f0ccd9367af/2023-05-20-10-47-04-3C0E4D3E-ADD7-4468-A48F-4D0E828C777E-1-105-c.webp",
+  "rating": "8.75"
+}

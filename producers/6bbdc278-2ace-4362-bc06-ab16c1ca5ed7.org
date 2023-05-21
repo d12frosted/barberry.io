@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0d85ef4c-700d-4cfc-8ce6-8dc5c4b67cd7.html">
+    <img class="flex-bottle" src="/images/0d/85ef4c-700d-4cfc-8ce6-8dc5c4b67cd7/2023-05-20-10-43-21-77017A5F-7F3C-4F6C-A29F-167C5DCD9ED6-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Marsannay Chardonnay rose - 2020</section>
+  </a>
+
+</div>
+#+end_export

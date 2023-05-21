@@ -1,0 +1,35 @@
+{
+  "id": "c43f0a9e-3443-40f4-9c4c-8878f6493227",
+  "name": "Saint-Romain Combe Bazin",
+  "full-name": "Domaine de Chassorney Saint-Romain Combe Bazin 2018",
+  "producer": {
+    "id": "695d69a4-8d84-4efa-88ce-4ffbc0dd24e1",
+    "name": "Domaine de Chassorney"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "2390 UAH",
+    "1890 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c4/3f0a9e-3443-40f4-9c4c-8878f6493227/2023-05-20-10-51-03-7511D727-4E83-4597-93C7-1E8932FC02B4-1-105-c.webp",
+  "rating": "8.6"
+}

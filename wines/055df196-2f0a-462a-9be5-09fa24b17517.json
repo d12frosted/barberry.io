@@ -1,0 +1,35 @@
+{
+  "id": "055df196-2f0a-462a-9be5-09fa24b17517",
+  "name": "Pernand-Vergelesses 1er Cru Les Vergelesses",
+  "full-name": "Chandon de Briailles Pernand-Vergelesses 1er Cru Les Vergelesses 2019",
+  "producer": {
+    "id": "5122a11b-3fed-4018-a965-37335da7785e",
+    "name": "Chandon de Briailles"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "2490 UAH",
+    "1790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/05/5df196-2f0a-462a-9be5-09fa24b17517/2023-05-20-10-39-37-8F3E641D-0810-4F38-9D9F-9E8E68CF36AA-1-105-c.webp",
+  "rating": "8.0"
+}

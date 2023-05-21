@@ -9,5 +9,11 @@
     <section class="h text-bolder">Ploussard - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/22817b83-a52e-4fd9-9488-0f0ccd9367af.html">
+    <img class="flex-bottle" src="/images/22/817b83-a52e-4fd9-9488-0f0ccd9367af/2023-05-20-10-47-04-3C0E4D3E-ADD7-4468-A48F-4D0E828C777E-1-105-c@512.webp"></img>
+    <section class="h">★ 8.75</section>
+    <section class="h text-bolder">Puligny-Montrachet 1er Cru Les Folatières - 2018</section>
+  </a>
+
 </div>
 #+end_export
