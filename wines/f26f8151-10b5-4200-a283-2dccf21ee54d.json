@@ -1,0 +1,39 @@
+{
+  "id": "f26f8151-10b5-4200-a283-2dccf21ee54d",
+  "name": "Cuvée 741 DT Grand Vin (2013)",
+  "full-name": "Jacquesson Cuvée 741 DT Grand Vin (2013) NV",
+  "producer": {
+    "id": "2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca",
+    "name": "Jacquesson"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "4280 UAH",
+    "4600 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

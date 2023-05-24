@@ -21,14 +21,23 @@
     {
       "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
       "name": "Tempranillo"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
     }
   ],
   "alcohol": "13.5",
-  "sugar": "1.3",
+  "sugar": "2.1",
   "prices": [
-    "1500 UAH"
+    "1350 UAH",
+    "1570 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/42/4eb112-836b-4d9a-870a-bb3108b0c136/2023-05-24-16-45-26-IMG-7172.webp",
   "rating": "NA"
 }

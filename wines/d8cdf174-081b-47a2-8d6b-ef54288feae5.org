@@ -29,175 +29,181 @@ Same beauty as always. Love or hate story. Fino Jerez, raw walnut, medicinal her
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+  <a class="flex-item flex-item-left" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
+    <img class="flex-bottle" src="/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Traminer - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
-    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-04-01-10-13-47-F3879159-4040-4F98-AC94-26E04954BBB5-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Poulsard en Amphore - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
+  <a class="flex-item flex-item-right" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
     <img class="flex-bottle" src="/images/74/d9ccb5-28fc-4b73-9496-5215458d4ede/2022-09-26-19-21-48-7A33AE56-40AB-46DA-9477-04AC52136A7A-1-102-o@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">La Mailloche Vin Jaune - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
+  <a class="flex-item flex-item-left" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
     <img class="flex-bottle" src="/images/7d/ef6e34-0a3a-4e97-bb17-77089edcf900/2022-12-03-09-33-56-11EE55CD-0397-48B7-AFA5-8409BA0390C4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Pinot Noir Sous la Tour - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0c1744e9-e97f-4c24-aded-297783193553.html">
+  <a class="flex-item flex-item-left" href="/wines/0c1744e9-e97f-4c24-aded-297783193553.html">
     <img class="flex-bottle" src="/images/0c/1744e9-e97f-4c24-aded-297783193553/2023-04-06-16-00-04-74DAEC57-4EE6-4F3B-A593-5FB172F497AA-1-105-c@512.webp"></img>
     <section class="h">Egly-Ouriet</section>
     <section class="h text-bolder">Coteaux Champenois Cuvée des Grands Côtés Vielles Vignes Grand Cru Ambonnay Rouge - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/0e00caf9-100e-4789-a9aa-dbe00f82d8af.html">
+  <a class="flex-item flex-item-right" href="/wines/0e00caf9-100e-4789-a9aa-dbe00f82d8af.html">
     <img class="flex-bottle" src="/images/0e/00caf9-100e-4789-a9aa-dbe00f82d8af/2022-12-17-11-15-46-24FF6E81-657F-4849-B873-1B9ADCF4244E-1-102-o@512.webp"></img>
     <section class="h">Domaine des Cavarodes</section>
     <section class="h text-bolder">Côtes du Jura Les Lumachelles Rouge - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0eee744d-c822-471a-8a3f-ba0c7d452893.html">
+  <a class="flex-item flex-item-left" href="/wines/0eee744d-c822-471a-8a3f-ba0c7d452893.html">
     <img class="flex-bottle" src="/images/0e/ee744d-c822-471a-8a3f-ba0c7d452893/2022-10-15-13-26-17-FAA775D9-D4D0-4C09-9062-A4386280048E-1-105-c@512.webp"></img>
     <section class="h">Dominique Derain</section>
     <section class="h text-bolder">Las Nubes - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2616849c-0e41-49f1-b769-12eb4a02a413.html">
+  <a class="flex-item flex-item-right" href="/wines/2616849c-0e41-49f1-b769-12eb4a02a413.html">
     <img class="flex-bottle" src="/images/26/16849c-0e41-49f1-b769-12eb4a02a413/2022-10-15-13-45-14-7679E8EA-07AF-45B9-B10B-D9AB4EBB1DC0-1-105-c@512.webp"></img>
     <section class="h">Loxarel</section>
     <section class="h text-bolder">Clàssic Penedès Brut Nature Reserva - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
     <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2023-05-18-08-15-18-3DCF93C5-1E02-474F-BF86-F5715E1D8533-1-105-c@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3e3afebf-0122-4708-86af-46c1f53b4078.html">
+  <a class="flex-item flex-item-right" href="/wines/3e3afebf-0122-4708-86af-46c1f53b4078.html">
     <img class="flex-bottle" src="/images/3e/3afebf-0122-4708-86af-46c1f53b4078/2022-10-15-13-13-11-CFB7B836-9D1C-45F3-AD81-F02B7B7B0F4D-1-105-c@512.webp"></img>
     <section class="h">Populis</section>
     <section class="h text-bolder">Wabi-sabi white - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4a5c59e8-9273-4dc8-a6de-9af531084fd1.html">
+  <a class="flex-item flex-item-left" href="/wines/4a5c59e8-9273-4dc8-a6de-9af531084fd1.html">
     <img class="flex-bottle" src="/images/4a/5c59e8-9273-4dc8-a6de-9af531084fd1/2022-10-15-13-43-45-E3319622-8562-448E-B40F-C269C3C75337-1-105-c@512.webp"></img>
     <section class="h">Kelley Fox Wines</section>
     <section class="h text-bolder">Hyland Vineyard Pinot Noir Coury Clone - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5bea4ba4-aaef-402e-9bd0-f8ad5da2c5e3.html">
+  <a class="flex-item flex-item-right" href="/wines/5bea4ba4-aaef-402e-9bd0-f8ad5da2c5e3.html">
     <img class="flex-bottle" src="/images/5b/ea4ba4-aaef-402e-9bd0-f8ad5da2c5e3/2022-10-15-13-39-17-FE860E62-C836-46EC-9B89-C17CD955041C-1-105-c@512.webp"></img>
     <section class="h">Familia Cecchin</section>
     <section class="h text-bolder">Malbec - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
+  <a class="flex-item flex-item-left" href="/wines/63b268f0-8b34-4d58-8dba-6302b9f2dbb4.html">
     <img class="flex-bottle" src="/images/63/b268f0-8b34-4d58-8dba-6302b9f2dbb4/2022-12-11-10-44-24-IMG-3730@512.webp"></img>
     <section class="h">Francois Montand</section>
     <section class="h text-bolder">Méthode Traditionnelle Blanc de Blancs Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/68aa146e-d0bc-4688-8e46-9e4f7bfd3c26.html">
+  <a class="flex-item flex-item-right" href="/wines/68aa146e-d0bc-4688-8e46-9e4f7bfd3c26.html">
     <img class="flex-bottle" src="/images/68/aa146e-d0bc-4688-8e46-9e4f7bfd3c26/2022-10-15-13-16-29-A4DFF406-D8C6-4A23-8CED-E7D6761C99CF-1-105-c@512.webp"></img>
     <section class="h">Ovum</section>
     <section class="h text-bolder">To love somebody - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
+  <a class="flex-item flex-item-left" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
     <img class="flex-bottle" src="/images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c@512.webp"></img>
     <section class="h">Larmandier-Bernier</section>
     <section class="h text-bolder">Cramant Nature Grand Cru - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
+  <a class="flex-item flex-item-right" href="/wines/892e6330-5d64-47c5-ac84-90ef7be094bc.html">
     <img class="flex-bottle" src="/images/89/2e6330-5d64-47c5-ac84-90ef7be094bc/2022-12-17-11-17-35-1A4F39D0-FE30-48BE-B0FC-B7794F162582-1-102-o@512.webp"></img>
     <section class="h">Buronfosse</section>
     <section class="h text-bolder">Chardonnay Marcus - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9.html">
+  <a class="flex-item flex-item-left" href="/wines/8d4f1f71-ee82-481b-a9a1-6cf5e03e00d9.html">
     <img class="flex-bottle" src="/images/8d/4f1f71-ee82-481b-a9a1-6cf5e03e00d9/2022-10-15-13-38-21-6D19C4E7-370B-4284-B92D-30EC4908AEA9-1-105-c@512.webp"></img>
     <section class="h">Villalobos</section>
     <section class="h text-bolder">Carignan Reserve - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a85a1ed5-61aa-48d6-8ef3-2a68e12e2378.html">
+  <a class="flex-item flex-item-right" href="/wines/a85a1ed5-61aa-48d6-8ef3-2a68e12e2378.html">
     <img class="flex-bottle" src="/images/a8/5a1ed5-61aa-48d6-8ef3-2a68e12e2378/2022-12-17-11-54-01-DE1A7071-C382-42F2-8C88-B0AA9CD7F322-1-102-o@512.webp"></img>
     <section class="h">Patrice Beguet</section>
     <section class="h text-bolder">Three views of a secret - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/af5f10f3-a2a0-4f25-997a-6a5c6b81159c.html">
+  <a class="flex-item flex-item-left" href="/wines/af5f10f3-a2a0-4f25-997a-6a5c6b81159c.html">
     <img class="flex-bottle" src="/images/af/5f10f3-a2a0-4f25-997a-6a5c6b81159c/2022-09-25-12-45-38-18360C47-A6DD-4BC0-94B1-FD52EDDB44F6-1-105-c@512.webp"></img>
     <section class="h">La Garagista</section>
     <section class="h text-bolder">Vinu Jancu Reserve - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b73fa916-48c3-4be6-a38f-8ae212d7fff6.html">
+  <a class="flex-item flex-item-right" href="/wines/b73fa916-48c3-4be6-a38f-8ae212d7fff6.html">
     <img class="flex-bottle" src="/images/b7/3fa916-48c3-4be6-a38f-8ae212d7fff6/2023-04-06-12-16-20-7B554311-7DF4-4E8C-B698-798550877CFD-1-105-c@512.webp"></img>
     <section class="h">Marie-Courtin</section>
     <section class="h text-bolder">Concordance Blanc de Noirs Extra Brut - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
+  <a class="flex-item flex-item-left" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
     <img class="flex-bottle" src="/images/c8/127ca1-e35d-4483-8ef1-b91a974e8829/2023-04-07-20-41-51-D2263A1D-B27E-4DFD-93E3-B06E30E07E0B-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Remus - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cc47c97d-f578-4008-9079-fb74834ede1d.html">
+  <a class="flex-item flex-item-right" href="/wines/cc47c97d-f578-4008-9079-fb74834ede1d.html">
     <img class="flex-bottle" src="/images/cc/47c97d-f578-4008-9079-fb74834ede1d/2023-04-08-08-33-02-451D0942-0946-40FE-8D6E-BD9A685B55E7-1-105-c@512.webp"></img>
     <section class="h">Lamborghini</section>
     <section class="h text-bolder">Campoleone - 1997</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58.html">
+  <a class="flex-item flex-item-left" href="/wines/ce0741d1-bf10-4ec2-994d-a86a062bea58.html">
     <img class="flex-bottle" src="/images/ce/0741d1-bf10-4ec2-994d-a86a062bea58/2022-12-17-11-58-36-7CF64387-BD15-4E83-A217-6BCB53A19382-1-102-o@512.webp"></img>
     <section class="h">Fedellos do Couto</section>
     <section class="h text-bolder">Bastarda - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d51da8db-cf3a-4d27-ada9-79fc7ce0c35c.html">
+  <a class="flex-item flex-item-right" href="/wines/d51da8db-cf3a-4d27-ada9-79fc7ce0c35c.html">
     <img class="flex-bottle" src="/images/d5/1da8db-cf3a-4d27-ada9-79fc7ce0c35c/2023-04-07-20-39-14-14F384C5-9DAD-4509-AA49-EF91D2954420-1-105-c@512.webp"></img>
     <section class="h">Il Paradiso di Manfredi</section>
     <section class="h text-bolder">Rosso di Montalcino - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
+  <a class="flex-item flex-item-left" href="/wines/d7463ff5-e6fb-4f8e-9b34-e4c3da51157a.html">
     <img class="flex-bottle" src="/images/d7/463ff5-e6fb-4f8e-9b34-e4c3da51157a/2022-12-17-11-01-07-17225201-7841-4857-A327-D82269B16E3D-1-105-c@512.webp"></img>
     <section class="h">Cellers de Can Suriol</section>
     <section class="h text-bolder">Azimut Cava Blanc Brut Nature - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/dae96f2e-0035-42dc-8678-b1caba56fe17.html">
+  <a class="flex-item flex-item-right" href="/wines/dae96f2e-0035-42dc-8678-b1caba56fe17.html">
     <img class="flex-bottle" src="/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o@512.webp"></img>
     <section class="h">Tony Bornard</section>
     <section class="h text-bolder">le Vin de Ploussard ouvre L'esprit - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
+  <a class="flex-item flex-item-left" href="/wines/e6abd222-5254-45ba-bba6-4eb328431065.html">
     <img class="flex-bottle" src="/images/e6/abd222-5254-45ba-bba6-4eb328431065/2022-12-17-11-18-55-A0F2D665-8777-4F4D-93AD-ECBE3C0FDC08-1-102-o@512.webp"></img>
     <section class="h">Philippe Bornard</section>
     <section class="h text-bolder">Savagnin les Chassagnes lieu dit ouillé - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
+  <a class="flex-item flex-item-right" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
     <img class="flex-bottle" src="/images/eb/0e3f46-1417-4e4d-acc5-1fe5e6650a48/2022-10-15-13-04-56-39D20449-FB2C-4F3F-9121-51B05114536B-1-105-c@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2021</section>

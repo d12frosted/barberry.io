@@ -1,0 +1,35 @@
+{
+  "id": "178219e6-ed16-4c47-8a79-5a02a72cabea",
+  "name": "Traminer",
+  "full-name": "Andre et Mireille Tissot Traminer 2016",
+  "producer": {
+    "id": "e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8",
+    "name": "Andre et Mireille Tissot"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1474 UAH",
+    "1819 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177.webp",
+  "rating": "NA"
+}

@@ -23,73 +23,79 @@ Hehe. What can I say? A bottle of good vin jaune is a bottle of a good vin jaune
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+  <a class="flex-item flex-item-left" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
+    <img class="flex-bottle" src="/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Traminer - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
-    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-04-01-10-13-47-F3879159-4040-4F98-AC94-26E04954BBB5-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Poulsard en Amphore - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
+  <a class="flex-item flex-item-right" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
     <img class="flex-bottle" src="/images/7d/ef6e34-0a3a-4e97-bb17-77089edcf900/2022-12-03-09-33-56-11EE55CD-0397-48B7-AFA5-8409BA0390C4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Pinot Noir Sous la Tour - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+  <a class="flex-item flex-item-left" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
     <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+  <a class="flex-item flex-item-left" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
     <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
     <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6.html">
+  <a class="flex-item flex-item-right" href="/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6.html">
     <img class="flex-bottle" src="/images/30/3d09ba-ded9-49b8-a09b-4f89b6607da6/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o@512.webp"></img>
     <section class="h">Taittinger</section>
     <section class="h text-bolder">Brut Réserve - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c.html">
+  <a class="flex-item flex-item-left" href="/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c.html">
     <img class="flex-bottle" src="/images/8b/78bea1-7eb3-4aba-953d-44b164aa164c/2022-09-05-20-36-28-IMG-2001@512.webp"></img>
     <section class="h">Et Cetera</section>
     <section class="h text-bolder">Pinot Noir - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2.html">
+  <a class="flex-item flex-item-right" href="/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2.html">
     <img class="flex-bottle" src="/images/a7/0d304d-581f-44e1-91b5-dfa8422a03d2/2022-12-31-14-06-20-47BDFE1E-174F-4E70-BFBA-923BA978D79C-1-105-c@512.webp"></img>
     <section class="h">Domaine du Pélican</section>
     <section class="h text-bolder">Savagnin Macération Pelliculaire - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
+  <a class="flex-item flex-item-left" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
     <img class="flex-bottle" src="/images/b0/98e753-dc4a-4d0e-957f-3affd5968e9a/2023-02-27-21-52-38-IMG-5230@512.webp"></img>
     <section class="h">Beykush</section>
     <section class="h text-bolder">Loca Deserta - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5.html">
+  <a class="flex-item flex-item-right" href="/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5.html">
     <img class="flex-bottle" src="/images/cb/a5ddb4-b51f-4fb9-a28f-40489793aeb5/2023-01-24-07-11-52-IMG-4562@512.webp"></img>
     <section class="h">JM Dreyer</section>
     <section class="h text-bolder">Origin Pinot Gris Macération - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f.html">
+  <a class="flex-item flex-item-left" href="/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f.html">
     <img class="flex-bottle" src="/images/ea/95b34e-b0e6-4581-a6b0-47d39234286f/2023-02-15-08-50-12-E4EF2DBC-C551-4929-B383-3293181E141F-1-105-c@512.webp"></img>
     <section class="h">Sarnin-Berrux</section>
     <section class="h text-bolder">CHARdO - 2020</section>

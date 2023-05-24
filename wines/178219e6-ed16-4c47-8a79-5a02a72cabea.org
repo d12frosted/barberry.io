@@ -1,0 +1,59 @@
+#+attr_html: :class wine-main-image
+[[file:/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
+- Vintage :: 2016
+- Location :: France, Arbois AOC
+- Grapes :: Savagnin
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 1474 UAH, 1819 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+    <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+    <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Poulsard en Amphore - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
+    <img class="flex-bottle" src="/images/74/d9ccb5-28fc-4b73-9496-5215458d4ede/2022-09-26-19-21-48-7A33AE56-40AB-46DA-9477-04AC52136A7A-1-102-o@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
+    <img class="flex-bottle" src="/images/7d/ef6e34-0a3a-4e97-bb17-77089edcf900/2022-12-03-09-33-56-11EE55CD-0397-48B7-AFA5-8409BA0390C4-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Pinot Noir Sous la Tour - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+    <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+    <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Singulier Trousseau - 2017</section>
+  </a>
+
+</div>
+#+end_export

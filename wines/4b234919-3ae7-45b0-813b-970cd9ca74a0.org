@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-04-01-10-13-47-F3879159-4040-4F98-AC94-26E04954BBB5-1-105-c@512.webp]]
+[[file:/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/e112c4de-2955-4ddc-bc0e-f62bf1bfa6f8][Andre et Mireille Tissot]]
@@ -8,8 +8,8 @@
 - Grapes :: Poulsard
 - Alcohol :: 13.5
 - Sugar :: NA
-- Price :: 1684 UAH
-- Cellar :: N/A
+- Price :: 1350 UAH, 1666 UAH, 1684 UAH
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -25,103 +25,109 @@ Wonderful Poulsard. It bursts with a barnyard that quickly gives a way to red be
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
+  <a class="flex-item flex-item-left" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
+    <img class="flex-bottle" src="/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Traminer - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2c655259-54b6-4a59-91c1-4e802e80a6b1.html">
     <img class="flex-bottle" src="/images/2c/655259-54b6-4a59-91c1-4e802e80a6b1/2021-12-09-08-54-15-F0C5FA76-52E7-4A8E-A4F7-57ED09D51621-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
+  <a class="flex-item flex-item-left" href="/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede.html">
     <img class="flex-bottle" src="/images/74/d9ccb5-28fc-4b73-9496-5215458d4ede/2022-09-26-19-21-48-7A33AE56-40AB-46DA-9477-04AC52136A7A-1-102-o@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">La Mailloche Vin Jaune - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
+  <a class="flex-item flex-item-right" href="/wines/7def6e34-0a3a-4e97-bb17-77089edcf900.html">
     <img class="flex-bottle" src="/images/7d/ef6e34-0a3a-4e97-bb17-77089edcf900/2022-12-03-09-33-56-11EE55CD-0397-48B7-AFA5-8409BA0390C4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Pinot Noir Sous la Tour - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
+  <a class="flex-item flex-item-left" href="/wines/d8cdf174-081b-47a2-8d6b-ef54288feae5.html">
     <img class="flex-bottle" src="/images/d8/cdf174-081b-47a2-8d6b-ef54288feae5/2022-10-15-13-45-42-B777EC9D-F8D1-4F34-AA68-10950730C354-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">La Mailloche Vin Jaune - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
+  <a class="flex-item flex-item-right" href="/wines/f201f266-399a-4818-be01-3987e9280388.html">
     <img class="flex-bottle" src="/images/f2/01f266-399a-4818-be01-3987e9280388/2021-12-10-09-12-47-F4A5FBFC-68F5-494B-9E58-0AC63060EBA4-1-105-c@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Singulier Trousseau - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0800b46f-7338-416b-b827-3bfb071e1238.html">
+  <a class="flex-item flex-item-left" href="/wines/0800b46f-7338-416b-b827-3bfb071e1238.html">
     <img class="flex-bottle" src="/images/08/00b46f-7338-416b-b827-3bfb071e1238/2023-04-01-09-58-09-9E85DC50-DA9C-482C-B4E8-3BF49562BBD9-1-105-c@512.webp"></img>
     <section class="h">Mongarda</section>
     <section class="h text-bolder">Glera Colli Trevigiani Col Fondo - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/15645e48-cc87-4136-b9f7-bff28f7b74e1.html">
+  <a class="flex-item flex-item-right" href="/wines/15645e48-cc87-4136-b9f7-bff28f7b74e1.html">
     <img class="flex-bottle" src="/images/15/645e48-cc87-4136-b9f7-bff28f7b74e1/2023-04-01-10-20-28-CF9B054A-2A6E-4C33-82F5-FA3A410C8303-1-105-c@512.webp"></img>
     <section class="h">Warre's</section>
     <section class="h text-bolder">Otima Single Year Tawny - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
+  <a class="flex-item flex-item-left" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
     <img class="flex-bottle" src="/images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371@512.webp"></img>
     <section class="h">Markus Molitor</section>
     <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
+  <a class="flex-item flex-item-right" href="/wines/3e07d3ab-d122-4eee-94dd-0770a526125b.html">
     <img class="flex-bottle" src="/images/3e/07d3ab-d122-4eee-94dd-0770a526125b/2023-05-18-08-15-18-3DCF93C5-1E02-474F-BF86-F5715E1D8533-1-105-c@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/45289e25-fbd9-4045-8ad4-cf52f5ffb871.html">
+  <a class="flex-item flex-item-left" href="/wines/45289e25-fbd9-4045-8ad4-cf52f5ffb871.html">
     <img class="flex-bottle" src="/images/45/289e25-fbd9-4045-8ad4-cf52f5ffb871/2023-04-01-10-13-00-698A1A22-B661-46BE-8631-D991BD98B9D0-1-105-c@512.webp"></img>
     <section class="h">Frédéric Cossard</section>
     <section class="h text-bolder">Ploussard - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
+  <a class="flex-item flex-item-right" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
     <img class="flex-bottle" src="/images/66/132041-ecfd-4d79-8f67-6e7aa512947b/2023-01-28-09-28-41-A0772CD8-C3A7-4332-A74B-D27F697E9FAC-1-105-c@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Réserve Grand Cru Blanc de Blancs (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/892ccc50-f7e0-425e-99be-5ddd238056df.html">
+  <a class="flex-item flex-item-right" href="/wines/892ccc50-f7e0-425e-99be-5ddd238056df.html">
     <img class="flex-bottle" src="/images/89/2ccc50-f7e0-425e-99be-5ddd238056df/2022-12-19-17-44-11-IMG-3930@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
+  <a class="flex-item flex-item-left" href="/wines/a5021c3f-3d2c-42c2-a984-5455b774d224.html">
     <img class="flex-bottle" src="/images/a5/021c3f-3d2c-42c2-a984-5455b774d224/2023-04-01-10-09-41-FA7B2B61-4AA9-44E9-9CC5-089B8C5D2579-1-105-c@512.webp"></img>
     <section class="h">Marie-Pierre Chevassu-Jassenet</section>
     <section class="h text-bolder">Côtes du Jura Poulsard - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c52c8091-3c3c-4090-a998-7db077b0e857.html">
+  <a class="flex-item flex-item-right" href="/wines/c52c8091-3c3c-4090-a998-7db077b0e857.html">
     <img class="flex-bottle" src="/images/c5/2c8091-3c3c-4090-a998-7db077b0e857/2023-04-01-10-11-38-E23E5BF5-A4E6-4522-94F8-B31839BE4B41-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Ploussard La Cabane - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dae96f2e-0035-42dc-8678-b1caba56fe17.html">
+  <a class="flex-item flex-item-left" href="/wines/dae96f2e-0035-42dc-8678-b1caba56fe17.html">
     <img class="flex-bottle" src="/images/da/e96f2e-0035-42dc-8678-b1caba56fe17/2022-12-17-11-11-07-77F81EA6-1260-4EC5-9909-C48AFCB006D4-1-102-o@512.webp"></img>
     <section class="h">Tony Bornard</section>
     <section class="h text-bolder">le Vin de Ploussard ouvre L'esprit - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e400d41f-6be2-4898-a383-203b45fca1b2.html">
+  <a class="flex-item flex-item-right" href="/wines/e400d41f-6be2-4898-a383-203b45fca1b2.html">
     <img class="flex-bottle" src="/images/e4/00d41f-6be2-4898-a383-203b45fca1b2/2023-04-01-10-06-24-4B1BFC32-8DAE-47BB-AF17-C5EE267E3EC6-1-105-c@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Ploussard Côte de Fuele - 2020</section>
