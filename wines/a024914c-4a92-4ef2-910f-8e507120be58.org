@@ -25,73 +25,79 @@ Wine #6 on [[barberry:/posts/2022-12-05-grapes-of-piedmont][Grapes of Piedmont]]
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
+  <a class="flex-item flex-item-left" href="/wines/767d4390-7fb8-43cf-9a82-da02266342a3.html">
+    <img class="flex-bottle" src="/images/76/7d4390-7fb8-43cf-9a82-da02266342a3/2023-05-26-11-52-35-A40D65F1-CBAA-4589-95C5-C1778A85916B-1-105-c@512.webp"></img>
+    <section class="h">Cascina Degli Ulivi</section>
+    <section class="h text-bolder">A Demûa - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e2ba6fb5-84a9-4659-bd14-34f40f48bf87.html">
     <img class="flex-bottle" src="/images/e2/ba6fb5-84a9-4659-bd14-34f40f48bf87/2022-06-09-21-55-33-IMG-0382@512.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Filagnotti - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f2db9115-8022-484b-bb3d-6b37770adaab.html">
+  <a class="flex-item flex-item-left" href="/wines/f2db9115-8022-484b-bb3d-6b37770adaab.html">
     <img class="flex-bottle" src="/images/f2/db9115-8022-484b-bb3d-6b37770adaab/2023-02-09-17-29-14-IMG-4875@512.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Mounbè - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
+  <a class="flex-item flex-item-right" href="/wines/02983870-d48b-4d04-909e-27b574fcd918.html">
     <img class="flex-bottle" src="/images/02/983870-d48b-4d04-909e-27b574fcd918/2022-12-01-07-40-46-E2F004CC-AEA6-409C-95FC-6D8938591C96-1-105-c@512.webp"></img>
     <section class="h">Fratelli Alessandria</section>
     <section class="h text-bolder">Speziale Verduno Pelaverga - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f.html">
+  <a class="flex-item flex-item-left" href="/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f.html">
     <img class="flex-bottle" src="/images/21/b2b1ca-3e02-4b2b-9901-3c212762d95f/2022-09-26-18-40-21-7E51C4FB-BE19-4FC2-A275-528450D0C855-1-102-o@512.webp"></img>
     <section class="h">Iuli</section>
     <section class="h text-bolder">La Rina - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
+  <a class="flex-item flex-item-right" href="/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88.html">
     <img class="flex-bottle" src="/images/2f/48f9ef-5ba5-4a13-a549-c9fad5f0cd88/2022-11-25-16-51-09-IMG-3385@512.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Viktoria - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3014c304-23be-4edd-b6c4-0eb1cfee9791.html">
+  <a class="flex-item flex-item-left" href="/wines/3014c304-23be-4edd-b6c4-0eb1cfee9791.html">
     <img class="flex-bottle" src="/images/30/14c304-23be-4edd-b6c4-0eb1cfee9791/2022-12-19-17-44-35-IMG-3932@512.webp"></img>
     <section class="h">Henri Giraud</section>
     <section class="h text-bolder">Blanc de Craie - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3b1a8a8d-4136-45f3-80a5-e72dcb55a929.html">
+  <a class="flex-item flex-item-right" href="/wines/3b1a8a8d-4136-45f3-80a5-e72dcb55a929.html">
     <img class="flex-bottle" src="/images/3b/1a8a8d-4136-45f3-80a5-e72dcb55a929/2022-12-07-08-44-12-3A38F9AA-5942-4513-8618-70E9EB16BE07-1-105-c@512.webp"></img>
     <section class="h">Galil Mountain</section>
     <section class="h text-bolder">Alon - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
+  <a class="flex-item flex-item-left" href="/wines/6cb59fce-cdef-4390-a168-29c715c9277a.html">
     <img class="flex-bottle" src="/images/6c/b59fce-cdef-4390-a168-29c715c9277a/2021-01-04-10-54-54-28E344B3-499D-4274-883A-CA936DDF442B-1-105-c@512.webp"></img>
     <section class="h">Antoniolo</section>
     <section class="h text-bolder">Gattinara - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9803f58c-cbbf-4c60-92a1-444f32fed355.html">
+  <a class="flex-item flex-item-right" href="/wines/9803f58c-cbbf-4c60-92a1-444f32fed355.html">
     <img class="flex-bottle" src="/images/98/03f58c-cbbf-4c60-92a1-444f32fed355/2022-09-26-18-20-31-4BD7A0F5-E4A4-4A07-9D95-C7316332B272-1-102-o@512.webp"></img>
     <section class="h">Valli Unite</section>
     <section class="h text-bolder">Marmote - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c.html">
+  <a class="flex-item flex-item-left" href="/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c.html">
     <img class="flex-bottle" src="/images/99/01fe8f-a6a6-44b0-bda3-451fb207048c/2022-11-15-17-06-38-IMG-3186@512.webp"></img>
     <section class="h">Cascina Tavijn</section>
     <section class="h text-bolder">Vino Bianca - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
+  <a class="flex-item flex-item-right" href="/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455.html">
     <img class="flex-bottle" src="/images/9b/d895a7-ad65-4065-a7f8-38fb457ed455/2020-09-13-12-41-27-649128AA-DCDA-4B5C-8928-E008BD77D3E9-1-105-c@512.webp"></img>
     <section class="h">Cascina Tavijn</section>
     <section class="h text-bolder">Bandita - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
+  <a class="flex-item flex-item-left" href="/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48.html">
     <img class="flex-bottle" src="/images/eb/0e3f46-1417-4e4d-acc5-1fe5e6650a48/2022-10-15-13-04-56-39D20449-FB2C-4F3F-9121-51B05114536B-1-105-c@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2021</section>

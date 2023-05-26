@@ -9,7 +9,7 @@
 - Alcohol :: 11.5
 - Sugar :: NA
 - Price :: 1206 UAH, 1724 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -26,6 +26,10 @@ Guillaume d’Angerville
 *** 2022-07-25 - ☆ 8.50
 
 What an incredible take on Poulsard. Somewhat reminds me of Pofadder by Sadie Family. Clean, sophisticated, multilayered and precise. Barberry, blood, red flowers, salami, and rhubarb. Juicy, almost perfectly balanced, with a nice and flavourful finish of blood-soaked barberry. Sexy stuff.
+
+*** 2023-05-25 - ☆ 8.25
+
+What a beautiful and sophisticated wine. Blood sausages, barberry, rhubarb and red flowers. Multilayered, juicy and almost perfectly balanced. Flavourful and sexy.
 
 ** Related
 
@@ -49,34 +53,46 @@ What an incredible take on Poulsard. Somewhat reminds me of Pofadder by Sadie Fa
     <section class="h text-bolder">Savagnin Macération Pelliculaire - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">
+  <a class="flex-item flex-item-right" href="/wines/0bf73b38-a422-4482-9ed0-8ce6ea74981e.html">
+    <img class="flex-bottle" src="/images/0b/f73b38-a422-4482-9ed0-8ce6ea74981e/2023-03-09-11-33-05-IMG-5395@512.webp"></img>
+    <section class="h">Loxarel</section>
+    <section class="h text-bolder">Clàssic Penedès Brut Nature Reserva - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9.html">
     <img class="flex-bottle" src="/images/2a/ec674b-19ba-4cc6-8337-6ca900703aa9/2022-07-26-11-55-59-B05B77CC-963A-4BE0-9F0B-EE0302AE53AD-1-105-c@512.webp"></img>
     <section class="h">Domaine Sigalas</section>
     <section class="h text-bolder">Santorini - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">
+  <a class="flex-item flex-item-right" href="/wines/2c77d1e3-bf8e-457a-afb3-bf1f5176f549.html">
     <img class="flex-bottle" src="/images/2c/77d1e3-bf8e-457a-afb3-bf1f5176f549/2022-07-26-12-31-15-CDBC8942-B5DF-4E33-BEA5-8D67BA3AFF63-1-105-c@512.webp"></img>
     <section class="h">Suertes del Marques</section>
     <section class="h text-bolder">El Chibirique - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/366086d0-9688-4be8-bdac-9b20162de445.html">
+  <a class="flex-item flex-item-left" href="/wines/366086d0-9688-4be8-bdac-9b20162de445.html">
     <img class="flex-bottle" src="/images/36/6086d0-9688-4be8-bdac-9b20162de445/2022-07-26-12-22-19-E7CBF111-B453-4E83-959B-1E2C857E49D3-1-105-c@512.webp"></img>
     <section class="h">Heinrich</section>
     <section class="h text-bolder">Blaufränkisch - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4491b2e2-25b3-434a-bcbf-943a1c1eda97.html">
+  <a class="flex-item flex-item-right" href="/wines/4491b2e2-25b3-434a-bcbf-943a1c1eda97.html">
     <img class="flex-bottle" src="/images/44/91b2e2-25b3-434a-bcbf-943a1c1eda97/2022-07-26-12-36-43-21469967-EA5F-4912-BF78-CFFF41BBB51F-1-105-c@512.webp"></img>
     <section class="h">Castello dei Rampolla</section>
     <section class="h text-bolder">Chianti Classico - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">
+  <a class="flex-item flex-item-left" href="/wines/6fb68166-b9cb-464d-b0c0-97bf8f98cadb.html">
     <img class="flex-bottle" src="/images/6f/b68166-b9cb-464d-b0c0-97bf8f98cadb/2022-07-26-11-50-49-14820544-4EE6-4445-8B7B-8608A90A9B8C-1-105-c@512.webp"></img>
     <section class="h">Fio Wein</section>
     <section class="h text-bolder">Piu Piu Petnat Rosé - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9e508cc6-0fed-456f-86e2-82d15cecccef.html">
+    <img class="flex-bottle" src="/images/9e/508cc6-0fed-456f-86e2-82d15cecccef/2023-04-01-09-50-18-ABA27A0D-A902-4149-BD7C-FDA7CC679F1C-1-102-o@512.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Gluegglich Rot Glückliches - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/acb75785-ee20-419a-a21a-540f51157670.html">
@@ -91,16 +107,28 @@ What an incredible take on Poulsard. Somewhat reminds me of Pofadder by Sadie Fa
     <section class="h text-bolder">Camiño Real - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">
+  <a class="flex-item flex-item-left" href="/wines/c490b3ec-5108-48d6-94ca-87d40ed55c3a.html">
+    <img class="flex-bottle" src="/images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2023-03-09-11-43-08-IMG-5425@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Vino Rosato di Vera - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c6b93312-f08f-408b-a355-0c821664eb1e.html">
     <img class="flex-bottle" src="/images/c6/b93312-f08f-408b-a355-0c821664eb1e/2022-07-26-11-46-04-5F32B2DD-2202-48BC-B916-DBC1444D1C48-1-105-c@512.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Piezas #4 Malvasia Seco - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d6c6820e-99c0-4c12-a1ab-348f9473de3e.html">
+  <a class="flex-item flex-item-left" href="/wines/d6c6820e-99c0-4c12-a1ab-348f9473de3e.html">
     <img class="flex-bottle" src="/images/d6/c6820e-99c0-4c12-a1ab-348f9473de3e/2022-07-26-12-05-40-0592C636-661E-48D7-B538-7B15D5028D82-1-105-c@512.webp"></img>
     <section class="h">Soco Vinicola</section>
     <section class="h text-bolder">Soco Blanco - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/da22054b-8886-4194-9e2c-e3a798aaa374.html">
+    <img class="flex-bottle" src="/images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-05-19-16-51-18-IMG-7045@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2022</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/fef3962b-3fbb-469d-a068-6f75275ce4c3.html">

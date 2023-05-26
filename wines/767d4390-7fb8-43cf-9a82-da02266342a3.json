@@ -1,0 +1,50 @@
+{
+  "id": "767d4390-7fb8-43cf-9a82-da02266342a3",
+  "name": "A Demûa",
+  "full-name": "Cascina Degli Ulivi A Demûa 2016",
+  "producer": {
+    "id": "f3a3985a-cd61-4e0c-8d77-a532b6d5da62",
+    "name": "Cascina Degli Ulivi"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "e61369d3-036f-4d46-9bfa-0431c05b5490",
+      "name": "Verdea"
+    },
+    {
+      "id": "adfec29f-7667-45a4-b6b2-3e9cfdc48522",
+      "name": "Bosco"
+    },
+    {
+      "id": "2332af97-fa55-41fc-b5f9-6691b1c40fc1",
+      "name": "Timorassa"
+    },
+    {
+      "id": "32f10d98-a088-4b97-aa35-1f6586c8904c",
+      "name": "Moscatella"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1700 UAH"
+  ],
+  "available": 0,
+  "image": "images/76/7d4390-7fb8-43cf-9a82-da02266342a3/2023-05-26-11-52-35-A40D65F1-CBAA-4589-95C5-C1778A85916B-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "eb815a42-3c39-4b70-9cb7-a2795d305fe8",
+  "name": "Demejeanne Vermont Rouge",
+  "full-name": "La Garagista Demejeanne Vermont Rouge 2018",
+  "producer": {
+    "id": "ff9e1419-21ae-4c0a-8bac-e57cc713e491",
+    "name": "La Garagista"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "5c052e2a-7f96-4bdb-8b85-8184f86dde4c",
+      "name": "Marquette"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "1840 UAH",
+    "2300 UAH",
+    "1650 UAH"
+  ],
+  "available": 0,
+  "image": "images/eb/815a42-3c39-4b70-9cb7-a2795d305fe8/2023-05-24-20-50-30-238EC726-3616-4D67-9945-686B642D5C68-1-105-c.webp",
+  "rating": "NA"
+}

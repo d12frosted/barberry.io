@@ -9,7 +9,7 @@
 - Alcohol :: 11.5
 - Sugar :: NA
 - Price :: 420 UAH, 518 UAH
-- Cellar :: 4 bottles
+- Cellar :: N/A
 
 ** Ratings
 
@@ -20,6 +20,10 @@ Simple, funky and friendly stuff. In the beginning, it's like aligning your life
 *** 2023-04-16 - ☆ 7.50
 
 An easy-going red. Not complex but charming. Dried cherry, cured meat, brett and a bit of fruit spoilage. IMO when chilled, it has a better structure and balance and a less watery mouthfeel. It is funky but not crazy. Great QPR.
+
+*** 2023-05-25 - ☆ 7.50
+
+As they say, chill'n'enjoy. Not complex, but expressive and friendly. Dried cherry, cured meat, brett and a bit of fruit spoilage. Moderately funky, elevated and juicy. Great for this summer-like weather.
 
 ** Related
 
@@ -43,22 +47,46 @@ An easy-going red. Not complex but charming. Dried cherry, cured meat, brett and
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
+  <a class="flex-item flex-item-right" href="/wines/0bf73b38-a422-4482-9ed0-8ce6ea74981e.html">
+    <img class="flex-bottle" src="/images/0b/f73b38-a422-4482-9ed0-8ce6ea74981e/2023-03-09-11-33-05-IMG-5395@512.webp"></img>
+    <section class="h">Loxarel</section>
+    <section class="h text-bolder">Clàssic Penedès Brut Nature Reserva - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
     <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp"></img>
     <section class="h">Weingut Brand</section>
     <section class="h text-bolder">Pet Nat Rosé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
     <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
     <section class="h">Els Vinyerons</section>
     <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c490b3ec-5108-48d6-94ca-87d40ed55c3a.html">
+    <img class="flex-bottle" src="/images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2023-03-09-11-43-08-IMG-5425@512.webp"></img>
+    <section class="h">Fattoria San Lorenzo</section>
+    <section class="h text-bolder">Vino Rosato di Vera - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
     <img class="flex-bottle" src="/images/c9/0f0d65-bdfa-4b21-93fd-936e99a296c4/2023-02-20-22-14-53-IMG-5086@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée Umami Grand Cru - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/da22054b-8886-4194-9e2c-e3a798aaa374.html">
+    <img class="flex-bottle" src="/images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-05-19-16-51-18-IMG-7045@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e761d104-5798-43f7-9d5d-cbf763d587a5.html">
+    <img class="flex-bottle" src="/images/e7/61d104-5798-43f7-9d5d-cbf763d587a5/2023-03-24-13-25-15-IMG-5663@512.webp"></img>
+    <section class="h">Domaine du Pélican</section>
+    <section class="h text-bolder">Poulsard - 2018</section>
   </a>
 
 </div>

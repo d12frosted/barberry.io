@@ -21,19 +21,25 @@ This is a teenager Cortese that decided to become a punk. But its parents accept
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/a024914c-4a92-4ef2-910f-8e507120be58.html">
+  <a class="flex-item flex-item-left" href="/wines/767d4390-7fb8-43cf-9a82-da02266342a3.html">
+    <img class="flex-bottle" src="/images/76/7d4390-7fb8-43cf-9a82-da02266342a3/2023-05-26-11-52-35-A40D65F1-CBAA-4589-95C5-C1778A85916B-1-105-c@512.webp"></img>
+    <section class="h">Cascina Degli Ulivi</section>
+    <section class="h text-bolder">A Demûa - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a024914c-4a92-4ef2-910f-8e507120be58.html">
     <img class="flex-bottle" src="/images/a0/24914c-4a92-4ef2-910f-8e507120be58/2022-09-26-19-12-00-14F1AB27-776C-4155-8298-331B6878B1C0-1-102-o@512.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Nibiô - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f2db9115-8022-484b-bb3d-6b37770adaab.html">
+  <a class="flex-item flex-item-left" href="/wines/f2db9115-8022-484b-bb3d-6b37770adaab.html">
     <img class="flex-bottle" src="/images/f2/db9115-8022-484b-bb3d-6b37770adaab/2023-02-09-17-29-14-IMG-4875@512.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">Mounbè - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
+  <a class="flex-item flex-item-right" href="/wines/8f805b5f-b9d2-4b27-9f99-3ffa0e66d195.html">
     <img class="flex-bottle" src="/images/8f/805b5f-b9d2-4b27-9f99-3ffa0e66d195/2022-06-09-22-07-31-IMG-0393@512.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Villányi Portugieser - 2020</section>

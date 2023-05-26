@@ -1,0 +1,38 @@
+{
+  "id": "19d4111f-d367-402c-8ee8-135e83eb43d6",
+  "name": "Post Filtration Red",
+  "full-name": "Martha Stoumen Post Filtration Red 2018",
+  "producer": {
+    "id": "f4478ea8-84c8-4974-898e-b5a35ac1ec24",
+    "name": "Martha Stoumen"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "db4da194-3a53-4775-9913-e73327a897b6",
+    "name": "USA"
+  },
+  "grapes": [
+    {
+      "id": "fbe78398-b1df-405d-9004-80609e45b3b1",
+      "name": "Primitivo"
+    },
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "12.3",
+  "sugar": "1",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0,
+  "image": "images/19/d4111f-d367-402c-8ee8-135e83eb43d6/2023-05-24-20-32-38-5942701E-2E5B-4518-95B3-A697F58AE39C-1-105-c.webp",
+  "rating": "NA"
+}
