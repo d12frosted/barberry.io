@@ -31,181 +31,187 @@ Tasted blind and guessed the wine. Good oxidation, honey, baked apples, shells a
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/29040e0f-f5b9-494b-98e4-72fea2d983de.html">
+  <a class="flex-item flex-item-left" href="/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Terzavia - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/29040e0f-f5b9-494b-98e4-72fea2d983de.html">
     <img class="flex-bottle" src="/images/29/040e0f-f5b9-494b-98e4-72fea2d983de/2023-05-08-12-13-59-DC6D25E1-1A4E-46CC-9F6A-8B0697BE195C-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Bukkuram Sole d'Agosto - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
     <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+  <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
     <img class="flex-bottle" src="/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Lucido - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
+  <a class="flex-item flex-item-left" href="/wines/4ec81725-dadc-4a70-b58e-d5a8550b03b8.html">
     <img class="flex-bottle" src="/images/4e/c81725-dadc-4a70-b58e-d5a8550b03b8/2022-01-16-11-38-12-46CD84A4-FB44-410D-9050-6E506B6FE23C-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+  <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
     <img class="flex-bottle" src="/images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+  <a class="flex-item flex-item-left" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
     <img class="flex-bottle" src="/images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Rosso di Marco - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
+  <a class="flex-item flex-item-right" href="/wines/835d717a-87e1-47dd-a5e3-7c848e3cf799.html">
     <img class="flex-bottle" src="/images/83/5d717a-87e1-47dd-a5e3-7c848e3cf799/IMG-1281@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Zibibbo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
+  <a class="flex-item flex-item-left" href="/wines/8427fcbb-69fb-47cb-8274-28da2a485073.html">
     <img class="flex-bottle" src="/images/84/27fcbb-69fb-47cb-8274-28da2a485073/2020-11-28-15-53-46-C41097A8-5698-4523-BA7A-ADC149CCC49E-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
+  <a class="flex-item flex-item-right" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
     <img class="flex-bottle" src="/images/c1/31fb36-151e-415d-aa76-23f4dff142b7/2022-09-03-15-59-31-IMG-1927@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Pietra Nera - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
     <img class="flex-bottle" src="/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2023-05-18-08-22-51-D0078754-0173-46E1-9DE3-3A020900A73F-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">
+  <a class="flex-item flex-item-right" href="/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d.html">
     <img class="flex-bottle" src="/images/cd/47aa9b-d3ca-4039-8b24-212abb20e97d/2022-08-07-11-26-17-1042A662-7747-448C-93C5-87AA4027CE8A-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d7856cc7-a6eb-49ed-a77a-0233395954a4.html">
+  <a class="flex-item flex-item-left" href="/wines/d7856cc7-a6eb-49ed-a77a-0233395954a4.html">
     <img class="flex-bottle" src="/images/d7/856cc7-a6eb-49ed-a77a-0233395954a4/2023-05-21-15-11-14-D398826D-9BE6-4596-B167-259BB7BAA005-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Integer Grillo - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
+  <a class="flex-item flex-item-right" href="/wines/e7982cc7-6b6c-469f-a2ae-b9ae3ca8f829.html">
     <img class="flex-bottle" src="/images/e7/982cc7-6b6c-469f-a2ae-b9ae3ca8f829/2021-11-30-09-13-45-B400B3C3-8F26-4C29-8C6A-D60092B82D76-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Grappoli del Grillo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61.html">
+  <a class="flex-item flex-item-left" href="/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61.html">
     <img class="flex-bottle" src="/images/0f/c1ad68-f002-4840-8fa8-d80c0e7f6b61/2022-11-19-11-07-36-B91AC071-158B-4014-AFBC-4B3765125DA8-1-105-c@512.webp"></img>
     <section class="h">Jean Foillard</section>
     <section class="h text-bolder">Morgon Cuvée Corcelette - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/10fd74be-84d3-4393-838a-7577bb6bb046.html">
+  <a class="flex-item flex-item-right" href="/wines/10fd74be-84d3-4393-838a-7577bb6bb046.html">
     <img class="flex-bottle" src="/images/10/fd74be-84d3-4393-838a-7577bb6bb046/2022-11-19-11-01-10-2A8DF956-F9EE-4370-BC8F-698F6B8FA158-1-105-c@512.webp"></img>
     <section class="h">Bruno Colin</section>
     <section class="h text-bolder">Bourgogne Chardonnay - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
+  <a class="flex-item flex-item-left" href="/wines/35255164-c2c8-4237-bf4b-be9c3005a37a.html">
     <img class="flex-bottle" src="/images/35/255164-c2c8-4237-bf4b-be9c3005a37a/2022-08-29-20-59-58-IMG-1861@512.webp"></img>
     <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Bacchus Block - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3d42539f-0795-4537-b849-dc36deb102d3.html">
+  <a class="flex-item flex-item-right" href="/wines/3d42539f-0795-4537-b849-dc36deb102d3.html">
     <img class="flex-bottle" src="/images/3d/42539f-0795-4537-b849-dc36deb102d3/2022-11-19-12-38-15-84302EAE-5E49-4CE6-9081-78117479C17C@512.webp"></img>
     <section class="h">Benanti</section>
     <section class="h text-bolder">Etna Bianco Superiore Pietra Marina - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
+  <a class="flex-item flex-item-left" href="/wines/5040b17f-02d9-4088-8764-707cf0032439.html">
     <img class="flex-bottle" src="/images/50/40b17f-02d9-4088-8764-707cf0032439/2022-09-14-15-08-37-F1EAADBD-2ABA-4558-93CF-ECDB1BB67695-1-105-c@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Pinot Noir Sous la Roche - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/895aeb9d-207a-43a3-9d0b-d0480cad8ea0.html">
+  <a class="flex-item flex-item-right" href="/wines/895aeb9d-207a-43a3-9d0b-d0480cad8ea0.html">
     <img class="flex-bottle" src="/images/89/5aeb9d-207a-43a3-9d0b-d0480cad8ea0/2022-11-19-11-05-28-277B286C-BF48-4528-B6FD-0B2707E1FC43-1-105-c@512.webp"></img>
     <section class="h">Domaine Pavelot</section>
     <section class="h text-bolder">Pernand-Vergelesses 1er Cru Ile des Vergelesses - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ad471dc4-21f7-401b-9337-44dd53442098.html">
+  <a class="flex-item flex-item-left" href="/wines/ad471dc4-21f7-401b-9337-44dd53442098.html">
     <img class="flex-bottle" src="/images/ad/471dc4-21f7-401b-9337-44dd53442098/2022-08-27-12-35-48-photo-2022-08-27 12.35.40@512.webp"></img>
     <section class="h">Valentino Butussi</section>
     <section class="h text-bolder">Cabernet Franc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/be82c004-a570-40ec-9962-87836bfeacd2.html">
+  <a class="flex-item flex-item-right" href="/wines/be82c004-a570-40ec-9962-87836bfeacd2.html">
     <img class="flex-bottle" src="/images/be/82c004-a570-40ec-9962-87836bfeacd2/2022-08-29-17-01-01-FA938315-D1DD-43B4-9119-2B10C5A9F7B8-1-105-c@512.webp"></img>
     <section class="h">Tomislav Marković</section>
     <section class="h text-bolder">Parabole - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c490b3ec-5108-48d6-94ca-87d40ed55c3a.html">
+  <a class="flex-item flex-item-left" href="/wines/c490b3ec-5108-48d6-94ca-87d40ed55c3a.html">
     <img class="flex-bottle" src="/images/c4/90b3ec-5108-48d6-94ca-87d40ed55c3a/2023-03-09-11-43-08-IMG-5425@512.webp"></img>
     <section class="h">Fattoria San Lorenzo</section>
     <section class="h text-bolder">Vino Rosato di Vera - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
+  <a class="flex-item flex-item-right" href="/wines/ce698cce-871e-4255-a472-61b1a1160163.html">
     <img class="flex-bottle" src="/images/ce/698cce-871e-4255-a472-61b1a1160163/2022-08-29-17-05-48-4A49180B-2D2A-4D65-92DD-514AF48054DA-1-105-c@512.webp"></img>
     <section class="h">Ca' di Mat</section>
     <section class="h text-bolder">Fuente de los Huertos - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d21146fb-da8c-4e4a-8197-8eb341d531e9.html">
+  <a class="flex-item flex-item-left" href="/wines/d21146fb-da8c-4e4a-8197-8eb341d531e9.html">
     <img class="flex-bottle" src="/images/d2/1146fb-da8c-4e4a-8197-8eb341d531e9/2022-09-06-16-33-49-IMG-2032@512.webp"></img>
     <section class="h">Rodrigo Méndez</section>
     <section class="h text-bolder">Sálvora - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/db467582-71e2-4e4a-822a-550303f067a2.html">
+  <a class="flex-item flex-item-right" href="/wines/db467582-71e2-4e4a-822a-550303f067a2.html">
     <img class="flex-bottle" src="/images/db/467582-71e2-4e4a-822a-550303f067a2/2022-09-06-16-02-35-IMG-2029@512.webp"></img>
     <section class="h">Foradori</section>
     <section class="h text-bolder">Fuoripista Pinot Grigio - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
+  <a class="flex-item flex-item-right" href="/wines/e3066d69-912c-4727-ae59-de6327702828.html">
     <img class="flex-bottle" src="/images/e3/066d69-912c-4727-ae59-de6327702828/2022-06-12-17-12-00-97E1209C-12A7-4595-85E4-FDD6C2BE0000@512.webp"></img>
     <section class="h">Patrick Sullivan</section>
     <section class="h text-bolder">Baw Baw Shire Chardonnay - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04.html">
+  <a class="flex-item flex-item-left" href="/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04.html">
     <img class="flex-bottle" src="/images/e3/820d93-76e7-4820-ba6c-1b311dccfe04/2022-09-02-09-32-14-8BF36FB5-A268-498C-A163-CA3225C83A88-1-105-c@512.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Rouillon Cheverny - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
+  <a class="flex-item flex-item-right" href="/wines/fd557bde-99d6-43a1-bf76-3eecca9e0b7b.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Frappato - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+  <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
     <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>

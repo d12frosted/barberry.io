@@ -1,0 +1,38 @@
+{
+  "id": "33560580-ef8c-4016-88e3-c2cc36d554f0",
+  "name": "Munjebel Bianco",
+  "full-name": "Frank Cornelissen Munjebel Bianco 2016",
+  "producer": {
+    "id": "1dcb5f50-069b-4f63-9810-3b1c2b0a8ed8",
+    "name": "Frank Cornelissen"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0,
+  "image": "images/33/560580-ef8c-4016-88e3-c2cc36d554f0/2023-05-27-13-30-16-E58B35D2-6AE0-4886-BFE6-0534CC911294-1-105-c.webp",
+  "rating": "NA"
+}
