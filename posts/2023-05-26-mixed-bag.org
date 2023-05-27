@@ -1,11 +1,124 @@
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-46-47-IMG-7279.webp]]
+
 Wines:
 
-1. [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][Domaine Pignier GPS Vin Blanc d'Antan 2018]]
-2. [[barberry:/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f][Gentle Folk Piccadilly Chardonnay 2021]]
-3. [[barberry:/wines/19d4111f-d367-402c-8ee8-135e83eb43d6][Martha Stoumen Post Filtration Red 2018]]
-4. [[barberry:/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8][La Garagista Demejeanne Vermont Rouge 2018]]
-5. [[barberry:/wines/767d4390-7fb8-43cf-9a82-da02266342a3][Cascina Degli Ulivi A Demûa 2016]]
-6. [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+1. [[barberry:/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad][Bencze Pétillant Blanc 2022]]
+2. [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][Domaine Pignier GPS Vin Blanc d'Antan 2018]]
+3. [[barberry:/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f][Gentle Folk Piccadilly Chardonnay 2021]]
+4. [[barberry:/wines/19d4111f-d367-402c-8ee8-135e83eb43d6][Martha Stoumen Post Filtration Red 2018]]
+5. [[barberry:/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8][La Garagista Demejeanne Vermont Rouge 2018]]
+6. [[barberry:/wines/767d4390-7fb8-43cf-9a82-da02266342a3][Cascina Degli Ulivi A Demûa 2016]]
+7. [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+
+* Bencze Pétillant Blanc 2022
+:PROPERTIES:
+:ID:                     9fb2791c-9542-4adc-952c-300c78adb440
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-40-49-IMG-7248.webp]]
+
+- producer: [[barberry:/producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee][Bencze]]
+- name: [[barberry:/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad][Pétillant Blanc]]
+- vintage: 2022
+- grapes: Pinot Noir, Chenin Blanc, Pinot Blanc
+- appellation: Földrajzi Jelzés Nélküli Bor
+- location: Hungary
+- alcohol: 11.5
+- sugar: 2
+- price: 880 UAH
+
+* Domaine Pignier GPS Vin Blanc d'Antan 2018
+:PROPERTIES:
+:ID:                     c1d5ac24-dcf1-400e-8835-f5a42489936d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-41-57-IMG-7267.webp]]
+
+- producer: [[barberry:/producers/e526c4b5-e92f-48cd-8c90-f1e5123ab7c5][Domaine Pignier]]
+- name: [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][GPS Vin Blanc d'Antan]]
+- vintage: 2018
+- grapes: Chardonnay, Poulsard, Savagnin
+- appellation: Côtes du Jura AOC
+- location: Jura, France
+- alcohol: 14
+- sugar: N/A
+- price: 955 UAH
+
+* Gentle Folk Piccadilly Chardonnay 2021
+:PROPERTIES:
+:ID:                     91143764-6707-47e5-9db2-33207467b509
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-42-43-IMG-7258.webp]]
+
+- producer: [[barberry:/producers/166e9d27-3a90-4f30-a042-a39ebe67b04e][Gentle Folk]]
+- name: [[barberry:/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f][Piccadilly Chardonnay]]
+- vintage: 2021
+- grapes: Chardonnay
+- region: Adelaide Hills
+- location: Australia
+- alcohol: 13
+- sugar: N/A
+- price: 1728 UAH
+
+* Martha Stoumen Post Filtration Red 2018
+:PROPERTIES:
+:ID:                     9356b4a0-7f33-4298-9345-7e5f19162e7f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-43-28-IMG-7262.webp]]
+
+- producer: [[barberry:/producers/f4478ea8-84c8-4974-898e-b5a35ac1ec24][Martha Stoumen]]
+- name: [[barberry:/wines/19d4111f-d367-402c-8ee8-135e83eb43d6][Post Filtration Red]]
+- vintage: 2018
+- grapes: Primitivo, Cariñena
+- region: California
+- location: USA
+- alcohol: 12.3
+- sugar: 1
+- price: 1250 UAH
+
+* La Garagista Demejeanne Vermont Rouge 2018
+:PROPERTIES:
+:ID:                     7ec85ea0-31c2-471a-9a99-8cd45dba49f2
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-44-07-IMG-7251.webp]]
+
+- producer: [[barberry:/producers/ff9e1419-21ae-4c0a-8bac-e57cc713e491][La Garagista]]
+- name: [[barberry:/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8][Demejeanne Vermont Rouge]]
+- vintage: 2018
+- grapes: Marquette
+- region: Vermont
+- location: USA
+- alcohol: 12.5
+- sugar: 1
+- price: 2300 UAH
+
+* Cascina Degli Ulivi A Demûa 2016
+:PROPERTIES:
+:ID:                     52d4947e-f43b-4b9b-b5b4-84cf2a28317f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-05-26-mixed-bag/2023-05-26-14-45-13-IMG-7254.webp]]
+
+- producer: [[barberry:/producers/f3a3985a-cd61-4e0c-8d77-a532b6d5da62][Cascina Degli Ulivi]]
+- name: [[barberry:/wines/767d4390-7fb8-43cf-9a82-da02266342a3][A Demûa]]
+- vintage: 2016
+- grapes: Riesling, Verdea, Bosco, Timorassa, Moscatella
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 13.5
+- sugar: 1
+- price: 1700 UAH
+
+
 
 * Scores
 :PROPERTIES:
@@ -15,21 +128,22 @@ Wines:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
-|---------+---------+---------+---------+---------+---------+---------|
-| Boris B |    4.00 | -       |    4.00 |    4.00 |    4.00 |    4.00 |
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|---------+---------+---------+---------+---------+---------+---------+---------|
+| Boris B |    4.00 |    4.00 | -       |    4.00 |    4.00 |    4.00 |    4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
 |         | rms      |   sdev | favourite | outcast |   price |      QPR |
 |---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ |  955.00 | *2.0000* |
-| Wine #2 | -        |      - | *0.00*    |  +0.00+ | 1728.00 |        - |
-| Wine #3 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 |   1.0000 |
-| Wine #4 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 2300.00 |   1.0000 |
-| Wine #5 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1700.00 |   1.0000 |
-| Wine #6 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 2500.00 |   0.0000 |
+| Wine #1 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ |  880.00 | *2.0000* |
+| Wine #2 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ |  955.00 | *2.0000* |
+| Wine #3 | -        |      - | *0.00*    |  +0.00+ | 1728.00 |        - |
+| Wine #4 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1250.00 |   1.0000 |
+| Wine #5 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 2300.00 |   1.0000 |
+| Wine #6 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 1700.00 |   1.0000 |
+| Wine #7 | *4.0000* | 0.0000 | *0.00*    |  +0.00+ | 2500.00 |   0.0000 |
 
 How to read this table:
 

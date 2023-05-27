@@ -1,0 +1,42 @@
+{
+  "id": "c351d3ca-8616-4b7b-b62b-35b7f3cda8ad",
+  "name": "Pétillant Blanc",
+  "full-name": "Bencze Pétillant Blanc 2022",
+  "producer": {
+    "id": "e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee",
+    "name": "Bencze"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "a55eea54-a33d-4c62-9765-87caf7532045",
+    "name": "Hungary"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "2",
+  "prices": [
+    "880 UAH"
+  ],
+  "available": 0,
+  "image": "images/c3/51d3ca-8616-4b7b-b62b-35b7f3cda8ad/2023-05-26-14-40-49-IMG-7248.webp",
+  "rating": "NA"
+}

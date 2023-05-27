@@ -15,19 +15,25 @@
     <section class="h text-bolder">Atlas - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
+  <a class="flex-item flex-item-left" href="/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad.html">
+    <img class="flex-bottle" src="/images/c3/51d3ca-8616-4b7b-b62b-35b7f3cda8ad/2023-05-26-14-40-49-IMG-7248@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pétillant Blanc - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/60eb654c-b828-4c1f-adde-9ebab8360b5d.html">
     <img class="flex-bottle" src="/images/60/eb654c-b828-4c1f-adde-9ebab8360b5d/2022-08-12-11-47-56-IMG-1431@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Riesling - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
+  <a class="flex-item flex-item-left" href="/wines/a148cf28-b949-4fd1-80c2-98f03dde6191.html">
     <img class="flex-bottle" src="/images/a1/48cf28-b949-4fd1-80c2-98f03dde6191/2022-01-16-12-19-55-3BA53028-E64E-453E-8756-1A7D742055A4-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Virgo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7.html">
+  <a class="flex-item flex-item-right" href="/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7.html">
     <img class="flex-bottle" src="/images/47/cb3e57-2e4d-4f25-91e2-b24c322c00b7/2023-01-24-07-08-05-IMG-4552@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Virgo - 2020</section>
