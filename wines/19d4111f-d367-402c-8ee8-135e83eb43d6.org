@@ -9,7 +9,7 @@
 - Alcohol :: 12.3
 - Sugar :: 1
 - Price :: 1000 UAH, 1250 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 A classical Californian blend of Zinfandel and Carignan. The former comes from Del Barba Vineyard, Contra Costa County. This dry-farmed vineyard was planted in 1960 and grown without pesticides and herbicides. Carignan comes from certified organic Ricetti Vineyard in Mendocino County. It was planted in 1948 and is also dry-farmed.
 
@@ -21,5 +21,33 @@ This wine is so joyous, and to me, distinctly Californian. I never knew how much
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-05-26 - ☆ 8.00
 
+Wine #4 on [[barberry:/posts/2023-05-26-mixed-bag][Mixed Bag Vol. 7]].
+
+This wine was on my wishlist for a long time. And it was up to expectations. Easy blend of Zinfandel and Carignan (a classical one, as they say). Red fruits mixed with erthy notes, leather and spices (like cloves). A bit of rubber. But juicy, easy to drink and overall delicious with a long and flavourful aftertaste.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad.html">
+    <img class="flex-bottle" src="/images/c3/51d3ca-8616-4b7b-b62b-35b7f3cda8ad/2023-05-26-14-40-49-IMG-7248@512.webp"></img>
+    <section class="h">Bencze</section>
+    <section class="h text-bolder">Pétillant Blanc - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c3fe7282-9b75-4931-88e4-1eca262675ff.html">
+    <img class="flex-bottle" src="/images/c3/fe7282-9b75-4931-88e4-1eca262675ff/2023-05-26-14-41-57-IMG-7267@512.webp"></img>
+    <section class="h">Domaine Pignier</section>
+    <section class="h text-bolder">GPS Vin Blanc d'Antan - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f.html">
+    <img class="flex-bottle" src="/images/ca/344bfa-6acb-4a5a-ac48-74183010ef1f/2023-05-26-14-42-43-IMG-7258@512.webp"></img>
+    <section class="h">Gentle Folk</section>
+    <section class="h text-bolder">Piccadilly Chardonnay - 2021</section>
+  </a>
+
+</div>
+#+end_export
