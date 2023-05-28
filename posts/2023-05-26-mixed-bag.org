@@ -210,7 +210,7 @@ In all seriousness, my love for Champagne started with a bottle of Jacquesson Cu
 | Yaroslav M  |    3.80 |    3.80 |    4.20 |    4.10 |    3.60 |  *4.30* |    4.50 |
 | Oleksandr R |    4.20 |  *4.35* |    3.80 |    4.10 |    4.30 |    4.60 |    4.40 |
 | Volodymyr S |       - |    4.00 |    4.20 |    4.20 |    4.10 |    4.10 |  *4.40* |
-| Boris B     |    3.60 |    3.80 |    4.00 |    4.00 |    4.00 |    4.00 |  *4.30* |
+| Boris B     |    3.60 |    3.80 |    4.00 |    4.00 |    4.00 |    4.10 |  *4.30* |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
@@ -222,7 +222,7 @@ In all seriousness, my love for Champagne started with a bottle of Jacquesson Cu
 | Wine #3 |   4.1495 | 0.0334 |      1.00 | 1836.00 |   1.6311 |
 | Wine #4 |   4.0580 | 0.0279 |      1.00 | 1250.00 |   2.0851 |
 | Wine #5 |   4.1600 | 0.0832 |    *3.00* | 1650.00 |   1.8277 |
-| Wine #6 |   4.1896 | 0.0651 |      1.00 | 1700.00 |   1.8632 |
+| Wine #6 |   4.1984 | 0.0626 |      1.00 | 1700.00 |   1.8896 |
 | Wine #7 | *4.4050* | 0.0436 |    *3.00* | 2923.00 |   1.5258 |
 
 How to read this table:
