@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/4b/7cfb23-6e89-4d48-a878-13b7d814b107/2023-05-28-09-21-14-CB1807FB-953F-4DBB-B802-97FBC6BF3611-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1][Jumping Juice]]
+- Vintage :: 2021
+- Location :: Australia, Riverland
+- Grapes :: Vermentino
+- Alcohol :: 12.5
+- Sugar :: 0
+- Price :: 750 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+One of the projects of [[barberry:/producers/ebcf71da-35d2-45d4-9b87-178179c0b573][Patrick Sullivan]].
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c3b432f9-61d2-46f2-beb9-b8e826d571c1.html">
+    <img class="flex-bottle" src="/images/c3/b432f9-61d2-46f2-beb9-b8e826d571c1/2021-07-23-07-50-00-IMG-2658@512.webp"></img>
+    <section class="h">Jumping Juice</section>
+    <section class="h text-bolder">Pinot Noir - 2020</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,34 @@
+{
+  "id": "4b7cfb23-6e89-4d48-a878-13b7d814b107",
+  "name": "Orange Orange",
+  "full-name": "Jumping Juice Orange Orange 2021",
+  "producer": {
+    "id": "8dbcc9b6-8d56-4a50-8f0e-dd96c241abc1",
+    "name": "Jumping Juice"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "e4b49bcb-2e7f-4522-bae0-6458d65c775d",
+      "name": "Vermentino"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "750 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4b/7cfb23-6e89-4d48-a878-13b7d814b107/2023-05-28-09-21-14-CB1807FB-953F-4DBB-B802-97FBC6BF3611-1-105-c.webp",
+  "rating": "NA"
+}

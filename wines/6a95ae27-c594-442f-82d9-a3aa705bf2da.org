@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/6a/95ae27-c594-442f-82d9-a3aa705bf2da/2023-05-28-09-19-46-F7BA4A22-7224-49B9-B4F5-65FD178DB7DB-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/d923615f-34ce-43e4-9912-dc5a468ae2a3][Emidio Pepe]]
+- Vintage :: 2017
+- Location :: Italy, Trebbiano d'Abruzzo DOC
+- Grapes :: Trebbiano
+- Alcohol :: 12
+- Sugar :: 2
+- Price :: 2337 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/91cff5ad-673d-45de-a5e8-33b7337e1b3c.html">
+    <img class="flex-bottle" src="/images/91/cff5ad-673d-45de-a5e8-33b7337e1b3c/2023-03-29-19-26-39-34272E0E-E47F-4773-B38A-4131ACFE57D1-1-105-c@512.webp"></img>
+    <section class="h">Emidio Pepe</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2016</section>
+  </a>
+
+</div>
+#+end_export

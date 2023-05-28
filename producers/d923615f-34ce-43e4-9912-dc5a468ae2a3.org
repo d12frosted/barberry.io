@@ -9,5 +9,11 @@
     <section class="h text-bolder">Trebbiano d'Abruzzo - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/6a95ae27-c594-442f-82d9-a3aa705bf2da.html">
+    <img class="flex-bottle" src="/images/6a/95ae27-c594-442f-82d9-a3aa705bf2da/2023-05-28-09-19-46-F7BA4A22-7224-49B9-B4F5-65FD178DB7DB-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2017</section>
+  </a>
+
 </div>
 #+end_export

@@ -24,7 +24,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/18/93422e-70fc-4fb0-b984-bccfca0d3ace/2023-05-28-09-24-05-29536BBD-B072-4CF6-91E4-2A5949EFF525-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Terzavia - 2020</section>
   </a>

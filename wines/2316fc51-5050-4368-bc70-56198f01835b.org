@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/23/16fc51-5050-4368-bc70-56198f01835b/2023-05-28-09-16-42-755D3684-D274-46BE-9444-8DD27089BE38-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/59245419-a7e7-4fe5-b8f0-ad77d901bb9e][La Cave Apicole]]
+- Vintage :: 2022
+- Location :: France, Vin de Table
+- Grapes :: Zibibbo, Muscat de Samos
+- Alcohol :: 12
+- Sugar :: 0
+- Price :: 740 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2ae8dc33-cd05-4208-b028-94e7acae704a.html">
+    <img class="flex-bottle" src="/images/2a/e8dc33-cd05-4208-b028-94e7acae704a/2022-08-20-11-14-08-FBD2E899-2FD6-472C-943B-318C7E141403-1-105-c@512.webp"></img>
+    <section class="h">La Cave Apicole</section>
+    <section class="h text-bolder">Java - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a8368368-f075-4ed0-ae7c-3b881cb2c402.html">
+    <img class="flex-bottle" src="/images/a8/368368-f075-4ed0-ae7c-3b881cb2c402/2021-06-26-10-48-15-AF884B91-C697-4C72-8ED2-38C2E93BBC37-1-105-c@512.webp"></img>
+    <section class="h">La Cave Apicole</section>
+    <section class="h text-bolder">Carbo Culte - 2018</section>
+  </a>
+
+</div>
+#+end_export
