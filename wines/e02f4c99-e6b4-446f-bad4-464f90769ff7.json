@@ -1,0 +1,42 @@
+{
+  "id": "e02f4c99-e6b4-446f-bad4-464f90769ff7",
+  "name": "Brut Réserve L20BSA.12/22",
+  "full-name": "Bérêche & Fils Brut Réserve L20BSA.12/22 NV",
+  "producer": {
+    "id": "18b6ff64-8c47-4ad7-8c3c-01176de9a865",
+    "name": "Bérêche & Fils"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "5.15",
+  "prices": [
+    "2880 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e0/2f4c99-e6b4-446f-bad4-464f90769ff7/2023-05-28-17-36-39-AF21E60E-47DE-4C7A-AC76-9453F7D7CF29-1-105-c.webp",
+  "rating": "8.25"
+}
