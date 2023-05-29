@@ -9,9 +9,41 @@
 - Alcohol :: 12.5
 - Sugar :: 0
 - Price :: 1380 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-05-28 - ☆ 8.25
 
+My, my, what a blend. Acacia flowers, yellow plum, honey, bacon-flavoured salted peanuts and hints of VA. Good acidity, a bit elevated thanks to VA. But it has such a pleasant and evolving mouthfeel, more reminiscent of a gentle yet pushing sea wave. Is it salty? In a good way, unlike my uncle.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0f0c81ab-01db-4463-8988-d2267f9e1377.html">
+    <img class="flex-bottle" src="/images/0f/0c81ab-01db-4463-8988-d2267f9e1377/2023-05-29-09-41-15-8198C1A8-84D1-417C-95E0-1311FB0E1DA1-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">PicCadilly vAlley chardonnAy - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3b456bae-a9d9-437a-9acb-25ca9df3670e.html">
+    <img class="flex-bottle" src="/images/3b/456bae-a9d9-437a-9acb-25ca9df3670e/2023-05-29-09-31-45-8FB7B622-33D2-4AF5-80F6-46C31A3BE256-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/58f06e3f-5408-4d50-843d-dc0c988b89aa.html">
+    <img class="flex-bottle" src="/images/58/f06e3f-5408-4d50-843d-dc0c988b89aa/2023-05-29-09-42-43-BA333C93-B7FD-4C5B-92F5-E334A1179A29-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Chardonnal pétillant naturel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e02f4c99-e6b4-446f-bad4-464f90769ff7.html">
+    <img class="flex-bottle" src="/images/e0/2f4c99-e6b4-446f-bad4-464f90769ff7/2023-05-28-17-36-39-AF21E60E-47DE-4C7A-AC76-9453F7D7CF29-1-105-c@512.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L20BSA.12/22 - NV</section>
+  </a>
+
+</div>
+#+end_export

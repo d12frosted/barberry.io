@@ -35,5 +35,11 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Tôt out Tard Ploussard - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
+    <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-05-29-09-55-56-IMG-7429@512.webp"></img>
+    <section class="h">Les Bottes Rouges</section>
+    <section class="h text-bolder">face b - 2017</section>
+  </a>
+
 </div>
 #+end_export

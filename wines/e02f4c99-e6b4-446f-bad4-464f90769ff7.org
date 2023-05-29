@@ -39,5 +39,29 @@ I can totally understand people starting their day with a bottle of this beauty.
     <section class="h text-bolder">Côte Grand Cru - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/0f0c81ab-01db-4463-8988-d2267f9e1377.html">
+    <img class="flex-bottle" src="/images/0f/0c81ab-01db-4463-8988-d2267f9e1377/2023-05-29-09-41-15-8198C1A8-84D1-417C-95E0-1311FB0E1DA1-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">PicCadilly vAlley chardonnAy - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1181146b-ae40-4427-a001-05539bdb58e0.html">
+    <img class="flex-bottle" src="/images/11/81146b-ae40-4427-a001-05539bdb58e0/2023-05-29-09-35-38-65FA662B-E8CE-469C-B937-2501BF308354-1-105-c@512.webp"></img>
+    <section class="h">Milan Nestarec</section>
+    <section class="h text-bolder">Juicy Fruit - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3b456bae-a9d9-437a-9acb-25ca9df3670e.html">
+    <img class="flex-bottle" src="/images/3b/456bae-a9d9-437a-9acb-25ca9df3670e/2023-05-29-09-31-45-8FB7B622-33D2-4AF5-80F6-46C31A3BE256-1-105-c@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Pietra Nera - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/58f06e3f-5408-4d50-843d-dc0c988b89aa.html">
+    <img class="flex-bottle" src="/images/58/f06e3f-5408-4d50-843d-dc0c988b89aa/2023-05-29-09-42-43-BA333C93-B7FD-4C5B-92F5-E334A1179A29-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Chardonnal pétillant naturel - 2019</section>
+  </a>
+
 </div>
 #+end_export
