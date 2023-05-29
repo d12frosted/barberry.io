@@ -1,0 +1,34 @@
+{
+  "id": "b334886d-bd5f-48e3-8f54-523e45bb0d30",
+  "name": "Merlot",
+  "full-name": "Lucy Margaux Merlot 2019",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.6",
+  "prices": [
+    "778 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b3/34886d-bd5f-48e3-8f54-523e45bb0d30/2021-09-18-12-42-20-F71F74AA-734D-41D3-81FB-170198980526-1-105-c.webp",
+  "rating": "7.5"
+}

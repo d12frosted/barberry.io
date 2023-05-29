@@ -1,0 +1,50 @@
+{
+  "id": "1181146b-ae40-4427-a001-05539bdb58e0",
+  "name": "Juicy Fruit",
+  "full-name": "Milan Nestarec Juicy Fruit 2018",
+  "producer": {
+    "id": "23b1afff-56d1-45e2-993b-aa9ca73104f9",
+    "name": "Milan Nestarec"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "29cb3968-04aa-4a1c-a03d-a03634aa946d",
+    "name": "Czech Republic"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "1244da78-529e-4725-bd73-a924c641a33b",
+      "name": "Grüner Veltliner"
+    },
+    {
+      "id": "061b7c96-2814-4303-853a-35137ae38718",
+      "name": "Welschriesling"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "1380 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/11/81146b-ae40-4427-a001-05539bdb58e0/2023-05-29-09-35-38-65FA662B-E8CE-469C-B937-2501BF308354-1-105-c.webp",
+  "rating": "NA"
+}

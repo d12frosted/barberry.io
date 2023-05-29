@@ -31,43 +31,49 @@ Wine #2 on [[barberry:/posts/2022-09-20-opaque-tasting][Opaque Tasting Vol. 1]].
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
+  <a class="flex-item flex-item-left" href="/wines/493656d2-4c19-4324-8f33-b80c58ee5217.html">
+    <img class="flex-bottle" src="/images/49/3656d2-4c19-4324-8f33-b80c58ee5217/2023-05-29-09-46-06-88E9CFE6-E427-47CC-B5A0-377C17CDB2F5@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Pouilly-Fuissé Climat Les Crays - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
     <img class="flex-bottle" src="/images/61/4af4ec-0890-4399-a8c8-fed13468bdea/2021-01-06-14-40-20-45F2CFC7-9F40-4227-B958-065AE0F8770B-1-105-c@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Macon-Chardonnay Climat Les Crays - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8dee6ced-e95a-4214-9879-0265f9f66a7e.html">
+  <a class="flex-item flex-item-left" href="/wines/8dee6ced-e95a-4214-9879-0265f9f66a7e.html">
     <img class="flex-bottle" src="/images/8d/ee6ced-e95a-4214-9879-0265f9f66a7e/2022-08-20-10-30-09-78CD0502-5902-4C44-A638-AC66C3DCB0FF-1-105-c@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Pouilly-Fuissé Climat La Roche - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
+  <a class="flex-item flex-item-right" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
     <img class="flex-bottle" src="/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Macon-Villages Cuvee Ephemere - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/345c98e3-665a-416f-83a7-b31d12e29361.html">
+  <a class="flex-item flex-item-left" href="/wines/345c98e3-665a-416f-83a7-b31d12e29361.html">
     <img class="flex-bottle" src="/images/34/5c98e3-665a-416f-83a7-b31d12e29361/2021-12-27-17-27-44-0DAB7A51-B181-427A-834C-7C35D43BEDAA-1-102-o@512.webp"></img>
     <section class="h">Domaine Rossignol-Trapet</section>
     <section class="h text-bolder">Savigny-Les-Beaune Les Bas Liards - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4b4e3ce1-235d-4f81-b79b-90371a3d74fc.html">
+  <a class="flex-item flex-item-right" href="/wines/4b4e3ce1-235d-4f81-b79b-90371a3d74fc.html">
     <img class="flex-bottle" src="/images/4b/4e3ce1-235d-4f81-b79b-90371a3d74fc/2022-09-06-16-01-30-IMG-2027@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Pinoit Gris Macération Pur Vin - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5.html">
+  <a class="flex-item flex-item-left" href="/wines/670fad73-f37f-4fc2-bb51-44452dc9fbe5.html">
     <img class="flex-bottle" src="/images/67/0fad73-f37f-4fc2-bb51-44452dc9fbe5/2022-09-05-20-46-47-IMG-2010@512.webp"></img>
     <section class="h">Le Vieux Télégraphe</section>
     <section class="h text-bolder">Châteauneuf du Pape Clos La Roquète - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">
+  <a class="flex-item flex-item-right" href="/wines/d7faed1b-ff73-4f26-be36-633d6664ecfd.html">
     <img class="flex-bottle" src="/images/d7/faed1b-ff73-4f26-be36-633d6664ecfd/2022-07-31-12-09-30-1E74CDFE-F429-4293-B0E8-140EFDE593A0-1-105-c@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Follow Your Dreams - 2021</section>

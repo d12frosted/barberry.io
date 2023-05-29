@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1181146b-ae40-4427-a001-05539bdb58e0.html">
+    <img class="flex-bottle" src="/images/11/81146b-ae40-4427-a001-05539bdb58e0/2023-05-29-09-35-38-65FA662B-E8CE-469C-B937-2501BF308354-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Juicy Fruit - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -18,16 +18,40 @@ Anton walked a path from renegade to trailblazer for Adelaide Hills, and now he 
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/58f06e3f-5408-4d50-843d-dc0c988b89aa.html">
+    <img class="flex-bottle" src="/images/58/f06e3f-5408-4d50-843d-dc0c988b89aa/2023-05-29-09-42-43-BA333C93-B7FD-4C5B-92F5-E334A1179A29-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Chardonnal pétillant naturel - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bed6e368-7baf-4af5-a5e6-95b83a768318.html">
+    <img class="flex-bottle" src="/images/be/d6e368-7baf-4af5-a5e6-95b83a768318/2020-07-08-15-42-17-CBE93090-5AB7-4FCD-BF4D-E3EB3E119EF4-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Gris de Florette - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b.html">
     <img class="flex-bottle" src="/images/25/826ae6-7e73-42f5-b2d3-5ce86b81b56b/2022-06-09-22-04-34-IMG-0391@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Le Sauvignon Sensuel - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/98953414-b1c1-49cb-a48e-e4a0e2593565.html">
+  <a class="flex-item flex-item-right" href="/wines/b334886d-bd5f-48e3-8f54-523e45bb0d30.html">
+    <img class="flex-bottle" src="/images/b3/34886d-bd5f-48e3-8f54-523e45bb0d30/2021-09-18-12-42-20-F71F74AA-734D-41D3-81FB-170198980526-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Merlot - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/98953414-b1c1-49cb-a48e-e4a0e2593565.html">
     <img class="flex-bottle" src="/images/98/953414-b1c1-49cb-a48e-e4a0e2593565/2022-11-12-12-33-57-0C817480-A23F-468B-A24F-8957FC97B7CE-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Noir de Florette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0f0c81ab-01db-4463-8988-d2267f9e1377.html">
+    <img class="flex-bottle" src="/images/0f/0c81ab-01db-4463-8988-d2267f9e1377/2023-05-29-09-41-15-8198C1A8-84D1-417C-95E0-1311FB0E1DA1-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">PicCadilly vAlley chardonnAy - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/8bb8fb69-9781-4451-81c7-fa0a592a1a56.html">

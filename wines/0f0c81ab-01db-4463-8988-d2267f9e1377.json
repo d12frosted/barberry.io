@@ -1,0 +1,35 @@
+{
+  "id": "0f0c81ab-01db-4463-8988-d2267f9e1377",
+  "name": "PicCadilly vAlley chardonnAy",
+  "full-name": "Lucy Margaux PicCadilly vAlley chardonnAy 2019",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.5",
+  "prices": [
+    "703 UAH",
+    "799 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/0f/0c81ab-01db-4463-8988-d2267f9e1377/2023-05-29-09-41-15-8198C1A8-84D1-417C-95E0-1311FB0E1DA1-1-105-c.webp",
+  "rating": "NA"
+}

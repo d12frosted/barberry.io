@@ -1,0 +1,34 @@
+{
+  "id": "bed6e368-7baf-4af5-a5e6-95b83a768318",
+  "name": "Gris de Florette",
+  "full-name": "Lucy Margaux Gris de Florette 2019",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.9",
+  "prices": [
+    "593 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/be/d6e368-7baf-4af5-a5e6-95b83a768318/2020-07-08-15-42-17-CBE93090-5AB7-4FCD-BF4D-E3EB3E119EF4-1-105-c.webp",
+  "rating": "7.0"
+}

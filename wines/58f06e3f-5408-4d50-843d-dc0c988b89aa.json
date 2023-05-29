@@ -1,0 +1,35 @@
+{
+  "id": "58f06e3f-5408-4d50-843d-dc0c988b89aa",
+  "name": "Chardonnal pétillant naturel",
+  "full-name": "Lucy Margaux Chardonnal pétillant naturel 2019",
+  "producer": {
+    "id": "7d56e606-ec79-40e4-a24a-9542ff08f1c3",
+    "name": "Lucy Margaux"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1.2",
+  "prices": [
+    "764 UAH",
+    "868 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/58/f06e3f-5408-4d50-843d-dc0c988b89aa/2023-05-29-09-42-43-BA333C93-B7FD-4C5B-92F5-E334A1179A29-1-105-c.webp",
+  "rating": "NA"
+}

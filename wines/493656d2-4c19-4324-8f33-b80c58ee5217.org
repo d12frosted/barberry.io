@@ -1,0 +1,53 @@
+#+attr_html: :class wine-main-image
+[[file:/images/49/3656d2-4c19-4324-8f33-b80c58ee5217/2023-05-29-09-46-06-88E9CFE6-E427-47CC-B5A0-377C17CDB2F5@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/4eb32a6f-ea37-4f9a-a470-d062d4465b67][Bret Brothers]]
+- Vintage :: 2015
+- Location :: France, Pouilly-Fuissé AOC
+- Grapes :: Chardonnay
+- Alcohol :: 14
+- Sugar :: 1.82
+- Price :: 2119 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Côte d'Or often comes to mind when you talk about Burgundy. But let's not forget that besides this golden mine, Burgundy has other wonderful regions to offer, including Chablis and Mâconnais. The latter is the home of Jean-Paul and Jean-Guillaume Bret. These brothers set up the project in 2001, intending to produce terroir wines from selected plots. Their formula is dead simple. Every wine is made of grapes from a single plot of 40+ years old vines from a single farmer. Yup, unlike their other project, La Soufrandière, they buy grapes for Bret Brothers wines.
+
+Today they produce around 50,000 bottles in 14 different cuvées, around 8 ha. It includes grapes sourced from Beaujolais (Brouilly, Lantignié, Chénas and Juliénas). This expansion happened in 2013.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0209f5d1-a27d-45a1-8497-c3aeafe79c6e.html">
+    <img class="flex-bottle" src="/images/02/09f5d1-a27d-45a1-8497-c3aeafe79c6e/2022-09-06-15-59-14-IMG-2024@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Pouilly-Loché Climat La Colonge - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/614af4ec-0890-4399-a8c8-fed13468bdea.html">
+    <img class="flex-bottle" src="/images/61/4af4ec-0890-4399-a8c8-fed13468bdea/2021-01-06-14-40-20-45F2CFC7-9F40-4227-B958-065AE0F8770B-1-105-c@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Macon-Chardonnay Climat Les Crays - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8dee6ced-e95a-4214-9879-0265f9f66a7e.html">
+    <img class="flex-bottle" src="/images/8d/ee6ced-e95a-4214-9879-0265f9f66a7e/2022-08-20-10-30-09-78CD0502-5902-4C44-A638-AC66C3DCB0FF-1-105-c@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Pouilly-Fuissé Climat La Roche - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bf99d3e5-f8db-49ea-8d2d-3adf55324f34.html">
+    <img class="flex-bottle" src="/images/bf/99d3e5-f8db-49ea-8d2d-3adf55324f34/2020-03-05-19-55-23-88FF83E5-6B93-4D53-B5F2-014774157214-1-105-c@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Macon-Villages Cuvee Ephemere - 2017</section>
+  </a>
+
+</div>
+#+end_export

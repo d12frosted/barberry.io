@@ -39,16 +39,28 @@ Very good Sauvignon Blanc that mixes tropical features with yeasty funky stuff. 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
+  <a class="flex-item flex-item-left" href="/wines/0f0c81ab-01db-4463-8988-d2267f9e1377.html">
+    <img class="flex-bottle" src="/images/0f/0c81ab-01db-4463-8988-d2267f9e1377/2023-05-29-09-41-15-8198C1A8-84D1-417C-95E0-1311FB0E1DA1-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">PicCadilly vAlley chardonnAy - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3004717d-3e01-44bf-b375-e23d26508b9a.html">
     <img class="flex-bottle" src="/images/30/04717d-3e01-44bf-b375-e23d26508b9a/2022-06-09-21-56-47-IMG-0385@512.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Vin de Soif - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
+  <a class="flex-item flex-item-left" href="/wines/40b6bb78-3c39-483f-87d6-f8a2d5fe4dc2.html">
     <img class="flex-bottle" src="/images/40/b6bb78-3c39-483f-87d6-f8a2d5fe4dc2/2022-05-08-18-07-23-IMG-0040@512.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Vino Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/58f06e3f-5408-4d50-843d-dc0c988b89aa.html">
+    <img class="flex-bottle" src="/images/58/f06e3f-5408-4d50-843d-dc0c988b89aa/2023-05-29-09-42-43-BA333C93-B7FD-4C5B-92F5-E334A1179A29-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Chardonnal pétillant naturel - 2019</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/62a4a5f1-f9f5-4987-aaeb-009102fb83a9.html">
@@ -67,6 +79,18 @@ Very good Sauvignon Blanc that mixes tropical features with yeasty funky stuff. 
     <img class="flex-bottle" src="/images/98/953414-b1c1-49cb-a48e-e4a0e2593565/2022-11-12-12-33-57-0C817480-A23F-468B-A24F-8957FC97B7CE-1-105-c@512.webp"></img>
     <section class="h">Lucy Margaux</section>
     <section class="h text-bolder">Noir de Florette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b334886d-bd5f-48e3-8f54-523e45bb0d30.html">
+    <img class="flex-bottle" src="/images/b3/34886d-bd5f-48e3-8f54-523e45bb0d30/2021-09-18-12-42-20-F71F74AA-734D-41D3-81FB-170198980526-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Merlot - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bed6e368-7baf-4af5-a5e6-95b83a768318.html">
+    <img class="flex-bottle" src="/images/be/d6e368-7baf-4af5-a5e6-95b83a768318/2020-07-08-15-42-17-CBE93090-5AB7-4FCD-BF4D-E3EB3E119EF4-1-105-c@512.webp"></img>
+    <section class="h">Lucy Margaux</section>
+    <section class="h text-bolder">Gris de Florette - 2019</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682.html">
