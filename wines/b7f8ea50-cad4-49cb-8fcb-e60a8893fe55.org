@@ -1,0 +1,31 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b7/f8ea50-cad4-49cb-8fcb-e60a8893fe55/2023-06-03-11-28-19-7A4E279A-F645-4873-98D2-E7B71AFDF43F-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/fa1f19d8-0f56-42d6-bef2-bfb46df61ea3][Olivier Horiot]]
+- Vintage :: 2014
+- Disgorged in :: 14 September 2020
+- Spent on lees :: ~62 months
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: 0
+- Price :: 2358 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e2def7db-4717-4c1d-b5af-403adf8f510d.html">
+    <img class="flex-bottle" src="/images/e2/def7db-4717-4c1d-b5af-403adf8f510d/2023-06-03-11-27-51-BFCDF0E9-D22C-4722-8DDA-37388EABC460-1-105-c@512.webp"></img>
+    <section class="h">Olivier Horiot</section>
+    <section class="h text-bolder">Metisse (2017) - NV</section>
+  </a>
+
+</div>
+#+end_export

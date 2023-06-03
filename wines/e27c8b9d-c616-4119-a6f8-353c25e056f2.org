@@ -1,0 +1,33 @@
+#+attr_html: :class wine-main-image
+[[file:/images/e2/7c8b9d-c616-4119-a6f8-353c25e056f2/2023-06-03-11-26-56-6A4DB1A3-B9C8-4673-8959-94E19B94EA12-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/28d32618-e224-4ccc-9bc3-31f4683518dc][Benoît Déhu]]
+- Base vintage :: ???
+- Disgorged in :: 28 September 2020
+- Spent on lees :: ???
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 4450 UAH
+- Cellar :: 1 bottle
+
+The base wine was fermented and aged for 10 months on the lees in 228 liters barrels before bottling.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7bc042b7-6842-4e32-936a-ea5458eba6b6.html">
+    <img class="flex-bottle" src="/images/7b/c042b7-6842-4e32-936a-ea5458eba6b6/2023-06-03-11-21-44-368A631C-E57A-492E-A166-012D22A5D19A-1-105-c@512.webp"></img>
+    <section class="h">Benoît Déhu</section>
+    <section class="h text-bolder">Cuvée de La Rue Des Noyers - NV</section>
+  </a>
+
+</div>
+#+end_export

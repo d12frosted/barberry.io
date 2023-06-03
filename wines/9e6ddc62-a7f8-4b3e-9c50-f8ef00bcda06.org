@@ -5,7 +5,7 @@
 - Producer :: [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]]
 - Base vintage :: 2013
 - Disgorged in :: 2017
-- Spent on lees :: 48 months
+- Spent on lees :: 36 months
 - Location :: France, Champagne AOC
 - Grapes :: Chardonnay
 - Alcohol :: 12.5
@@ -80,37 +80,43 @@ This is the first wine of the year. Nice beginning of the day, I must say. Compl
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2016) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+  <a class="flex-item flex-item-right" href="/wines/df4c17e5-a9ab-43f4-85d8-b1a117a42807.html">
+    <img class="flex-bottle" src="/images/df/4c17e5-a9ab-43f4-85d8-b1a117a42807/2023-06-03-11-33-01-C6B87C8B-B6AA-4ADB-913B-BBF330AD83B8-1-105-c@512.webp"></img>
+    <section class="h">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2015) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
     <img class="flex-bottle" src="/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c@512.webp"></img>
     <section class="h">Ulysse Collin</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
+  <a class="flex-item flex-item-right" href="/wines/fa32e9d0-b448-4094-9c58-3a371d9dfe33.html">
     <img class="flex-bottle" src="/images/fa/32e9d0-b448-4094-9c58-3a371d9dfe33/2021-09-07-11-24-22-5CFCE1EF-DB19-4940-A6C3-B45320280A75-1-105-c@512.webp"></img>
     <section class="h">Ulysse Collin</section>
     <section class="h text-bolder">Les Enfers Blanc des Blancs Extra Brut (2014) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/01486ec5-881a-4912-88ed-3fb39fed582a.html">
+  <a class="flex-item flex-item-left" href="/wines/01486ec5-881a-4912-88ed-3fb39fed582a.html">
     <img class="flex-bottle" src="/images/01/486ec5-881a-4912-88ed-3fb39fed582a/2021-09-07-13-12-55-B4F3A2C5-6223-4589-9592-471FAD7EE335-1-105-c@512.webp"></img>
     <section class="h">Dom Ruinart</section>
     <section class="h text-bolder">Blanc de Blancs - 1964</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/49656def-0966-4b59-84a7-f7bccb6e73ca.html">
+  <a class="flex-item flex-item-right" href="/wines/49656def-0966-4b59-84a7-f7bccb6e73ca.html">
     <img class="flex-bottle" src="/images/49/656def-0966-4b59-84a7-f7bccb6e73ca/2022-10-13-15-00-24-IMG-2742@512.webp"></img>
     <section class="h">Avancia</section>
     <section class="h text-bolder">Godello - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e3b0dfb8-fa48-44dc-b8be-8167de8fd166.html">
+  <a class="flex-item flex-item-left" href="/wines/e3b0dfb8-fa48-44dc-b8be-8167de8fd166.html">
     <img class="flex-bottle" src="/images/e3/b0dfb8-fa48-44dc-b8be-8167de8fd166/2022-11-27-10-28-42-IMG-3453@512.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Negramoll Piezas N1 - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f9b6ea46-f032-45c3-b18f-951508064989.html">
+  <a class="flex-item flex-item-right" href="/wines/f9b6ea46-f032-45c3-b18f-951508064989.html">
     <img class="flex-bottle" src="/images/f9/b6ea46-f032-45c3-b18f-951508064989/2023-03-09-11-40-36-IMG-5405@512.webp"></img>
     <section class="h">Sadie Family</section>
     <section class="h text-bolder">Columella - 2016</section>

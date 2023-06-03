@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/86c53166-1ddb-43ed-a81c-7bfa279c631a.html">
+    <img class="flex-bottle" src="/images/86/c53166-1ddb-43ed-a81c-7bfa279c631a/2023-06-02-15-55-41-B7CF1708-2879-4B84-81AA-8CA3032ECD9C-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Twin Oaks Chardonnay - NV</section>
+  </a>
+
+</div>
+#+end_export

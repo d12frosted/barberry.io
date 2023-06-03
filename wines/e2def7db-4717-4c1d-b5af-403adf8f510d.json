@@ -1,0 +1,38 @@
+{
+  "id": "e2def7db-4717-4c1d-b5af-403adf8f510d",
+  "name": "Metisse (2017)",
+  "full-name": "Olivier Horiot Metisse (2017) NV",
+  "producer": {
+    "id": "fa1f19d8-0f56-42d6-bef2-bfb46df61ea3",
+    "name": "Olivier Horiot"
+  },
+  "vintage": "NV",
+  "base-vintage": "2017",
+  "degorgee": "8 June 2021",
+  "sur-lie": "34.5 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1955 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e2/def7db-4717-4c1d-b5af-403adf8f510d/2023-06-03-11-27-51-BFCDF0E9-D22C-4722-8DDA-37388EABC460-1-105-c.webp",
+  "rating": "NA"
+}

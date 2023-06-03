@@ -1,0 +1,31 @@
+#+attr_html: :class wine-main-image
+[[file:/images/8c/af7cbe-9849-4294-a90d-a69f1bbc88e7/2023-06-03-11-33-19-1E9519D2-7072-4B65-AE18-2EF3EA84D5CF-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5][Jacques Lassaigne]]
+- Base vintage :: ???
+- Disgorged in :: ???
+- Spent on lees :: ???
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 2890 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
+    <img class="flex-bottle" src="/images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2023-06-03-11-24-46-7BCBBECA-35F9-402E-BD58-25D7FDB1FDAB-1-105-c@512.webp"></img>
+    <section class="h">Jacques Lassaigne</section>
+    <section class="h text-bolder">La Colline Inspirée - NV</section>
+  </a>
+
+</div>
+#+end_export

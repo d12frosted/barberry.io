@@ -7,9 +7,9 @@
     "name": "Jacques Lassaigne"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "???",
+  "degorgee": "???",
+  "sur-lie": "???",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -26,10 +26,11 @@
   "alcohol": "12",
   "sugar": "NA",
   "prices": [
+    "2900 UAH",
     "3168 UAH",
     "2890 UAH"
   ],
-  "available": 0.0,
-  "image": "images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2023-01-15-12-54-56-110F97BB-8741-436B-9EF0-44171BFE3573-1-105-c.webp",
+  "available": 1.0,
+  "image": "images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2023-06-03-11-24-46-7BCBBECA-35F9-402E-BD58-25D7FDB1FDAB-1-105-c.webp",
   "rating": "7.7"
 }

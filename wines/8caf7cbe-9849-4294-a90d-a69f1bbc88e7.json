@@ -1,0 +1,34 @@
+{
+  "id": "8caf7cbe-9849-4294-a90d-a69f1bbc88e7",
+  "name": "Le Cotet",
+  "full-name": "Jacques Lassaigne Le Cotet NV",
+  "producer": {
+    "id": "1b6698c3-ddde-4d8d-bbe6-b97c3fb77bb5",
+    "name": "Jacques Lassaigne"
+  },
+  "vintage": "NV",
+  "base-vintage": "???",
+  "degorgee": "???",
+  "sur-lie": "???",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "2890 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/8c/af7cbe-9849-4294-a90d-a69f1bbc88e7/2023-06-03-11-33-19-1E9519D2-7072-4B65-AE18-2EF3EA84D5CF-1-105-c.webp",
+  "rating": "NA"
+}
