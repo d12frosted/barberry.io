@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e2def7db-4717-4c1d-b5af-403adf8f510d.html">
     <img class="flex-bottle" src="/images/e2/def7db-4717-4c1d-b5af-403adf8f510d/2023-06-03-11-27-51-BFCDF0E9-D22C-4722-8DDA-37388EABC460-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Metisse (2017) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/b7f8ea50-cad4-49cb-8fcb-e60a8893fe55.html">
     <img class="flex-bottle" src="/images/b7/f8ea50-cad4-49cb-8fcb-e60a8893fe55/2023-06-03-11-28-19-7A4E279A-F645-4873-98D2-E7B71AFDF43F-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Seve Blanc de Noirs - 2014</section>
   </a>
 

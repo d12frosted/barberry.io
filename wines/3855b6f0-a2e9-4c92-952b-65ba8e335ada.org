@@ -11,7 +11,7 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 2900 UAH, 3168 UAH, 2890 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
@@ -22,6 +22,14 @@ This is the case when I am not sure if the wine is too complex or just flabby. B
 *** 2023-01-14 - ☆ 7.40
 
 Aye, loud name. And again, I don't understand if the wine is too complex for me or just flabby. Its bouquet is closed and offers notes of flowers, chalk, pickles, and apple. But my primary concerns are about the palate. Insecure bubbles made me think it was an accidentally fizzy wine. The lack of volume to back up the acidity made the wine incredibly sharp but unbalanced as a result. And while its style is unique, it's definitely lacking.
+
+*** 2023-06-02 - ☆ 8.25
+
+Wine #3 on the [[barberry:/posts/2023-06-02-champagne][Champagne blind tasting]] by [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]] and Mykola Chobanu.
+
+That was unexpected. My bet was on Ulysse Colline or Jacques Lassaigne, but then I got confused and decided to retract my guess. Why unexpected? Because for the first time in my life, I enjoyed this wine. Maybe the shadow of Bedel makes everything better, who knows?
+
+It offers a delicate bouquet of cheese croquettes, dill, umami, and baked pear. It's fresh with very high acidity (hey Colline). The aftertaste is long with flavours of mould, lemon tart and meringue. Nice.
 
 ** Related
 
@@ -51,22 +59,46 @@ Aye, loud name. And again, I don't understand if the wine is too complex for me 
     <section class="h text-bolder">Bourgogne Pinot Noir - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
+  <a class="flex-item flex-item-left" href="/wines/7bc042b7-6842-4e32-936a-ea5458eba6b6.html">
+    <img class="flex-bottle" src="/images/7b/c042b7-6842-4e32-936a-ea5458eba6b6/2023-06-03-11-21-44-368A631C-E57A-492E-A166-012D22A5D19A-1-105-c@512.webp"></img>
+    <section class="h">Benoît Déhu</section>
+    <section class="h text-bolder">Cuvée de La Rue Des Noyers - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ad694be5-b034-4587-8c7a-b7e1da05c101.html">
     <img class="flex-bottle" src="/images/ad/694be5-b034-4587-8c7a-b7e1da05c101/2022-07-16-11-20-10-F79FDE7F-7261-4E8C-A972-96D36AA45AC9-1-105-c@512.webp"></img>
     <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Gentleman - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b11a1d3e-4a17-4673-9995-5098048f8936.html">
+  <a class="flex-item flex-item-left" href="/wines/b11a1d3e-4a17-4673-9995-5098048f8936.html">
     <img class="flex-bottle" src="/images/b1/1a1d3e-4a17-4673-9995-5098048f8936/2022-12-19-17-43-08-IMG-3928@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Cuvée Marguerite - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bec4a5ab-69da-4791-9f8b-920baf0b0182.html">
+  <a class="flex-item flex-item-right" href="/wines/b7f8ea50-cad4-49cb-8fcb-e60a8893fe55.html">
+    <img class="flex-bottle" src="/images/b7/f8ea50-cad4-49cb-8fcb-e60a8893fe55/2023-06-03-11-28-19-7A4E279A-F645-4873-98D2-E7B71AFDF43F-1-105-c@512.webp"></img>
+    <section class="h">Olivier Horiot</section>
+    <section class="h text-bolder">Seve Blanc de Noirs - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bb79b28b-059f-4043-8ecf-3ba04ecd892a.html">
+    <img class="flex-bottle" src="/images/bb/79b28b-059f-4043-8ecf-3ba04ecd892a/2023-06-03-11-34-19-C2238E66-FF81-41D0-818A-9C2A554CA469-1-105-c@512.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">Comme Autrefois - 2005</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bec4a5ab-69da-4791-9f8b-920baf0b0182.html">
     <img class="flex-bottle" src="/images/be/c4a5ab-69da-4791-9f8b-920baf0b0182/2023-01-15-13-05-16-BB40B07E-3027-4112-A947-4C7C37D7CCF6-1-105-c@512.webp"></img>
     <section class="h">Comando G</section>
     <section class="h text-bolder">Mataborricos - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2023-06-03-11-24-05-72980C88-A8D2-4369-942E-926D7D1690A4-1-105-c@512.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8.html">
@@ -81,43 +113,61 @@ Aye, loud name. And again, I don't understand if the wine is too complex for me 
     <section class="h text-bolder">280 slm - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
+  <a class="flex-item flex-item-right" href="/wines/df4c17e5-a9ab-43f4-85d8-b1a117a42807.html">
+    <img class="flex-bottle" src="/images/df/4c17e5-a9ab-43f4-85d8-b1a117a42807/2023-06-03-11-33-01-C6B87C8B-B6AA-4ADB-913B-BBF330AD83B8-1-105-c@512.webp"></img>
+    <section class="h">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2015) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e27c8b9d-c616-4119-a6f8-353c25e056f2.html">
+    <img class="flex-bottle" src="/images/e2/7c8b9d-c616-4119-a6f8-353c25e056f2/2023-06-03-11-26-56-6A4DB1A3-B9C8-4673-8959-94E19B94EA12-1-105-c@512.webp"></img>
+    <section class="h">Benoît Déhu</section>
+    <section class="h text-bolder">Cuvée de L'orme - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e2def7db-4717-4c1d-b5af-403adf8f510d.html">
+    <img class="flex-bottle" src="/images/e2/def7db-4717-4c1d-b5af-403adf8f510d/2023-06-03-11-27-51-BFCDF0E9-D22C-4722-8DDA-37388EABC460-1-105-c@512.webp"></img>
+    <section class="h">Olivier Horiot</section>
+    <section class="h text-bolder">Metisse (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
     <img class="flex-bottle" src="/images/e4/0c45c4-aeab-47b0-bc9c-8a2e36223063/2023-02-17-13-51-03-9D1F1E65-6562-4BB2-86F2-FAC8E276F3FE-1-105-c@512.webp"></img>
     <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Frizzante ...Naturalmente L0621 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c@512.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
+  <a class="flex-item flex-item-left" href="/wines/f02e451d-3dc2-4b53-a59b-98a8d7144471.html">
     <img class="flex-bottle" src="/images/f0/2e451d-3dc2-4b53-a59b-98a8d7144471/2022-07-16-18-42-06-A47788C3-F548-4A08-B638-FF6B1D42E7EC-1-105-c@512.webp"></img>
     <section class="h">Cà del Vént</section>
     <section class="h text-bolder">Sogno Blanc de Blancs Pas Operé - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
+  <a class="flex-item flex-item-right" href="/wines/f78e11df-ba1e-49d8-a567-d26bccbb2b33.html">
     <img class="flex-bottle" src="/images/f7/8e11df-ba1e-49d8-a567-d26bccbb2b33/2022-07-16-19-00-21-75FAC8FD-6912-42D2-9846-EE048BE7E612-1-105-c@512.webp"></img>
     <section class="h">Ulysse Collin</section>
     <section class="h text-bolder">Les Maillons Blanc de Noirs Extra Brut (2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fbd206d0-43dc-4c8f-8102-1db37590536c.html">
+  <a class="flex-item flex-item-left" href="/wines/fbd206d0-43dc-4c8f-8102-1db37590536c.html">
     <img class="flex-bottle" src="/images/fb/d206d0-43dc-4c8f-8102-1db37590536c/2023-01-15-13-01-14-8C6BBBF7-F8B2-4E98-8D92-021F7A66DFAD-1-105-c@512.webp"></img>
     <section class="h">Niepoort Vinhos S.A.</section>
     <section class="h text-bolder">Tiara Branco - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
+  <a class="flex-item flex-item-right" href="/wines/fbe81e1f-f8e4-47d9-8fd5-a92b304bbe06.html">
     <img class="flex-bottle" src="/images/fb/e81e1f-f8e4-47d9-8fd5-a92b304bbe06/2022-07-16-18-25-36-F279F856-C3AC-4068-934A-638C352B5BB4-1-201-a@512.webp"></img>
     <section class="h">Ca Dei Zago</section>
     <section class="h text-bolder">Valdobbiadene Metodo Classico Dosaggio Zero - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fe31f20b-c157-490f-a92c-663b755d4383.html">
+  <a class="flex-item flex-item-left" href="/wines/fe31f20b-c157-490f-a92c-663b755d4383.html">
     <img class="flex-bottle" src="/images/fe/31f20b-c157-490f-a92c-663b755d4383/2023-01-15-12-58-17-71910068-B787-4ADF-918E-D6CB7BA15C11-1-105-c@512.webp"></img>
     <section class="h">Dominuque Gruhier</section>
     <section class="h text-bolder">Domaine de L'Abbaye du Petit Quincy Bourgogne Epineuil Côte de Grisey - 2016</section>

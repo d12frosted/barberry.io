@@ -45,7 +45,7 @@ So far produces 6 distinct wines (each one from a singe vineyard):
 
   <a class="flex-item flex-item-right" href="/wines/df4c17e5-a9ab-43f4-85d8-b1a117a42807.html">
     <img class="flex-bottle" src="/images/df/4c17e5-a9ab-43f4-85d8-b1a117a42807/2023-06-03-11-33-01-C6B87C8B-B6AA-4ADB-913B-BBF330AD83B8-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.60</section>
     <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2015) - NV</section>
   </a>
 

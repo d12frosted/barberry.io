@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada.html">
     <img class="flex-bottle" src="/images/38/55b6f0-a2e9-4c92-952b-65ba8e335ada/2023-06-03-11-24-46-7BCBBECA-35F9-402E-BD58-25D7FDB1FDAB-1-105-c@512.webp"></img>
-    <section class="h">★ 7.70</section>
+    <section class="h">★ 7.88</section>
     <section class="h text-bolder">La Colline Inspirée - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/8caf7cbe-9849-4294-a90d-a69f1bbc88e7.html">
     <img class="flex-bottle" src="/images/8c/af7cbe-9849-4294-a90d-a69f1bbc88e7/2023-06-03-11-33-19-1E9519D2-7072-4B65-AE18-2EF3EA84D5CF-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.40</section>
     <section class="h text-bolder">Le Cotet - NV</section>
   </a>
 
