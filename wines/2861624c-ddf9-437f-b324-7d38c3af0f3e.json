@@ -1,0 +1,34 @@
+{
+  "id": "2861624c-ddf9-437f-b324-7d38c3af0f3e",
+  "name": "Chablis 1er Cru Butteaux",
+  "full-name": "Pattes Loup Chablis 1er Cru Butteaux 2018",
+  "producer": {
+    "id": "099df64b-7551-4ae7-b4d3-d6a43288773c",
+    "name": "Pattes Loup"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.7",
+  "prices": [
+    "3250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/28/61624c-ddf9-437f-b324-7d38c3af0f3e/2023-06-04-13-43-44-D126017F-F038-43AF-872E-E899DB6F850D-1-105-c.webp",
+  "rating": "NA"
+}

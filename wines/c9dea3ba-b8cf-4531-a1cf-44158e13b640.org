@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c9/dea3ba-b8cf-4531-a1cf-44158e13b640/2023-06-04-13-41-10-8B95D8D8-F6A3-4941-AEB6-7866B82EE24F-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/c8c8e6b9-105f-4b10-8c4e-41aeccc9414b][Naboso]]
+- Vintage :: 2022
+- Location :: Slovenia, Namizno Vino
+- Grapes :: André, Blaufrankisch
+- Alcohol :: 12
+- Sugar :: 1.4
+- Price :: 780 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e474d059-e023-448e-8500-b089596d45dc.html">
+    <img class="flex-bottle" src="/images/e4/74d059-e023-448e-8500-b089596d45dc/2023-06-04-13-39-09-0E703283-C918-49AB-B99D-A46A4868A213-1-105-c@512.webp"></img>
+    <section class="h">Naboso</section>
+    <section class="h text-bolder">Opera - 2022</section>
+  </a>
+
+</div>
+#+end_export

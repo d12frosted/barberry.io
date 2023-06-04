@@ -1,0 +1,38 @@
+{
+  "id": "c9dea3ba-b8cf-4531-a1cf-44158e13b640",
+  "name": "Zore",
+  "full-name": "Naboso Zore 2022",
+  "producer": {
+    "id": "c8c8e6b9-105f-4b10-8c4e-41aeccc9414b",
+    "name": "Naboso"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "ce3d27bc-0269-4e31-8734-38061e1f2e78",
+    "name": "Slovenia"
+  },
+  "grapes": [
+    {
+      "id": "e99b5e25-2af0-45d8-9cae-f74455fbb192",
+      "name": "André"
+    },
+    {
+      "id": "217c46e8-bc5f-45c3-8bd1-4f4bddfac69e",
+      "name": "Blaufrankisch"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.4",
+  "prices": [
+    "780 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c9/dea3ba-b8cf-4531-a1cf-44158e13b640/2023-06-04-13-41-10-8B95D8D8-F6A3-4941-AEB6-7866B82EE24F-1-105-c.webp",
+  "rating": "NA"
+}
