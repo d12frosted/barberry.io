@@ -5,13 +5,13 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/e474d059-e023-448e-8500-b089596d45dc.html">
     <img class="flex-bottle" src="/images/e4/74d059-e023-448e-8500-b089596d45dc/2023-06-04-13-39-09-0E703283-C918-49AB-B99D-A46A4868A213-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Opera - 2022</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c9dea3ba-b8cf-4531-a1cf-44158e13b640.html">
     <img class="flex-bottle" src="/images/c9/dea3ba-b8cf-4531-a1cf-44158e13b640/2023-06-04-13-41-10-8B95D8D8-F6A3-4941-AEB6-7866B82EE24F-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Zore - 2022</section>
   </a>
 
