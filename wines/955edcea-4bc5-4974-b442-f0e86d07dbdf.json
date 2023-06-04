@@ -1,0 +1,35 @@
+{
+  "id": "955edcea-4bc5-4974-b442-f0e86d07dbdf",
+  "name": "Yellow Label",
+  "full-name": "Juan Gil Yellow Label 2021",
+  "producer": {
+    "id": "d04424ac-159a-4821-bbc3-aeeb88a221a6",
+    "name": "Juan Gil"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "5",
+  "prices": [
+    "316 UAH",
+    "368 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/95/5edcea-4bc5-4974-b442-f0e86d07dbdf/2023-06-04-17-21-05-4FB2E525-7723-4067-A47C-0FAC40F05B34-1-105-c.webp",
+  "rating": "NA"
+}
