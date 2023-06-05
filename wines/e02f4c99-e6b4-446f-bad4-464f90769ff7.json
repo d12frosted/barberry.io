@@ -1,15 +1,15 @@
 {
   "id": "e02f4c99-e6b4-446f-bad4-464f90769ff7",
-  "name": "Brut Réserve L20BSA.12/22",
-  "full-name": "Bérêche & Fils Brut Réserve L20BSA.12/22 NV",
+  "name": "Brut Réserve L:20BSA-12/22",
+  "full-name": "Bérêche & Fils Brut Réserve L:20BSA-12/22 NV",
   "producer": {
     "id": "18b6ff64-8c47-4ad7-8c3c-01176de9a865",
     "name": "Bérêche & Fils"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "N/A",
+  "degorgee": "December 2022",
+  "sur-lie": "24 to 36 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",

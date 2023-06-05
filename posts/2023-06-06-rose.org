@@ -16,13 +16,13 @@ Wines:
 :ID:                     0d903f53-a90d-407d-845c-e0a3067631f3
 :END:
 
-To make things clear, let's quickly cover the technical aspect of rosé winemaking. On a high level, there are only two methods to make this type of wine - limited maceration, pressing and blending.
+To make things clear, let's quickly cover the technical aspect of rosé winemaking. On a high level, there are only two methods to make this type of wine - limited maceration, direct pressing and blending.
 
 The 'red' colour in wine usually (with a few notable exceptions) comes from grape skins. The longer you keep the juice on the skin, the darker the wine becomes. Makes sense? I hope so. The core idea of the *maceration method* is to limit this contact to 2-48 hours, depending on the grape variety (some are darker than others and require less time).
 
 There is also the *Saignée* (bleed) method, where you simply bleed off part of the juice during the first hours of maceration of red wine. It gives you a small batch of material for rosé wine and makes the primary batch for red wine more concentrated. While it's cost-effective, this method is less preferred by some winemakers as farming methods for red and rose wines are different.
 
-The *pressing method* is used for very light rosé wines as the colour is extracted during fruit pressing from the skins.
+The *direct pressing method* is used for very light rosé wines as the colour is extracted during fruit pressing from the skins.
 
 And the last method is *blending*. While it sounds like the most logical (you simply mix white and red wine), it's prohibited by most European appellations. If you blend, you have to put a 'table wine' designation on your label. However, in Champagne, blending is allowed and is the most used method.
 
@@ -117,10 +117,16 @@ Alex went a little crazy with this cuvée; he wanted to mix every single grape h
 - grapes: Blaufrankisch
 - appellation: Földrajzi Jelzés Nélküli Bor
 - location: Hungary
-- method: ???
+- method: direct pressing
 - alcohol: 12.35
 - sugar: 1.3
 - price: 1050 UAH
+
+Horst Hummel was born near Stuttgart. His family is a Schwabian/Hungarian mix. His great-grandfather was a winemaker in the Austro-Hungarian empire. In 1997 Horst visited Hungary, mostly to get a sense of his family origins. Passionate about wine, he wanted to visit the best winemaking regions during that trip. And so he came to Villány (southern Hungary). And he fell in love with the climate and wine culture. Horst casually asked his hosts about the price for vineyards. And just within days, he became a happy owner of a plot in Villány. By 1998 Hummel winery was up and running. Today Horst lives in Berlin but often commutes back and force between his home and Villány.
+
+Weingut Hummel practices organic farming since 2008 and follows biodynamic principles since 2016. On the 7.5 ha vineyards, they grow Kékfrankos, Portugieser, Merlot, Cabernet Franc, Cabernet Sauvignon, Furmint, Traminer, and Hárslevelű.
+
+What is the meaning of Resi? Horst Hummel named this wine after the nickname of his grandmother Theresia. Made of 19 years old Kékfrankos (Blaufrankisch). Direct pressing, spontaneous fermentation in closed tank, aged in used Burgundy barriques on the lees for 24 months. 1100 bottles produced.
 
 * Benoît Lahaye Rosé de Macération a Bouzy (d2022) NV
 :PROPERTIES:
@@ -139,7 +145,7 @@ Alex went a little crazy with this cuvée; he wanted to mix every single grape h
 - grapes: Pinot Noir
 - appellation: Champagne AOC
 - location: Champagne, France
-- method: ???
+- method: maceration
 - alcohol: 12
 - sugar: 3
 - price: 2815 UAH
@@ -160,7 +166,7 @@ Alex went a little crazy with this cuvée; he wanted to mix every single grape h
 - grapes: Chardonnay, Pinot Noir
 - appellation: Champagne AOC
 - location: Champagne, France
-- method: ???
+- method: blend
 - alcohol: 12.5
 - sugar: 6.3
 - price: 3350 UAH
