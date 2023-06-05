@@ -163,13 +163,19 @@ What is the meaning of Resi? Horst Hummel named this wine after the nickname of 
 - vintage: NV
 - disgorged: December 2019
 - sur lie: 36 months
-- grapes: Chardonnay, Pinot Noir
+- grapes:  Pinot Noir, Chardonnay
 - appellation: Champagne AOC
 - location: Champagne, France
 - method: blend
 - alcohol: 12.5
 - sugar: 6.3
 - price: 3350 UAH
+
+This year we had a chance to focus on white Première Cuvée by Bruno Paillard, specifically thanks to [[barberry:/posts/2023-03-17-bruno-paillard][Collection Anciens Dégorgements]]. You can find more information about the producer on that page. To avoid repetition let's focus on the Rosé Première Cuvée. In contrast to [[barberry:/wines/7664a382-e23b-477f-ab93-b4d99433f2ac][Benoît Lahaye Rosé de Macération a Bouzy]], this one is made using the blending method.
+
+Part of the Pinot Noir is vinified as white wine, while the other is made as red with prolonged maceration. The amount of Chardonnay is kept secret. The blend is composed of reserve wines - 25 vintages, going back to 1985. Three years on the lees, then a minimum of a further five months after disgorgement. Extra-Brut, very low dosage, less than 6g/l.
+
+Luckily, I've got my hands on a bottle that was disgorged in December 2019. The freshest release you can find on the shelves was disgorged in 2022.
 
 * Clos Cibonne Cuvée Prestige Caroline Tibouren Rosé Cru Classé 2021
 :PROPERTIES:
@@ -182,13 +188,19 @@ What is the meaning of Resi? Horst Hummel named this wine after the nickname of 
 - producer: [[barberry:/producers/55f2f20d-fd2e-4381-9848-8c6547056b7c][Clos Cibonne]]
 - name: [[barberry:/wines/b94bbe0a-ebf8-4f4a-83bf-5926849e6119][Cuvée Prestige Caroline Tibouren Rosé Cru Classé]]
 - vintage: 2021
-- grapes: Tibouren, Grenache
+- grapes: Tibouren, Grenache, Syrah
 - appellation: Côtes de Provence AOC
 - location: Provence, France
-- method: ???
+- method: direct press
 - alcohol: 13.5
 - sugar: 1.5
 - price: 1684 UAH
+
+Clos Cibonne draws its name from Jean-Baptiste de Cibon, captain of Louis XVI's Royal Navy and the first owner of the vineyard. After he died in 1797, the property was sold to the Roux family.
+
+In the 1930s, André Roux took over the winery and brought it to a new level. Thanks to Adnré Roux, Clos Cibonne acquired the status of Crus Classés Côtes de Provence when the classification was established in 1955. Aside from the official merits, Adnré Roux is also responsible for the focus on Tibouren. It is safe to say that, without him and his passion, this old grape variety would have disappeared.
+
+Cuvée Prestige Caroline Tibouren Rosé Cru Classé is a bled of Tibouren (85%), Grenache (10%) and Syrah (5%). Grapes are direct-pressed into stainless steel vats and refrigerated to slow down the beginning of the fermentation. As soon as the fermentation begins, the musts are put in casks where the fermentation will last a short week. The wine is stirred on a daily basis with temperature control to guarantee the best aroma extraction until the beginning of winter. Then the wine ages in casks of 300 liters for eight to ten months.
 
 * Chivite Coleccion 125 Rosado 2007
 :PROPERTIES:
@@ -204,10 +216,16 @@ What is the meaning of Resi? Horst Hummel named this wine after the nickname of 
 - grapes: Tempranillo, Merlot, Cabernet Sauvignon
 - appellation: Navarra DO
 - location: Chartered Community of Navarre, Spain
-- method: ???
+- method: saignée
 - alcohol: 13.5
 - sugar: 2.1
 - price: 1570 UAH
+
+Colección 125 Rosado is a barrel-fermented rosé for cellar ageing. It comes from a selection of plots of Garnacha and Tempranillo (it seems that older vintages used Tempranillo, Merlot and Cabernet Sauvignon) from the Legardeta Estate.
+
+The grapes are harvested by hand and placed into 200-kg crates. The idea is to get them intact to the winery for sorting. After a short maceration in vats, the must is bled using the traditional saignée method to obtain the best quality free run must. The juice is transferred into 225-litre French oak barrels, where it ferments and ages on its lees for 9 to 12 months.
+
+Oh my. This is a 16-year-old rosé. And it's more than alive.
 
 * Scores
 :PROPERTIES:
@@ -250,4 +268,7 @@ How to read this table:
 :END:
 
 - [[https://winefolly.com/deep-dive/what-is-rose-wine/][Puckette, M. (n.d.). What Is Rosé: Quick Guide To Pink Wine | Wine Folly. Wine Folly.]]
-- Robinson, J., & Harding, J. (2015). The Oxford Companion to Wine. American Chemical Society.
+- [[https://www.oxfordcompaniontowine.com/][Robinson, J., & Harding, J. (2015). The Oxford Companion to Wine. American Chemical Society.]]
+- [[https://champagnebrunopaillard.com/en/champagnes/rose-premiere-cuvee-en/][Champagne Bruno Paillard]]
+- [[https://www.tysonstelzer.com/online-store/books-e-books/the-champagne-guide-2020-2021-hardback/][Stelzer, T. (2019). The Champagne Guide 2020-2021.]]
+- [[https://chivite.com/en/wines/coleccion-125][Chivite]]
