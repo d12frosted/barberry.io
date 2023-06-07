@@ -1,0 +1,34 @@
+{
+  "id": "64ad1e45-f97a-41b3-ad36-dcb764a478f5",
+  "name": "VSQ Brut Nature",
+  "full-name": "Route 66 VSQ Brut Nature 2019",
+  "producer": {
+    "id": "00afffaf-e575-44a0-8820-c63dad72a073",
+    "name": "Route 66"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": "2022",
+  "sur-lie": "25 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.5",
+  "prices": [
+    "1849 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/64/ad1e45-f97a-41b3-ad36-dcb764a478f5/2023-06-07-21-20-31-B2EAAD4C-4F49-4BA0-B34C-65D530A0AB82-1-105-c.webp",
+  "rating": "7.5"
+}

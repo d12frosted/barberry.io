@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/64ad1e45-f97a-41b3-ad36-dcb764a478f5.html">
+    <img class="flex-bottle" src="/images/64/ad1e45-f97a-41b3-ad36-dcb764a478f5/2023-06-07-21-20-31-B2EAAD4C-4F49-4BA0-B34C-65D530A0AB82-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">VSQ Brut Nature - 2019</section>
+  </a>
+
+</div>
+#+end_export

@@ -125,67 +125,73 @@ Do you think it's a bottle of Festejar? But in fact, it's a fizzy feast (hehe) o
     <section class="h text-bolder">Château Cibon Cuvée Hommage à Marius Rosé Tibouren Prestige Cru Classé - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6a95ae27-c594-442f-82d9-a3aa705bf2da.html">
+  <a class="flex-item flex-item-left" href="/wines/64ad1e45-f97a-41b3-ad36-dcb764a478f5.html">
+    <img class="flex-bottle" src="/images/64/ad1e45-f97a-41b3-ad36-dcb764a478f5/2023-06-07-21-20-31-B2EAAD4C-4F49-4BA0-B34C-65D530A0AB82-1-105-c@512.webp"></img>
+    <section class="h">Route 66</section>
+    <section class="h text-bolder">VSQ Brut Nature - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6a95ae27-c594-442f-82d9-a3aa705bf2da.html">
     <img class="flex-bottle" src="/images/6a/95ae27-c594-442f-82d9-a3aa705bf2da/2023-05-28-09-19-46-F7BA4A22-7224-49B9-B4F5-65FD178DB7DB-1-105-c@512.webp"></img>
     <section class="h">Emidio Pepe</section>
     <section class="h text-bolder">Trebbiano d'Abruzzo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7664a382-e23b-477f-ab93-b4d99433f2ac.html">
+  <a class="flex-item flex-item-left" href="/wines/7664a382-e23b-477f-ab93-b4d99433f2ac.html">
     <img class="flex-bottle" src="/images/76/64a382-e23b-477f-ab93-b4d99433f2ac/2023-02-15-09-07-31-IMG-4970@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Rosé de Macération a Bouzy (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/767d4390-7fb8-43cf-9a82-da02266342a3.html">
+  <a class="flex-item flex-item-right" href="/wines/767d4390-7fb8-43cf-9a82-da02266342a3.html">
     <img class="flex-bottle" src="/images/76/7d4390-7fb8-43cf-9a82-da02266342a3/2023-05-26-14-45-13-IMG-7254@512.webp"></img>
     <section class="h">Cascina Degli Ulivi</section>
     <section class="h text-bolder">A Demûa - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9131e391-2342-4084-9624-5979b708238d.html">
+  <a class="flex-item flex-item-left" href="/wines/9131e391-2342-4084-9624-5979b708238d.html">
     <img class="flex-bottle" src="/images/91/31e391-2342-4084-9624-5979b708238d/2023-05-19-16-47-36-IMG-7035@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Rosé Première Cuvée (d2019) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b94bbe0a-ebf8-4f4a-83bf-5926849e6119.html">
+  <a class="flex-item flex-item-right" href="/wines/b94bbe0a-ebf8-4f4a-83bf-5926849e6119.html">
     <img class="flex-bottle" src="/images/b9/4bbe0a-ebf8-4f4a-83bf-5926849e6119/2023-05-19-16-20-01-IMG-7020@512.webp"></img>
     <section class="h">Clos Cibonne</section>
     <section class="h text-bolder">Cuvée Prestige Caroline Tibouren Rosé Cru Classé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad.html">
+  <a class="flex-item flex-item-left" href="/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad.html">
     <img class="flex-bottle" src="/images/c3/51d3ca-8616-4b7b-b62b-35b7f3cda8ad/2023-05-26-14-40-49-IMG-7248@512.webp"></img>
     <section class="h">Bencze</section>
     <section class="h text-bolder">Pétillant Blanc - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c3fe7282-9b75-4931-88e4-1eca262675ff.html">
+  <a class="flex-item flex-item-right" href="/wines/c3fe7282-9b75-4931-88e4-1eca262675ff.html">
     <img class="flex-bottle" src="/images/c3/fe7282-9b75-4931-88e4-1eca262675ff/2023-05-26-14-41-57-IMG-7267@512.webp"></img>
     <section class="h">Domaine Pignier</section>
     <section class="h text-bolder">GPS Vin Blanc d'Antan - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
+  <a class="flex-item flex-item-left" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
     <img class="flex-bottle" src="/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-27-13-26-50-89485321-BEF5-4A75-A874-701410C0870B-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f.html">
+  <a class="flex-item flex-item-right" href="/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f.html">
     <img class="flex-bottle" src="/images/ca/344bfa-6acb-4a5a-ac48-74183010ef1f/2023-05-26-14-42-43-IMG-7258@512.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Piccadilly Chardonnay - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8.html">
+  <a class="flex-item flex-item-left" href="/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8.html">
     <img class="flex-bottle" src="/images/eb/815a42-3c39-4b70-9cb7-a2795d305fe8/2023-05-26-14-44-07-IMG-7251@512.webp"></img>
     <section class="h">La Garagista</section>
     <section class="h text-bolder">Demejeanne Vermont Rouge - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f.html">
+  <a class="flex-item flex-item-right" href="/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f.html">
     <img class="flex-bottle" src="/images/ee/5b5dd8-f797-4172-9614-ee55c2ec5d9f/2023-05-26-14-45-50-IMG-7270@512.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvée 745 Grand Vin (2017) - NV</section>
