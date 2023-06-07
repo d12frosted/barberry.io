@@ -240,22 +240,21 @@ Luckily, I've got my hands on a bottle that was disgorged in December 2019. The 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |      rms |   sdev | favourite | outcast |   price |      QPR |
-|---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 |   4.0173 | 0.0663 |      1.00 |  +0.00+ | 1090.00 | *2.2322* |
-| Wine #2 |   3.9063 | 0.0491 |      0.00 |  +0.00+ |  977.00 |   2.1154 |
-| Wine #3 |   4.0783 | 0.0456 |      2.00 |  +0.00+ | 1684.00 |   1.5911 |
-| Wine #4 |   3.9978 | 0.0554 |      0.00 |  +0.00+ | 1946.00 |   1.2165 |
-| Wine #5 |   4.0676 | 0.1061 |      3.00 |  +0.00+ | 1570.00 |   1.6601 |
-| Wine #6 |   4.1152 | 0.0499 |      1.00 |  +0.00+ | 2815.00 |   1.0061 |
-| Wine #7 | *4.2420* | 0.0478 |    *4.00* |  +0.00+ | 3350.00 |   1.0290 |
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0173 | 0.0663 |      1.00 | 1090.00 | *2.2322* |
+| Wine #2 |   3.9063 | 0.0491 |      0.00 |  977.00 |   2.1154 |
+| Wine #3 |   4.0783 | 0.0456 |      2.00 | 1684.00 |   1.5911 |
+| Wine #4 |   3.9978 | 0.0554 |      0.00 | 1946.00 |   1.2165 |
+| Wine #5 |   4.0676 | 0.1061 |      3.00 | 1570.00 |   1.6601 |
+| Wine #6 |   4.1152 | 0.0499 |      1.00 | 2815.00 |   1.0061 |
+| Wine #7 | *4.2420* | 0.0478 |    *4.00* | 3350.00 |   1.0290 |
 
 How to read this table:
 
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.
-- =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
