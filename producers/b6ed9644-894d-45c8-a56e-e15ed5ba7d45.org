@@ -1,0 +1,31 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/032e0e07-21da-47bf-9248-3c7fab156f0d.html">
+    <img class="flex-bottle" src="/images/03/2e0e07-21da-47bf-9248-3c7fab156f0d/2021-01-20-21-45-40-4380189A-91D8-4B30-B97D-9232B9693965-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Crianza Bioloxica - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/adcdc0ea-dcd4-42f8-9fc6-2fb990d7d60b.html">
+    <img class="flex-bottle" src="/images/ad/cdc0ea-dcd4-42f8-9fc6-2fb990d7d60b/2021-09-18-12-51-56-E9CF5677-5F24-4CD4-A0EF-FC0FB5D576B4-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Mercenario branco - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
+    <img class="flex-bottle" src="/images/dc/4e8325-8cb6-4d9a-a68a-3695a56388ad/2023-06-18-11-19-58-A56D7DDF-E601-4265-8EDC-0C4D657ECEE1-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Mercenario branco - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/84ba652f-a9f0-484c-8d0a-3740b19bfcc9.html">
+    <img class="flex-bottle" src="/images/84/ba652f-a9f0-484c-8d0a-3740b19bfcc9/2021-09-18-12-52-39-AFC1D97A-5695-4290-A7A8-C5214F4B4487-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Mercenario tinto - 2018</section>
+  </a>
+
+</div>
+#+end_export

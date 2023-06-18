@@ -1,0 +1,34 @@
+{
+  "id": "032e0e07-21da-47bf-9248-3c7fab156f0d",
+  "name": "Crianza Bioloxica",
+  "full-name": "Fazenda Agricola Augalevada Crianza Bioloxica 2018",
+  "producer": {
+    "id": "b6ed9644-894d-45c8-a56e-e15ed5ba7d45",
+    "name": "Fazenda Agricola Augalevada"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "850 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/03/2e0e07-21da-47bf-9248-3c7fab156f0d/2021-01-20-21-45-40-4380189A-91D8-4B30-B97D-9232B9693965-1-105-c.webp",
+  "rating": "7.0"
+}

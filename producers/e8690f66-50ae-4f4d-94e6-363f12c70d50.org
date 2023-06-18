@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f.html">
     <img class="flex-bottle" src="/images/90/889309-ef90-4e61-ba6d-49c3ca3f1c2f/2023-06-16-15-54-51-IMG-7741@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Le Rouge - 2019</section>
   </a>
 
@@ -17,7 +17,7 @@
 
   <a class="flex-item flex-item-left" href="/wines/53079401-633d-49af-b4df-621f50852007.html">
     <img class="flex-bottle" src="/images/53/079401-633d-49af-b4df-621f50852007/2023-06-16-15-56-13-IMG-7746@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Les Gaudrettes - 2020</section>
   </a>
 

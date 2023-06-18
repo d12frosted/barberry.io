@@ -1,0 +1,46 @@
+{
+  "id": "adcdc0ea-dcd4-42f8-9fc6-2fb990d7d60b",
+  "name": "Mercenario branco",
+  "full-name": "Fazenda Agricola Augalevada Mercenario branco 2018",
+  "producer": {
+    "id": "b6ed9644-894d-45c8-a56e-e15ed5ba7d45",
+    "name": "Fazenda Agricola Augalevada"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "c9dae548-8fc2-4c55-90a1-1a31b79719c3",
+      "name": "Treixadura"
+    },
+    {
+      "id": "5c0185d5-d99a-4188-904c-d5e8734ea551",
+      "name": "Albariño"
+    },
+    {
+      "id": "0497b784-e633-436a-ab78-dd931ce9b072",
+      "name": "Torrontés"
+    },
+    {
+      "id": "08941298-3f06-440f-b8a8-c4fdd3079a20",
+      "name": "Palomino Fino"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.5",
+  "prices": [
+    "524 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ad/cdc0ea-dcd4-42f8-9fc6-2fb990d7d60b/2021-09-18-12-51-56-E9CF5677-5F24-4CD4-A0EF-FC0FB5D576B4-1-105-c.webp",
+  "rating": "8.0"
+}
