@@ -1,0 +1,34 @@
+{
+  "id": "53079401-633d-49af-b4df-621f50852007",
+  "name": "Les Gaudrettes",
+  "full-name": "Domaine de Saint Pierre Les Gaudrettes 2020",
+  "producer": {
+    "id": "e8690f66-50ae-4f4d-94e6-363f12c70d50",
+    "name": "Domaine de Saint Pierre"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.8",
+  "sugar": "2",
+  "prices": [
+    "1790 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/53/079401-633d-49af-b4df-621f50852007/2023-06-16-15-56-13-IMG-7746.webp",
+  "rating": "NA"
+}

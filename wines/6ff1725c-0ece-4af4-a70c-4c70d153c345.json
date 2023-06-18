@@ -1,0 +1,38 @@
+{
+  "id": "6ff1725c-0ece-4af4-a70c-4c70d153c345",
+  "name": "Cerasuolo di Vittoria Classico",
+  "full-name": "COS Cerasuolo di Vittoria Classico 2020",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.8",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/6f/f1725c-0ece-4af4-a70c-4c70d153c345/2023-06-12-11-14-18-48E6971A-F0C3-4A70-9183-EF892A5265D2-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,270 @@
+#+caption: My prediction skills are mediocre, so watch the numbers closely.
+[[file:/images/2023-06-16-jura/2023-06-18-10-15-02-IMG-7784.webp]]
+
+#+begin_verse
+From the ice-age to the dole-age
+There is but one concern
+I have just discovered
+
+Some Fridays are better than others
+Some Fridays are better than others
+Some people Fridays are better than other peoples' Fridays
+
+[...]
+
+As Anthony said to Cleopatra
+As he opened a crate of wine:
+"Oh I say"
+
+Some Fridays are better than others
+Some Fridays are better than others
+Some people Fridays are better than other peoples' Fridays
+
+[...]
+
+--- Steven Morrissey, I guess
+#+end_verse
+
+Vova strikes again. Your Friday may be cool, but is it even close to the Jura Party level of coolness? Aye, I doubt it. And I have some good reasons to. Nine of them, to be precise. The obvious ones are depicted in the picture above. But did you know that on Saturday morning Mr Morrissey used a time machine to travel back in 1986 and write a song about this Friday evening? Aye, that's how cool it was.
+
+#+caption: It's so much better than any other TCGs
+[[file:/images/2023-06-16-jura/2023-06-18-10-15-37-IMG-7834.webp]]
+
+Frankly speaking, I am speechless. Look at these beautiful bottles. Look at these cards to accompany the wine-tasting process. Vova brings wine parties to a new level.
+
+1. [[barberry:/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54][Patrice Beguet Silk Blue 2020]]
+2. [[barberry:/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f][Domaine de Saint Pierre Le Rouge 2019]]
+3. [[barberry:/wines/53079401-633d-49af-b4df-621f50852007][Domaine de Saint Pierre Les Gaudrettes 2020]]
+4. [[barberry:/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6][Les Bottes Rouges La Pépée 2018]]
+5. [[barberry:/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf][Les Bottes Rouges face b 2017]]
+6. [[barberry:/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1][Renaud Bruyère & Adeline Houillon Arbois Blanc Les Nouvelles Chardonnay 2016]]
+7. [[barberry:/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1][Renaud Bruyère & Adeline Houillon Arbois Pupillin Savagnin 2014]]
+8. [[barberry:/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5][Domaine de la Touraize Savagnin oxydatif 2016]]
+
+* Scores
+:PROPERTIES:
+:ID:                     64ce8472-54d8-486e-b0c3-f971bae66338
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   3.9557 | 0.1108 |      0.00 | 1250.00 |   1.7592 |
+| Wine #2 |   4.0527 | 0.2235 |      1.00 | 1590.00 |   1.5675 |
+| Wine #3 |   4.0575 | 0.0608 |      1.00 | 1790.00 |   1.4460 |
+| Wine #4 |   4.0039 | 0.2302 |      1.00 | 1650.00 |   1.4009 |
+| Wine #5 |   4.2803 | 0.0452 |    *4.00* | 1890.00 | *1.9373* |
+| Wine #6 |   4.2725 | 0.1594 |      2.00 | 7900.00 |   0.4484 |
+| Wine #7 | *4.4183* | 0.0147 |      3.00 | 8900.00 |   0.5146 |
+| Wine #8 |   3.7366 | 0.2108 |      0.00 | 1293.00 |   1.2078 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Patrice Beguet Silk Blue 2020
+:PROPERTIES:
+:ID:                     21939d8d-bae4-42c3-a4c1-e049d2bf976c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-51-42-IMG-7737.webp]]
+
+- producer: [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]]
+- name: [[barberry:/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54][Silk Blue]]
+- vintage: 2020
+- grapes: Poulsard, Trousseau
+- appellation: Vin de Table
+- location: France
+- alcohol: 11
+- sugar: 2
+- price: 1250 UAH
+
+I am yet to provide information about this producer. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Domaine de Saint Pierre Le Rouge 2019
+:PROPERTIES:
+:ID:                     f3e570cb-a3f2-4117-8928-3e9ff7fb219f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-54-51-IMG-7741.webp]]
+
+- producer: [[barberry:/producers/e8690f66-50ae-4f4d-94e6-363f12c70d50][Domaine de Saint Pierre]]
+- name: [[barberry:/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f][Le Rouge]]
+- vintage: 2019
+- grapes: Pinot Noir, Poulsard
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 12.2
+- sugar: 1
+- price: 1590 UAH
+
+I am yet to provide information about this producer. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Domaine de Saint Pierre Les Gaudrettes 2020
+:PROPERTIES:
+:ID:                     8c4ccadb-883a-4581-a4c1-c1cd9fa81659
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-56-13-IMG-7746.webp]]
+
+- producer: [[barberry:/producers/e8690f66-50ae-4f4d-94e6-363f12c70d50][Domaine de Saint Pierre]]
+- name: [[barberry:/wines/53079401-633d-49af-b4df-621f50852007][Les Gaudrettes]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Côtes du Jura AOC
+- location: Jura, France
+- alcohol: 12.8
+- sugar: 2
+- price: 1790 UAH
+
+I am yet to provide information about this producer. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Les Bottes Rouges La Pépée 2018
+:PROPERTIES:
+:ID:                     2a4d1e19-954c-4d5c-a1c8-8d4be43d1f80
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-57-56-IMG-7750.webp]]
+
+- producer: [[barberry:/producers/ff12da2b-6418-4827-b680-d48bc77709b6][Les Bottes Rouges]]
+- name: [[barberry:/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6][La Pépée]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 11.5
+- sugar: 1
+- price: 1650 UAH
+
+Meet Jean-Baptiste Menigoz, a former teacher in Arbois working with special needs children. At some point, he became fixated on low-intervention wines and decided to devote all his free time away from school to work in the vines. Under the tutelage of Stéphane Tissot, Jean-Baptiste learned the ins and outs of the wine world. In 2012 committed fully to trading his classroom for his vineyards.
+
+Being a music lover, Jean-Baptiste named Domaine after a French song (The Red Boots). Musical references continue to pop up in the names of his cuvées. For example, Tôt out Tard (Sooner or later) is the name of an independent French record label.
+
+Now meet Florien Kleine Snuverink, a former owner of the famed Café Schiller in Amsterdam (Netherlands). She moved to Jura to learn winemaking. Initially, Florien planned to purchase some vines for herself but ultimately decided to join Jean-Baptiste.
+
+So this is Domaine Les Bottes Rouges and two friends that started with different careers in different countries but decided to take the life-changing decision to work full-time as winemakers.
+
+La Pepée is the first Pinot Noir of Jean-Baptiste Menigoz, sourced from two vineyards, one near La Mulatiere and the other near Les Bodines. The vines are planted in clay soils and are vinified using the same techniques as [[barberry:/wines/3e07d3ab-d122-4eee-94dd-0770a526125b][Tôt ou Tard]]. Élevage is a bit different, with half of the juice pressed into 600L barriques and the rest into stainless steel. He then adds a bit of SO2 at bottling (the exact amount depends on the vintage).
+
+* Les Bottes Rouges face b 2017
+:PROPERTIES:
+:ID:                     4229de95-7dd9-4026-920f-20b9d8c6c6f9
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-58-24-IMG-7754.webp]]
+
+- producer: [[barberry:/producers/ff12da2b-6418-4827-b680-d48bc77709b6][Les Bottes Rouges]]
+- name: [[barberry:/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf][face b]]
+- vintage: 2017
+- grapes: Savagnin
+- appellation: Côtes du Jura AOC
+- location: Jura, France
+- alcohol: 13
+- sugar: 1
+- price: 1890 UAH
+
+Produced from a 100% Savagnin, this wine is made using the "ouillé" method. This denotes a different technique to that of the other regional speciality, Vin Jaune, as the barrels are "topped up" during maturation to minimise oxidative ageing and preserve the freshness of the wine.
+
+* Renaud Bruyère & Adeline Houillon Arbois Blanc Les Nouvelles Chardonnay 2016
+:PROPERTIES:
+:ID:                     55c8fbc5-0bab-4379-bb2c-cd0adf376f56
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-16-05-27-IMG-7759.webp]]
+
+- producer: [[barberry:/producers/971b7dfa-6fd4-46c2-8282-806fdd97856a][Renaud Bruyère & Adeline Houillon]]
+- name: [[barberry:/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1][Arbois Blanc Les Nouvelles Chardonnay]]
+- vintage: 2016
+- grapes: Chardonnay
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 12.5
+- sugar: 1
+- price: 7900 UAH
+
+And now we get to the opus magnum of the evening. Renaud Bruyère and Adeline Houillon are tiny producers of biodynamic wines in the village of Pupillin. They started the winery in 2011 with a modest plot of 0.75 hectares they received from Stephane Tissot - to toy around and get some real experience.
+
+Adeline is from Arbois, so she spent time in the vineyards even in childhood. What first was just a financial necessity, slowly became her call thanks to Pierre Overnoy and his wines.
+
+Around 2001 she met Renaud. After working for five years in the restaurant, he was tired of this business and was thinking about switching to winemaking. He was only 21. Naturally (no pun intended), they fell in love. Adeline revealed the beauty of Jura and its wines, so they decided to dive into this world.
+
+After the formal study, Adeline worked for a few years on Pierre Overnoy. Meanwhile, Renaud learned the craft from Stephane Tissot. So after 10 years, they started their own winery with Les Tourillons plot they received from Stephane Tissot. Today they own around 5 hectares in the heart of Pupillin.
+
+I could not find trustworthy technical information about this wine.
+
+* Renaud Bruyère & Adeline Houillon Arbois Pupillin Savagnin 2014
+:PROPERTIES:
+:ID:                     24309202-0a22-40e0-8e6d-a4f1a3a49370
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-16-06-04-IMG-7764.webp]]
+
+- producer: [[barberry:/producers/971b7dfa-6fd4-46c2-8282-806fdd97856a][Renaud Bruyère & Adeline Houillon]]
+- name: [[barberry:/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1][Arbois Pupillin Savagnin]]
+- vintage: 2014
+- grapes: Savagnin
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 12.5
+- sugar: 2
+- price: 8900 UAH
+
+Just like [[barberry:/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf][Les Bottes Rouges face b 2017]], this Savagnin is made using the "ouillé" method. The technical information is scarce, so I have nothing else to share with you.
+
+* Domaine de la Touraize Savagnin oxydatif 2016
+:PROPERTIES:
+:ID:                     c8385106-6ade-45f7-a0be-659f7402f541
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-16-jura/2023-06-16-15-59-13-IMG-7756.webp]]
+
+- producer: [[barberry:/producers/1798690d-483b-4f80-a136-93eb9552e48b][Domaine de la Touraize]]
+- name: [[barberry:/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5][Savagnin oxydatif]]
+- vintage: 2016
+- grapes: Savagnin
+- appellation: Arbois AOC
+- location: Jura, France
+- alcohol: 13.5
+- sugar: N/A
+- price: 1293 UAH
+
+I am yet to provide information about this producer. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     ffd86e29-33dc-4c4d-935b-8938f4fca176
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B     |    3.90 |    4.00 |    4.20 |    4.10 |  *4.30* |    4.20 |    4.40 |    4.00 |
+| Nicolae C   |    3.90 |    4.20 |    4.20 |    4.20 |    4.30 |    4.30 |  *4.40* |    3.70 |
+| Anna P      |    4.20 |    4.30 |    4.20 |    4.30 |    4.40 |    4.30 |  *4.40* |    4.20 |
+| Anya I      |    4.10 |    4.20 |    4.10 |    4.20 |  *4.40* |    4.10 |    4.30 |    4.00 |
+| Mykola T    |    4.00 |    4.30 |    4.10 |    4.00 |  *4.30* |    4.40 |    4.30 |    3.80 |
+| Lena        |    4.50 |    4.30 |    4.00 |    4.50 |    4.60 |    4.50 |  *4.70* |    3.70 |
+| Maksym B    |    3.00 |  *2.50* |    3.30 |    2.50 |    3.70 |    3.00 |    4.60 |    2.30 |
+| Yevgeniya T |    3.90 |    4.10 |    4.20 |    4.00 |  *4.40* |    4.30 |    4.30 |    3.90 |
+| Serhii H    |    4.00 |    4.20 |  *4.00* |    3.90 |    4.20 |    4.30 |    4.30 |    3.70 |
+| Diana M     |    4.00 |    4.00 |    3.90 |    3.80 |    4.10 |  *4.20* |    4.40 |    3.50 |
+| Vova U      |    4.00 |    4.20 |    4.20 |    4.00 |    4.40 |  *4.50* |    4.50 |    3.90 |
+| Boris       |    3.80 |    4.00 |    4.20 |  *4.20* |    4.20 |    4.40 |    4.40 |    3.80 |
+| Ivan        |       - |       - |       - |       - |       - |    4.80 |       - |       - |
+

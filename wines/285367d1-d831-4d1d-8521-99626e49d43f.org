@@ -25,6 +25,18 @@ What a beautiful and sexy wine! Incredible bouquet of raspberry, cornel, raw mea
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/53079401-633d-49af-b4df-621f50852007.html">
+    <img class="flex-bottle" src="/images/53/079401-633d-49af-b4df-621f50852007/2023-06-16-15-56-13-IMG-7746@512.webp"></img>
+    <section class="h">Domaine de Saint Pierre</section>
+    <section class="h text-bolder">Les Gaudrettes - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f.html">
+    <img class="flex-bottle" src="/images/90/889309-ef90-4e61-ba6d-49c3ca3f1c2f/2023-06-16-15-54-51-IMG-7741@512.webp"></img>
+    <section class="h">Domaine de Saint Pierre</section>
+    <section class="h text-bolder">Le Rouge - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/cd38f16e-d59c-4bcc-9cc7-e7fc690174b7.html">
     <img class="flex-bottle" src="/images/cd/38f16e-d59c-4bcc-9cc7-e7fc690174b7/2023-04-07-15-57-46-163144BA-4A70-4C2A-827F-41A9CC5A6168-1-105-c@512.webp"></img>
     <section class="h">Domaine de Saint Pierre</section>

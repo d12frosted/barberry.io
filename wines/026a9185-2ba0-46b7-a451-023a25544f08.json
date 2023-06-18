@@ -1,0 +1,34 @@
+{
+  "id": "026a9185-2ba0-46b7-a451-023a25544f08",
+  "name": "Contrada",
+  "full-name": "COS Contrada 2018",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3.6",
+  "prices": [
+    "1619 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/02/6a9185-2ba0-46b7-a451-023a25544f08/2023-06-12-11-11-18-192DF915-DDA0-41B0-9042-798BDE011B17-1-105-c.webp",
+  "rating": "8.0"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "90889309-ef90-4e61-ba6d-49c3ca3f1c2f",
+  "name": "Le Rouge",
+  "full-name": "Domaine de Saint Pierre Le Rouge 2019",
+  "producer": {
+    "id": "e8690f66-50ae-4f4d-94e6-363f12c70d50",
+    "name": "Domaine de Saint Pierre"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "12.2",
+  "sugar": "1",
+  "prices": [
+    "1590 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/90/889309-ef90-4e61-ba6d-49c3ca3f1c2f/2023-06-16-15-54-51-IMG-7741.webp",
+  "rating": "NA"
+}

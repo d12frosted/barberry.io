@@ -1,7 +1,7 @@
 {
   "id": "f022ae6b-698b-4e7e-8aa9-a742bfc055c1",
-  "name": "Arbois Les Nouvelles Chardonnay",
-  "full-name": "Renaud Bruyère & Adeline Houillon Arbois Les Nouvelles Chardonnay 2016",
+  "name": "Arbois Blanc Les Nouvelles Chardonnay",
+  "full-name": "Renaud Bruyère & Adeline Houillon Arbois Blanc Les Nouvelles Chardonnay 2016",
   "producer": {
     "id": "971b7dfa-6fd4-46c2-8282-806fdd97856a",
     "name": "Renaud Bruyère & Adeline Houillon"
@@ -28,7 +28,7 @@
   "prices": [
     "7900 UAH"
   ],
-  "available": 0,
-  "image": "images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-05-05-16-30-06-IMG-6765.webp",
+  "available": 1.0,
+  "image": "images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-06-16-16-05-27-IMG-7759.webp",
   "rating": "NA"
 }

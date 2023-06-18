@@ -11,7 +11,7 @@ So this is Domaine Les Bottes Rouges and two friends that started with different
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6.html">
-    <img class="flex-bottle" src="/images/a7/426870-7f6d-41c1-bb8b-fa00a3a344f6/2023-04-07-15-54-44-824E7E2A-8550-4804-AF36-8C18AEC60B6A-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/a7/426870-7f6d-41c1-bb8b-fa00a3a344f6/2023-06-16-15-57-56-IMG-7750@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">La Pépée - 2018</section>
   </a>
@@ -23,7 +23,7 @@ So this is Domaine Les Bottes Rouges and two friends that started with different
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
-    <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-05-29-09-55-56-IMG-7429@512.webp"></img>
+    <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-06-16-15-58-24-IMG-7754@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">face b - 2017</section>
   </a>

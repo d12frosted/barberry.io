@@ -51,7 +51,7 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 | France       |    17 | 989.70 UAH   |  7.73 | 2.3719 |
 | Spain        |     9 | 656.55 UAH   |  7.46 | 3.1660 |
 | South Africa |     8 | 972.88 UAH   |  7.90 | 3.0287 |
-| Italy        |     8 | 584.23 UAH   |  7.46 | 3.2916 |
+| Italy        |     8 | 605.45 UAH   |  7.46 | 3.0731 |
 | Australia    |     4 | 638.75 UAH   |  7.02 | 2.2402 |
 | New Zealand  |     3 | 547.26 UAH   |  6.99 | 2.2701 |
 | Austria      |     2 | 475.92 UAH   |  7.25 | 2.9732 |
@@ -86,7 +86,7 @@ On the other hand, I've tasted several older bottles. The oldest of them is [[ba
 |---------+-------+--------------+-------+--------|
 |    2021 |     5 | 389.00 UAH   |  6.99 | 3.8935 |
 |    2020 |    11 | 783.57 UAH   |  7.55 | 2.5888 |
-|    2019 |    14 | 688.77 UAH   |  7.59 | 3.1096 |
+|    2019 |    14 | 700.90 UAH   |  7.59 | 2.9791 |
 |    2018 |     5 | 776.34 UAH   |  7.75 | 2.7030 |
 |    2017 |     7 | 815.48 UAH   |  7.48 | 2.4246 |
 |    2016 |     3 | 763.00 UAH   |  7.04 | 1.6808 |
@@ -156,7 +156,7 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 | Gamay                        |     1 | 675.00 UAH   |  7.25 | 2.0539 |
 | Carricante                   |     1 | 815.00 UAH   |  7.50 | 2.0351 |
 | Sangiovese                   |     1 | 675.00 UAH   |  7.25 | 2.0539 |
-| Nerello Mascalese            |     1 | 645.00 UAH   |  8.50 | 5.4592 |
+| Nerello Mascalese            |     1 | 814.75 UAH   |  8.50 | 4.3218 |
 
 #+name: grapes-data
 #+begin_src elisp :exports results
@@ -247,7 +247,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-02 | France       | [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]              | [[barberry:/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb][Clos du Tue-Boeuf Vin Blanc 2019]]                                           |    2019 | 7.50 | 3.6858 |
 | 2022-06-02 | France       | [[barberry:/producers/61460d46-6c8d-41f3-ad9a-26fed046f622][Chateau Laffitte Carcasset]]     | [[barberry:/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd][Chateau Laffitte Carcasset Saint-Estephe Cru Bourgeois 2016]]                |    2016 | 7.50 | 1.8594 |
 | 2022-06-02 | South Africa | [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]                          | [[barberry:/wines/b837734a-480c-455b-98e6-25a04b7095ff][Storm Vrede Pinot Noir 2019]]                                                |    2019 | 8.50 | 2.9590 |
-| 2022-06-01 | Italy        | [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]                 | [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]]                                            |    2019 | 8.50 | 5.4592 |
+| 2022-06-01 | Italy        | [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]                 | [[barberry:/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936][Girolamo Russo Etna Rosato 2019]]                                            |    2019 | 8.50 | 4.3218 |
 
 #+name: ratings-data
 #+begin_src elisp :exports results

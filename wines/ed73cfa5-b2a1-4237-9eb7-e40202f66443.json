@@ -1,0 +1,56 @@
+{
+  "id": "ed73cfa5-b2a1-4237-9eb7-e40202f66443",
+  "name": "Nerina",
+  "full-name": "Girolamo Russo Nerina 2019",
+  "producer": {
+    "id": "b2257d8d-489c-4d2f-8a44-c080cbbae65e",
+    "name": "Girolamo Russo"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    },
+    {
+      "id": "cb51e2e2-1332-45f0-9578-28a0107e08d8",
+      "name": "Inzolia"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    },
+    {
+      "id": "90fa2880-a977-41ff-ad4e-a560f316dddb",
+      "name": "Minnella Bianca"
+    },
+    {
+      "id": "e46704f5-d600-4512-8e9a-de6af5915da1",
+      "name": "Coda di Volpe"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "1396 UAH",
+    "1200 UAH",
+    "948 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ed/73cfa5-b2a1-4237-9eb7-e40202f66443/2021-07-22-09-11-31-DEAEC421-4396-4C5A-965F-568E22558612-1-105-c.webp",
+  "rating": "8.5"
+}

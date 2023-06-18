@@ -1,0 +1,38 @@
+{
+  "id": "aa85285a-3702-4e6e-84c9-2c07e6612339",
+  "name": "Pithos Rosso",
+  "full-name": "COS Pithos Rosso 2021",
+  "producer": {
+    "id": "512e0678-4812-4cee-b090-911416bcc0e2",
+    "name": "COS"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    },
+    {
+      "id": "b968250e-2035-4b18-bd9f-fce99d5f9915",
+      "name": "Frappato"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2.6",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/aa/85285a-3702-4e6e-84c9-2c07e6612339/2023-06-12-11-12-41-075D583F-8823-449A-A821-E0EF29437A17-1-105-c.webp",
+  "rating": "7.75"
+}
