@@ -121,25 +121,31 @@ There are two possible reasons for this failure. Either I was tired already or i
     <section class="h text-bolder">La Pépée - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
+  <a class="flex-item flex-item-right" href="/wines/ce308c98-42d1-46a8-bb8d-7e47a71b288d.html">
+    <img class="flex-bottle" src="/images/ce/308c98-42d1-46a8-bb8d-7e47a71b288d/2023-06-19-10-20-35-IMG-7805@512.webp"></img>
+    <section class="h">Domaine des Cavarodes</section>
+    <section class="h text-bolder">Vin de Pays de Franche-Comté Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
     <img class="flex-bottle" src="/images/dc/4e8325-8cb6-4d9a-a68a-3695a56388ad/2023-06-18-11-19-58-A56D7DDF-E601-4265-8EDC-0C4D657ECEE1-1-105-c@512.webp"></img>
     <section class="h">Fazenda Agricola Augalevada</section>
     <section class="h text-bolder">Mercenario branco - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
+  <a class="flex-item flex-item-right" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
     <img class="flex-bottle" src="/images/e4/351bcf-6fd6-4b71-b3ac-acf63e9c45e1/2023-06-16-16-06-04-IMG-7764@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Pupillin Savagnin - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
+  <a class="flex-item flex-item-left" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
     <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-06-16-15-58-24-IMG-7754@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">face b - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
+  <a class="flex-item flex-item-right" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
     <img class="flex-bottle" src="/images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-06-16-16-05-27-IMG-7759@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Les Nouvelles Chardonnay - 2016</section>

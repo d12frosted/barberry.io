@@ -1,0 +1,71 @@
+#+attr_html: :class wine-main-image
+[[file:/images/7e/4bafc3-3832-41e5-942a-27d80257db82/2023-06-19-15-27-38-IMG-7827@512.webp]]
+
+- Type :: Rose Sparkling, Brut nature
+- Producer :: [[barberry:/producers/f583fef5-23a6-4932-a036-fb4b7e9e22b8][Marguet]]
+- Vintage :: NV
+- Disgorged in :: September 2021
+- Spent on lees :: ~25 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 0
+- Price :: 2055 UAH
+- Cellar :: N/A
+
+A blend of Chardonnay (68%) and Pinot Noir (32%).
+
+** Ratings
+
+*** 2023-06-17 - ☆ 7.50
+
+A bit disappointing. Either the wine was too delicate and complex for my drunken mind, or it was really flat. Strawberry yoghurt, red apple and a shy hint of nuts. Fresh, delicate and chalky mouthfeel.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6352bcd9-4da5-4647-81fe-cb393bff3b03.html">
+    <img class="flex-bottle" src="/images/63/52bcd9-4da5-4647-81fe-cb393bff3b03/2022-09-16-11-03-44-97252A10-33D9-4128-A01F-4E9812BD44C0-1-105-c@512.webp"></img>
+    <section class="h">Marguet</section>
+    <section class="h text-bolder">Shaman 17 Grand Cru - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/489945d4-8644-4123-a40f-3912be9824bd.html">
+    <img class="flex-bottle" src="/images/48/9945d4-8644-4123-a40f-3912be9824bd/2023-06-19-10-51-15-IMG-7809@512.webp"></img>
+    <section class="h">Volcanalia</section>
+    <section class="h text-bolder">Ambarabà Frizzante sui Lieviti - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/883b4578-9618-4c32-a0dc-ebbe78f2033a.html">
+    <img class="flex-bottle" src="/images/88/3b4578-9618-4c32-a0dc-ebbe78f2033a/2023-06-19-15-09-21-IMG-7822@512.webp"></img>
+    <section class="h">Heinrich</section>
+    <section class="h text-bolder">Leithaberg Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/888b703c-75f8-42aa-985e-557f7432608f.html">
+    <img class="flex-bottle" src="/images/88/8b703c-75f8-42aa-985e-557f7432608f/2023-06-19-14-53-19-IMG-7813@512.webp"></img>
+    <section class="h">Aphros</section>
+    <section class="h text-bolder">Loureiro - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ba4e1044-fc14-469d-a13b-76a459224ff7.html">
+    <img class="flex-bottle" src="/images/ba/4e1044-fc14-469d-a13b-76a459224ff7/2023-06-19-15-05-03-IMG-7818@512.webp"></img>
+    <section class="h">Weninger</section>
+    <section class="h text-bolder">Furmint Vom Kalk - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
+    <img class="flex-bottle" src="/images/d7/513051-c24a-4ea7-a163-1946bb321402/2023-06-19-15-33-56-IMG-7830@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Les Semblables Austral - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d91239ed-3147-4152-af22-2f4912cbcd9b.html">
+    <img class="flex-bottle" src="/images/d9/1239ed-3147-4152-af22-2f4912cbcd9b/2023-06-19-15-17-53-IMG-7825@512.webp"></img>
+    <section class="h">Arpepe</section>
+    <section class="h text-bolder">Rosso di Valtellina Nebbiolo - 2020</section>
+  </a>
+
+</div>
+#+end_export

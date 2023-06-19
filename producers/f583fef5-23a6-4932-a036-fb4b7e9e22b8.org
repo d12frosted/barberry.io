@@ -9,5 +9,11 @@
     <section class="h text-bolder">Shaman 17 Grand Cru - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/7e4bafc3-3832-41e5-942a-27d80257db82.html">
+    <img class="flex-bottle" src="/images/7e/4bafc3-3832-41e5-942a-27d80257db82/2023-06-19-15-27-38-IMG-7827@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Shaman 18 Rosé Grand Cru - NV</section>
+  </a>
+
 </div>
 #+end_export

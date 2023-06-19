@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d91239ed-3147-4152-af22-2f4912cbcd9b.html">
+    <img class="flex-bottle" src="/images/d9/1239ed-3147-4152-af22-2f4912cbcd9b/2023-06-19-15-17-53-IMG-7825@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Rosso di Valtellina Nebbiolo - 2020</section>
+  </a>
+
+</div>
+#+end_export

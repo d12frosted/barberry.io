@@ -1,0 +1,34 @@
+{
+  "id": "888b703c-75f8-42aa-985e-557f7432608f",
+  "name": "Loureiro",
+  "full-name": "Aphros Loureiro 2014",
+  "producer": {
+    "id": "79fa0a9d-3631-4815-b52c-8b8b02480d2d",
+    "name": "Aphros"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "28c43196-ab76-478a-82e1-db13aad7334f",
+      "name": "Loureiro"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "1.5",
+  "prices": [
+    "699 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/88/8b703c-75f8-42aa-985e-557f7432608f/2023-06-19-14-53-19-IMG-7813.webp",
+  "rating": "7.5"
+}

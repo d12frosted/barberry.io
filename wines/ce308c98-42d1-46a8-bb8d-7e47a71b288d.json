@@ -1,0 +1,38 @@
+{
+  "id": "ce308c98-42d1-46a8-bb8d-7e47a71b288d",
+  "name": "Vin de Pays de Franche-Comté Blanc",
+  "full-name": "Domaine des Cavarodes Vin de Pays de Franche-Comté Blanc 2018",
+  "producer": {
+    "id": "c43d8c15-2839-4bce-802f-62c2ac4f55ff",
+    "name": "Domaine des Cavarodes"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "9515135a-8ccd-476c-8844-8c58a2314545",
+      "name": "Savagnin"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ce/308c98-42d1-46a8-bb8d-7e47a71b288d/2023-06-19-10-20-35-IMG-7805.webp",
+  "rating": "8.0"
+}

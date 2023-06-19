@@ -1,0 +1,34 @@
+{
+  "id": "2b7f1084-e816-4a42-b9d3-2c22c44f8a1f",
+  "name": "Montiggl Riesling",
+  "full-name": "St. Michael-Eppan Montiggl Riesling 2020",
+  "producer": {
+    "id": "c22a4736-3780-4e95-bb96-d508fe2ba8d7",
+    "name": "St. Michael-Eppan"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2b/7f1084-e816-4a42-b9d3-2c22c44f8a1f/2023-06-18-13-54-03-IMG-7707.webp",
+  "rating": "7.4"
+}

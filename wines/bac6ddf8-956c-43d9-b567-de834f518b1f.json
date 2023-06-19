@@ -1,0 +1,34 @@
+{
+  "id": "bac6ddf8-956c-43d9-b567-de834f518b1f",
+  "name": "Leithaberg Chardonnay",
+  "full-name": "Heinrich Leithaberg Chardonnay 2016",
+  "producer": {
+    "id": "370d0459-21f1-46c5-aa90-e01458bb5be0",
+    "name": "Heinrich"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "640 UAH"
+  ],
+  "available": 0,
+  "image": "images/ba/c6ddf8-956c-43d9-b567-de834f518b1f/2021-05-09-11-30-02-E3A7C888-5A16-42A9-BBA0-E31AD434EC7E-1-105-c.webp",
+  "rating": "4.5"
+}

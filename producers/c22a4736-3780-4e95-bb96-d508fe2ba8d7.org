@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2b7f1084-e816-4a42-b9d3-2c22c44f8a1f.html">
+    <img class="flex-bottle" src="/images/2b/7f1084-e816-4a42-b9d3-2c22c44f8a1f/2023-06-18-13-54-03-IMG-7707@512.webp"></img>
+    <section class="h">★ 7.40</section>
+    <section class="h text-bolder">Montiggl Riesling - 2020</section>
+  </a>
+
+</div>
+#+end_export

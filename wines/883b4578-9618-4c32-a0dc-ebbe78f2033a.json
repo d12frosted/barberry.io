@@ -1,0 +1,34 @@
+{
+  "id": "883b4578-9618-4c32-a0dc-ebbe78f2033a",
+  "name": "Leithaberg Chardonnay",
+  "full-name": "Heinrich Leithaberg Chardonnay 2020",
+  "producer": {
+    "id": "370d0459-21f1-46c5-aa90-e01458bb5be0",
+    "name": "Heinrich"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "779 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/88/3b4578-9618-4c32-a0dc-ebbe78f2033a/2023-06-19-15-09-21-IMG-7822.webp",
+  "rating": "7.5"
+}

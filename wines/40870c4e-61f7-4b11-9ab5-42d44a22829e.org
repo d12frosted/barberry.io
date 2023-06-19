@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/40/870c4e-61f7-4b11-9ab5-42d44a22829e/2023-06-19-10-11-11-IMG-7709@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/78df0ea5-cda1-40d4-b826-30f243731e01][Comm. G.B. Burlotto]]
+- Vintage :: 2021
+- Location :: Italy, Verduno Pelaverga DOC
+- Grapes :: Pelaverga Piccolo
+- Alcohol :: 14
+- Sugar :: NA
+- Price :: 819 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-06-09 - ☆ 8.00
+
+A nice and delicate Pelaverga despite the 14 abv. Ripe dark fruits, cherries, flowers and dried herbs. Juicy and relatively light with a long and flavourful finish.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2b7f1084-e816-4a42-b9d3-2c22c44f8a1f.html">
+    <img class="flex-bottle" src="/images/2b/7f1084-e816-4a42-b9d3-2c22c44f8a1f/2023-06-18-13-54-03-IMG-7707@512.webp"></img>
+    <section class="h">St. Michael-Eppan</section>
+    <section class="h text-bolder">Montiggl Riesling - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3d618791-4835-4eb6-9b6b-cef326f35c3c.html">
+    <img class="flex-bottle" src="/images/3d/618791-4835-4eb6-9b6b-cef326f35c3c/2023-06-18-13-26-06-IMG-7704@512.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Extra Brut Reserve (d2021) - NV</section>
+  </a>
+
+</div>
+#+end_export

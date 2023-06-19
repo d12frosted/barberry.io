@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/489945d4-8644-4123-a40f-3912be9824bd.html">
+    <img class="flex-bottle" src="/images/48/9945d4-8644-4123-a40f-3912be9824bd/2023-06-19-10-51-15-IMG-7809@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Ambarabà Frizzante sui Lieviti - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,34 @@
+{
+  "id": "d91239ed-3147-4152-af22-2f4912cbcd9b",
+  "name": "Rosso di Valtellina Nebbiolo",
+  "full-name": "Arpepe Rosso di Valtellina Nebbiolo 2020",
+  "producer": {
+    "id": "7f3b8bc4-b944-4aa4-9e6e-8a2a8142d265",
+    "name": "Arpepe"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1154 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d9/1239ed-3147-4152-af22-2f4912cbcd9b/2023-06-19-15-17-53-IMG-7825.webp",
+  "rating": "8.0"
+}

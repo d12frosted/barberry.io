@@ -53,5 +53,11 @@ Blind tasted and guessed new world Chardonnay. And since it turned out to be a w
     <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/bac6ddf8-956c-43d9-b567-de834f518b1f.html">
+    <img class="flex-bottle" src="/images/ba/c6ddf8-956c-43d9-b567-de834f518b1f/2021-05-09-11-30-02-E3A7C888-5A16-42A9-BBA0-E31AD434EC7E-1-105-c@512.webp"></img>
+    <section class="h">Heinrich</section>
+    <section class="h text-bolder">Leithaberg Chardonnay - 2016</section>
+  </a>
+
 </div>
 #+end_export

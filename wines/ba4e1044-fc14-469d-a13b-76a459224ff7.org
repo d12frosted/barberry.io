@@ -1,0 +1,61 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ba/4e1044-fc14-469d-a13b-76a459224ff7/2023-06-19-15-05-03-IMG-7818@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/cc8f60eb-6dcb-4219-b5f4-e1114af24ca9][Weninger]]
+- Vintage :: 2021
+- Location :: Austria, Landwein aus Österreich
+- Grapes :: Furmint
+- Alcohol :: 12
+- Sugar :: NA
+- Price :: 899 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-06-17 - ☆ 7.50
+
+A pleasant and quaffable wine for a hot summer evening. Apple candies, pears, sea pebbles and citrus (more like lime). Easy, fresh and not overly complex.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/489945d4-8644-4123-a40f-3912be9824bd.html">
+    <img class="flex-bottle" src="/images/48/9945d4-8644-4123-a40f-3912be9824bd/2023-06-19-10-51-15-IMG-7809@512.webp"></img>
+    <section class="h">Volcanalia</section>
+    <section class="h text-bolder">Ambarabà Frizzante sui Lieviti - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7e4bafc3-3832-41e5-942a-27d80257db82.html">
+    <img class="flex-bottle" src="/images/7e/4bafc3-3832-41e5-942a-27d80257db82/2023-06-19-15-27-38-IMG-7827@512.webp"></img>
+    <section class="h">Marguet</section>
+    <section class="h text-bolder">Shaman 18 Rosé Grand Cru - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/883b4578-9618-4c32-a0dc-ebbe78f2033a.html">
+    <img class="flex-bottle" src="/images/88/3b4578-9618-4c32-a0dc-ebbe78f2033a/2023-06-19-15-09-21-IMG-7822@512.webp"></img>
+    <section class="h">Heinrich</section>
+    <section class="h text-bolder">Leithaberg Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/888b703c-75f8-42aa-985e-557f7432608f.html">
+    <img class="flex-bottle" src="/images/88/8b703c-75f8-42aa-985e-557f7432608f/2023-06-19-14-53-19-IMG-7813@512.webp"></img>
+    <section class="h">Aphros</section>
+    <section class="h text-bolder">Loureiro - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
+    <img class="flex-bottle" src="/images/d7/513051-c24a-4ea7-a163-1946bb321402/2023-06-19-15-33-56-IMG-7830@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Les Semblables Austral - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d91239ed-3147-4152-af22-2f4912cbcd9b.html">
+    <img class="flex-bottle" src="/images/d9/1239ed-3147-4152-af22-2f4912cbcd9b/2023-06-19-15-17-53-IMG-7825@512.webp"></img>
+    <section class="h">Arpepe</section>
+    <section class="h text-bolder">Rosso di Valtellina Nebbiolo - 2020</section>
+  </a>
+
+</div>
+#+end_export

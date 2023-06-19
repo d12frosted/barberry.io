@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/2b/7f1084-e816-4a42-b9d3-2c22c44f8a1f/2023-06-18-13-54-03-IMG-7707@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/c22a4736-3780-4e95-bb96-d508fe2ba8d7][St. Michael-Eppan]]
+- Vintage :: 2020
+- Location :: Italy, Alto Adige DOC
+- Grapes :: Riesling
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 1390 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-06-09 - ☆ 7.40
+
+This Riesling is simple but fine for the hot weather. White flowers, stone fruits, tropical fruits and some benzene notes. Round and voluminous. IMO it lacks structure, and the ethanol is a bit unbalanced.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3d618791-4835-4eb6-9b6b-cef326f35c3c.html">
+    <img class="flex-bottle" src="/images/3d/618791-4835-4eb6-9b6b-cef326f35c3c/2023-06-18-13-26-06-IMG-7704@512.webp"></img>
+    <section class="h">Loimer</section>
+    <section class="h text-bolder">Extra Brut Reserve (d2021) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40870c4e-61f7-4b11-9ab5-42d44a22829e.html">
+    <img class="flex-bottle" src="/images/40/870c4e-61f7-4b11-9ab5-42d44a22829e/2023-06-19-10-11-11-IMG-7709@512.webp"></img>
+    <section class="h">Comm. G.B. Burlotto</section>
+    <section class="h text-bolder">Verduno Pelaverga - 2021</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/888b703c-75f8-42aa-985e-557f7432608f.html">
+    <img class="flex-bottle" src="/images/88/8b703c-75f8-42aa-985e-557f7432608f/2023-06-19-14-53-19-IMG-7813@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Loureiro - 2014</section>
+  </a>
+
+</div>
+#+end_export

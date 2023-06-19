@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ba/c6ddf8-956c-43d9-b567-de834f518b1f/2021-05-09-11-30-02-E3A7C888-5A16-42A9-BBA0-E31AD434EC7E-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/370d0459-21f1-46c5-aa90-e01458bb5be0][Heinrich]]
+- Vintage :: 2016
+- Location :: Austria, Burgenland
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 640 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-05-08 - ☆ 4.50
+
+Highly reductive, full of sulfur odor (e.g. rotten egg). I waited quite a while and it got better only to reveal over-oaked and heavy Chardonnay. Avoid.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/366086d0-9688-4be8-bdac-9b20162de445.html">
+    <img class="flex-bottle" src="/images/36/6086d0-9688-4be8-bdac-9b20162de445/2022-07-26-12-22-19-E7CBF111-B453-4E83-959B-1E2C857E49D3-1-105-c@512.webp"></img>
+    <section class="h">Heinrich</section>
+    <section class="h text-bolder">Blaufränkisch - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/883b4578-9618-4c32-a0dc-ebbe78f2033a.html">
+    <img class="flex-bottle" src="/images/88/3b4578-9618-4c32-a0dc-ebbe78f2033a/2023-06-19-15-09-21-IMG-7822@512.webp"></img>
+    <section class="h">Heinrich</section>
+    <section class="h text-bolder">Leithaberg Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
+    <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">Carjcanti - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/22902600-63fa-4887-8c46-a3f16847bb5d.html">
+    <img class="flex-bottle" src="/images/22/902600-63fa-4887-8c46-a3f16847bb5d/2022-07-16-19-24-32-IMG-0782@512.webp"></img>
+    <section class="h">Pierre Trichet</section>
+    <section class="h text-bolder">L’Authentique Premier Cru Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/574176e9-fdc3-4d63-8a0b-046ffc8c2dcf.html">
+    <img class="flex-bottle" src="/images/57/4176e9-fdc3-4d63-8a0b-046ffc8c2dcf/2021-05-09-10-29-34-AA101F2A-4680-4F2A-A5E1-5FA3E8AB37DC-1-105-c@512.webp"></img>
+    <section class="h">Golan Heights Winery</section>
+    <section class="h text-bolder">Chardonnay Yarden - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
+    <img class="flex-bottle" src="/images/d7/513051-c24a-4ea7-a163-1946bb321402/2023-06-19-15-33-56-IMG-7830@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Les Semblables Austral - 2019</section>
+  </a>
+
+</div>
+#+end_export
