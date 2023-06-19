@@ -621,7 +621,9 @@ ul.rating-list {
     margin-bottom: 2rem;
   }
   .wine-main-image {
-    width: 37.5%;
+    max-width: 37.5%;
+    width: auto;
+    max-height: 350px;
     float: right;
     margin-left: 2rem;
     margin-bottom: 2rem;
