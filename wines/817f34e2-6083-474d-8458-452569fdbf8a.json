@@ -26,9 +26,10 @@
   "alcohol": "13",
   "sugar": "2.9",
   "prices": [
+    "1534 UAH",
     "1793 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/81/7f34e2-6083-474d-8458-452569fdbf8a/2023-06-19-16-05-44-IMG-7844.webp",
   "rating": "NA"
 }

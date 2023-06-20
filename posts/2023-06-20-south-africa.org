@@ -1,4 +1,8 @@
-Wines:
+One can casually walk into Good Wine and buy a few bottles of Sadie Family. And this fact amazes me. Maybe it also tells something about the perception of South African wines in the Ukrainian market. But I am not going to bash anyone. Instead, let me promote some of the wineries that should be on everyone's radar. And I genuinely think that South Africa deserves more attention.
+
+Today we focus on three producers - Sadie Family, Storm and Testalonga. All three are part of the South African wine revolution. Eben Sadie of the Sadie Family is a history-changing icon of the Swartland region. He (and also [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Tom Lubbe]] with The Observatory) ignited the revolution. Testalonga, in a way, is a 'descendant' of this flame. Hannes Storm is a man of focus, commitment and sheer fucking will. His goal is to handcraft the best possible Pinot Noir in Hemel-en-Aarde, Heaven and Earth. And I find it beautiful.
+
+Without further ado, meet our protagonists.
 
 1. [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
 2. [[barberry:/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b][Testalonga Baby Bandito Keep on Punching 2022]]
@@ -13,25 +17,18 @@ Wines:
 :ID:                     86e9d857-e5c3-4cd0-a8ff-092a0b271529
 :END:
 
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|---------+---------+---------+---------+---------+---------+---------+---------|
-| Boris B |    4.10 |    4.20 |    3.90 |    4.50 |    4.40 |    4.00 |    4.30 |
-
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |      rms |   sdev | favourite | outcast |   price |      QPR |
-|---------+----------+--------+-----------+---------+---------+----------|
-| Wine #1 |   4.1000 | 0.0000 | *0.00*    |  +0.00+ |  990.00 |   2.8214 |
-| Wine #2 |   4.2000 | 0.0000 | *0.00*    |  +0.00+ |  690.00 | *4.7215* |
-| Wine #3 |   3.9000 | 0.0000 | *0.00*    |  +0.00+ | 1620.00 |   1.2758 |
-| Wine #4 | *4.5000* | 0.0000 | *0.00*    |  +0.00+ | 1793.00 |   2.9193 |
-| Wine #5 |   4.4000 | 0.0000 | *0.00*    |  +0.00+ | 1836.00 |   2.4291 |
-| Wine #6 |   4.0000 | 0.0000 | *0.00*    |  +0.00+ | 1830.00 |   1.0000 |
-| Wine #7 |   4.3000 | 0.0000 | *0.00*    |  +0.00+ | 3800.00 |   1.0021 |
+|         | rms | sdev | favourite | outcast |   price | QPR |
+|---------+-----+------+-----------+---------+---------+-----|
+| Wine #1 | -   | -    | *0.00*    |  +0.00+ |  990.00 | -   |
+| Wine #2 | -   | -    | *0.00*    |  +0.00+ |  690.00 | -   |
+| Wine #3 | -   | -    | *0.00*    |  +0.00+ | 1620.00 | -   |
+| Wine #4 | -   | -    | *0.00*    |  +0.00+ | 1793.00 | -   |
+| Wine #5 | -   | -    | *0.00*    |  +0.00+ | 1836.00 | -   |
+| Wine #6 | -   | -    | *0.00*    |  +0.00+ | 1830.00 | -   |
+| Wine #7 | -   | -    | *0.00*    |  +0.00+ | 3800.00 | -   |
 
 How to read this table:
 
@@ -41,4 +38,185 @@ How to read this table:
 - =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Testalonga El Bandito I am the Ninja 2022
+:PROPERTIES:
+:ID:                     e828f487-b73f-4978-8548-674142b3bf8a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-05-19-16-24-32-IMG-7025.webp]]
+
+- producer: [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]
+- name: [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][El Bandito I am the Ninja]]
+- vintage: 2022
+- grapes: Chenin Blanc
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 9.5
+- sugar: 6.2
+- price: 990 UAH
+
+Craig & Carla Hawkins, without any doubt, are revolutionizing the South African wine industry. After long years of traveling around the world and making wines in known and established wineries (like [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]] and [[barberry:/producers/1405b4d4-44cc-4685-a471-94fd20d248e8][Niepoort Vinhos S.A.]]), Craig came to Swartland to work for Eben Sadie in 2006. Carla has been here since 1997.
+
+Testalonga was established as a side-line in 2008. They produced 2 barrels of macerated Chenin Blanc. It is considered the first macerated wine in the whole of South Africa. They had to fight for the right to export their wines as regulators were against letting these wines out to the market. All those sediments and other traces of low intervention winemaking were quite suspicious back then. But there is nothing to spoil, as Craig and Carla are famous in the wine world.
+
+In the 2015 they bough Bandits Kloof farm in the northern mountains of Swartland. Climate is similar to Sicilian, so they planted Frappato, Macabeo, Carignan, Mataro, Grenache and Garnacha Blanca.
+
+Wines are not the only thing one can appreciate about Testalonga. Most of their bottles wear catchy labels of high-quality (e.g. paper and printing quality). It turns out Craig designs them all. He did art at school, but today he lacks time to paint. So he turned the labels into a canvas. Most of them are photos that friends or family have taken, which Craig then plays around to create various labels.
+
+"I am the Ninja" is a méthode ancestrale made of Chenin Blanc from a 4 hectares vineyard on a sandstone. The average age of vines is above 60 years. Spontaneous fermentation in fibreglass tanks with indigenous yeasts. Made from grapes, isn't it? So nothing is added.
+
+* Testalonga Baby Bandito Keep on Punching 2022
+:PROPERTIES:
+:ID:                     b20278cc-bf64-41bd-9038-fbd03d1825ce
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-05-19-16-54-01-IMG-7067.webp]]
+
+- producer: [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]
+- name: [[barberry:/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b][Baby Bandito Keep on Punching]]
+- vintage: 2022
+- grapes: Chenin Blanc
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 12
+- sugar: 1.5
+- price: 690 UAH
+
+The Baby Bandito range was first released in 2015. All it requires is a proper label. And luckily, Craig found a perfect image in his brother's new house. The Baby Bandito photo is a picture his brother took of some street art in Cambodia. Craig just played around with it to make the little girl the focal point of the image, as she has a plaster on her finger. In addition, Craig overlaid it with quotes by Banksy - Keep on Punching, Stay Brave, Follow Your Dreams, and Chin Up.
+
+"Keep on Punching" is made from the same vineyard as "I am the Ninja". Whole cluster, direct press, spontaneous fermentation in fourdres and stainless steel, malolactic fermentation. Aged in foudres and stainless steel. Minimal usage of SO2.
+
+* Sadie Family Skerpioen 2020
+:PROPERTIES:
+:ID:                     6766b6a9-5692-4cf8-8aa9-89d0cbc21274
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2022-11-18-08-58-47-BFF3394D-CE89-4F69-AA57-D1C9036031FC-1-105-c.webp]]
+
+- producer: [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]]
+- name: [[barberry:/wines/d71fb0cc-4414-437e-8870-a4ef45c8abd8][Skerpioen]]
+- vintage: 2020
+- grapes: Chenin Blanc, Palomino Fino
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 12.5
+- sugar: 1.7
+- price: 1620 UAH
+
+* Storm Ridge Chardonnay 2021
+:PROPERTIES:
+:ID:                     7aa0bba8-3253-4958-a5f0-309e84b852aa
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-06-19-16-05-44-IMG-7844.webp]]
+
+- producer: [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]
+- name: [[barberry:/wines/817f34e2-6083-474d-8458-452569fdbf8a][Ridge Chardonnay]]
+- vintage: 2021
+- grapes: Chardonnay
+- appellation: WO Hemel-en-Aarde Valley
+- location: South Africa
+- alcohol: 13
+- sugar: 2.9
+- price: 1793 UAH
+
+Hannes Storm is a winemaker from South Africa dedicated to expressing terroirs of WO Hemel-en-Aarde Valley. After 12 vintages of working with Pinot Noir and Chardonnay, he discovered two tiny parcels of land with exceptional terroirs and planted them with Pinot Noir in 2008. His first vintage saw the light in 2012, and after 18 months in bottle, the wines were released in August 2014.
+
+His approach - handcraft, small production, careful viticulture, minimal intervention in the cellar.
+
+Now he works with 3 plots:
+
+- Vrede Pinot Noir and Chardonnay - low-vigor, stony, clay-rich Bokkeveld (Buck Veld) shale soil in the Hemel-en-Aarde Valley.
+- Ignis Pinot Noir - decomposed granite soil in the Upper Hemel-en-Aarde Valley.
+- Ridge Pinot Noir and Chardonnay, also from low-vigour, stony, clay-rich Bokkeveld shale soil in the Hemel-en-Aarde Ridge.
+
+WO Hemel-en-Aarde Valley is divided into Valley, Upper Valley and Ridge. And it means that Hennes grows Pinot Noir in all 3 appellations of Hemel-en-Aarde Valley. And in fact, he is the only winemaker with this sort of achievement.
+
+Ridge Chardonnay hails from a cool, eastern slope on the Hemel-en-Aarde Ridge. 5760 bottles produced.
+
+* Storm Ridge Pinot Noir 2021
+:PROPERTIES:
+:ID:                     1a65c4ed-f04d-4885-bb66-173b7db7d059
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-06-19-16-07-00-IMG-7849.webp]]
+
+- producer: [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]
+- name: [[barberry:/wines/579aad87-cad5-423b-9d3f-d3a2ba05aa4f][Ridge Pinot Noir]]
+- vintage: 2021
+- grapes: Pinot Noir
+- appellation: WO Hemel-en-Aarde Valley
+- location: South Africa
+- alcohol: 13
+- sugar: 2.8
+- price: 1836 UAH
+
+* Storm Ridge Pinot Noir 2017
+:PROPERTIES:
+:ID:                     d7cd30f2-0c41-420c-99cc-fb9f834d3b94
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-02-23-12-13-49-IMG-5187.webp]]
+
+- producer: [[barberry:/producers/0baccd0b-6ff4-4a49-bdb1-a509b1c1314c][Storm]]
+- name: [[barberry:/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0][Ridge Pinot Noir]]
+- vintage: 2017
+- grapes: Pinot Noir
+- appellation: WO Hemel-en-Aarde Valley
+- location: South Africa
+- alcohol: 13.5
+- sugar: 3
+- price: 1830 UAH
+
+* Sadie Family Columella 2016
+:PROPERTIES:
+:ID:                     89e92d28-5f83-4469-81f4-b42547e898f9
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-20-south-africa/2023-03-09-11-40-36-IMG-5405.webp]]
+
+- producer: [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]]
+- name: [[barberry:/wines/f9b6ea46-f032-45c3-b18f-951508064989][Columella]]
+- vintage: 2016
+- grapes: Tinta Barroca, Grenache, Syrah, Monastrell, Cinsault
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 13.5
+- sugar: 1.6
+- price: 3800 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     9df858a6-8596-476d-b851-3583d09024c7
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Oleksandr R | -       | -       | -       | -       | -       | -       | -       |
+| Julie B     | -       | -       | -       | -       | -       | -       | -       |
+| Dmytro D    | -       | -       | -       | -       | -       | -       | -       |
+| Ivietta K   | -       | -       | -       | -       | -       | -       | -       |
+| Yaryna T    | -       | -       | -       | -       | -       | -       | -       |
+| Yarsolav M  | -       | -       | -       | -       | -       | -       | -       |
+| Maryna Yu   | -       | -       | -       | -       | -       | -       | -       |
+| Anastasia   | -       | -       | -       | -       | -       | -       | -       |
+| Boris       | -       | -       | -       | -       | -       | -       | -       |
+
+* Resources
+:PROPERTIES:
+:ID:                     c2440962-4942-4d7e-a686-54b46c372324
+:END:
+
+- [[https://swartlandwineandolives.co.za/the-many-labels-of-testalonga][The many labels of Testalonga]]
 
