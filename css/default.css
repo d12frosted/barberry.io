@@ -615,8 +615,10 @@ ul.rating-list {
     max-width: 128px;
   }
   .bottle-right {
+    max-width: 37.5%;
+    width: auto;
+    max-height: 350px;
     float: right;
-    margin-right: 2rem;
     margin-left: 2rem;
     margin-bottom: 2rem;
   }
