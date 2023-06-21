@@ -20,13 +20,13 @@ Interestingly, before Hennes Storm started own project, he worked as a winemaker
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
     <img class="flex-bottle" src="/images/81/7f34e2-6083-474d-8458-452569fdbf8a/2023-06-20-17-53-28-IMG-7880@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Ridge Chardonnay - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2023-06-20-17-53-07-IMG-7881@512.webp"></img>
-    <section class="h">★ 8.00</section>
+    <section class="h">★ 8.25</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
   </a>
 
