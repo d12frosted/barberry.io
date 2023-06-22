@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b9/3ec5f9-a2c1-4982-8eb5-27b1bb3ac648/2023-06-21-19-04-27-83924FFC-AE0D-40FA-8522-82ACEC1DDEB6-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/29f7257e-733a-4cd0-bef1-7a2bdbe51ed3][Bott Frigyes]]
+- Vintage :: 2020
+- Location :: Slovakia, Južnoslovenská vinohradnícka oblasť
+- Grapes :: Welschriesling, Gewürztraminer
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 799 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
+    <img class="flex-bottle" src="/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c@512.webp"></img>
+    <section class="h">Bott Frigyes</section>
+    <section class="h text-bolder">Juhfark - 2019</section>
+  </a>
+
+</div>
+#+end_export

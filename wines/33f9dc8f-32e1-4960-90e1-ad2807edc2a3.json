@@ -1,0 +1,42 @@
+{
+  "id": "33f9dc8f-32e1-4960-90e1-ad2807edc2a3",
+  "name": "Riflesso Rosi Rosato",
+  "full-name": "Eugenio Rosi Riflesso Rosi Rosato 2020",
+  "producer": {
+    "id": "5bbc07e2-2c5a-4653-a683-d1aef7dcedb1",
+    "name": "Eugenio Rosi"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "808b68d6-31e5-4ab8-b095-3e4674ff228c",
+      "name": "Marzemino"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "729 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/33/f9dc8f-32e1-4960-90e1-ad2807edc2a3/2023-06-21-19-07-34-6FBB5AA3-59B1-43E2-9C42-EB89F98A3D20-1-105-c.webp",
+  "rating": "NA"
+}

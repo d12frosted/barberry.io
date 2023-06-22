@@ -1,0 +1,34 @@
+{
+  "id": "e7e05099-a8cc-4ce1-8a2e-351c64c6bd78",
+  "name": "Barolo Chinato",
+  "full-name": "Montanaro Barolo Chinato",
+  "producer": {
+    "id": "b37914ec-d6e4-4394-93eb-150f6c61a7f3",
+    "name": "Montanaro"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "2fca29bb-bedd-468d-9704-5f70af3e9ada",
+      "name": "Nebbiolo"
+    }
+  ],
+  "alcohol": "16.5",
+  "sugar": "NA",
+  "prices": [
+    "1254 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e7/e05099-a8cc-4ce1-8a2e-351c64c6bd78/2023-06-21-19-11-30-9D5F6190-3DC1-4D36-AA63-523BC6DE7166-1-105-c.webp",
+  "rating": "NA"
+}

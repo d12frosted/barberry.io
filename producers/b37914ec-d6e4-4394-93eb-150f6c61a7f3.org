@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e7e05099-a8cc-4ce1-8a2e-351c64c6bd78.html">
+    <img class="flex-bottle" src="/images/e7/e05099-a8cc-4ce1-8a2e-351c64c6bd78/2023-06-21-19-11-30-9D5F6190-3DC1-4D36-AA63-523BC6DE7166-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Barolo Chinato - NV</section>
+  </a>
+
+</div>
+#+end_export

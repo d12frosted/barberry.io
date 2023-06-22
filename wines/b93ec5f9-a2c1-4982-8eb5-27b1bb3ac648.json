@@ -1,0 +1,38 @@
+{
+  "id": "b93ec5f9-a2c1-4982-8eb5-27b1bb3ac648",
+  "name": "Just Enjoy White",
+  "full-name": "Bott Frigyes Just Enjoy White 2020",
+  "producer": {
+    "id": "29f7257e-733a-4cd0-bef1-7a2bdbe51ed3",
+    "name": "Bott Frigyes"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "656e55a0-7458-4533-807a-012eea7f87f8",
+    "name": "Slovakia"
+  },
+  "grapes": [
+    {
+      "id": "061b7c96-2814-4303-853a-35137ae38718",
+      "name": "Welschriesling"
+    },
+    {
+      "id": "15d0f501-def6-4e91-8a71-9dc1452b1adc",
+      "name": "Gewürztraminer"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "799 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b9/3ec5f9-a2c1-4982-8eb5-27b1bb3ac648/2023-06-21-19-04-27-83924FFC-AE0D-40FA-8522-82ACEC1DDEB6-1-105-c.webp",
+  "rating": "NA"
+}
