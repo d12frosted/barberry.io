@@ -1,7 +1,7 @@
 {
   "id": "e7e05099-a8cc-4ce1-8a2e-351c64c6bd78",
   "name": "Barolo Chinato",
-  "full-name": "Montanaro Barolo Chinato",
+  "full-name": "Montanaro Barolo Chinato NV",
   "producer": {
     "id": "b37914ec-d6e4-4394-93eb-150f6c61a7f3",
     "name": "Montanaro"
@@ -28,7 +28,7 @@
   "prices": [
     "1254 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/e7/e05099-a8cc-4ce1-8a2e-351c64c6bd78/2023-06-21-19-11-30-9D5F6190-3DC1-4D36-AA63-523BC6DE7166-1-105-c.webp",
-  "rating": "NA"
+  "rating": "7.5"
 }

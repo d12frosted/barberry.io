@@ -1,0 +1,63 @@
+Without further ado, meet our protagonists.
+
+1. [[barberry:/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf][Les Bottes Rouges face b 2017]]
+2. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
+3. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
+4. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
+5. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errazuriz Aconcagua Costa Chardonnay 2016]]
+6. [[barberry:/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443][Girolamo Russo Nerina 2019]]
+7. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
+8. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
+
+Instead of Face B we can take [[barberry:/wines/178219e6-ed16-4c47-8a79-5a02a72cabea][Andre et Mireille Tissot Traminer 2016]].
+
+* Scores
+:PROPERTIES:
+:ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms | sdev | favourite |   price | QPR |
+|---------+-----+------+-----------+---------+-----|
+| Wine #1 | -   | -    | *0.00*    | 1890.00 | -   |
+| Wine #2 | -   | -    | *0.00*    | 3300.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 1053.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 1396.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 1290.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     7862aaa3-5d0a-496a-a38b-edf67f76825c
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------+---------+---------+---------+---------+---------+---------+---------|
+| Boris | -       | -       | -       | -       | -       | -       | -       |
+
+* Resources
+:PROPERTIES:
+:ID:                     6cd659c0-afa3-47ee-a058-9db8532fa6fa
+:END:
+
+- [[https://thesourcingtable.com/blogs/learn/future-classics][The Swartland And The South African Wine Revolution]]
+- [[https://swartlandwineandolives.co.za/the-many-labels-of-testalonga][The many labels of Testalonga]]
+- [[https://swartlandwineandolives.co.za/making-wine-from-grapes-the-testalonga-approach-to-natural-wine/][Making wine from grapes - the Testalonga approach to natural wine]]
+- [[https://zrswines.com/wine-producer/testalonga/][Testalonga - Zev Rovine Selections]]
+- [[https://swartlandwineandolives.co.za/place-above-progress-eben-sadie-on-old-vines-new-cultivars-and-bottling-the-swartland/][Place above progress – Eben Sadie on old vines, new cultivars and bottling the Swartland]]
+

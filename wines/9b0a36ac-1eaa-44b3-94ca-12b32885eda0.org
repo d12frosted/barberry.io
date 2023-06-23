@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9b/0a36ac-1eaa-44b3-94ca-12b32885eda0/2023-06-22-09-32-34-BC9D5628-4FBE-4D94-B6C1-C4938DA6C890-1-105-c@512.webp]]
+
+- Type :: Red Still, Sweet
+- Producer :: [[barberry:/producers/d69d7163-a455-4d0c-9b45-42fab584b502][Querciabella]]
+- Vintage :: 2017
+- Location :: Italy, Maremma Toscana DOC
+- Grapes :: Sangiovese, Cabernet Sauvignon
+- Alcohol :: 13.5
+- Sugar :: 0.8
+- Price :: 705 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b2315e57-a88b-46a7-a69c-a958bd0d7c8f.html">
+    <img class="flex-bottle" src="/images/b2/315e57-a88b-46a7-a69c-a958bd0d7c8f/2021-12-17-18-46-54-315A92DE-ADDA-4E86-BDA4-9F7D69B9E86C-1-105-c@512.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b41891b8-9f77-4dfc-b125-837399061c38.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2019</section>
+  </a>
+
+</div>
+#+end_export

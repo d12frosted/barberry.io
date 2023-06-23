@@ -1,0 +1,25 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9b0a36ac-1eaa-44b3-94ca-12b32885eda0.html">
+    <img class="flex-bottle" src="/images/9b/0a36ac-1eaa-44b3-94ca-12b32885eda0/2023-06-22-09-32-34-BC9D5628-4FBE-4D94-B6C1-C4938DA6C890-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Mongrana - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b2315e57-a88b-46a7-a69c-a958bd0d7c8f.html">
+    <img class="flex-bottle" src="/images/b2/315e57-a88b-46a7-a69c-a958bd0d7c8f/2021-12-17-18-46-54-315A92DE-ADDA-4E86-BDA4-9F7D69B9E86C-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Mongrana - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b41891b8-9f77-4dfc-b125-837399061c38.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Mongrana - 2019</section>
+  </a>
+
+</div>
+#+end_export

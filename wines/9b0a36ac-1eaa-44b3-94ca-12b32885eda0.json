@@ -1,0 +1,38 @@
+{
+  "id": "9b0a36ac-1eaa-44b3-94ca-12b32885eda0",
+  "name": "Mongrana",
+  "full-name": "Querciabella Mongrana 2017",
+  "producer": {
+    "id": "d69d7163-a455-4d0c-9b45-42fab584b502",
+    "name": "Querciabella"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "0.8",
+  "prices": [
+    "705 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/9b/0a36ac-1eaa-44b3-94ca-12b32885eda0/2023-06-22-09-32-34-BC9D5628-4FBE-4D94-B6C1-C4938DA6C890-1-105-c.webp",
+  "rating": "NA"
+}

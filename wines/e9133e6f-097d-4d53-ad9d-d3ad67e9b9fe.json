@@ -1,0 +1,34 @@
+{
+  "id": "e9133e6f-097d-4d53-ad9d-d3ad67e9b9fe",
+  "name": "Lagar de Baixo Baga",
+  "full-name": "Niepoort Vinhos S.A. Lagar de Baixo Baga 2020",
+  "producer": {
+    "id": "1405b4d4-44cc-4685-a471-94fd20d248e8",
+    "name": "Niepoort Vinhos S.A."
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "984fc88b-636e-4685-a3dd-c8a03e3b3d3f",
+      "name": "Baga"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e9/133e6f-097d-4d53-ad9d-d3ad67e9b9fe/2023-06-23-17-06-33-C5291CD1-D206-4199-8B5A-654E1A48BA50-1-105-c.webp",
+  "rating": "NA"
+}

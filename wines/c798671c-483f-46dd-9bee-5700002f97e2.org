@@ -65,6 +65,18 @@ profile. Good value.
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/b2315e57-a88b-46a7-a69c-a958bd0d7c8f.html">
+    <img class="flex-bottle" src="/images/b2/315e57-a88b-46a7-a69c-a958bd0d7c8f/2021-12-17-18-46-54-315A92DE-ADDA-4E86-BDA4-9F7D69B9E86C-1-105-c@512.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b41891b8-9f77-4dfc-b125-837399061c38.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2019</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
     <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c@512.webp"></img>
     <section class="h">Alta Alella</section>

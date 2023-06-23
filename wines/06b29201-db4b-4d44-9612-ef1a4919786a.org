@@ -49,5 +49,11 @@ It was a nice revelation that Denavolo is a side project of Giulio Armani, oenol
     <section class="h text-bolder">Dinavolino - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/4364d2da-9642-404d-8288-f0a9fbc2419e.html">
+    <img class="flex-bottle" src="/images/43/64d2da-9642-404d-8288-f0a9fbc2419e/2020-08-29-13-47-51-C9506362-B4E5-4457-91C3-85E06949A192-1-105-c@512.webp"></img>
+    <section class="h">Domaine des Bodines</section>
+    <section class="h text-bolder">Arbois Poulsard - 2018</section>
+  </a>
+
 </div>
 #+end_export

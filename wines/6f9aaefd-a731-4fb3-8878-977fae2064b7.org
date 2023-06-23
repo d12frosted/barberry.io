@@ -25,43 +25,49 @@ Complex, delicate and demanding BdB. Beautiful bouquet with apple, cream, lemon,
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/bfa42d1b-04b4-4661-90ec-b75ddcd866e0.html">
+  <a class="flex-item flex-item-left" href="/wines/4ee4bd99-7f04-4c20-a993-5de186c6b070.html">
+    <img class="flex-bottle" src="/images/4e/e4bd99-7f04-4c20-a993-5de186c6b070/2023-06-23-17-05-10-734ABD8E-645B-488B-994B-F194C2332068-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">7 Crus (d2023) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bfa42d1b-04b4-4661-90ec-b75ddcd866e0.html">
     <img class="flex-bottle" src="/images/bf/a42d1b-04b4-4661-90ec-b75ddcd866e0/2023-02-19-11-58-34-02CF2597-B43F-456C-A75E-528200451976-1-105-c@512.webp"></img>
     <section class="h">Agrapart</section>
     <section class="h text-bolder">7 Crus (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f3e7725c-2b10-4dab-8358-eeddd9330371.html">
+  <a class="flex-item flex-item-left" href="/wines/f3e7725c-2b10-4dab-8358-eeddd9330371.html">
     <img class="flex-bottle" src="/images/f3/e7725c-2b10-4dab-8358-eeddd9330371/2023-05-03-21-14-10-9A868160-A1DF-426E-AC96-D54942FD73AF-1-105-c@512.webp"></img>
     <section class="h">Agrapart</section>
     <section class="h text-bolder">Terroirs (d2023) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/165ed51b-19dc-46ad-9f5a-e321c254e613.html">
+  <a class="flex-item flex-item-right" href="/wines/165ed51b-19dc-46ad-9f5a-e321c254e613.html">
     <img class="flex-bottle" src="/images/16/5ed51b-19dc-46ad-9f5a-e321c254e613/2021-08-18-10-39-00-CEF410F6-C86F-454B-BA78-43A5C4174888-1-105-c@512.webp"></img>
     <section class="h">Klein Constantia</section>
     <section class="h text-bolder">Method Cap Classique Brut - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
+  <a class="flex-item flex-item-left" href="/wines/1c498873-9026-4a72-b993-0c51235b0883.html">
     <img class="flex-bottle" src="/images/1c/498873-9026-4a72-b993-0c51235b0883/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c@512.webp"></img>
     <section class="h">Cà del Vént</section>
     <section class="h text-bolder">Memoria Brut Pas Operé VSQ - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Origin'elle (2015) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
+  <a class="flex-item flex-item-left" href="/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6.html">
     <img class="flex-bottle" src="/images/ed/95a91a-0437-40f1-8e9f-e01086ea0ec6/2021-08-18-10-39-41-8C296B57-1652-47EF-98B8-4D5B6628EAD2-1-105-c@512.webp"></img>
     <section class="h">Krasna Hora</section>
     <section class="h text-bolder">Blanc de Noir Sekt - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>

@@ -1,0 +1,34 @@
+{
+  "id": "4364d2da-9642-404d-8288-f0a9fbc2419e",
+  "name": "Arbois Poulsard",
+  "full-name": "Domaine des Bodines Arbois Poulsard 2018",
+  "producer": {
+    "id": "6fac03bd-3c26-4746-975a-69614ddc8bff",
+    "name": "Domaine des Bodines"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
+      "name": "Poulsard"
+    }
+  ],
+  "alcohol": "10.8",
+  "sugar": "1",
+  "prices": [
+    "830 UAH"
+  ],
+  "available": 0,
+  "image": "images/43/64d2da-9642-404d-8288-f0a9fbc2419e/2020-08-29-13-47-51-C9506362-B4E5-4457-91C3-85E06949A192-1-105-c.webp",
+  "rating": "7.5"
+}

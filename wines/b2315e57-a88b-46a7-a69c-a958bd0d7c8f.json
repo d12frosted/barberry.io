@@ -1,0 +1,42 @@
+{
+  "id": "b2315e57-a88b-46a7-a69c-a958bd0d7c8f",
+  "name": "Mongrana",
+  "full-name": "Querciabella Mongrana 2018",
+  "producer": {
+    "id": "d69d7163-a455-4d0c-9b45-42fab584b502",
+    "name": "Querciabella"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "851e10a2-e672-4c9f-8506-ccbe31887b02",
+      "name": "Sangiovese"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1.3",
+  "prices": [
+    "499 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/b2/315e57-a88b-46a7-a69c-a958bd0d7c8f/2021-12-17-18-46-54-315A92DE-ADDA-4E86-BDA4-9F7D69B9E86C-1-105-c.webp",
+  "rating": "7.5"
+}

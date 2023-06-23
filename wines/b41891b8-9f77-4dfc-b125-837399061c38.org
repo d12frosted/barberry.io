@@ -1,0 +1,49 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/d69d7163-a455-4d0c-9b45-42fab584b502][Querciabella]]
+- Vintage :: 2019
+- Location :: Italy, Maremma Toscana DOC
+- Grapes :: Merlot, Cabernet Sauvignon, Sangiovese
+- Alcohol :: 14
+- Sugar :: 1
+- Price :: 499 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-12-15 - ☆ 7.50
+
+Haven't tasted Querciabella wines for a long time. Their basic wine is pure, stable and tasty. Mix of black and red berries, rose petals and tomato. Juicy with medium-full body, well balanced and very gastronomic. Good.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9b0a36ac-1eaa-44b3-94ca-12b32885eda0.html">
+    <img class="flex-bottle" src="/images/9b/0a36ac-1eaa-44b3-94ca-12b32885eda0/2023-06-22-09-32-34-BC9D5628-4FBE-4D94-B6C1-C4938DA6C890-1-105-c@512.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b2315e57-a88b-46a7-a69c-a958bd0d7c8f.html">
+    <img class="flex-bottle" src="/images/b2/315e57-a88b-46a7-a69c-a958bd0d7c8f/2021-12-17-18-46-54-315A92DE-ADDA-4E86-BDA4-9F7D69B9E86C-1-105-c@512.webp"></img>
+    <section class="h">Querciabella</section>
+    <section class="h text-bolder">Mongrana - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c798671c-483f-46dd-9bee-5700002f97e2.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Krasna Hora</section>
+    <section class="h text-bolder">Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/dd7001ca-33ee-42aa-936f-01f253557ecc.html">
+    <img class="flex-bottle" src="/images/dd/7001ca-33ee-42aa-936f-01f253557ecc/2021-12-17-18-57-28-8ED32E09-518F-4871-BAE9-2004C36F58B2-1-105-c@512.webp"></img>
+    <section class="h">Alta Alella</section>
+    <section class="h text-bolder">Aus Pet Nat - 2020</section>
+  </a>
+
+</div>
+#+end_export
