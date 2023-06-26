@@ -8,8 +8,8 @@
   },
   "vintage": "2008",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "April 2022",
+  "sur-lie": ">120 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut-nature",
@@ -17,7 +17,12 @@
     "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
     "name": "France"
   },
-  "grapes": [],
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
   "alcohol": "12.5",
   "sugar": "0",
   "prices": [
