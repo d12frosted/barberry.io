@@ -1,0 +1,42 @@
+{
+  "id": "a0c80df6-e6b1-4156-9ce0-654f906668b9",
+  "name": "Bianco L.2003B",
+  "full-name": "Dario Prinčič Bianco L.2003B NV",
+  "producer": {
+    "id": "29fcea4d-4a8a-417e-bcdb-282c2d6f6360",
+    "name": "Dario Prinčič"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1399 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a0/c80df6-e6b1-4156-9ce0-654f906668b9/2023-06-26-09-10-16-C8DD7F9A-E2DA-45C3-8B3E-5BD1E3FECD3E-1-105-c.webp",
+  "rating": "7.75"
+}

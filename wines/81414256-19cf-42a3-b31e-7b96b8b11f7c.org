@@ -1,0 +1,39 @@
+#+attr_html: :class wine-main-image
+[[file:/images/81/414256-19cf-42a3-b31e-7b96b8b11f7c/2023-06-26-09-04-45-F7B5CBB9-688E-4B12-82A1-CA68462B19E3-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/b4f02639-bfa2-4ef1-bd32-5a3f69a04cb3][Nicola Gatta]]
+- Vintage :: NV
+- Disgorged in :: September 2020
+- Spent on lees :: 30 months
+- Location :: Italy, Vino (IT)
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12
+- Sugar :: 7
+- Price :: 1779 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-06-23 - ☆ 7.75
+
+A simple traditional sparkling. It's more focused on fruits (like apples and lemons), but it also has a good influence from yeasts - not too toasty, elegant and fresh. I would love it to be more complex for the price, but other than this, it's a decent start to the evening (after a few stouts, of course).
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+    <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a0c80df6-e6b1-4156-9ce0-654f906668b9.html">
+    <img class="flex-bottle" src="/images/a0/c80df6-e6b1-4156-9ce0-654f906668b9/2023-06-26-09-10-16-C8DD7F9A-E2DA-45C3-8B3E-5BD1E3FECD3E-1-105-c@512.webp"></img>
+    <section class="h">Dario Prinčič</section>
+    <section class="h text-bolder">Bianco L.2003B - NV</section>
+  </a>
+
+</div>
+#+end_export

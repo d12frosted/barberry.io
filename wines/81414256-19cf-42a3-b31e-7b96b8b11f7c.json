@@ -1,0 +1,38 @@
+{
+  "id": "81414256-19cf-42a3-b31e-7b96b8b11f7c",
+  "name": "Ombra Cuvée Brut L.A31",
+  "full-name": "Nicola Gatta Ombra Cuvée Brut L.A31 NV",
+  "producer": {
+    "id": "b4f02639-bfa2-4ef1-bd32-5a3f69a04cb3",
+    "name": "Nicola Gatta"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "September 2020",
+  "sur-lie": "30 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "7",
+  "prices": [
+    "1779 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/81/414256-19cf-42a3-b31e-7b96b8b11f7c/2023-06-26-09-04-45-F7B5CBB9-688E-4B12-82A1-CA68462B19E3-1-105-c.webp",
+  "rating": "7.75"
+}

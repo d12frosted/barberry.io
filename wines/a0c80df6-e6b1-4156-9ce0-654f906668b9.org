@@ -1,0 +1,39 @@
+#+attr_html: :class wine-main-image
+[[file:/images/a0/c80df6-e6b1-4156-9ce0-654f906668b9/2023-06-26-09-10-16-C8DD7F9A-E2DA-45C3-8B3E-5BD1E3FECD3E-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/29fcea4d-4a8a-417e-bcdb-282c2d6f6360][Dario Prinčič]]
+- Vintage :: NV
+- Location :: Italy, IGP Venezia Giulia
+- Grapes :: Chardonnay, Sauvignon Blanc, Pinot Gris
+- Alcohol :: 13.5
+- Sugar :: NA
+- Price :: 1399 UAH
+- Cellar :: N/A
+
+A blend of Chardonnay, Sauvignon Blanc and Pinot Grigio from 60-year-old vineyards of 10 hectares on marl and sandstone. Hand harvested grapes are fermented spontaneously for 22 days in open chestnut vats on skins. Aged in wood for 24 months.
+
+** Ratings
+
+*** 2023-06-23 - ☆ 7.75
+
+Honestly, this blend didn't really deliver. It was complex in a negative way. Maybe we should've decanted it, whatever. Not that typical bomb in the glass, it has a nice and well-weaved VA into a bouquet of stone fruits, apricot, medicinal herbs, orange peel, nuts and pencil husks. A bit diluted, closed and not friendly.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/81414256-19cf-42a3-b31e-7b96b8b11f7c.html">
+    <img class="flex-bottle" src="/images/81/414256-19cf-42a3-b31e-7b96b8b11f7c/2023-06-26-09-04-45-F7B5CBB9-688E-4B12-82A1-CA68462B19E3-1-105-c@512.webp"></img>
+    <section class="h">Nicola Gatta</section>
+    <section class="h text-bolder">Ombra Cuvée Brut L.A31 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+    <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
+  </a>
+
+</div>
+#+end_export

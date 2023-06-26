@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a0c80df6-e6b1-4156-9ce0-654f906668b9.html">
+    <img class="flex-bottle" src="/images/a0/c80df6-e6b1-4156-9ce0-654f906668b9/2023-06-26-09-10-16-C8DD7F9A-E2DA-45C3-8B3E-5BD1E3FECD3E-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Bianco L.2003B - NV</section>
+  </a>
+
+</div>
+#+end_export
