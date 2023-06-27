@@ -1,0 +1,39 @@
+{
+  "id": "214fef7c-8a47-4dde-a2fa-e1944ee7a4a1",
+  "name": "Cheverny La Caillere",
+  "full-name": "Clos du Tue-Boeuf Cheverny La Caillere 2018",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "15.5",
+  "sugar": "0",
+  "prices": [
+    "512 UAH",
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/21/4fef7c-8a47-4dde-a2fa-e1944ee7a4a1/2020-03-05-20-02-56-8DA6DBB0-6E64-45D1-B80A-24688C440932-1-105-c.webp",
+  "rating": "8.066666666666666"
+}

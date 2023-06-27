@@ -1,0 +1,38 @@
+{
+  "id": "171c39e5-a699-44d2-9f16-56e5a8a4b33e",
+  "name": "Cheverny Frileuse",
+  "full-name": "Clos du Tue-Boeuf Cheverny Frileuse 2018",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.77",
+  "sugar": "0",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/17/1c39e5-a699-44d2-9f16-56e5a8a4b33e/2023-06-27-23-00-31-IMG-7944.webp",
+  "rating": "8.0"
+}

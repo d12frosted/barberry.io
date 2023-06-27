@@ -1,0 +1,228 @@
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-26-25-IMG-7966.webp]]
+
+City-dwelling wine lovers are blessed ones. These folks can enjoy the harvest festival multiple times a year. You can gather for another feast whenever there are new arrivals. Ok, I am a bit slow-poking today. Yet Vova U pushed some of the strings to make it happen - a wine-tasting party dedicated to Clos du Tue-Boeuf. The 2022 vintage meets a few older bottles.
+
+Over the internet, people repeat the same mantra all over again. Clos du Tue-Boeuf is a project from Loire Valley (France, I guess) run by Jean-Marie and Thierry Puzelat brothers. Mykola Chobanu shares that it's not the case because one of the brothers has retired. Your task is to figure out which one has stayed at the estate.
+
+In any case, they (one of the brothers with his wife and kids) tend their 10-hectare family estate in Les Montils (part of the Cheverny AOC) and rent four hectares in a village nearby to produce Touraine AOC. One can quickly distinguish the origin of the wine by looking at the estate name. If it's at the top of the front label - it's estate-sourced wine.
+
+Jean-Marie and Thierry are (or at least were) firm believers in the AOC system regulating winemaking. It's a controversial topic, so let's avoid making any judgement here and take the fact that our protagonists are believers. Cheverny AOC was formed in 1993, and some of the grapes were outlawed right away. Now the irony. Since the 60s, the Puzelats' father had been planting various vines, including later outlawed ones. Some would call him short-sighted. Some would say that not everyone can look into tomorrow's day. As a result, today, some of their wines must be marked as table wines. The good part, Clos du Tue-Boeuf are stars of the natural wine movement. And (hopefully) they don't have financial problems despite most of their wines being denominated.
+
+Anyways, meet the protagonists of the evening!
+
+* Scores
+:PROPERTIES:
+:ID:                     d458911d-8170-4289-adda-243e5f6914d5
+:END:
+
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-27-06-IMG-7971.webp]]
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0190 | 0.0290 |    *4.00* |  790.00 |   3.1093 |
+| Wine #2 |   3.9951 | 0.0222 |      3.00 |  760.00 | *3.1215* |
+| Wine #3 |   3.8102 | 0.0192 |      1.00 |  690.00 |   2.6144 |
+| Wine #4 | *4.0650* | 0.0285 |      3.00 | 1050.00 |   2.5087 |
+| Wine #5 |   3.6417 | 0.0239 |      0.00 |  690.00 |   2.0480 |
+| Wine #6 |   3.8692 | 0.0593 |      1.00 |  690.00 |   2.8296 |
+| Wine #7 |   3.7262 | 0.0233 |      0.00 |  690.00 |   2.3120 |
+| Wine #8 |   3.8817 | 0.0372 |      1.00 |  810.00 |   2.4658 |
+| Wine #9 |   3.7431 | 0.0347 |      0.00 |  830.00 |   1.9652 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Clos du Tue-Boeuf Pineau de Loire 2021
+:PROPERTIES:
+:ID:                     8caa6fd0-c03d-4e9a-a5f3-dbe40b03b31c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-22-56-00-IMG-7940.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/14597cdd-a4a0-4976-9442-783d428744e8][Pineau de Loire]]
+- vintage: 2021
+- grapes: Chenin Blanc
+- appellation: Vin de Table
+- location: France
+- alcohol: 11.29
+- sugar: N/A
+- price: 790 UAH
+
+* Clos du Tue-Boeuf Cheverny Frileuse 2018
+:PROPERTIES:
+:ID:                     e9d732ea-4323-4b83-82f3-7d82f64134f8
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-00-31-IMG-7944.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/171c39e5-a699-44d2-9f16-56e5a8a4b33e][Cheverny Frileuse]]
+- vintage: 2018
+- grapes: Sauvignon Blanc, Chardonnay
+- appellation: Cheverny AOC
+- location: Loire, France
+- alcohol: 13.77
+- sugar: 0
+- price: 690 UAH
+
+* Clos du Tue-Boeuf Le Petit Buisson 2022
+:PROPERTIES:
+:ID:                     262bc58d-0038-40f3-9b66-034b0321d77e
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-22-57-11-IMG-7942.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/95e0ec05-1f0f-4b3a-ab38-c419340eba94][Le Petit Buisson]]
+- vintage: 2022
+- grapes: Sauvignon Blanc
+- appellation: Vin de Table
+- location: France
+- alcohol: 13.06
+- sugar: 0.35
+- price: 760 UAH
+
+* Clos du Tue-Boeuf Le Brin de Chèvre Menu Pineau 2018
+:PROPERTIES:
+:ID:                     797844f8-d443-4153-9370-81454b233539
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-02-53-IMG-7946.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/6e694054-20c9-4a92-bd62-305742dd9f57][Le Brin de Chèvre Menu Pineau]]
+- vintage: 2018
+- grapes: Arbois Blanc
+- appellation: Vin de Table
+- location: France
+- alcohol: 12.46
+- sugar: 0
+- price: 1050 UAH
+
+* Clos du Tue-Boeuf Vin Rosé 2022
+:PROPERTIES:
+:ID:                     f86e745d-8d60-4e66-8b32-a0211d736161
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-03-50-IMG-7948.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/2c8508da-073d-4c8b-984d-c6589ecf5bd6][Vin Rosé]]
+- vintage: 2022
+- grapes: Gamay, Pineau d'Aunis
+- appellation: Vin de Table
+- location: France
+- alcohol: 13.63
+- sugar: 1.46
+- price: 690 UAH
+
+* Clos du Tue-Boeuf Vin Rouge 2022
+:PROPERTIES:
+:ID:                     b8fde916-265d-49ea-bc34-005c41cf0fe4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-05-06-IMG-7951.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/3d19c153-8338-4879-9f86-882b312f6ea4][Vin Rouge]]
+- vintage: 2022
+- grapes: Gamay, Malbec
+- appellation: Vin de Table
+- location: France
+- alcohol: 11.97
+- sugar: 0.25
+- price: 690 UAH
+
+* Clos du Tue-Boeuf Vin Rouge 2021
+:PROPERTIES:
+:ID:                     b4011f74-f2a9-4e69-a3c2-baf09a9e5007
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-05-59-IMG-7953.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/55f9514b-ac4d-4fd2-8df7-40aa9d077334][Vin Rouge]]
+- vintage: 2021
+- grapes: Gamay, Cariñena
+- appellation: Vin de Table
+- location: France
+- alcohol: 12.34
+- sugar: 0.25
+- price: 690 UAH
+
+* Clos du Tue-Boeuf Cheverny Rouillon 2022
+:PROPERTIES:
+:ID:                     a306ec78-cb76-40f7-9fe3-48e5a9184e11
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-07-25-IMG-7956.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/a52d80dc-df32-4f09-aab8-a282a7db1b40][Cheverny Rouillon]]
+- vintage: 2022
+- grapes: Gamay, Pinot Noir
+- appellation: Cheverny AOC
+- location: Loire, France
+- alcohol: 12.72
+- sugar: 0.36
+- price: 810 UAH
+
+* Clos du Tue-Boeuf Grenache 2021
+:PROPERTIES:
+:ID:                     24d77f97-a0f3-49ce-ac5a-7344569a4232
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-27-clos-du-tue-boeuf/2023-06-27-23-08-31-IMG-7958.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/70da4cb5-6bf9-4fba-b3c1-8c495aa4be57][Grenache]]
+- vintage: 2021
+- grapes: Grenache
+- appellation: Vin de Table
+- location: France
+- alcohol: 13.63
+- sugar: 0
+- price: 830 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     748e68e4-928c-4387-ab18-2dedae8eddc5
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|            | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 | Wine #9 |
+|------------+---------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch  |  *4.10* |    4.00 |    3.70 |    4.00 |    3.60 |    3.70 |    3.70 |    3.90 |    3.80 |
+| Mykola T   |    4.00 |    4.10 |    3.90 |    4.00 |    3.60 |    3.70 |    3.80 |  *4.10* |    3.80 |
+| Anna I     |    4.00 |  *4.10* |    3.90 |    3.90 |    3.60 |    3.60 |    3.70 |    4.00 |    4.00 |
+| Elena M    |  *4.10* |    4.00 |    3.80 |    4.10 |    3.70 |    4.10 |    3.80 |    4.10 |    3.70 |
+| David H    |    3.80 |    3.80 |    4.10 |    4.10 |    3.90 |  *4.20* |    3.90 |    4.00 |    4.00 |
+| Serhii H   |    4.10 |  *4.20* |    3.70 |    4.00 |    3.80 |    3.80 |    3.90 |    3.80 |    3.90 |
+| Lena       |    3.70 |    3.60 |    3.60 |  *3.80* |    3.60 |    3.90 |    3.60 |    3.90 |    3.70 |
+| Valentyn   |    3.90 |    4.10 |  *4.00* |    4.10 |    3.60 |    4.00 |    3.70 |    3.60 |    3.50 |
+| Oleksandra |    3.90 |  *4.10* |    3.60 |    4.00 |    3.20 |    3.30 |    3.30 |    3.40 |    3.40 |
+| Ehor       |    4.00 |    3.90 |    3.80 |  *4.50* |    3.60 |    4.20 |    3.80 |    3.80 |    3.50 |
+| Vova U     |  *4.20* |    4.00 |    3.80 |    3.90 |    3.70 |    3.90 |    3.80 |    4.00 |    3.60 |
+| Ivan Om    |  *4.40* |    4.00 |    3.80 |    4.20 |    3.70 |    4.00 |    3.80 |    3.80 |    3.90 |
+| Boris      |    4.00 |    4.00 |    3.80 |  *4.20* |    3.70 |    3.80 |    3.60 |    4.00 |    3.80 |
+

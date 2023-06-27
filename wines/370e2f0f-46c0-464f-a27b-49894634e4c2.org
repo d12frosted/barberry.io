@@ -153,5 +153,11 @@ Nice, juicy and easy going wine. Wild strawberry, sour cherry, marzipan, white p
     <section class="h text-bolder">Olla Blanc - 2021</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/171c39e5-a699-44d2-9f16-56e5a8a4b33e.html">
+    <img class="flex-bottle" src="/images/17/1c39e5-a699-44d2-9f16-56e5a8a4b33e/2023-06-27-23-00-31-IMG-7944@512.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Cheverny Frileuse - 2018</section>
+  </a>
+
 </div>
 #+end_export

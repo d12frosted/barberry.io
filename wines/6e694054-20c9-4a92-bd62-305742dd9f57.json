@@ -1,0 +1,34 @@
+{
+  "id": "6e694054-20c9-4a92-bd62-305742dd9f57",
+  "name": "Le Brin de Chèvre Menu Pineau",
+  "full-name": "Clos du Tue-Boeuf Le Brin de Chèvre Menu Pineau 2018",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "89cc0697-3ab8-414d-a889-62a0bb87474f",
+      "name": "Arbois Blanc"
+    }
+  ],
+  "alcohol": "12.46",
+  "sugar": "0",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6e/694054-20c9-4a92-bd62-305742dd9f57/2023-06-27-23-02-53-IMG-7946.webp",
+  "rating": "NA"
+}

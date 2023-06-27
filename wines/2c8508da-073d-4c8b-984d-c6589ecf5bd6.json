@@ -1,0 +1,38 @@
+{
+  "id": "2c8508da-073d-4c8b-984d-c6589ecf5bd6",
+  "name": "Vin Rosé",
+  "full-name": "Clos du Tue-Boeuf Vin Rosé 2022",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "72e7ddaa-237f-4ce6-ab42-e758afc80fd7",
+      "name": "Pineau d'Aunis"
+    }
+  ],
+  "alcohol": "13.63",
+  "sugar": "1.46",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/2c/8508da-073d-4c8b-984d-c6589ecf5bd6/2023-06-27-23-03-50-IMG-7948.webp",
+  "rating": "NA"
+}

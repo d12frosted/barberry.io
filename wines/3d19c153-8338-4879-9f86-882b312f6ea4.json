@@ -1,0 +1,38 @@
+{
+  "id": "3d19c153-8338-4879-9f86-882b312f6ea4",
+  "name": "Vin Rouge",
+  "full-name": "Clos du Tue-Boeuf Vin Rouge 2022",
+  "producer": {
+    "id": "a738ad3a-78a7-4dce-80b3-d8000dbf805a",
+    "name": "Clos du Tue-Boeuf"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    }
+  ],
+  "alcohol": "11.97",
+  "sugar": "0.25",
+  "prices": [
+    "690 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3d/19c153-8338-4879-9f86-882b312f6ea4/2023-06-27-23-05-06-IMG-7951.webp",
+  "rating": "NA"
+}
