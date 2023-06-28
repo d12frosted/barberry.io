@@ -129,5 +129,29 @@ Wine #9 on [[barberry:/posts/2023-06-27-clos-du-tue-boeuf][Clos du Tue-Boeuf Par
     <section class="h text-bolder">Cheverny Rouillon - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/2e4d2e9f-a84e-403f-8e90-dc40f63ffd31.html">
+    <img class="flex-bottle" src="/images/2e/4d2e9f-a84e-403f-8e90-dc40f63ffd31/2023-06-28-08-04-43-62CAFD09-AFD8-4842-9ED6-EAF451645C64-1-102-o@512.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Volnay 1er Cru Santenots - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a02196dc-8a44-4bc5-91e0-7a51816b9971.html">
+    <img class="flex-bottle" src="/images/a0/2196dc-8a44-4bc5-91e0-7a51816b9971/2023-06-28-08-09-12-147AFA86-0C74-4304-A8B6-9001DBB3230A-1-102-o@512.webp"></img>
+    <section class="h">Les Cailloux du Paradis</section>
+    <section class="h text-bolder">Le Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c5974f33-5917-4a82-b4b7-c130a686a175.html">
+    <img class="flex-bottle" src="/images/c5/974f33-5917-4a82-b4b7-c130a686a175/2023-06-28-08-14-25-F97A4FEE-DEBC-493B-BC80-6B017A883CD0-1-102-o@512.webp"></img>
+    <section class="h">Tillingham</section>
+    <section class="h text-bolder">Pinot Blanc - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f039200b-4c3e-4e54-a208-25b05a70957a.html">
+    <img class="flex-bottle" src="/images/f0/39200b-4c3e-4e54-a208-25b05a70957a/2023-06-28-08-03-31-D748C6D1-9EAC-4073-9675-1BA6B295B404-1-105-c@512.webp"></img>
+    <section class="h">Domaine de la Cras</section>
+    <section class="h text-bolder">Bourgogne Coteaux de Dijon Rouge - 2020</section>
+  </a>
+
 </div>
 #+end_export

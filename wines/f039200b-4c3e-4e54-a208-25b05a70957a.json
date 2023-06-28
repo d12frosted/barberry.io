@@ -1,7 +1,7 @@
 {
   "id": "f039200b-4c3e-4e54-a208-25b05a70957a",
-  "name": "Bourgogne Coteaux de Dijon",
-  "full-name": "Domaine de la Cras Bourgogne Coteaux de Dijon 2020",
+  "name": "Bourgogne Coteaux de Dijon Rouge",
+  "full-name": "Domaine de la Cras Bourgogne Coteaux de Dijon Rouge 2020",
   "producer": {
     "id": "74afa945-c006-4b15-bfab-a4694c5eda43",
     "name": "Domaine de la Cras"
@@ -28,7 +28,7 @@
   "prices": [
     "2707 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/f0/39200b-4c3e-4e54-a208-25b05a70957a/2023-06-28-08-03-31-D748C6D1-9EAC-4073-9675-1BA6B295B404-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.0"
 }
