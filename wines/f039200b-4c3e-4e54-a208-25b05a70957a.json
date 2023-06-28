@@ -1,0 +1,34 @@
+{
+  "id": "f039200b-4c3e-4e54-a208-25b05a70957a",
+  "name": "Bourgogne Coteaux de Dijon",
+  "full-name": "Domaine de la Cras Bourgogne Coteaux de Dijon 2020",
+  "producer": {
+    "id": "74afa945-c006-4b15-bfab-a4694c5eda43",
+    "name": "Domaine de la Cras"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.3",
+  "prices": [
+    "2707 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f0/39200b-4c3e-4e54-a208-25b05a70957a/2023-06-28-08-03-31-D748C6D1-9EAC-4073-9675-1BA6B295B404-1-105-c.webp",
+  "rating": "NA"
+}

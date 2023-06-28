@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f039200b-4c3e-4e54-a208-25b05a70957a.html">
+    <img class="flex-bottle" src="/images/f0/39200b-4c3e-4e54-a208-25b05a70957a/2023-06-28-08-03-31-D748C6D1-9EAC-4073-9675-1BA6B295B404-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Bourgogne Coteaux de Dijon - 2020</section>
+  </a>
+
+</div>
+#+end_export

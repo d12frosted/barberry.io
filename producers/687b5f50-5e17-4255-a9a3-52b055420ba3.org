@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c5974f33-5917-4a82-b4b7-c130a686a175.html">
+    <img class="flex-bottle" src="/images/c5/974f33-5917-4a82-b4b7-c130a686a175/2023-06-28-08-14-25-F97A4FEE-DEBC-493B-BC80-6B017A883CD0-1-102-o@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pinot Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

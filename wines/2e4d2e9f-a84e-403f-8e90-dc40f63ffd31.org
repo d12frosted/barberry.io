@@ -1,0 +1,41 @@
+#+attr_html: :class wine-main-image
+[[file:/images/2e/4d2e9f-a84e-403f-8e90-dc40f63ffd31/2023-06-28-08-04-43-62CAFD09-AFD8-4842-9ED6-EAF451645C64-1-102-o@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/163248a9-c9bc-498a-9107-0ab002f2ea9f][François de Nicolay]]
+- Vintage :: 2020
+- Location :: France, Volnay Santenots AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13.5
+- Sugar :: 1.2
+- Price :: 3700 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+François is one of the owners of [[barberry:/producers/5122a11b-3fed-4018-a965-37335da7785e][Chandon de Briailles]]. In 20?? he started his own négoce project, which sources organic and biodynamic fruit from trusted and reputable growers who are either certified biodynamic or are in the process. François is known for his selective approach when purchasing grapes. Clusters are carefully inspected during veraison and harvest to ensure that they are healthy enough to produce wine without the use of additives.
+
+Vinification and élevage take place in his ancient cellar-cave in Savigny-lès-Beaune and is non-interventionist in every aspect - no pumpovers, no filtration, and no sulfur additions.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
+    <img class="flex-bottle" src="/images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c@512.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Savigny-les-Beaune Premier Cru - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
+    <img class="flex-bottle" src="/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c@512.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Ladoix Les Briquottes - 2017</section>
+  </a>
+
+</div>
+#+end_export
