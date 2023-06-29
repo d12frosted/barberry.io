@@ -23,37 +23,43 @@ Gorgeous wine. A beautiful bouquet of wet chalk, white flowers, apple seeds, lem
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
+  <a class="flex-item flex-item-left" href="/wines/4ee4bd99-7f04-4c20-a993-5de186c6b070.html">
+    <img class="flex-bottle" src="/images/4e/e4bd99-7f04-4c20-a993-5de186c6b070/2023-06-23-17-05-10-734ABD8E-645B-488B-994B-F194C2332068-1-105-c@512.webp"></img>
+    <section class="h">Agrapart</section>
+    <section class="h text-bolder">7 Crus (d2023) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6f9aaefd-a731-4fb3-8878-977fae2064b7.html">
     <img class="flex-bottle" src="/images/6f/9aaefd-a731-4fb3-8878-977fae2064b7/2021-08-18-10-39-17-EB1D80EC-E0BF-42D6-990B-C549E843B9BE-1-105-c@512.webp"></img>
     <section class="h">Agrapart</section>
     <section class="h text-bolder">Terroirs (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bfa42d1b-04b4-4661-90ec-b75ddcd866e0.html">
+  <a class="flex-item flex-item-left" href="/wines/bfa42d1b-04b4-4661-90ec-b75ddcd866e0.html">
     <img class="flex-bottle" src="/images/bf/a42d1b-04b4-4661-90ec-b75ddcd866e0/2023-02-19-11-58-34-02CF2597-B43F-456C-A75E-528200451976-1-105-c@512.webp"></img>
     <section class="h">Agrapart</section>
     <section class="h text-bolder">7 Crus (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
+  <a class="flex-item flex-item-right" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
     <img class="flex-bottle" src="/images/14/9668d8-4c02-44c0-8955-8d6028e35c92/2023-05-03-21-10-46-6C56FF35-3CFA-4F1B-B967-CD31D7BCE010-1-105-c@512.webp"></img>
     <section class="h">Mtsvane Estate</section>
     <section class="h text-bolder">Pet-Nat Brut Tsolikauri-Tsitska - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
+  <a class="flex-item flex-item-left" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
     <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-06-20-17-54-33-IMG-7877@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/aa0380c9-822f-444c-a638-9b9dceb102a7.html">
+  <a class="flex-item flex-item-right" href="/wines/aa0380c9-822f-444c-a638-9b9dceb102a7.html">
     <img class="flex-bottle" src="/images/aa/0380c9-822f-444c-a638-9b9dceb102a7/2023-05-03-20-10-55-8C1FC947-8713-45B6-97BB-F126CEECFB60-1-105-c@512.webp"></img>
     <section class="h">Alanna Lagamba</section>
     <section class="h text-bolder">Frauen Power Rosé - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca.html">
+  <a class="flex-item flex-item-left" href="/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca.html">
     <img class="flex-bottle" src="/images/f0/d79447-307b-4b8f-af51-79bfb9aa6fca/2023-02-21-07-12-55-E4AA6046-C491-473E-8C53-CF8097D8CBBB-1-105-c@512.webp"></img>
     <section class="h">Lamiable</section>
     <section class="h text-bolder">Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020) - NV</section>

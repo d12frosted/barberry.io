@@ -1,0 +1,36 @@
+More than a year has passed since the last [[barberry:/posts/2022-09-15-site-updates][Site Updates]] post. Over this time not much has happened, at least visible to readers. Most of the changes were related to my workflows. Anyways, there are things to share with you.
+
+* Convives
+:PROPERTIES:
+:ID:                     3217ffd1-6299-4a59-9859-913330d3b1f9
+:END:
+
+Like most of the Barberry Garden related projects, this site would not be fully possible without you, my fellow convives. As some of you already know, upon request I can create a separate page for you, so you can always revive in your memory what we tasted together, when and where. Here are some improvements for you.
+
+** Link to event
+:PROPERTIES:
+:ID:                     fd85378a-4dc8-41e6-8833-cba3083755ab
+:END:
+
+If we tasted a wine on some event, now the page contains a link to it.
+
+#+attr_html: :class img-half img-float-left :alt before
+[[file:/images/2023-07-02-site-updates/2023-06-28-13-37-14-2023-06-28-13-37.webp]]
+
+#+attr_html: :class img-half img-float-right :alt after
+[[file:/images/2023-07-02-site-updates/2023-06-28-13-55-28-2023-06-28-13-55.webp]]
+
+#+begin_export html
+<br class="clear-both">
+#+end_export
+
+* Miscellaneous
+:PROPERTIES:
+:ID:                     5a30fdf1-d2d1-449c-aaeb-836c588cb54b
+:END:
+
+1. Better support of bonus bottles on our events. Previously I was just mentioning them, but due to scoring limitations and stats calculations it was not possible to actually make them part of the event. You will notice this change in the stats that I share early[fn:1].
+2. Bound height of the wine image on wide screens. Previously some of the images occupied more screen space thus overlapping with other elements (namely, 'related wines' section). It looked crappy. Now it doesn't.
+3. The main font was changed. Again. We just need a font that supports wide range of code points (accents, Greek letters etc.) and various weights.
+
+[fn:1] Who knows, maybe I will share a half-year stats soon.

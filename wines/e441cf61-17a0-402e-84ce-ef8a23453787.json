@@ -1,0 +1,38 @@
+{
+  "id": "e441cf61-17a0-402e-84ce-ef8a23453787",
+  "name": "Brut Tradition",
+  "full-name": "Hubert Favier Brut Tradition NV",
+  "producer": {
+    "id": "786068f3-c3bc-49d5-9f38-f718e0ea8d2e",
+    "name": "Hubert Favier"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "10.5",
+  "prices": [
+    "1100 UAH"
+  ],
+  "available": 0,
+  "image": "images/e4/41cf61-17a0-402e-84ce-ef8a23453787/2020-02-09-13-11-03-975F8E78-FAE5-4CD7-9701-8FFC02FAA11B-1-105-c.webp",
+  "rating": "8.0"
+}

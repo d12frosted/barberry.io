@@ -28,13 +28,13 @@ Wines:
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|                |  amean |   sdev |   price |      QPR |
-|----------------+--------+--------+---------+----------|
-| Fleury         |   4.16 | 0.0104 | 1836.00 |   1.6681 |
-| Clos Lentiscus |   3.92 | 0.0256 |  772.00 |   2.7579 |
-| Serragghia     |   4.42 | 0.0416 | 3750.00 |   1.2278 |
-| Ganevat        | *4.52* | 0.0696 | 3704.00 |   1.4595 |
-| Viola          |   4.12 | 0.0136 |  980.00 | *2.9388* |
+|                |    amean |   sdev |   price |      QPR |
+|----------------+----------+--------+---------+----------|
+| Fleury         |   4.1600 | 0.0104 | 1836.00 |   1.6681 |
+| Clos Lentiscus |   3.9200 | 0.0256 |  772.00 |   2.7579 |
+| Serragghia     |   4.4200 | 0.0416 | 3750.00 |   1.2278 |
+| Ganevat        | *4.5200* | 0.0696 | 3704.00 |   1.4595 |
+| Viola          |   4.1200 | 0.0136 |  980.00 | *2.9388* |
 
 How to read this table:
 
