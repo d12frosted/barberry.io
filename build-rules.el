@@ -526,6 +526,9 @@ Access to full ITEMS for related wines."
               " total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.\n\n")
+      (insert "#+begin_export html\n"
+              "<div class=\"rating-list\">\n"
+              "#+end_export")
       (if wines
           (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
             (insert "** " (format-time-string "%A, %e %B %Y" (date-to-time (car it))) "\n\n")
@@ -536,11 +539,31 @@ Bookmark this page and use it for your own good.\n\n")
               (when-let ((event (nth 1 (car it))))
                 (insert " / " (vulpea-utils-link-make-string event)))
               (insert "\n\n")
-              (--each (cdr it)
-                (insert
-                 "- " (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note)) "\n"))
+              (--each (--sort (< (or (vulpea-note-meta-get it "order" 'number) 0)
+                                 (or (vulpea-note-meta-get other "order" 'number) 0))
+                              (cdr it))
+                (insert "- ")
+                (when-let* ((order (vulpea-note-meta-get it "order" 'number))
+                            (event (vulpea-note-meta-get it "event" 'note))
+                            (scores (brb-event-score-personal event))
+                            (scores (--find
+                                     (string-equal (plist-get it :convive)
+                                                   (vulpea-note-id (porg-item-item item)))
+                                     (brb-event-score-personal event))))
+                  (cond
+                   ((seq-contains-p (plist-get scores :favourites) order)
+                    (insert "❤️ "))
+                   ((seq-contains-p (plist-get scores :outcasts) order)
+                    (insert "💔 "))
+                   ;; careful, there is U+00A0 NO-BREAK SPACE on the next line
+                   (t (insert "&nbsp; ")))
+                  (insert "★ " (format "%.2f" (nth (- order 1) (plist-get scores :ratings))) " "))
+                (insert (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note)) "\n"))
               (insert "\n")))
         (insert "There are no wines we drunk together. How did you find this page?"))
+      (insert "#+begin_export html\n"
+              "</div>\n"
+              "#+end_export")
       (save-buffer))))
 
 

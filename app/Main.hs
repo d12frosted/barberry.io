@@ -257,11 +257,15 @@ embedChartJS pandoc = walkM embedChart . embedImport $ pandoc
 
 standartizeStars :: Pandoc -> Pandoc
 standartizeStars = walk $ \case
-  Str "\9733" -> star
-  Str "\9734" -> star
+  Str "\9733" -> symbol "&#xE838;"
+  Str "\9734" -> symbol "&#xE838;"
+  Str "\128148" -> symbol "&#xEAC2;"
+  Str "\10084\65039" -> symbol "&#xE87D;"
+  Str "\10084" -> symbol "&#xE87D;"
+  Str "&nbsp;" -> symbol "&nbsp;"
   i -> i
   where
-    star = Span ("", ["material-symbols-outlined"], []) [RawInline "html" "&#xE838;"]
+    symbol x = Span ("", ["material-symbols-outlined"], []) [RawInline "html" x]
 
 convertBarberryLinks :: Pandoc -> Compiler Pandoc
 convertBarberryLinks = walkM $ \case
