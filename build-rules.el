@@ -535,11 +535,26 @@ Bookmark this page and use it for your own good.\n\n")
                "  - "
                (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note))
                (when-let ((location (vulpea-note-meta-get it "location" 'note)))
-                 (concat
-                  " "
-                  "@@html:<span style=\"color: var(--faded);\">@@"
-                  "@" (vulpea-note-title location)
-                  "@@html:</span>@@"))
+                 (if-let* ((event (vulpea-note-meta-get it "event" 'note))
+                           (item (gethash (vulpea-note-id event) items))
+                           (file (porg-item-target-rel item))
+                           (path (concat "../" (s-chop-suffix ".org" file) ".html")))
+                     (concat
+                      " "
+                      "@@html:<span class=\"rating-list-location\">@@"
+                      "@" (vulpea-note-title location)
+                      "@@html:</span>@@"
+                      "@@html:<span class=\"rating-list-location-sep\">@@"
+                      "/"
+                      "@@html:</span>@@"
+                      "@@html:<a class=\"rating-list-event\" href=\"" path "\"" ">@@"
+                      (vulpea-note-title event)
+                      "@@html:</a>@@")
+                   (concat
+                      " "
+                      "@@html:<span class=\"rating-list-location\">@@"
+                      "@" (vulpea-note-title location)
+                      "@@html:</span>@@")))
                "\n"))
             (insert "\n"))
         (insert "There are no wines we drunk together. How did you find this page?"))

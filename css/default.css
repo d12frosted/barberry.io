@@ -459,6 +459,20 @@ ul.rating-list {
   list-style: none;
 }
 
+.rating-list-location {
+  font-weight: lighter;
+  color: var(--faded);
+}
+
+.rating-list-location-sep {
+  font-weight: lighter;
+  color: var(--faded);
+}
+
+.rating-list-event {
+  font-weight: lighter;
+}
+
 .bootstrap-table table.table-hover tbody tr:hover {
   background: var(--highlight-default) !important;
 }
