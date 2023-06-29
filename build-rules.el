@@ -528,35 +528,18 @@ Access to full ITEMS for related wines."
 Bookmark this page and use it for your own good.\n\n")
       (if wines
           (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
-            (insert (format "- %s :: \n"
-                            (format-time-string "%A, %e %B %Y" (date-to-time (car it)))))
-            (--each (cdr it)
-              (insert
-               "  - "
-               (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note))
-               (when-let ((location (vulpea-note-meta-get it "location" 'note)))
-                 (if-let* ((event (vulpea-note-meta-get it "event" 'note))
-                           (item (gethash (vulpea-note-id event) items))
-                           (file (porg-item-target-rel item))
-                           (path (concat "../" (s-chop-suffix ".org" file) ".html")))
-                     (concat
-                      " "
-                      "@@html:<span class=\"rating-list-location\">@@"
-                      "@" (vulpea-note-title location)
-                      "@@html:</span>@@"
-                      "@@html:<span class=\"rating-list-location-sep\">@@"
-                      "/"
-                      "@@html:</span>@@"
-                      "@@html:<a class=\"rating-list-event\" href=\"" path "\"" ">@@"
-                      (vulpea-note-title event)
-                      "@@html:</a>@@")
-                   (concat
-                      " "
-                      "@@html:<span class=\"rating-list-location\">@@"
-                      "@" (vulpea-note-title location)
-                      "@@html:</span>@@")))
-               "\n"))
-            (insert "\n"))
+            (insert "** " (format-time-string "%A, %e %B %Y" (date-to-time (car it))) "\n\n")
+            (--each (-group-by (lambda (rating) (list (vulpea-note-meta-get rating "location" 'note)
+                                                      (vulpea-note-meta-get rating "event" 'note)))
+                               (cdr it))
+              (insert "**** @" (vulpea-note-title (nth 0 (car it))))
+              (when-let ((event (nth 1 (car it))))
+                (insert " / " (vulpea-utils-link-make-string event)))
+              (insert "\n\n")
+              (--each (cdr it)
+                (insert
+                 "- " (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note)) "\n"))
+              (insert "\n")))
         (insert "There are no wines we drunk together. How did you find this page?"))
       (save-buffer))))
 
