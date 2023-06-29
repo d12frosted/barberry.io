@@ -1129,8 +1129,10 @@ init file."
 
   (porg-compiler
    :name "convive"
-   :match (-rpartial #'porg-rule-output-that :type "note"
-                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/convive"))
+   :match (-rpartial #'porg-rule-output-that
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/convive")
+                     :type "note"
+                     )
    :hash #'porg-sha1sum
    :build (brb-make-publish :copy-fn #'brb-build-convive)
    :clean #'brb-delete)
