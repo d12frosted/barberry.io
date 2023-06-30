@@ -1,10 +1,22 @@
-Hello, fellow convive! This page contains a list of wines (233 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (240 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Wednesday, 28 June 2023
+
+*** @Andrii Sierkov / [[barberry:/posts/2023-06-28-home-party][Home Party Vol. 4]]
+
+- ★ 3.90 [[barberry:/wines/614edb03-a18c-47f1-90a7-7fc7cde36253][Beykush Beresagne Brut Rosé Méthode Classique 2015]]
+- ★ 4.10 [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+- ❤️ 4.35 [[barberry:/wines/bac13ff4-c7e4-420d-80f8-14097174a66b][Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008]]
+- ★ 4.30 [[barberry:/wines/d448e69a-4024-46d3-96d1-d1e93c4c55e7][Domaine Bohn Crémant d'Alsace Extra Brut 2013]]
+- ★ 4.20 [[barberry:/wines/dc59a9ca-0a54-47f2-bb71-5711e22bf51a][Lanson Noble Cuvée Brut 2002]]
+- &nbsp; &emptyscore; [[barberry:/wines/6a658665-80b5-452d-883c-1861a53507b2][Quinta do Vallado Porto 20 Years Old Tawny NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/16183c96-fc06-4f00-a892-0394eef58580][Taylor's Porto 10 Years Old Tawny NV]]
 
 ** Tuesday,  6 June 2023
 
