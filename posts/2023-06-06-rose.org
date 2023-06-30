@@ -223,19 +223,19 @@ Luckily, I've got my hands on a bottle that was disgorged in December 2019. The 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------------+---------+---------+---------+---------+---------+---------+---------|
-| Maryna M    |  *4.50* |    4.00 |    3.50 |    3.50 |    3.30 |    4.40 |    4.40 |
-| Oleksandr R |    4.20 |    4.00 |  *4.20* |    4.40 |    4.40 |    4.00 |    4.10 |
-| Daria B     |    3.80 |    3.70 |    4.00 |    4.00 |  *4.20* |    3.80 |    4.00 |
-| Julie B     |    4.00 |    3.80 |    4.10 |    3.90 |  *4.30* |    4.20 |    3.90 |
-| Mariia S    |    3.90 |    3.80 |  *4.10* |    3.90 |    4.00 |    3.70 |    4.10 |
-| Andrii S    |    3.80 |    3.80 |    4.20 |    4.20 |  *4.40* |    4.30 |    4.20 |
-| Kristina S  |    4.50 |    4.50 |    4.00 |    3.70 |    3.90 |    4.40 |  *4.70* |
-| Anya I      |    3.90 |    3.90 |    4.00 |    4.00 |    4.10 |    4.00 |  *4.20* |
-| Mykola T    |    3.80 |    3.70 |    4.10 |    4.10 |    4.20 |    4.00 |  *4.30* |
-| Artem O     |    3.90 |    4.00 |    4.40 |    4.00 |    3.60 |    4.30 |  *4.50* |
-| Boris B     |    3.80 |    3.70 |    4.20 |    4.20 |    4.30 |  *4.10* |    4.20 |
+|                                                                 | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-----------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------|
+| [[barberry:/convives/70a1789d-fae0-4572-a137-f5f6f9757832][Maryna Mestulova]]   |  *4.50* |    4.00 |    3.50 |    3.50 |    3.30 |    4.40 |    4.40 |
+| Oleksandr Riabtsev |    4.20 |    4.00 |  *4.20* |    4.40 |    4.40 |    4.00 |    4.10 |
+| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]       |    3.80 |    3.70 |    4.00 |    4.00 |  *4.20* |    3.80 |    4.00 |
+| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]       |    4.00 |    3.80 |    4.10 |    3.90 |  *4.30* |    4.20 |    3.90 |
+| [[barberry:/convives/68dee285-38d0-4d6e-a63b-46f43a0c0996][Mariia Sirychenko]]  |    3.90 |    3.80 |  *4.10* |    3.90 |    4.00 |    3.70 |    4.10 |
+| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]     |    3.80 |    3.80 |    4.20 |    4.20 |  *4.40* |    4.30 |    4.20 |
+| [[barberry:/convives/81006136-2e24-4530-a2d8-b88e9fa5b7d9][Kristina Simoroz]]   |    4.50 |    4.50 |    4.00 |    3.70 |    3.90 |    4.40 |  *4.70* |
+| Anya Ivanova       |    3.90 |    3.90 |    4.00 |    4.00 |    4.10 |    4.00 |  *4.20* |
+| Mykola Turskyi     |    3.80 |    3.70 |    4.10 |    4.10 |    4.20 |    4.00 |  *4.30* |
+| [[barberry:/convives/a57744e6-9b66-4144-8809-597409574459][Artem Ohanjanyan]]   |    3.90 |    4.00 |    4.40 |    4.00 |    3.60 |    4.30 |  *4.50* |
+| Boris Buliga       |    3.80 |    3.70 |    4.20 |    4.20 |    4.30 |  *4.10* |    4.20 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

@@ -191,17 +191,17 @@ Produced from a 100% Savagnin, this wine is made using the "ouillé" method. Thi
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Welcome |
-|--------------+---------+---------+---------+---------+---------+---------+---------|
-| Oleksandr R  |    4.00 |    3.90 |  *4.50* |    4.10 |    4.30 |  +3.80+ | -       |
-| Rostyslav Ya |  *4.00* |    3.80 |    4.10 |    3.80 |    4.00 |  +3.60+ | -       |
-| Anna Kh      |    3.80 |    3.50 |  *4.10* |    3.60 |    3.50 |  +3.80+ | -       |
-| Elvira K     |    3.90 |    4.00 |    4.20 |    4.00 |    3.90 |  *4.00* | -       |
-| Oleksandr Ya |  *4.10* |    4.00 |    3.80 |  +3.80+ |    3.90 |    3.80 | -       |
-| Yaroslav M   |    4.00 |  +3.90+ |    4.20 |    4.20 |    4.50 |  *4.70* | -       |
-| Maryna Yu    |    4.30 |    4.10 |    4.70 |    4.60 |  +4.20+ |  *4.90* | -       |
-| Daria B      |    4.00 |    4.00 |    4.20 |    3.90 |    4.00 |  *4.30* | -       |
-| Boris B      |    4.00 |  *4.20* |    4.10 |  +4.00+ |    3.90 |    4.30 | -       |
+|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Welcome |
+|------------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------|
+| Oleksandr Riabtsev  |    4.00 |    3.90 |  *4.50* |    4.10 |    4.30 |  +3.80+ | -       |
+| Rostyslav Yadelskyi |  *4.00* |    3.80 |    4.10 |    3.80 |    4.00 |  +3.60+ | -       |
+| Anna Khuda          |    3.80 |    3.50 |  *4.10* |    3.60 |    3.50 |  +3.80+ | -       |
+| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]    |    3.90 |    4.00 |    4.20 |    4.00 |    3.90 |  *4.00* | -       |
+| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]]   |  *4.10* |    4.00 |    3.80 |  +3.80+ |    3.90 |    3.80 | -       |
+| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]   |    4.00 |  +3.90+ |    4.20 |    4.20 |    4.50 |  *4.70* | -       |
+| Maryna Yukhumets    |    4.30 |    4.10 |    4.70 |    4.60 |  +4.20+ |  *4.90* | -       |
+| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]        |    4.00 |    4.00 |    4.20 |    3.90 |    4.00 |  *4.30* | -       |
+| Boris Buliga        |    4.00 |  *4.20* |    4.10 |  +4.00+ |    3.90 |    4.30 | -       |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

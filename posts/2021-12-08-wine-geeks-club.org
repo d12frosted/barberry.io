@@ -7,16 +7,16 @@
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|            | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
-|------------+---------+---------+---------+---------+---------+---------|
-| Iryna      |    5.00 |    5.00 |    4.00 |    5.00 |    4.70 |    4.70 |
-| Konstantin |    4.50 |    5.00 |    4.00 |    5.00 |    4.80 |    4.70 |
-| Tanya      |    4.50 |    4.50 |    3.50 |    5.00 |    4.70 |    4.30 |
-| Vasyl      |    4.30 |    4.70 |    3.80 |    4.30 |    4.60 |    4.80 |
-| Julia      |    3.50 |    5.00 |    4.50 |    3.50 |    5.00 |    4.20 |
-| Vlad       |    4.20 |    4.00 |    5.00 |    3.60 |    5.00 |    4.40 |
-| Boris      |    4.00 |    4.20 |    3.80 |    4.00 |    4.50 |    4.50 |
-| Vasyl      |    4.50 |    4.80 |    4.30 |    4.90 |    4.80 |    4.80 |
+|                                                                   | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|-------------------------------------------------------------------+---------+---------+---------+---------+---------+---------|
+| Iryna Pakholkina     |    5.00 |    5.00 |    4.00 |    5.00 |    4.70 |    4.70 |
+| Kostiantyn Pakholkin |    4.50 |    5.00 |    4.00 |    5.00 |    4.80 |    4.70 |
+| Tanya                                                             |    4.50 |    4.50 |    3.50 |    5.00 |    4.70 |    4.30 |
+| [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]]   |    4.30 |    4.70 |    3.80 |    4.30 |    4.60 |    4.80 |
+| [[barberry:/convives/2751b82d-b373-4029-9fde-faa10757c732][Julia Dribko]]         |    3.50 |    5.00 |    4.50 |    3.50 |    5.00 |    4.20 |
+| [[barberry:/convives/e7a01036-a446-4ea1-ab52-1262a1398bf4][Vladyslav Polik]]      |    4.20 |    4.00 |    5.00 |    3.60 |    5.00 |    4.40 |
+| Boris Buliga         |    4.00 |    4.20 |    3.80 |    4.00 |    4.50 |    4.50 |
+| [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]]   |    4.50 |    4.80 |    4.30 |    4.90 |    4.80 |    4.80 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

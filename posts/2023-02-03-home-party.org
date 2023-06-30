@@ -145,14 +145,14 @@ Wines:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|--------------+---------+---------+---------+---------+---------+---------+---------|
-| Yulia S      |    3.60 |    3.50 |  +2.00+ |  *3.80* |    3.70 | 4.00    |    3.70 |
-| Oleksandr Y  |    3.80 |    3.80 |    3.50 |  +3.70+ |  *4.00* | 4.00    |    3.90 |
-| Elvira K     |    3.80 |    3.90 |    3.50 |    3.80 |    4.10 | *4.20*  |    4.00 |
-| Viktoriya Zh |    4.00 |    4.10 |  +2.00+ |    3.90 |    4.20 | *4.20*  |    3.90 |
-| Andrii S     |    3.90 |    4.20 |  +2.50+ |    3.90 |    4.20 | *4.40*  |    4.30 |
-| Boris B      |    3.80 |    3.80 |    2.50 |    4.00 |    4.00 | *4.50*  |    4.00 |
+|                                                                | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|----------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------|
+| Yuliia Silchenko  |    3.60 |    3.50 |  +2.00+ |  *3.80* |    3.70 | 4.00    |    3.70 |
+| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]] |    3.80 |    3.80 |    3.50 |  +3.70+ |  *4.00* | 4.00    |    3.90 |
+| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]  |    3.80 |    3.90 |    3.50 |    3.80 |    4.10 | *4.20*  |    4.00 |
+| [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]] |    4.00 |    4.10 |  +2.00+ |    3.90 |    4.20 | *4.20*  |    3.90 |
+| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]    |    3.90 |    4.20 |  +2.50+ |    3.90 |    4.20 | *4.40*  |    4.30 |
+| Boris Buliga      |    3.80 |    3.80 |    2.50 |    4.00 |    4.00 | *4.50*  |    4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

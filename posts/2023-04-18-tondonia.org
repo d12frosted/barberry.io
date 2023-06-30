@@ -50,19 +50,19 @@ It means we will taste all but two wines from López de Heredia. And while we ar
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|             | Bosconia | Cubillo | Gravonia | Blanco R | Rosado GR | Tinto R | Tinto GR | Bonus |
-|-------------+----------+---------+----------+----------+-----------+---------+----------+-------|
-| Daria B     |     4.00 |    3.80 |     4.20 |   *4.40* |      4.40 |    4.00 |     4.20 |     - |
-| Oleksandr R |     4.00 |  *4.00* |     3.90 |     4.10 |      4.10 |    3.90 |     3.80 |  3.80 |
-| Andrii S    |   +3.80+ |    3.90 |     4.35 |     4.50 |    *4.30* |    3.90 |     4.30 |  3.70 |
-| Dimitry G   |     3.70 |  *3.90* |     4.30 |     4.30 |    +3.30+ |    3.50 |     4.40 |  3.80 |
-| Elvira K    |     3.90 |    3.80 |     4.20 |   *4.30* |      4.30 |    4.00 |     4.20 |     - |
-| Oleksandr Y |     3.80 |  *3.90* |     3.90 |     3.90 |    +3.80+ |    3.90 |     3.90 |     - |
-| Vova U      |     4.10 |  +3.90+ |     4.30 |     4.40 |    *4.40* |    3.90 |     4.20 |  4.00 |
-| Diana M     |     3.80 |    3.90 |   *4.30* |     4.00 |      3.90 |  +3.70+ |     3.90 |     - |
-| Andrii U    |     4.20 |    4.10 |     4.30 |   *4.40* |      4.30 |    4.10 |   +4.00+ |  4.10 |
-| Inna S      |     3.95 |    3.80 |   +3.60+ |   *4.20* |         - |    3.70 |     3.90 |  4.10 |
-| Boris B     |     4.10 |    3.90 |     4.20 |     4.50 |      4.40 |    4.00 |     4.30 |  4.00 |
+|                                                                 | Bosconia | Cubillo | Gravonia | Blanco R | Rosado GR | Tinto R | Tinto GR | Bonus |
+|-----------------------------------------------------------------+----------+---------+----------+----------+-----------+---------+----------+-------|
+| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]       |     4.00 |    3.80 |     4.20 |   *4.40* |      4.40 |    4.00 |     4.20 |     - |
+| Oleksandr Riabtsev |     4.00 |  *4.00* |     3.90 |     4.10 |      4.10 |    3.90 |     3.80 |  3.80 |
+| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]     |   +3.80+ |    3.90 |     4.35 |     4.50 |    *4.30* |    3.90 |     4.30 |  3.70 |
+| Dimitry Grachov    |     3.70 |  *3.90* |     4.30 |     4.30 |    +3.30+ |    3.50 |     4.40 |  3.80 |
+| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]   |     3.90 |    3.80 |     4.20 |   *4.30* |      4.30 |    4.00 |     4.20 |     - |
+| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]]  |     3.80 |  *3.90* |     3.90 |     3.90 |    +3.80+ |    3.90 |     3.90 |     - |
+| [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]       |     4.10 |  +3.90+ |     4.30 |     4.40 |    *4.40* |    3.90 |     4.20 |  4.00 |
+| [[barberry:/convives/535c1389-ddc4-4e59-8d85-3dd2cf2612e2][Diana Marsh]]        |     3.80 |    3.90 |   *4.30* |     4.00 |      3.90 |  +3.70+ |     3.90 |     - |
+| Andrii Ulozhenko   |     4.20 |    4.10 |     4.30 |   *4.40* |      4.30 |    4.10 |   +4.00+ |  4.10 |
+| Inna Sakhno        |     3.95 |    3.80 |   +3.60+ |   *4.20* |         - |    3.70 |     3.90 |  4.10 |
+| Boris Buliga       |     4.10 |    3.90 |     4.20 |     4.50 |      4.40 |    4.00 |     4.30 |  4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
