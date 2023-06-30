@@ -1,10 +1,17 @@
-Hello, fellow convive! This page contains a list of wines (127 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (129 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Thursday, 29 June 2023
+
+*** @Wix Kyiv Office
+
+- &nbsp; &emptyscore; [[barberry:/wines/6ca5876f-814a-4b5c-9a3d-b41f2fdf2431][Fabrice Dodane Le Dos d'Chat G.G. 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/2875f334-852d-4a1e-9135-964683629074][Cume do Avia Rosete 2018]]
 
 ** Tuesday, 20 June 2023
 

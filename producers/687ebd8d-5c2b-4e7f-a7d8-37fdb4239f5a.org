@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/6a658665-80b5-452d-883c-1861a53507b2.html">
+    <img class="flex-bottle" src="/images/6a/658665-80b5-452d-883c-1861a53507b2/2023-06-30-12-30-37-2B58F24D-7F8F-4155-931E-8B32B0D70A1B-1-105-c@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Porto 20 Years Old Tawny - NV</section>
+  </a>
+
+</div>
+#+end_export

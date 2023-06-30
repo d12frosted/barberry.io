@@ -5,6 +5,8 @@
 3. [[barberry:/wines/bac13ff4-c7e4-420d-80f8-14097174a66b][Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008]]
 4. [[barberry:/wines/d448e69a-4024-46d3-96d1-d1e93c4c55e7][Domaine Bohn Crémant d'Alsace Extra Brut 2013]]
 5. [[barberry:/wines/dc59a9ca-0a54-47f2-bb71-5711e22bf51a][Lanson Noble Cuvée Brut 2002]]
+6. [[barberry:/wines/6a658665-80b5-452d-883c-1861a53507b2][Quinta do Vallado Porto 20 Years Old Tawny NV]] (bonus)
+7. [[barberry:/wines/16183c96-fc06-4f00-a892-0394eef58580][Taylor's Porto 10 Years Old Tawny NV]] (bonus)
 
 * Scores
 :PROPERTIES:
@@ -132,6 +134,46 @@ I am yet to provide information about this wine. And while it's a work in progre
 - alcohol: 12.5
 - sugar: 7.8
 - price: 7900 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Quinta do Vallado Porto 20 Years Old Tawny NV
+:PROPERTIES:
+:ID:                     339ef433-5bb1-432b-9a79-76e10e8155b0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-06-30-12-30-37-2B58F24D-7F8F-4155-931E-8B32B0D70A1B-1-105-c.webp]]
+
+- producer: [[barberry:/producers/687ebd8d-5c2b-4e7f-a7d8-37fdb4239f5a][Quinta do Vallado]]
+- name: [[barberry:/wines/6a658665-80b5-452d-883c-1861a53507b2][Porto 20 Years Old Tawny]]
+- vintage: NV
+- grapes: Tinta Roriz, Tinta Amarela, Tinta Barroca, Touriga Franca, Touriga Nacional
+- appellation: Porto DOC
+- location: Portugal
+- alcohol: 19.5
+- sugar: 123
+- price: 1400 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Taylor's Porto 10 Years Old Tawny NV
+:PROPERTIES:
+:ID:                     35a1dd6f-17b7-4b54-8dfe-f1fee5d53b50
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-06-30-12-33-31-94B48FB6-E5F1-46A9-B61E-17CC955C46F0-1-105-c.webp]]
+
+- producer: [[barberry:/producers/a312acfe-7852-41f5-8b73-2a5d3fc3014f][Taylor's]]
+- name: [[barberry:/wines/16183c96-fc06-4f00-a892-0394eef58580][Porto 10 Years Old Tawny]]
+- vintage: NV
+- grapes: Tinta Barroca, Touriga Nacional, Tinta Roriz, Tinto Cão, Touriga Franca
+- appellation: Porto DOC
+- location: Portugal
+- alcohol: 20
+- sugar: 110
+- price: 1250 UAH
 
 I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
 
