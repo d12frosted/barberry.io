@@ -1,0 +1,153 @@
+[[file:/images/2023-06-28-home-party/2023-06-30-09-30-51-A4711375-EDB8-4294-BF16-A2ED801ED479-1-102-a.webp]]
+
+1. [[barberry:/wines/614edb03-a18c-47f1-90a7-7fc7cde36253][Beykush Beresagne Brut Rosé Méthode Classique 2015]]
+2. [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+3. [[barberry:/wines/bac13ff4-c7e4-420d-80f8-14097174a66b][Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008]]
+4. [[barberry:/wines/d448e69a-4024-46d3-96d1-d1e93c4c55e7][Domaine Bohn Crémant d'Alsace Extra Brut 2013]]
+5. [[barberry:/wines/dc59a9ca-0a54-47f2-bb71-5711e22bf51a][Lanson Noble Cuvée Brut 2002]]
+
+* Scores
+:PROPERTIES:
+:ID:                     13e8c275-ff0f-48d6-be3d-76847e4cfb99
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   3.7614 | 0.0104 |      0.00 | 1560.00 |   1.0788 |
+| Wine #2 |   4.0212 | 0.0096 |      0.00 | 2923.00 |   0.8462 |
+| Wine #3 | *4.2108* | 0.0064 |    *3.00* | 3300.00 |   1.0026 |
+| Wine #4 |   4.1422 | 0.0184 |      2.00 | 1246.00 | *2.3834* |
+| Wine #5 |   4.1207 | 0.0056 |      0.00 | 7900.00 |   0.3646 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Beykush Beresagne Brut Rosé Méthode Classique 2015
+:PROPERTIES:
+:ID:                     9ced24e7-2925-4b8d-bbd2-f82dbc3256c3
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-06-30-09-33-52-DC0747E9-A127-4C66-8DF7-F18031698BFD-1-105-c.webp]]
+
+- producer: [[barberry:/producers/06a2adf5-5f66-47e8-9d78-41eaef001e34][Beykush]]
+- name: [[barberry:/wines/614edb03-a18c-47f1-90a7-7fc7cde36253][Beresagne Brut Rosé Méthode Classique]]
+- vintage: 2015
+- grapes: Pinot Noir, Pinot Gris, Tempranillo
+- region: Mykolaiv Oblast
+- location: Ukraine
+- alcohol: 11.5
+- sugar: N/A
+- price: 1560 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Jacquesson Cuvée 745 Grand Vin (2017) NV
+:PROPERTIES:
+:ID:                     1dd5333b-4312-4434-b077-6cad0eeecff6
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-05-26-14-45-50-IMG-7270.webp]]
+
+- producer: [[barberry:/producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca][Jacquesson]]
+- name: [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Cuvée 745 Grand Vin (2017)]]
+- vintage: NV
+- base: 2017
+- disgorged: March 2022
+- sur lie: 36 months
+- grapes: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 0.75
+- price: 2923 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008
+:PROPERTIES:
+:ID:                     02419b6a-2db5-49b2-ad9a-8454cebff56f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-02-15-09-02-08-9B189F12-2495-4596-A166-97EF48370AF0-1-105-c.webp]]
+
+- producer: [[barberry:/producers/d88861c5-a65f-4bbe-b8e0-6478d927ec4e][Pierre Gimonnet & Fils]]
+- name: [[barberry:/wines/bac13ff4-c7e4-420d-80f8-14097174a66b][Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé]]
+- vintage: 2008
+- disgorged: April 2022
+- sur lie: >120 months
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 0
+- price: 3300 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Domaine Bohn Crémant d'Alsace Extra Brut 2013
+:PROPERTIES:
+:ID:                     813c9c90-83af-44c1-bd33-56a691b7385c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-06-30-09-37-03-77A84B90-5326-4058-BF96-2807120EE2CE-1-105-c.webp]]
+
+- producer: [[barberry:/producers/3711f67e-57d8-4c45-b7e3-7824ae558c89][Domaine Bohn]]
+- name: [[barberry:/wines/d448e69a-4024-46d3-96d1-d1e93c4c55e7][Crémant d'Alsace Extra Brut]]
+- vintage: 2013
+- grapes: Chardonnay, Pinot Noir
+- appellation: Crémant d'Alsace AOC
+- location: Alsace, France
+- alcohol: 13
+- sugar: N/A
+- price: 1246 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Lanson Noble Cuvée Brut 2002
+:PROPERTIES:
+:ID:                     c5898c31-63ff-49cd-82c3-4311cec2b4a2
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-28-home-party/2023-06-30-09-39-44-083E041E-505B-4887-B3BD-AA311024F2F9-1-105-c.webp]]
+
+- producer: [[barberry:/producers/47a0b50d-dcb2-4ba6-9c5f-47ab249c4e46][Lanson]]
+- name: [[barberry:/wines/dc59a9ca-0a54-47f2-bb71-5711e22bf51a][Noble Cuvée Brut]]
+- vintage: 2002
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 7.8
+- price: 7900 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Raw Scores
+:PROPERTIES:
+:ID:                     8a918411-7f4a-4fad-b04e-f5a0dad3d7df
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------------+---------+---------+---------+---------+---------|
+| Yulia S      |    3.70 |    4.10 | *4.20*  |    4.00 |    4.10 |
+| Elvira K     |    3.80 |    3.90 | *4.20*  |    4.10 |    4.20 |
+| Viktoriya Zh |    3.80 |    3.90 | 4.10    |  *4.30* |    4.10 |
+| Andrii S     |    3.90 |    4.10 | *4.35*  |    4.30 |    4.20 |
+| Boris B      |    3.60 |    4.10 | 4.20    |  *4.00* |    4.00 |
+

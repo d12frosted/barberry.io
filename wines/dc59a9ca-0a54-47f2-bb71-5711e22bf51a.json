@@ -1,0 +1,39 @@
+{
+  "id": "dc59a9ca-0a54-47f2-bb71-5711e22bf51a",
+  "name": "Noble Cuvée Brut",
+  "full-name": "Lanson Noble Cuvée Brut 2002",
+  "producer": {
+    "id": "47a0b50d-dcb2-4ba6-9c5f-47ab249c4e46",
+    "name": "Lanson"
+  },
+  "vintage": "2002",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "7.8",
+  "prices": [
+    "5530 UAH",
+    "7900 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/dc/59a9ca-0a54-47f2-bb71-5711e22bf51a/2023-06-30-09-39-44-083E041E-505B-4887-B3BD-AA311024F2F9-1-105-c.webp",
+  "rating": "NA"
+}

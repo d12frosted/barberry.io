@@ -1,0 +1,42 @@
+{
+  "id": "614edb03-a18c-47f1-90a7-7fc7cde36253",
+  "name": "Beresagne Brut Rosé Méthode Classique",
+  "full-name": "Beykush Beresagne Brut Rosé Méthode Classique 2015",
+  "producer": {
+    "id": "06a2adf5-5f66-47e8-9d78-41eaef001e34",
+    "name": "Beykush"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "f84adf31-3b05-4e86-9a7c-183d982a4319",
+    "name": "Ukraine"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "96e999e0-5f38-4331-b608-776578fe1ec9",
+      "name": "Tempranillo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "NA",
+  "prices": [
+    "1560 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/61/4edb03-a18c-47f1-90a7-7fc7cde36253/2023-06-30-09-33-52-DC0747E9-A127-4C66-8DF7-F18031698BFD-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "d448e69a-4024-46d3-96d1-d1e93c4c55e7",
+  "name": "Crémant d'Alsace Extra Brut",
+  "full-name": "Domaine Bohn Crémant d'Alsace Extra Brut 2013",
+  "producer": {
+    "id": "3711f67e-57d8-4c45-b7e3-7824ae558c89",
+    "name": "Domaine Bohn"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1246 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d4/48e69a-4024-46d3-96d1-d1e93c4c55e7/2023-06-30-09-37-03-77A84B90-5326-4058-BF96-2807120EE2CE-1-105-c.webp",
+  "rating": "NA"
+}
