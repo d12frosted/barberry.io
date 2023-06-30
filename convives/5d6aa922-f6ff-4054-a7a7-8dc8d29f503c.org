@@ -1,191 +1,199 @@
-Hello, fellow convive! This page contains a list of wines (108 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (109 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
 ** Tuesday, 20 June 2023
 
-**** @Lo Kyiv / [[barberry:/posts/2023-06-20-south-africa][Heaven and Earth]]
+*** @Lo Kyiv / [[barberry:/posts/2023-06-20-south-africa][Heaven and Earth]]
 
-- [[barberry:/wines/40870c4e-61f7-4b11-9ab5-42d44a22829e][Comm. G.B. Burlotto Verduno Pelaverga 2021]]
-- [[barberry:/wines/9555acaa-05b1-4adc-b0b5-8d04c5b91016][Spier Wines Chenin Blanc 21 Gables 2020]]
-- [[barberry:/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b][Testalonga Baby Bandito Keep on Punching 2022]]
-- [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
-- [[barberry:/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0][Storm Ridge Pinot Noir 2017]]
-- [[barberry:/wines/d71fb0cc-4414-437e-8870-a4ef45c8abd8][Sadie Family Skerpioen 2020]]
-- [[barberry:/wines/149668d8-4c02-44c0-8955-8d6028e35c92][Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021]]
-- [[barberry:/wines/817f34e2-6083-474d-8458-452569fdbf8a][Storm Ridge Chardonnay 2021]]
-- [[barberry:/wines/f9b6ea46-f032-45c3-b18f-951508064989][Sadie Family Columella 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/f70047ef-3506-4395-ba7d-c6867ab3bd5b][Testalonga Baby Bandito Keep on Punching 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/d71fb0cc-4414-437e-8870-a4ef45c8abd8][Sadie Family Skerpioen 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/817f34e2-6083-474d-8458-452569fdbf8a][Storm Ridge Chardonnay 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0][Storm Ridge Pinot Noir 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/f9b6ea46-f032-45c3-b18f-951508064989][Sadie Family Columella 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/9555acaa-05b1-4adc-b0b5-8d04c5b91016][Spier Wines Chenin Blanc 21 Gables 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/149668d8-4c02-44c0-8955-8d6028e35c92][Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/40870c4e-61f7-4b11-9ab5-42d44a22829e][Comm. G.B. Burlotto Verduno Pelaverga 2021]]
 
 ** Friday, 26 May 2023
 
-**** @Garage / [[barberry:/posts/2023-05-26-mixed-bag][Mixed Bag Vol. 7]]
+*** @Garage / [[barberry:/posts/2023-05-26-mixed-bag][Mixed Bag Vol. 7]]
 
-- [[barberry:/wines/33560580-ef8c-4016-88e3-c2cc36d554f0][Frank Cornelissen Munjebel Bianco 2016]]
-- [[barberry:/wines/19d4111f-d367-402c-8ee8-135e83eb43d6][Martha Stoumen Post Filtration Red 2018]]
-- [[barberry:/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f][Gentle Folk Piccadilly Chardonnay 2021]]
-- [[barberry:/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace][Marco De Bartoli Terzavia 2020]]
-- [[barberry:/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad][Bencze Pétillant Blanc 2022]]
-- [[barberry:/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8][La Garagista Demejeanne Vermont Rouge 2018]]
-- [[barberry:/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61][Alessandro Viola Blanc de Blancs Metodo Classico Pas dosé (d2022) NV]]
-- [[barberry:/wines/767d4390-7fb8-43cf-9a82-da02266342a3][Cascina Degli Ulivi A Demûa 2016]]
-- [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][Domaine Pignier GPS Vin Blanc d'Antan 2018]]
-- [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/c351d3ca-8616-4b7b-b62b-35b7f3cda8ad][Bencze Pétillant Blanc 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/c3fe7282-9b75-4931-88e4-1eca262675ff][Domaine Pignier GPS Vin Blanc d'Antan 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/ca344bfa-6acb-4a5a-ac48-74183010ef1f][Gentle Folk Piccadilly Chardonnay 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/19d4111f-d367-402c-8ee8-135e83eb43d6][Martha Stoumen Post Filtration Red 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/eb815a42-3c39-4b70-9cb7-a2795d305fe8][La Garagista Demejeanne Vermont Rouge 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/767d4390-7fb8-43cf-9a82-da02266342a3][Cascina Degli Ulivi A Demûa 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace][Marco De Bartoli Terzavia 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61][Alessandro Viola Blanc de Blancs Metodo Classico Pas dosé (d2022) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/33560580-ef8c-4016-88e3-c2cc36d554f0][Frank Cornelissen Munjebel Bianco 2016]]
 
 ** Tuesday, 11 April 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-04-11-mixed-bag][Mixed Bag Vol. 6]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-04-11-mixed-bag][Mixed Bag Vol. 6]]
 
-- [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
-- [[barberry:/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0][Foradori Morei Teroldego 2011]]
-- [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020]]
-- [[barberry:/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f][JM Dreyer Origin Riesling Macération 2021]]
-- [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
-- [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
-- [[barberry:/wines/026717f4-446c-4982-9dce-66031fcf6294][Sous Le Végétal Hüpnos 2019]]
-- [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/fa8be8c9-7ba9-489b-bb4f-09401d3c6bd6][Matassa Olla Blanc 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/f16dab18-1a1f-4883-a6cb-9c9f9b047987][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru Les Champlots 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/026717f4-446c-4982-9dce-66031fcf6294][Sous Le Végétal Hüpnos 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/f9d85e1b-8424-498e-83e8-e1307d7dd9b0][Foradori Morei Teroldego 2011]]
+- &nbsp; &emptyscore; [[barberry:/wines/906681ab-c1e3-4524-9d11-0b5b7ad0f87f][Clos Cibonne Cuvée Prestige Olivier Cru Classé 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/cc6e12e2-3df7-4230-a784-5d7a19b9b176][Haras de Pirque Galantas Gran Reserva 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/e48f4301-fd16-4dc7-92bc-b5fc6807423f][JM Dreyer Origin Riesling Macération 2021]]
 
 ** Tuesday, 28 March 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-03-28-oceania-of-time][Oceania of Time]]
 
-- [[barberry:/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f][Patrick Sullivan Baw Baw Shire Chardonnay 2020]]
-- [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Gentle Folk Oakbank Shiraz 2019]]
-- [[barberry:/wines/83062163-08fd-4ac2-a0df-83a906418a6e][Ochota barrels impeccable disorder 2020]]
-- [[barberry:/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462][John Duval Annexus Grenache 2016]]
-- [[barberry:/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e][Pyramid Valley North Canterbury Orange 2021]]
-- [[barberry:/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b][Felton Road Calvert Pinot Noir 2019]]
-- [[barberry:/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff][Alex Craighead Kindeli Otoño 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/5147ca62-b8fa-4cde-a0a4-ec1c1ba8372f][Patrick Sullivan Baw Baw Shire Chardonnay 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/83062163-08fd-4ac2-a0df-83a906418a6e][Ochota barrels impeccable disorder 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/6f9b8b0c-ade3-46f4-bfcc-c5ad41d5c3ff][Alex Craighead Kindeli Otoño 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/a0a0823b-f9d3-465d-991c-c7e1acc5882e][Pyramid Valley North Canterbury Orange 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/61e954ff-3637-41a3-a893-8ab869c352ca][Gentle Folk Oakbank Shiraz 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462][John Duval Annexus Grenache 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b][Felton Road Calvert Pinot Noir 2019]]
 
-**** @Wix Kyiv Office
+*** @Wix Kyiv Office
 
-- [[barberry:/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450][Pete's Pure Prosecco NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/c955b7cb-7f5b-401f-9da2-4364f8f70450][Pete's Pure Prosecco NV]]
 
 ** Tuesday, 14 March 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-03-14-quest-for-value][Quest for Value]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-03-14-quest-for-value][Quest for Value]]
 
-- [[barberry:/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b][Trossos Vells 2018]]
-- [[barberry:/wines/1003f92f-f182-4775-8602-32d132fa62d5][Fio Wein Riesling Qualitätswein 2014]]
-- [[barberry:/wines/89f8d377-7e4d-4907-bee1-b68fcaddbfac][Bodegas Olarra Ondarre Valdebarón Blanco 2020]]
-- [[barberry:/wines/c7f437a0-dcaf-44c7-95e9-11919aa0ada0][Illuminati Riparosso 2020]]
-- [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Cascina Tavijn Vino Bianca 2021]]
-- [[barberry:/wines/1de7ff40-6385-4ed1-898c-7ade51b63a98][Weinert Cabernet Sauvignon 2011]]
-- [[barberry:/wines/47638fe3-31a8-4161-88f5-89c994bc635e][Peixes Camándula 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/89f8d377-7e4d-4907-bee1-b68fcaddbfac][Bodegas Olarra Ondarre Valdebarón Blanco 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/1003f92f-f182-4775-8602-32d132fa62d5][Fio Wein Riesling Qualitätswein 2014]]
+- &nbsp; &emptyscore; [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Cascina Tavijn Vino Bianca 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/47638fe3-31a8-4161-88f5-89c994bc635e][Peixes Camándula 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/c7f437a0-dcaf-44c7-95e9-11919aa0ada0][Illuminati Riparosso 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/f913d77f-17a6-4b79-b8b3-41967cdf315b][Trossos Vells 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/1de7ff40-6385-4ed1-898c-7ade51b63a98][Weinert Cabernet Sauvignon 2011]]
 
 ** Tuesday,  7 March 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-03-07-mixed-bag][Mixed Bag Vol. 5]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-03-07-mixed-bag][Mixed Bag Vol. 5]]
 
-- [[barberry:/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f][Sarnin-Berrux CHARdO 2020]]
-- [[barberry:/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652][Lyme Bay Classic Cuvée Brut 2016]]
-- [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][JM Dreyer Origin Pinot Gris Macération 2021]]
-- [[barberry:/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2][Domaine du Pélican Savagnin Macération Pelliculaire 2018]]
-- [[barberry:/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a][Beykush Loca Deserta 2019]]
-- [[barberry:/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede][Andre et Mireille Tissot La Mailloche Vin Jaune 2011]]
-- [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Et Cetera Pinot Noir 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652][Lyme Bay Classic Cuvée Brut 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/a70d304d-581f-44e1-91b5-dfa8422a03d2][Domaine du Pélican Savagnin Macération Pelliculaire 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/cba5ddb4-b51f-4fb9-a28f-40489793aeb5][JM Dreyer Origin Pinot Gris Macération 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/ea95b34e-b0e6-4581-a6b0-47d39234286f][Sarnin-Berrux CHARdO 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/8b78bea1-7eb3-4aba-953d-44b164aa164c][Et Cetera Pinot Noir 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a][Beykush Loca Deserta 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/74d9ccb5-28fc-4b73-9496-5215458d4ede][Andre et Mireille Tissot La Mailloche Vin Jaune 2011]]
 
-**** @Wix Kyiv Office
+*** @Wix Kyiv Office
 
-- [[barberry:/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6][Taittinger Brut Reserve NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6][Taittinger Brut Reserve NV]]
 
 ** Tuesday, 31 January 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]]
 
-- [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
-- [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
-- [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
-- [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tasca Tenuta Regaleali Nozze d'Oro 2018]]
-- [[barberry:/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb][Domaine de La Baume les Mariés Sauvignon Blanc 2021]]
-- [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
-- [[barberry:/wines/64290061-6185-4c40-bc35-6ace93d2334c][Frontonio Microcósmico 2017]]
-- [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Francois Montand Méthode Traditionnelle Rosé Brut NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Francois Montand Méthode Traditionnelle Rosé Brut NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb][Domaine de La Baume les Mariés Sauvignon Blanc 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tasca Tenuta Regaleali Nozze d'Oro 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/64290061-6185-4c40-bc35-6ace93d2334c][Frontonio Microcósmico 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
 
 ** Tuesday, 17 January 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]]
 
-- [[barberry:/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17][Planeta Cometa 2020]]
-- [[barberry:/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719][Tenuta di Fessina A'Puddara Etna Bianco 2010]]
-- [[barberry:/wines/aba30227-d546-4ce1-94ac-75fa356f7b19][Tenuta di Castellaro Corinto 2017]]
-- [[barberry:/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a][Gulfi Nerojbleo 2009]]
-- [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Marco De Bartoli Terzavia 2018]]
-- [[barberry:/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec][COS Ramí 2019]]
-- [[barberry:/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef][Arianna Occhipinti Il Frappato 2013]]
+- &nbsp; &emptyscore; [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Marco De Bartoli Terzavia 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec][COS Ramí 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719][Tenuta di Fessina A'Puddara Etna Bianco 2010]]
+- &nbsp; &emptyscore; [[barberry:/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17][Planeta Cometa 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef][Arianna Occhipinti Il Frappato 2013]]
+- &nbsp; &emptyscore; [[barberry:/wines/aba30227-d546-4ce1-94ac-75fa356f7b19][Tenuta di Castellaro Corinto 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a][Gulfi Nerojbleo 2009]]
 
 ** Tuesday, 27 December 2022
 
-**** @One Tea Tree / [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]]
+*** @One Tea Tree / [[barberry:/posts/2022-12-27-classy-bubbles-vol--2][Classy Bubbles Vol. 2]]
 
-- [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
-- [[barberry:/wines/75862600-03f3-4c81-9553-9712d3072df8][Benoît Lahaye Grand Cru Millesime 2017]]
-- [[barberry:/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de][Maurice Vesselle Grand Cru Collection Bouzy 2000]]
-- [[barberry:/wines/40910459-4fb6-42ae-b046-58094be3603b][Bérêche & Fils Brut Réserve L19.07/2022 NV]]
-- [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]
-- [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV]]
-- [[barberry:/wines/97722c60-4efd-412c-9474-a050d8e513d4][De Sousa Cuvée des Caudalies Grand Cru Rosé NV]]
-- [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/18ba93cf-75c5-41ea-94f3-7e04f03ceb59][Filipa Pato 3B Blanc de Blancs Extra Bruto Unfiltered NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4][Weingut Bründlmayer Blanc de Blancs Extra Brut Reserve NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/75862600-03f3-4c81-9553-9712d3072df8][Benoît Lahaye Grand Cru Millesime 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/40910459-4fb6-42ae-b046-58094be3603b][Bérêche & Fils Brut Réserve L19.07/2022 NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/221464f9-abb2-4134-b8bb-1a020b3db2ae][Félicien Brou Vouvray Brut NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/82a470c3-fe0c-49f2-8ff7-fdea39a112de][Maurice Vesselle Grand Cru Collection Bouzy 2000]]
+- &nbsp; &emptyscore; [[barberry:/wines/97722c60-4efd-412c-9474-a050d8e513d4][De Sousa Cuvée des Caudalies Grand Cru Rosé NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
 
 ** Monday,  5 December 2022
 
-**** @Wix Kyiv Office
+*** @Wix Kyiv Office
 
-- [[barberry:/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88][Krasna Hora Viktoria 2019]]
-- [[barberry:/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48][Patrick Bouju Festejar! Rosé 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/2f48f9ef-5ba5-4a13-a549-c9fad5f0cd88][Krasna Hora Viktoria 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/eb0e3f46-1417-4e4d-acc5-1fe5e6650a48][Patrick Bouju Festejar! Rosé 2021]]
 
-**** @Wix Kyiv Office / [[barberry:/posts/2022-12-05-grapes-of-piedmont][Grapes of Piedmont]]
+*** @Wix Kyiv Office / [[barberry:/posts/2022-12-05-grapes-of-piedmont][Grapes of Piedmont]]
 
-- [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Cascina Tavijn Vino Bianca 2021]]
-- [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]
-- [[barberry:/wines/a024914c-4a92-4ef2-910f-8e507120be58][Cascina Degli Ulivi Nibiô 2010]]
-- [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Cascina Tavijn Bandita 2016]]
-- [[barberry:/wines/9803f58c-cbbf-4c60-92a1-444f32fed355][Valli Unite Marmote 2017]]
-- [[barberry:/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f][Iuli La Rina 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/9901fe8f-a6a6-44b0-bda3-451fb207048c][Cascina Tavijn Vino Bianca 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/21b2b1ca-3e02-4b2b-9901-3c212762d95f][Iuli La Rina 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/02983870-d48b-4d04-909e-27b574fcd918][Fratelli Alessandria Speziale Verduno Pelaverga 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]
+- &nbsp; &emptyscore; [[barberry:/wines/9803f58c-cbbf-4c60-92a1-444f32fed355][Valli Unite Marmote 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/a024914c-4a92-4ef2-910f-8e507120be58][Cascina Degli Ulivi Nibiô 2010]]
+- &nbsp; &emptyscore; [[barberry:/wines/9bd895a7-ad65-4065-a7f8-38fb457ed455][Cascina Tavijn Bandita 2016]]
 
 ** Tuesday, 27 September 2022
 
-**** @Wix Kyiv Office / [[barberry:/posts/2022-09-27-mixed-bag][Mixed Bag Vol. 4]]
+*** @Wix Kyiv Office / [[barberry:/posts/2022-09-27-mixed-bag][Mixed Bag Vol. 4]]
 
-- [[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Sous Le Végétal Palli et Genesia 2018]]
-- [[barberry:/wines/065720da-6456-4df3-9afb-8634b425580e][Costadilà Mòz NV]]
-- [[barberry:/wines/1a73439a-6bbe-4621-a76f-567b9d436876][Tomislav Marković Quo Vadis 2019]]
-- [[barberry:/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a][Vino di Anna Qvevri 'Don Alfio' 2016]]
-- [[barberry:/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2][Fedellos do Couto Bastarda 2017]]
-- [[barberry:/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634][Patrick Sullivan Baw Baw Shire Ada River Chardonnay 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/065720da-6456-4df3-9afb-8634b425580e][Costadilà Mòz NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/1a73439a-6bbe-4621-a76f-567b9d436876][Tomislav Marković Quo Vadis 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/ddff653a-4abb-4715-b2d3-82c7e06171df][Sous Le Végétal Palli et Genesia 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/c7e09e22-d7a5-4ce2-82ef-7cacb1fb2634][Patrick Sullivan Baw Baw Shire Ada River Chardonnay 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/0707cf77-b985-4c7e-ab45-0286fd86bff2][Fedellos do Couto Bastarda 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/2f91824d-cecb-4c83-b755-ac3b70f9936a][Vino di Anna Qvevri 'Don Alfio' 2016]]
 
 ** Tuesday, 13 September 2022
 
-**** @Wix Kyiv Office / [[barberry:/posts/2022-09-13-mixed-bag][Mixed Bag Vol. 3]]
+*** @Wix Kyiv Office / [[barberry:/posts/2022-09-13-mixed-bag][Mixed Bag Vol. 3]]
 
-- [[barberry:/wines/ce698cce-871e-4255-a472-61b1a1160163][Ca' di Mat Fuente de los Huertos 2017]]
-- [[barberry:/wines/d21146fb-da8c-4e4a-8197-8eb341d531e9][Rodrigo Méndez Sálvora 2017]]
-- [[barberry:/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645][Marco De Bartoli Vignaverde 2019]]
-- [[barberry:/wines/35255164-c2c8-4237-bf4b-be9c3005a37a][Lyme Bay Bacchus Block 2018]]
-- [[barberry:/wines/db467582-71e2-4e4a-822a-550303f067a2][Foradori Fuoripista Pinot Grigio 2014]]
-- [[barberry:/wines/be82c004-a570-40ec-9962-87836bfeacd2][Tomislav Marković Parabole 2018]]
-- [[barberry:/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04][Clos du Tue-Boeuf Cheverny Rouillon 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/35255164-c2c8-4237-bf4b-be9c3005a37a][Lyme Bay Bacchus Block 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645][Marco De Bartoli Vignaverde 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/d21146fb-da8c-4e4a-8197-8eb341d531e9][Rodrigo Méndez Sálvora 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/ce698cce-871e-4255-a472-61b1a1160163][Ca' di Mat Fuente de los Huertos 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/be82c004-a570-40ec-9962-87836bfeacd2][Tomislav Marković Parabole 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/e3820d93-76e7-4820-ba6c-1b311dccfe04][Clos du Tue-Boeuf Cheverny Rouillon 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/db467582-71e2-4e4a-822a-550303f067a2][Foradori Fuoripista Pinot Grigio 2014]]
 
 ** Tuesday, 23 August 2022
 
-**** @Wix Kyiv Office / [[barberry:/posts/2022-08-23-sin-titulo][Sin Titulo]]
+*** @Wix Kyiv Office / [[barberry:/posts/2022-08-23-sin-titulo][Sin Titulo]]
 
-- [[barberry:/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b][Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019]]
-- [[barberry:/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22][Matassa Tattouine Rouge 2020]]
-- [[barberry:/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb][Anne et J.F. Ganevat La Bubulle à Jeannot NV]]
-- [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
-- [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Alex Craighead Kindeli Verano 2020]]
-- [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]]
-- [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][An Approach To Relaxation Sucette 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb][Anne et J.F. Ganevat La Bubulle à Jeannot NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b][Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22][Matassa Tattouine Rouge 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][An Approach To Relaxation Sucette 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]]
+- &nbsp; &emptyscore; [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Alex Craighead Kindeli Verano 2020]]
 
 ** Tuesday,  5 July 2022
 
-**** @Wix Kyiv Office / [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]]
+*** @Wix Kyiv Office / [[barberry:/posts/2022-07-05-mixed-bag][Mixed Bag Vol. 1]]
 
-- [[barberry:/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79][Pheasant's Tears Poliphonia 2019]]
-- [[barberry:/wines/9a0906be-1274-4820-918e-faf4bf0ec802][Villa Calicantus Sollazzo 2018]]
-- [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pélican Savagnin Ouillé 2016]]
-- [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Cascina Bertolotto Spumante Brut Metodo Classico NV]]
-- [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Patrick Sullivan Rain Field Blend 2019]]
-- [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]
-- [[barberry:/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0][Matassa Cuvée Alexandria 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/9a0906be-1274-4820-918e-faf4bf0ec802][Villa Calicantus Sollazzo 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae][Patrick Sullivan Rain Field Blend 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pélican Savagnin Ouillé 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/44ee0d12-de03-42f2-83f0-502be8bd54b0][Matassa Cuvée Alexandria 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/38b023df-8c26-45e1-80f7-6be3f53681cc][Éric Chevalier Cirrus 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/ddee2b3f-3dcc-4ae6-9c11-31dea06d5d79][Pheasant's Tears Poliphonia 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/baf18c42-2e67-4108-967a-d540bc105779][Cascina Bertolotto Spumante Brut Metodo Classico NV]]
 
+#+begin_export html
+</div>
+#+end_export

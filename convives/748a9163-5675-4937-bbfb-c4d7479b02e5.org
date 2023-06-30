@@ -2,20 +2,27 @@ Hello, fellow convive! This page contains a list of wines (7 total) we tasted to
 
 Bookmark this page and use it for your own good.
 
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
 ** Friday, 23 June 2023
 
-**** @Lo Kyiv
+*** @Lo Kyiv
 
-- [[barberry:/wines/83757777-1f8c-4921-8206-45d45eee4fae][Domaine de la Taille Aux Loups Montlouis sur Loire Les Hauts de Husseau 2021]]
-- [[barberry:/wines/a0c80df6-e6b1-4156-9ce0-654f906668b9][Dario Prinčič Bianco L.2003B NV]]
-- [[barberry:/wines/81414256-19cf-42a3-b31e-7b96b8b11f7c][Nicola Gatta Ombra Cuvée Brut L.A31 NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/83757777-1f8c-4921-8206-45d45eee4fae][Domaine de la Taille Aux Loups Montlouis sur Loire Les Hauts de Husseau 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/a0c80df6-e6b1-4156-9ce0-654f906668b9][Dario Prinčič Bianco L.2003B NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/81414256-19cf-42a3-b31e-7b96b8b11f7c][Nicola Gatta Ombra Cuvée Brut L.A31 NV]]
 
 ** Friday, 27 January 2023
 
-**** @101 Bar
+*** @101 Bar
 
-- [[barberry:/wines/66132041-ecfd-4d79-8f67-6e7aa512947b][De Sousa Réserve Grand Cru Blanc de Blancs (d2021) NV]]
-- [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Matassa Brutal Rouge 2021]]
-- [[barberry:/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0][Andre et Mireille Tissot Poulsard en Amphore 2018]]
-- [[barberry:/wines/263e80cd-7230-45dc-a328-886ffbe0fb15][Markus Molitor Wehler Klosterberg Pinot Blanc 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/66132041-ecfd-4d79-8f67-6e7aa512947b][De Sousa Réserve Grand Cru Blanc de Blancs (d2021) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/892ccc50-f7e0-425e-99be-5ddd238056df][Matassa Brutal Rouge 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0][Andre et Mireille Tissot Poulsard en Amphore 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/263e80cd-7230-45dc-a328-886ffbe0fb15][Markus Molitor Wehler Klosterberg Pinot Blanc 2017]]
 
+#+begin_export html
+</div>
+#+end_export

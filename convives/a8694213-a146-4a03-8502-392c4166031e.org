@@ -2,19 +2,26 @@ Hello, fellow convive! This page contains a list of wines (8 total) we tasted to
 
 Bookmark this page and use it for your own good.
 
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
 ** Friday,  2 September 2022
 
-**** @Garage
+*** @Garage
 
-- [[barberry:/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9][Domaine Sigalas Santorini 2020]]
-- [[barberry:/wines/c765bf10-f52c-4c91-bf86-c80c1027c587][Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013]]
-- [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]
-- [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]
-- [[barberry:/wines/227e3ccc-3136-4a0d-ac55-b57f780dff25][Wasenhaus Vulkan 2018]]
-- [[barberry:/wines/72499131-58aa-4bdb-8956-38f3fb189c90][Frank Cornelissen Munjebel VA 2017]]
-- [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/2aec674b-19ba-4cc6-8337-6ca900703aa9][Domaine Sigalas Santorini 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/c765bf10-f52c-4c91-bf86-c80c1027c587][Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013]]
+- &nbsp; &emptyscore; [[barberry:/wines/c131fb36-151e-415d-aa76-23f4dff142b7][Marco De Bartoli Pietra Nera 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/6cb59fce-cdef-4390-a168-29c715c9277a][Antoniolo Gattinara 2014]]
+- &nbsp; &emptyscore; [[barberry:/wines/227e3ccc-3136-4a0d-ac55-b57f780dff25][Wasenhaus Vulkan 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/72499131-58aa-4bdb-8956-38f3fb189c90][Frank Cornelissen Munjebel VA 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
 
-**** @Oleksandr Meier
+*** @Oleksandr Meier
 
-- [[barberry:/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33][Filippi Soave Colli Scaligeri Castelcerino 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/0b1bf5a6-9132-4046-85e3-fb9889607b33][Filippi Soave Colli Scaligeri Castelcerino 2019]]
 
+#+begin_export html
+</div>
+#+end_export

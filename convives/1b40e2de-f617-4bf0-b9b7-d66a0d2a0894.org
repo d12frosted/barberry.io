@@ -2,48 +2,55 @@ Hello, fellow convive! This page contains a list of wines (10 total) we tasted t
 
 Bookmark this page and use it for your own good.
 
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
 ** Sunday,  1 January 2023
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2013) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/9e6ddc62-a7f8-4b3e-9c50-f8ef00bcda06][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2013) NV]]
 
 ** Saturday, 31 December 2022
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/84eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a][Southern Right Sauvginon Blanc 2022]]
-- [[barberry:/wines/34c57d62-4686-410d-af22-9be85ffdbde2][Kmetija Štekar Sivi 2021]]
-- [[barberry:/wines/2bcd3315-fd55-4d66-b8e5-0630cb9151ce][Fratelli Alessandria Rossoluna 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/84eb8d3c-1ace-4d1f-83b0-4ffe5aa5758a][Southern Right Sauvginon Blanc 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/34c57d62-4686-410d-af22-9be85ffdbde2][Kmetija Štekar Sivi 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/2bcd3315-fd55-4d66-b8e5-0630cb9151ce][Fratelli Alessandria Rossoluna 2017]]
 
 ** Saturday, 10 December 2022
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/5343a20a-c19e-44fd-8bf0-1ca7cf206d97][Bodegas Martín Códax Rías Baixas Albariño NV]]
-- [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/5343a20a-c19e-44fd-8bf0-1ca7cf206d97][Bodegas Martín Códax Rías Baixas Albariño NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/28bd8c32-5ba7-4c2a-b72b-544455feb1be][Cascina Tavijn Bandita 2019]]
 
 ** Saturday,  1 January 2022
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/40a31b63-1452-4566-9557-b9f078ff6d64][Francoise Bedel Entre Ciel & Terre (2014) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/40a31b63-1452-4566-9557-b9f078ff6d64][Francoise Bedel Entre Ciel & Terre (2014) NV]]
 
 ** Friday, 31 December 2021
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/f8916b0f-81ee-4a28-9963-4544bfc955a8][Domain Ponsot Morey Saint Denis 1er Cru Cuvée des Alouettes 2000]]
+- &nbsp; &emptyscore; [[barberry:/wines/f8916b0f-81ee-4a28-9963-4544bfc955a8][Domain Ponsot Morey Saint Denis 1er Cru Cuvée des Alouettes 2000]]
 
 ** Sunday, 26 September 2021
 
-**** @Yaroslav Kiryanov
+*** @Yaroslav Kiryanov
 
-- [[barberry:/wines/214fef7c-8a47-4dde-a2fa-e1944ee7a4a1][Clos du Tue-Boeuf Cheverny La Caillere 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/214fef7c-8a47-4dde-a2fa-e1944ee7a4a1][Clos du Tue-Boeuf Cheverny La Caillere 2018]]
 
 ** Friday, 24 September 2021
 
-**** @Home
+*** @Home
 
-- [[barberry:/wines/ea9b241a-ec1f-4814-ad56-899d497fe95a][Tiago Teles Raiz Red 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/ea9b241a-ec1f-4814-ad56-899d497fe95a][Tiago Teles Raiz Red 2017]]
 
+#+begin_export html
+</div>
+#+end_export

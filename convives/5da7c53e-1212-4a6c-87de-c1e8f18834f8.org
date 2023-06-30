@@ -2,16 +2,23 @@ Hello, fellow convive! This page contains a list of wines (8 total) we tasted to
 
 Bookmark this page and use it for your own good.
 
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
 ** Tuesday, 31 January 2023
 
-**** @Wix Kyiv Office / [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]]
+*** @Wix Kyiv Office / [[barberry:/posts/2023-01-31-norm-wines][Norm Wines Vol. 1]]
 
-- [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
-- [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
-- [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
-- [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tasca Tenuta Regaleali Nozze d'Oro 2018]]
-- [[barberry:/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb][Domaine de La Baume les Mariés Sauvignon Blanc 2021]]
-- [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
-- [[barberry:/wines/64290061-6185-4c40-bc35-6ace93d2334c][Frontonio Microcósmico 2017]]
-- [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Francois Montand Méthode Traditionnelle Rosé Brut NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/b397acc1-bce4-44c8-b231-2456a03e4740][Francois Montand Méthode Traditionnelle Rosé Brut NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/80360436-e4f3-41dd-9d8b-06fd0a82f9fb][Domaine de La Baume les Mariés Sauvignon Blanc 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/e8f282e6-b655-435b-91e3-1966dbde5b25][Tasca Tenuta Regaleali Nozze d'Oro 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/64290061-6185-4c40-bc35-6ace93d2334c][Frontonio Microcósmico 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/47a0e9bc-69e9-4149-8f01-a06076e86a31][Johnson Estate Pinot Noir 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/0356114f-4682-4632-ac80-47152890b9c9][Bodegas la Eralta Hacienda El Olmo Crianza 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/74357d28-4b8a-4693-a176-3cf0b8a79a5a][Fattoria San Lorenzo Marche Rosso di Gino 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60][Els Vinyerons Pregadéu 2020]]
 
+#+begin_export html
+</div>
+#+end_export
