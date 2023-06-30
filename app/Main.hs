@@ -262,7 +262,8 @@ standartizeStars = walk $ \case
   Str "\128148" -> symbol "&#xEAC2;"
   Str "\10084\65039" -> symbol "&#xE87D;"
   Str "\10084" -> symbol "&#xE87D;"
-  Str "&nbsp;" -> symbol "&nbsp;"
+  Str "&nbsp;" -> Span ("", ["material-symbols-outlined", "invisible"], []) [RawInline "html" "&nbsp;"]
+  Str "&emptyscore;" -> Span ("", ["invisible"], []) [RawInline "html" "0.00"]
   i -> i
   where
     symbol x = Span ("", ["material-symbols-outlined"], []) [RawInline "html" x]

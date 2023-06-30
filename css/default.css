@@ -457,6 +457,21 @@ ul.wine-list {
 
 .rating-list ul {
   list-style: none;
+  padding-left: 0;
+  margin-top: 0px;
+}
+
+.rating-list .invisible {
+  opacity: 0;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+  /* font-family: var(--code-font); */
+}
+
+.rating-list h3 {
+  font-weight: bolder;
+  margin-bottom: 4px;
 }
 
 .bootstrap-table table.table-hover tbody tr:hover {

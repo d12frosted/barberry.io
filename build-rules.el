@@ -528,14 +528,14 @@ Access to full ITEMS for related wines."
 Bookmark this page and use it for your own good.\n\n")
       (insert "#+begin_export html\n"
               "<div class=\"rating-list\">\n"
-              "#+end_export")
+              "#+end_export\n\n")
       (if wines
           (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
             (insert "** " (format-time-string "%A, %e %B %Y" (date-to-time (car it))) "\n\n")
             (--each (-group-by (lambda (rating) (list (vulpea-note-meta-get rating "location" 'note)
                                                       (vulpea-note-meta-get rating "event" 'note)))
                                (cdr it))
-              (insert "**** @" (vulpea-note-title (nth 0 (car it))))
+              (insert "*** @" (vulpea-note-title (nth 0 (car it))))
               (when-let ((event (nth 1 (car it))))
                 (insert " / " (vulpea-utils-link-make-string event)))
               (insert "\n\n")
@@ -543,27 +543,28 @@ Bookmark this page and use it for your own good.\n\n")
                                  (or (vulpea-note-meta-get other "order" 'number) 0))
                               (cdr it))
                 (insert "- ")
-                (when-let* ((order (vulpea-note-meta-get it "order" 'number))
-                            (event (vulpea-note-meta-get it "event" 'note))
-                            (scores (brb-event-score-personal event))
-                            (scores (--find
-                                     (string-equal (plist-get it :convive)
-                                                   (vulpea-note-id (porg-item-item item)))
-                                     (brb-event-score-personal event))))
-                  (cond
-                   ((seq-contains-p (plist-get scores :favourites) order)
-                    (insert "❤️ "))
-                   ((seq-contains-p (plist-get scores :outcasts) order)
-                    (insert "💔 "))
-                   ;; careful, there is U+00A0 NO-BREAK SPACE on the next line
-                   (t (insert "&nbsp; ")))
-                  (insert "★ " (format "%.2f" (nth (- order 1) (plist-get scores :ratings))) " "))
+                (if-let* ((order (vulpea-note-meta-get it "order" 'number))
+                          (event (vulpea-note-meta-get it "event" 'note))
+                          (scores (brb-event-score-personal event))
+                          (scores (--find
+                                   (string-equal (plist-get it :convive)
+                                                 (vulpea-note-id (porg-item-item item)))
+                                   (brb-event-score-personal event))))
+                    (progn
+                      (cond
+                       ((seq-contains-p (plist-get scores :favourites) order)
+                        (insert "❤️ "))
+                       ((seq-contains-p (plist-get scores :outcasts) order)
+                        (insert "💔 "))
+                       (t (insert "★ ")))
+                      (insert (format "%.2f" (nth (- order 1) (plist-get scores :ratings))) " "))
+                  (insert "&nbsp; &emptyscore; "))
                 (insert (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note)) "\n"))
               (insert "\n")))
         (insert "There are no wines we drunk together. How did you find this page?"))
       (insert "#+begin_export html\n"
               "</div>\n"
-              "#+end_export")
+              "#+end_export\n")
       (save-buffer))))
 
 
