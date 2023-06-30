@@ -549,7 +549,8 @@ Bookmark this page and use it for your own good.\n\n")
                           (scores (--find
                                    (string-equal (plist-get it :convive)
                                                  (vulpea-note-id (porg-item-item item)))
-                                   (brb-event-score-personal event))))
+                                   (brb-event-score-personal event)))
+                          (s (nth (- order 1) (plist-get scores :ratings))))
                     (progn
                       (cond
                        ((seq-contains-p (plist-get scores :favourites) order)
@@ -557,7 +558,7 @@ Bookmark this page and use it for your own good.\n\n")
                        ((seq-contains-p (plist-get scores :outcasts) order)
                         (insert "💔 "))
                        (t (insert "★ ")))
-                      (insert (format "%.2f" (nth (- order 1) (plist-get scores :ratings))) " "))
+                      (insert (format "%.2f" s) " "))
                   (insert "&nbsp; &emptyscore; "))
                 (insert (vulpea-utils-link-make-string (vulpea-note-meta-get it "wine" 'note)) "\n"))
               (insert "\n")))
@@ -1153,10 +1154,8 @@ init file."
 
   (porg-compiler
    :name "convive"
-   :match (-rpartial #'porg-rule-output-that
-                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/convive")
-                     :type "note"
-                     )
+   :match (-rpartial #'porg-rule-output-that :type "note"
+                     :predicate (-rpartial #'vulpea-note-tagged-all-p "barberry/convive"))
    :hash #'porg-sha1sum
    :build (brb-make-publish :copy-fn #'brb-build-convive)
    :clean #'brb-delete)
