@@ -632,7 +632,7 @@ ul.wine-list {
   .bottle-right {
     max-width: 37.5%;
     width: auto;
-    max-height: 350px;
+    max-height: 250px;
     float: right;
     margin-left: 2rem;
     margin-bottom: 2rem;
