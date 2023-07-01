@@ -1,0 +1,174 @@
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-40-43-IMG-8092.webp]]
+
+Frédéric Cossard inherited his love for wine from his grandfather, who used to grow grapes for personal use. While working as an engineer in the milk industry, Cossard travelled to Burgundy and explored different wines. Eventually, he decided to make a switch.
+
+Without any family connections in the wine industry or external financing, it was difficult for him to find vineyards in the region. After difficult negotiations with the bank, Cossard established Domaine de Chassorney in Saint Romain in 1996. Today, he cultivates over 10 hectares in various Burgundian villages under the name Domaine de Chassorney. Additionally, he purchases grapes that he sells under his own name: Frédéric Cossard. He provides personalized guidance to growers for taking care of their vines and works alongside them in the vineyards to ensure that the work is carried out to his high standards.
+
+From the start, Cossard has grown his grapes organically and has since incorporated many biodynamic methods. Drawing from his experience of making raw, unpasteurized cheese, he applied the same philosophy to winemaking. He describes his winemaking method as "homoeopathic," focusing on tailored treatments and remedies for each parcel of grapes. He does not add any chemicals, including sulfites, and the fermentation process is spontaneous, without temperature control, and can last several months.
+
+The wines are aged in barrels for one year, during which they are not racked or stirred. Cossard does not use any fining or filtration in his wine production, and the barrels are sterilized with ionized negative oxygen molecules instead of chemicals like sulfites.
+
+Recently, Cossard has started experimenting with qvevri as an alternative to oak. Some of his wines come in two variants - qvevri and regular - as he aims to achieve perfect micro-oxygenation in the wines, binding the phenolics into a compact, age-worthy structure while retaining early approachability.
+
+Thanks to Ivan Omelchenko (and his [[https://t.me/sekwassa][cafe sekwasa]]), we have the opportunity to witness the difference between these two methods.
+
+1. [[barberry:/wines/e343be52-bee1-4d33-aa4f-63dee3e8d8a4][Domaine de Chassorney Saint-Romain Combe Bazin 2020]]
+2. [[barberry:/wines/a8ec8816-1a2f-471d-a57e-aa8d5ca5550d][Domaine de Chassorney Saint-Romain Combe Bazin Qvevris 2020]]
+3. [[barberry:/wines/cadec190-bdd1-4a2c-8d58-8e8d47cf1316][Domaine de Chassorney Saint-Romain Rouge Sous Roches 2020]]
+4. [[barberry:/wines/f88d9454-ce7a-4e83-a3cc-f8afe6622083][Domaine de Chassorney Saint-Romain Rouge Sous Roches Qvevris 2020]]
+5. [[barberry:/wines/32096c0a-1b08-4f19-8822-b647c4464ba3][Domaine de Chassorney Volnay Rouge 2018]]
+6. [[barberry:/wines/57a57940-2f64-4413-bfcd-50bb71e625b8][Domaine de Chassorney Volnay Rouge Qvevris 2018]]
+
+* Scores
+:PROPERTIES:
+:ID:                     bea4c3dd-d0fe-478b-80e4-c9357cc23791
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0851 | 0.0595 |      1.00 | 1890.00 | *1.4286* |
+| Wine #2 | *4.1504* | 0.0491 |    *3.00* | 2390.00 |   1.2511 |
+| Wine #3 |   4.0288 | 0.0528 |      1.00 | 1990.00 |   1.2471 |
+| Wine #4 |   3.9557 | 0.0891 |      1.00 | 2490.00 |   0.8868 |
+| Wine #5 |   3.9965 | 0.0610 |      1.00 | 2750.00 |   0.8583 |
+| Wine #6 |   4.0807 | 0.0240 |    *3.00* | 2990.00 |   0.9030 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Domaine de Chassorney Saint-Romain Combe Bazin 2020
+:PROPERTIES:
+:ID:                     3b5af4d0-803e-49de-8aad-dc9eb1e0f1ea
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-00-31-IMG-8063.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/e343be52-bee1-4d33-aa4f-63dee3e8d8a4][Saint-Romain Combe Bazin]]
+- vintage: 2020
+- grapes: Chardonnay
+- appellation: Saint-Romain AOC
+- location: Burgundy, France
+- alcohol: 13.5
+- sugar: 2.9
+- price: 1890 UAH
+
+* Domaine de Chassorney Saint-Romain Combe Bazin Qvevris 2020
+:PROPERTIES:
+:ID:                     c90fb4fc-484b-4cc5-b36e-1a2be3ec332f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-00-54-IMG-8061.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/a8ec8816-1a2f-471d-a57e-aa8d5ca5550d][Saint-Romain Combe Bazin Qvevris]]
+- vintage: 2020
+- grapes: Chardonnay
+- appellation: Saint-Romain AOC
+- location: Burgundy, France
+- alcohol: 13.5
+- sugar: 1.8
+- price: 2390 UAH
+
+* Domaine de Chassorney Saint-Romain Rouge Sous Roches 2020
+:PROPERTIES:
+:ID:                     9cf00e05-e8b6-4675-a886-fca6e858bb57
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-01-30-IMG-8049.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/cadec190-bdd1-4a2c-8d58-8e8d47cf1316][Saint-Romain Rouge Sous Roches]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Saint-Romain AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 0.3
+- price: 1990 UAH
+
+* Domaine de Chassorney Saint-Romain Rouge Sous Roches Qvevris 2020
+:PROPERTIES:
+:ID:                     2df248f2-1713-498f-b8d2-16ec3930fc23
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-01-50-IMG-8053.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/f88d9454-ce7a-4e83-a3cc-f8afe6622083][Saint-Romain Rouge Sous Roches Qvevris]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Saint-Romain AOC
+- location: Burgundy, France
+- alcohol: 13.5
+- sugar: 1
+- price: 2490 UAH
+
+* Domaine de Chassorney Volnay Rouge 2018
+:PROPERTIES:
+:ID:                     12b1287a-54a3-40d6-b568-3a667126ae2f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-02-31-IMG-8055.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/32096c0a-1b08-4f19-8822-b647c4464ba3][Volnay Rouge]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Volnay AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 1
+- price: 2750 UAH
+
+* Domaine de Chassorney Volnay Rouge Qvevris 2018
+:PROPERTIES:
+:ID:                     6d01c4fb-fb47-4a31-9eeb-8f6eb808a920
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-06-30-qvevri/2023-07-01-08-02-57-IMG-8058.webp]]
+
+- producer: [[barberry:/producers/695d69a4-8d84-4efa-88ce-4ffbc0dd24e1][Domaine de Chassorney]]
+- name: [[barberry:/wines/57a57940-2f64-4413-bfcd-50bb71e625b8][Volnay Rouge Qvevris]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Volnay AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 1
+- price: 2990 UAH
+
+* Raw Scores
+:PROPERTIES:
+:ID:                     ff379d73-e079-4d75-b988-b81da7bc4fea
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|                       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|-----------------------+---------+---------+---------+---------+---------+---------|
+| [[barberry:/convives/5496b51c-5c01-42ce-b43f-c54b18a65a47][Ivan Omelchenko]]       |    4.60 |  *4.50* |    4.30 |    4.10 |    4.20 |  *4.40* |
+| Anastasiia V          |    3.80 |    3.90 |    4.10 |    4.00 |    3.90 |  *4.20* |
+| Eugene                |    4.20 |    4.40 |    4.00 |    4.20 |    3.80 |  *4.00* |
+| Viktor                |    4.00 |    4.20 |    4.20 |  *4.30* |    3.80 |    4.00 |
+| Andrii S              |    4.00 |    4.20 |  *4.20* |    4.00 |    4.00 |    3.80 |
+| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]     |    4.20 |  *4.30* |    4.10 |    3.80 |    4.30 |    4.10 |
+| Aleksandra Negenskaya |    3.70 |  *3.80* |    3.50 |    3.20 |    3.50 |    4.00 |
+| [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]          |  *4.10* |    4.00 |    3.80 |    3.90 |    4.20 |    4.10 |
+| Boris Buliga          |    4.10 |    4.00 |    4.00 |    4.00 |  *4.20* |    4.10 |
+

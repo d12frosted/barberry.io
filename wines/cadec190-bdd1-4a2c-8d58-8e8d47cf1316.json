@@ -1,0 +1,34 @@
+{
+  "id": "cadec190-bdd1-4a2c-8d58-8e8d47cf1316",
+  "name": "Saint-Romain Rouge Sous Roches",
+  "full-name": "Domaine de Chassorney Saint-Romain Rouge Sous Roches 2020",
+  "producer": {
+    "id": "695d69a4-8d84-4efa-88ce-4ffbc0dd24e1",
+    "name": "Domaine de Chassorney"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.3",
+  "prices": [
+    "1990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ca/dec190-bdd1-4a2c-8d58-8e8d47cf1316/2023-07-01-08-01-30-IMG-8049.webp",
+  "rating": "NA"
+}

@@ -17,12 +17,48 @@
 
 Bottle #7 on [[barberry:/posts/2023-05-19-bourgogne][Bourgogne Party]] organised by Vova Ulianov. The list of wines was open, but all of them were tasted blindly.
 
-This bottle confused me a lot. It reminded me of Puligny or Chablis yet with a twist. Since it didn't remind the style of De Moor, I guessed the producer yet not the wine. Complex and intriguing wine. Fizzy and a bit funky. Bruised apples, cider, lemon and yeas (hey, autolysis). Vibrant, mineral, balanced and persistent. A beautiful bottle.
+This bottle confused me a lot. It reminded me of Puligny or Chablis yet with a twist. Since it didn't remind the style of De Moor, I guessed the producer yet not the wine. Complex and intriguing wine. Fizzy and a bit funky. Bruised apples, cider, lemon and yeast (hey, autolysis). Vibrant, mineral, balanced and persistent. A beautiful bottle.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/32096c0a-1b08-4f19-8822-b647c4464ba3.html">
+    <img class="flex-bottle" src="/images/32/096c0a-1b08-4f19-8822-b647c4464ba3/2023-07-01-08-02-31-IMG-8055@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Volnay Rouge - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/57a57940-2f64-4413-bfcd-50bb71e625b8.html">
+    <img class="flex-bottle" src="/images/57/a57940-2f64-4413-bfcd-50bb71e625b8/2023-07-01-08-02-57-IMG-8058@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Volnay Rouge Qvevris - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a8ec8816-1a2f-471d-a57e-aa8d5ca5550d.html">
+    <img class="flex-bottle" src="/images/a8/ec8816-1a2f-471d-a57e-aa8d5ca5550d/2023-07-01-08-00-54-IMG-8061@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Saint-Romain Combe Bazin Qvevris - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cadec190-bdd1-4a2c-8d58-8e8d47cf1316.html">
+    <img class="flex-bottle" src="/images/ca/dec190-bdd1-4a2c-8d58-8e8d47cf1316/2023-07-01-08-01-30-IMG-8049@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Saint-Romain Rouge Sous Roches - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e343be52-bee1-4d33-aa4f-63dee3e8d8a4.html">
+    <img class="flex-bottle" src="/images/e3/43be52-bee1-4d33-aa4f-63dee3e8d8a4/2023-07-01-08-00-31-IMG-8063@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Saint-Romain Combe Bazin - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f88d9454-ce7a-4e83-a3cc-f8afe6622083.html">
+    <img class="flex-bottle" src="/images/f8/8d9454-ce7a-4e83-a3cc-f8afe6622083/2023-07-01-08-01-50-IMG-8053@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Saint-Romain Rouge Sous Roches Qvevris - 2020</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/055df196-2f0a-462a-9be5-09fa24b17517.html">
     <img class="flex-bottle" src="/images/05/5df196-2f0a-462a-9be5-09fa24b17517/2023-05-20-10-39-37-8F3E641D-0810-4F38-9D9F-9E8E68CF36AA-1-105-c@512.webp"></img>
     <section class="h">Chandon de Briailles</section>

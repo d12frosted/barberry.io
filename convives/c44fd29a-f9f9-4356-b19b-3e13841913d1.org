@@ -1,0 +1,52 @@
+Hello, fellow convive! This page contains a list of wines (21 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+
+Bookmark this page and use it for your own good.
+
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
+** Wednesday, 28 June 2023
+
+*** @Andrii Sierkov / [[barberry:/posts/2023-06-28-home-party][Home Party Vol. 4]]
+
+- ★ 3.70 [[barberry:/wines/614edb03-a18c-47f1-90a7-7fc7cde36253][Beykush Beresagne Brut Rosé Méthode Classique 2015]]
+- ★ 4.10 [[barberry:/wines/ee5b5dd8-f797-4172-9614-ee55c2ec5d9f][Jacquesson Cuvée 745 Grand Vin (2017) NV]]
+- ❤️ 4.20 [[barberry:/wines/bac13ff4-c7e4-420d-80f8-14097174a66b][Pierre Gimonnet & Fils Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé 2008]]
+- ★ 4.00 [[barberry:/wines/d448e69a-4024-46d3-96d1-d1e93c4c55e7][Domaine Bohn Crémant d'Alsace Extra Brut 2013]]
+- ★ 4.10 [[barberry:/wines/dc59a9ca-0a54-47f2-bb71-5711e22bf51a][Lanson Noble Cuvée Brut 2002]]
+
+** Tuesday,  2 May 2023
+
+*** @Andrii Sierkov / [[barberry:/posts/2023-05-02-home-party][Home Party Vol. 3]]
+
+- ★ 3.30 [[barberry:/wines/aa0380c9-822f-444c-a638-9b9dceb102a7][Alanna Lagamba Frauen Power Rosé 2022]]
+- ★ 4.00 [[barberry:/wines/149668d8-4c02-44c0-8955-8d6028e35c92][Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021]]
+- ★ 4.20 [[barberry:/wines/f3e7725c-2b10-4dab-8358-eeddd9330371][Agrapart Terroirs (d2023) NV]]
+- ★ 3.50 [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
+- ❤️ 4.00 [[barberry:/wines/f0d79447-307b-4b8f-af51-79bfb9aa6fca][Lamiable Eclat d'Étoiles Rosé Grand Cru à Tours-sur-Marne (2020) NV]]
+
+** Friday,  3 February 2023
+
+*** @Andrii Sierkov / [[barberry:/posts/2023-02-03-home-party][Home Party Vol. 2]]
+
+- ★ 3.60 [[barberry:/wines/62c52d66-b179-4545-9912-76a701e39534][Silvano Follador Valdobbiaddene Prosecco Superiore Extra Brut 2019]]
+- ★ 3.50 [[barberry:/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3][46 Parallel Apostrophe Brut Classic Dry NV]]
+- 💔 2.00 [[barberry:/wines/6264c897-809f-4aaf-b765-6db6bb266b1b][Canti Liberty Asti NV]]
+- ❤️ 3.80 [[barberry:/wines/b482a809-5815-4136-b68a-4049faa0a736][Bruno Paillard Dosage Zéro (d2021) NV]]
+- ★ 3.70 [[barberry:/wines/63fa302c-4073-49b1-99ed-3228df8edac1][Moët & Chandon Impérial Brut NV]]
+- ★ 4.00 [[barberry:/wines/bf77c1a9-c3da-424d-8306-f94769b95a65][Cà del Vént Sospiri Brut Riserva Pas Operé 2011]]
+- ★ 3.70 [[barberry:/wines/c10c218e-6358-4d6b-a09e-8c8a7131ecc7][Tarlant Prestige Millésime la Lutétienne 2005]]
+
+** Wednesday, 15 June 2022
+
+*** @Andrii Sierkov
+
+- &nbsp; &emptyscore; [[barberry:/wines/6c2c4740-c3e0-44e9-9617-6246498ca0d6][Maison du Vigneron Crémant du Jura NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Domaine de la Touraize Crémant du Jura Millésimé 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593][Pierre Frick Crémant d'Alsace 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/509cf98c-c4b2-4ce2-ae02-73ff7e008cb5][Mouzon-Leroux L'Atavique NV]]
+
+#+begin_export html
+</div>
+#+end_export

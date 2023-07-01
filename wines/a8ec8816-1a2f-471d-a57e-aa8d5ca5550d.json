@@ -1,0 +1,34 @@
+{
+  "id": "a8ec8816-1a2f-471d-a57e-aa8d5ca5550d",
+  "name": "Saint-Romain Combe Bazin Qvevris",
+  "full-name": "Domaine de Chassorney Saint-Romain Combe Bazin Qvevris 2020",
+  "producer": {
+    "id": "695d69a4-8d84-4efa-88ce-4ffbc0dd24e1",
+    "name": "Domaine de Chassorney"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.8",
+  "prices": [
+    "2390 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a8/ec8816-1a2f-471d-a57e-aa8d5ca5550d/2023-07-01-08-00-54-IMG-8061.webp",
+  "rating": "NA"
+}
