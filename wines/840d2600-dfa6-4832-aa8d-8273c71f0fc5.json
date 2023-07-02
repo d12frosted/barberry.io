@@ -1,0 +1,34 @@
+{
+  "id": "840d2600-dfa6-4832-aa8d-8273c71f0fc5",
+  "name": "Gel I",
+  "full-name": "La Sorga Gel I 2017",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "cc12506c-075a-4f65-b3cc-0d7a07f6c305",
+      "name": "Garnacha Blanca"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "700 UAH"
+  ],
+  "available": 0,
+  "image": "images/84/0d2600-dfa6-4832-aa8d-8273c71f0fc5/2020-09-05-11-47-08-45C4293F-E8D1-4040-B5BC-AECBC96556AD-1-105-c.webp",
+  "rating": "5.0"
+}

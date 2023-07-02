@@ -19,37 +19,55 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/32096c0a-1b08-4f19-8822-b647c4464ba3.html">
+  <a class="flex-item flex-item-left" href="/wines/20f7f848-0da6-4ac8-8769-4d64e4603219.html">
+    <img class="flex-bottle" src="/images/20/f7f848-0da6-4ac8-8769-4d64e4603219/2023-07-02-14-19-49-IMG-8075@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Vosne-Romanée Les Champs Perdrix - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/32096c0a-1b08-4f19-8822-b647c4464ba3.html">
     <img class="flex-bottle" src="/images/32/096c0a-1b08-4f19-8822-b647c4464ba3/2023-07-01-08-02-31-IMG-8055@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Volnay Rouge - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/57a57940-2f64-4413-bfcd-50bb71e625b8.html">
+  <a class="flex-item flex-item-left" href="/wines/57a57940-2f64-4413-bfcd-50bb71e625b8.html">
     <img class="flex-bottle" src="/images/57/a57940-2f64-4413-bfcd-50bb71e625b8/2023-07-01-08-02-57-IMG-8058@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Volnay Rouge Qvevris - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a8ec8816-1a2f-471d-a57e-aa8d5ca5550d.html">
+  <a class="flex-item flex-item-right" href="/wines/59aa0d3a-c034-496b-aed9-394580683f69.html">
+    <img class="flex-bottle" src="/images/59/aa0d3a-c034-496b-aed9-394580683f69/2023-07-02-14-15-37-IMG-8072@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Auxey-Duresses Les Crais - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6c129f60-fcfd-4932-8e19-21658792599a.html">
+    <img class="flex-bottle" src="/images/6c/129f60-fcfd-4932-8e19-21658792599a/2023-07-02-14-23-45-IMG-8080@512.webp"></img>
+    <section class="h">Domaine de Chassorney</section>
+    <section class="h text-bolder">Volnay 1er cru Les Roncerets - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a8ec8816-1a2f-471d-a57e-aa8d5ca5550d.html">
     <img class="flex-bottle" src="/images/a8/ec8816-1a2f-471d-a57e-aa8d5ca5550d/2023-07-01-08-00-54-IMG-8061@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Saint-Romain Combe Bazin Qvevris - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c43f0a9e-3443-40f4-9c4c-8878f6493227.html">
+  <a class="flex-item flex-item-left" href="/wines/c43f0a9e-3443-40f4-9c4c-8878f6493227.html">
     <img class="flex-bottle" src="/images/c4/3f0a9e-3443-40f4-9c4c-8878f6493227/2023-05-20-10-51-03-7511D727-4E83-4597-93C7-1E8932FC02B4-1-105-c@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Saint-Romain Combe Bazin Qvevris - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cadec190-bdd1-4a2c-8d58-8e8d47cf1316.html">
+  <a class="flex-item flex-item-right" href="/wines/cadec190-bdd1-4a2c-8d58-8e8d47cf1316.html">
     <img class="flex-bottle" src="/images/ca/dec190-bdd1-4a2c-8d58-8e8d47cf1316/2023-07-01-08-01-30-IMG-8049@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Saint-Romain Rouge Sous Roches - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e343be52-bee1-4d33-aa4f-63dee3e8d8a4.html">
+  <a class="flex-item flex-item-left" href="/wines/e343be52-bee1-4d33-aa4f-63dee3e8d8a4.html">
     <img class="flex-bottle" src="/images/e3/43be52-bee1-4d33-aa4f-63dee3e8d8a4/2023-07-01-08-00-31-IMG-8063@512.webp"></img>
     <section class="h">Domaine de Chassorney</section>
     <section class="h text-bolder">Saint-Romain Combe Bazin - 2020</section>

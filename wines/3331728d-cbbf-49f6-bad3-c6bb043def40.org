@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/33/31728d-cbbf-49f6-bad3-c6bb043def40/2023-07-02-14-25-52-IMG-8095@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/c38d17a7-3261-417e-b531-a4db14fcc66d][Marcel Lapierre]]
+- Vintage :: 2021
+- Location :: France, Beaujolais AOC
+- Grapes :: Gamay
+- Alcohol :: 12.5
+- Sugar :: 0
+- Price :: 847 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Wine producer from Beaujolais, started natural wine movement. Member of "bande des cinq".
+
+#+begin_quote
+There where two tits of the Beaujolais, sugar and sulfur.
+#+end_quote
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b43a4000-2f4f-46b0-bd4b-df833935345a.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Marcel Lapierre</section>
+    <section class="h text-bolder">Cuvée MMXVIII - 2018</section>
+  </a>
+
+</div>
+#+end_export

@@ -138,5 +138,11 @@ Nice blend of Gamay and Pinot Noir. Black fruits, red fruits mixed with fresh le
     <section class="h text-bolder">Cheverny Rouillon - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/d5bfe21b-a17b-4558-a4a7-7d314c246176.html">
+    <img class="flex-bottle" src="/images/d5/bfe21b-a17b-4558-a4a7-7d314c246176/2023-07-02-14-28-48-IMG-8120@512.webp"></img>
+    <section class="h">La Stoppa</section>
+    <section class="h text-bolder">Ipadri - 2006</section>
+  </a>
+
 </div>
 #+end_export

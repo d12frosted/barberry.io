@@ -23,6 +23,18 @@ Black Betty is a wine named after the first lamb born in the former 2Naturkinder
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/04c4ade7-46df-47f8-9969-bdf4225f7341.html">
+    <img class="flex-bottle" src="/images/04/c4ade7-46df-47f8-9969-bdf4225f7341/2020-10-17-10-19-51-9C1F3BB4-CD2F-45BB-A05C-1F032120664A-1-105-c@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Bacchus Pet Nat - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/38bbfd42-6255-48c2-ba83-36b29c9e2b2b.html">
+    <img class="flex-bottle" src="/images/38/bbfd42-6255-48c2-ba83-36b29c9e2b2b/2023-07-01-09-09-53-IMG-8066@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Bacchus Pet Nat - 2022</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
     <img class="flex-bottle" src="/images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o@512.webp"></img>
     <section class="h">2Naturkinder</section>

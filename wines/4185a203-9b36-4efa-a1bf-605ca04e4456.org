@@ -51,5 +51,11 @@ Every bottle of Ben Rye is a fiesta. Ripe apricot, apricot jam, flowers, pine nu
     <section class="h text-bolder">Fragore - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/df51955f-9b5c-47d3-b746-5227a982da1c.html">
+    <img class="flex-bottle" src="/images/df/51955f-9b5c-47d3-b746-5227a982da1c/2020-03-30-19-09-56-AD68F401-6A6A-40C1-A9BA-0B7EE3CEC2D9-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Sorga rouge - 2016</section>
+  </a>
+
 </div>
 #+end_export

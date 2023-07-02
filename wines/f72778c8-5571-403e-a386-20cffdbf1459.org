@@ -70,37 +70,43 @@ flavourful dry land. Nice, relatively young, easy to drink.
     <section class="h text-bolder">Ageno - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+  <a class="flex-item flex-item-left" href="/wines/d5bfe21b-a17b-4558-a4a7-7d314c246176.html">
+    <img class="flex-bottle" src="/images/d5/bfe21b-a17b-4558-a4a7-7d314c246176/2023-07-02-14-28-48-IMG-8120@512.webp"></img>
+    <section class="h">La Stoppa</section>
+    <section class="h text-bolder">Ipadri - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
     <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
     <img class="flex-bottle" src="/images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
+  <a class="flex-item flex-item-right" href="/wines/95c18886-a280-43b0-9c9b-78d074bd80ca.html">
     <img class="flex-bottle" src="/images/95/c18886-a280-43b0-9c9b-78d074bd80ca/2020-10-13-09-42-07-E80607F1-DD40-4CCD-A9F4-CC4D5CBD4ECF-1-105-c@512.webp"></img>
     <section class="h">Pheasant's Tears</section>
     <section class="h text-bolder">Rkatsiteli - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
+  <a class="flex-item flex-item-left" href="/wines/a7f486a8-2d5f-4cb1-acc9-edbc5a17c505.html">
     <img class="flex-bottle" src="/images/a7/f486a8-2d5f-4cb1-acc9-edbc5a17c505/2020-10-13-09-43-19-B730B12F-F30B-4B78-A148-26DA54BCF0A6-1-105-c@512.webp"></img>
     <section class="h">Pheasant's Tears</section>
     <section class="h text-bolder">Rkatsiteli - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">
+  <a class="flex-item flex-item-right" href="/wines/a9d857b0-83af-4fbc-82ba-14ed79e22aba.html">
     <img class="flex-bottle" src="/images/a9/d857b0-83af-4fbc-82ba-14ed79e22aba/2020-10-13-09-48-09-FF7ADB8C-01FE-4B9A-AB9A-36378575D8B9-1-105-c@512.webp"></img>
     <section class="h">Pheasant's Tears</section>
     <section class="h text-bolder">Mtsvane - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
+  <a class="flex-item flex-item-left" href="/wines/e6767402-5d1a-42b1-a3d9-fd6bddc1e11a.html">
     <img class="flex-bottle" src="/images/e6/767402-5d1a-42b1-a3d9-fd6bddc1e11a/2020-10-13-09-45-38-31C366EB-C9F5-45DD-850A-D7CFD6F98D7A-1-105-c@512.webp"></img>
     <section class="h">Pheasant's Tears</section>
     <section class="h text-bolder">Kakhuri Mtsvivani - 2018</section>

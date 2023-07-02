@@ -1,0 +1,34 @@
+{
+  "id": "38bbfd42-6255-48c2-ba83-36b29c9e2b2b",
+  "name": "Bacchus Pet Nat",
+  "full-name": "2Naturkinder Bacchus Pet Nat 2022",
+  "producer": {
+    "id": "8985ce5e-6689-48fd-a818-ea3b60a6462b",
+    "name": "2Naturkinder"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.2",
+  "prices": [
+    "940 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/38/bbfd42-6255-48c2-ba83-36b29c9e2b2b/2023-07-01-09-09-53-IMG-8066.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "994c5e29-dce8-453a-b25d-bad22e580a29",
+  "name": "Sorgasme",
+  "full-name": "La Sorga Sorgasme 2018",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "a98e6c07-1390-4440-8a69-57984ec8c13b",
+      "name": "Colombard"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "2",
+  "prices": [
+    "730 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/99/4c5e29-dce8-453a-b25d-bad22e580a29/2020-03-30-19-10-40-E6EBD852-EA09-43B7-9E4B-4204E660D495-1-102-o.webp",
+  "rating": "7.25"
+}

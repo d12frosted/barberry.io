@@ -1,0 +1,34 @@
+{
+  "id": "dcc66383-0e9e-467c-9736-32e5fef74fb2",
+  "name": "Morey-Saint-Denis 1er cru Les Monts Luisants",
+  "full-name": "Frédéric Cossard Morey-Saint-Denis 1er cru Les Monts Luisants 2020",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "4400 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/dc/c66383-0e9e-467c-9736-32e5fef74fb2/2023-07-02-14-24-41-IMG-8083.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ec278c35-6280-41a3-a5ca-f54539aa68c6",
+  "name": "AhRamon",
+  "full-name": "La Sorga AhRamon 2015",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    },
+    {
+      "id": "714486b0-f167-45d4-b83e-be26ef299de7",
+      "name": "Malbec"
+    },
+    {
+      "id": "36fdf300-0d7c-486b-8c9b-84a8007e4726",
+      "name": "Aramon"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "480 UAH"
+  ],
+  "available": 0,
+  "image": "images/ec/278c35-6280-41a3-a5ca-f54539aa68c6/2020-03-15-17-35-10-D4AC7879-6FF9-4403-AE23-2F9F1FCD99A5-1-105-c.webp",
+  "rating": "7.0"
+}

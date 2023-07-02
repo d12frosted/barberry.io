@@ -1,0 +1,36 @@
+{
+  "id": "04c4ade7-46df-47f8-9969-bdf4225f7341",
+  "name": "Bacchus Pet Nat",
+  "full-name": "2Naturkinder Bacchus Pet Nat 2019",
+  "producer": {
+    "id": "8985ce5e-6689-48fd-a818-ea3b60a6462b",
+    "name": "2Naturkinder"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7118fbc9-e120-4038-a178-aba712261c31",
+      "name": "Bacchus"
+    },
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.1",
+  "prices": null,
+  "available": 0,
+  "image": "images/04/c4ade7-46df-47f8-9969-bdf4225f7341/2020-10-17-10-19-51-9C1F3BB4-CD2F-45BB-A05C-1F032120664A-1-105-c.webp",
+  "rating": "6.5"
+}

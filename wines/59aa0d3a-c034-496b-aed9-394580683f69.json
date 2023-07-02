@@ -1,0 +1,34 @@
+{
+  "id": "59aa0d3a-c034-496b-aed9-394580683f69",
+  "name": "Auxey-Duresses Les Crais",
+  "full-name": "Domaine de Chassorney Auxey-Duresses Les Crais 2020",
+  "producer": {
+    "id": "695d69a4-8d84-4efa-88ce-4ffbc0dd24e1",
+    "name": "Domaine de Chassorney"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.3",
+  "prices": [
+    "2150 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/59/aa0d3a-c034-496b-aed9-394580683f69/2023-07-02-14-15-37-IMG-8072.webp",
+  "rating": "NA"
+}

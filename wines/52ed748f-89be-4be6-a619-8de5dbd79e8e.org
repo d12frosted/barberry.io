@@ -75,5 +75,11 @@ Pinot Noir Blind Tasting #3. Dusty and closed aroma. Sophisticated, and I am con
     <section class="h text-bolder">Bourgogne - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/40b10838-b9ca-478f-ad02-937a4de0f0d6.html">
+    <img class="flex-bottle" src="/images/40/b10838-b9ca-478f-ad02-937a4de0f0d6/2021-02-22-23-00-33-3DBB406D-BC3D-4E19-A3C2-B0DAE53C8A58-1-105-c@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Savigny-lès-Beaune - 2017</section>
+  </a>
+
 </div>
 #+end_export

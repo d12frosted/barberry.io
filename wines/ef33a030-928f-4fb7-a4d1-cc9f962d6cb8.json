@@ -1,0 +1,34 @@
+{
+  "id": "ef33a030-928f-4fb7-a4d1-cc9f962d6cb8",
+  "name": "Éternel Retour",
+  "full-name": "La Sorga Éternel Retour 2021",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "21a36ce8-e8ea-4bf6-a439-0e35ed49678a",
+      "name": "Mauzac"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "NA",
+  "prices": [
+    "918 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ef/33a030-928f-4fb7-a4d1-cc9f962d6cb8/2023-07-02-14-30-29-IMG-8137.webp",
+  "rating": "NA"
+}

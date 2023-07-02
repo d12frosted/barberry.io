@@ -1,0 +1,47 @@
+#+attr_html: :class wine-main-image
+[[file:/images/38/bbfd42-6255-48c2-ba83-36b29c9e2b2b/2023-07-01-09-09-53-IMG-8066@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/8985ce5e-6689-48fd-a818-ea3b60a6462b][2Naturkinder]]
+- Vintage :: 2022
+- Location :: Germany, Deutscher Wein
+- Grapes :: Bacchus
+- Alcohol :: 10.5
+- Sugar :: 0.2
+- Price :: 940 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/04c4ade7-46df-47f8-9969-bdf4225f7341.html">
+    <img class="flex-bottle" src="/images/04/c4ade7-46df-47f8-9969-bdf4225f7341/2020-10-17-10-19-51-9C1F3BB4-CD2F-45BB-A05C-1F032120664A-1-105-c@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Bacchus Pet Nat - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26a79e10-55ff-49da-89ce-7b15f48575cf.html">
+    <img class="flex-bottle" src="/images/26/a79e10-55ff-49da-89ce-7b15f48575cf/2022-09-26-18-31-05-64E7AB15-13FD-4907-8A1C-EB770A28AED0-1-102-o@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Black Betty - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/55243040-cae6-4b3a-ac77-757ca8ab626b.html">
+    <img class="flex-bottle" src="/images/55/243040-cae6-4b3a-ac77-757ca8ab626b/2022-09-26-18-48-23-F08621BC-50D5-4624-877B-348C53CF913B-1-102-o@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Spätburgunder - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c6ee1a63-d3c8-411a-8d0c-36526e249dd8.html">
+    <img class="flex-bottle" src="/images/c6/ee1a63-d3c8-411a-8d0c-36526e249dd8/2022-09-26-19-04-02-C22A4F5B-77FA-48AB-B9BD-18E8B0E2099F-1-102-o@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Kleine Wanderlust - 2018</section>
+  </a>
+
+</div>
+#+end_export

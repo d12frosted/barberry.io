@@ -3,16 +3,52 @@
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ec278c35-6280-41a3-a5ca-f54539aa68c6.html">
+    <img class="flex-bottle" src="/images/ec/278c35-6280-41a3-a5ca-f54539aa68c6/2020-03-15-17-35-10-D4AC7879-6FF9-4403-AE23-2F9F1FCD99A5-1-105-c@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">AhRamon - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/36c1af0e-fba9-4896-8c34-8ba99f2ff89b.html">
+    <img class="flex-bottle" src="/images/36/c1af0e-fba9-4896-8c34-8ba99f2ff89b/2020-10-24-10-45-29-1F16BD50-9B57-4CBA-9177-22868EF5CE9F-1-105-c@512.webp"></img>
+    <section class="h">★ 6.50</section>
+    <section class="h text-bolder">Cuvée d Freux - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
     <img class="flex-bottle" src="/images/47/4939e8-1301-48d6-9227-cb9b57ad02be/2022-11-12-12-37-22-DBE35E30-5886-4EC2-95B8-CC311C7575D1-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Esprit Attila - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
+  <a class="flex-item flex-item-right" href="/wines/840d2600-dfa6-4832-aa8d-8273c71f0fc5.html">
+    <img class="flex-bottle" src="/images/84/0d2600-dfa6-4832-aa8d-8273c71f0fc5/2020-09-05-11-47-08-45C4293F-E8D1-4040-B5BC-AECBC96556AD-1-105-c@512.webp"></img>
+    <section class="h">★ 5.00</section>
+    <section class="h text-bolder">Gel I - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8fa18910-506d-4487-b682-c6099bc38df5.html">
     <img class="flex-bottle" src="/images/8f/a18910-506d-4487-b682-c6099bc38df5/2020-10-17-10-03-55-EDD91F2E-EF7B-4D1A-A2CE-84BBFC084706-1-105-c@512.webp"></img>
     <section class="h">★ 6.50</section>
     <section class="h text-bolder">S.M. - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/df51955f-9b5c-47d3-b746-5227a982da1c.html">
+    <img class="flex-bottle" src="/images/df/51955f-9b5c-47d3-b746-5227a982da1c/2020-03-30-19-09-56-AD68F401-6A6A-40C1-A9BA-0B7EE3CEC2D9-1-105-c@512.webp"></img>
+    <section class="h">★ 3.00</section>
+    <section class="h text-bolder">Sorga rouge - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/994c5e29-dce8-453a-b25d-bad22e580a29.html">
+    <img class="flex-bottle" src="/images/99/4c5e29-dce8-453a-b25d-bad22e580a29/2020-03-30-19-10-40-E6EBD852-EA09-43B7-9E4B-4204E660D495-1-102-o@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Sorgasme - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ef33a030-928f-4fb7-a4d1-cc9f962d6cb8.html">
+    <img class="flex-bottle" src="/images/ef/33a030-928f-4fb7-a4d1-cc9f962d6cb8/2023-07-02-14-30-29-IMG-8137@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Éternel Retour - 2021</section>
   </a>
 
 </div>

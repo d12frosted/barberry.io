@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9a/397c29-f2e6-484f-a732-457c18f5280c/2023-07-02-14-14-04-IMG-8069@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/5122a11b-3fed-4018-a965-37335da7785e][Chandon de Briailles]]
+- Vintage :: 2020
+- Location :: France, Savigny-les-Beaune AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13
+- Sugar :: 0.3
+- Price :: 2990 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Chandon de Briailles is a family owned domaine located in the northern part of Côte de Beaune, spread across Savigny-lès-Beaune, Pernand-Vergelesses and Aloxe-Corton, in total over 13.7 hectares. On average, the domaine produces 50,000 bottles per year, of which 60% are exported.
+
+Domaine is owned by Count and Countess Aymard-Claude de Nicolay and managed by their children - Claude and [[barberry:/producers/163248a9-c9bc-498a-9107-0ab002f2ea9f][François de Nicolay]]. Claude was born in 1967, she went through prolific education of viticulture in Beaune and eonology in Dijon. François was born in 1970 and is primarily a businessman who started wine career in 1996 by undertaking a winemaking course in Oregon. Since 2001 the duo works in winery.
+
+In 2005 they started experimenting with biodynamics.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/055df196-2f0a-462a-9be5-09fa24b17517.html">
+    <img class="flex-bottle" src="/images/05/5df196-2f0a-462a-9be5-09fa24b17517/2023-05-20-10-39-37-8F3E641D-0810-4F38-9D9F-9E8E68CF36AA-1-105-c@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2e108f4d-dfdf-4e6a-b6c8-cc349f28ffb4.html">
+    <img class="flex-bottle" src="/images/2e/108f4d-dfdf-4e6a-b6c8-cc349f28ffb4/main@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Savigny les Beaune 1er cru Aux Fournaux - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/40b10838-b9ca-478f-ad02-937a4de0f0d6.html">
+    <img class="flex-bottle" src="/images/40/b10838-b9ca-478f-ad02-937a4de0f0d6/2021-02-22-23-00-33-3DBB406D-BC3D-4E19-A3C2-B0DAE53C8A58-1-105-c@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Savigny-lès-Beaune - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
+    <img class="flex-bottle" src="/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2017</section>
+  </a>
+
+</div>
+#+end_export

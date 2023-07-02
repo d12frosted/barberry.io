@@ -45,7 +45,13 @@ Ah, Champagne by Charles Dufour. Clean style, you would not even tell that it is
     <section class="h text-bolder">Fontanasanta Manzoni Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
+  <a class="flex-item flex-item-right" href="/wines/36c1af0e-fba9-4896-8c34-8ba99f2ff89b.html">
+    <img class="flex-bottle" src="/images/36/c1af0e-fba9-4896-8c34-8ba99f2ff89b/2020-10-24-10-45-29-1F16BD50-9B57-4CBA-9177-22868EF5CE9F-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Cuvée d Freux - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/68abcb0e-bc4b-4b31-90cf-be3d56071e23.html">
     <img class="flex-bottle" src="/images/68/abcb0e-bc4b-4b31-90cf-be3d56071e23/2020-10-24-09-44-50-A18DFAF4-7304-48C6-A892-15F986E8F21D-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2019</section>

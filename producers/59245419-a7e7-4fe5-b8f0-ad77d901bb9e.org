@@ -21,5 +21,11 @@
     <section class="h text-bolder">Java - 2022</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/cffbb147-eb1b-411a-9c17-4814fc286078.html">
+    <img class="flex-bottle" src="/images/cf/fbb147-eb1b-411a-9c17-4814fc286078/2023-07-01-09-07-36-IMG-8046@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pink is not Red - 2022</section>
+  </a>
+
 </div>
 #+end_export

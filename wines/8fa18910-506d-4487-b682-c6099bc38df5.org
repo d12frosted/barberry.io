@@ -21,43 +21,85 @@ Unexpectedly good wine from La Sorga, winery mostly famous for crazy and faulty 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
+  <a class="flex-item flex-item-left" href="/wines/36c1af0e-fba9-4896-8c34-8ba99f2ff89b.html">
+    <img class="flex-bottle" src="/images/36/c1af0e-fba9-4896-8c34-8ba99f2ff89b/2020-10-24-10-45-29-1F16BD50-9B57-4CBA-9177-22868EF5CE9F-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Cuvée d Freux - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/474939e8-1301-48d6-9227-cb9b57ad02be.html">
     <img class="flex-bottle" src="/images/47/4939e8-1301-48d6-9227-cb9b57ad02be/2022-11-12-12-37-22-DBE35E30-5886-4EC2-95B8-CC311C7575D1-1-105-c@512.webp"></img>
     <section class="h">La Sorga</section>
     <section class="h text-bolder">Esprit Attila - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
+  <a class="flex-item flex-item-left" href="/wines/840d2600-dfa6-4832-aa8d-8273c71f0fc5.html">
+    <img class="flex-bottle" src="/images/84/0d2600-dfa6-4832-aa8d-8273c71f0fc5/2020-09-05-11-47-08-45C4293F-E8D1-4040-B5BC-AECBC96556AD-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Gel I - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/994c5e29-dce8-453a-b25d-bad22e580a29.html">
+    <img class="flex-bottle" src="/images/99/4c5e29-dce8-453a-b25d-bad22e580a29/2020-03-30-19-10-40-E6EBD852-EA09-43B7-9E4B-4204E660D495-1-102-o@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Sorgasme - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/df51955f-9b5c-47d3-b746-5227a982da1c.html">
+    <img class="flex-bottle" src="/images/df/51955f-9b5c-47d3-b746-5227a982da1c/2020-03-30-19-09-56-AD68F401-6A6A-40C1-A9BA-0B7EE3CEC2D9-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Sorga rouge - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ec278c35-6280-41a3-a5ca-f54539aa68c6.html">
+    <img class="flex-bottle" src="/images/ec/278c35-6280-41a3-a5ca-f54539aa68c6/2020-03-15-17-35-10-D4AC7879-6FF9-4403-AE23-2F9F1FCD99A5-1-105-c@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">AhRamon - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ef33a030-928f-4fb7-a4d1-cc9f962d6cb8.html">
+    <img class="flex-bottle" src="/images/ef/33a030-928f-4fb7-a4d1-cc9f962d6cb8/2023-07-02-14-30-29-IMG-8137@512.webp"></img>
+    <section class="h">La Sorga</section>
+    <section class="h text-bolder">Éternel Retour - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/04c4ade7-46df-47f8-9969-bdf4225f7341.html">
+    <img class="flex-bottle" src="/images/04/c4ade7-46df-47f8-9969-bdf4225f7341/2020-10-17-10-19-51-9C1F3BB4-CD2F-45BB-A05C-1F032120664A-1-105-c@512.webp"></img>
+    <section class="h">2Naturkinder</section>
+    <section class="h text-bolder">Bacchus Pet Nat - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/40543b4b-da12-4605-b0ea-c293b01b8c48.html">
     <img class="flex-bottle" src="/images/40/543b4b-da12-4605-b0ea-c293b01b8c48/2020-10-17-10-36-01-1FF02925-4058-4BDF-9549-1C0EA1A0E5C1-1-105-c@512.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Hárslevelű Lindenleaf - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
+  <a class="flex-item flex-item-right" href="/wines/55921253-705a-405f-b7ee-fca52d5797b4.html">
     <img class="flex-bottle" src="/images/55/921253-705a-405f-b7ee-fca52d5797b4/2020-10-03-09-55-53-A6864374-115F-43B6-B484-307A3A8F74FE-1-105-c@512.webp"></img>
     <section class="h">Weinbau Wenzel</section>
     <section class="h text-bolder">wild+free Lockvogel - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
+  <a class="flex-item flex-item-left" href="/wines/6704809d-a8b9-45d6-8271-c0ee155027ba.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Hummel</section>
     <section class="h text-bolder">Karašica PetNat Hárslevelű - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
+  <a class="flex-item flex-item-right" href="/wines/9f697524-026a-4db4-a5b9-358c7d483098.html">
     <img class="flex-bottle" src="/images/9f/697524-026a-4db4-a5b9-358c7d483098/2020-10-17-10-12-03-D8D48A9E-AC41-4E94-8584-FBB9ABB46C78-1-105-c@512.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Troiabomb - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
+  <a class="flex-item flex-item-left" href="/wines/cacdfc2c-ef7a-42e8-bdea-441d6150c5b4.html">
     <img class="flex-bottle" src="/images/ca/cdfc2c-ef7a-42e8-bdea-441d6150c5b4/2020-10-17-10-48-46-A7459E04-C1A4-462C-B806-A00E55CBACFB-1-105-c@512.webp"></img>
     <section class="h">Tiago Teles</section>
     <section class="h text-bolder">Gilda Tinto - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e0bf53eb-ddbf-4f57-9c58-18258b155835.html">
+  <a class="flex-item flex-item-right" href="/wines/e0bf53eb-ddbf-4f57-9c58-18258b155835.html">
     <img class="flex-bottle" src="/images/e0/bf53eb-ddbf-4f57-9c58-18258b155835/2020-10-17-10-06-23-E7BE1855-F45E-473F-B8C0-A703E59C7A18-1-105-c@512.webp"></img>
     <section class="h">Weinbau Wenzel</section>
     <section class="h text-bolder">Furmint Aus Dem Quarz unfiltriert - 2019</section>

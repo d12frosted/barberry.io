@@ -1,0 +1,34 @@
+{
+  "id": "2e108f4d-dfdf-4e6a-b6c8-cc349f28ffb4",
+  "name": "Savigny les Beaune 1er cru Aux Fournaux",
+  "full-name": "Chandon de Briailles Savigny les Beaune 1er cru Aux Fournaux 2017",
+  "producer": {
+    "id": "5122a11b-3fed-4018-a965-37335da7785e",
+    "name": "Chandon de Briailles"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.2",
+  "prices": [
+    "1179 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2e/108f4d-dfdf-4e6a-b6c8-cc349f28ffb4/main.webp",
+  "rating": "8.25"
+}

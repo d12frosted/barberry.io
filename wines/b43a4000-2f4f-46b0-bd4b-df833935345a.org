@@ -29,3 +29,15 @@ Black cherry, cacao, vanilla, sour cherry and leather hints. Young, but already 
 
 Elegant and perfectly balanced wine that I would simply describe with a single word - delicious! Plume, strawberry, black cherry, hazelnut and tobacco. Smooth and flavourful.
 
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3331728d-cbbf-49f6-bad3-c6bb043def40.html">
+    <img class="flex-bottle" src="/images/33/31728d-cbbf-49f6-bad3-c6bb043def40/2023-07-02-14-25-52-IMG-8095@512.webp"></img>
+    <section class="h">Marcel Lapierre</section>
+    <section class="h text-bolder">Beaujolais - 2021</section>
+  </a>
+
+</div>
+#+end_export

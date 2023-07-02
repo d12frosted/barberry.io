@@ -8,7 +8,13 @@ There where two tits of the Beaujolais, sugar and sulfur.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/b43a4000-2f4f-46b0-bd4b-df833935345a.html">
+  <a class="flex-item flex-item-left" href="/wines/3331728d-cbbf-49f6-bad3-c6bb043def40.html">
+    <img class="flex-bottle" src="/images/33/31728d-cbbf-49f6-bad3-c6bb043def40/2023-07-02-14-25-52-IMG-8095@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Beaujolais - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b43a4000-2f4f-46b0-bd4b-df833935345a.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Cuvée MMXVIII - 2018</section>

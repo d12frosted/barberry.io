@@ -1,0 +1,34 @@
+{
+  "id": "6c129f60-fcfd-4932-8e19-21658792599a",
+  "name": "Volnay 1er cru Les Roncerets",
+  "full-name": "Domaine de Chassorney Volnay 1er cru Les Roncerets 2020",
+  "producer": {
+    "id": "695d69a4-8d84-4efa-88ce-4ffbc0dd24e1",
+    "name": "Domaine de Chassorney"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "15",
+  "sugar": "0.3",
+  "prices": [
+    "3400 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/6c/129f60-fcfd-4932-8e19-21658792599a/2023-07-02-14-23-45-IMG-8080.webp",
+  "rating": "NA"
+}

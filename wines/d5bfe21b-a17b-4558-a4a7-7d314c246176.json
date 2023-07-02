@@ -1,0 +1,34 @@
+{
+  "id": "d5bfe21b-a17b-4558-a4a7-7d314c246176",
+  "name": "Ipadri",
+  "full-name": "La Stoppa Ipadri 2006",
+  "producer": {
+    "id": "e852c48c-eb2b-48ec-90f2-1ac7f0203073",
+    "name": "La Stoppa"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "3.5",
+  "prices": [
+    "500 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d5/bfe21b-a17b-4558-a4a7-7d314c246176/2023-07-02-14-28-48-IMG-8120.webp",
+  "rating": "8.5"
+}

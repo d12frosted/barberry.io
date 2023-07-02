@@ -1,0 +1,34 @@
+{
+  "id": "df51955f-9b5c-47d3-b746-5227a982da1c",
+  "name": "Sorga rouge",
+  "full-name": "La Sorga Sorga rouge 2016",
+  "producer": {
+    "id": "5a281f27-88c8-473e-a9fd-0e589375b1e2",
+    "name": "La Sorga"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "2",
+  "prices": [
+    "540 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/df/51955f-9b5c-47d3-b746-5227a982da1c/2020-03-30-19-09-56-AD68F401-6A6A-40C1-A9BA-0B7EE3CEC2D9-1-105-c.webp",
+  "rating": "3.0"
+}

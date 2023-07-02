@@ -45,55 +45,61 @@
     <section class="h text-bolder">Integer Zibibbo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
+  <a class="flex-item flex-item-right" href="/wines/a6befdd9-488a-47f7-9c87-16778ea321d2.html">
+    <img class="flex-bottle" src="/images/a6/befdd9-488a-47f7-9c87-16778ea321d2/2023-07-01-09-06-28-IMG-8042@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Integer Zibibbo - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/39759de1-c9a6-4f03-83e9-455ec32e6459.html">
     <img class="flex-bottle" src="/images/39/759de1-c9a6-4f03-83e9-455ec32e6459/2020-11-03-22-01-24-D83F2658-3CBD-4E42-9F77-A2B5A5D9034C-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Lucido - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
+  <a class="flex-item flex-item-right" href="/wines/c2a1ba1f-6ed7-4c0f-bcd3-a497501d5912.html">
     <img class="flex-bottle" src="/images/c2/a1ba1f-6ed7-4c0f-bcd3-a497501d5912/2023-05-18-08-22-51-D0078754-0173-46E1-9DE3-3A020900A73F-1-105-c@512.webp"></img>
     <section class="h">★ 8.33</section>
     <section class="h text-bolder">Pietra Nera - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
+  <a class="flex-item flex-item-left" href="/wines/c131fb36-151e-415d-aa76-23f4dff142b7.html">
     <img class="flex-bottle" src="/images/c1/31fb36-151e-415d-aa76-23f4dff142b7/2022-09-03-15-59-31-IMG-1927@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Pietra Nera - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3b456bae-a9d9-437a-9acb-25ca9df3670e.html">
+  <a class="flex-item flex-item-right" href="/wines/3b456bae-a9d9-437a-9acb-25ca9df3670e.html">
     <img class="flex-bottle" src="/images/3b/456bae-a9d9-437a-9acb-25ca9df3670e/2023-05-29-09-31-45-8FB7B622-33D2-4AF5-80F6-46C31A3BE256-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Pietra Nera - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
+  <a class="flex-item flex-item-left" href="/wines/76ec295d-cca4-46d8-bbb9-0c0e37253ed9.html">
     <img class="flex-bottle" src="/images/76/ec295d-cca4-46d8-bbb9-0c0e37253ed9/2020-05-26-08-37-22-6E2A490C-E439-4219-925B-C2B0CCAC4DBE-1-105-c@512.webp"></img>
     <section class="h">★ 6.80</section>
     <section class="h text-bolder">Rosso di Marco - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
     <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
     <section class="h">★ 7.68</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace.html">
+  <a class="flex-item flex-item-left" href="/wines/1893422e-70fc-4fb0-b984-bccfca0d3ace.html">
     <img class="flex-bottle" src="/images/18/93422e-70fc-4fb0-b984-bccfca0d3ace/2023-05-28-09-24-05-29536BBD-B072-4CF6-91E4-2A5949EFF525-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Terzavia - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
+  <a class="flex-item flex-item-right" href="/wines/76975d50-7be4-4f3d-b60d-7e01629a1856.html">
     <img class="flex-bottle" src="/images/76/975d50-7be4-4f3d-b60d-7e01629a1856/2020-09-24-08-47-26-997270F7-7B9E-4E7A-ABCC-A1B06EE39D7B-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Vigna La Miccia Marsala Superiore Oro - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
+  <a class="flex-item flex-item-left" href="/wines/e68f721c-e0b7-44e4-80f4-5f6eda3b6645.html">
     <img class="flex-bottle" src="/images/e6/8f721c-e0b7-44e4-80f4-5f6eda3b6645/2022-08-27-12-30-22-3E439858-1712-40D5-9430-23618DD27094-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Vignaverde - 2019</section>

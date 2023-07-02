@@ -1,0 +1,34 @@
+{
+  "id": "3331728d-cbbf-49f6-bad3-c6bb043def40",
+  "name": "Beaujolais",
+  "full-name": "Marcel Lapierre Beaujolais 2021",
+  "producer": {
+    "id": "c38d17a7-3261-417e-b531-a4db14fcc66d",
+    "name": "Marcel Lapierre"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "847 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/33/31728d-cbbf-49f6-bad3-c6bb043def40/2023-07-02-14-25-52-IMG-8095.webp",
+  "rating": "NA"
+}
