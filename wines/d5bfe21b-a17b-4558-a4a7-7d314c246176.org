@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 3.5
 - Price :: 500 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -34,6 +34,10 @@ Perfect finish for the evening. Ipadri opens up with prune, dried black fruits, 
 Ipadri, Merlot from interesting producer. Wine is fading and it's already past it's peak. Jam, fig, clove and sweat. Still good, but not as good as it was even half a year ago. Still good value.
 
 P.S. Be careful, as it has lot's of big particles.
+
+*** 2023-07-01 - ☆ 7.50
+
+I haven't tasted this wine (and this particular vintage) for more than three years. In my memory, it was almost dead already. Some good samaritans managed to keep a bottle to this day. And luckily for me, they were generous enough to invite me to this act of necromancy. Toffee, steak, prune, tar, liquor, black currant jam, menthol, and a bit of liquorice. Fades, unfortunately. Tannin is mature, and acidity is still there, but the aftertaste is short. The wine is over its peak. And that's an interesting experience.
 
 ** Related
 
@@ -63,10 +67,22 @@ P.S. Be careful, as it has lot's of big particles.
     <section class="h text-bolder">Ageno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/214fef7c-8a47-4dde-a2fa-e1944ee7a4a1.html">
+  <a class="flex-item flex-item-left" href="/wines/20e94cc8-5a13-411e-8665-4aa07b26a9d9.html">
+    <img class="flex-bottle" src="/images/20/e94cc8-5a13-411e-8665-4aa07b26a9d9/2023-05-19-16-48-16-IMG-7038@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">Baby Bandito Stay Brave - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/214fef7c-8a47-4dde-a2fa-e1944ee7a4a1.html">
     <img class="flex-bottle" src="/images/21/4fef7c-8a47-4dde-a2fa-e1944ee7a4a1/2020-03-05-20-02-56-8DA6DBB0-6E64-45D1-B80A-24688C440932-1-105-c@512.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Cheverny La Caillere - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
+    <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-06-20-17-54-33-IMG-7877@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
   </a>
 
 </div>

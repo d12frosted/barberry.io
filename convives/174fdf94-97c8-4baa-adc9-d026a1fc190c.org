@@ -1,10 +1,18 @@
-Hello, fellow convive! This page contains a list of wines (414 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (417 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Saturday,  1 July 2023
+
+*** @Elvira Kantiieva
+
+- &nbsp; &emptyscore; [[barberry:/wines/20e94cc8-5a13-411e-8665-4aa07b26a9d9][Testalonga Baby Bandito Stay Brave 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/d5bfe21b-a17b-4558-a4a7-7d314c246176][La Stoppa Ipadri 2006]]
+- &nbsp; &emptyscore; [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
 
 ** Friday, 30 June 2023
 
