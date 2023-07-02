@@ -1,12 +1,13 @@
 Without further ado, meet our protagonists.
 
-1. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
-2. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
-3. [[barberry:/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443][Girolamo Russo Nerina 2019]]
-4. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
-5. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
-6. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errazuriz Aconcagua Costa Chardonnay 2016]]
-7. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
+1. [[barberry:/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b][Aphros Phaunus Pet Nat Brut 2020]] (welcome drink)
+2. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
+3. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
+4. [[barberry:/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443][Girolamo Russo Nerina 2019]]
+5. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
+6. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
+7. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errazuriz Aconcagua Costa Chardonnay 2016]]
+8. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
 
 * Scores
 :PROPERTIES:
@@ -18,13 +19,14 @@ Without further ado, meet our protagonists.
 #+results: summary
 |         | rms | sdev | favourite |   price | QPR |
 |---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    | 3300.00 | -   |
-| Wine #2 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 1053.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 1396.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 1290.00 | -   |
-| Wine #7 | -   | -    | *0.00*    |  895.00 | -   |
+| Wine #1 | -   | -    | *0.00*    | 1099.00 | -   |
+| Wine #2 | -   | -    | *0.00*    |  895.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1290.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 1396.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 1053.00 | -   |
+| Wine #8 | -   | -    | *0.00*    | 3300.00 | -   |
 
 How to read this table:
 
@@ -43,9 +45,9 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|-------+---------+---------+---------+---------+---------+---------+---------|
-| Boris | -       | -       | -       | -       | -       | -       | -       |
+|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Boris | -       | -       | -       | -       | -       | -       | -       | -       |
 
 * Resources
 :PROPERTIES:

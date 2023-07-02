@@ -9,13 +9,17 @@
 - Alcohol :: 12.5
 - Sugar :: 1.2
 - Price :: 868 UAH, 659 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2021-08-13 - ☆ 8.50
 
 Wonderful as always. Sophisticated and expressive bouquet: citrus, black currant leaves, pepper, cheese, green grass and flint. Fresh, crisp and delicious Sauvignon Blanc with long and flavourful finish.
+
+*** 2023-06-30 - ☆ 7.50
+
+A rather confusing experience. I am not sure if this wine developed into an unpleasant area or if it's just me that wasn't ready for a relatively heavy and herbaceous Sauvignon Blanc. A seemingly sophisticated mixture of holy basil, estragon, black currant leaves, lemon, meringue and sea pebbles. Expressive even pompous, but interesting and well-made. It could get a higher score but the lack of balance and warm aftertaste ruined the image.
 
 ** Related
 
@@ -63,10 +67,22 @@ Wonderful as always. Sophisticated and expressive bouquet: citrus, black currant
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8eb40a5f-dcc7-4e39-8a70-da38e5d6124c.html">
+  <a class="flex-item flex-item-right" href="/wines/8d579b38-f1d2-45bd-b7fb-1da5846cb9cd.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Vignaverde - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8eb40a5f-dcc7-4e39-8a70-da38e5d6124c.html">
     <img class="flex-bottle" src="/images/8e/b40a5f-dcc7-4e39-8a70-da38e5d6124c/2021-08-14-09-54-47-B7D86A6C-FF77-43F6-A473-175414F31B89-1-105-c@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a6befdd9-488a-47f7-9c87-16778ea321d2.html">
+    <img class="flex-bottle" src="/images/a6/befdd9-488a-47f7-9c87-16778ea321d2/2023-07-01-09-06-28-IMG-8042@512.webp"></img>
+    <section class="h">Marco De Bartoli</section>
+    <section class="h text-bolder">Integer Zibibbo - 2021</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
@@ -75,10 +91,22 @@ Wonderful as always. Sophisticated and expressive bouquet: citrus, black currant
     <section class="h text-bolder">Zweigelt - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+  <a class="flex-item flex-item-right" href="/wines/cffbb147-eb1b-411a-9c17-4814fc286078.html">
+    <img class="flex-bottle" src="/images/cf/fbb147-eb1b-411a-9c17-4814fc286078/2023-07-01-09-07-36-IMG-8046@512.webp"></img>
+    <section class="h">La Cave Apicole</section>
+    <section class="h text-bolder">Pink is not Red - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
     <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/da22054b-8886-4194-9e2c-e3a798aaa374.html">
+    <img class="flex-bottle" src="/images/da/22054b-8886-4194-9e2c-e3a798aaa374/2023-07-01-09-03-49-IMG-8035@512.webp"></img>
+    <section class="h">Testalonga</section>
+    <section class="h text-bolder">El Bandito I Wish I was a Ninja - 2022</section>
   </a>
 
 </div>

@@ -1,10 +1,18 @@
-Hello, fellow convive! This page contains a list of wines (411 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (414 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Friday, 30 June 2023
+
+*** @Wix Kyiv Office
+
+- &nbsp; &emptyscore; [[barberry:/wines/67b1bff3-17d8-4eeb-b8b8-07030edb41ac][Weingut Tement Sauvignon Blanc Südsteiermark Spätfüllung 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/da22054b-8886-4194-9e2c-e3a798aaa374][Testalonga El Bandito I Wish I was a Ninja 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/8d579b38-f1d2-45bd-b7fb-1da5846cb9cd][Marco De Bartoli Vignaverde 2021]]
 
 ** Thursday, 29 June 2023
 
