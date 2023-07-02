@@ -1,10 +1,16 @@
-Hello, fellow convive! This page contains a list of wines (77 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (78 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Friday, 30 June 2023
+
+*** @Garage
+
+- &nbsp; &emptyscore; [[barberry:/wines/9a397c29-f2e6-484f-a732-457c18f5280c][Chandon de Briailles Savigny-lès-Beaune 1er cru Les Lavières 2020]]
 
 ** Tuesday, 20 June 2023
 

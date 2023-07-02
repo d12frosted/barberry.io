@@ -14,13 +14,13 @@ Recently, Cossard has started experimenting with qvevri as an alternative to oak
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2bc9cee5-97b2-4214-bf30-71361b71144e.html">
     <img class="flex-bottle" src="/images/2b/c9cee5-97b2-4214-bf30-71361b71144e/2023-07-02-14-21-35-IMG-8077@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Bourgogne Pinot Noir Bedeau Qvevris - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/dcc66383-0e9e-467c-9736-32e5fef74fb2.html">
     <img class="flex-bottle" src="/images/dc/c66383-0e9e-467c-9736-32e5fef74fb2/2023-07-02-14-24-41-IMG-8083@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.25</section>
     <section class="h text-bolder">Morey-Saint-Denis 1er cru Les Monts Luisants - 2020</section>
   </a>
 
