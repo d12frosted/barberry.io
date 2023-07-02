@@ -9,5 +9,17 @@
     <section class="h text-bolder">Loureiro - 2014</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b.html">
+    <img class="flex-bottle" src="/images/54/aaa7a2-2d02-4d12-9892-e2154b42339b/2023-07-02-14-57-04-IMG-8152@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Phaunus Pet Nat Brut - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4a453bce-a3b4-4666-b4a4-d7ad780b9f34.html">
+    <img class="flex-bottle" src="/images/4a/453bce-a3b4-4666-b4a4-d7ad780b9f34/2023-07-02-14-57-29-IMG-8155@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Phaunus Pet Nat Brut Rosé - 2020</section>
+  </a>
+
 </div>
 #+end_export

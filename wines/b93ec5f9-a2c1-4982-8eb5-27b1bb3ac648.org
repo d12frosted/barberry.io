@@ -21,22 +21,34 @@ This Slovakian blend offers a perfumed and intense bouquet with well-weaved VA. 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
+  <a class="flex-item flex-item-left" href="/wines/61a93f0f-60ca-4b7a-8aaf-fefdb64f326b.html">
+    <img class="flex-bottle" src="/images/61/a93f0f-60ca-4b7a-8aaf-fefdb64f326b/2023-07-02-14-53-04-IMG-8150@512.webp"></img>
+    <section class="h">Bott Frigyes</section>
+    <section class="h text-bolder">Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
     <img class="flex-bottle" src="/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c@512.webp"></img>
     <section class="h">Bott Frigyes</section>
     <section class="h text-bolder">Juhfark - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
+  <a class="flex-item flex-item-left" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
     <img class="flex-bottle" src="/images/14/9668d8-4c02-44c0-8955-8d6028e35c92/2023-05-03-21-10-46-6C56FF35-3CFA-4F1B-B967-CD31D7BCE010-1-105-c@512.webp"></img>
     <section class="h">Mtsvane Estate</section>
     <section class="h text-bolder">Pet-Nat Brut Tsolikauri-Tsitska - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
-    <img class="flex-bottle" src="/images/33/f9dc8f-32e1-4960-90e1-ad2807edc2a3/2023-06-21-19-07-34-6FBB5AA3-59B1-43E2-9C42-EB89F98A3D20-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
+    <img class="flex-bottle" src="/images/33/f9dc8f-32e1-4960-90e1-ad2807edc2a3/2023-07-02-14-47-13-IMG-8141@512.webp"></img>
     <section class="h">Eugenio Rosi</section>
     <section class="h text-bolder">Riflesso Rosi Rosato - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/40870c4e-61f7-4b11-9ab5-42d44a22829e.html">
+    <img class="flex-bottle" src="/images/40/870c4e-61f7-4b11-9ab5-42d44a22829e/2023-07-02-14-47-38-IMG-8144@512.webp"></img>
+    <section class="h">Comm. G.B. Burlotto</section>
+    <section class="h text-bolder">Verduno Pelaverga - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">

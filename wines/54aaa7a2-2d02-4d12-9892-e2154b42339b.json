@@ -1,0 +1,39 @@
+{
+  "id": "54aaa7a2-2d02-4d12-9892-e2154b42339b",
+  "name": "Phaunus Pet Nat Brut",
+  "full-name": "Aphros Phaunus Pet Nat Brut 2020",
+  "producer": {
+    "id": "79fa0a9d-3631-4815-b52c-8b8b02480d2d",
+    "name": "Aphros"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "28c43196-ab76-478a-82e1-db13aad7334f",
+      "name": "Loureiro"
+    },
+    {
+      "id": "78bc05d6-9db0-4828-873d-ac827994b097",
+      "name": "Arinto"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "669 UAH",
+    "1099 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/54/aaa7a2-2d02-4d12-9892-e2154b42339b/2023-07-02-14-57-04-IMG-8152.webp",
+  "rating": "NA"
+}

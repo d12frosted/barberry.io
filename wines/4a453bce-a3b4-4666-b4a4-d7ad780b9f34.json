@@ -1,0 +1,39 @@
+{
+  "id": "4a453bce-a3b4-4666-b4a4-d7ad780b9f34",
+  "name": "Phaunus Pet Nat Brut Rosé",
+  "full-name": "Aphros Phaunus Pet Nat Brut Rosé 2020",
+  "producer": {
+    "id": "79fa0a9d-3631-4815-b52c-8b8b02480d2d",
+    "name": "Aphros"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "36d9ac54-66ae-43d3-a1ae-9cd0c64bc894",
+    "name": "Portugal"
+  },
+  "grapes": [
+    {
+      "id": "9b4ba2dd-f8a3-4d1a-a71a-8456cf1dc74a",
+      "name": "Vinhão"
+    },
+    {
+      "id": "a7b6d7f7-2966-4c59-927f-8679e573f0f4",
+      "name": "Alvarelhão"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "669 UAH",
+    "1099 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4a/453bce-a3b4-4666-b4a4-d7ad780b9f34/2023-07-02-14-57-29-IMG-8155.webp",
+  "rating": "NA"
+}

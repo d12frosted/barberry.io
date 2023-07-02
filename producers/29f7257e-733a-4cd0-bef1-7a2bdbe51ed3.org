@@ -15,5 +15,11 @@
     <section class="h text-bolder">Just Enjoy White - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/61a93f0f-60ca-4b7a-8aaf-fefdb64f326b.html">
+    <img class="flex-bottle" src="/images/61/a93f0f-60ca-4b7a-8aaf-fefdb64f326b/2023-07-02-14-53-04-IMG-8150@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pinot Noir - 2020</section>
+  </a>
+
 </div>
 #+end_export

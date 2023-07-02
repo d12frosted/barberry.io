@@ -1,0 +1,35 @@
+{
+  "id": "61a93f0f-60ca-4b7a-8aaf-fefdb64f326b",
+  "name": "Pinot Noir",
+  "full-name": "Bott Frigyes Pinot Noir 2020",
+  "producer": {
+    "id": "29f7257e-733a-4cd0-bef1-7a2bdbe51ed3",
+    "name": "Bott Frigyes"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "656e55a0-7458-4533-807a-012eea7f87f8",
+    "name": "Slovakia"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "795 UAH",
+    "895 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/61/a93f0f-60ca-4b7a-8aaf-fefdb64f326b/2023-07-02-14-53-04-IMG-8150.webp",
+  "rating": "NA"
+}
