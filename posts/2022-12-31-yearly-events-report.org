@@ -473,7 +473,7 @@ This year we visited 19 countries (vs 14 last year). Now some of us can flex aft
 :ID:                     071bc427-0200-4463-a25d-57cbd917b350
 :END:
 
-And this is the chart that makes me proud. We tasted 74 grapes (ignoring the 417 variety field blend and smaller field blends) compared to 42 last year. Moreover, only because of the last event, Pinot Noir and Chardonnay are at the top again. I assure you, not many sommeliers tasted all these grapes. For example, Jgia is almost extinct. La Crescent is a rare grape created for the cold climate of the northern parts of the Americas. Pelaverga Piccolo? Refošk? Robola? Ortugo? Folks, we are lucky.
+And this is the chart that makes me proud. We tasted 73 grapes (ignoring the 417 variety field blend and smaller field blends) compared to 42 last year. Moreover, only because of the last event, Pinot Noir and Chardonnay are at the top again. I assure you, not many sommeliers tasted all these grapes. For example, Jgia is almost extinct. La Crescent is a rare grape created for the cold climate of the northern parts of the Americas. Pelaverga Piccolo? Refošk? Robola? Ortugo? Folks, we are lucky.
 
 #+attr_html: :id grapes-count
 #+attr_html: :data grapes-count-data
@@ -493,6 +493,7 @@ And this is the chart that makes me proud. We tasted 74 grapes (ignoring the 417
 | Ribolla Gialla               |     4 |
 | Riesling                     |     3 |
 | Sauvignon Blanc              |     3 |
+| Pinot Blanc                  |     3 |
 | Cariñena                     |     2 |
 | Corvina                      |     2 |
 | Gamay                        |     2 |
@@ -500,7 +501,6 @@ And this is the chart that makes me proud. We tasted 74 grapes (ignoring the 417
 | Godello                      |     2 |
 | Grillo                       |     2 |
 | Molinara                     |     2 |
-| Pinot Blanc                  |     2 |
 | Rondinella                   |     2 |
 | Sangiovese                   |     2 |
 | Syrah                        |     2 |
@@ -555,7 +555,6 @@ And this is the chart that makes me proud. We tasted 74 grapes (ignoring the 417
 | Torrontes                    |     1 |
 | Trebbiano                    |     1 |
 | Treixadura                   |     1 |
-| Weissburgunder               |     1 |
 | Welschriesling               |     1 |
 | Xarel-lo                     |     1 |
 
