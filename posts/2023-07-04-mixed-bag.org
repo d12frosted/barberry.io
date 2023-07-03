@@ -13,6 +13,34 @@ Yet I didn't want to focus solely on atypical places or grapes. Some of the bott
 7. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errazuriz Aconcagua Costa Chardonnay 2016]]
 8. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
 
+* Scores
+:PROPERTIES:
+:ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms | sdev | favourite |   price | QPR |
+|---------+-----+------+-----------+---------+-----|
+| Wine #1 | -   | -    | *0.00*    | 1099.00 | -   |
+| Wine #2 | -   | -    | *0.00*    |  895.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1290.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 1396.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 1619.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 1053.00 | -   |
+| Wine #8 | -   | -    | *0.00*    | 3300.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
 * Aphros Phaunus Pet Nat Brut 2020
 :PROPERTIES:
 :ID:                     44d7867a-6eb3-427a-b302-58694b04b34c
@@ -63,9 +91,26 @@ Yet I didn't want to focus solely on atypical places or grapes. Some of the bott
 - grapes: Furmint
 - region: Burgenland
 - location: Austria
-- alcohol: 12.5
+- alcohol: 12.2
 - sugar: 2
 - price: 1290 UAH
+
+Weingut Wenzel comes from the free city of Rust in Burgenland, Austria. Michael Wenzel and Sonja Priller operate the winery today. The vineyards are located on the western shore of Lake Neusiedl, 5 km[fn:1] from the Hungarian border. The winery owns 10 hectares[fn:2] across four sites (Riede) - Kleiner Wald, Pandkräftn, Satz and Vogelsang. The soil consists primarily of clam lime, gneiss, and red and blue quartz.
+
+What is more or less clear - the Wenzel family played and still plays an important role in rediscovering the Furmint variety on Austrian soil. Furmint was once the most important white wine variety in the Danube Monarchy. In the turmoil of the 20th century, it was largely forgotten in Austria - unlike in Hungary, where the largest growing area for Furmint is still to this day.
+
+Despite the dangers of being caught (the Iron Curtain was not a joke), Michael's father, Robert, and grandfather smuggled back historic clones from Hungary in 1984. In addition to the Wenzels, only the old vine nursery Seiler in Rust still had a few wild vines. Yet Robert Wenzel was the first to consciously rely on this old variety. And to this day, the family owns (at least according to Michael) the oldest Furmint vines in Austria.
+
+Since then, Michael Wenzel has cultivated four of the best vineyards in Rust according to bio-organic guidelines. And impressively, Michael owns a ninth of all Furmint vines[fn:3] in Austria. And from these 3 hectares, he presses the most extensive Furmint portfolio in the world.
+
+#+caption: https://austrianvineyards.com/200426/vogelsang
+[[file:/images/2023-07-04-mixed-bag/2023-07-03-20-48-51-Capture-2023-07-03-204809.webp]]
+
+The wine is named after the site it comes from - Vogelsang (bird song), which indicates a diverse bird population. The site is about 25 hectares, of which Furmint occupies only 1.3 hectares. I could not find information on how much of these 1.3 hectares Michael Wenzel owns. In any case, the vines grow on weathered mica schist with little lime and lots of loam.
+
+It seems that the latest release of the 2021 vintage doesn't include Vogelsang. Why? I don't know.
+
+Meh, this was way too long. See what happens when I can't find information?
 
 * Girolamo Russo Nerina 2019
 :PROPERTIES:
@@ -159,35 +204,7 @@ Yet I didn't want to focus solely on atypical places or grapes. Some of the bott
 
 Pierre-Yves Colin is one of Burgundy's (and the wine world's) most iconic winemakers. After working as the winemaker at his father's domaine from 1994 to 2005, Pierre-Yves established his own domaine alongside his wife, Caroline Morey. And while they inherited quite a few vineyards from their families, Pierre-Yves had to prove himself before his father, Marc Colin, allowed him to take over the vineyard in Bâtard-Montrachet. Today, it's the only Grand Cru owned by Pierre-Yves Colin-Morey.
 
-His fastidious farming (lutte raisonnée[fn:1]), incredible attention to detail, use of larger demi-muid barrels, and long elevage - all that makes each one of his bottlings a clear expression of its terroir and a study in mineral-driven Chardonnay. Unlike many locals, Pierre-Yves uses 350L barrels (instead of 225L) and also ages his wines for a longer period of 18 months (vs 12 months).
-
-* Scores
-:PROPERTIES:
-:ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
-:END:
-
-#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
-#+caption: Results
-#+results: summary
-|         | rms | sdev | favourite |   price | QPR |
-|---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    | 1099.00 | -   |
-| Wine #2 | -   | -    | *0.00*    |  895.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1290.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 1396.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 1053.00 | -   |
-| Wine #8 | -   | -    | *0.00*    | 3300.00 | -   |
-
-How to read this table:
-
-- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
-- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
-- =favourite= is amount of people who marked this wine as favourite of the event.
-- =outcast= is amount of people who marked this wine as outcast of the event.
-- =price= is wine price in UAH.
-- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+His fastidious farming (lutte raisonnée[fn:4]), incredible attention to detail, use of larger demi-muid barrels, and long elevage - all that makes each one of his bottlings a clear expression of its terroir and a study in mineral-driven Chardonnay. Unlike many locals, Pierre-Yves uses 350L barrels (instead of 225L) and also ages his wines for a longer period of 18 months (vs 12 months).
 
 * Raw scores
 :PROPERTIES:
@@ -206,5 +223,17 @@ How to read this table:
 :ID:                     6cd659c0-afa3-47ee-a058-9db8532fa6fa
 :END:
 
-[fn:1] Lutte raisonnée (literally 'reasoned struggle') is an approach to viticulture which permits the application of agrochemicals only when absolutely necessary and not as a matter of routine. Practically, that means no chemicals unless there is a high risk of losing harvest or vines altogether.
+1. [[https://www.michaelwenzel.at][Michael Wenzel]]
+2. [[https://hoetoft.com/blogs/galleri/lorem-ipsum-dolor?_pos=1&_psq=wenzel&_ss=e&_v=1.0][Michael Wenzel - HØTOFT]]
+3. [[https://wineguide.wein.plus/weinbau-wenzel][Weingut Wenzel - wein.plus]]
+4. [[https://newcomerwines.com/collections/michael-wenzel?_pos=1&_psq=wenzel&_ss=e&_v=1.0][Michael Wenzel - Newcomer wines]]
+5. [[https://www.austrianwine.com/producers-market/winery?tx_wineapi_wineriesdetail%5Bwinery%5D=winery_20301&cHash=d6f553509952cdb10997c9e1c3e51be6][Michael Wenzel - Austrian Wine]]
+
+[fn:1] Some inconsistencies just drive me mad. For example, the official site of the winery states that the vineyards are located 5 km from the Hungarian border. HØTOFT (Wenzel's distributor) talks about 20 km. It's hard to use maps for accurate measures because it's unclear where exactly the vineyards are located, and the vague description (on the western shore of Lake Neusiedl) is not helpful enough as the lake is enormously big (from north to south, it's about 36 km long). On the other hand, Vogelsang and Satz are the two most Southern sites Wenzel owns vines on, and both are around 5 km from the border, at least according to [[https://austrianvineyards.com/200426/vogelsang][Austrian Vineyards]].
+
+[fn:2] According to [[https://www.austrianwine.com/producers-market/winery?tx_wineapi_wineriesdetail%5Bwinery%5D=winery_20301&cHash=d6f553509952cdb10997c9e1c3e51be6][Austrian Wine]].
+
+[fn:3] According to [[https://www.austrianwine.com/our-wine/grape-varieties/white-wine/furmint][Austrian Wine]].
+
+[fn:4] Lutte raisonnée (literally 'reasoned struggle') is an approach to viticulture which permits the application of agrochemicals only when absolutely necessary and not as a matter of routine. Practically, that means no chemicals unless there is a high risk of losing harvest or vines altogether.
 
