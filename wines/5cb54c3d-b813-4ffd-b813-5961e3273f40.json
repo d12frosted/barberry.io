@@ -1,0 +1,42 @@
+{
+  "id": "5cb54c3d-b813-4ffd-b813-5961e3273f40",
+  "name": "Santorini Nykteri",
+  "full-name": "Santo Wines Santorini Nykteri 2021",
+  "producer": {
+    "id": "e1b9b1e9-3f66-4a59-bb50-2b7d9ffa0df7",
+    "name": "Santo Wines"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
+    "name": "Greece"
+  },
+  "grapes": [
+    {
+      "id": "d7292622-98ad-427b-bf58-15ecfdab8bf7",
+      "name": "Assyrtiko"
+    },
+    {
+      "id": "e097993e-6d0f-4890-bdef-43a2e332b41e",
+      "name": "Athiri Lefko"
+    },
+    {
+      "id": "37affd45-d451-4d08-af18-9d77dddcdcee",
+      "name": "Aidini"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "2400 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5c/b54c3d-b813-4ffd-b813-5961e3273f40/2023-07-04-23-41-00-IMG-8202.webp",
+  "rating": "NA"
+}

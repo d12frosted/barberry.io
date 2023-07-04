@@ -59,5 +59,17 @@ Brett touch (ah, Bret Brothers), lemon curd, biscuit. Very good structure, refre
     <section class="h text-bolder">Macon-Villages Cuvee Ephemere - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32.html">
+    <img class="flex-bottle" src="/images/e5/05c724-2b49-4a9d-ae1e-837602b3dd32/2023-07-04-23-36-35-photo-2023-07-04 23.34.19@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Macon-Villages Terroirs du Maconnais - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f64a586d-7deb-4d03-b8d3-eff167b5db66.html">
+    <img class="flex-bottle" src="/images/f6/4a586d-7deb-4d03-b8d3-eff167b5db66/2020-06-01-21-40-39-F34E1BCF-532C-44CC-8342-521AC61B299F-1-105-c@512.webp"></img>
+    <section class="h">Bret Brothers</section>
+    <section class="h text-bolder">Macon-Villages Terroirs du Maconnais - 2018</section>
+  </a>
+
 </div>
 #+end_export

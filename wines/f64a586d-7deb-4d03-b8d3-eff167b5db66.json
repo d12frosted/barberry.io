@@ -1,0 +1,34 @@
+{
+  "id": "f64a586d-7deb-4d03-b8d3-eff167b5db66",
+  "name": "Macon-Villages Terroirs du Maconnais",
+  "full-name": "Bret Brothers Macon-Villages Terroirs du Maconnais 2018",
+  "producer": {
+    "id": "4eb32a6f-ea37-4f9a-a470-d062d4465b67",
+    "name": "Bret Brothers"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.2",
+  "prices": [
+    "527 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f6/4a586d-7deb-4d03-b8d3-eff167b5db66/2020-06-01-21-40-39-F34E1BCF-532C-44CC-8342-521AC61B299F-1-105-c.webp",
+  "rating": "NA"
+}

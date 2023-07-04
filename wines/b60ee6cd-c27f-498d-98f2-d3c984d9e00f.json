@@ -1,0 +1,43 @@
+{
+  "id": "b60ee6cd-c27f-498d-98f2-d3c984d9e00f",
+  "name": "Crémant d'Alsace",
+  "full-name": "Pierre Frick Crémant d'Alsace 2019",
+  "producer": {
+    "id": "a08a3633-1cd9-4f41-b1df-b17db6d5eb9b",
+    "name": "Pierre Frick"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "c933109e-faba-42a3-a608-d91ad3cc7875",
+      "name": "Auxerrois blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.5",
+  "prices": [
+    "952 UAH",
+    "1190 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/b6/0ee6cd-c27f-498d-98f2-d3c984d9e00f/2023-07-04-23-48-31-IMG-8173.webp",
+  "rating": "NA"
+}

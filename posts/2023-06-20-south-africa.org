@@ -26,14 +26,17 @@ Without further ado, meet our protagonists.
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         |      rms |   sdev | favourite |   price |      QPR |
-|---------+----------+--------+-----------+---------+----------|
-| Wine #1 |   4.1712 | 0.0378 |      2.00 |  990.00 | *3.1254* |
-| Wine #2 |   3.9238 | 0.0556 |      0.00 |  690.00 |   3.0704 |
-| Wine #3 |   4.1126 | 0.0580 |      1.00 | 1620.00 |   1.7389 |
-| Wine #4 |   4.2032 | 0.0267 |      1.00 | 1793.00 |   1.8170 |
-| Wine #5 |   4.1801 | 0.0195 |      1.00 | 1830.00 |   1.7201 |
-| Wine #6 | *4.3018* | 0.0156 |    *4.00* | 3800.00 |   1.0021 |
+|          |      rms |   sdev | favourite |   price |      QPR |
+|----------+----------+--------+-----------+---------+----------|
+| Wine #1  |   4.1712 | 0.0378 |      2.00 |  990.00 | *3.1254* |
+| Wine #2  |   3.9238 | 0.0556 |      0.00 |  690.00 |   3.0704 |
+| Wine #3  |   4.1126 | 0.0580 |      1.00 | 1620.00 |   1.7389 |
+| Wine #4  |   4.2032 | 0.0267 |      1.00 | 1793.00 |   1.8170 |
+| Wine #5  |   4.1801 | 0.0195 |      1.00 | 1830.00 |   1.7201 |
+| Wine #6  | *4.3018* | 0.0156 |    *4.00* | 3800.00 |   1.0021 |
+| Bonus #1 |        - |      - |      0.00 |  948.00 |        - |
+| Bonus #2 |        - |      - |      0.00 |  600.00 |        - |
+| Bonus #3 |        - |      - |      0.00 |  818.00 |        - |
 
 How to read this table:
 
@@ -224,17 +227,17 @@ Displayed very dark red fruit that seemed to be all coiled up in tannins and ver
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                      | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
-|----------------------+---------+---------+---------+---------+---------+---------|
-| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]   |    4.20 |    4.00 |    4.10 |  *4.20* |    3.90 |    4.10 |
-| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]         |    4.10 |    3.90 |    4.20 |    4.10 |    4.20 |  *4.30* |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]        |  *4.30* |    3.60 |    4.10 |    4.30 |    4.30 |    4.20 |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]   |    4.30 |    4.25 |    3.50 |    4.20 |    4.10 |  *4.40* |
-| Yaryna Tokar         |    4.50 |    3.50 |    3.95 |    4.60 |  *4.30* |    4.20 |
-| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]    |    4.00 |    4.00 |  *4.30* |    4.10 |    4.10 |    4.20 |
-| Maryna Yukhumets     |    3.90 |    4.20 |    4.30 |    4.00 |    4.40 |  *4.50* |
-| Anastasiia Zvonovska |  *4.30* |    4.00 |    4.30 |    4.10 |    4.10 |    4.40 |
-| Boris Buliga         |    3.90 |    3.80 |    4.20 |    4.20 |    4.20 |  *4.40* |
+|                      | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 | Bonus #2 | Bonus #3 |
+|----------------------+---------+---------+---------+---------+---------+---------+----------+----------+----------|
+| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]   |    4.20 |    4.00 |    4.10 |  *4.20* |    3.90 |    4.10 | -        | -        | -        |
+| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]         |    4.10 |    3.90 |    4.20 |    4.10 |    4.20 |  *4.30* | -        | -        | -        |
+| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]        |  *4.30* |    3.60 |    4.10 |    4.30 |    4.30 |    4.20 | -        | -        | -        |
+| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]   |    4.30 |    4.25 |    3.50 |    4.20 |    4.10 |  *4.40* | -        | -        | -        |
+| Yaryna Tokar         |    4.50 |    3.50 |    3.95 |    4.60 |  *4.30* |    4.20 | -        | -        | -        |
+| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]    |    4.00 |    4.00 |  *4.30* |    4.10 |    4.10 |    4.20 | -        | -        | -        |
+| Maryna Yukhumets     |    3.90 |    4.20 |    4.30 |    4.00 |    4.40 |  *4.50* | -        | -        | -        |
+| Anastasiia Zvonovska |  *4.30* |    4.00 |    4.30 |    4.10 |    4.10 |    4.40 | -        | -        | -        |
+| Boris Buliga         |    3.90 |    3.80 |    4.20 |    4.20 |    4.20 |  *4.40* | -        | -        | -        |
 
 * Resources
 :PROPERTIES:

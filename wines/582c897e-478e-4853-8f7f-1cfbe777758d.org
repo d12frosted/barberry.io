@@ -57,25 +57,31 @@ Skin Party #4. Typical crazy natural wine. Iced bergamot tea with peach, citrus,
     <section class="h text-bolder">Cremant d'Alsace - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
+  <a class="flex-item flex-item-left" href="/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f.html">
+    <img class="flex-bottle" src="/images/b6/0ee6cd-c27f-498d-98f2-d3c984d9e00f/2023-07-04-23-48-31-IMG-8173@512.webp"></img>
+    <section class="h">Pierre Frick</section>
+    <section class="h text-bolder">Crémant d'Alsace - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c7e19cc8-0f99-46b2-9f84-5375c933b593.html">
     <img class="flex-bottle" src="/images/c7/e19cc8-0f99-46b2-9f84-5375c933b593/2022-06-16-08-44-58-3FAC1BB4-C275-4F3D-8D6F-FB4E7AE3B4F4-1-105-c@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
+  <a class="flex-item flex-item-left" href="/wines/b01296a9-e09c-4241-9cf8-789fd4acfa8b.html">
     <img class="flex-bottle" src="/images/b0/1296a9-e09c-4241-9cf8-789fd4acfa8b/2021-05-26-09-09-29-3FF9E1CB-3808-42C8-82D3-505C665A5802-1-105-c@512.webp"></img>
     <section class="h">Tsikhelishvili Wines</section>
     <section class="h text-bolder">Mtsvane - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
+  <a class="flex-item flex-item-right" href="/wines/d760ef98-0e8f-457e-8e0c-d102169fe4bd.html">
     <img class="flex-bottle" src="/images/d7/60ef98-0e8f-457e-8e0c-d102169fe4bd/2021-05-26-08-28-17-4F28832C-5C44-4CE8-964E-CCFB81AEED26-1-105-c@512.webp"></img>
     <section class="h">La Stoppa</section>
     <section class="h text-bolder">Ageno - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
+  <a class="flex-item flex-item-left" href="/wines/df09c8fd-0fb1-44f8-b825-cee851220f3e.html">
     <img class="flex-bottle" src="/images/df/09c8fd-0fb1-44f8-b825-cee851220f3e/2022-01-13-09-32-47-D865E51B-4E99-4BB6-907D-DFE42306E616-1-105-c@512.webp"></img>
     <section class="h">Kmetija Štekar</section>
     <section class="h text-bolder">Rebula Prilo - 2015</section>

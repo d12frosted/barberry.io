@@ -1,43 +1,52 @@
+#+caption: Main programme with a present for most guesses (ribbons are everything)
+[[file:/images/2023-07-04-mixed-bag/2023-07-04-23-42-57-IMG-8171.webp]]
+
 Recently I woke up and realised that the summer has come. And not because of the weather, no. Instead, I felt a sudden desire to swim. Some circumstances make respite on the shores of the Black Sea not the best option, so I figured out an alternative - the White Sea. In other words, a sea of white wines. Luckily for us, the Garage has a lovely beach we can visit. And any decent leisure demands convives, right? So here we are, preparing to step into refreshing waters.
 
-Look, this year was quite active in terms of wine-tasting events. We are only halfway through the year, but we already had more tastings compared to the previous year. This fact pleases me. It pleases Bacchus. It should also please you. But one thing doesn't check. The list of countries we visited through the glass misses a few destinations. And the list of tastes grapes could benefit from new blood.
+Look, this year was quite active in terms of wine-tasting events. We are only halfway through the year, but we already had more tastings compared to the previous year. This fact pleases me. It pleases Dionysus. It should also please you. But one thing doesn't check. The list of countries we visited through the glass misses a few destinations. And the list of tastes grapes could benefit from new blood.
 
 Yet I didn't want to focus solely on atypical places or grapes. Some of the bottles in my cellar turned into sirens. And being a simple man, I could not resist the temptation. One must be insane to refuse a bottle of 1er Cru from Pierre-Yves Colin-Morey or an older Chenin Blanc from the late Jacky Blot. It's a Mixed Bag, after all. And I am ready to open my bag. Watch my hands:
 
-1. [[barberry:/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b][Aphros Phaunus Pet Nat Brut 2020]] (welcome drink)
+1. [[barberry:/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b][Aphros Phaunus Pet Nat Brut 2020]]
 2. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
 3. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
-4. [[barberry:/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443][Girolamo Russo Nerina 2019]]
-5. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
-6. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
-7. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errázuriz Aconcagua Costa Chardonnay 2016]]
-8. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
+4. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
+5. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
+6. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errázuriz Aconcagua Costa Chardonnay 2016]]
+7. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
+8. [[barberry:/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f][Pierre Frick Crémant d'Alsace 2019]] (Welcome)
+9. [[barberry:/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32][Bret Brothers Macon-Villages Terroirs du Maconnais 2021]] (Bonus #1)
+10. [[barberry:/wines/5cb54c3d-b813-4ffd-b813-5961e3273f40][Santo Wines Santorini Nykteri 2021]] (Bonus #2)
 
 * Scores
 :PROPERTIES:
 :ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
 :END:
 
+#+caption: Wines we tasted in the order we tasted
+[[file:/images/2023-07-04-mixed-bag/2023-07-04-23-43-30-IMG-8209.webp]]
+
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms | sdev | favourite |   price | QPR |
-|---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    | 1099.00 | -   |
-| Wine #2 | -   | -    | *0.00*    |  895.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1290.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 1396.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 1619.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 1053.00 | -   |
-| Wine #8 | -   | -    | *0.00*    | 3300.00 | -   |
+|          |      rms |   sdev | favourite |   price |      QPR |
+|----------+----------+--------+-----------+---------+----------|
+| Welcome  |   3.9158 | 0.0261 |      0.00 | 1190.00 |   1.7693 |
+| Wine #1  |   3.7308 | 0.0435 |      0.00 | 1099.00 |   1.4556 |
+| Wine #2  |   3.8544 | 0.0342 |      0.00 |  895.00 | *2.1447* |
+| Wine #3  |   4.0272 | 0.0847 |      2.00 | 1290.00 |   1.9078 |
+| Wine #4  |   4.1218 | 0.1108 |      2.00 | 1619.00 |   1.7474 |
+| Wine #5  | *4.1422* | 0.1419 |    *5.00* | 1619.00 |   1.7925 |
+| Wine #6  |   3.7684 | 0.0758 |      0.00 | 1053.00 |   1.5943 |
+| Bonus #1 |   3.8116 | 0.0883 |      0.00 | 1050.00 |   1.6988 |
+| Wine #7  |   3.9587 | 0.0356 |      1.00 | 3300.00 |   0.6789 |
+| Bonus #2 |   3.9256 | 0.0579 |      0.00 | 2400.00 |   0.8847 |
 
 How to read this table:
 
 - =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
 - =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
 - =favourite= is amount of people who marked this wine as favourite of the event.
-- =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
@@ -61,7 +70,7 @@ How to read this table:
 
 Bubbles! That's how you start any evening (or day). Phaunus is a Portugese Pet Nat made of Loureiro and Arinto grapes. Lots of novelties for our events this year.
 
-Vasco Croft is the person behind Aphros. As a teen, he dreamed about becoming an astrologist, yet after some consideration, he decided to study architecture. But after discovering Steiner's philosophy, Vasco went to England to study pedagogy and sculpture, where he discovered an interest in woodworking and furniture design. It was enough for a few years until, in his thirties, he met a Buddhist monk. They shared a bottle of wine. For Vasco, it was a meeting with Dionysus himself. This encounter changed his life. As a result, in 2003, he started a wine project in Casal do Paço, a  semi-abandoned property belonging to his family since the 17th century.
+Vasco Croft is the person behind Aphros. As a teen, he dreamed about becoming an astrologist, yet after some consideration, he decided to study architecture. But after discovering Steiner's philosophy, Vasco went to England to study pedagogy and sculpture, where he discovered an interest in woodworking and furniture design. It was enough for a few years until, in his thirties, he met a Buddhist monk. They shared a bottle of wine. For Vasco, it was a meeting with Dionysus himself. This encounter changed his life. As a result, in 2003, he started a wine project in Casal do Paço, a semi-abandoned property belonging to his family since the 17th century.
 
 The grapes are pressed in inox vats, where the juice ferments between 16 to 18ºC. The wine is bottled before fermentation finishes to trap the bubbles. And after 3 months, it is disgorged to deliver clean wine.
 
@@ -89,7 +98,7 @@ Bott Frigyes is located on the banks of the Danube River, across which lies Hung
 
 The winery works with Rhine Riesling and Pinot Noir. But they put emphasis on local grapes, such as Furmint, Hárslevelű (Lipovina in Slovakia), Olaszrizling, Juhfark, Kékfrankos and Kadarka (cuttings are incidentally from Balla Géza in Romania, who is also ethnically Hungarian).
 
-The winemaking is structured in terms of technique, although all fermentations are native. There's zero temperature control, longer lees ageing, natural settling, all oak barrels (some amphora), and bottling unfined and unfiltered with a small amount of SO2 at bottling as the only addition.
+The winemaking is structured in terms of technique, although all fermentations are native. There's zero temperature control, longer lees ageing, natural settling, all oak barrels (some amphora), and bottling unfined and unfiltered with a small amount of $SO_2$ at bottling as the only addition.
 
 For the reds, they use the "Hamburger" method: a layer of foot-stomped whole cluster, then a layer of whole cluster, then a layer of destemmed and hand-crushed grapes. This achieves a semi-carbonic quality to the wines without developing too much of the banana or bubble gum often associated with carbonic. For the skin contact whites, it's often no more than a week, and they are careful to keep it worked over to prevent VA and other flaws. The winemaking overall is tied to tradition but with a nod to modern hygiene in the cellar.
 
@@ -128,34 +137,6 @@ It seems that the latest release of the 2021 vintage doesn't include Vogelsang. 
 
 Meh, this was way too long. See what happens when I can't find information?
 
-* Girolamo Russo Nerina 2019
-:PROPERTIES:
-:ID:                     ca59e186-0532-4e84-ac51-d2cc598eee22
-:END:
-
-#+attr_html: :class bottle-right
-[[file:/images/2023-07-04-mixed-bag/2021-07-22-09-11-31-DEAEC421-4396-4C5A-965F-568E22558612-1-105-c.webp]]
-
-- producer: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
-- name: [[barberry:/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443][Nerina]]
-- vintage: 2019
-- grapes: Carricante, Catarratto, Inzolia, Grecanico, Minnella Bianca, Coda di Volpe
-- appellation: Etna DOC
-- location: Sicily, Italy
-- alcohol: 12
-- sugar: 0
-- price: 1396 UAH
-
-#+begin_quote
-Making wine on the slopes of Mount Etna is an intensely personal, profound and ongoing act of love.
-#+end_quote
-
-Some are just 'lucky' to be affiliated with Etna by the right of birth. Giuseppe Russo, a graduate of Humanities with a Diploma in piano, re-established the family winery in 2005 and dedicated it to the memory of the late father, Girolamo. Their vineyards cover 18 hectares, surrounded by hazelnut and olive groves.
-
-Giuseppe Russo owns around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
-
-Nerina is Carricante-based blend, where 25% are various autochthonous grapes: Catarratto, Inzolia, Grecanico, Minnella, Coda di Volpe. The grapes come from San Lorenzo, Feudo and Calderara Sottana. The wine is macerated for 24 hours. Only 10000 bottles produced.
-
 * Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021
 :PROPERTIES:
 :ID:                     7633c7ba-3cf2-4952-b9a7-2305aa50549e
@@ -176,8 +157,7 @@ Nerina is Carricante-based blend, where 25% are various autochthonous grapes: Ca
 
 Domaine de La Taille Aux Loups has an interesting history. Although it's now associated with esteemed winemaker Jacky Blot, he wasn't the one who established the domaine. The viticultural maverick who brought La Taille aux Loups into being was Christian Prudhomme, a man from Bordeaux.
 
-Prudhomme wanted to shake things up in Montlouis-sur-Loire. With experience working in the vineyards and cellars of Château Mouton-Rothschild, as well as at Opus One in California, he acquired 7 hectares of old vines in 1988 and set about making wine his way. This included reducing yields by thinning crops, harvesting into small crates to protect the fruit, and fermenting with indigenous yeasts in barrels purchased from Château d'Yquem. The resulting wines were reportedly a testament to his wild dedication.
-However, the business collapsed within a year of starting up, for reasons that remain unclear. This was where Jacky Blot entered the story, marking the start of Montlouis' dynamic development, thanks in no small part to his ambitious and active efforts (alongside François Chidaine, another esteemed winemaker from Montlouis).
+Prudhomme wanted to shake things up in Montlouis-sur-Loire. With experience working in the vineyards and cellars of Château Mouton-Rothschild, as well as at Opus One in California, he acquired 7 hectares of old vines in 1988 and set about making wine his way. This included reducing yields by thinning crops, harvesting into small crates to protect the fruit, and fermenting with indigenous yeasts in barrels purchased from Château d'Yquem. The resulting wines were reportedly a testament to his wild dedication. However, the business collapsed within a year of starting up, for reasons that remain unclear. This was where Jacky Blot entered the story, marking the start of Montlouis' dynamic development, thanks in no small part to his ambitious and active efforts (alongside François Chidaine, another esteemed winemaker from Montlouis).
 
 After working as a courtier for some time, Jacky Blot decided to look for vineyards of his own. The small domaine that Prudhomme had gathered together was available, and Jacky took up where his predecessor had left off, with just those 7 hectares of vines. It was around this time that he met Christophe Mesliand, the son of a viticultural family from Amboise. Jacky hired Christophe as his chef de culture, and the two have worked together at La Taille aux Loups ever since.
 
@@ -222,18 +202,18 @@ Lucky us! An older bottle of Le Clos de Mosny. I have nothing to add here. This 
 - appellation: DO Aconcagua Costa
 - location: Chile
 - alcohol: 13
-- sugar: N/A
+- sugar: 1.59
 - price: 1053 UAH
 
 After a few complex and mindblowing wines, I reckon we need a pause before we move to the last planned wine of the evening. And although it's more of a sacrifice that has all the chance to be forgotten in this lineup, Aconcagua Costa Chardonnay by Errazuriz is not that simple.
 
-In my opinion, the history of Viña Errázuriz is not that interesting. Besides, as those respecting their own legacy, they have pretty comprehensive information about themselves on [[https://errazuriz.com/en/winery/history][their site]]. In short, Errázuriz's history begins in 1870, when Don Maximiano Errázuriz founded the winery with  300 hectares (sic!), which quickly expanded to 1300 over just 20 years (double sic!). In 2017, Wine Advocate recognised the winery as the best in Chile. And by the way, Las Pizarras Chardonnay 2017 was the first Chilean wine to receive a score as high as 98 from RP.
+In my opinion, the history of Viña Errázuriz is not that interesting. Besides, as those respecting their own legacy, they have pretty comprehensive information about themselves on [[https://errazuriz.com/en/winery/history][their site]]. In short, Errázuriz's history begins in 1870, when Don Maximiano Errázuriz founded the winery with 300 hectares (sic!), which quickly expanded to 1300 over just 20 years (double sic!). In 2017, Wine Advocate recognised the winery as the best in Chile. And by the way, Las Pizarras Chardonnay 2017 was the first Chilean wine to receive a score as high as 98 from RP.
 
 Anyways, we are here to taste Aconcagua Costa Chardonnay. People that paid attention to their geography class (not me) could rightfully yell - the highest mountain in the Americas. With its 6961 meters above sea level, Aconcagua is part of the Seven Summits list. Of course, the vines grow a little bit below - in the Aconcagua Costa, about 12 kilometres from the Pacific Ocean.
 
 The grapes for Aconcagua Costa Chardonnay are sourced from the Aconcagua Costa vineyard, planted by Viña Errázuriz in 2005 and 2009. The soil is composed of a thin layer of loamy texture and placed on a base of clay and metamorphic rock (slate/schist).
 
-Grapes were handpicked in the early morning between March 1st and 4th in small boxes and carefully transported to the winery, where they were whole-cluster pressed and cold decanted in stainless steel tanks. The juice is then placed into used French oak barrels for fermentation, lasting 15 to 20 days. Errázuriz uses a mix of indigenous yeasts along with a number of strains, reportedly for greater complexity (?). After alcoholic fermentation, the wine undergoes 50% malolactic fermentation. Then it ages for 10 months in the same oak.
+Grapes were handpicked in the early morning between March 1st and 4th in small boxes and carefully transported to the winery, where they were whole-cluster pressed and cold decanted in stainless steel tanks. The juice is then placed into used French oak barrels for fermentation, lasting 15 to 20 days. Errázuriz uses a mix of indigenous yeasts along with a number of strains (sic!), reportedly for greater complexity (?). After alcoholic fermentation, the wine undergoes 50% malolactic fermentation. Then it ages for 10 months in the same oak.
 
 * Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020
 :PROPERTIES:
@@ -257,18 +237,6 @@ Pierre-Yves Colin is one of Burgundy's (and the wine world's) most iconic winema
 
 His fastidious farming (lutte raisonnée[fn:4]), incredible attention to detail, use of larger demi-muid barrels, and long elevage - all that makes each one of his bottlings a clear expression of its terroir and a study in mineral-driven Chardonnay. Unlike many locals, Pierre-Yves uses 350L barrels (instead of 225L) and also ages his wines for a longer period of 18 months (vs 12 months).
 
-* Raw scores
-:PROPERTIES:
-:ID:                     7862aaa3-5d0a-496a-a38b-edf67f76825c
-:END:
-
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|-------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Boris | -       | -       | -       | -       | -       | -       | -       | -       |
-
 * Resources
 :PROPERTIES:
 :ID:                     6cd659c0-afa3-47ee-a058-9db8532fa6fa
@@ -288,11 +256,34 @@ His fastidious farming (lutte raisonnée[fn:4]), incredible attention to detail,
 12. [[https://www.octopusbooks.co.uk/imprint/octopus/mitchell-beazley/page/octopus-books/worldatlasofwine/][Robinson, Jancis, and Hugh Johnson. The World Atlas of Wine 8th Edition. Illustrated, Mitchell Beazley, 2019.]]
 13. [[https://errazuriz.com/][Errázuriz]]
 
-[fn:1] Some inconsistencies just drive me mad. For example, the official site of the winery states that the vineyards are located 5 km from the Hungarian border. HØTOFT (Wenzel's distributor) talks about 20 km. It's hard to use maps for accurate measures because it's unclear where exactly the vineyards are located, and the vague description (on the western shore of Lake Neusiedl) is not helpful enough as the lake is enormously big (from north to south, it's about 36 km long). On the other hand, Vogelsang and Satz are the two most Southern sites Wenzel owns vines on, and both are around 5 km from the border, at least according to [[https://austrianvineyards.com/200426/vogelsang][Austrian Vineyards]].
+[fn:1] Some inconsistencies just drive me mad. For example, the official site of the winery states that the vineyards are located 5 km from the Hungarian border. HØTOFT (Wenzel's distributor) talks about 20 km. It's hard to use maps for accurate measures because it's unclear where exactly Wenzel's vines are located. On the other hand, Vogelsang and Satz are the two most Southern sites Wenzel owns vines on, and both are around 5 km from the border, at least according to [[https://austrianvineyards.com/200426/vogelsang][Austrian Vineyards]].
 
 [fn:2] According to [[https://www.austrianwine.com/producers-market/winery?tx_wineapi_wineriesdetail%5Bwinery%5D=winery_20301&cHash=d6f553509952cdb10997c9e1c3e51be6][Austrian Wine]].
 
 [fn:3] According to [[https://www.austrianwine.com/our-wine/grape-varieties/white-wine/furmint][Austrian Wine]].
 
 [fn:4] Lutte raisonnée (literally 'reasoned struggle') is an approach to viticulture which permits the application of agrochemicals only when absolutely necessary and not as a matter of routine. Practically, that means no chemicals unless there is a high risk of losing harvest or vines altogether.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     7862aaa3-5d0a-496a-a38b-edf67f76825c
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|                       | Welcome | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 | Wine #7 | Bonus #2 |
+|-----------------------+---------+---------+---------+---------+---------+---------+---------+----------+---------+----------|
+| [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]          |       - |    3.90 |    4.00 |    3.80 |    4.30 |  *4.50* |    3.70 |     3.90 |    3.90 |     4.00 |
+| Elena Menshikova      |    3.80 |    3.70 |    3.90 |    4.00 |    4.10 |  *4.20* |    3.80 |     3.90 |    4.10 |     3.90 |
+| Ivan Mashkantsev      |       - |    3.70 |    4.00 |    3.90 |  *4.20* |    4.10 |    3.50 |     3.90 |    3.90 |     3.90 |
+| Yaryna Tokar          |       - |    3.90 |    3.70 |  *4.60* |    4.50 |    4.40 |    3.50 |     3.50 |    4.20 |     4.30 |
+| Aleksandra Negenskaya |       - |    3.20 |    3.50 |    3.30 |    3.10 |    3.20 |    3.20 |     3.00 |    3.50 |     3.30 |
+| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]    |    4.20 |    4.10 |    3.90 |    4.00 |    4.40 |    4.30 |    4.20 |     4.30 |    4.20 |        - |
+| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]         |    4.10 |    3.60 |    3.90 |    4.10 |    4.10 |  *4.30* |    3.60 |     3.80 |    3.80 |     3.90 |
+| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]    |    4.00 |    3.70 |    4.20 |  *4.30* |    4.00 |    3.60 |    4.00 |     4.00 |    3.80 |     4.20 |
+| [[barberry:/convives/2e57689d-4561-455b-9ed5-2a4a028b6c6b][Andrii Koretskyi]]      |    3.80 |    3.60 |    3.60 |    4.10 |  *4.10* |    3.80 |    3.70 |     3.80 |    4.00 |     4.00 |
+| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]          |    3.70 |    3.80 |    3.70 |    4.00 |    4.10 |  *4.30* |    4.10 |     3.80 |    3.95 |     3.90 |
+| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]          |    3.80 |    3.70 |    3.90 |    4.00 |    4.20 |  *4.40* |    3.80 |     3.90 |    4.00 |     3.80 |
+| Boris Buliga          |    3.90 |    3.80 |    3.90 |    4.10 |    4.20 |    4.40 |    4.00 |     3.80 |  *4.10* |     3.90 |
 
