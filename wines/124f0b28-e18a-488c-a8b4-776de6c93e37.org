@@ -23,67 +23,73 @@ Good entry-level Champagne. Apples, chalk, Jerez notes, citrus and pear candies.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
+  <a class="flex-item flex-item-left" href="/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04.html">
+    <img class="flex-bottle" src="/images/53/cf2258-cbbe-44dc-99a0-5bc6eaf61d04/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée des Caudalies - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
     <img class="flex-bottle" src="/images/66/132041-ecfd-4d79-8f67-6e7aa512947b/2023-01-28-09-28-41-A0772CD8-C3A7-4332-A74B-D27F697E9FAC-1-105-c@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Réserve Grand Cru Blanc de Blancs (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
+  <a class="flex-item flex-item-left" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
     <img class="flex-bottle" src="/images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Blanc De Blancs (d2019) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
+  <a class="flex-item flex-item-right" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
     <img class="flex-bottle" src="/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
+  <a class="flex-item flex-item-left" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
     <img class="flex-bottle" src="/images/c9/0f0d65-bdfa-4b21-93fd-936e99a296c4/2023-02-20-22-14-53-IMG-5086@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée Umami Grand Cru - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/22b86d9f-0061-4888-8f40-9ecaed828feb.html">
+  <a class="flex-item flex-item-right" href="/wines/22b86d9f-0061-4888-8f40-9ecaed828feb.html">
     <img class="flex-bottle" src="/images/22/b86d9f-0061-4888-8f40-9ecaed828feb/2023-03-13-21-22-20-22956ED4-22CF-4D0B-998E-0C608272F697-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2019) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/24dc4374-1c30-4710-9f15-5c6fd054eef5.html">
+  <a class="flex-item flex-item-left" href="/wines/24dc4374-1c30-4710-9f15-5c6fd054eef5.html">
     <img class="flex-bottle" src="/images/24/dc4374-1c30-4710-9f15-5c6fd054eef5/2023-03-13-21-25-47-CF27D223-4D09-4A09-A740-47100AB1C8DB-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/26e03947-b9cf-4e81-9b56-e173ee74ed7f.html">
+  <a class="flex-item flex-item-right" href="/wines/26e03947-b9cf-4e81-9b56-e173ee74ed7f.html">
     <img class="flex-bottle" src="/images/26/e03947-b9cf-4e81-9b56-e173ee74ed7f/2023-02-09-17-32-26-IMG-4878@512.webp"></img>
     <section class="h">Domaine Daniel-Etienne Defaix</section>
     <section class="h text-bolder">Chablis Premier Cru Les Lys - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5af0828d-ba29-4ddf-af8c-96ade35dea35.html">
+  <a class="flex-item flex-item-left" href="/wines/5af0828d-ba29-4ddf-af8c-96ade35dea35.html">
     <img class="flex-bottle" src="/images/5a/f0828d-ba29-4ddf-af8c-96ade35dea35/2023-03-18-08-06-03-2B0B418B-42DB-4CB9-AC4E-F22787521CD6-1-105-c@512.webp"></img>
     <section class="h">Alice et Olivier De Moor</section>
     <section class="h text-bolder">Chablis Coteau de rosette - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e411f8b3-02a7-4cb9-b240-f8816237c851.html">
+  <a class="flex-item flex-item-right" href="/wines/e411f8b3-02a7-4cb9-b240-f8816237c851.html">
     <img class="flex-bottle" src="/images/e4/11f8b3-02a7-4cb9-b240-f8816237c851/2023-03-13-21-27-54-952ACFAA-8C54-44E9-9DA5-1FE5B04E5AB1-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2014 May) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ef0b81d2-16cc-4a84-91e4-acfeb1c8316e.html">
+  <a class="flex-item flex-item-left" href="/wines/ef0b81d2-16cc-4a84-91e4-acfeb1c8316e.html">
     <img class="flex-bottle" src="/images/ef/0b81d2-16cc-4a84-91e4-acfeb1c8316e/2022-11-11-08-56-44-01C59607-934A-46D3-96D4-BEB26BBFA925-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2010) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f0036bf5-0e50-4cd3-b537-2af0978a7c01.html">
+  <a class="flex-item flex-item-right" href="/wines/f0036bf5-0e50-4cd3-b537-2af0978a7c01.html">
     <img class="flex-bottle" src="/images/f0/036bf5-0e50-4cd3-b537-2af0978a7c01/2023-03-13-21-20-10-32ADF7A1-A41C-4D6C-94C9-0FB869377E4D-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2022) - NV</section>

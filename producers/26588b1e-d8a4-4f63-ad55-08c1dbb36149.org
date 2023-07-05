@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0.html">
+    <img class="flex-bottle" src="/images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-07-05-21-57-11-02F2CAD0-C387-4853-87E7-F643C2A1E300-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Emotion - 2012</section>
+  </a>
+
+</div>
+#+end_export

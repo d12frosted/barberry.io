@@ -1,0 +1,38 @@
+{
+  "id": "48f6d914-0ac3-4d79-a5bc-4c384f163db0",
+  "name": "Emotion",
+  "full-name": "Vilmart & Cie Emotion 2012",
+  "producer": {
+    "id": "26588b1e-d8a4-4f63-ad55-08c1dbb36149",
+    "name": "Vilmart & Cie"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": "May 2018",
+  "sur-lie": "60 months",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "8",
+  "prices": [
+    "5764 UAH"
+  ],
+  "available": 0,
+  "image": "images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-07-05-21-57-11-02F2CAD0-C387-4853-87E7-F643C2A1E300-1-105-c.webp",
+  "rating": "NA"
+}

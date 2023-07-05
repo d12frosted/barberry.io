@@ -1,0 +1,34 @@
+{
+  "id": "9e587f67-5955-46b7-98d2-6c4c82715685",
+  "name": "Les Pierrières Blanc de Blancs Extra Brut (2017)",
+  "full-name": "Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2017) NV",
+  "producer": {
+    "id": "7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46",
+    "name": "Ulysse Collin"
+  },
+  "vintage": "NV",
+  "base-vintage": "2017",
+  "degorgee": "03/2021",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "6.5",
+  "prices": [
+    "4500 UAH"
+  ],
+  "available": 0,
+  "image": "images/9e/587f67-5955-46b7-98d2-6c4c82715685/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0",
+  "name": "Exquise Sec",
+  "full-name": "Jacques Selosse Exquise Sec NV",
+  "producer": {
+    "id": "ec83aa65-4bf4-4677-a146-ffc268330b11",
+    "name": "Jacques Selosse"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "[2020-01-30 Thu]",
+  "sur-lie": "???",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "24",
+  "prices": [
+    "22300 UAH"
+  ],
+  "available": 0,
+  "image": "images/ac/08ddd3-87c9-4e9e-bcb7-2d59da63cec0/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c.webp",
+  "rating": "NA"
+}

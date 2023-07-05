@@ -29,37 +29,43 @@ A friendly entry-level Blanc de Blancs with a typical buttered croissant-dominat
     <section class="h text-bolder">Brut Tradition (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
+  <a class="flex-item flex-item-right" href="/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04.html">
+    <img class="flex-bottle" src="/images/53/cf2258-cbbe-44dc-99a0-5bc6eaf61d04/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée des Caudalies - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/71d10b95-a6a2-4136-acfc-5edd0a1b2ed0.html">
     <img class="flex-bottle" src="/images/71/d10b95-a6a2-4136-acfc-5edd0a1b2ed0/2020-06-20-11-17-49-261250E7-6834-4978-AC4B-95D2C726F5B8-1-201-a@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Blanc De Blancs (d2019) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
+  <a class="flex-item flex-item-right" href="/wines/97722c60-4efd-412c-9474-a050d8e513d4.html">
     <img class="flex-bottle" src="/images/97/722c60-4efd-412c-9474-a050d8e513d4/2022-11-29-10-46-35-IMG-3499@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Rosé (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
+  <a class="flex-item flex-item-left" href="/wines/c90f0d65-bdfa-4b21-93fd-936e99a296c4.html">
     <img class="flex-bottle" src="/images/c9/0f0d65-bdfa-4b21-93fd-936e99a296c4/2023-02-20-22-14-53-IMG-5086@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Cuvée Umami Grand Cru - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
+  <a class="flex-item flex-item-right" href="/wines/263e80cd-7230-45dc-a328-886ffbe0fb15.html">
     <img class="flex-bottle" src="/images/26/3e80cd-7230-45dc-a328-886ffbe0fb15/2022-08-10-08-15-56-IMG-1371@512.webp"></img>
     <section class="h">Markus Molitor</section>
     <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
     <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Poulsard en Amphore - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/892ccc50-f7e0-425e-99be-5ddd238056df.html">
+  <a class="flex-item flex-item-right" href="/wines/892ccc50-f7e0-425e-99be-5ddd238056df.html">
     <img class="flex-bottle" src="/images/89/2ccc50-f7e0-425e-99be-5ddd238056df/2022-12-19-17-44-11-IMG-3930@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Brutal Rouge - 2021</section>
