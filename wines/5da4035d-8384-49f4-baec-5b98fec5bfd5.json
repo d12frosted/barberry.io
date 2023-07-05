@@ -1,0 +1,38 @@
+{
+  "id": "5da4035d-8384-49f4-baec-5b98fec5bfd5",
+  "name": "Jouvence",
+  "full-name": "Francoise Bedel Jouvence 2012",
+  "producer": {
+    "id": "95f34fc8-044c-453a-bca7-62e7128ff998",
+    "name": "Francoise Bedel"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": "January 2020",
+  "sur-lie": "72 months",
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "5.9",
+  "prices": [
+    "6800 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/5d/a4035d-8384-49f4-baec-5b98fec5bfd5/2023-07-05-13-48-49-74DCE5B5-45E0-483A-B711-28E1BE7A1270-1-105-c.webp",
+  "rating": "9.0"
+}
