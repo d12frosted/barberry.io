@@ -1,0 +1,71 @@
+Hello, fellow convive! This page contains a list of wines (37 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+
+Bookmark this page and use it for your own good.
+
+#+begin_export html
+<div class="rating-list">
+#+end_export
+
+** Tuesday, 27 June 2023
+
+*** @Garage / [[barberry:/posts/2023-06-27-clos-du-tue-boeuf][Clos du Tue-Boeuf Party by Mykola Chobanu]]
+
+- ❤️ 4.10 [[barberry:/wines/9c4c0af0-04d5-4e1c-aa3f-6e1321b7f19b][Clos du Tue-Boeuf Pineau de Loire 2021]]
+- ★ 4.00 [[barberry:/wines/171c39e5-a699-44d2-9f16-56e5a8a4b33e][Clos du Tue-Boeuf Cheverny Frileuse 2018]]
+- ★ 3.80 [[barberry:/wines/95e0ec05-1f0f-4b3a-ab38-c419340eba94][Clos du Tue-Boeuf Le Petit Buisson 2022]]
+- ★ 4.10 [[barberry:/wines/6e694054-20c9-4a92-bd62-305742dd9f57][Clos du Tue-Boeuf Le Brin de Chèvre Menu Pineau 2018]]
+- ★ 3.70 [[barberry:/wines/2c8508da-073d-4c8b-984d-c6589ecf5bd6][Clos du Tue-Boeuf Vin Rosé 2022]]
+- ★ 4.10 [[barberry:/wines/3d19c153-8338-4879-9f86-882b312f6ea4][Clos du Tue-Boeuf Vin Rouge 2022]]
+- ★ 3.80 [[barberry:/wines/55f9514b-ac4d-4fd2-8df7-40aa9d077334][Clos du Tue-Boeuf Vin Rouge 2021]]
+- ★ 4.10 [[barberry:/wines/a52d80dc-df32-4f09-aab8-a282a7db1b40][Clos du Tue-Boeuf Cheverny Rouillon 2022]]
+- ★ 3.70 [[barberry:/wines/70da4cb5-6bf9-4fba-b3c1-8c495aa4be57][Clos du Tue-Boeuf Grenache 2021]]
+
+*** @Garage
+
+- &nbsp; &emptyscore; [[barberry:/wines/c5974f33-5917-4a82-b4b7-c130a686a175][Tillingham Pinot Blanc 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/a02196dc-8a44-4bc5-91e0-7a51816b9971][Les Cailloux du Paradis Le Pinot Noir 2016]]
+
+** Thursday,  8 June 2023
+
+*** @Favourite Uncle
+
+- &nbsp; &emptyscore; [[barberry:/wines/9f44d705-621b-41dd-a6c3-85b61df98b2f][COS Vittoria Rosso Delle Fontane 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/aa85285a-3702-4e6e-84c9-2c07e6612339][COS Pithos Rosso 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/08651d33-c1c3-4e5d-bdf8-5a400349630a][COS Frappato 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/6ff1725c-0ece-4af4-a70c-4c70d153c345][COS Cerasuolo di Vittoria Classico 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240][COS Cerasuolo di Vittoria Classico 2010]]
+- &nbsp; &emptyscore; [[barberry:/wines/6b881a7a-009e-4f9a-bb25-c1ef800c126e][COS Cerasuolo di Vittoria Classico 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/026a9185-2ba0-46b7-a451-023a25544f08][COS Contrada 2018]]
+
+** Friday,  2 June 2023
+
+*** @Garage / [[barberry:/posts/2023-06-02-champagne][Champagne Party by Vova Ulianov]]
+
+- ★ 4.00 [[barberry:/wines/7bc042b7-6842-4e32-936a-ea5458eba6b6][Benoît Déhu Cuvée de La Rue Des Noyers NV]]
+- ★ 4.30 [[barberry:/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e][Francoise Bedel L'Âme de la Terre Millésime 2006]]
+- ★ 4.40 [[barberry:/wines/3855b6f0-a2e9-4c92-952b-65ba8e335ada][Jacques Lassaigne La Colline Inspirée NV]]
+- 💔 3.90 [[barberry:/wines/e27c8b9d-c616-4119-a6f8-353c25e056f2][Benoît Déhu Cuvée de L'orme NV]]
+- ★ 4.10 [[barberry:/wines/e2def7db-4717-4c1d-b5af-403adf8f510d][Olivier Horiot Metisse (2017) NV]]
+- ❤️ 4.60 [[barberry:/wines/b7f8ea50-cad4-49cb-8fcb-e60a8893fe55][Olivier Horiot Seve Blanc de Noirs 2014]]
+- ★ 4.10 [[barberry:/wines/df4c17e5-a9ab-43f4-85d8-b1a117a42807][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2015) NV]]
+- ★ 4.00 [[barberry:/wines/8caf7cbe-9849-4294-a90d-a69f1bbc88e7][Jacques Lassaigne Le Cotet NV]]
+- ★ 4.20 [[barberry:/wines/bb79b28b-059f-4043-8ecf-3ba04ecd892a][Francoise Bedel Comme Autrefois 2005]]
+
+** Thursday, 27 April 2023
+
+*** @Kyiv
+
+- &nbsp; &emptyscore; [[barberry:/wines/69dc0d5b-9597-4583-9989-052c4ad19c05][Tony Bornard la Chamade 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/68b46702-763b-42fa-b3c4-4d5b310fe988][Tony Bornard le Ginglet 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/088ced42-a160-48f6-a4fb-b3ee497a2627][Tony Bornard le Ginglet 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/18504209-097a-41cc-b6ac-e1cf5d449b37][Tony Bornard les Gaudrettes Troisième Tirage 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/939baa58-54d8-4750-b951-e8b000c87f19][Tony Bornard Point barre 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/5861ed11-c509-4a3d-8446-3687b6d5fd03][Philippe Bornard Melon le Rouge-queue 2015]]
+- &nbsp; &emptyscore; [[barberry:/wines/4cb1a6b0-47f1-45db-b62c-89af3512213e][Tony Bornard le Pinot noir 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/113057d7-a5f2-4969-93b9-49dc6f919d6b][Tony Bornard l'Aide mémoire 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/c28d1e1e-048a-4143-ada1-bcf192a5285a][Tony Bornard les Marnes 2016]]
+- &nbsp; &emptyscore; [[barberry:/wines/1ea0718e-34ae-4d3d-9d95-c51a388ed6a9][Tony Bornard la Chamade 2018]]
+
+#+begin_export html
+</div>
+#+end_export

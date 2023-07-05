@@ -1,4 +1,4 @@
-#+caption: Main programme with a present for most guesses (ribbons are everything)
+#+caption: Main programme with a present for the most guesses (ribbons are everything)
 [[file:/images/2023-07-04-mixed-bag/2023-07-04-23-42-57-IMG-8171.webp]]
 
 Recently I woke up and realised that the summer has come. And not because of the weather, no. Instead, I felt a sudden desire to swim. Some circumstances make respite on the shores of the Black Sea not the best option, so I figured out an alternative - the White Sea. In other words, a sea of white wines. Luckily for us, the Garage has a lovely beach we can visit. And any decent leisure demands convives, right? So here we are, preparing to step into refreshing waters.
@@ -7,15 +7,15 @@ Look, this year was quite active in terms of wine-tasting events. We are only ha
 
 Yet I didn't want to focus solely on atypical places or grapes. Some of the bottles in my cellar turned into sirens. And being a simple man, I could not resist the temptation. One must be insane to refuse a bottle of 1er Cru from Pierre-Yves Colin-Morey or an older Chenin Blanc from the late Jacky Blot. It's a Mixed Bag, after all. And I am ready to open my bag. Watch my hands:
 
-1. [[barberry:/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b][Aphros Phaunus Pet Nat Brut 2020]]
-2. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
-3. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
-4. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
-5. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
-6. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errázuriz Aconcagua Costa Chardonnay 2016]]
-7. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
-8. [[barberry:/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f][Pierre Frick Crémant d'Alsace 2019]] (Welcome)
-9. [[barberry:/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32][Bret Brothers Macon-Villages Terroirs du Maconnais 2021]] (Bonus #1)
+1. [[barberry:/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f][Pierre Frick Crémant d'Alsace 2019]] (welcome)
+2. [[barberry:/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b][Aphros Phaunus Pet Nat Brut 2020]]
+3. [[barberry:/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6][Bott Frigyes Juhfark 2019]]
+4. [[barberry:/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab][Weinbau Wenzel Furmint Ried Vogelsang 2018]]
+5. [[barberry:/wines/77878044-246d-4fb2-9475-6d8044a24f46][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2021]]
+6. [[barberry:/wines/97e16400-52f3-4223-b49b-f3aa8db37411][Domaine de la Taille Aux Loups Montlouis Sur Loire Clos de Mosny Monopole 2018]]
+7. [[barberry:/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded][Errázuriz Aconcagua Costa Chardonnay 2016]]
+8. [[barberry:/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32][Bret Brothers Macon-Villages Terroirs du Maconnais 2021]] (Bonus #1)
+9. [[barberry:/wines/d85e8c99-c857-4754-bda0-5640e29e96be][Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020]]
 10. [[barberry:/wines/5cb54c3d-b813-4ffd-b813-5961e3273f40][Santo Wines Santorini Nykteri 2021]] (Bonus #2)
 
 * Scores
@@ -23,7 +23,6 @@ Yet I didn't want to focus solely on atypical places or grapes. Some of the bott
 :ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
 :END:
 
-#+caption: Wines we tasted in the order we tasted
 [[file:/images/2023-07-04-mixed-bag/2023-07-04-23-43-30-IMG-8209.webp]]
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
@@ -31,16 +30,16 @@ Yet I didn't want to focus solely on atypical places or grapes. Some of the bott
 #+results: summary
 |          |      rms |   sdev | favourite |   price |      QPR |
 |----------+----------+--------+-----------+---------+----------|
-| Welcome  |   3.9158 | 0.0261 |      0.00 | 1190.00 |   1.7693 |
-| Wine #1  |   3.7308 | 0.0435 |      0.00 | 1099.00 |   1.4556 |
-| Wine #2  |   3.8544 | 0.0342 |      0.00 |  895.00 | *2.1447* |
-| Wine #3  |   4.0272 | 0.0847 |      2.00 | 1290.00 |   1.9078 |
-| Wine #4  |   4.1218 | 0.1108 |      2.00 | 1619.00 |   1.7474 |
-| Wine #5  | *4.1422* | 0.1419 |    *5.00* | 1619.00 |   1.7925 |
-| Wine #6  |   3.7684 | 0.0758 |      0.00 | 1053.00 |   1.5943 |
-| Bonus #1 |   3.8116 | 0.0883 |      0.00 | 1050.00 |   1.6988 |
-| Wine #7  |   3.9587 | 0.0356 |      1.00 | 3300.00 |   0.6789 |
-| Bonus #2 |   3.9256 | 0.0579 |      0.00 | 2400.00 |   0.8847 |
+| Wine #1  |   3.9158 | 0.0261 |      0.00 | 1190.00 |   1.7693 |
+| Wine #2  |   3.7754 | 0.0202 |      0.00 | 1099.00 |   1.5598 |
+| Wine #3  |   3.8851 | 0.0251 |      0.00 |  895.00 | *2.2478* |
+| Wine #4  |   4.0869 | 0.0415 |      2.00 | 1290.00 |   2.1060 |
+| Wine #5  |   4.2024 | 0.0200 |      2.00 | 1619.00 |   2.0122 |
+| Wine #6  | *4.2174* | 0.0699 |    *5.00* | 1619.00 |   2.0408 |
+| Wine #7  |   3.8159 | 0.0517 |      0.00 | 1053.00 |   1.7167 |
+| Wine #8  |   3.8770 | 0.0329 |      0.00 | 1032.00 |   1.9234 |
+| Wine #9  |   3.9978 | 0.0184 |      1.00 | 3300.00 |   0.7223 |
+| Wine #10 |   3.9827 | 0.0216 |      0.00 | 2400.00 |   0.9704 |
 
 How to read this table:
 
@@ -49,6 +48,26 @@ How to read this table:
 - =favourite= is amount of people who marked this wine as favourite of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Pierre Frick Crémant d'Alsace 2019
+:PROPERTIES:
+:ID:                     337a98fe-952a-4f53-897c-eba835071236
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-04-mixed-bag/2023-07-04-23-48-31-IMG-8173.webp]]
+
+- producer: [[barberry:/producers/a08a3633-1cd9-4f41-b1df-b17db6d5eb9b][Pierre Frick]]
+- name: [[barberry:/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f][Crémant d'Alsace]]
+- vintage: 2019
+- grapes: Pinot Blanc, Auxerrois blanc, Pinot Gris
+- appellation: Crémant d'Alsace AOC
+- location: Alsace, France
+- alcohol: 13
+- sugar: 0.5
+- price: 1190 UAH
+
+A sudden welcome drink that I am not going to talk about.
 
 * Aphros Phaunus Pet Nat Brut 2020
 :PROPERTIES:
@@ -215,6 +234,26 @@ The grapes for Aconcagua Costa Chardonnay are sourced from the Aconcagua Costa v
 
 Grapes were handpicked in the early morning between March 1st and 4th in small boxes and carefully transported to the winery, where they were whole-cluster pressed and cold decanted in stainless steel tanks. The juice is then placed into used French oak barrels for fermentation, lasting 15 to 20 days. Errázuriz uses a mix of indigenous yeasts along with a number of strains (sic!), reportedly for greater complexity (?). After alcoholic fermentation, the wine undergoes 50% malolactic fermentation. Then it ages for 10 months in the same oak.
 
+* Bret Brothers Macon-Villages Terroirs du Maconnais 2021
+:PROPERTIES:
+:ID:                     f3010e4d-0e68-4667-9650-4895097a3b72
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-04-mixed-bag/2023-07-04-23-36-35-photo-2023-07-04 23.34.19.webp]]
+
+- producer: [[barberry:/producers/4eb32a6f-ea37-4f9a-a470-d062d4465b67][Bret Brothers]]
+- name: [[barberry:/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32][Macon-Villages Terroirs du Maconnais]]
+- vintage: 2021
+- grapes: Chardonnay
+- appellation: Mâcon-villages AOC
+- location: Burgundy, France
+- alcohol: 12
+- sugar: 1.1
+- price: 1032 UAH
+
+A bonus bottle brought by one of the participants.
+
 * Pierre-Yves Colin-Morey Saint-Aubin Premier Cru La Chateniere 2020
 :PROPERTIES:
 :ID:                     e1e7b6cf-b0af-4fe3-b8f2-13b8fed31f3a
@@ -236,6 +275,26 @@ Grapes were handpicked in the early morning between March 1st and 4th in small b
 Pierre-Yves Colin is one of Burgundy's (and the wine world's) most iconic winemakers. After working as the winemaker at his father's domaine from 1994 to 2005, Pierre-Yves established his own domaine alongside his wife, Caroline Morey. And while they inherited quite a few vineyards from their families, Pierre-Yves had to prove himself before his father, Marc Colin, allowed him to take over the vineyard in Bâtard-Montrachet. Today, it's the only Grand Cru owned by Pierre-Yves Colin-Morey.
 
 His fastidious farming (lutte raisonnée[fn:4]), incredible attention to detail, use of larger demi-muid barrels, and long elevage - all that makes each one of his bottlings a clear expression of its terroir and a study in mineral-driven Chardonnay. Unlike many locals, Pierre-Yves uses 350L barrels (instead of 225L) and also ages his wines for a longer period of 18 months (vs 12 months).
+
+* Santo Wines Santorini Nykteri 2021
+:PROPERTIES:
+:ID:                     7dc448be-df84-499f-ac94-e165f6801892
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-04-mixed-bag/2023-07-04-23-41-00-IMG-8202.webp]]
+
+- producer: [[barberry:/producers/e1b9b1e9-3f66-4a59-bb50-2b7d9ffa0df7][Santo Wines]]
+- name: [[barberry:/wines/5cb54c3d-b813-4ffd-b813-5961e3273f40][Santorini Nykteri]]
+- vintage: 2021
+- grapes: Assyrtiko, Athiri Lefko, Aidini
+- appellation: Santorini POP
+- location: Greece
+- alcohol: 14
+- sugar: N/A
+- price: 2400 UAH
+
+A bonus bottle brought by one of the participants.
 
 * Resources
 :PROPERTIES:
@@ -272,18 +331,18 @@ His fastidious farming (lutte raisonnée[fn:4]), incredible attention to detail,
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                       | Welcome | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 | Wine #7 | Bonus #2 |
-|-----------------------+---------+---------+---------+---------+---------+---------+---------+----------+---------+----------|
-| [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]          |       - |    3.90 |    4.00 |    3.80 |    4.30 |  *4.50* |    3.70 |     3.90 |    3.90 |     4.00 |
-| Elena Menshikova      |    3.80 |    3.70 |    3.90 |    4.00 |    4.10 |  *4.20* |    3.80 |     3.90 |    4.10 |     3.90 |
-| Ivan Mashkantsev      |       - |    3.70 |    4.00 |    3.90 |  *4.20* |    4.10 |    3.50 |     3.90 |    3.90 |     3.90 |
-| Yaryna Tokar          |       - |    3.90 |    3.70 |  *4.60* |    4.50 |    4.40 |    3.50 |     3.50 |    4.20 |     4.30 |
-| Aleksandra Negenskaya |       - |    3.20 |    3.50 |    3.30 |    3.10 |    3.20 |    3.20 |     3.00 |    3.50 |     3.30 |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]    |    4.20 |    4.10 |    3.90 |    4.00 |    4.40 |    4.30 |    4.20 |     4.30 |    4.20 |        - |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]         |    4.10 |    3.60 |    3.90 |    4.10 |    4.10 |  *4.30* |    3.60 |     3.80 |    3.80 |     3.90 |
-| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]    |    4.00 |    3.70 |    4.20 |  *4.30* |    4.00 |    3.60 |    4.00 |     4.00 |    3.80 |     4.20 |
-| [[barberry:/convives/2e57689d-4561-455b-9ed5-2a4a028b6c6b][Andrii Koretskyi]]      |    3.80 |    3.60 |    3.60 |    4.10 |  *4.10* |    3.80 |    3.70 |     3.80 |    4.00 |     4.00 |
-| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]          |    3.70 |    3.80 |    3.70 |    4.00 |    4.10 |  *4.30* |    4.10 |     3.80 |    3.95 |     3.90 |
-| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]          |    3.80 |    3.70 |    3.90 |    4.00 |    4.20 |  *4.40* |    3.80 |     3.90 |    4.00 |     3.80 |
-| Boris Buliga          |    3.90 |    3.80 |    3.90 |    4.10 |    4.20 |    4.40 |    4.00 |     3.80 |  *4.10* |     3.90 |
+|                       | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 | Wine #9 | Wine #10 |
+|-----------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+----------|
+| [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]          |       - |    3.90 |    4.00 |    3.80 |    4.30 |  *4.50* |    3.70 |    3.90 |    3.90 |     4.00 |
+| [[barberry:/convives/97fa9d91-37d5-4a6d-8b91-ef813ba17281][Elena Menshikova]]      |    3.80 |    3.70 |    3.90 |    4.00 |    4.10 |  *4.20* |    3.80 |    3.90 |    4.10 |     3.90 |
+| Ivan Mashkantsev      |       - |    3.70 |    4.00 |    3.90 |  *4.20* |    4.10 |    3.50 |    3.90 |    3.90 |     3.90 |
+| Yaryna Tokar          |       - |    3.90 |    3.70 |  *4.60* |    4.50 |    4.40 |    3.50 |    3.50 |    4.20 |     4.30 |
+| Aleksandra Negenskaya |       - |    3.20 |    3.50 |    3.30 |    3.10 |    3.20 |    3.20 |    3.00 |    3.50 |     3.30 |
+| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]    |    4.20 |    4.10 |    3.90 |    4.00 |    4.40 |    4.30 |    4.20 |    4.30 |    4.20 |        - |
+| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]         |    4.10 |    3.60 |    3.90 |    4.10 |    4.10 |  *4.30* |    3.60 |    3.80 |    3.80 |     3.90 |
+| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]    |    4.00 |    3.70 |    4.20 |  *4.30* |    4.00 |    3.60 |    4.00 |    4.00 |    3.80 |     4.20 |
+| [[barberry:/convives/2e57689d-4561-455b-9ed5-2a4a028b6c6b][Andrii Koretskyi]]      |    3.80 |    3.60 |    3.60 |    4.10 |  *4.10* |    3.80 |    3.70 |    3.80 |    4.00 |     4.00 |
+| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]          |    3.70 |    3.80 |    3.70 |    4.00 |    4.10 |  *4.30* |    4.10 |    3.80 |    3.95 |     3.90 |
+| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]          |    3.80 |    3.70 |    3.90 |    4.00 |    4.20 |  *4.40* |    3.80 |    3.90 |    4.00 |     3.80 |
+| Boris Buliga          |    3.90 |    3.80 |    3.90 |    4.10 |    4.20 |    4.40 |    4.00 |    3.80 |  *4.10* |     3.90 |
 
