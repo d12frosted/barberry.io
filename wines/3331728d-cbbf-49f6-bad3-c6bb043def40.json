@@ -1,7 +1,7 @@
 {
   "id": "3331728d-cbbf-49f6-bad3-c6bb043def40",
-  "name": "Beaujolais",
-  "full-name": "Marcel Lapierre Beaujolais 2021",
+  "name": "Le Beaujolais",
+  "full-name": "Marcel Lapierre Le Beaujolais 2021",
   "producer": {
     "id": "c38d17a7-3261-417e-b531-a4db14fcc66d",
     "name": "Marcel Lapierre"
@@ -28,7 +28,7 @@
   "prices": [
     "847 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/33/31728d-cbbf-49f6-bad3-c6bb043def40/2023-07-02-14-25-52-IMG-8095.webp",
-  "rating": "NA"
+  "rating": "7.25"
 }
