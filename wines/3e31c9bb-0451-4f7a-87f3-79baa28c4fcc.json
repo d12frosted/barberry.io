@@ -1,0 +1,38 @@
+{
+  "id": "3e31c9bb-0451-4f7a-87f3-79baa28c4fcc",
+  "name": "Jeudi 15 Rosato",
+  "full-name": "Vino di Anna Jeudi 15 Rosato 2020",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.79",
+  "prices": [
+    "790 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "7.0"
+}

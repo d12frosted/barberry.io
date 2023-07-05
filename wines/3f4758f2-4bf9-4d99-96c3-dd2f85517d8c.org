@@ -47,5 +47,11 @@ The first magnum in my life. And what a wine! Since 2014 was not simple year, St
     <section class="h text-bolder">Carjcanti - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/74f4e417-e5f0-4e9a-b854-04f24afe972a.html">
+    <img class="flex-bottle" src="/images/74/f4e417-e5f0-4e9a-b854-04f24afe972a/2020-10-28-09-07-18-2ECD9444-51BF-45CB-8A76-BFDFA8907B37-1-105-c@512.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Palmento Bianco - 2019</section>
+  </a>
+
 </div>
 #+end_export

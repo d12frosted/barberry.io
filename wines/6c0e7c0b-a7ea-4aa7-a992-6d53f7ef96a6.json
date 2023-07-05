@@ -1,0 +1,34 @@
+{
+  "id": "6c0e7c0b-a7ea-4aa7-a992-6d53f7ef96a6",
+  "name": "Palmento",
+  "full-name": "Vino di Anna Palmento 2019",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.17",
+  "prices": [
+    "640 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "6.0"
+}

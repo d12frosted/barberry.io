@@ -109,7 +109,13 @@ Since I have tasted this wine on multiple occasions, I knew what to expect. So I
     <section class="h text-bolder">Al Dente - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fad72b54-df09-4885-a811-58b30ea21caf.html">
+  <a class="flex-item flex-item-right" href="/wines/eaa798d5-3964-483f-bdbe-2beba1f73540.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Rosso CR - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fad72b54-df09-4885-a811-58b30ea21caf.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Rosso Puglia Nu Litr - 2019</section>

@@ -1,0 +1,38 @@
+{
+  "id": "2e49b29a-d4a6-4d49-b1c7-601b9e044399",
+  "name": "Q1000 Tartaraci Rosso",
+  "full-name": "Vino di Anna Q1000 Tartaraci Rosso 2016",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "b6846384-2132-4c97-b5c9-360acd53f497",
+      "name": "Alicante Henri Bouschet"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1150 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/2e/49b29a-d4a6-4d49-b1c7-601b9e044399/2020-09-06-12-26-51-53D4E932-CA93-4BFE-B9B4-137F7D37EE00-1-105-c.webp",
+  "rating": "8.0"
+}

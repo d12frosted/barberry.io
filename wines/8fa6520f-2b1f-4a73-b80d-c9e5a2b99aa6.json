@@ -1,0 +1,46 @@
+{
+  "id": "8fa6520f-2b1f-4a73-b80d-c9e5a2b99aa6",
+  "name": "Bianco",
+  "full-name": "Vino di Anna Bianco 2018",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "7adf0820-3dff-4ee2-a488-89926a81d1f3",
+      "name": "Chenin Blanc"
+    },
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.79",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/unknown-wine.webp",
+  "rating": "8.0"
+}

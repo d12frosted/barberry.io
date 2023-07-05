@@ -1,0 +1,46 @@
+{
+  "id": "74f4e417-e5f0-4e9a-b854-04f24afe972a",
+  "name": "Palmento Bianco",
+  "full-name": "Vino di Anna Palmento Bianco 2019",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    },
+    {
+      "id": "90fa2880-a977-41ff-ad4e-a560f316dddb",
+      "name": "Minnella Bianca"
+    },
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "cb51e2e2-1332-45f0-9578-28a0107e08d8",
+      "name": "Inzolia"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.5",
+  "prices": [
+    "640 UAH"
+  ],
+  "available": 0,
+  "image": "images/74/f4e417-e5f0-4e9a-b854-04f24afe972a/2020-10-28-09-07-18-2ECD9444-51BF-45CB-8A76-BFDFA8907B37-1-105-c.webp",
+  "rating": "8.0"
+}

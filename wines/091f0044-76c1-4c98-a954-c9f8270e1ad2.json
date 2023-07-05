@@ -1,0 +1,42 @@
+{
+  "id": "091f0044-76c1-4c98-a954-c9f8270e1ad2",
+  "name": "Palmentino",
+  "full-name": "Vino di Anna Palmentino 2017",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    },
+    {
+      "id": "ce883625-8515-414f-861d-42efcfefc720",
+      "name": "Grecanico"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.5",
+  "prices": [
+    "610 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "6.0"
+}

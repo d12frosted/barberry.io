@@ -129,5 +129,11 @@ In my sense, perfect table wine that you can enjoy from any glassware with or wi
     <section class="h text-bolder">Al Dente - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/eaa798d5-3964-483f-bdbe-2beba1f73540.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Rosso CR - 2017</section>
+  </a>
+
 </div>
 #+end_export
