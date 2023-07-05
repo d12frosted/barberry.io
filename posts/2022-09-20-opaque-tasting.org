@@ -154,17 +154,17 @@ And now the bottle of orange wine. I know many expected me to pick one for this 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
-|------------------------------------------------------------------+---------+---------+---------+---------+---------|
-| Oleksandr Riabtsev  |    4.00 |    3.20 |    3.80 |  *4.20* |    4.10 |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]      |    3.50 |  *3.90* |    4.00 |    4.20 |    4.00 |
-| Olena Makedonska    |  *4.20* |    3.80 |    4.00 |    4.00 |       - |
-| Kateryna Syrotynska |  *4.00* |    3.50 |       - |       - |       - |
-| [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]]   |    4.00 |  *4.10* |    3.80 |    4.20 |    3.90 |
-| [[barberry:/convives/68dee285-38d0-4d6e-a63b-46f43a0c0996][Mariia Sirychenko]]   |    3.90 |    3.60 |    3.80 |  *4.40* |    3.90 |
-| Julia Lybenska      |    3.70 |  *4.10* |    3.90 |    3.90 |       - |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]    |    4.00 |    3.80 |    4.00 |  *4.20* |    3.90 |
-| Boris Buliga        |  *4.00* |    3.90 |    3.80 |    3.90 |    3.70 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------------+---------+---------+---------+---------+---------|
+| Oleksandr R  |    4.00 |    3.20 |    3.80 |  *4.20* |    4.10 |
+| Andrii S     |    3.50 |  *3.90* |    4.00 |    4.20 |    4.00 |
+| Olena M      |  *4.20* |    3.80 |    4.00 |    4.00 |       - |
+| Kateryna S   |  *4.00* |    3.50 |       - |       - |       - |
+| Viktoriya Zh |    4.00 |  *4.10* |    3.80 |    4.20 |    3.90 |
+| Mariia S     |    3.90 |    3.60 |    3.80 |  *4.40* |    3.90 |
+| Julia L      |    3.70 |  *4.10* |    3.90 |    3.90 |       - |
+| Elvira K     |    4.00 |    3.80 |    4.00 |  *4.20* |    3.90 |
+| Boris B      |  *4.00* |    3.90 |    3.80 |    3.90 |    3.70 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

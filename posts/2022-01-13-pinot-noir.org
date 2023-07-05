@@ -13,14 +13,14 @@ It always makes me happy when Champagne praised so highly. Especially when it's 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                    | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
-|--------------------+---------+---------+---------+---------+---------|
-| [[barberry:/convives/2751b82d-b373-4029-9fde-faa10757c732][Julia Dribko]]       | *4.50*  |    4.10 | 3.80    |    3.80 |    3.50 |
-| [[barberry:/convives/e7a01036-a446-4ea1-ab52-1262a1398bf4][Vladyslav Polik]]    | *4.30*  |    3.50 | 4.00    |    3.80 |    3.40 |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]   | *4.20*  |    3.50 | 4.10    |    3.50 |    3.90 |
-| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]]  | 3.50    |    3.30 | *3.80*  |    3.40 |    3.70 |
-| Boris Buliga       | 4.20    |    3.90 | *4.00*  |    3.80 |    4.00 |
-| [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]] | 4.00    |    3.50 | *4.40*  |    3.90 |    3.50 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------------+---------+---------+---------+---------+---------|
+| Julia D      | *4.50*  |    4.10 | 3.80    |    3.80 |    3.50 |
+| Vladyslav P  | *4.30*  |    3.50 | 4.00    |    3.80 |    3.40 |
+| Elvira K     | *4.20*  |    3.50 | 4.10    |    3.50 |    3.90 |
+| Oleksandr Ya | 3.50    |    3.30 | *3.80*  |    3.40 |    3.70 |
+| Boris B      | 4.20    |    3.90 | *4.00*  |    3.80 |    4.00 |
+| Vasyl K      | 4.00    |    3.50 | *4.40*  |    3.90 |    3.50 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

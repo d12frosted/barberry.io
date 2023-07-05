@@ -185,11 +185,11 @@ I am yet to provide information about this wine. And while it's a work in progre
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                   | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
-|-------------------+---------+---------+---------+---------+---------|
-| Yuliia Silchenko  |    3.70 |    4.10 | *4.20*  |    4.00 |    4.10 |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]  |    3.80 |    3.90 | *4.20*  |    4.10 |    4.20 |
-| [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]] |    3.80 |    3.90 | 4.10    |  *4.30* |    4.10 |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]    |    3.90 |    4.10 | *4.35*  |    4.30 |    4.20 |
-| Boris Buliga      |    3.60 |    4.10 | 4.20    |  *4.00* |    4.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------------+---------+---------+---------+---------+---------|
+| Yuliia S     |    3.70 |    4.10 | *4.20*  |    4.00 |    4.10 |
+| Elvira K     |    3.80 |    3.90 | *4.20*  |    4.10 |    4.20 |
+| Viktoriya Zh |    3.80 |    3.90 | 4.10    |  *4.30* |    4.10 |
+| Andrii S     |    3.90 |    4.10 | *4.35*  |    4.30 |    4.20 |
+| Boris B      |    3.60 |    4.10 | 4.20    |  *4.00* |    4.00 |
 

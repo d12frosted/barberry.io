@@ -198,19 +198,19 @@ In all seriousness, my love for Champagne started with a bottle of Jacquesson Cu
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                 | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Bonus #1 | Bonus #2 | Bonus #3 |
-|-----------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------+----------+----------+----------|
-| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]       |    3.60 |    3.80 |    4.00 |    3.80 |    4.00 |    4.00 |  *4.20* | -        | -        | -        |
-| [[barberry:/convives/6e3b8bd6-8f1b-4758-806d-9fe98d359e9f][Anya Ivanova]]       |    3.90 |    4.00 |    4.10 |    4.10 |  *4.20* |    4.10 |    4.30 | -        | -        | -        |
-| Mykola Turskyi     |    3.90 |    4.00 |  *4.20* |    4.10 |    4.00 |    4.10 |    4.40 | -        | -        | -        |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]      |  *4.20* |    3.90 |    4.30 |    3.80 |    4.10 |    3.90 |    4.20 | -        | -        | -        |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]] |    4.10 |    3.90 |    4.50 |    4.10 |  *4.45* |    4.30 |    4.40 | -        | -        | -        |
-| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]       |    3.80 |    4.00 |    4.00 |    3.90 |  *4.10* |    3.90 |    4.30 | -        | -        | -        |
-| Maryna Yukhumets   |    3.40 |    4.20 |    4.30 |  *4.40* |    4.80 |    4.70 |    5.00 | -        | -        | -        |
-| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]  |    3.80 |    3.80 |    4.20 |    4.10 |    3.60 |  *4.30* |    4.50 | -        | -        | -        |
-| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]] |    4.20 |  *4.35* |    3.80 |    4.10 |    4.30 |    4.60 |    4.40 | -        | -        | -        |
-| Volodymyr Sakun    |       - |    4.00 |    4.20 |    4.20 |    4.10 |    4.10 |  *4.40* | -        | -        | -        |
-| Boris Buliga       |    3.60 |    3.80 |    4.00 |    4.00 |    4.00 |    4.10 |  *4.30* | -        | -        | -        |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Bonus #1 | Bonus #2 | Bonus #3 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+----------+----------+----------|
+| Daria B     |    3.60 |    3.80 |    4.00 |    3.80 |    4.00 |    4.00 |  *4.20* | -        | -        | -        |
+| Anya I      |    3.90 |    4.00 |    4.10 |    4.10 |  *4.20* |    4.10 |    4.30 | -        | -        | -        |
+| Mykola T    |    3.90 |    4.00 |  *4.20* |    4.10 |    4.00 |    4.10 |    4.40 | -        | -        | -        |
+| Dmytro D    |  *4.20* |    3.90 |    4.30 |    3.80 |    4.10 |    3.90 |    4.20 | -        | -        | -        |
+| Ivietta K   |    4.10 |    3.90 |    4.50 |    4.10 |  *4.45* |    4.30 |    4.40 | -        | -        | -        |
+| Julie B     |    3.80 |    4.00 |    4.00 |    3.90 |  *4.10* |    3.90 |    4.30 | -        | -        | -        |
+| Maryna Yu   |    3.40 |    4.20 |    4.30 |  *4.40* |    4.80 |    4.70 |    5.00 | -        | -        | -        |
+| Yaroslav M  |    3.80 |    3.80 |    4.20 |    4.10 |    3.60 |  *4.30* |    4.50 | -        | -        | -        |
+| Oleksandr R |    4.20 |  *4.35* |    3.80 |    4.10 |    4.30 |    4.60 |    4.40 | -        | -        | -        |
+| Volodymyr S |       - |    4.00 |    4.20 |    4.20 |    4.10 |    4.10 |  *4.40* | -        | -        | -        |
+| Boris B     |    3.60 |    3.80 |    4.00 |    4.00 |    4.00 |    4.10 |  *4.30* | -        | -        | -        |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

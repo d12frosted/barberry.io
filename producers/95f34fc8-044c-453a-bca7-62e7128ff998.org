@@ -38,28 +38,28 @@ Guilde to Goodwine #38
     <section class="h text-bolder">Entre Ciel & Terre (2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5da4035d-8384-49f4-baec-5b98fec5bfd5.html">
-    <img class="flex-bottle" src="/images/5d/a4035d-8384-49f4-baec-5b98fec5bfd5/2023-07-05-13-48-49-74DCE5B5-45E0-483A-B711-28E1BE7A1270-1-105-c@512.webp"></img>
-    <section class="h">★ 9.00</section>
-    <section class="h text-bolder">Jouvence - 2012</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
     <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2023-06-03-11-24-05-72980C88-A8D2-4369-942E-926D7D1690A4-1-105-c@512.webp"></img>
     <section class="h">★ 8.87</section>
     <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
+  <a class="flex-item flex-item-right" href="/wines/cf54ea2f-5a9b-4e9a-8a64-1eb490729b6e.html">
     <img class="flex-bottle" src="/images/cf/54ea2f-5a9b-4e9a-8a64-1eb490729b6e/2021-08-18-10-40-25-679846D2-B652-4211-A35A-8D8DE7E87F6C-1-105-c@512.webp"></img>
     <section class="h">★ 8.38</section>
     <section class="h text-bolder">Origin'elle (2015) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0514a4a1-e52c-4bcd-bec3-b1fdfdb63ff3.html">
+  <a class="flex-item flex-item-left" href="/wines/0514a4a1-e52c-4bcd-bec3-b1fdfdb63ff3.html">
     <img class="flex-bottle" src="/images/05/14a4a1-e52c-4bcd-bec3-b1fdfdb63ff3/2022-09-23-21-09-57-IMG-2416@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Origin'elle (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5da4035d-8384-49f4-baec-5b98fec5bfd5.html">
+    <img class="flex-bottle" src="/images/5d/a4035d-8384-49f4-baec-5b98fec5bfd5/2023-07-05-13-48-49-74DCE5B5-45E0-483A-B711-28E1BE7A1270-1-105-c@512.webp"></img>
+    <section class="h">★ 9.00</section>
+    <section class="h text-bolder">Jouvence - 2012</section>
   </a>
 
 </div>

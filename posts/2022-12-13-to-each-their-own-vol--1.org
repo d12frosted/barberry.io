@@ -17,15 +17,15 @@ For this event, our topic was the Pinot family. It means that the wine must be m
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                    | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|--------------------+---------+---------+---------+---------+---------+---------+---------|
-| [[barberry:/convives/842ecc7c-ebd4-47f8-89d4-43577ac50cd2][Daria Bykova]]       |    3.80 |  +3.70+ |    4.00 |    3.80 |    3.80 |  *4.00* |    3.80 |
-| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]] |    3.20 |    3.70 |  *4.20* |    3.80 |    3.60 |    3.10 |  +3.10+ |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]     |    3.60 |    3.40 |    4.40 |  +3.30+ |  *4.10* |    3.70 |    4.00 |
-| [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]]  |    3.90 |  +3.50+ |    4.40 |    4.10 |  *4.50* |    4.00 |    3.90 |
-| Dimitry Grachov    |    3.20 |    3.00 |  *4.20* |    4.00 |    4.00 |    3.70 |  +3.20+ |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]   |    3.70 |  +3.70+ |    4.00 |    3.90 |    3.80 |  *3.90* |    4.00 |
-| Boris Buliga       |    4.00 |  +3.50+ |    4.00 |    4.00 |    4.00 |  *4.10* |    4.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|--------------+---------+---------+---------+---------+---------+---------+---------|
+| Daria B      |    3.80 |  +3.70+ |    4.00 |    3.80 |    3.80 |  *4.00* |    3.80 |
+| Oleksandr R  |    3.20 |    3.70 |  *4.20* |    3.80 |    3.60 |    3.10 |  +3.10+ |
+| Andrii S     |    3.60 |    3.40 |    4.40 |  +3.30+ |  *4.10* |    3.70 |    4.00 |
+| Viktoriya Zh |    3.90 |  +3.50+ |    4.40 |    4.10 |  *4.50* |    4.00 |    3.90 |
+| Dimitry G    |    3.20 |    3.00 |  *4.20* |    4.00 |    4.00 |    3.70 |  +3.20+ |
+| Elvira K     |    3.70 |  +3.70+ |    4.00 |    3.90 |    3.80 |  *3.90* |    4.00 |
+| Boris B      |    4.00 |  +3.50+ |    4.00 |    4.00 |    4.00 |  *4.10* |    4.00 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

@@ -227,17 +227,17 @@ Displayed very dark red fruit that seemed to be all coiled up in tannins and ver
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                      | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 | Bonus #2 | Bonus #3 |
-|----------------------+---------+---------+---------+---------+---------+---------+----------+----------+----------|
-| [[barberry:/convives/518edef7-4fa0-4de6-acee-86a231975e0c][Oleksandr Riabtsev]]   |    4.20 |    4.00 |    4.10 |  *4.20* |    3.90 |    4.10 | -        | -        | -        |
-| [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]         |    4.10 |    3.90 |    4.20 |    4.10 |    4.20 |  *4.30* | -        | -        | -        |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]        |  *4.30* |    3.60 |    4.10 |    4.30 |    4.30 |    4.20 | -        | -        | -        |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]   |    4.30 |    4.25 |    3.50 |    4.20 |    4.10 |  *4.40* | -        | -        | -        |
-| Yaryna Tokar         |    4.50 |    3.50 |    3.95 |    4.60 |  *4.30* |    4.20 | -        | -        | -        |
-| [[barberry:/convives/13ba05aa-2403-46f6-96d4-89c388e84fb3][Yaroslav Mindolin]]    |    4.00 |    4.00 |  *4.30* |    4.10 |    4.10 |    4.20 | -        | -        | -        |
-| Maryna Yukhumets     |    3.90 |    4.20 |    4.30 |    4.00 |    4.40 |  *4.50* | -        | -        | -        |
-| Anastasiia Zvonovska |  *4.30* |    4.00 |    4.30 |    4.10 |    4.10 |    4.40 | -        | -        | -        |
-| Boris Buliga         |    3.90 |    3.80 |    4.20 |    4.20 |    4.20 |  *4.40* | -        | -        | -        |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 | Bonus #2 | Bonus #3 |
+|--------------+---------+---------+---------+---------+---------+---------+----------+----------+----------|
+| Oleksandr R  |    4.20 |    4.00 |    4.10 |  *4.20* |    3.90 |    4.10 | -        | -        | -        |
+| Julie B      |    4.10 |    3.90 |    4.20 |    4.10 |    4.20 |  *4.30* | -        | -        | -        |
+| Dmytro D     |  *4.30* |    3.60 |    4.10 |    4.30 |    4.30 |    4.20 | -        | -        | -        |
+| Ivietta K    |    4.30 |    4.25 |    3.50 |    4.20 |    4.10 |  *4.40* | -        | -        | -        |
+| Yaryna T     |    4.50 |    3.50 |    3.95 |    4.60 |  *4.30* |    4.20 | -        | -        | -        |
+| Yaroslav M   |    4.00 |    4.00 |  *4.30* |    4.10 |    4.10 |    4.20 | -        | -        | -        |
+| Maryna Yu    |    3.90 |    4.20 |    4.30 |    4.00 |    4.40 |  *4.50* | -        | -        | -        |
+| Anastasiia Z |  *4.30* |    4.00 |    4.30 |    4.10 |    4.10 |    4.40 | -        | -        | -        |
+| Boris B      |    3.90 |    3.80 |    4.20 |    4.20 |    4.20 |  *4.40* | -        | -        | -        |
 
 * Resources
 :PROPERTIES:

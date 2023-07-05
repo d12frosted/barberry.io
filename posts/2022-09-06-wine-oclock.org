@@ -18,16 +18,16 @@ Since I had a rough idea of how many people will actually come, I prepared 7 win
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
-|------------------------------------------------------------------+---------+---------+---------+---------+---------|
-| Yulia Kovalevska    |    3.00 | *4.00*  | *4.50*  |    3.50 | 2.50    |
-| [[barberry:/convives/8ce09e55-c86c-488f-ac86-7c9afdc2bb78][Kateryna Konovalova]] |    2.50 | 4.00    | *4.50*  |    3.80 | *4.20*  |
-| Olena Makedonska    |    2.00 | *3.50*  | *4.00*  |    3.80 | 3.00    |
-| Daria Nastai        |    2.00 | *5.00*  | 3.00    |  *3.50* | 2.00    |
-| Karyna Stepova      |    3.00 | -       | 3.50    |  *3.80* | *4.00*  |
-| Anna Zrazhevska     |  *3.00* | 2.50    | 3.50    |    3.00 | *4.30*  |
-| Kateryna Syrotynska |  *4.00* | 3.00    | 3.50    |    3.00 | *4.20*  |
-| Boris Buliga        |    3.50 | *3.80*  | *4.00*  |    3.70 | 4.00    |
+|            | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|------------+---------+---------+---------+---------+---------|
+| Yulia K    |    3.00 | *4.00*  | *4.50*  |    3.50 | 2.50    |
+| Kateryna K |    2.50 | 4.00    | *4.50*  |    3.80 | *4.20*  |
+| Olena M    |    2.00 | *3.50*  | *4.00*  |    3.80 | 3.00    |
+| Daria N    |    2.00 | *5.00*  | 3.00    |  *3.50* | 2.00    |
+| Karyna S   |    3.00 | -       | 3.50    |  *3.80* | *4.00*  |
+| Anna Zr    |  *3.00* | 2.50    | 3.50    |    3.00 | *4.30*  |
+| Kateryna S |  *4.00* | 3.00    | 3.50    |    3.00 | *4.20*  |
+| Boris B    |    3.50 | *3.80*  | *4.00*  |    3.70 | 4.00    |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

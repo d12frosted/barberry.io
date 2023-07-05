@@ -213,18 +213,18 @@ After so many wines, we need a hard reset. And in my opinion, a glass of Cava se
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|------------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| [[barberry:/convives/a57744e6-9b66-4144-8809-597409574459][Artem Ohanjanyan]]    |    3.70 |  *4.20* |    3.70 |  +3.20+ |    3.60 |    4.10 |    4.20 |    3.90 |
-| Oleksandr Riabtsev  |    4.00 |  +3.70+ |    3.90 |    4.20 |    3.90 |  *4.10* |    3.90 |    3.90 |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]       |    3.80 |    3.80 |    4.20 |    3.90 |  *4.50* |  +3.80+ |    4.20 |    3.80 |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]  |    3.90 |    4.00 |    4.30 |    4.10 |  *4.70* |    4.30 |    4.20 |  +3.50+ |
-| Andrii Ulozhenko    |    3.00 |    3.50 |    4.00 |    3.50 |    3.70 |  *4.10* |    4.40 |    3.90 |
-| [[barberry:/convives/2e57689d-4561-455b-9ed5-2a4a028b6c6b][Andrii Koretskyi]]    |    3.80 |    3.70 |    3.50 |  *4.20* |    3.80 |    3.60 |    4.00 |  +3.50+ |
-| [[barberry:/convives/f42cef97-f524-475c-9ba5-4a41dce97d05][Andrii Brudnyi]]      |  +3.30+ |    3.50 |    3.90 |    3.90 |  *3.90* |    3.70 |    3.80 |    3.70 |
-| [[barberry:/convives/5da7c53e-1212-4a6c-87de-c1e8f18834f8][Oleh Avgustinov]]     |    3.50 |  *4.00* |    2.00 |    2.80 |    3.00 |    3.20 |  +1.50+ |    3.50 |
-| [[barberry:/convives/1dcf3c9e-5443-473a-ad54-89f15994dfb7][Yaroslav Zakharchuk]] |  +2.80+ |  *4.00* |    3.60 |    3.70 |    3.50 |    3.30 |    3.90 |    3.20 |
-| Boris Buliga        |    3.60 |    3.60 |    3.80 |    3.80 |    3.80 |    3.60 |    3.80 |  *3.80* |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Artem O     |    3.70 |  *4.20* |    3.70 |  +3.20+ |    3.60 |    4.10 |    4.20 |    3.90 |
+| Oleksandr R |    4.00 |  +3.70+ |    3.90 |    4.20 |    3.90 |  *4.10* |    3.90 |    3.90 |
+| Dmytro D    |    3.80 |    3.80 |    4.20 |    3.90 |  *4.50* |  +3.80+ |    4.20 |    3.80 |
+| Ivietta K   |    3.90 |    4.00 |    4.30 |    4.10 |  *4.70* |    4.30 |    4.20 |  +3.50+ |
+| Andrii U    |    3.00 |    3.50 |    4.00 |    3.50 |    3.70 |  *4.10* |    4.40 |    3.90 |
+| Andrii K    |    3.80 |    3.70 |    3.50 |  *4.20* |    3.80 |    3.60 |    4.00 |  +3.50+ |
+| Andrii Br   |  +3.30+ |    3.50 |    3.90 |    3.90 |  *3.90* |    3.70 |    3.80 |    3.70 |
+| Oleh A      |    3.50 |  *4.00* |    2.00 |    2.80 |    3.00 |    3.20 |  +1.50+ |    3.50 |
+| Yaroslav Z  |  +2.80+ |  *4.00* |    3.60 |    3.70 |    3.50 |    3.30 |    3.90 |    3.20 |
+| Boris B     |    3.60 |    3.60 |    3.80 |    3.80 |    3.80 |    3.60 |    3.80 |  *3.80* |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

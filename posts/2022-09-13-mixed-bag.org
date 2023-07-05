@@ -29,20 +29,20 @@ So what's the story I am trying to tell today? Definitely, about passion. About 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|------------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Olena Makedonska    |    2.90 |  +3.00+ |    3.20 |    3.50 |    4.20 |  *4.40* |    3.80 |    3.50 |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]      |    3.80 |    3.80 |    4.10 |  +3.40+ |    3.90 |    4.30 |  *4.30* |    4.30 |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]      |    4.00 |    4.10 |  *3.90* |    3.80 |  +3.60+ |    3.80 |    4.20 |    4.50 |
-| [[barberry:/convives/673834bd-4eee-40f7-9ecc-858596aeac52][Maksym Kramarenko]]   |    3.00 |  +3.40+ |    3.60 |    3.20 |    3.30 |    3.50 |  *4.10* |    3.50 |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]    |  +3.30+ |    3.50 |  *4.30* |    3.50 |    3.80 |    3.90 |    4.00 |    4.50 |
-| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]]   |    3.80 |  +3.80+ |    3.90 |    3.90 |    3.80 |  *4.00* |    4.20 |    3.80 |
-| Anastasiia Povzyk   |    3.40 |  +3.20+ |    3.50 |    3.50 |  *4.00* |    3.80 |    3.95 |    4.20 |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]  |    4.40 |    4.30 |    4.40 |  +4.00+ |    4.50 |  *4.70* |    4.40 |    4.40 |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]       |    4.00 |    4.20 |    3.80 |  +3.60+ |    4.00 |  *4.30* |    4.10 |    3.80 |
-| [[barberry:/convives/d9edec4f-9187-4485-a1fe-1fb98e3dc02c][Tetiana Stashchenko]] |    4.30 |  +4.20+ |    4.20 |    4.40 |  *4.50* |    4.30 |    4.35 |    4.20 |
-| [[barberry:/convives/a6bd7468-9b2e-4de3-9fee-874cf3f04b68][Dmytro Stashchenko]]  |    3.70 |    3.90 |    3.90 |  +3.50+ |  *4.30* |    4.00 |    4.30 |    4.30 |
-| Boris Buliga        |    3.80 |    4.00 |    4.20 |  *4.20* |    4.00 |    4.20 |  +4.20+ |    4.20 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Olena M      |    2.90 |  +3.00+ |    3.20 |    3.50 |    4.20 |  *4.40* |    3.80 |    3.50 |
+| Andrii S     |    3.80 |    3.80 |    4.10 |  +3.40+ |    3.90 |    4.30 |  *4.30* |    4.30 |
+| Andrii S     |    4.00 |    4.10 |  *3.90* |    3.80 |  +3.60+ |    3.80 |    4.20 |    4.50 |
+| Maksym K     |    3.00 |  +3.40+ |    3.60 |    3.20 |    3.30 |    3.50 |  *4.10* |    3.50 |
+| Elvira K     |  +3.30+ |    3.50 |  *4.30* |    3.50 |    3.80 |    3.90 |    4.00 |    4.50 |
+| Oleksandr Ya |    3.80 |  +3.80+ |    3.90 |    3.90 |    3.80 |  *4.00* |    4.20 |    3.80 |
+| Anastasiia P |    3.40 |  +3.20+ |    3.50 |    3.50 |  *4.00* |    3.80 |    3.95 |    4.20 |
+| Ivietta K    |    4.40 |    4.30 |    4.40 |  +4.00+ |    4.50 |  *4.70* |    4.40 |    4.40 |
+| Dmytro D     |    4.00 |    4.20 |    3.80 |  +3.60+ |    4.00 |  *4.30* |    4.10 |    3.80 |
+| Tetiana S    |    4.30 |  +4.20+ |    4.20 |    4.40 |  *4.50* |    4.30 |    4.35 |    4.20 |
+| Dmytro S     |    3.70 |    3.90 |    3.90 |  +3.50+ |  *4.30* |    4.00 |    4.30 |    4.30 |
+| Boris B      |    3.80 |    4.00 |    4.20 |  *4.20* |    4.00 |    4.20 |  +4.20+ |    4.20 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results

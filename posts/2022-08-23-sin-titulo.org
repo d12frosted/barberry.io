@@ -32,20 +32,20 @@ That being said, I am going to continue with this kind of order, where the most 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|                                                                  | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|------------------------------------------------------------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Oleksandr Riabtsev  |    3.00 |  +2.80+ |    3.80 |    4.00 |    3.00 |  *4.20* |    4.00 |    3.50 |
-| [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]      |    3.60 |    3.40 |    3.90 |    3.70 |  +3.30+ |  *4.40* |    3.90 |    4.00 |
-| [[barberry:/convives/d9edec4f-9187-4485-a1fe-1fb98e3dc02c][Tetiana Stashchenko]] |    4.00 |    3.00 |    3.30 |  +2.70+ |    3.40 |    4.00 |    3.80 |  *4.40* |
-| [[barberry:/convives/a6bd7468-9b2e-4de3-9fee-874cf3f04b68][Dmytro Stashchenko]]  |    3.90 |    3.60 |    4.10 |  +3.20+ |    3.10 |    4.00 |  *4.30* |    3.90 |
-| [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]  |    4.00 |  +3.80+ |    4.30 |    4.20 |  *4.80* |    3.80 |    4.40 |    3.90 |
-| [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]       |    4.00 |    3.50 |    3.80 |    4.30 |  *4.50* |    3.90 |  +3.00+ |    3.40 |
-| [[barberry:/convives/673834bd-4eee-40f7-9ecc-858596aeac52][Maksym Kramarenko]]   |    2.90 |    3.00 |    3.10 |  +2.80+ |    3.50 |  *4.10* |       - |       - |
-| [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]    |    4.00 |    3.80 |  *4.00* |    3.80 |    3.70 |    4.30 |  +3.60+ |    3.70 |
-| [[barberry:/convives/dcadee96-ea16-4b24-ab7a-78cc8abfe007][Oleksandr Yakover]]   |    3.80 |    4.00 |  *4.10* |    3.50 |  +3.40+ |    4.20 |    3.90 |    4.10 |
-| Olena Hrynyuk       |    3.90 |    3.80 |    3.80 |    3.70 |    3.80 |  *4.00* |    4.00 |  +3.60+ |
-| [[barberry:/convives/8ce09e55-c86c-488f-ac86-7c9afdc2bb78][Kateryna Konovalova]] |    4.00 |  +3.20+ |    4.00 |    3.80 |    4.30 |  *4.70* |    3.20 |    4.00 |
-| Boris Buliga        |    3.80 |    3.70 |    4.00 |  *4.20* |    4.50 |    4.20 |    3.80 |  +3.70+ |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Oleksandr R  |    3.00 |  +2.80+ |    3.80 |    4.00 |    3.00 |  *4.20* |    4.00 |    3.50 |
+| Andrii S     |    3.60 |    3.40 |    3.90 |    3.70 |  +3.30+ |  *4.40* |    3.90 |    4.00 |
+| Tetiana S    |    4.00 |    3.00 |    3.30 |  +2.70+ |    3.40 |    4.00 |    3.80 |  *4.40* |
+| Dmytro S     |    3.90 |    3.60 |    4.10 |  +3.20+ |    3.10 |    4.00 |  *4.30* |    3.90 |
+| Ivietta K    |    4.00 |  +3.80+ |    4.30 |    4.20 |  *4.80* |    3.80 |    4.40 |    3.90 |
+| Dmytro D     |    4.00 |    3.50 |    3.80 |    4.30 |  *4.50* |    3.90 |  +3.00+ |    3.40 |
+| Maksym K     |    2.90 |    3.00 |    3.10 |  +2.80+ |    3.50 |  *4.10* |       - |       - |
+| Elvira K     |    4.00 |    3.80 |  *4.00* |    3.80 |    3.70 |    4.30 |  +3.60+ |    3.70 |
+| Oleksandr Ya |    3.80 |    4.00 |  *4.10* |    3.50 |  +3.40+ |    4.20 |    3.90 |    4.10 |
+| Olena H      |    3.90 |    3.80 |    3.80 |    3.70 |    3.80 |  *4.00* |    4.00 |  +3.60+ |
+| Kateryna K   |    4.00 |  +3.20+ |    4.00 |    3.80 |    4.30 |  *4.70* |    3.20 |    4.00 |
+| Boris B      |    3.80 |    3.70 |    4.00 |  *4.20* |    4.50 |    4.20 |    3.80 |  +3.70+ |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
