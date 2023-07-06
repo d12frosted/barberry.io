@@ -579,7 +579,7 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
     (insert
      "#+attr_html: :class wines-table\n"
      (string-table
-      :header '("county" "producer" "name" "vintage" "grapes" "rate")
+      :header '("county" "region" "producer" "name" "vintage" "grapes" "rate")
       :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
       :row-start "| " :sep " | " :row-end " |"
       :data
@@ -595,6 +595,7 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
                    (producer (vulpea-note-meta-get it "producer" 'note)))
               (list
                (vulpea-utils-link-make-string country)
+               (vulpea-utils-link-make-string roa)
                (vulpea-utils-link-make-string producer)
                (org-link-make-string
                 (concat "id:" (vulpea-note-id it))
@@ -634,7 +635,7 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
        "\n\n"
        "#+attr_html: :class wines-table\n"
        (string-table
-        :header '("county" "producer" "name" "vintage" "grapes" "rate" "amount")
+        :header '("county" "region" "producer" "name" "vintage" "grapes" "rate" "amount")
         :header-sep-start "|-" :header-sep "-" :header-sep-conj "-+-" :header-sep-end "-|"
         :row-start "| " :sep " | " :row-end " |"
         :data
@@ -647,6 +648,7 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
                      (producer (vulpea-note-meta-get it "producer" 'note)))
                 (list
                  (vulpea-utils-link-make-string country)
+                 (vulpea-utils-link-make-string roa)
                  (vulpea-utils-link-make-string producer)
                  (org-link-make-string
                   (concat "id:" (vulpea-note-id it))
