@@ -1,0 +1,67 @@
+#+attr_html: :class wine-main-image
+[[file:/images/25/ec5524-ecf1-43d8-a773-a13105066de9/2023-07-06-18-09-28-IMG-8223@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/a2bd896f-5875-4448-9a68-4c58c3a3240a][Larmandier-Bernier]]
+- Vintage :: 2011
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12
+- Sugar :: 2
+- Price :: 4700 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-07-06 - ☆ 8.75
+
+What a beautiful nose. It's a "hamburger" where chalk and baked apples act as buns; honey, old bread, mushrooms and wet earth act as a filling. All that topped with iodine from the nearest sea. Deliciously mineral and sharp. Long aftertaste of lemon sorbet, wet cellar and sea breeze. Sophisticated, delicate and nuanced.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/69e57681-c051-46b4-8b10-2ae22c7bfaaf.html">
+    <img class="flex-bottle" src="/images/69/e57681-c051-46b4-8b10-2ae22c7bfaaf/2023-04-06-14-15-48-1BAFC64A-65E3-4F5A-8507-BF63A7B691E3-1-105-c@512.webp"></img>
+    <section class="h">Larmandier-Bernier</section>
+    <section class="h text-bolder">Cramant Nature Grand Cru - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f06a9b5-cc2a-4e14-b96b-50cb37f7df46.html">
+    <img class="flex-bottle" src="/images/3f/06a9b5-cc2a-4e14-b96b-50cb37f7df46/2023-07-05-22-02-28-7768B6A5-38D6-4F2D-9029-2C5B175B8789-1-105-c@512.webp"></img>
+    <section class="h">Jacquesson</section>
+    <section class="h text-bolder">Aÿ Vauzelle Terme Récolte - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0.html">
+    <img class="flex-bottle" src="/images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-07-05-21-57-11-02F2CAD0-C387-4853-87E7-F643C2A1E300-1-105-c@512.webp"></img>
+    <section class="h">Vilmart & Cie</section>
+    <section class="h text-bolder">Emotion - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04.html">
+    <img class="flex-bottle" src="/images/53/cf2258-cbbe-44dc-99a0-5bc6eaf61d04/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée des Caudalies Grand Cru Millésime Extra Brut - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e587f67-5955-46b7-98d2-6c4c82715685.html">
+    <img class="flex-bottle" src="/images/9e/587f67-5955-46b7-98d2-6c4c82715685/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c@512.webp"></img>
+    <section class="h">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0.html">
+    <img class="flex-bottle" src="/images/ac/08ddd3-87c9-4e9e-bcb7-2d59da63cec0/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c@512.webp"></img>
+    <section class="h">Jacques Selosse</section>
+    <section class="h text-bolder">Exquise Sec - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1.html">
+    <img class="flex-bottle" src="/images/d0/ea2337-7d61-451b-bf4b-978d2bf34ee1/2023-07-06-18-09-54-IMG-8220@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">N.P.U. - 2008</section>
+  </a>
+
+</div>
+#+end_export

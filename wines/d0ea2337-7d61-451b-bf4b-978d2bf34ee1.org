@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/d0/ea2337-7d61-451b-bf4b-978d2bf34ee1/2023-07-05-22-12-02-F5548BDC-0C37-4DC2-824C-CEC9941A0A7E-1-105-c@512.webp]]
+[[file:/images/d0/ea2337-7d61-451b-bf4b-978d2bf34ee1/2023-07-06-18-09-54-IMG-8220@512.webp]]
 
 - Type :: White Sparkling, Extra brut
 - Producer :: [[barberry:/producers/11da3d83-ca4a-4e23-a8f1-e8d1cf395b58][Bruno Paillard]]
@@ -13,9 +13,21 @@
 - Price :: 9500 UAH
 - Cellar :: N/A
 
+#+begin_quote
+It's not intended to be the best wine, but a cuvée that we push to the extreme.
+
+[...] liveliness is more the focus here than complexity and richness.
+
+--- Alice Paillard
+#+end_quote
+
+A 50/50 blend of Pinot Noir and Chardonnay from 7 of the most sought-after Grands Crus of the Champagne terroir: Oger, Le Mesnil-sur-Oger, Chouilly, Cramant, Verzenay, Mailly-Champagne, and Bouzy. Grapes are vinified and matured in small, old oak barrels for 10 months. Then the wine spends 10 years on lees followed by two years of post-disgorgement rest before release.
+
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-07-06 - ☆ 8.60
+
+A bit restrained yet nuanced bouquet of pear, bread, cinnamon, dried fruit, white flowers and green hazelnut. Medium-bodied, it's sharp and focused with racy acidity and chalk minerality. Mind-blowing flavours of fermented rice. Overall, demanding style. Even today, it feels too young. A meditative wine for hikikomori.
 
 ** Related
 
@@ -91,6 +103,42 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/f0/036bf5-0e50-4cd3-b537-2af0978a7c01/2023-03-13-21-20-10-32ADF7A1-A41C-4D6C-94C9-0FB869377E4D-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Première Cuvée (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/25ec5524-ecf1-43d8-a773-a13105066de9.html">
+    <img class="flex-bottle" src="/images/25/ec5524-ecf1-43d8-a773-a13105066de9/2023-07-06-18-09-28-IMG-8223@512.webp"></img>
+    <section class="h">Larmandier-Bernier</section>
+    <section class="h text-bolder">Vieille Vigne du Levant Grand Cru - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3f06a9b5-cc2a-4e14-b96b-50cb37f7df46.html">
+    <img class="flex-bottle" src="/images/3f/06a9b5-cc2a-4e14-b96b-50cb37f7df46/2023-07-05-22-02-28-7768B6A5-38D6-4F2D-9029-2C5B175B8789-1-105-c@512.webp"></img>
+    <section class="h">Jacquesson</section>
+    <section class="h text-bolder">Aÿ Vauzelle Terme Récolte - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0.html">
+    <img class="flex-bottle" src="/images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-07-05-21-57-11-02F2CAD0-C387-4853-87E7-F643C2A1E300-1-105-c@512.webp"></img>
+    <section class="h">Vilmart & Cie</section>
+    <section class="h text-bolder">Emotion - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04.html">
+    <img class="flex-bottle" src="/images/53/cf2258-cbbe-44dc-99a0-5bc6eaf61d04/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c@512.webp"></img>
+    <section class="h">De Sousa</section>
+    <section class="h text-bolder">Cuvée des Caudalies Grand Cru Millésime Extra Brut - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e587f67-5955-46b7-98d2-6c4c82715685.html">
+    <img class="flex-bottle" src="/images/9e/587f67-5955-46b7-98d2-6c4c82715685/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c@512.webp"></img>
+    <section class="h">Ulysse Collin</section>
+    <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2017) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0.html">
+    <img class="flex-bottle" src="/images/ac/08ddd3-87c9-4e9e-bcb7-2d59da63cec0/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c@512.webp"></img>
+    <section class="h">Jacques Selosse</section>
+    <section class="h text-bolder">Exquise Sec - NV</section>
   </a>
 
 </div>

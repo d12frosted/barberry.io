@@ -1,10 +1,25 @@
-Hello, fellow convive! This page contains a list of wines (121 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (128 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Thursday,  6 July 2023
+
+*** @Garage / [[barberry:/posts/2023-07-06-champagne][Champagne Party by Elena Menshikova]]
+
+- ★ 4.30 [[barberry:/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04][De Sousa Cuvée des Caudalies Grand Cru Millésime Extra Brut 2010]]
+- ★ 4.50 [[barberry:/wines/3f06a9b5-cc2a-4e14-b96b-50cb37f7df46][Jacquesson Aÿ Vauzelle Terme Récolte 2013]]
+- ❤️ 4.70 [[barberry:/wines/9e587f67-5955-46b7-98d2-6c4c82715685][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2017) NV]]
+- ★ 4.40 [[barberry:/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1][Bruno Paillard N.P.U. 2008]]
+- ★ 4.00 [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Vilmart & Cie Emotion 2012]]
+- ★ 4.20 [[barberry:/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0][Jacques Selosse Exquise Sec NV]]
+
+*** @Garage
+
+- &nbsp; &emptyscore; [[barberry:/wines/25ec5524-ecf1-43d8-a773-a13105066de9][Larmandier-Bernier Vieille Vigne du Levant Grand Cru 2011]]
 
 ** Tuesday,  4 July 2023
 

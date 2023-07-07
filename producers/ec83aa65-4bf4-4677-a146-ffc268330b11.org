@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0.html">
     <img class="flex-bottle" src="/images/ac/08ddd3-87c9-4e9e-bcb7-2d59da63cec0/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Exquise Sec - NV</section>
   </a>
 

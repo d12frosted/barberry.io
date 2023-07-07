@@ -1,0 +1,38 @@
+{
+  "id": "54ea850f-731f-4b10-baa9-68ce65464054",
+  "name": "Dom Pérignon Brut",
+  "full-name": "Moët & Chandon Dom Pérignon Brut 2012",
+  "producer": {
+    "id": "4adf3d90-04a2-4b8a-a0c9-07533dfc759f",
+    "name": "Moët & Chandon"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": "???",
+  "sur-lie": "???",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "11000 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/54/ea850f-731f-4b10-baa9-68ce65464054/2023-07-07-11-18-04-DD459B54-38F4-4FA6-9AF2-AC7D23C3E2B7-1-105-c.webp",
+  "rating": "NA"
+}

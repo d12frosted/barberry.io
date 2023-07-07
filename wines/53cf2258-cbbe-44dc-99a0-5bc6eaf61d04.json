@@ -1,7 +1,7 @@
 {
   "id": "53cf2258-cbbe-44dc-99a0-5bc6eaf61d04",
-  "name": "Cuvée des Caudalies",
-  "full-name": "De Sousa Cuvée des Caudalies 2010",
+  "name": "Cuvée des Caudalies Grand Cru Millésime Extra Brut",
+  "full-name": "De Sousa Cuvée des Caudalies Grand Cru Millésime Extra Brut 2010",
   "producer": {
     "id": "6c0d7068-c072-49c5-980a-9f45b4d24541",
     "name": "De Sousa"
@@ -28,7 +28,7 @@
   "prices": [
     "8500 UAH"
   ],
-  "available": 0,
+  "available": 0.0,
   "image": "images/53/cf2258-cbbe-44dc-99a0-5bc6eaf61d04/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.75"
 }

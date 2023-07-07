@@ -26,9 +26,10 @@
   "alcohol": "12.5",
   "sugar": "6.5",
   "prices": [
+    "14300 UAH",
     "4500 UAH"
   ],
-  "available": 0,
+  "available": 0.0,
   "image": "images/9e/587f67-5955-46b7-98d2-6c4c82715685/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c.webp",
-  "rating": "NA"
+  "rating": "9.25"
 }

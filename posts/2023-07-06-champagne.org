@@ -1,154 +1,241 @@
-Wines:
+You know. When someone calls you on a tasting full of expensive wines from your wishlist, it's hard to say no. Nec Plus Ultra? Les Pierrières based on 2017? Vauzelle Terme? Cuvée des Caudalies Millésime? Just shut up and take my money.
 
-1. [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Vilmart & Cie Emotion 2012]]
-2. [[barberry:/wines/9e587f67-5955-46b7-98d2-6c4c82715685][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2017) NV]]
+So here comes Olena Menshikova with a basket full of desired wines. And she wants to help two injured kids that lost their parents and house due to the war. Her actions? She throws a charity event to raise money for these kids. In the morning after the event, she is getting close to the goal of 150,000 UAH. You can *[[https://send.monobank.ua/jar/6aJLTrXRkR][help her]]*, which I urge you to do. As they say, there is no such thing as a small donation.
+
+#+caption: Photo by Vova Ulianov (ignore the last bottles)
+[[file:/images/2023-07-06-champagne/2023-07-07-14-16-09-IMG-7421.webp]]
+
+1. [[barberry:/wines/54ea850f-731f-4b10-baa9-68ce65464054][Moët & Chandon Dom Pérignon Brut 2012]]
+2. [[barberry:/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04][De Sousa Cuvée des Caudalies Grand Cru Millésime Extra Brut 2010]]
 3. [[barberry:/wines/3f06a9b5-cc2a-4e14-b96b-50cb37f7df46][Jacquesson Aÿ Vauzelle Terme Récolte 2013]]
-4. [[barberry:/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0][Jacques Selosse Exquise Sec NV]]
-5. [[barberry:/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04][De Sousa Cuvée des Caudalies 2010]]
-6. [[barberry:/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1][Bruno Paillard N.P.U. 2008]]
+4. [[barberry:/wines/9e587f67-5955-46b7-98d2-6c4c82715685][Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2017) NV]]
+5. [[barberry:/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1][Bruno Paillard N.P.U. 2008]]
+6. [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Vilmart & Cie Emotion 2012]]
+7. [[barberry:/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0][Jacques Selosse Exquise Sec NV]]
 
-* Bruno Paillard N.P.U. 2008
+* Scores
 :PROPERTIES:
-:ID:                     60520b50-fc00-4b7e-af13-f155dcac027d
+:ID:                     8ba0e7bd-a143-44c2-a3d9-b9dcd5e4e765
 :END:
 
-- sur lie: 120 months
-- disgorged: April 2019
-- dosage: 3 g/L
-- terroir: Montagne de Reims
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |    price |      QPR |
+|---------+----------+--------+-----------+----------+----------|
+| Wine #1 |   3.6531 | 0.0225 |      0.00 | 11000.00 |   0.1306 |
+| Wine #2 |   4.2256 | 0.0284 |      0.00 |  8500.00 |   0.3967 |
+| Wine #3 | *4.4373* | 0.0356 |    *4.00* |  9900.00 | *0.4751* |
+| Wine #4 |   4.4320 | 0.0862 |    *4.00* | 14300.00 |   0.3231 |
+| Wine #5 |   4.3344 | 0.0089 |      0.00 |  9500.00 |   0.4224 |
+| Wine #6 |   4.0290 | 0.0319 |      0.00 |  5764.00 |   0.4324 |
+| Wine #7 |   4.2693 | 0.0222 |      1.00 | 22300.00 |   0.1621 |
 
-The grapes selected to create this cuvée come exclusively from 7 of the most sought-after Grands Crus of the Champagne terroir: Oger, Le Mesnil-sur-Oger, Chouilly, Cramant, Verzenay, Mailly-Champagne, and Bouzy. Fermentation was conducted in small old oak barrels in which the wines spent their first 10 months.
+How to read this table:
 
-An equal split between Pinot Noir and Chardonnay. Both are vinified and matured in small, old oak barrels. Ten years of autolysis in the cellar followed by two years of post-disgorgement rest.
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
-Bottle #14187 / 18798.
-
-#+begin_quote
-94+
-
-Disgorged in April 2019 with three grams per liter dosage, Paillard's 2008 Extra-Brut N.P.U. Nec Plus Ultra unwinds in the glass with notes of pear and citrus mingled with hazelnut, toasted bread, dried fruits and warm biscuits. Medium to full-bodied, taut and chiseled, it's concentrated and complex, its tightly wound mid-palate complemented by a pearly mousse and underpinned by chalky grip. While it's introverted today, this is a classic in the making that will show brilliantly with more age on cork, even if it will always remain a comparatively lean, acid-driven marathon runner of a Champagne.
-
---- [[https://www.robertparker.com/wines/MmdfFuJnZvBqMqCaP/extra-brut-npu-nec-plus-ultra-2008][William Kelley]] on Jan 31, 2022
-#+end_quote
-
-https://champagnebrunopaillard.com/en/champagnes/nec-plus-ultra-en/
-
-* De Sousa Cuvee des Caudalies Millésimée 2010
+* Moët & Chandon Dom Pérignon Brut 2012
 :PROPERTIES:
-:ID:                     9d831520-deee-46fa-8a47-de981ef20a92
+:ID:                     4ec2673e-2b53-4968-8072-e3e45317e3b1
 :END:
 
-- sur lie: 81 months
-- disgorged: [2018-04-11 Wed]
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-07-11-18-04-DD459B54-38F4-4FA6-9AF2-AC7D23C3E2B7-1-105-c.webp]]
+
+- producer: [[barberry:/producers/4adf3d90-04a2-4b8a-a0c9-07533dfc759f][Moët & Chandon]]
+- name: [[barberry:/wines/54ea850f-731f-4b10-baa9-68ce65464054][Dom Pérignon Brut]]
+- vintage: 2012
+- disgorged: ???
+- sur lie: ???
+- grapes: Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 11000 UAH
+
+This wine was the only one to be served blind. The idea was to have a benchmark along the wine tasting. This was my first Dom Pérignon, and unfortunately, it was corked.
+
+Just for historical reference, here are my notes. Herbaceous nose with notes of lemon curd, apple and wet wool (woof). Sharp and bland mouthfeel with short flavours of iodine and apples. What comes next? A huge nothingness. There is only acidity, and that's it.
+
+* De Sousa Cuvée des Caudalies Grand Cru Millésime Extra Brut 2010
+:PROPERTIES:
+:ID:                     d758a6c1-23be-4b1d-b80f-392c258f7b03
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-05-22-08-20-77FB3FC1-86A7-453C-8362-F05E8B9E5FD2-1-105-c.webp]]
+
+- producer: [[barberry:/producers/6c0d7068-c072-49c5-980a-9f45b4d24541][De Sousa]]
+- name: [[barberry:/wines/53cf2258-cbbe-44dc-99a0-5bc6eaf61d04][Cuvée des Caudalies Grand Cru Millésime Extra Brut]]
+- vintage: 2010
 - bottled: [2011-07-07 Thu]
-- dosage: 4
-- terroir: Côte de Blancs
+- disgorged: [2018-04-11 Wed]
+- sur lie: 81 months
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 4
+- price: 8500 UAH
 
-100% Chardonnay 2010. 100% oak barrels.
+100% Chardonnay from Avize and Oger. The average age of vines is more than 60 years. Vinified and aged in oak barrels for 10 months. Around 81 months on lees. Disgorged on 11th of April, 2018 (Wednesday, by the way).
 
-#+begin_quote
-94
-
-The 2010 Cuvée des Caudalies Grand Cru Extra Brut shows a very clear, complex, expressive and highly mineral (or chalky) nose that dominates the ripe and concentrated yet very delicate fruit (100% old vines Chardonnay from the Côte des Blancs) and gives this cuvée its unique expression. Intense, round and fruity on the palate, this is a highly finessed and elegant yet persistent and mineral Caudalies that reveals great purity, finesse and freshness on the finish. This is not powerful at all but is delicate, fresh, refined and charming, leaving the palate with a stimulatingly salty purity and tensioned minerality. This is a great, highly charming and seductive Blanc de Blancs that was bottled in July 2011 and disgorged in January 2017 with a dosage of four grams per liter. Tasted in Reims, April 2018.
-
---- [[https://www.robertparker.com/wines/hT7B8yJLcyCCfnZWx/cuve-des-caudalies-millsime-grand-cru-extra-brut-2010][Stephan Reinhardt]] on Aug 31, 2018
-#+end_quote
-
-#+begin_quote
-Refined and aromatic carried on the ripe yellow fruit like plum, pineapple, eat up notes of
-honey and ginger.
-
---- De Sousa
-#+end_quote
-
-https://www.champagnedesousa.com/wp-content/uploads/2018/01/Fiche-technique-Caudalie-2010-FR-ENG-1-1.pdf
+In the beginning, it was a bit restrained yet charming and sophisticated. Ripe fruits of good quality, grapefruit, baked apple, brioche with cinnamon, ginger, chalk and mushrooms. The aftertaste is long and flavourful. Deliciously saline mouthfeel. After a few hours, it became more intense and seamless. Great structure with salty minerality, good acidity and a long linear finish.
 
 * Jacquesson Aÿ Vauzelle Terme Récolte 2013
 :PROPERTIES:
-:ID:                     e26e3788-ba11-4e42-a340-6fc47d12a266
+:ID:                     fcc99130-5509-455c-93fa-59d00872c7f2
 :END:
 
-- sur lie: ~96 months
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-05-22-02-28-7768B6A5-38D6-4F2D-9029-2C5B175B8789-1-105-c.webp]]
+
+- producer: [[barberry:/producers/2b0037cd-fef7-45ff-9a77-a9a6f2e5d4ca][Jacquesson]]
+- name: [[barberry:/wines/3f06a9b5-cc2a-4e14-b96b-50cb37f7df46][Aÿ Vauzelle Terme Récolte]]
+- vintage: 2013
 - disgorged: May 2022
-- dosage: 0
-- terroir: Vallée de la Marne, Aÿ
+- sur lie: ~96 months
+- grapes: Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 0
+- price: 9900 UAH
 
-Mid, south-facing slope; alluvial soil rich in limestone on blocks of Campanian chalk; 2,500 vines of Pinot Noir planted on 30 ares in 1980; permanent Cordon de Royat pruning.
+100% Pinot Noir from a tiny plot in Aÿ (Vallée de la Marne) of 0.3 hectares planted in 1980 by Jean-Hervé Chiquet. Vauzelle Terme spent ~96 months sur lie. Disgorged in May 2022.
 
-2520 bottles and 196 magnums produced.
-
-#+begin_quote
-95 (for 2009)
-
-Disgorged without dosage in May 2019, the 2009 Extra-Brut Grand Cru Aÿ - Vauzelle Terme is showing nicely, offering up inviting aromas of pear, honeycomb, dried white flowers and hints of dried fruit and nuts. Medium to full-bodied, elegantly fleshy and vinous, it's broad and textural, with ripe but racy acids, a delicate mousse and a long, sapid finish.
-
---- [[https://www.robertparker.com/wines/22u7B4AMoYjHXJRTK][William Kelley]], Sep 17, 2020
-#+end_quote
-
-* Vilmart & Cie Emotion 2012
-:PROPERTIES:
-:ID:                     8be82ce0-babe-4cbf-89ae-7b89e6106cfa
-:END:
-
-- sur lie: 60 months
-- disgorged: May 2018
-- dosage: 8
-- terroir: Rilly-la-Montagne
-- ageing: ten months in oak barrels of 228 litres
-- mlf: none
-
-Blending composed of 60 % Pinot Noir (“Rosé de Saignée”) and 40 % Chardonnay classified Premier Cru and from vines of sixty years old age in Rilly-la-Montagne.
-
-#+begin_quote
-94
-
-Disgorged in January 2018, Vilmart's new 2012 Brut Emotion is showing beautifully, wafting from the glass with aromas of orange oil, red berries, yellow plums and toasted almonds. Medium to full-bodied, deep and concentrated, it's racy and incisive, with chalky structuring extract and a pillowy mousse, concluding with a penetrating finish. It's a blend of 60% Pinot Noir and 40% Chardonnay from 45-year-old vines, vinified in barrels for 10 months without malolactic fermentation.
-
---- [[https://www.robertparker.com/wines/uHDQenxnJmzQqMGgn/brut-emotion-2012][William Kelley]] on Sep 17, 2020
-#+end_quote
-
-https://www.champagnevilmart.fr/en/vins/emotion-2014-en/
-
-* Jacques Selosse Exquise NV
-:PROPERTIES:
-:ID:                     06136550-169e-4139-814e-1c138d8fcac2
-:END:
-
-- sur lie:
-- disgorged: [2020-01-30 Thu]
-- dosage: 24
-- terroir: Avize and Cramant
-
-100% Chardonnay.
-
-#+begin_quote
-94
-
-The NV Exquise Sec is a Blanc de Blancs sourced in Avize and Cramant and assembles the vintages 2009, 2010 and 2011. Bottled in July 2012 and disgorged in October 2017 with a dosage of 24 grams per liter, this is a lovely, aromatic Champagne with cherry notes on the nose. Round and juicy on the densely woven palate, with sweet cherry flavors, this is a very aromatic, elegant, very well structured and complex Sec with an immersive finish. Tasted at the domaine in April 2018.
-
-Jacques Selosse, Anselme's father, created Domaine Jacques Selosse in 1949 in Avize along with his wife. The domain still bears his name, though Anselme took over the estate in 1974. Domaine Jacques Selosse produces 57,000 bottles of Champagne every year from grapes grown and harvested on 7.5 hectares of vines spread over Chardonnay plots in the Côte des Blancs—Avize, Cramant, Oger and Le Mesnil-sur-Oger—and a few Montagne de Reims plots, dedicated to growing Pinot Noir, in Aÿ, Ambonnay and Mareuil-sur-Aÿ.
-
---- [[https://www.robertparker.com/wines/uvXTytDGeX7qcoMz9/exquise-sec-nv][Stephan Reinhardt]] on Aug 31, 2018
-#+end_quote
+A quick and loud entrance. It just bursts beautifully with honeycomb, white flowers, cheese and nuts. Almost full-bodied, elegant, vinous and fresh. Salty mouthfeel, textured and nuanced with delicate mousse, and long evolving and sapid finish.
 
 * Ulysse Collin Les Pierrières Blanc de Blancs Extra Brut (2017) NV
 :PROPERTIES:
-:ID:                     c7af602b-7d49-4de2-9df4-944f062dbd79
+:ID:                     48c7fbce-94e9-4573-b821-166bcd02d1ad
 :END:
 
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7e4259a0-cd16-4cc8-8a06-ff3bf0c1ab46][Ulysse Collin]]
+- name: [[barberry:/wines/9e587f67-5955-46b7-98d2-6c4c82715685][Les Pierrières Blanc de Blancs Extra Brut (2017)]]
+- vintage: NV
+- base: 2017
+- disgorged: 03/2021
 - sur lie: 36 months
-- disgorged: March 2021
-- dosage:
-- terroir:
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 6.5
+- price: 14300 UAH
+
+40-year-old Chardonnay have southern exposure and are planted on chalky soils that also feature chunks and pockets of a rare black flint or silex noir unique to Coteaux du Petit Morin. Pierrières was Olivier Collin's first bottling, and only bottling, in the 2004 vintage. The fruit is hand-harvested, the clusters destemmed and the grapes gently pressed; the juice is fermented spontaneously and slowly (up to six months) with natural yeasts in mainly-used Burgundy barrels. Reserve wines are held in foudres and tonneaux. The wine is based on 2017. It's bottled without fining or filtering and aged for 36 months on lees.
+
+It was interesting to compare 2017-based Les Pierrières with 2015-based that we tasted like a month ago. And the younger release is more generous and fascinating. Sophisticated and delicate bouquet of candied fruits, lemon zest, spring flowers, wet stones and almond paste. Precise, medium-full-bodied. It shows a bit of tension, but it only makes the wine more beautiful and nuanced. The aftertaste is just endless. Salinity is wonderful.
+
+* Bruno Paillard N.P.U. 2008
+:PROPERTIES:
+:ID:                     17c1934c-18f4-40fe-9b95-1b7d15e3ca37
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-06-18-09-54-IMG-8220.webp]]
+
+- producer: [[barberry:/producers/11da3d83-ca4a-4e23-a8f1-e8d1cf395b58][Bruno Paillard]]
+- name: [[barberry:/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1][N.P.U.]]
+- vintage: 2008
+- disgorged: April 2019
+- sur lie: 120 months
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 3.8
+- price: 9500 UAH
 
 #+begin_quote
-97
+It's not intended to be the best wine, but a cuvée that we push to the extreme.
 
-There are 5,400 bottles of the NV Extra-Brut Blanc de Blancs Les Pierrières (2017), disgorged in February 2022 after 48 months on the lees—and this is the last time there will be two disgorgements, as from next year onward, Les Pierrières will systematically see 48 months' tirage before disgorgement. Wafting from the glass with scents of confit citrus fruit, lemon zest, spring flowers, almond paste, pastry cream and wet stones, it's medium to full-bodied, satiny and precise, with terrific cut and tension, concluding with a long, saline finish. An additional year before disgorgement delivers a less primary, more integrated, seamless Champagne.
+[...] liveliness is more the focus here than complexity and richness.
 
-Olivier Collin continues to produce some of the most brilliant and compelling wines in contemporary Champagne, and this new set of releases is no exception. I've written extensively about Collin in the past, so rather than reprising that material here, I refer readers to my feature in the End of August 2019 Issue 244 of The Wine Advocate. Evolutions and refinements worthy of note, however, continue: the 2018 vintage was the first in which Collin was equipped with a new state-of-the-art press from Coquard, permitting even greater precision; and as of this year, he's advanced the date of tirage a touch, with a view to being able to work in a less hurried fashion, without the pressure of an imminent harvest.
-
-In Issue 244 End of August 2019 of The Wine Advocate, I published an in-depth feature on the wines of Olivier Collin, wines that readers will by now have realized that I consider to be among the very best being produced in contemporary Champagne. Collin is putting in the hard work at every stage of the process, and that's driven by an unquenchable will to improve that's rare even among the wine world's elite. The latest evolution is a new disgorging line, which means that Collin can reduce the amount of sulfites he adds at disgorgment all the while delivering a fresher, more vibrant result: and it's typical of his attention to detail that he's reduced the dose less for Les Maillons than for the other cuvées, given Pinot Noir's more oxidative tendencies. Meanwhile, the percentage of foudre-aged reserve wines continues to increase (foresight validated both by the resulting qualitative improvements and, more pragmatically, by the frosts of spring 2021), as does the time wines spend sur lattes between tirage and disgorgment, several limited release late-disgorged bottlings showing the direction in which Collin wishes his entire production ultimately to evolve. And the novelty? That's the Jardin d'Ulysse, a new cuvée, described in detail in the accompanying tasting notes, that represents Collin's first cuvée to blend cépages. As ever, I left Congy invigorated after a several hours' encounter with wines that are as profound as they are ambitious.
-
---- [[https://www.robertparker.com/wines/2CxG8cSPfirYKybxZ/extra-brut-blanc-de-blancs-les-pierrires-2017-nv][William Kelley]] on Aug 31, 2022
+--- Alice Paillard
 #+end_quote
+
+A 50/50 blend of Pinot Noir and Chardonnay from 7 of the most sought-after Grands Crus of the Champagne terroir: Oger, Le Mesnil-sur-Oger, Chouilly, Cramant, Verzenay, Mailly-Champagne, and Bouzy. Grapes are vinified and matured in small, old oak barrels for 10 months. Then the wine spends 10 years on lees followed by two years of post-disgorgement rest before release.
+
+Bottle #14187 / 18798.
+
+A bit restrained yet nuanced bouquet of pear, bread, cinnamon, dried fruit, white flowers and green hazelnut. Medium-bodied, it's sharp and focused with racy acidity and chalk minerality. Mind-blowing flavours of fermented rice. Overall, demanding style. Even today, it feels too young. A meditative wine for hikikomori.
+
+* Vilmart & Cie Emotion 2012
+:PROPERTIES:
+:ID:                     ec31e138-3b03-429c-b66a-d116ae8e68b0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-05-21-57-11-02F2CAD0-C387-4853-87E7-F643C2A1E300-1-105-c.webp]]
+
+- producer: [[barberry:/producers/26588b1e-d8a4-4f63-ad55-08c1dbb36149][Vilmart & Cie]]
+- name: [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Emotion]]
+- vintage: 2012
+- disgorged: May 2018
+- sur lie: 60 months
+- grapes: Pinot Noir, Chardonnay
+- region: Champagne
+- location: France
+- alcohol: 12.5
+- sugar: 8
+- price: 5764 UAH
+
+A 60/40 blend of Saignée Pinot Noir and Chardonnay from 45-year-old vines in Rilly-la-Montagne, vinified in barrels for 10 months without malolactic fermentation.
+
+Emotion unveils orange oil, red berries, bruised red apple, barberry, almonds, wet mouldy cellar and sausage roll (sic!). A bit disturbing and tempting at the same time. Pointy, oily and racy. Nice chalky finish.
+
+* Jacques Selosse Exquise Sec NV
+:PROPERTIES:
+:ID:                     ff0d40ae-f6bf-440a-87ab-15e5e32ce749
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-06-champagne/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c.webp]]
+
+- producer: [[barberry:/producers/ec83aa65-4bf4-4677-a146-ffc268330b11][Jacques Selosse]]
+- name: [[barberry:/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0][Exquise Sec]]
+- vintage: NV
+- disgorged: [2020-01-30 Thu]
+- sur lie: ???
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 24
+- price: 22300 UAH
+
+With bottles I wanted to taste the most left behind, I was ready for Exquise, from which I had no expectations as I heard controversial thoughts on this wine. Ripe white wild cherries, cookies, candied fruits (or was it pastilla?) and yellow plums. And a bit of nuts. Fresh, round, and well-balanced. The aftertaste is long and persistent. A bit of wet cellar and Jerez in the finish. The higher sugar level is obvious, but it doesn't disturb me. Very approachable and easy to understand. It's just a well-made one-dimensional wine you hardly remember the next day.
+
+That being said, it was an interesting experience.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     7862aaa3-5d0a-496a-a38b-edf67f76825c
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Vova U      | 3.50    |    4.30 |    4.50 |  *4.70* |    4.40 | 4.00    |    4.20 |
+| Elena M     | -       |    4.30 |    4.50 |  *4.70* |    4.40 | -       |    4.40 |
+| Ivan M      | -       |    4.30 |  *4.70* |    4.30 |    4.30 | -       |    4.40 |
+| Roman R     | -       |    4.30 |  *4.60* |    4.60 |    4.50 | -       |    4.20 |
+| Yevgeniya T | -       |    4.40 |    4.50 |  *4.70* |    4.40 | 4.30    |    4.30 |
+| Oksana P    | -       |    3.90 |  *4.30* |    4.00 |    4.20 | -       |    4.30 |
+| Yaroslav P  | -       |    4.10 |    4.00 |    3.90 |    4.30 | 3.80    |  *4.50* |
+| Mykola Ch   | -       |    4.00 |  *4.40* |    4.30 |    4.20 | -       |    4.10 |
+| Boris B     | 3.80    |    4.40 |    4.40 |  *4.60* |    4.30 | 4.00    |    4.00 |
+
