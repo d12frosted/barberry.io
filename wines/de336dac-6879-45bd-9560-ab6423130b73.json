@@ -1,0 +1,50 @@
+{
+  "id": "de336dac-6879-45bd-9560-ab6423130b73",
+  "name": "Ratatuja",
+  "full-name": "Carolina Gatti Ratatuja 2019",
+  "producer": {
+    "id": "951a046b-b09e-4fb4-abdf-e08b40bc4553",
+    "name": "Carolina Gatti"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "brut-nature",
+  "sweetness": "sparkling",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "10f0c475-2e23-4c79-a60e-514a1311020f",
+      "name": "Tocai Trevigiana"
+    },
+    {
+      "id": "4582a91d-8d46-465e-8403-d9f2875b2c25",
+      "name": "Verduzzo"
+    },
+    {
+      "id": "b3d30e6d-72ed-4cb6-b088-da9a483a2bf9",
+      "name": "Glera"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.1",
+  "prices": [
+    "1380 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/de/336dac-6879-45bd-9560-ab6423130b73/2023-07-08-14-48-58-IMG-8275.webp",
+  "rating": "7.0"
+}

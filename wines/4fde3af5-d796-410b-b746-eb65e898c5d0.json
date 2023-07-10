@@ -1,0 +1,54 @@
+{
+  "id": "4fde3af5-d796-410b-b746-eb65e898c5d0",
+  "name": "Wilder Satz Pur",
+  "full-name": "Brand Bros Wilder Satz Pur 2019",
+  "producer": {
+    "id": "19104471-31b8-489f-b5a7-addbadb13b6a",
+    "name": "Brand Bros"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "6a769621-e25d-4900-bd3b-264dbf46b6ca",
+      "name": "Müller-Thurgau"
+    },
+    {
+      "id": "768bf3f9-74f1-4174-8689-806726fd6f38",
+      "name": "Silvaner"
+    },
+    {
+      "id": "b733e63f-145c-47de-addf-1358823ef15d",
+      "name": "Scheurebe"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.5",
+  "prices": [
+    "410 UAH"
+  ],
+  "available": 0,
+  "image": "images/4f/de3af5-d796-410b-b746-eb65e898c5d0/2020-08-29-12-02-16-5CFFFAC3-CDB4-43E9-8E6D-463E7AA76B5F-1-105-c.webp",
+  "rating": "5.5"
+}

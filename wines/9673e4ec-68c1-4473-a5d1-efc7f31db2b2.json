@@ -1,0 +1,34 @@
+{
+  "id": "9673e4ec-68c1-4473-a5d1-efc7f31db2b2",
+  "name": "Surliè!",
+  "full-name": "Mirco Mariotti Surliè! 2019",
+  "producer": {
+    "id": "269b04f1-40ea-42bf-9e8c-08b67eca8527",
+    "name": "Mirco Mariotti"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "000b6165-0a0e-4ce5-a3f4-fa17ab5a5865",
+      "name": "Fortana"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0",
+  "prices": [
+    "759 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/96/73e4ec-68c1-4473-a5d1-efc7f31db2b2/2023-07-08-14-56-09-IMG-8280.webp",
+  "rating": "7.5"
+}

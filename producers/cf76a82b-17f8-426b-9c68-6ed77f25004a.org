@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
+  <a class="flex-item flex-item-left" href="/wines/5f4dd717-3618-41ad-9c68-ba702f2a4701.html">
+    <img class="flex-bottle" src="/images/5f/4dd717-3618-41ad-9c68-ba702f2a4701/2023-07-10-08-37-47-43F9B065-F543-4F16-919F-778B76DAA988-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Les Revers - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
     <img class="flex-bottle" src="/images/d7/513051-c24a-4ea7-a163-1946bb321402/2023-06-19-15-33-56-IMG-7830@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Les Semblables Austral - 2019</section>

@@ -1,0 +1,34 @@
+{
+  "id": "1636ea07-d668-427c-bbec-2a136f583cef",
+  "name": "Riserva Genevieve",
+  "full-name": "Serragghia Riserva Genevieve 2018",
+  "producer": {
+    "id": "5e56d359-076e-42fd-be45-e8d85e10f8b0",
+    "name": "Serragghia"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.8",
+  "prices": [
+    "9100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/16/36ea07-d668-427c-bbec-2a136f583cef/2023-07-07-15-40-00-D8804D08-7518-4565-8E76-4C52B4C0A175-1-105-c.webp",
+  "rating": "8.25"
+}

@@ -9,5 +9,11 @@
     <section class="h text-bolder">Pinot Blanc - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/fd656036-c909-47bb-bdc5-bf3a8130f818.html">
+    <img class="flex-bottle" src="/images/fd/656036-c909-47bb-bdc5-bf3a8130f818/2023-07-10-08-30-56-4AB89FDA-E9DB-4B37-9858-20EBF8ED89A2-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Pétillant Rosé - 2018</section>
+  </a>
+
 </div>
 #+end_export

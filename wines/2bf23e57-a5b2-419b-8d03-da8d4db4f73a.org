@@ -2,7 +2,7 @@
 [[file:/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp]]
 
 - Type :: Rose Sparkling, Brut nature
-- Producer :: [[barberry:/producers/03c87f2d-4abe-4f09-a9de-3fcfdcee5cf7][Weingut Brand]]
+- Producer :: [[barberry:/producers/19104471-31b8-489f-b5a7-addbadb13b6a][Brand Bros]]
 - Vintage :: 2021
 - Location :: Germany, Deutscher Wein
 - Grapes :: Pinot Noir, Blauer Portugieser
@@ -21,13 +21,43 @@ Simple and fun to drink. This mix of strawberry, rhubarb and white pepper makes 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+  <a class="flex-item flex-item-left" href="/wines/1eae0c4e-1d0e-4471-9425-3421f8ff77dc.html">
+    <img class="flex-bottle" src="/images/1e/ae0c4e-1d0e-4471-9425-3421f8ff77dc/2021-12-17-15-44-07-F8DC4A27-DA1A-458A-88F9-6ABF51F0DBCC-1-105-c@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4fde3af5-d796-410b-b746-eb65e898c5d0.html">
+    <img class="flex-bottle" src="/images/4f/de3af5-d796-410b-b746-eb65e898c5d0/2020-08-29-12-02-16-5CFFFAC3-CDB4-43E9-8E6D-463E7AA76B5F-1-105-c@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Wilder Satz Pur - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a17a3389-7755-4e15-8560-4cf76ca74d33.html">
+    <img class="flex-bottle" src="/images/a1/7a3389-7755-4e15-8560-4cf76ca74d33/2023-01-16-16-09-11-IMG-4319@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Flora - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aef4b9d1-1b0a-4842-814e-0ff57b0aa8c8.html">
+    <img class="flex-bottle" src="/images/ae/f4b9d1-1b0a-4842-814e-0ff57b0aa8c8/2023-07-08-15-03-36-IMG-8294@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bc04e9fe-d0c3-4bdd-9804-7aa292098fa5.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
     <img class="flex-bottle" src="/images/5e/b74aa5-d845-4c05-b8ce-e3a26d02dd60/2023-01-14-11-41-48-IMG-4268@512.webp"></img>
     <section class="h">Els Vinyerons</section>
     <section class="h text-bolder">Pregadéu - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9e508cc6-0fed-456f-86e2-82d15cecccef.html">
+  <a class="flex-item flex-item-left" href="/wines/9e508cc6-0fed-456f-86e2-82d15cecccef.html">
     <img class="flex-bottle" src="/images/9e/508cc6-0fed-456f-86e2-82d15cecccef/2023-04-01-09-50-18-ABA27A0D-A902-4149-BD7C-FDA7CC679F1C-1-102-o@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Rot Glückliches - NV</section>

@@ -1,0 +1,67 @@
+#+attr_html: :class wine-main-image
+[[file:/images/4f/de3af5-d796-410b-b746-eb65e898c5d0/2020-08-29-12-02-16-5CFFFAC3-CDB4-43E9-8E6D-463E7AA76B5F-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/19104471-31b8-489f-b5a7-addbadb13b6a][Brand Bros]]
+- Vintage :: 2019
+- Location :: Germany, Pfälzer Landwein
+- Grapes :: Pinot Blanc, Riesling, Chardonnay, Müller-Thurgau, Silvaner, Scheurebe
+- Alcohol :: 11
+- Sugar :: 0.5
+- Price :: 410 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2020-08-28 - ☆ 5.50
+
+Very simple wine, full of citrus, herbs and apples. Dull cider taste.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1eae0c4e-1d0e-4471-9425-3421f8ff77dc.html">
+    <img class="flex-bottle" src="/images/1e/ae0c4e-1d0e-4471-9425-3421f8ff77dc/2021-12-17-15-44-07-F8DC4A27-DA1A-458A-88F9-6ABF51F0DBCC-1-105-c@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
+    <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a17a3389-7755-4e15-8560-4cf76ca74d33.html">
+    <img class="flex-bottle" src="/images/a1/7a3389-7755-4e15-8560-4cf76ca74d33/2023-01-16-16-09-11-IMG-4319@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Flora - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aef4b9d1-1b0a-4842-814e-0ff57b0aa8c8.html">
+    <img class="flex-bottle" src="/images/ae/f4b9d1-1b0a-4842-814e-0ff57b0aa8c8/2023-07-08-15-03-36-IMG-8294@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bc04e9fe-d0c3-4bdd-9804-7aa292098fa5.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/06b29201-db4b-4d44-9612-ef1a4919786a.html">
+    <img class="flex-bottle" src="/images/06/b29201-db4b-4d44-9612-ef1a4919786a/2020-08-29-12-24-25-95804198-634B-4367-9630-51FEFC0BABC1-1-105-c@512.webp"></img>
+    <section class="h">Denavolo</section>
+    <section class="h text-bolder">Dinavolino - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4364d2da-9642-404d-8288-f0a9fbc2419e.html">
+    <img class="flex-bottle" src="/images/43/64d2da-9642-404d-8288-f0a9fbc2419e/2020-08-29-13-47-51-C9506362-B4E5-4457-91C3-85E06949A192-1-105-c@512.webp"></img>
+    <section class="h">Domaine des Bodines</section>
+    <section class="h text-bolder">Arbois Poulsard - 2018</section>
+  </a>
+
+</div>
+#+end_export

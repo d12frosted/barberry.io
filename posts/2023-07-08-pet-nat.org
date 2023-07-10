@@ -1,0 +1,227 @@
+[[file:/images/2023-07-08-pet-nat/2023-07-08-15-12-46-IMG-8313.webp]]
+
+Wines:
+
+1. [[barberry:/wines/675148ff-d8b1-4723-8424-b78770944cbe][Valentina Passalacqua Calcarius Frecciabomb Bianco NV]]
+2. [[barberry:/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5][Costadilà 280 slm NV]]
+3. [[barberry:/wines/1c45bc14-0d03-417e-80a4-36efc1be4efd][Serragghia Cicala 2018]]
+4. [[barberry:/wines/6602d63b-3040-46b1-a081-70eefe38791c][Patrice Beguet I'm forever blowing bubbles 2022]]
+5. [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]]
+6. [[barberry:/wines/de336dac-6879-45bd-9560-ab6423130b73][Carolina Gatti Ratatuja 2019]]
+7. [[barberry:/wines/aef4b9d1-1b0a-4842-814e-0ff57b0aa8c8][Brand Bros Pet Nat Rosé 2022]]
+8. [[barberry:/wines/80d58398-afa8-4233-bf27-49bd161cfc3e][Patrick Bouju Festejar! Rosé 2022]]
+9. [[barberry:/wines/9673e4ec-68c1-4473-a5d1-efc7f31db2b2][Mirco Mariotti Surliè! 2019]]
+
+* Scores
+:PROPERTIES:
+:ID:                     0f704e16-4a86-4d16-8f4b-1a80281476ef
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   3.7032 | 0.0233 |      0.00 |  780.00 |   1.9784 |
+| Wine #2 |   3.7659 | 0.0318 |      0.00 |  850.00 |   1.9846 |
+| Wine #3 | *4.1644* | 0.0225 |    *8.00* | 9100.00 |   0.3374 |
+| Wine #4 |   3.9510 | 0.0157 |      2.00 | 1050.00 |   2.1173 |
+| Wine #5 |   3.8975 | 0.0588 |      1.00 |  990.00 |   2.0569 |
+| Wine #6 |   3.6799 | 0.0115 |      0.00 | 1380.00 |   1.0840 |
+| Wine #7 |   3.5293 | 0.0303 |      0.00 |  850.00 |   1.4169 |
+| Wine #8 |   3.8390 | 0.0113 |      1.00 | 1090.00 |   1.7289 |
+| Wine #9 |   3.9056 | 0.0110 |      0.00 |  759.00 | *2.7399* |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Valentina Passalacqua Calcarius Frecciabomb Bianco NV
+:PROPERTIES:
+:ID:                     7007587e-8d67-466f-a4f1-72ef0122abde
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-10-08-41-20-6A8F49B6-7B99-47CD-B2D2-E0170F13A985-1-105-c.webp]]
+
+- producer: [[barberry:/producers/cf22308d-98a1-4056-921c-49b9cd46f159][Valentina Passalacqua]]
+- name: [[barberry:/wines/675148ff-d8b1-4723-8424-b78770944cbe][Calcarius Frecciabomb Bianco]]
+- vintage: NV
+- grapes: Bombino Bianco
+- appellation: IGP Puglia
+- location: Apulia, Italy
+- alcohol: 9.5
+- sugar: 1
+- price: 780 UAH
+
+* Costadilà 280 slm NV
+:PROPERTIES:
+:ID:                     6da10380-7020-4db0-adc1-3e844f2ccd2f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-14-49-31-IMG-8277.webp]]
+
+- producer: [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadilà]]
+- name: [[barberry:/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5][280 slm]]
+- vintage: NV
+- grapes: Glera, Verdicchio, Bianchetta Trevigiana
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 10.5
+- sugar: 2
+- price: 850 UAH
+
+* Serragghia Cicala 2018
+:PROPERTIES:
+:ID:                     0e48ecf6-9b08-4052-924d-cc86bec2c049
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-14-57-51-IMG-8283.webp]]
+
+- producer: [[barberry:/producers/5e56d359-076e-42fd-be45-e8d85e10f8b0][Serragghia]]
+- name: [[barberry:/wines/1c45bc14-0d03-417e-80a4-36efc1be4efd][Cicala]]
+- vintage: 2018
+- grapes: Zibibbo
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 11.5
+- sugar: 6.5
+- price: 9100 UAH
+
+* Patrice Beguet I'm forever blowing bubbles 2022
+:PROPERTIES:
+:ID:                     e7789fa2-938a-498d-a2d7-1ed2b391da0d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-15-01-33-IMG-8292.webp]]
+
+- producer: [[barberry:/producers/edd81899-a92d-49ad-9566-a6f0c333c220][Patrice Beguet]]
+- name: [[barberry:/wines/6602d63b-3040-46b1-a081-70eefe38791c][I'm forever blowing bubbles]]
+- vintage: 2022
+- grapes: Monastrell, Viognier, Gewürztraminer, Grenache
+- appellation: Vin de Table
+- location: France
+- alcohol: 12
+- sugar: 0
+- price: 1050 UAH
+
+* Testalonga El Bandito I am the Ninja 2022
+:PROPERTIES:
+:ID:                     8e020a26-7063-4e70-9f05-d3841574c988
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-06-20-17-54-33-IMG-7877.webp]]
+
+- producer: [[barberry:/producers/28888340-61d4-42b7-9aa6-25ae9bf77e08][Testalonga]]
+- name: [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][El Bandito I am the Ninja]]
+- vintage: 2022
+- grapes: Chenin Blanc
+- appellation: WO Swartland
+- location: South Africa
+- alcohol: 9.5
+- sugar: 6.2
+- price: 990 UAH
+
+* Carolina Gatti Ratatuja 2019
+:PROPERTIES:
+:ID:                     15720c42-95a2-4187-b392-d6b75f146ed9
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-14-48-58-IMG-8275.webp]]
+
+- producer: [[barberry:/producers/951a046b-b09e-4fb4-abdf-e08b40bc4553][Carolina Gatti]]
+- name: [[barberry:/wines/de336dac-6879-45bd-9560-ab6423130b73][Ratatuja]]
+- vintage: 2019
+- grapes: Pinot Blanc, Chardonnay, Tocai Trevigiana, Verduzzo, Glera
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 11
+- sugar: 0.1
+- price: 1380 UAH
+
+* Brand Bros Pet Nat Rosé 2022
+:PROPERTIES:
+:ID:                     f9fbda86-88c7-4c45-be62-75e00f497f12
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-15-03-36-IMG-8294.webp]]
+
+- producer: [[barberry:/producers/19104471-31b8-489f-b5a7-addbadb13b6a][Brand Bros]]
+- name: [[barberry:/wines/aef4b9d1-1b0a-4842-814e-0ff57b0aa8c8][Pet Nat Rosé]]
+- vintage: 2022
+- grapes: Pinot Noir
+- appellation: Deutscher Wein
+- location: Germany
+- alcohol: 10
+- sugar: 0.5
+- price: 850 UAH
+
+* Patrick Bouju Festejar! Rosé 2022
+:PROPERTIES:
+:ID:                     54d4ec0c-9cfe-4c75-bc90-8431a3a6e034
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-14-58-22-IMG-8285.webp]]
+
+- producer: [[barberry:/producers/a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f][Patrick Bouju]]
+- name: [[barberry:/wines/80d58398-afa8-4233-bf27-49bd161cfc3e][Festejar! Rosé]]
+- vintage: 2022
+- grapes: Gamay, Merlot, Pinot Noir
+- appellation: Vin de Table
+- location: France
+- alcohol: 11.5
+- sugar: 1.3
+- price: 1090 UAH
+
+* Mirco Mariotti Surliè! 2019
+:PROPERTIES:
+:ID:                     8d4069d3-a4d6-45bc-91a2-ec3983858897
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-08-pet-nat/2023-07-08-14-56-09-IMG-8280.webp]]
+
+- producer: [[barberry:/producers/269b04f1-40ea-42bf-9e8c-08b67eca8527][Mirco Mariotti]]
+- name: [[barberry:/wines/9673e4ec-68c1-4473-a5d1-efc7f31db2b2][Surliè!]]
+- vintage: 2019
+- grapes: Fortana
+- appellation: IGP Emilia
+- location: Emilia-Romagna, Italy
+- alcohol: 12.5
+- sugar: 0
+- price: 759 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     e46987ed-ba10-4710-85b3-8016eeb403fb
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|           | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 | Wine #9 |
+|-----------+---------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Max D     |    3.60 |    3.94 | *4.44*  |    3.90 |    3.98 |    3.64 |    3.58 |    3.95 |    4.05 |
+| Daria B   |    3.60 |    3.90 | *4.20*  |    3.80 |    3.80 |    3.60 |    3.50 |    3.70 |    3.80 |
+| Andrii S  |    3.60 |    3.60 | *4.30*  |    3.90 |    3.80 |    3.90 |    3.20 |    3.70 |    3.90 |
+| Anya I    |    3.60 |    3.80 | 4.10    |  *4.00* |    3.90 |    3.80 |    3.62 |    3.90 |    3.80 |
+| Mykola T  |    3.70 |    3.80 | *4.10*  |    4.00 |    3.90 |    3.60 |    3.40 |    3.90 |    3.90 |
+| Anna P    |    4.00 |    3.70 | 3.80    |    3.90 |    3.90 |    3.70 |    3.60 |  *4.00* |    4.00 |
+| Serhii H  |    4.00 |    3.80 | 4.20    |  *4.30* |    3.60 |    3.60 |    3.50 |    4.00 |    3.80 |
+| David H   |    3.70 |    4.00 | *4.20*  |    3.99 |    3.80 |    3.60 |    3.70 |    3.80 |    4.10 |
+| Vova U    |    3.80 |    3.70 | *4.10*  |    3.90 |    3.90 |    3.80 |    3.60 |    3.80 |    4.00 |
+| Diana M   |    3.70 |    3.30 | 4.10    |    3.90 |  *4.60* |    3.70 |    3.80 |    3.80 |    3.80 |
+| Mykola Ch |    3.60 |    3.90 | *4.30*  |    4.00 |    3.60 |    3.70 |    3.60 |    3.70 |    3.90 |
+| Boris B   |    3.50 |    3.70 | *4.10*  |    3.80 |    3.90 |    3.50 |    3.20 |    3.80 |    3.80 |
+

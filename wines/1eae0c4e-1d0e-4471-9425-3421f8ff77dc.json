@@ -1,0 +1,38 @@
+{
+  "id": "1eae0c4e-1d0e-4471-9425-3421f8ff77dc",
+  "name": "Pet Nat Rosé",
+  "full-name": "Weingut Brand Pet Nat Rose 2020",
+  "producer": {
+    "id": "19104471-31b8-489f-b5a7-addbadb13b6a",
+    "name": "Brand Bros"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0.1",
+  "prices": [
+    "559 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1e/ae0c4e-1d0e-4471-9425-3421f8ff77dc/2021-12-17-15-44-07-F8DC4A27-DA1A-458A-88F9-6ABF51F0DBCC-1-105-c.webp",
+  "rating": "5.5"
+}

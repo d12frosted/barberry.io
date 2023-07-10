@@ -1,0 +1,47 @@
+{
+  "id": "fd656036-c909-47bb-bdc5-bf3a8130f818",
+  "name": "Pétillant Rosé",
+  "full-name": "Tillingham Pétillant Rosé 2018",
+  "producer": {
+    "id": "687b5f50-5e17-4255-a9a3-52b055420ba3",
+    "name": "Tillingham"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "8d91dc47-d765-46b2-bcdb-3b52ceeb2780",
+    "name": "England"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "df1847f1-7324-412b-a601-bb83e2fa1b3a",
+      "name": "Ortega"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0",
+  "prices": [
+    "1600 UAH",
+    "1250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/fd/656036-c909-47bb-bdc5-bf3a8130f818/2023-07-10-08-30-56-4AB89FDA-E9DB-4B37-9858-20EBF8ED89A2-1-105-c.webp",
+  "rating": "7.25"
+}

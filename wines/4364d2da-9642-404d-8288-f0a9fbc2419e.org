@@ -33,5 +33,11 @@ Light and delicate Arbois Poulsard. Spoiled strawberry jam, brett, pepper, peas,
     <section class="h text-bolder">Dinavolino - 2018</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/4fde3af5-d796-410b-b746-eb65e898c5d0.html">
+    <img class="flex-bottle" src="/images/4f/de3af5-d796-410b-b746-eb65e898c5d0/2020-08-29-12-02-16-5CFFFAC3-CDB4-43E9-8E6D-463E7AA76B5F-1-105-c@512.webp"></img>
+    <section class="h">Brand Bros</section>
+    <section class="h text-bolder">Wilder Satz Pur - 2019</section>
+  </a>
+
 </div>
 #+end_export

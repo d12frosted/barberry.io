@@ -1,0 +1,34 @@
+{
+  "id": "5f4dd717-3618-41ad-9c68-ba702f2a4701",
+  "name": "Les Revers",
+  "full-name": "Clandestin Les Revers 2019",
+  "producer": {
+    "id": "cf76a82b-17f8-426b-9c68-6ed77f25004a",
+    "name": "Clandestin"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": "[2022-07-15 Fri]",
+  "sur-lie": "~30 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "3800 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/5f/4dd717-3618-41ad-9c68-ba702f2a4701/2023-07-10-08-37-47-43F9B065-F543-4F16-919F-778B76DAA988-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9673e4ec-68c1-4473-a5d1-efc7f31db2b2.html">
+    <img class="flex-bottle" src="/images/96/73e4ec-68c1-4473-a5d1-efc7f31db2b2/2023-07-08-14-56-09-IMG-8280@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">Surliè! - 2019</section>
+  </a>
+
+</div>
+#+end_export

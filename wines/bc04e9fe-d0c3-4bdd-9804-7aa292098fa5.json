@@ -1,0 +1,38 @@
+{
+  "id": "bc04e9fe-d0c3-4bdd-9804-7aa292098fa5",
+  "name": "Pet Nat Rosé",
+  "full-name": "Brand Bros Pet Nat Rosé 2018",
+  "producer": {
+    "id": "19104471-31b8-489f-b5a7-addbadb13b6a",
+    "name": "Brand Bros"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "7b453c9e-0209-4ff5-84fb-d5ccad21a095",
+      "name": "Blauer Portugieser"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "10",
+  "sugar": "0.5",
+  "prices": [
+    "590 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "6.625"
+}

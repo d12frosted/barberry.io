@@ -1,0 +1,34 @@
+{
+  "id": "1c45bc14-0d03-417e-80a4-36efc1be4efd",
+  "name": "Cicala",
+  "full-name": "Serragghia Cicala 2018",
+  "producer": {
+    "id": "5e56d359-076e-42fd-be45-e8d85e10f8b0",
+    "name": "Serragghia"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "6.5",
+  "prices": [
+    "9100 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/1c/45bc14-0d03-417e-80a4-36efc1be4efd/2023-07-08-14-57-51-IMG-8283.webp",
+  "rating": "8.25"
+}

@@ -9,5 +9,35 @@
     <section class="h text-bolder">Flora - NV</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/bc04e9fe-d0c3-4bdd-9804-7aa292098fa5.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 6.62</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/2bf23e57-a5b2-419b-8d03-da8d4db4f73a.html">
+    <img class="flex-bottle" src="/images/2b/f23e57-a5b2-419b-8d03-da8d4db4f73a/2022-12-26-08-50-19-IMG-4035@512.webp"></img>
+    <section class="h">★ 7.00</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/aef4b9d1-1b0a-4842-814e-0ff57b0aa8c8.html">
+    <img class="flex-bottle" src="/images/ae/f4b9d1-1b0a-4842-814e-0ff57b0aa8c8/2023-07-08-15-03-36-IMG-8294@512.webp"></img>
+    <section class="h">★ 6.50</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4fde3af5-d796-410b-b746-eb65e898c5d0.html">
+    <img class="flex-bottle" src="/images/4f/de3af5-d796-410b-b746-eb65e898c5d0/2020-08-29-12-02-16-5CFFFAC3-CDB4-43E9-8E6D-463E7AA76B5F-1-105-c@512.webp"></img>
+    <section class="h">★ 5.50</section>
+    <section class="h text-bolder">Wilder Satz Pur - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1eae0c4e-1d0e-4471-9425-3421f8ff77dc.html">
+    <img class="flex-bottle" src="/images/1e/ae0c4e-1d0e-4471-9425-3421f8ff77dc/2021-12-17-15-44-07-F8DC4A27-DA1A-458A-88F9-6ABF51F0DBCC-1-105-c@512.webp"></img>
+    <section class="h">★ 5.50</section>
+    <section class="h text-bolder">Pet Nat Rosé - 2020</section>
+  </a>
+
 </div>
 #+end_export

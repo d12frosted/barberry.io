@@ -1,0 +1,58 @@
+{
+  "id": "607bc6ed-38a9-4990-b903-3a71e04ae483",
+  "name": "Soléra Les Riceys (2017)",
+  "full-name": "Olivier Horiot Soléra Les Riceys (2017) NV",
+  "producer": {
+    "id": "fa1f19d8-0f56-42d6-bef2-bfb46df61ea3",
+    "name": "Olivier Horiot"
+  },
+  "vintage": "NV",
+  "base-vintage": "2017",
+  "degorgee": "[2021-07-05 Mon]",
+  "sur-lie": "22 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "245034ac-85a0-475f-8cab-31f306acceca",
+      "name": "Arbane"
+    },
+    {
+      "id": "aa1be6b1-cef4-48ae-9c08-7accc7fde76d",
+      "name": "Petite Meslier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "2700 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/60/7bc6ed-38a9-4990-b903-3a71e04ae483/2023-07-07-15-32-39-B43E87B7-5A96-4336-A8CB-51748F7CD803-1-105-c.webp",
+  "rating": "7.75"
+}

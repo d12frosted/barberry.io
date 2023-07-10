@@ -1,12 +1,12 @@
 {
   "id": "d6c593fa-52e7-46db-9097-fe38802ee9d5",
   "name": "280 slm",
-  "full-name": "Costadilà 280 slm 2019",
+  "full-name": "Costadilà 280 slm NV",
   "producer": {
     "id": "d2866fb4-6a9f-4499-a330-da6d9d4720d8",
     "name": "Costadilà"
   },
-  "vintage": "2019",
+  "vintage": "NV",
   "base-vintage": null,
   "degorgee": null,
   "sur-lie": null,
@@ -34,9 +34,10 @@
   "alcohol": "10.5",
   "sugar": "2",
   "prices": [
+    "850 UAH",
     "730 UAH"
   ],
   "available": 0.0,
-  "image": "images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2022-07-16-18-48-40-F45B1701-8B12-455A-BC70-C9A6471BF375-1-105-c.webp",
-  "rating": "7.199999999999999"
+  "image": "images/d6/c593fa-52e7-46db-9097-fe38802ee9d5/2023-07-08-14-49-31-IMG-8277.webp",
+  "rating": "7.225"
 }
