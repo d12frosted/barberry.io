@@ -85,16 +85,28 @@ Delicate, easy and delicious. Not complex, but it charms me with notes of white 
     <section class="h text-bolder">Three views of a secret - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/13b11427-367f-4fe1-8261-0c0426631122.html">
+  <a class="flex-item flex-item-left" href="/wines/0e482249-2a2f-449e-a4e4-3d453d701545.html">
+    <img class="flex-bottle" src="/images/0e/482249-2a2f-449e-a4e4-3d453d701545/2023-07-10-08-35-17-25241D23-224C-4E12-80A5-2ED74013D6FE-1-105-c@512.webp"></img>
+    <section class="h">Larmandier-Bernier</section>
+    <section class="h text-bolder">Les Chemins d'Avize Grand Cru - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/13b11427-367f-4fe1-8261-0c0426631122.html">
     <img class="flex-bottle" src="/images/13/b11427-367f-4fe1-8261-0c0426631122/2023-04-15-14-31-25-0A61D1D6-3A2A-4B9D-B364-48BDD42A29BB-1-105-c@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">Baby Bandito Chin Up - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1c45bc14-0d03-417e-80a4-36efc1be4efd.html">
+  <a class="flex-item flex-item-left" href="/wines/1c45bc14-0d03-417e-80a4-36efc1be4efd.html">
     <img class="flex-bottle" src="/images/1c/45bc14-0d03-417e-80a4-36efc1be4efd/2023-07-08-14-57-51-IMG-8283@512.webp"></img>
     <section class="h">Serragghia</section>
     <section class="h text-bolder">Cicala - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/37339c79-e551-4525-b53a-bb1ac8933dc5.html">
+    <img class="flex-bottle" src="/images/37/339c79-e551-4525-b53a-bb1ac8933dc5/2023-07-10-19-26-49-5D216694-5FE9-4D6A-B1D3-9A0F1CD0FFE1-1-105-c@512.webp"></img>
+    <section class="h">Tony Bornard</section>
+    <section class="h text-bolder">Le Gentil Blanc - 2018</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/446df39e-ea08-4dd7-a420-e5c57cef377d.html">
@@ -115,34 +127,46 @@ Delicate, easy and delicious. Not complex, but it charms me with notes of white 
     <section class="h text-bolder">Amaltea Clàssic Penedès Brut Nature Reserva - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/62f35f55-46bc-4602-bc2a-0c0f341ccacd.html">
+  <a class="flex-item flex-item-right" href="/wines/5f4dd717-3618-41ad-9c68-ba702f2a4701.html">
+    <img class="flex-bottle" src="/images/5f/4dd717-3618-41ad-9c68-ba702f2a4701/2023-07-10-08-37-47-43F9B065-F543-4F16-919F-778B76DAA988-1-105-c@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Les Revers - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/62f35f55-46bc-4602-bc2a-0c0f341ccacd.html">
     <img class="flex-bottle" src="/images/62/f35f55-46bc-4602-bc2a-0c0f341ccacd/2023-07-08-14-34-05-IMG-8263@512.webp"></img>
     <section class="h">Coulée de Serrant</section>
     <section class="h text-bolder">Clos de la Coulée de Serrant - 1997</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/675148ff-d8b1-4723-8424-b78770944cbe.html">
+  <a class="flex-item flex-item-right" href="/wines/675148ff-d8b1-4723-8424-b78770944cbe.html">
     <img class="flex-bottle" src="/images/67/5148ff-d8b1-4723-8424-b78770944cbe/2023-07-10-08-41-20-6A8F49B6-7B99-47CD-B2D2-E0170F13A985-1-105-c@512.webp"></img>
     <section class="h">Valentina Passalacqua</section>
     <section class="h text-bolder">Calcarius Frecciabomb Bianco - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
+  <a class="flex-item flex-item-left" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
     <img class="flex-bottle" src="/images/80/d58398-afa8-4233-bf27-49bd161cfc3e/2023-07-08-14-58-22-IMG-8285@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
+  <a class="flex-item flex-item-left" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
     <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-06-20-17-54-33-IMG-7877@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/91725b6f-e4cb-42b5-9f90-aa2654a1ddcd.html">
+    <img class="flex-bottle" src="/images/91/725b6f-e4cb-42b5-9f90-aa2654a1ddcd/2023-07-10-14-52-30-65B2C437-E3E3-4E12-86E8-210DB20A5B42-1-105-c@512.webp"></img>
+    <section class="h">Franz Strohmeier</section>
+    <section class="h text-bolder">Trauben, Liebe und Zeit №6 Karmín Rosé - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9673e4ec-68c1-4473-a5d1-efc7f31db2b2.html">

@@ -1,0 +1,34 @@
+{
+  "id": "91725b6f-e4cb-42b5-9f90-aa2654a1ddcd",
+  "name": "Trauben, Liebe und Zeit №6 Karmín Rosé",
+  "full-name": "Franz Strohmeier Trauben, Liebe und Zeit №6 Karmín 2015",
+  "producer": {
+    "id": "11098691-7b90-4c23-b496-130eae785846",
+    "name": "Franz Strohmeier"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "4d1a2152-63a8-4f23-b3c7-0ff9f961d24e",
+      "name": "Blauer Wildbacher"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/91/725b6f-e4cb-42b5-9f90-aa2654a1ddcd/2023-07-10-14-52-30-65B2C437-E3E3-4E12-86E8-210DB20A5B42-1-105-c.webp",
+  "rating": "8.0"
+}

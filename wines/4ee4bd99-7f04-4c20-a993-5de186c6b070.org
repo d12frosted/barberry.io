@@ -73,25 +73,31 @@ Served it blind, and no one guessed Champagne here.
     <section class="h text-bolder">Cuvée des Caudalies Grand Cru Millésime Extra Brut - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/607bc6ed-38a9-4990-b903-3a71e04ae483.html">
+  <a class="flex-item flex-item-left" href="/wines/54ea850f-731f-4b10-baa9-68ce65464054.html">
+    <img class="flex-bottle" src="/images/54/ea850f-731f-4b10-baa9-68ce65464054/2023-07-07-11-18-04-DD459B54-38F4-4FA6-9AF2-AC7D23C3E2B7-1-105-c@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Dom Pérignon Brut - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/607bc6ed-38a9-4990-b903-3a71e04ae483.html">
     <img class="flex-bottle" src="/images/60/7bc6ed-38a9-4990-b903-3a71e04ae483/2023-07-07-15-32-39-B43E87B7-5A96-4336-A8CB-51748F7CD803-1-105-c@512.webp"></img>
     <section class="h">Olivier Horiot</section>
     <section class="h text-bolder">Soléra Les Riceys (2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9e587f67-5955-46b7-98d2-6c4c82715685.html">
+  <a class="flex-item flex-item-left" href="/wines/9e587f67-5955-46b7-98d2-6c4c82715685.html">
     <img class="flex-bottle" src="/images/9e/587f67-5955-46b7-98d2-6c4c82715685/2023-07-05-22-00-26-B34C2A2A-62F5-439E-8E15-C6BAF01ECBCB-1-105-c@512.webp"></img>
     <section class="h">Ulysse Collin</section>
     <section class="h text-bolder">Les Pierrières Blanc de Blancs Extra Brut (2017) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0.html">
+  <a class="flex-item flex-item-right" href="/wines/ac08ddd3-87c9-4e9e-bcb7-2d59da63cec0.html">
     <img class="flex-bottle" src="/images/ac/08ddd3-87c9-4e9e-bcb7-2d59da63cec0/2023-07-05-22-06-52-6BC586D9-80D5-499C-8EAB-5E1B4B2702E0-1-105-c@512.webp"></img>
     <section class="h">Jacques Selosse</section>
     <section class="h text-bolder">Exquise Sec - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1.html">
+  <a class="flex-item flex-item-left" href="/wines/d0ea2337-7d61-451b-bf4b-978d2bf34ee1.html">
     <img class="flex-bottle" src="/images/d0/ea2337-7d61-451b-bf4b-978d2bf34ee1/2023-07-06-18-09-54-IMG-8220@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">N.P.U. - 2008</section>
