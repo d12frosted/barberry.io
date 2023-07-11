@@ -1,0 +1,39 @@
+{
+  "id": "1b4231fa-a5ad-4fe9-b805-22f963ed893a",
+  "name": "Negre",
+  "full-name": "Fautor Negre 2017",
+  "producer": {
+    "id": "5e55dc30-88aa-4f2f-966c-b3688eb42694",
+    "name": "Fautor"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "1cf9a5ea-8319-4f18-923d-db9171825654",
+      "name": "Rară Neagră"
+    },
+    {
+      "id": "388d2d93-35a2-4977-aa20-2ec95486da65",
+      "name": "Fetească neagră"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0",
+  "prices": [
+    "300 MDL",
+    "420 UAH"
+  ],
+  "available": 0,
+  "image": "images/1b/4231fa-a5ad-4fe9-b805-22f963ed893a/2020-03-01-17-27-48-05B6AABB-7EF3-4722-B533-63DA99E24633-1-105-c.webp",
+  "rating": "7.5"
+}
