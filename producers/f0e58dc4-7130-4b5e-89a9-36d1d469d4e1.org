@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1ee8da3f-aaf7-4d2e-8b00-91096c8f6ca9.html">
+    <img class="flex-bottle" src="/images/1e/e8da3f-aaf7-4d2e-8b00-91096c8f6ca9/2023-07-11-21-22-21-EE23498E-CC59-4EDB-9264-9D9A1A43314C-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Le Mesnil Blanc de Blancs Brut - 2013</section>
+  </a>
+
+</div>
+#+end_export

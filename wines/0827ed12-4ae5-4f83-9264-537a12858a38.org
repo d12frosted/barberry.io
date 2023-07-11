@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/8477c0c0-1756-463b-b302-717afcfa5490][Minis Terrios]]
+- Vintage :: 2022
+- Location :: Moldova, Valul lui Traian
+- Grapes :: Cabernet Sauvignon, Fetească neagră
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 150 MDL
+- Cellar :: N/A
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2ea9728e-961a-40b9-8ad8-99272620afa8.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Minis Terrios</section>
+    <section class="h text-bolder">Roșu Împărat - 2023</section>
+  </a>
+
+</div>
+#+end_export

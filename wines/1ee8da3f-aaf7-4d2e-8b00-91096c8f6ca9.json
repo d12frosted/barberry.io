@@ -1,0 +1,35 @@
+{
+  "id": "1ee8da3f-aaf7-4d2e-8b00-91096c8f6ca9",
+  "name": "Le Mesnil Blanc de Blancs Brut",
+  "full-name": "Salon Le Mesnil Blanc de Blancs Brut 2013",
+  "producer": {
+    "id": "f0e58dc4-7130-4b5e-89a9-36d1d469d4e1",
+    "name": "Salon"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "8.2",
+  "prices": [
+    "36270 UAH",
+    "39000 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1e/e8da3f-aaf7-4d2e-8b00-91096c8f6ca9/2023-07-11-21-22-21-EE23498E-CC59-4EDB-9264-9D9A1A43314C-1-105-c.webp",
+  "rating": "NA"
+}

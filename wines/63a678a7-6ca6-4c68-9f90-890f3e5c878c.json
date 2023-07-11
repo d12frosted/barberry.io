@@ -1,0 +1,34 @@
+{
+  "id": "63a678a7-6ca6-4c68-9f90-890f3e5c878c",
+  "name": "Cabernet Sauvignon Rosé",
+  "full-name": "Agrici Cabernet Sauvignon Rosé 2016",
+  "producer": {
+    "id": "9a57bc0c-df91-4eed-810d-743bb159c8dd",
+    "name": "Agrici"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "110 MDL"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

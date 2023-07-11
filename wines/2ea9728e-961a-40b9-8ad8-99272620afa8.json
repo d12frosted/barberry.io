@@ -1,0 +1,42 @@
+{
+  "id": "2ea9728e-961a-40b9-8ad8-99272620afa8",
+  "name": "Roșu Împărat",
+  "full-name": "Minis Terrios Roșu Împărat 2023",
+  "producer": {
+    "id": "8477c0c0-1756-463b-b302-717afcfa5490",
+    "name": "Minis Terrios"
+  },
+  "vintage": "2023",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "388d2d93-35a2-4977-aa20-2ec95486da65",
+      "name": "Fetească neagră"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "14.9",
+  "sugar": "NA",
+  "prices": [
+    "280 MDL"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

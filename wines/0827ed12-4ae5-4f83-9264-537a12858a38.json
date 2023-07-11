@@ -1,0 +1,38 @@
+{
+  "id": "0827ed12-4ae5-4f83-9264-537a12858a38",
+  "name": "Harap Alb",
+  "full-name": "Minis Terrios Harap Alb 2022",
+  "producer": {
+    "id": "8477c0c0-1756-463b-b302-717afcfa5490",
+    "name": "Minis Terrios"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "388d2d93-35a2-4977-aa20-2ec95486da65",
+      "name": "Fetească neagră"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "150 MDL"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

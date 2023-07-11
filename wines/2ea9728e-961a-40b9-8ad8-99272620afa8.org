@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/unknown-wine.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/8477c0c0-1756-463b-b302-717afcfa5490][Minis Terrios]]
+- Vintage :: 2023
+- Location :: Moldova, Valul lui Traian
+- Grapes :: Cabernet Sauvignon, Fetească neagră, Merlot
+- Alcohol :: 14.9
+- Sugar :: NA
+- Price :: 280 MDL
+- Cellar :: N/A
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/0827ed12-4ae5-4f83-9264-537a12858a38.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Minis Terrios</section>
+    <section class="h text-bolder">Harap Alb - 2022</section>
+  </a>
+
+</div>
+#+end_export
