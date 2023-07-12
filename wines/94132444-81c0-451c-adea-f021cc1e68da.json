@@ -1,0 +1,36 @@
+{
+  "id": "94132444-81c0-451c-adea-f021cc1e68da",
+  "name": "Merlot",
+  "full-name": "Castel Mimi Merlot 2012",
+  "producer": {
+    "id": "88990862-de17-44ba-8f90-2ebf5d2b2d00",
+    "name": "Castel Mimi"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    }
+  ],
+  "alcohol": "14.5",
+  "sugar": "0",
+  "prices": [
+    "1100 MDL",
+    "1540 UAH",
+    "1650 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/94/132444-81c0-451c-adea-f021cc1e68da/2021-07-03-21-29-47-3BE5C36A-2F9F-49B8-B5A7-3566FAE67E49-1-102-o.webp",
+  "rating": "9.0"
+}
