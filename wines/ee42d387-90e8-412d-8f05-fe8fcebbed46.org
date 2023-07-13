@@ -1,0 +1,67 @@
+#+attr_html: :class wine-main-image
+[[file:/images/ee/42d387-90e8-412d-8f05-fe8fcebbed46/2023-07-13-13-27-31-IMG-8417@512.webp]]
+
+- Type :: White Sparkling, Extra brut
+- Producer :: [[barberry:/producers/18b6ff64-8c47-4ad7-8c3c-01176de9a865][Bérêche & Fils]]
+- Vintage :: 2018
+- Disgorged in :: January 2022
+- Spent on lees :: 36 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: 2
+- Price :: 3340 UAH
+- Cellar :: 1 bottle
+
+#+begin_quote
+Surface: 0,45 ha
+
+Age of the vines: 50 years
+
+Altitude: 170 m - 10% gradient
+
+Terroir: Chardonnay de Ludes 1er Cru, parcels «les Beaux Regards» and «les Clos», 2 parcels all close to the village at mid-side
+
+Soil: Beautiful light clays, limestone and flint.
+
+Blending: 100% Chardonnay
+
+Vinification: Slow fermentation in barrels, ageing on lees, +36 months of cellaring on laths, foaming under cork.
+
+--- Bérêche & Fils
+#+end_quote
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/03c58432-e29b-470c-985b-a1fa44ac3df7.html">
+    <img class="flex-bottle" src="/images/03/c58432-e29b-470c-985b-a1fa44ac3df7/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c@512.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve (d2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/40910459-4fb6-42ae-b046-58094be3603b.html">
+    <img class="flex-bottle" src="/images/40/910459-4fb6-42ae-b046-58094be3603b/2022-11-26-10-54-13-25EC765C-07A2-4E97-AE6C-863F8F848F56-1-105-c@512.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L:19.07/2022 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e02f4c99-e6b4-446f-bad4-464f90769ff7.html">
+    <img class="flex-bottle" src="/images/e0/2f4c99-e6b4-446f-bad4-464f90769ff7/2023-05-28-17-36-39-AF21E60E-47DE-4C7A-AC76-9453F7D7CF29-1-105-c@512.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Brut Réserve L:20BSA-12/22 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fc736ad3-915f-445a-921d-d69ee522a853.html">
+    <img class="flex-bottle" src="/images/fc/736ad3-915f-445a-921d-d69ee522a853/2022-11-29-10-42-21-IMG-3493@512.webp"></img>
+    <section class="h">Bérêche & Fils</section>
+    <section class="h text-bolder">Côte Grand Cru - 2016</section>
+  </a>
+
+</div>
+#+end_export

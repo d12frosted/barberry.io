@@ -1,12 +1,12 @@
 {
   "id": "8d579b38-f1d2-45bd-b7fb-1da5846cb9cd",
   "name": "Vignaverde",
-  "full-name": "Marco De Bartoli Vignaverde 2021",
+  "full-name": "Marco De Bartoli Vignaverde 2022",
   "producer": {
     "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
     "name": "Marco De Bartoli"
   },
-  "vintage": "2021",
+  "vintage": "2022",
   "base-vintage": null,
   "degorgee": null,
   "sur-lie": null,
@@ -26,9 +26,10 @@
   "alcohol": "12.5",
   "sugar": "1",
   "prices": [
+    "684 UAH",
     "798 UAH"
   ],
-  "available": 0.0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/8d/579b38-f1d2-45bd-b7fb-1da5846cb9cd/2023-07-13-13-24-34-IMG-8415.webp",
   "rating": "7.75"
 }

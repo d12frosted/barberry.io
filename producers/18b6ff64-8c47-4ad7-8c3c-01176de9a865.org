@@ -27,5 +27,11 @@
     <section class="h text-bolder">Côte Grand Cru - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/ee42d387-90e8-412d-8f05-fe8fcebbed46.html">
+    <img class="flex-bottle" src="/images/ee/42d387-90e8-412d-8f05-fe8fcebbed46/2023-07-13-13-27-31-IMG-8417@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ludes 1er Cru Les Beaux Regards Millésime - 2018</section>
+  </a>
+
 </div>
 #+end_export

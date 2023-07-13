@@ -34,7 +34,7 @@ I am happy to see that I've tasted ten new regions this month. But I am just ang
 #+results: countries-data
 | country        | count | p avg        | r rms |    qpr |
 |----------------+-------+--------------+-------+--------|
-| Italy          |    22 | 915.75 UAH   |  7.81 | 2.7100 |
+| Italy          |    22 | 918.58 UAH   |  7.81 | 2.7057 |
 | Spain          |    17 | 836.57 UAH   |  7.44 | 2.9724 |
 | France         |    12 | 1 625.95 UAH |  8.10 | 2.1408 |
 | Greece         |     7 | 826.03 UAH   |  5.87 | 1.6477 |
@@ -72,7 +72,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |---------+-------+--------------+-------+--------|
 |    2021 |     6 | 490.55 UAH   |  7.43 | 3.5364 |
 |    2020 |    22 | 729.84 UAH   |  7.04 | 2.6786 |
-|    2019 |    12 | 848.51 UAH   |  7.74 | 2.8363 |
+|    2019 |    11 | 859.28 UAH   |  7.78 | 2.9104 |
 |    2018 |    16 | 1 089.14 UAH |  8.01 | 2.5602 |
 |    2017 |     7 | 1 011.86 UAH |  7.41 | 1.8298 |
 |    2016 |     5 | 918.82 UAH   |  7.82 | 2.5769 |
@@ -80,7 +80,7 @@ Vintage-wise, I started to drink fewer wines of 2019 vintage and more of 2020 vi
 |    2013 |     1 | 1 596.61 UAH |  8.80 | 2.7933 |
 |    2009 |     1 | 897.57 UAH   |  8.50 | 3.9230 |
 |    1997 |     1 | 1 408.00 UAH |  8.60 | 2.7044 |
-|      NV |    15 | 1 000.35 UAH |  7.23 | 2.5834 |
+|      NV |    16 | 987.34 UAH   |  7.23 | 2.5367 |
 
 #+name: vintages-data
 #+begin_src elisp :exports results
@@ -118,7 +118,7 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Trousseau                    |     2 | 1 227.50 UAH |  7.86 | 1.8671 |
 | Poulsard                     |     2 | 1 558.36 UAH |  8.35 | 2.0666 |
 | Chenin Blanc                 |     2 | 995.00 UAH   |  7.88 | 2.3809 |
-| Glera                        |     2 | 890.00 UAH   |  7.30 | 1.6613 |
+| Glera                        |     2 | 921.14 UAH   |  7.30 | 1.5831 |
 | Blauer Portugieser           |     2 | 468.55 UAH   |  7.25 | 2.9589 |
 | Zibibbo                      |     2 | 1 326.55 UAH |  8.25 | 2.6827 |
 | Savagnin                     |     2 | 992.33 UAH   |  7.90 | 2.6513 |
@@ -166,8 +166,8 @@ In terms of grapes, July is a festival because I've rated wines made of *82* gra
 | Viosinho                     |     1 | 518.00 UAH   |  7.00 | 2.2455 |
 | Pinot Meunier                |     1 | 1 500.00 UAH |  7.20 | 0.8921 |
 | Muskateller                  |     1 | 710.00 UAH   |  7.00 | 1.6383 |
-| Bianchetta Trevigiana        |     1 | 730.00 UAH   |  7.20 | 1.8331 |
-| Verdicchio                   |     1 | 730.00 UAH   |  7.20 | 1.8331 |
+| Bianchetta Trevigiana        |     1 | 792.28 UAH   |  7.20 | 1.6890 |
+| Verdicchio                   |     1 | 792.28 UAH   |  7.20 | 1.6890 |
 | Malvasía de Sitges           |     1 | 820.00 UAH   |  7.25 | 1.6907 |
 | Huxelrebe                    |     1 | 760.00 UAH   |  7.00 | 1.5305 |
 | Würzer                       |     1 | 760.00 UAH   |  7.00 | 1.5305 |
@@ -303,8 +303,8 @@ These are all the ratings of the month. Remember that you can search for specifi
 | 2022-07-16 | France         | [[barberry:/producers/3f62f4f0-0d5e-4fab-a6ef-ac3bf8a877eb][Gérard Bertrand]]          | [[barberry:/wines/7e65f750-5d08-4144-b41f-a8fda1672560][Gérard Bertrand Cote des Roses Rouge 2020]] |    2020 | 7.40 | 2.6837 |
 | 2022-07-16 | Austria        | [[barberry:/producers/f9a5e1e8-5a7a-46b2-8bc3-28aae8f3b6ff][Loimer]]                   | [[barberry:/wines/983e18f2-d9a4-4d9c-a7ba-bd2dd80a8c63][Loimer Pet Nat 2020]]                |    2020 | 7.00 | 1.6383 |
 | 2022-07-16 | Spain          | [[barberry:/producers/ecfc448d-b029-4031-916c-93c5bac91f68][Villa Clara]]              | [[barberry:/wines/dae21538-1207-4b55-bebf-07525b9ab10a][Villa Clara Cava Brut NV]]           |      NV | 7.00 | 3.8772 |
+| 2022-07-15 | Italy          | [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadilà]]                | [[barberry:/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5][Costadilà 280 slm NV]]               |      NV | 7.20 | 1.6890 |
 | 2022-07-15 | Czech Republic | [[barberry:/producers/c6ffc28f-f547-4afe-84c2-f6e3aa42a9c2][Krasna Hora]]              | [[barberry:/wines/ed95a91a-0437-40f1-8e9f-e01086ea0ec6][Krasna Hora Blanc de Noir Sekt 2018]] |    2018 | 7.50 | 2.0898 |
-| 2022-07-15 | Italy          | [[barberry:/producers/d2866fb4-6a9f-4499-a330-da6d9d4720d8][Costadilà]]                | [[barberry:/wines/d6c593fa-52e7-46db-9097-fe38802ee9d5][Costadilà 280 slm 2019]]             |    2019 | 7.20 | 1.8331 |
 | 2022-07-15 | Spain          | [[barberry:/producers/7ee0380b-9c4c-4328-89e2-c44f9dfda9c1][Clos Lentiscus]]           | [[barberry:/wines/ad694be5-b034-4587-8c7a-b7e1da05c101][Clos Lentiscus Gentleman 2016]]      |    2016 | 7.25 | 1.6907 |
 | 2022-07-15 | Germany        | [[barberry:/producers/547556c5-86ba-4b9e-a7f9-7776e6963cfc][Marto]]                    | [[barberry:/wines/cfd31303-7b5e-40cd-875b-1d4a293ab0a8][Marto Crazy Crazy 2020]]             |    2020 | 7.00 | 1.5305 |
 | 2022-07-15 | Ukraine        | [[barberry:/producers/b5174081-18ee-4abd-8964-971a4439e44b][Prince Trubetskoi Winery]] | [[barberry:/wines/5d1362c2-a73e-4d28-ba46-650254235397][Prince Trubetskoi Winery Blanc de Blancs 2017]] |    2017 | 5.50 | 0.7898 |
