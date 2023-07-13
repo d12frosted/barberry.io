@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/52815cf9-18ad-4ea9-b7c4-d84930e152c8.html">
+    <img class="flex-bottle" src="/images/52/815cf9-18ad-4ea9-b7c4-d84930e152c8/2023-07-13-11-03-15-597820FD-C72D-44E8-B547-94A19744F544-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Testematte - 2001</section>
+  </a>
+
+</div>
+#+end_export

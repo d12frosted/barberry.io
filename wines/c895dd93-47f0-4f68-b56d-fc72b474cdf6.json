@@ -1,0 +1,34 @@
+{
+  "id": "c895dd93-47f0-4f68-b56d-fc72b474cdf6",
+  "name": "Pinot Nero",
+  "full-name": "Bressan Pinot Nero 2015",
+  "producer": {
+    "id": "1586f403-87ce-4c0d-8ccf-471739ceaf75",
+    "name": "Bressan"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2243 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c8/95dd93-47f0-4f68-b56d-fc72b474cdf6/2023-07-13-10-57-02-1E84BEA6-CDB1-4E57-A180-414D20E7026F-1-105-c.webp",
+  "rating": "NA"
+}

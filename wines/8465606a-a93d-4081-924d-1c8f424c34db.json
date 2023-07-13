@@ -1,0 +1,38 @@
+{
+  "id": "8465606a-a93d-4081-924d-1c8f424c34db",
+  "name": "Ego Rosso",
+  "full-name": "Bressan Ego Rosso 2015",
+  "producer": {
+    "id": "1586f403-87ce-4c0d-8ccf-471739ceaf75",
+    "name": "Bressan"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c31bf603-11bf-4460-9cc1-e12e952dada0",
+      "name": "Schioppettino"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2243 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/84/65606a-a93d-4081-924d-1c8f424c34db/2023-07-13-10-59-23-F082ED66-9C17-4179-A3DF-082B7E527A65-1-105-c.webp",
+  "rating": "NA"
+}

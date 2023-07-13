@@ -1,0 +1,34 @@
+{
+  "id": "52815cf9-18ad-4ea9-b7c4-d84930e152c8",
+  "name": "Testematte",
+  "full-name": "Fontanassa Testematte 2001",
+  "producer": {
+    "id": "090e8375-89c1-4074-bede-87685c1e59c9",
+    "name": "Fontanassa"
+  },
+  "vintage": "2001",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8fcdc5eb-9b69-40a0-8546-c53f01e3611e",
+      "name": "Cortese"
+    }
+  ],
+  "alcohol": "17",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/52/815cf9-18ad-4ea9-b7c4-d84930e152c8/2023-07-13-11-03-15-597820FD-C72D-44E8-B547-94A19744F544-1-105-c.webp",
+  "rating": "NA"
+}

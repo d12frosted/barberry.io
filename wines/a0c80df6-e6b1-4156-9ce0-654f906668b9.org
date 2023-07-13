@@ -23,13 +23,19 @@ Honestly, this blend didn't really deliver. It was complex in a negative way. Ma
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/81414256-19cf-42a3-b31e-7b96b8b11f7c.html">
+  <a class="flex-item flex-item-left" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
+    <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-07-13-11-00-21-C302CBF7-77DA-49E2-A446-70F1846F6D14-1-105-c@512.webp"></img>
+    <section class="h">Dario Prinčič</section>
+    <section class="h text-bolder">Merlot - 2007</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/81414256-19cf-42a3-b31e-7b96b8b11f7c.html">
     <img class="flex-bottle" src="/images/81/414256-19cf-42a3-b31e-7b96b8b11f7c/2023-06-26-09-04-45-F7B5CBB9-688E-4B12-82A1-CA68462B19E3-1-105-c@512.webp"></img>
     <section class="h">Nicola Gatta</section>
     <section class="h text-bolder">Ombra Cuvée Brut L.A31 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>

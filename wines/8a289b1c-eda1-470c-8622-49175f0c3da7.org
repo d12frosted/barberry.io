@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/8a/289b1c-eda1-470c-8622-49175f0c3da7/2023-02-17-13-39-44-9232F2BC-73D4-49C0-8066-71B6FCCD88EC-1-105-c@512.webp]]
+[[file:/images/8a/289b1c-eda1-470c-8622-49175f0c3da7/2023-07-13-08-53-07-A68BEA1A-3570-485A-8A2D-A8C246367E9E-1-105-c@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/4990cbce-1f44-4948-a8c0-4796e332da93][Paraschos]]
@@ -8,8 +8,8 @@
 - Grapes :: Pinot Noir
 - Alcohol :: 12.5
 - Sugar :: NA
-- Price :: 1563 UAH
-- Cellar :: N/A
+- Price :: 1714 UAH, 1563 UAH
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -21,6 +21,18 @@ Tasted blind. Didn't guess. Turned out to be a Pinot Noir made by Greek in Colli
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61.html">
+    <img class="flex-bottle" src="/images/1b/3c3cb3-8ec6-448d-bdef-bc90c0b3aa61/2023-07-13-08-47-47-1AA9848F-403B-4758-B252-75BA45D66508-1-105-c@512.webp"></img>
+    <section class="h">Paraschos</section>
+    <section class="h text-bolder">not special vintage - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cae4a524-5ede-478f-8444-319c156db522.html">
+    <img class="flex-bottle" src="/images/ca/e4a524-5ede-478f-8444-319c156db522/2023-07-13-08-50-45-0F0A10A1-FC22-4577-9205-6CCA0F4DD028-1-105-c@512.webp"></img>
+    <section class="h">Paraschos</section>
+    <section class="h text-bolder">ponka - 2012</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/065720da-6456-4df3-9afb-8634b425580e.html">
     <img class="flex-bottle" src="/images/06/5720da-6456-4df3-9afb-8634b425580e/2020-10-28-09-31-14-7D8EEDAF-3C39-489E-A12C-09307A7675B6-1-105-c@512.webp"></img>
     <section class="h">Costadilà</section>

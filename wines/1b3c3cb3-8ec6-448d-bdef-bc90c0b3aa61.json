@@ -1,0 +1,34 @@
+{
+  "id": "1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61",
+  "name": "not special vintage",
+  "full-name": "Paraschos not special vintage 2012",
+  "producer": {
+    "id": "4990cbce-1f44-4948-a8c0-4796e332da93",
+    "name": "Paraschos"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "NA",
+  "prices": [
+    "2806 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1b/3c3cb3-8ec6-448d-bdef-bc90c0b3aa61/2023-07-13-08-47-47-1AA9848F-403B-4758-B252-75BA45D66508-1-105-c.webp",
+  "rating": "NA"
+}
