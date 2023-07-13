@@ -9,13 +9,17 @@
 - Alcohol :: 12.5
 - Sugar :: NA
 - Price :: 1714 UAH, 1563 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
 *** 2023-02-16 - ☆ 7.40
 
 Tasted blind. Didn't guess. Turned out to be a Pinot Noir made by Greek in Collio. A fistful of sour berries (dogwood and red currant), leather, white pepper and balsamic. It's intriguing, but I find it hard to drink this wine. VA is not well integrated, and instead of increasing complexity, it just bothers me. On the other hand, it has good fruit. 
+
+*** 2023-07-12 - ☆ 8.25
+
+Wow, the experience this time is positively different. A beautiful and charming bouquet of dog rose, sour cherry, white pepper, raw meat and balsamic. Juicy and a bit funky. Good balance, where acidity and tannin work together to please my buds (taste buds, yo). The aftertaste is long. Complex and interesting.
 
 ** Related
 
@@ -39,10 +43,22 @@ Tasted blind. Didn't guess. Turned out to be a Pinot Noir made by Greek in Colli
     <section class="h text-bolder">Mòz - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1d7d2493-1eb3-4764-8d2c-e8fd8e6822f0.html">
+  <a class="flex-item flex-item-right" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
+    <img class="flex-bottle" src="/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp"></img>
+    <section class="h">Andre et Mireille Tissot</section>
+    <section class="h text-bolder">Traminer - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1d7d2493-1eb3-4764-8d2c-e8fd8e6822f0.html">
     <img class="flex-bottle" src="/images/1d/7d2493-1eb3-4764-8d2c-e8fd8e6822f0/2023-02-17-13-42-24-8C58489F-8BBE-498E-AE2B-42587840E8F7-1-105-c@512.webp"></img>
     <section class="h">Bodega Chacra</section>
     <section class="h text-bolder">Cincuenta Y Cinco Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4404c132-25a8-4b7c-b625-4dd7a6ef7919.html">
+    <img class="flex-bottle" src="/images/44/04c132-25a8-4b7c-b625-4dd7a6ef7919/2023-07-13-11-15-09-2A2FD3C3-5014-4F33-9E35-4525FB658D4A-1-105-c@512.webp"></img>
+    <section class="h">Matassa</section>
+    <section class="h text-bolder">Cuvée Alexandria - 2022</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/47638fe3-31a8-4161-88f5-89c994bc635e.html">
@@ -57,28 +73,52 @@ Tasted blind. Didn't guess. Turned out to be a Pinot Noir made by Greek in Colli
     <section class="h text-bolder">Hyland Vineyard Pinot Noir Coury Clone - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0.html">
+  <a class="flex-item flex-item-left" href="/wines/52815cf9-18ad-4ea9-b7c4-d84930e152c8.html">
+    <img class="flex-bottle" src="/images/52/815cf9-18ad-4ea9-b7c4-d84930e152c8/2023-07-13-11-03-15-597820FD-C72D-44E8-B547-94A19744F544-1-105-c@512.webp"></img>
+    <section class="h">Fontanassa</section>
+    <section class="h text-bolder">Testematte - 2001</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5a117d28-e2b6-490c-90a6-a4145fd72fd0.html">
     <img class="flex-bottle" src="/images/5a/117d28-e2b6-490c-90a6-a4145fd72fd0/2022-12-14-08-06-15-IMG-3761@512.webp"></img>
     <section class="h">Tomislav Marković</section>
     <section class="h text-bolder">On the Rocks - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/697a50e3-196c-48c3-b531-f3879dd9b694.html">
+  <a class="flex-item flex-item-left" href="/wines/697a50e3-196c-48c3-b531-f3879dd9b694.html">
     <img class="flex-bottle" src="/images/69/7a50e3-196c-48c3-b531-f3879dd9b694/2020-03-05-20-07-22-F7A711A0-2115-4078-8FD0-DAA018FDC1FB-1-105-c@512.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Le Brin De Chèvre Touraine - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/98f32d59-a395-4287-8adb-9ddf1de9f894.html">
+  <a class="flex-item flex-item-right" href="/wines/807634e1-5872-48b4-8409-8c84f34a5465.html">
+    <img class="flex-bottle" src="/images/80/7634e1-5872-48b4-8409-8c84f34a5465/2023-07-13-10-58-05-C280D9B5-2E42-4602-BBDA-D209D4035EB2-1-105-c@512.webp"></img>
+    <section class="h">Bressan</section>
+    <section class="h text-bolder">Schioppettino - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/8465606a-a93d-4081-924d-1c8f424c34db.html">
+    <img class="flex-bottle" src="/images/84/65606a-a93d-4081-924d-1c8f424c34db/2023-07-13-10-59-23-F082ED66-9C17-4179-A3DF-082B7E527A65-1-105-c@512.webp"></img>
+    <section class="h">Bressan</section>
+    <section class="h text-bolder">Ego Rosso - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/98f32d59-a395-4287-8adb-9ddf1de9f894.html">
     <img class="flex-bottle" src="/images/98/f32d59-a395-4287-8adb-9ddf1de9f894/2022-10-13-15-02-55-IMG-2735@512.webp"></img>
     <section class="h">Comando G</section>
     <section class="h text-bolder">La Bruja de Rozas - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
+  <a class="flex-item flex-item-left" href="/wines/a086f12a-efb1-481f-8ab5-ab1d2250945b.html">
     <img class="flex-bottle" src="/images/a0/86f12a-efb1-481f-8ab5-ab1d2250945b/2023-01-24-06-58-32-IMG-4538@512.webp"></img>
     <section class="h">Felton Road</section>
     <section class="h text-bolder">Calvert Pinot Noir - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c895dd93-47f0-4f68-b56d-fc72b474cdf6.html">
+    <img class="flex-bottle" src="/images/c8/95dd93-47f0-4f68-b56d-fc72b474cdf6/2023-07-13-10-57-02-1E84BEA6-CDB1-4E57-A180-414D20E7026F-1-105-c@512.webp"></img>
+    <section class="h">Bressan</section>
+    <section class="h text-bolder">Pinot Nero - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/cbf036a5-283a-4cc4-b7ba-a512828d1967.html">
@@ -87,22 +127,34 @@ Tasted blind. Didn't guess. Turned out to be a Pinot Noir made by Greek in Colli
     <section class="h text-bolder">Calcarius Orange Puglia Nu Litr - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
+  <a class="flex-item flex-item-right" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
+    <img class="flex-bottle" src="/images/cd/f40888-c2da-4f03-8017-7b0bb23b2aac/2023-07-13-08-52-30-B1E23EFB-10CE-4AE9-8919-46D21DB7AD9B-1-105-c@512.webp"></img>
+    <section class="h">Bressan</section>
+    <section class="h text-bolder">Grigio in Grigio - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e40c45c4-aeab-47b0-bc9c-8a2e36223063.html">
     <img class="flex-bottle" src="/images/e4/0c45c4-aeab-47b0-bc9c-8a2e36223063/2023-02-17-13-51-03-9D1F1E65-6562-4BB2-86F2-FAC8E276F3FE-1-105-c@512.webp"></img>
     <section class="h">Casa Coste Piane</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Frizzante ...Naturalmente L0621 - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e69be5d3-5f94-469f-8d7b-a185d20cc7d7.html">
+  <a class="flex-item flex-item-right" href="/wines/e69be5d3-5f94-469f-8d7b-a185d20cc7d7.html">
     <img class="flex-bottle" src="/images/e6/9be5d3-5f94-469f-8d7b-a185d20cc7d7/2023-02-17-13-36-32-0B9D6722-4D3A-4F0B-AB0B-E617641AE44C-1-105-c@512.webp"></img>
     <section class="h">Domaine Prieure Roch</section>
     <section class="h text-bolder">Ladoix Rouge - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
+  <a class="flex-item flex-item-left" href="/wines/f506a040-1940-496a-9901-0bb471948800.html">
     <img class="flex-bottle" src="/images/f5/06a040-1940-496a-9901-0bb471948800/2022-07-18-20-56-52-IMG-0813@512.webp"></img>
     <section class="h">Loimer</section>
     <section class="h text-bolder">Gluegglich Glückliches - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
+    <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-07-13-11-00-21-C302CBF7-77DA-49E2-A446-70F1846F6D14-1-105-c@512.webp"></img>
+    <section class="h">Dario Prinčič</section>
+    <section class="h text-bolder">Merlot - 2007</section>
   </a>
 
 </div>

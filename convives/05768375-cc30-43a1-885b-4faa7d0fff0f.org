@@ -1,10 +1,28 @@
-Hello, fellow convive! This page contains a list of wines (45 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (55 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Wednesday, 12 July 2023
+
+*** @Lo Kyiv / [[barberry:/posts/2023-07-12-friulano][They came from Friuli by Alessio]]
+
+- ★ 4.00 [[barberry:/wines/cae4a524-5ede-478f-8444-319c156db522][Paraschos ponka 2012]]
+- ★ 3.90 [[barberry:/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac][Bressan Grigio in Grigio 2014]]
+- ★ 4.10 [[barberry:/wines/8a289b1c-eda1-470c-8622-49175f0c3da7][Paraschos Noir 2011]]
+- ❤️ 4.20 [[barberry:/wines/1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61][Paraschos not special vintage 2012]]
+- ★ 4.20 [[barberry:/wines/c895dd93-47f0-4f68-b56d-fc72b474cdf6][Bressan Pinot Nero 2015]]
+- ★ 4.10 [[barberry:/wines/807634e1-5872-48b4-8409-8c84f34a5465][Bressan Schioppettino 2015]]
+- ★ 4.00 [[barberry:/wines/8465606a-a93d-4081-924d-1c8f424c34db][Bressan Ego Rosso 2015]]
+- ★ 3.90 [[barberry:/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2][Dario Prinčič Merlot 2007]]
+- ★ 3.90 [[barberry:/wines/52815cf9-18ad-4ea9-b7c4-d84930e152c8][Fontanassa Testematte 2001]]
+
+*** @Lo Kyiv
+
+- &nbsp; &emptyscore; [[barberry:/wines/178219e6-ed16-4c47-8a79-5a02a72cabea][Andre et Mireille Tissot Traminer 2016]]
 
 ** Thursday,  6 July 2023
 

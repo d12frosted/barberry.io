@@ -5,25 +5,25 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/8465606a-a93d-4081-924d-1c8f424c34db.html">
     <img class="flex-bottle" src="/images/84/65606a-a93d-4081-924d-1c8f424c34db/2023-07-13-10-59-23-F082ED66-9C17-4179-A3DF-082B7E527A65-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.50</section>
     <section class="h text-bolder">Ego Rosso - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
     <img class="flex-bottle" src="/images/cd/f40888-c2da-4f03-8017-7b0bb23b2aac/2023-07-13-08-52-30-B1E23EFB-10CE-4AE9-8919-46D21DB7AD9B-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Grigio in Grigio - 2014</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/c895dd93-47f0-4f68-b56d-fc72b474cdf6.html">
     <img class="flex-bottle" src="/images/c8/95dd93-47f0-4f68-b56d-fc72b474cdf6/2023-07-13-10-57-02-1E84BEA6-CDB1-4E57-A180-414D20E7026F-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.00</section>
     <section class="h text-bolder">Pinot Nero - 2015</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/807634e1-5872-48b4-8409-8c84f34a5465.html">
     <img class="flex-bottle" src="/images/80/7634e1-5872-48b4-8409-8c84f34a5465/2023-07-13-10-58-05-C280D9B5-2E42-4602-BBDA-D209D4035EB2-1-105-c@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 7.75</section>
     <section class="h text-bolder">Schioppettino - 2015</section>
   </a>
 
