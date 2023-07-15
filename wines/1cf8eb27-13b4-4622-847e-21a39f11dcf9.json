@@ -1,0 +1,35 @@
+{
+  "id": "1cf8eb27-13b4-4622-847e-21a39f11dcf9",
+  "name": "Tattouine Rouge",
+  "full-name": "Matassa Tattouine Rouge 2022",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c6e1fd3f-d02f-4700-8156-0f81ffd71b89",
+      "name": "Garnacha Roja"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.4",
+  "prices": [
+    "1293 UAH",
+    "1510 UAH"
+  ],
+  "available": 2.0,
+  "image": "images/1c/f8eb27-13b4-4622-847e-21a39f11dcf9/2023-07-15-12-08-29-IMG-8454.webp",
+  "rating": "NA"
+}

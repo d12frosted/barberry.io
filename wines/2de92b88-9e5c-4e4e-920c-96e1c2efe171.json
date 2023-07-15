@@ -1,0 +1,39 @@
+{
+  "id": "2de92b88-9e5c-4e4e-920c-96e1c2efe171",
+  "name": "Blanc",
+  "full-name": "Matassa Blanc 2022",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    },
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.4",
+  "prices": [
+    "1292 UAH",
+    "1510 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/2d/e92b88-9e5c-4e4e-920c-96e1c2efe171/2023-07-15-12-10-53-IMG-8464.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "096cb432-9c4e-485f-be72-e4507244e726",
+  "name": "Cuvée Marguerite",
+  "full-name": "Matassa Cuvée Marguerite 2022",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "636944e7-96d6-4771-9a97-8367ff358ceb",
+      "name": "Macabeo"
+    },
+    {
+      "id": "ab59e210-e7ed-4362-832c-4c4daa2b9e05",
+      "name": "Zibibbo"
+    },
+    {
+      "id": "5dd1f18b-e500-4993-9d13-99f4ae4e5ba2",
+      "name": "Muskateller"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "0.4",
+  "prices": [
+    "1106 UAH",
+    "1293 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/09/6cb432-9c4e-485f-be72-e4507244e726/2023-07-15-12-13-27-IMG-8474.webp",
+  "rating": "NA"
+}

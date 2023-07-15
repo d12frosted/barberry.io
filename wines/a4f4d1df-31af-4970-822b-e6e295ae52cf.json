@@ -1,0 +1,39 @@
+{
+  "id": "a4f4d1df-31af-4970-822b-e6e295ae52cf",
+  "name": "Brutal Rouge",
+  "full-name": "Matassa Brutal Rouge 2022",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    },
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    }
+  ],
+  "alcohol": "10.5",
+  "sugar": "0.4",
+  "prices": [
+    "1013 UAH",
+    "1184 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/a4/f4d1df-31af-4970-822b-e6e295ae52cf/2023-07-15-12-12-00-IMG-8466.webp",
+  "rating": "NA"
+}

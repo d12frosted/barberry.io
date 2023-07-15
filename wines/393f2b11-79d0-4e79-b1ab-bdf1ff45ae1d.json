@@ -1,0 +1,35 @@
+{
+  "id": "393f2b11-79d0-4e79-b1ab-bdf1ff45ae1d",
+  "name": "Rouge",
+  "full-name": "Matassa Rouge 2022",
+  "producer": {
+    "id": "cdc80e0e-1163-4b33-916d-e6806e5073e3",
+    "name": "Matassa"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "e98517f0-8379-44db-99c7-f0f0bc669caf",
+      "name": "Cariñena"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "0.4",
+  "prices": [
+    "1292 UAH",
+    "1510 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/39/3f2b11-79d0-4e79-b1ab-bdf1ff45ae1d/2023-07-15-12-09-52-IMG-8462.webp",
+  "rating": "NA"
+}
