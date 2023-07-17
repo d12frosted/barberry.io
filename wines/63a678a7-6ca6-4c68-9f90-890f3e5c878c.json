@@ -26,9 +26,10 @@
   "alcohol": "12",
   "sugar": "NA",
   "prices": [
+    "900 UAH",
     "110 MDL"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/63/a678a7-6ca6-4c68-9f90-890f3e5c878c/2023-07-17-21-33-48-IMG-8526.webp",
   "rating": "NA"
 }

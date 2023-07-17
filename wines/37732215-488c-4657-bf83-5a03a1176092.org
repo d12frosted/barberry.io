@@ -1,15 +1,15 @@
 #+attr_html: :class wine-main-image
-[[file:/images/unknown-wine.webp]]
+[[file:/images/37/732215-488c-4657-bf83-5a03a1176092/2023-07-17-21-33-28-IMG-8511@512.webp]]
 
 - Type :: White Still, Dry
-- Producer :: [[barberry:/producers/5e55dc30-88aa-4f2f-966c-b3688eb42694][Fautor]]
+- Producer :: [[barberry:/producers/5e55dc30-88aa-4f2f-966c-b3688eb42694][Fáutor]]
 - Vintage :: 2021
 - Location :: Moldova, Valul lui Traian
 - Grapes :: Savagnin
 - Alcohol :: 14
 - Sugar :: NA
-- Price :: 370 MDL
-- Cellar :: N/A
+- Price :: 840 UAH, 370 MDL
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -21,7 +21,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1b4231fa-a5ad-4fe9-b805-22f963ed893a.html">
     <img class="flex-bottle" src="/images/1b/4231fa-a5ad-4fe9-b805-22f963ed893a/2020-03-01-17-27-48-05B6AABB-7EF3-4722-B533-63DA99E24633-1-105-c@512.webp"></img>
-    <section class="h">Fautor</section>
+    <section class="h">Fáutor</section>
     <section class="h text-bolder">Negre - 2017</section>
   </a>
 

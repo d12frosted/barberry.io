@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/unknown-wine.webp]]
+[[file:/images/08/27ed12-4ae5-4f83-9264-537a12858a38/2023-07-17-21-33-10-IMG-8517@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/8477c0c0-1756-463b-b302-717afcfa5490][Minis Terrios]]
@@ -8,8 +8,8 @@
 - Grapes :: Cabernet Sauvignon, Fetească neagră
 - Alcohol :: 13
 - Sugar :: NA
-- Price :: 150 MDL
-- Cellar :: N/A
+- Price :: 700 UAH, 150 MDL
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -20,9 +20,9 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/2ea9728e-961a-40b9-8ad8-99272620afa8.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/2e/a9728e-961a-40b9-8ad8-99272620afa8/2023-07-17-21-34-19-IMG-8513@512.webp"></img>
     <section class="h">Minis Terrios</section>
-    <section class="h text-bolder">Roșu Împărat - 2023</section>
+    <section class="h text-bolder">Roșu Împărat - 2019</section>
   </a>
 
 </div>

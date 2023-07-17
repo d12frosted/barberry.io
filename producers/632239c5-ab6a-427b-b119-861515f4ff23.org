@@ -4,13 +4,13 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3b6a3a40-f466-4519-894d-f8a512f25935.html">
-    <img class="flex-bottle" src="/images/3b/6a3a40-f466-4519-894d-f8a512f25935/2023-03-29-13-19-11-748D15E0-87D1-4C55-A3BA-DDA63E54FB97-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/3b/6a3a40-f466-4519-894d-f8a512f25935/2023-07-17-21-32-45-IMG-8520@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">500 Litres Barrels Alb de Oniţcani - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/5a3bf0fa-8865-4367-98e7-cf570c161410.html">
-    <img class="flex-bottle" src="/images/5a/3bf0fa-8865-4367-98e7-cf570c161410/2023-03-29-13-20-39-A2A02EC1-4EF3-4213-BA6C-C95914C1F7A6-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/5a/3bf0fa-8865-4367-98e7-cf570c161410/2023-07-17-21-34-04-IMG-8523@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Black Label Pinot Noir - 2018</section>
   </a>

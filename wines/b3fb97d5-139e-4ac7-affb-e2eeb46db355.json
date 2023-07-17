@@ -1,0 +1,35 @@
+{
+  "id": "b3fb97d5-139e-4ac7-affb-e2eeb46db355",
+  "name": "Late Harvest Cabernet Sauvignon Blanc de Noir",
+  "full-name": "Chateau Cristi Late Harvest Cabernet Sauvignon Blanc de Noir 2021",
+  "producer": {
+    "id": "2bed61a3-c513-47a6-baed-7431e42d991f",
+    "name": "Chateau Cristi"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "sweet",
+  "country": {
+    "id": "6ce0bd2d-9018-4c5f-b896-639a85a6e7a4",
+    "name": "Moldova"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "9.5",
+  "sugar": "NA",
+  "prices": [
+    "880 UAH",
+    "300 MDL"
+  ],
+  "available": 1.0,
+  "image": "images/b3/fb97d5-139e-4ac7-affb-e2eeb46db355/2023-07-17-21-34-57-IMG-8515.webp",
+  "rating": "NA"
+}

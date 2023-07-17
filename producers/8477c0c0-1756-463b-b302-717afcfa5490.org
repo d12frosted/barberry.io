@@ -4,15 +4,15 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/0827ed12-4ae5-4f83-9264-537a12858a38.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/08/27ed12-4ae5-4f83-9264-537a12858a38/2023-07-17-21-33-10-IMG-8517@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Harap Alb - 2022</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/2ea9728e-961a-40b9-8ad8-99272620afa8.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/2e/a9728e-961a-40b9-8ad8-99272620afa8/2023-07-17-21-34-19-IMG-8513@512.webp"></img>
     <section class="h">★ -</section>
-    <section class="h text-bolder">Roșu Împărat - 2023</section>
+    <section class="h text-bolder">Roșu Împărat - 2019</section>
   </a>
 
 </div>

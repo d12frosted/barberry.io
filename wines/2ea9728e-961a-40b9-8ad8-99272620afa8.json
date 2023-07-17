@@ -1,12 +1,12 @@
 {
   "id": "2ea9728e-961a-40b9-8ad8-99272620afa8",
   "name": "Roșu Împărat",
-  "full-name": "Minis Terrios Roșu Împărat 2023",
+  "full-name": "Minis Terrios Roșu Împărat 2019",
   "producer": {
     "id": "8477c0c0-1756-463b-b302-717afcfa5490",
     "name": "Minis Terrios"
   },
-  "vintage": "2023",
+  "vintage": "2019",
   "base-vintage": null,
   "degorgee": null,
   "sur-lie": null,
@@ -34,9 +34,10 @@
   "alcohol": "14.9",
   "sugar": "NA",
   "prices": [
+    "2000 UAH",
     "280 MDL"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/2e/a9728e-961a-40b9-8ad8-99272620afa8/2023-07-17-21-34-19-IMG-8513.webp",
   "rating": "NA"
 }

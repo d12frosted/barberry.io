@@ -1,10 +1,10 @@
 {
   "id": "37732215-488c-4657-bf83-5a03a1176092",
   "name": "Orange Traminer",
-  "full-name": "Fautor Orange Traminer 2021",
+  "full-name": "Fáutor Orange Traminer 2021",
   "producer": {
     "id": "5e55dc30-88aa-4f2f-966c-b3688eb42694",
-    "name": "Fautor"
+    "name": "Fáutor"
   },
   "vintage": "2021",
   "base-vintage": null,
@@ -26,9 +26,10 @@
   "alcohol": "14",
   "sugar": "NA",
   "prices": [
+    "840 UAH",
     "370 MDL"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/37/732215-488c-4657-bf83-5a03a1176092/2023-07-17-21-33-28-IMG-8511.webp",
   "rating": "NA"
 }
