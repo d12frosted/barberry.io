@@ -1,15 +1,22 @@
 [[file:/images/2023-07-18-moldova/2023-07-17-21-36-16-IMG-8539.webp]]
 
-When you google videos on the history of Moldova, you can find 'Why does Moldova exist?' among the top-ranked ones. Frankly, I don't have a comprehensive answer to this philosophical question. But almost every 'quick facts list about Moldova' I checked contains a bullet or two related to wines. They mention traditions backed by nature, production volumes, consumption per capita[fn:1] and the largest in the world wine cellar by number of bottles. Indeed, Mileștii Mici cellars hold around 1.5 million bottles[fn:2] (at least, they did in 2005). Do you know where is the second-largest wine cellar? Again, in Moldova! Cricova claims[fn:3] they store more than 1.2 million bottles. Why do they stash instead of drinking?  I don't know. It's another philosophical mystery to me. Yet these facts make my spidey sense tingle. Probably there is some connection between Moldovans and wines. Let's see.
+#+begin_quote
+Since 2006 our government has classified wine as a food product rather than an alcoholic beverage.
+
+--- Dan Prisacaru
+#+end_quote
+
+When you google videos on the history of Moldova, you can find 'Why does Moldova exist?' among the top-ranked ones. Frankly, I don't have a comprehensive answer to this philosophical question. But almost every 'quick facts list about Moldova' I checked contains a bullet or two related to wines. They mention traditions backed by nature, production volumes, consumption per capita[fn:1] and the largest in the world wine cellar by number of bottles. Indeed, Mileștii Mici cellars hold around 1.5 million bottles[fn:2]. Do you know where is the second-largest wine cellar? Again, in Moldova! Cricova claims[fn:3] they store more than 1.2 million bottles. Why do they stash instead of drinking?  I don't know. It's another philosophical mystery to me. Yet these facts make my spidey sense tingle. Probably there is some connection between Moldovans and wines. Let's see.
 
 1. [[barberry:/wines/3b6a3a40-f466-4519-894d-f8a512f25935][Novak 500 Litres Barrels Alb de Oniţcani 2018]]
 2. [[barberry:/wines/0827ed12-4ae5-4f83-9264-537a12858a38][Minis Terrios Harap Alb 2022]]
 3. [[barberry:/wines/37732215-488c-4657-bf83-5a03a1176092][Fáutor Orange Traminer 2021]]
-4. [[barberry:/wines/63a678a7-6ca6-4c68-9f90-890f3e5c878c][Agrici Cabernet Sauvignon Rosé 2016]]
-5. [[barberry:/wines/5a3bf0fa-8865-4367-98e7-cf570c161410][Novak Black Label Pinot Noir 2018]]
-6. [[barberry:/wines/2ea9728e-961a-40b9-8ad8-99272620afa8][Minis Terrios Roșu Împărat 2019]]
-7. [[barberry:/wines/94132444-81c0-451c-adea-f021cc1e68da][Castel Mimi Merlot 2012]]
-8. [[barberry:/wines/b3fb97d5-139e-4ac7-affb-e2eeb46db355][Chateau Cristi Late Harvest Cabernet Sauvignon Blanc de Noir 2021]] (Bonus)
+4. [[barberry:/wines/5a3bf0fa-8865-4367-98e7-cf570c161410][Novak Black Label Pinot Noir 2018]]
+5. [[barberry:/wines/2ea9728e-961a-40b9-8ad8-99272620afa8][Minis Terrios Roșu Împărat 2019]]
+6. [[barberry:/wines/94132444-81c0-451c-adea-f021cc1e68da][Castel Mimi Merlot 2012]]
+7. [[barberry:/wines/63a678a7-6ca6-4c68-9f90-890f3e5c878c][Agrici Cabernet Sauvignon Rosé 2016]] (bonus)
+8. [[barberry:/wines/b3fb97d5-139e-4ac7-affb-e2eeb46db355][Chateau Cristi Late Harvest Cabernet Sauvignon Blanc de Noir 2021]] (bonus)
+9. [[barberry:/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d][Testalonga El Bandito I am the Ninja 2022]] (welcome)
 
 * Scores
 :PROPERTIES:
@@ -19,16 +26,15 @@ When you google videos on the history of Moldova, you can find 'Why does Moldova
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms | sdev | favourite |   price | QPR |
-|---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    |  390.00 | -   |
-| Wine #2 | -   | -    | *0.00*    |  700.00 | -   |
-| Wine #3 | -   | -    | *0.00*    |  840.00 | -   |
-| Wine #4 | -   | -    | *0.00*    |  900.00 | -   |
-| Wine #5 | -   | -    | *0.00*    |  410.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 2000.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 2400.00 | -   |
-| Wine #8 | -   | -    | *0.00*    |  880.00 | -   |
+|          |      rms |   sdev | favourite |   price |      QPR |
+|----------+----------+--------+-----------+---------+----------|
+| Wine #1  |   3.8746 | 0.0147 |      1.00 |  390.00 |   5.0896 |
+| Wine #2  |   3.8879 | 0.0469 |      1.00 |  700.00 |   2.8740 |
+| Wine #3  |   3.9459 | 0.0395 |      0.00 |  840.00 |   2.6149 |
+| Wine #4  |   4.0399 | 0.1020 |      3.00 |  410.00 | *6.0996* |
+| Wine #5  |   4.1756 | 0.0238 |      3.00 | 2000.00 |   1.5616 |
+| Wine #6  | *4.2879* | 0.0524 |    *4.00* | 2400.00 |   1.5420 |
+| Bonus #1 |   4.1271 | 0.0176 |      0.00 |  900.00 |   3.2246 |
 
 How to read this table:
 
@@ -38,19 +44,13 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
-* Moldova
+* Travel map
 :PROPERTIES:
 :ID:                     e61b50b4-06b2-4c77-9e25-936450ed23d8
 :END:
 
 #+caption: Florești is not part of Codru, heh. The image is based on one from https://wineofmoldova.com/
 [[file:/images/2023-07-18-moldova/2023-07-18-09-35-57-moldova-wineries-marked.webp]]
-
-#+begin_quote
-Moldova has much going for it: gentle rolling hills on the same latitude as Burgundy, varied and vine-friendly topography, and a climate tempered by the Black Sea.
-
---- [[https://www.octopusbooks.co.uk/imprint/octopus/mitchell-beazley/page/octopus-books/worldatlasofwine/][Robinson, Jancis, and Hugh Johnson. The World Atlas of Wine 8th Edition. Illustrated, Mitchell Beazley, 2019.]]
-#+end_quote
 
 * Novak 500 Litres Barrels Alb de Oniţcani 2018
 :PROPERTIES:
@@ -74,9 +74,9 @@ Novak Winery is a winery founded in 2004 on the basis of the old enterprise from
 
 The Novak family made a considerable effort to plant a large area of vines with Alb de Onițcani. This grape was created by a group of researchers from the Chișinău Agrarian Institute and Moldovan Wine Research Institute "Vierul" in the 1960s. The authors are D. Verderevschi, C. Voitovici, and I. Naidenova; co-authors are V. Buimistru, T. Carcevscaia, P. Apruda, B. Smentina, and V. Ponomarcenco. Alb de Onițcani is a technical variety obtained from pollination of Gyulyabi Chil with Mixture of Pollen Pierrelle + Seyanets 244. The grape is resistant to cold, mould, rot and mildew. Ok, you definitely had to learn this information. Thanks for following me.
 
-Alright, alright. Forget this nolifer's information. Except for its hard-to-pronounce name, Alb de Onițcani is known for its high acidity. This holds true especially when you plant it in colder regions (e.g. Codru). Because of this, most winemakers use Alb de Onițcani only in bulk production. But partially thanks to global warming, in 2016, Andrei Novak produced the first Alb de Onițcani on the market with no other grapes blended. It was made from vineyards planted in 2008-2009 in the village of Tartaul (Valul lui Traian, which is Southern Moldova).
+Alright, alright. Forget this nolifer's information. Except for its hard-to-pronounce name, Alb de Onițcani is known for its late ripening and high acidity. This holds true especially when you plant it in colder regions (e.g. Codru). Because of this, most winemakers use Alb de Onițcani only in bulk production. But partially thanks to global warming, in 2016, Andrei Novak produced the first Alb de Onițcani on the market with no other grapes blended. It was made from vineyards planted in 2008-2009 in the village of Tartaul (Valul lui Traian, which is Southern Moldova).
 
-Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrels. Each of the three wines in this line is aged for 10 months in barrles of 500 litres volume.
+Today we have a bottle of Alb de Onițcani from a newer series - 500 Litres Barrels. Each of the three wines in this series is aged for 10 months in barrels of 500 litres volume.
 
 * Minis Terrios Harap Alb 2022
 :PROPERTIES:
@@ -96,6 +96,10 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 - sugar: N/A
 - price: 700 UAH
 
+This producer was on my wish list for a long time. I missed their wines during my last visit to Moldova, but luckily Dimitry brought two bottles from this fairy-tale winery, so we all can have a taste of "small plots".
+
+Without even tasting these wines, I find them brilliant thanks to the naming. You see, the first wine that Dan Prisacaru produced was Roșu Împărat 2015. It was named after an antagonist (Red Emperor) from Povestea lui Harap Alb (The Story of Harap Alb), a fairy tale by Ion Creangă.
+
 #+begin_verse
 - [..] Numai să-mi spui dinainte cum să te duc: ca vântul ori ca gândul?
 - De mi-i duce ca gândul, tu mi-i prăpădi, iar de mi-i duce ca vântul, tu mi-i folosi, căluţul meu [..]
@@ -103,7 +107,9 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 --- Povestea lui Harap-Alb de Ion Creangă
 #+end_verse
 
+Harap Alb is the protagonist of the story. Harap Alb often refers to a handsome man (Făt-Frumos or Prince Charming), usually with dark features. Why dark features? Because Harap is derived from Arab and usually means Moor. And Alb means 'white'. A bit funny, but Harap Alb means White Moor, White Arab or White African. And here comes the wine made of dark-skinned grapes. And yes, it's a white wine, Blanc de Noirs. I find it fascinating and beautiful.
 
+Minis Terrios Harap Alb 2022 is a blend of Cabernet Sauvignon (85%) and Fetească Neagră (15%). The grapes are processed separately. The wine ages for two months with bâtonnage. Harap Alb disguised in bear fur.
 
 * Fáutor Orange Traminer 2021
 :PROPERTIES:
@@ -123,23 +129,11 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 - sugar: N/A
 - price: 840 UAH
 
-* Agrici Cabernet Sauvignon Rosé 2016
-:PROPERTIES:
-:ID:                     d248bace-d59b-47aa-89d9-cef9b02291e5
-:END:
+The Fáutor family winery was founded at the end of the late 20th century. The vineyards are located in Tigheci (IGP Valul lui Traian) and extend over an area of approximately 350 ha. The name "Fáutor" derives its origin from the Latin language and means "creator" or "author".
 
-#+attr_html: :class bottle-right
-[[file:/images/2023-07-18-moldova/2023-07-17-21-33-48-IMG-8526.webp]]
+Like many other wineries in Moldova, Fáutor experiments with skin-contact white wines. They have two orange wines - Riesling and Traminer. And while the former makes a lot of sense since it's a common grape in Moldova (ranks 8th place[fn:4] in terms of planted area, covering 959.2 hectares), Traminer (e.g. Savagnin) is something atypical. And while there is ambiguity, I am pretty sure they actually use Traminer Roz (e.g. Gewürztraminer), which ranks 10th place[fn:4] in terms of planted area, covering 623.4 hectares.
 
-- producer: [[barberry:/producers/9a57bc0c-df91-4eed-810d-743bb159c8dd][Agrici]]
-- name: [[barberry:/wines/63a678a7-6ca6-4c68-9f90-890f3e5c878c][Cabernet Sauvignon Rosé]]
-- vintage: 2016
-- grapes: Cabernet Sauvignon
-- region: Codru
-- location: Moldova
-- alcohol: 12
-- sugar: N/A
-- price: 900 UAH
+Orange Traminer comes from various plots covering 8 hectares in total. The juice is fermented with skins on lees for 35 days. Clarification and fermentation take place in stainless steel vessels at a controlled temperature of 15˚C – 17˚C. Then the wine is aged in stainless steel tanks for 12 months. 2932 bottles produced.
 
 * Novak Black Label Pinot Noir 2018
 :PROPERTIES:
@@ -159,6 +153,8 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 - sugar: N/A
 - price: 410 UAH
 
+While Alb de Onițcani is a signature grape, Andrei Novak cultivates many other grapes. The Black Label series consists of nine red wines made from various local and international wines: Pinot Noir, Saperavi, Rară Neagră, Fetească Neagră, Merlot, Cabernet Franc and Cabernet Sauvignon. Today we have 100% Pinot Noir produced conventionally. The wine was aged in Seguin Moreau barrels for 6 months. 9800 bottles produced.
+
 * Minis Terrios Roșu Împărat 2019
 :PROPERTIES:
 :ID:                     810f649f-d069-40d4-ab9c-3975c80e2867
@@ -177,6 +173,12 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 - sugar: N/A
 - price: 2000 UAH
 
+The Minis Terrios winery was founded in 2013 and quickly became a functional winery thanks to the founders' hard work and enthusiasm. The Merlot Minis Terrios 2013 was the first wine produced and was warmly received by Moldovan consumers. The grapes used in the production of the wine are grown on the winery's own plantations located in Haragîș village, Cantemir district (IGP Valul lui Traian). Side note: we are still figuring out where exactly the vineyards are located; if you know something please contact boris at barberry.io.
+
+One of the first wines released by Dan Prisacaru was Roșu Împărat 2015. It is named after the tyrannical emperor from the Story of Harap Alb. Events of the story lead Harap Alb (the protagonist) to the quest of capturing the Red Emperor's daughter. After passing multiple tests (of course, with help from his fellow companions), Harap Alb seizes the princess and eventually falls in love with her. If you are curious to learn more, I urge you to read this short bedtime story.
+
+What I find intriguing is that the first release of this wine was based on Fetească Neagră, Rară Neagră and Cabernet Sauvignon. The stock quickly run out as it was a successful release. Although the world didn't see the next vintage as Dan didn't have Fetească Neagră. In 2017, he replaced the "moody" Rară Neagră with Merlot. The blend used in 2019 is roughly 50/25/25 of Fetească Neagră, Merlot and Cabernet Sauvignon. It is aged in French oak barrels for 15 months. The result? Marvellous.
+
 * Castel Mimi Merlot 2012
 :PROPERTIES:
 :ID:                     713c0e7a-b392-45c3-a106-d5ab7a452b82
@@ -194,6 +196,39 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 - alcohol: 14.5
 - sugar: 0
 - price: 2400 UAH
+
+Castel Mimi is the winery most Ukrainians should be familiar with. After all, this was the place for European Political Community Summit on June 1, 2023. Not sure if Volodymyr Zelenskyy tasted any of these wines during that visit, but the place is beautifully breathtaking.
+
+Castel Mimi is one of the most visited tourist sites in Moldova. People come to enjoy the scenery, to taste delicious wines and gorgeous local food. Quire relaxing, I must say.
+
+#+caption: Photo from https://www.castelmimi.md/
+[[file:/images/2023-07-18-moldova/2023-07-18-15-41-52-2-Top-Moldovan-winery-with-tours-hotel-restaurant-and-event-venues-scaled.webp]]
+
+The winery was founded in 1893 by Constantin Mimi in Bulboaca village (IGP Codru). It is considered one of the most modern wineries of the Republic of Moldova, given its state-of-the-art equipment used for grape processing, must fermentation, wine storage and bottling, able to highlight the specific character of the Codru wine area. The winery has the largest number of barrels in the Republic of Moldova, over 1000 barrels, mostly, French oak used in the maturation process. Which is more than apparent in the wine we are tasting today.
+
+The Reserve Collection represents the highest level of wine-making perfection achieved by Castel Mimi. At least, this is how they present two wines made from the best yields of 2012 - Merlot and Cabernet Sauvignon. Both have been matured in French oak barrels for 36 months, and aged in bottles for a total of 4 years before release. It is worth mentioning that 2012 was the only release in this series. And today we
+
+* Agrici Cabernet Sauvignon Rosé 2016
+:PROPERTIES:
+:ID:                     d248bace-d59b-47aa-89d9-cef9b02291e5
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-18-moldova/2023-07-17-21-33-48-IMG-8526.webp]]
+
+- producer: [[barberry:/producers/9a57bc0c-df91-4eed-810d-743bb159c8dd][Agrici]]
+- name: [[barberry:/wines/63a678a7-6ca6-4c68-9f90-890f3e5c878c][Cabernet Sauvignon Rosé]]
+- vintage: 2016
+- grapes: Cabernet Sauvignon
+- region: Codru
+- location: Moldova
+- alcohol: 12
+- sugar: N/A
+- price: 900 UAH
+
+Unlike other wineries presented today, I haven't tasted nor heard about Agrici before Dimitry brought me a bottle of this rosé. And it's interesting because the winery operates on the famous Mileştii Mici winery. Aye, the one that holds the record of the largest wine cellar in the world by number of bottles.
+
+The history of the winery is a bit confusing to follow. As far as I understand, the winery was founded in 1958 by the state factory "Moldova". And The State Enterprise Quality Wines Industrial Complex "Mileștii Mici" was created eleven years later. But officially, the winery named Mileștii Mici was created in 1997. And the first range of bottled wines under the agrici.wine brand name was launched during the 2017 edition of the wine festival – Spring Waltz Opening. Honestly, I don't fully understand the connection between today's Mileștii Mici and Agrici Wine. So let's jump straight to the wine.
 
 * Chateau Cristi Late Harvest Cabernet Sauvignon Blanc de Noir 2021
 :PROPERTIES:
@@ -222,10 +257,16 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 2. [[https://www.povesti-pentru-copii.com/ion-creanga/povestea-lui-harap-alb.html][Povestea lui Harap-Alb de Ion Creangă]]
 3. [[https://www.vivc.de/index.php?r=passport/view&id=14020][Alb de Onițcani Passport data]]
 4. [[https://wineofmoldova.com/][Wine of Moldova]]
+5. [[https://www.castelmimi.md/][Castel Mimi]]
+6. [[https://vincuvin.shop][Vin cu Vin]]
+7. [[https://agrici.wine/][Agrici Wine]]
+8. [[https://wine-and-spirits.md/en/minis-terrios-fairytale-wines-by-dan-prisacaru/]["Minis Terrios": fairytale wines by Dan Prisacaru by Anghelina Taran]]
+9. [[https://www.smh.com.au/traveller/inspiration/moldova-things-to-do-europes-new-fine-wines-come-from-an-unexpected-place-20190320-h1cld0.html][Moldova things to do: Europe's new fine wines come from an unexpected place by Kerry van der Jagt]]
 
 [fn:1] https://www.guinnessworldrecords.com/world-records/78287-largest-alcohol-consumption-per-capita
 [fn:2] https://www.guinnessworldrecords.com/world-records/largest-wine-cellar-by-number-of-bottles
 [fn:3] https://magazine.winerist.com/ask-winerist/where-in-the-world-is-the-largest-wine-cellar
+[fn:4] https://wineofmoldova.com/en/international-grape-varieties-in-moldova/
 
 * Raw scores
 :PROPERTIES:
@@ -235,7 +276,17 @@ Today we have a bottle of Alb de Onițcani from a newer line - 500 Litres Barrel
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|---------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Boris B | -       | -       | -       | -       | -       | -       | -       | -       |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Bonus #1 |
+|--------------+---------+---------+---------+---------+---------+---------+----------|
+| Ivan M       |    3.90 |    3.70 |    4.10 |    3.70 |  *4.20* |    4.30 |     4.20 |
+| Julie B      |    3.70 |    3.90 |    3.80 |    3.90 |    4.00 |  *4.20* |     4.10 |
+| Dmytro D     |    4.00 |    4.10 |    4.20 |    4.20 |  *4.40* |  *4.50* |     4.30 |
+| Ivietta K    |    4.00 |    4.10 |    3.80 |  *4.40* |    4.30 |    4.40 |     4.10 |
+| Artem O      |    3.90 |  *4.20* |    4.20 |    3.80 |    4.00 |    4.00 |        - |
+| Anna Kh      |    4.10 |    3.40 |    4.10 |  *4.60* |    4.40 |    4.40 |     4.15 |
+| Rostyslav Ya |    3.80 |    3.70 |    3.60 |  *4.40* |    4.20 |    4.40 |     4.20 |
+| Mariia S     |    3.80 |    3.90 |    3.65 |    3.60 |    4.10 |  *4.30* |     4.10 |
+| Oleksandr R  |  *3.90* |    3.80 |    4.00 |    4.10 |    3.90 |    3.70 |     4.30 |
+| Dimitry G    |    3.70 |    4.00 |    4.00 |    3.90 |    4.20 |  *4.50* |     3.90 |
+| Boris B      |    3.80 |    3.90 |    3.90 |    3.70 |  *4.20* |    4.40 |     3.90 |
 
