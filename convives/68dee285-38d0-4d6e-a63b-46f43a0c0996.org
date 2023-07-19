@@ -1,10 +1,17 @@
-Hello, fellow convive! This page contains a list of wines (98 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (100 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Tuesday, 18 July 2023
+
+*** @Subota Cafe / [[barberry:/posts/2023-07-18-moldova][Vinul Moldovei Vol. 1]]
+
+- ★ 3.80 [[barberry:/wines/3b6a3a40-f466-4519-894d-f8a512f25935][Novak 500 Litres Barrels Alb de Oniţcani 2018]]
+- ★ 3.90 [[barberry:/wines/0827ed12-4ae5-4f83-9264-537a12858a38][Minis Terrios Harap Alb 2022]]
 
 ** Tuesday,  6 June 2023
 

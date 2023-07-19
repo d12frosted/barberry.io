@@ -9,11 +9,19 @@
 - Alcohol :: 14
 - Sugar :: NA
 - Price :: 390 UAH, 240 MDL
-- Cellar :: 1 bottle
+- Cellar :: N/A
+
+** Producer
+
+Novak Winery is a winery founded in 2004 on the basis of the old enterprise from 1977 in the village of Tartaul, Cantemir district of the Republic of Moldova. The vineyards from which the wines are produced stretch over 30 hectares in IGP Valul lui Traian. The vineyards are planted with local and international varieties, and the winery pays more attention to older local varieties.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-07-18 - ☆ 7.50
+
+Wine #1 on [[barberry:/posts/2023-07-18-moldova][Vinul Moldovei Vol. 1]].
+
+Novak is quite famous for mostly unknown Alb de Oniţcani. Compared to the white label, this one offers a much more generous and multilayered bouquet of acacia, boxwood, hay, peach, pomelo and butter. And what begins so wonderfully turns into quite a heavy mouthfeel. The alcohol is not well-balanced and it blurs acidity. On the other hand, the aftertaste is quite long with a nice bitterness in the finish. 240 MDL? I'll buy it again to pair with food.
 
 ** Related
 
@@ -47,6 +55,12 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/f5/eddf26-7538-46bf-89ff-75a98a5f628b/2023-03-29-13-16-20-AA41214C-060E-4DA7-9A2E-0D75A547A726-1-105-c@512.webp"></img>
     <section class="h">Novak</section>
     <section class="h text-bolder">Black Label Red Blend #1 - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0827ed12-4ae5-4f83-9264-537a12858a38.html">
+    <img class="flex-bottle" src="/images/08/27ed12-4ae5-4f83-9264-537a12858a38/2023-07-17-21-33-10-IMG-8517@512.webp"></img>
+    <section class="h">Minis Terrios</section>
+    <section class="h text-bolder">Harap Alb - 2022</section>
   </a>
 
 </div>

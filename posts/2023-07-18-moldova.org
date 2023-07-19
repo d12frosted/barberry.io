@@ -33,7 +33,7 @@ P.S. Want to learn about upcoming events? Join [[https://t.me/barberrygarden][Ba
 | Wine #1  |   3.8746 | 0.0147 |      1.00 |  390.00 |   5.0896 |
 | Wine #2  |   3.8879 | 0.0469 |      1.00 |  700.00 |   2.8740 |
 | Wine #3  |   3.9459 | 0.0395 |      0.00 |  840.00 |   2.6149 |
-| Wine #4  |   4.0399 | 0.1020 |      3.00 |  410.00 | *6.0996* |
+| Wine #4  |   4.0483 | 0.0969 |      3.00 |  410.00 | *6.1841* |
 | Wine #5  |   4.1756 | 0.0238 |      3.00 | 2000.00 |   1.5616 |
 | Wine #6  | *4.2879* | 0.0524 |    *4.00* | 2400.00 |   1.5420 |
 | Bonus #1 |   4.1271 | 0.0176 |      0.00 |  900.00 |   3.2246 |
@@ -124,7 +124,7 @@ Minis Terrios Harap Alb 2022 is a blend of Cabernet Sauvignon (85%) and Feteasc�
 - producer: [[barberry:/producers/5e55dc30-88aa-4f2f-966c-b3688eb42694][Fáutor]]
 - name: [[barberry:/wines/37732215-488c-4657-bf83-5a03a1176092][Orange Traminer]]
 - vintage: 2021
-- grapes: Savagnin
+- grapes: Gewürztraminer
 - region: Valul lui Traian
 - location: Moldova
 - alcohol: 14
@@ -290,5 +290,5 @@ The history of the winery is a bit confusing to follow. As far as I understand, 
 | Mariia S     |    3.80 |    3.90 |    3.65 |    3.60 |    4.10 |  *4.30* |     4.10 |
 | Oleksandr R  |  *3.90* |    3.80 |    4.00 |    4.10 |    3.90 |    3.70 |     4.30 |
 | Dimitry G    |    3.70 |    4.00 |    4.00 |    3.90 |    4.20 |  *4.50* |     3.90 |
-| Boris B      |    3.80 |    3.90 |    3.90 |    3.70 |  *4.20* |    4.40 |     3.90 |
+| Boris B      |    3.80 |    3.90 |    3.90 |    3.80 |  *4.20* |    4.40 |     3.90 |
 
