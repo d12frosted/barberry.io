@@ -63,5 +63,35 @@ Novak is quite famous for mostly unknown Alb de Oniţcani. Compared to the white
     <section class="h text-bolder">Harap Alb - 2022</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/2ea9728e-961a-40b9-8ad8-99272620afa8.html">
+    <img class="flex-bottle" src="/images/2e/a9728e-961a-40b9-8ad8-99272620afa8/2023-07-17-21-34-19-IMG-8513@512.webp"></img>
+    <section class="h">Minis Terrios</section>
+    <section class="h text-bolder">Roșu Împărat - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/37732215-488c-4657-bf83-5a03a1176092.html">
+    <img class="flex-bottle" src="/images/37/732215-488c-4657-bf83-5a03a1176092/2023-07-17-21-33-28-IMG-8511@512.webp"></img>
+    <section class="h">Fáutor</section>
+    <section class="h text-bolder">Orange Traminer - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/63a678a7-6ca6-4c68-9f90-890f3e5c878c.html">
+    <img class="flex-bottle" src="/images/63/a678a7-6ca6-4c68-9f90-890f3e5c878c/2023-07-17-21-33-48-IMG-8526@512.webp"></img>
+    <section class="h">Agrici</section>
+    <section class="h text-bolder">Cabernet Sauvignon Rosé - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/94132444-81c0-451c-adea-f021cc1e68da.html">
+    <img class="flex-bottle" src="/images/94/132444-81c0-451c-adea-f021cc1e68da/2023-07-17-21-34-45-IMG-8528@512.webp"></img>
+    <section class="h">Castel Mimi</section>
+    <section class="h text-bolder">Merlot - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b3fb97d5-139e-4ac7-affb-e2eeb46db355.html">
+    <img class="flex-bottle" src="/images/b3/fb97d5-139e-4ac7-affb-e2eeb46db355/2023-07-17-21-34-57-IMG-8515@512.webp"></img>
+    <section class="h">Chateau Cristi</section>
+    <section class="h text-bolder">Late Harvest Cabernet Sauvignon Blanc de Noir - 2021</section>
+  </a>
+
 </div>
 #+end_export
