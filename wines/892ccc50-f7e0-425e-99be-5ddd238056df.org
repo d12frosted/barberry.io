@@ -9,7 +9,7 @@
 - Alcohol :: 10.5
 - Sugar :: 0.4
 - Price :: 843 UAH, 1060 UAH, 906 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -30,6 +30,10 @@ Now many people come to Matassa to gain experience from the legendary winemaker.
 *** 2023-01-27 - ☆ 8.00
 
 A lovely blend of Syrah and Muscat. Light, delicate and sophisticated. A mixture of dogwood, red flowers, cherry and underbrush. Volatile acidity is also present, but in tiny amounts only to add complexity to the bouquet and highlight the freshness of the palate. Juicy and dangerously quaffable. I simply don't understand how these bottles are still available on the shelf.
+
+*** 2023-07-20 - ☆ 8.50
+
+What a beautiful bouquet of ripe red berries, dogwood, flowers, bitter herbs, warm spices and underbrush. The wine is delicate, fresh and perfectly balanced. I adore how quaffable and sophisticated it is at the same time. It's interesting to see how it develops. Unfortunately, I am only one bottle left, and it's so tempting to finish it.
 
 ** Related
 
@@ -203,13 +207,19 @@ A lovely blend of Syrah and Muscat. Light, delicate and sophisticated. A mixture
     <section class="h text-bolder">Wehler Klosterberg Pinot Blanc - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
+  <a class="flex-item flex-item-left" href="/wines/4a453bce-a3b4-4666-b4a4-d7ad780b9f34.html">
+    <img class="flex-bottle" src="/images/4a/453bce-a3b4-4666-b4a4-d7ad780b9f34/2023-07-02-14-57-29-IMG-8155@512.webp"></img>
+    <section class="h">Aphros</section>
+    <section class="h text-bolder">Phaunus Pet Nat Brut Rosé - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4b234919-3ae7-45b0-813b-970cd9ca74a0.html">
     <img class="flex-bottle" src="/images/4b/234919-3ae7-45b0-813b-970cd9ca74a0/2023-05-24-16-46-20-IMG-7174@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Poulsard en Amphore - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
+  <a class="flex-item flex-item-left" href="/wines/66132041-ecfd-4d79-8f67-6e7aa512947b.html">
     <img class="flex-bottle" src="/images/66/132041-ecfd-4d79-8f67-6e7aa512947b/2023-01-28-09-28-41-A0772CD8-C3A7-4332-A74B-D27F697E9FAC-1-105-c@512.webp"></img>
     <section class="h">De Sousa</section>
     <section class="h text-bolder">Réserve Grand Cru Blanc de Blancs (d2021) - NV</section>
