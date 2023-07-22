@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/f6b0f7c9-4777-46d8-bf8d-b6417d097d98.html">
+    <img class="flex-bottle" src="/images/f6/b0f7c9-4777-46d8-bf8d-b6417d097d98/2023-07-22-16-21-10-IMG-8570@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Valpolicella - 2020</section>
+  </a>
+
+</div>
+#+end_export

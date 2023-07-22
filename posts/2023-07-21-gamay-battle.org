@@ -1,0 +1,50 @@
+
+* Scores
+:PROPERTIES:
+:ID:                     bddb7a05-d00b-4afe-a3ac-dbbd1840f5c5
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0119 | 0.0226 |      0.00 | 1250.00 |   1.9465 |
+| Wine #2 |   3.9504 | 0.0388 |      0.00 |  900.00 | *2.4572* |
+| Wine #3 |   4.1661 | 0.0205 |    *4.00* | 7500.00 |   0.4106 |
+| Wine #4 |   3.7857 | 0.0983 |      0.00 |  950.00 |   1.8045 |
+| Wine #5 |   4.0020 | 0.0164 |      0.00 | 1500.00 |   1.0000 |
+| Wine #6 |   4.0155 | 0.0517 |      0.00 | 1250.00 |   1.9465 |
+| Wine #7 |   3.7961 | 0.0390 |      0.00 | 2500.00 |   0.7041 |
+| Wine #8 | *4.2154* | 0.0536 |    *4.00* | 2500.00 |   1.3216 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     179a480f-e554-4325-a401-1a02f2387dd6
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|            | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Maryna Yu  |    4.30 |    4.40 |    4.10 |    4.40 |    4.10 |    4.50 |    3.90 |  *4.70* |
+| Yaroslav M |    4.00 |    4.10 |  *4.30* |    3.90 |    4.20 |    4.20 |  +3.70+ |    4.30 |
+| Anya I     |    4.00 |    4.10 |    4.10 |    3.80 |    4.00 |    4.10 |    4.00 |  *4.30* |
+| Mykola T   |    4.00 |    3.80 |  *4.20* |    3.80 |    4.10 |    4.00 |    3.80 |    4.20 |
+| Ivan M     |    3.80 |    4.10 |    4.30 |    3.70 |    4.00 |    4.00 |    3.50 |  *4.30* |
+| Anna P     |    4.10 |    3.80 |    4.10 |    3.70 |    3.80 |    3.80 |    3.70 |  *4.20* |
+| David H    |    4.10 |    3.80 |    4.10 |    3.90 |    3.90 |    3.90 |    3.90 |    4.10 |
+| Diana M    |    4.00 |    3.70 |    3.80 |    3.90 |    3.80 |    3.60 |    4.10 |    3.70 |
+| Vova U     |    4.10 |    3.90 |    4.30 |    3.80 |    4.10 |    4.10 |    3.60 |    4.30 |
+| Mykola Ch  |    3.70 |    3.80 |  *4.30* |    3.60 |    3.90 |    3.80 |    4.00 |    4.20 |
+| Boris B    |    4.00 |    3.90 |  *4.20* |  +3.00+ |    4.10 |    4.10 |  +3.50+ |    4.00 |
+

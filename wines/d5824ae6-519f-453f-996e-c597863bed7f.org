@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d5/824ae6-519f-453f-996e-c597863bed7f/2023-07-22-16-26-55-IMG-8581@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/4aa6a032-0249-421d-894f-545bf9f9d8ed][Guy Breton]]
+- Vintage :: 2018
+- Location :: France, Morgon AOC
+- Grapes :: Gamay
+- Alcohol :: 13
+- Sugar :: 2
+- Price :: 908 UAH, 721 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+Member of "bande des cinq", one of the beginners of natural wine movement in Beaujolais.
+
+** Ratings
+
+*** 2020-12-29 - ☆ 7.50
+
+Easy going Morgon my Guy Breton. Love this raspberry jam in the glass, sour red fruits, and hints of leather. Simple, refreshing. Good wine for the moments when you want to chill with snacks.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
+    <img class="flex-bottle" src="/images/36/2be9a4-0c7e-4802-b742-a82a1d87232a/2020-12-22-08-21-27-F66B47B5-6A11-4F38-9867-7A6F69DAA959-1-105-c@512.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Cerro Añon Reserva - 2016</section>
+  </a>
+
+</div>
+#+end_export

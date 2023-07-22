@@ -1,0 +1,38 @@
+{
+  "id": "e5a95059-61f4-464e-9bfc-0c9d7ed5e78b",
+  "name": "AmalGamay",
+  "full-name": "Athénaïs de Béru AmalGamay 2020",
+  "producer": {
+    "id": "4ec05f3b-6fe7-46db-af55-e5c024594955",
+    "name": "Athénaïs de Béru"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "a067bded-65a9-4e5d-b0d4-f81eb5f88990",
+      "name": "Aligoté"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e5/a95059-61f4-464e-9bfc-0c9d7ed5e78b/2023-07-22-16-26-01-IMG-8578.webp",
+  "rating": "NA"
+}

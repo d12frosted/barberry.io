@@ -1,0 +1,42 @@
+{
+  "id": "f6b0f7c9-4777-46d8-bf8d-b6417d097d98",
+  "name": "Valpolicella",
+  "full-name": "Il Monte Carlo Valpolicella 2020",
+  "producer": {
+    "id": "2faf3e3a-4ae5-42e7-b738-1270ffde5ae3",
+    "name": "Il Monte Carlo"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "5bd6fcfa-8bf4-4e34-948b-3baff1264baf",
+      "name": "Corvinone"
+    },
+    {
+      "id": "13653c43-13e8-49d8-8fe4-1cc8cfa18ed5",
+      "name": "Corvina"
+    },
+    {
+      "id": "7f50d397-21fa-425e-904e-1256fce6321f",
+      "name": "Rondinella"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.6",
+  "prices": [
+    "540 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f6/b0f7c9-4777-46d8-bf8d-b6417d097d98/2023-07-22-16-21-10-IMG-8570.webp",
+  "rating": "NA"
+}
