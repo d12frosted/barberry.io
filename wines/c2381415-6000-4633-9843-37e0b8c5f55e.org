@@ -1,0 +1,55 @@
+#+attr_html: :class wine-main-image
+[[file:/images/c2/381415-6000-4633-9843-37e0b8c5f55e/2021-05-22-14-47-52-B4E69E53-DCFD-428A-9785-7FFEA9499CF3-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/a1273c73-da7a-4fc4-a674-8bdd9b7bc897][Vini Viti Vinci]]
+- Vintage :: 2018
+- Location :: France, Vin de Table
+- Grapes :: Pinot Blanc
+- Alcohol :: 14
+- Sugar :: 1
+- Price :: 750 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-05-21 - ☆ 7.25
+
+Crazy and vulgar orange Pinot Blanc. Chamomile with pumpkin, oil, apple, tea and nectarine. My descriptions are far more fascinating than the wine itself, which is straightforward, yet flavourful. Aftertaste is like I've consumed a pile of rotten orange peel. Which is not bad per se.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/3c2079c8-c2f4-44dd-bd7a-0d7117eb6cca.html">
+    <img class="flex-bottle" src="/images/3c/2079c8-c2f4-44dd-bd7a-0d7117eb6cca/2023-07-22-18-01-18-IMG-8585@512.webp"></img>
+    <section class="h">Vini Viti Vinci</section>
+    <section class="h text-bolder">Captain Bojol - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/19ea08b3-6109-4771-a003-46a3be90c659.html">
+    <img class="flex-bottle" src="/images/19/ea08b3-6109-4771-a003-46a3be90c659/2021-05-22-12-36-56-4C752EBA-BB04-4F9F-8B5E-08E385549A4A-1-105-c@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Conasbrancas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/7098850c-7c95-4b5d-9639-2ebd2d46b462.html">
+    <img class="flex-bottle" src="/images/70/98850c-7c95-4b5d-9639-2ebd2d46b462/2023-02-21-06-55-20-IMG-5147@512.webp"></img>
+    <section class="h">John Duval</section>
+    <section class="h text-bolder">Annexus Grenache - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85f17ebb-1523-4b9f-a940-36415c2e4f86.html">
+    <img class="flex-bottle" src="/images/85/f17ebb-1523-4b9f-a940-36415c2e4f86/2021-05-22-14-55-47-E76ACAA8-F43F-4EF2-8F6A-1FC0426FB792-1-105-c@512.webp"></img>
+    <section class="h">Rita & Rudolf Trossen</section>
+    <section class="h text-bolder">Schieferblume Riesling Trocken Qualitätswein - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ffdc5fb3-d7ad-477b-89ba-45ed797c8015.html">
+    <img class="flex-bottle" src="/images/ff/dc5fb3-d7ad-477b-89ba-45ed797c8015/2021-05-22-14-30-34-E0E7E43C-3AD4-4DBB-B31D-04514C094272-1-105-c@512.webp"></img>
+    <section class="h">Clos Lentiscus</section>
+    <section class="h text-bolder">Sumoll Reserva Familia Blanc de Noirs Brut Nature - 2017</section>
+  </a>
+
+</div>
+#+end_export

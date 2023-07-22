@@ -1,0 +1,34 @@
+{
+  "id": "3069631c-1eaa-480f-bb0b-55690f0e9f0e",
+  "name": "GA19dj173",
+  "full-name": "Pierre Andrey GA19dj173 2019",
+  "producer": {
+    "id": "16da473c-2d6a-4e1f-ab52-a5bf85a2e0b6",
+    "name": "Pierre Andrey"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3",
+  "prices": [
+    "2490 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/30/69631c-1eaa-480f-bb0b-55690f0e9f0e/2023-07-22-18-08-51-IMG-8592.webp",
+  "rating": "NA"
+}

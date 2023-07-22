@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/3c/2079c8-c2f4-44dd-bd7a-0d7117eb6cca/2023-07-22-18-01-18-IMG-8585@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/a1273c73-da7a-4fc4-a674-8bdd9b7bc897][Vini Viti Vinci]]
+- Vintage :: 2021
+- Location :: France, Beaujolais AOC
+- Grapes :: Gamay
+- Alcohol :: 12
+- Sugar :: 1
+- Price :: 960 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/c2381415-6000-4633-9843-37e0b8c5f55e.html">
+    <img class="flex-bottle" src="/images/c2/381415-6000-4633-9843-37e0b8c5f55e/2021-05-22-14-47-52-B4E69E53-DCFD-428A-9785-7FFEA9499CF3-1-105-c@512.webp"></img>
+    <section class="h">Vini Viti Vinci</section>
+    <section class="h text-bolder">Pinot Blanc - 2018</section>
+  </a>
+
+</div>
+#+end_export

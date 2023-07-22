@@ -1,0 +1,34 @@
+{
+  "id": "f9da1720-8759-4190-a364-17bea8ad743e",
+  "name": "Roche du Py Camille",
+  "full-name": "Marcel Lapierre Roche du Py Camille 2019",
+  "producer": {
+    "id": "c38d17a7-3261-417e-b531-a4db14fcc66d",
+    "name": "Marcel Lapierre"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1",
+  "prices": [
+    "1576 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f9/da1720-8759-4190-a364-17bea8ad743e/2023-07-22-18-03-42-IMG-8587.webp",
+  "rating": "NA"
+}

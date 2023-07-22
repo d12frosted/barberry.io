@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/30/69631c-1eaa-480f-bb0b-55690f0e9f0e/2023-07-22-18-08-51-IMG-8592@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/16da473c-2d6a-4e1f-ab52-a5bf85a2e0b6][Pierre Andrey]]
+- Vintage :: 2019
+- Location :: France, Vin de Table
+- Grapes :: Gamay
+- Alcohol :: 14
+- Sugar :: 3
+- Price :: 2490 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/b3ca8077-de40-4cd2-b097-cbe65164e0f1.html">
+    <img class="flex-bottle" src="/images/b3/ca8077-de40-4cd2-b097-cbe65164e0f1/2022-12-03-09-50-01-photo-2022-12-03 09.14.41@512.webp"></img>
+    <section class="h">Pierre Andrey</section>
+    <section class="h text-bolder">PN19dj36 Série 7 (sept) - 2019</section>
+  </a>
+
+</div>
+#+end_export

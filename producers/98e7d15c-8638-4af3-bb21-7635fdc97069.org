@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/ec09271b-76bc-416a-a563-07ba09e8946d.html">
+    <img class="flex-bottle" src="/images/ec/09271b-76bc-416a-a563-07ba09e8946d/2023-07-22-18-12-37-IMG-8595@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Mâcon Cruzille Manganite - 2018</section>
+  </a>
+
+</div>
+#+end_export

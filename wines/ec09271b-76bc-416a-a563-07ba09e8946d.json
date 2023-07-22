@@ -1,0 +1,34 @@
+{
+  "id": "ec09271b-76bc-416a-a563-07ba09e8946d",
+  "name": "Mâcon Cruzille Manganite",
+  "full-name": "Clos des Vignes du Maynes Mâcon Cruzille Manganite 2018",
+  "producer": {
+    "id": "98e7d15c-8638-4af3-bb21-7635fdc97069",
+    "name": "Clos des Vignes du Maynes"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "2500 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ec/09271b-76bc-416a-a563-07ba09e8946d/2023-07-22-18-12-37-IMG-8595.webp",
+  "rating": "NA"
+}
