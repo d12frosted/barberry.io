@@ -1,6 +1,12 @@
 [[file:/images/2023-07-21-gamay-battle/2023-07-22-19-18-25-IMG-8600.webp]]
 
-Wines:
+Hear ye, hear ye! Noble wine enthusiasts gather 'round for a tale of merriment! Rejoice, for in a garage not too distant, there occurred a most wondrous wine-tasting event, where the revered Gamay grape took centre stage, bestowing upon us eight diverse and delightful[fn:1] elixirs to savour.
+
+In a grand chamber adorned with endless lines of bottles, we embarked on an epic quest through the realm of Gamay, guided by our wise and witty sommelier, who fancied himself a modern-day wine wizard. "Taste, my dear patrons, and let the velvety caress of Gamay upon your tongues transport you to a realm of unparalleled pleasure!"
+
+As the night waned, and our goblets ran dry, we bid adieu to this remarkable wine journey, our hearts merry, our souls uplifted and our minds dizzy. Some guessed correctly, while others did not - but that's the fun of wine tasting.
+
+In case it wasn't clear, Vova and Mykola organized a wine event solely dedicated to the Gamay grape. It was yet another enjoyable activity.
 
 1. [[barberry:/wines/e5a95059-61f4-464e-9bfc-0c9d7ed5e78b][Athénaïs de Béru AmalGamay 2020]]
 2. [[barberry:/wines/d5824ae6-519f-453f-996e-c597863bed7f][Guy Breton Morgon Vieilles Vignes 2018]]
@@ -10,6 +16,8 @@ Wines:
 6. [[barberry:/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61][Jean Foillard Morgon Cuvée Corcelette 2019]]
 7. [[barberry:/wines/3069631c-1eaa-480f-bb0b-55690f0e9f0e][Pierre Andrey GA19dj173 2019]]
 8. [[barberry:/wines/ec09271b-76bc-416a-a563-07ba09e8946d][Clos des Vignes du Maynes Mâcon Cruzille Manganite 2018]]
+
+Our goal was to enjoy each and every bottle[fn:1] and guess the wines.
 
 * Scores
 :PROPERTIES:
@@ -23,12 +31,12 @@ Wines:
 |---------+----------+--------+-----------+---------+----------|
 | Wine #1 |   4.0119 | 0.0226 |      0.00 | 1250.00 |   1.9465 |
 | Wine #2 |   3.9504 | 0.0388 |      0.00 |  908.00 | *2.4355* |
-| Wine #3 |   4.1661 | 0.0205 |    *4.00* | 7800.00 |   0.3948 |
+| Wine #3 |   4.1661 | 0.0205 |    *5.00* | 7800.00 |   0.3948 |
 | Wine #4 |   3.7526 | 0.1893 |      0.00 |  960.00 |   1.6719 |
 | Wine #5 |   4.0020 | 0.0164 |      0.00 | 1576.00 |   1.0000 |
 | Wine #6 |   4.0155 | 0.0517 |      0.00 | 1250.00 |   1.9465 |
 | Wine #7 |   3.7569 | 0.0861 |      0.00 | 2490.00 |   0.6617 |
-| Wine #8 | *4.2154* | 0.0536 |    *4.00* | 2500.00 |   1.3216 |
+| Wine #8 | *4.2154* | 0.0536 |      4.00 | 2500.00 |   1.3216 |
 
 How to read this table:
 
@@ -200,7 +208,9 @@ How to read this table:
 | Anna P     |    4.10 |    3.80 |    4.10 |    3.70 |    3.80 |    3.80 |    3.70 |  *4.20* |
 | David H    |    4.10 |    3.80 |    4.10 |    3.90 |    3.90 |    3.90 |    3.90 |    4.10 |
 | Diana M    |    4.00 |    3.70 |    3.80 |    3.90 |    3.80 |    3.60 |    4.10 |    3.70 |
-| Vova U     |    4.10 |    3.90 |    4.30 |    3.80 |    4.10 |    4.10 |    3.60 |    4.30 |
+| Vova U     |    4.10 |    3.90 |  *4.30* |    3.80 |    4.10 |    4.10 |    3.60 |    4.30 |
 | Mykola Ch  |    3.70 |    3.80 |  *4.30* |    3.60 |    3.90 |    3.80 |    4.00 |    4.20 |
 | Boris B    |    4.00 |    3.90 |  *4.20* |  +2.50+ |    4.10 |    4.10 |  +3.00+ |    4.00 |
+
+[fn:1] With a few notable exceptions.
 
