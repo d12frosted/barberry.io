@@ -5,7 +5,7 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/3c2079c8-c2f4-44dd-bd7a-0d7117eb6cca.html">
     <img class="flex-bottle" src="/images/3c/2079c8-c2f4-44dd-bd7a-0d7117eb6cca/2023-07-22-18-01-18-IMG-8585@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 5.00</section>
     <section class="h text-bolder">Captain Bojol - 2021</section>
   </a>
 

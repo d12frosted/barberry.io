@@ -9,7 +9,7 @@
 - Alcohol :: 13
 - Sugar :: 2
 - Price :: 908 UAH, 721 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -21,14 +21,72 @@ Member of "bande des cinq", one of the beginners of natural wine movement in Bea
 
 Easy going Morgon my Guy Breton. Love this raspberry jam in the glass, sour red fruits, and hints of leather. Simple, refreshing. Good wine for the moments when you want to chill with snacks.
 
+*** 2023-07-21 - ☆ 7.75
+
+Tasted blind while knowing the list of wines. Guessed only the wider region. I failed to guess the bottle despite tasting it... ah, almost 3 years ago. In that case, I am pleased to say that the wine improved and still has the energy to keep kicking. Bubble gum, nordic berries, spices. Slightly bitter with good acidity, but IMO a bit simple.
+
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
+  <a class="flex-item flex-item-left" href="/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61.html">
+    <img class="flex-bottle" src="/images/0f/c1ad68-f002-4840-8fa8-d80c0e7f6b61/2023-07-22-18-04-07-IMG-8590@512.webp"></img>
+    <section class="h">Jean Foillard</section>
+    <section class="h text-bolder">Morgon Cuvée Corcelette - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2cc9be11-43ec-49bd-8422-8bf48d2e66d4.html">
+    <img class="flex-bottle" src="/images/2c/c9be11-43ec-49bd-8422-8bf48d2e66d4/2023-07-22-16-29-06-IMG-8583@512.webp"></img>
+    <section class="h">Yvon Métras</section>
+    <section class="h text-bolder">Fleurie L'Ultime - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3069631c-1eaa-480f-bb0b-55690f0e9f0e.html">
+    <img class="flex-bottle" src="/images/30/69631c-1eaa-480f-bb0b-55690f0e9f0e/2023-07-22-18-08-51-IMG-8592@512.webp"></img>
+    <section class="h">Pierre Andrey</section>
+    <section class="h text-bolder">GA19dj173 - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/362be9a4-0c7e-4802-b742-a82a1d87232a.html">
     <img class="flex-bottle" src="/images/36/2be9a4-0c7e-4802-b742-a82a1d87232a/2020-12-22-08-21-27-F66B47B5-6A11-4F38-9867-7A6F69DAA959-1-105-c@512.webp"></img>
     <section class="h">Bodegas Olarra</section>
     <section class="h text-bolder">Cerro Añon Reserva - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/3c2079c8-c2f4-44dd-bd7a-0d7117eb6cca.html">
+    <img class="flex-bottle" src="/images/3c/2079c8-c2f4-44dd-bd7a-0d7117eb6cca/2023-07-22-18-01-18-IMG-8585@512.webp"></img>
+    <section class="h">Vini Viti Vinci</section>
+    <section class="h text-bolder">Captain Bojol - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2023-07-22-18-13-27-IMG-8606@512.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e5a95059-61f4-464e-9bfc-0c9d7ed5e78b.html">
+    <img class="flex-bottle" src="/images/e5/a95059-61f4-464e-9bfc-0c9d7ed5e78b/2023-07-22-16-26-01-IMG-8578@512.webp"></img>
+    <section class="h">Athénaïs de Béru</section>
+    <section class="h text-bolder">AmalGamay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ec09271b-76bc-416a-a563-07ba09e8946d.html">
+    <img class="flex-bottle" src="/images/ec/09271b-76bc-416a-a563-07ba09e8946d/2023-07-22-18-12-37-IMG-8595@512.webp"></img>
+    <section class="h">Clos des Vignes du Maynes</section>
+    <section class="h text-bolder">Mâcon Cruzille Manganite - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f6b0f7c9-4777-46d8-bf8d-b6417d097d98.html">
+    <img class="flex-bottle" src="/images/f6/b0f7c9-4777-46d8-bf8d-b6417d097d98/2023-07-22-16-21-10-IMG-8570@512.webp"></img>
+    <section class="h">Il Monte Carlo</section>
+    <section class="h text-bolder">Valpolicella - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f9da1720-8759-4190-a364-17bea8ad743e.html">
+    <img class="flex-bottle" src="/images/f9/da1720-8759-4190-a364-17bea8ad743e/2023-07-22-18-03-42-IMG-8587@512.webp"></img>
+    <section class="h">Marcel Lapierre</section>
+    <section class="h text-bolder">Roche du Py Camille - 2019</section>
   </a>
 
 </div>

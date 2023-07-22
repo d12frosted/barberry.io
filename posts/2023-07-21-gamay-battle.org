@@ -1,3 +1,13 @@
+Wines:
+
+1. [[barberry:/wines/e5a95059-61f4-464e-9bfc-0c9d7ed5e78b][Athénaïs de Béru AmalGamay 2020]]
+2. [[barberry:/wines/d5824ae6-519f-453f-996e-c597863bed7f][Guy Breton Morgon Vieilles Vignes 2018]]
+3. [[barberry:/wines/2cc9be11-43ec-49bd-8422-8bf48d2e66d4][Yvon Métras Fleurie L'Ultime 2018]]
+4. [[barberry:/wines/3c2079c8-c2f4-44dd-bd7a-0d7117eb6cca][Vini Viti Vinci Captain Bojol 2021]]
+5. [[barberry:/wines/f9da1720-8759-4190-a364-17bea8ad743e][Marcel Lapierre Roche du Py Camille 2019]]
+6. [[barberry:/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61][Jean Foillard Morgon Cuvée Corcelette 2019]]
+7. [[barberry:/wines/3069631c-1eaa-480f-bb0b-55690f0e9f0e][Pierre Andrey GA19dj173 2019]]
+8. [[barberry:/wines/ec09271b-76bc-416a-a563-07ba09e8946d][Clos des Vignes du Maynes Mâcon Cruzille Manganite 2018]]
 
 * Scores
 :PROPERTIES:
@@ -10,12 +20,12 @@
 |         |      rms |   sdev | favourite |   price |      QPR |
 |---------+----------+--------+-----------+---------+----------|
 | Wine #1 |   4.0119 | 0.0226 |      0.00 | 1250.00 |   1.9465 |
-| Wine #2 |   3.9504 | 0.0388 |      0.00 |  900.00 | *2.4572* |
-| Wine #3 |   4.1661 | 0.0205 |    *4.00* | 7500.00 |   0.4106 |
-| Wine #4 |   3.7857 | 0.0983 |      0.00 |  950.00 |   1.8045 |
-| Wine #5 |   4.0020 | 0.0164 |      0.00 | 1500.00 |   1.0000 |
+| Wine #2 |   3.9504 | 0.0388 |      0.00 |  908.00 | *2.4355* |
+| Wine #3 |   4.1661 | 0.0205 |    *4.00* | 7800.00 |   0.3948 |
+| Wine #4 |   3.7526 | 0.1893 |      0.00 |  960.00 |   1.6719 |
+| Wine #5 |   4.0020 | 0.0164 |      0.00 | 1576.00 |   1.0000 |
 | Wine #6 |   4.0155 | 0.0517 |      0.00 | 1250.00 |   1.9465 |
-| Wine #7 |   3.7961 | 0.0390 |      0.00 | 2500.00 |   0.7041 |
+| Wine #7 |   3.7569 | 0.0861 |      0.00 | 2490.00 |   0.6617 |
 | Wine #8 | *4.2154* | 0.0536 |    *4.00* | 2500.00 |   1.3216 |
 
 How to read this table:
@@ -25,6 +35,150 @@ How to read this table:
 - =favourite= is amount of people who marked this wine as favourite of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Athénaïs de Béru AmalGamay 2020
+:PROPERTIES:
+:ID:                     fd2db341-0521-4556-a079-8f4579e8a8ea
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-16-26-01-IMG-8578.webp]]
+
+- producer: [[barberry:/producers/4ec05f3b-6fe7-46db-af55-e5c024594955][Athénaïs de Béru]]
+- name: [[barberry:/wines/e5a95059-61f4-464e-9bfc-0c9d7ed5e78b][AmalGamay]]
+- vintage: 2020
+- grapes: Gamay, Aligoté
+- appellation: Vin de Table
+- location: France
+- alcohol: 13
+- sugar: 0
+- price: 1250 UAH
+
+* Guy Breton Morgon Vieilles Vignes 2018
+:PROPERTIES:
+:ID:                     32b95d15-5891-4ca9-87f4-73fa9a369c56
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-16-26-55-IMG-8581.webp]]
+
+- producer: [[barberry:/producers/4aa6a032-0249-421d-894f-545bf9f9d8ed][Guy Breton]]
+- name: [[barberry:/wines/d5824ae6-519f-453f-996e-c597863bed7f][Morgon Vieilles Vignes]]
+- vintage: 2018
+- grapes: Gamay
+- appellation: Morgon AOC
+- location: Beaujolais, Bourgogne-Franche-Comté, France
+- alcohol: 13
+- sugar: 2
+- price: 908 UAH
+
+* Yvon Métras Fleurie L'Ultime 2018
+:PROPERTIES:
+:ID:                     206fdf1d-fdca-4c26-a946-37b6b339117b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-16-29-06-IMG-8583.webp]]
+
+- producer: [[barberry:/producers/08c058ee-5dea-40f6-8ed7-f7449f3ce7fd][Yvon Métras]]
+- name: [[barberry:/wines/2cc9be11-43ec-49bd-8422-8bf48d2e66d4][Fleurie L'Ultime]]
+- vintage: 2018
+- grapes: Gamay
+- appellation: Fleurie AOC
+- location: Beaujolais, Bourgogne-Franche-Comté, France
+- alcohol: 13.5
+- sugar: 1
+- price: 7800 UAH
+
+* Vini Viti Vinci Captain Bojol 2021
+:PROPERTIES:
+:ID:                     e132fc74-fcbc-4c6a-964a-1af79656932c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-18-01-18-IMG-8585.webp]]
+
+- producer: [[barberry:/producers/a1273c73-da7a-4fc4-a674-8bdd9b7bc897][Vini Viti Vinci]]
+- name: [[barberry:/wines/3c2079c8-c2f4-44dd-bd7a-0d7117eb6cca][Captain Bojol]]
+- vintage: 2021
+- grapes: Gamay
+- appellation: Beaujolais AOC
+- location: Beaujolais, Bourgogne-Franche-Comté, France
+- alcohol: 12
+- sugar: 1
+- price: 960 UAH
+
+* Marcel Lapierre Roche du Py Camille 2019
+:PROPERTIES:
+:ID:                     0028de6c-a5f1-4277-89da-57076737ad0d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-18-03-42-IMG-8587.webp]]
+
+- producer: [[barberry:/producers/c38d17a7-3261-417e-b531-a4db14fcc66d][Marcel Lapierre]]
+- name: [[barberry:/wines/f9da1720-8759-4190-a364-17bea8ad743e][Roche du Py Camille]]
+- vintage: 2019
+- grapes: Gamay
+- appellation: Morgon AOC
+- location: Beaujolais, Bourgogne-Franche-Comté, France
+- alcohol: 13.5
+- sugar: 1
+- price: 1576 UAH
+
+* Jean Foillard Morgon Cuvée Corcelette 2019
+:PROPERTIES:
+:ID:                     5b5ee647-13e3-4aa8-a308-f9be32cbced6
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-18-04-07-IMG-8590.webp]]
+
+- producer: [[barberry:/producers/c03bbb9a-0e74-4e99-a4aa-aad5f7c4b26f][Jean Foillard]]
+- name: [[barberry:/wines/0fc1ad68-f002-4840-8fa8-d80c0e7f6b61][Morgon Cuvée Corcelette]]
+- vintage: 2019
+- grapes: Gamay
+- appellation: Morgon AOC
+- location: Beaujolais, Bourgogne-Franche-Comté, France
+- alcohol: 13.5
+- sugar: 0
+- price: 1250 UAH
+
+* Pierre Andrey GA19dj173 2019
+:PROPERTIES:
+:ID:                     b041479a-21e5-4596-8197-858db71146df
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-18-08-51-IMG-8592.webp]]
+
+- producer: [[barberry:/producers/16da473c-2d6a-4e1f-ab52-a5bf85a2e0b6][Pierre Andrey]]
+- name: [[barberry:/wines/3069631c-1eaa-480f-bb0b-55690f0e9f0e][GA19dj173]]
+- vintage: 2019
+- grapes: Gamay
+- appellation: Vin de Table
+- location: France
+- alcohol: 14
+- sugar: 3
+- price: 2490 UAH
+
+* Clos des Vignes du Maynes Mâcon Cruzille Manganite 2018
+:PROPERTIES:
+:ID:                     1aa4002e-b5ae-49e0-b375-aa3fb515823d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-07-21-gamay-battle/2023-07-22-18-12-37-IMG-8595.webp]]
+
+- producer: [[barberry:/producers/98e7d15c-8638-4af3-bb21-7635fdc97069][Clos des Vignes du Maynes]]
+- name: [[barberry:/wines/ec09271b-76bc-416a-a563-07ba09e8946d][Mâcon Cruzille Manganite]]
+- vintage: 2018
+- grapes: Gamay
+- appellation: Mâcon Cruzille AOC
+- location: Burgundy, France
+- alcohol: 12.5
+- sugar: 1
+- price: 2500 UAH
 
 * Raw scores
 :PROPERTIES:
@@ -46,5 +200,5 @@ How to read this table:
 | Diana M    |    4.00 |    3.70 |    3.80 |    3.90 |    3.80 |    3.60 |    4.10 |    3.70 |
 | Vova U     |    4.10 |    3.90 |    4.30 |    3.80 |    4.10 |    4.10 |    3.60 |    4.30 |
 | Mykola Ch  |    3.70 |    3.80 |  *4.30* |    3.60 |    3.90 |    3.80 |    4.00 |    4.20 |
-| Boris B    |    4.00 |    3.90 |  *4.20* |  +3.00+ |    4.10 |    4.10 |  +3.50+ |    4.00 |
+| Boris B    |    4.00 |    3.90 |  *4.20* |  +2.50+ |    4.10 |    4.10 |  +3.00+ |    4.00 |
 
