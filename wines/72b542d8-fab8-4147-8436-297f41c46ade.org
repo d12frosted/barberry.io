@@ -99,5 +99,11 @@ Fading and not interesting anymore. Either a bottle variation or it's just the w
     <section class="h text-bolder">Gris de Florette - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/e682d688-0c5e-4997-8a71-fb9beeed795a.html">
+    <img class="flex-bottle" src="/images/e6/82d688-0c5e-4997-8a71-fb9beeed795a/2020-09-19-13-55-08-D36DF6AA-2C5E-44D5-A9F2-724989C1BA82-1-105-c@512.webp"></img>
+    <section class="h">Buronfosse</section>
+    <section class="h text-bolder">[Se Kwa Sa?] - 2018</section>
+  </a>
+
 </div>
 #+end_export
