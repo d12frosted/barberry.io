@@ -11,9 +11,55 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 3300 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-08-09 - ☆ 7.50
 
+Just a few years ago I decided to buy this wine. After all, a loud name meets my curiosity. Yet a person I trust advised me not to waste money on the Yellow Label. So I waited for an opportunity to taste it either for free (haha) or at some wine-tasting event.
+
+Long story short, the chance has come. It was served blind, so no prejudice. A generic crowd-pleaser with no character and soul. Which is not bad per se (when the price is right). Plan, round and not fascinating. Citrus, brioche and pears. Not something you remember even an hour after you taste it.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+    <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
+    <section class="h">G.H.Mumm</section>
+    <section class="h text-bolder">Grand Cordon Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3cbe90fc-b88d-4d93-8581-c471753af852.html">
+    <img class="flex-bottle" src="/images/3c/be90fc-b88d-4d93-8581-c471753af852/2023-08-10-10-47-05-IMG-8758@512.webp"></img>
+    <section class="h">Louis Roederer</section>
+    <section class="h text-bolder">Cristal - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
+    <img class="flex-bottle" src="/images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768@512.webp"></img>
+    <section class="h">Krug</section>
+    <section class="h text-bolder">Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/63fa302c-4073-49b1-99ed-3228df8edac1.html">
+    <img class="flex-bottle" src="/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Impérial Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3b6939f-46d3-47ee-9858-f92631091fa6.html">
+    <img class="flex-bottle" src="/images/e3/b6939f-46d3-47ee-9858-f92631091fa6/2023-08-10-11-46-47-IMG-8778@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Dom Pérignon Rosé Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d.html">
+    <img class="flex-bottle" src="/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2023-08-10-11-35-32-IMG-8772@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">Special Cuvée - NV</section>
+  </a>
+
+</div>
+#+end_export

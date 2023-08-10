@@ -1,10 +1,22 @@
-Hello, fellow convive! This page contains a list of wines (420 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (427 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Wednesday,  9 August 2023
+
+*** @Garage / [[barberry:/posts/2023-08-09-champagne][Champagne Party by Elena and Roma]]
+
+- ★ 4.10 [[barberry:/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d][Bollinger Special Cuvée NV]]
+- ★ 4.00 [[barberry:/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0][G.H.Mumm Grand Cordon Brut NV]]
+- ★ 3.90 [[barberry:/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1][Veuve Clicquot Brut Yellow Label NV]]
+- ★ 3.90 [[barberry:/wines/63fa302c-4073-49b1-99ed-3228df8edac1][Moët & Chandon Impérial Brut NV]]
+- ★ 4.20 [[barberry:/wines/e3b6939f-46d3-47ee-9858-f92631091fa6][Moët & Chandon Dom Pérignon Rosé Brut 2006]]
+- ★ 4.50 [[barberry:/wines/3cbe90fc-b88d-4d93-8581-c471753af852][Louis Roederer Cristal 2014]]
+- ❤️ 4.60 [[barberry:/wines/429ced3e-5562-41bf-be16-ea97086b244a][Krug Brut 2006]]
 
 ** Monday,  7 August 2023
 

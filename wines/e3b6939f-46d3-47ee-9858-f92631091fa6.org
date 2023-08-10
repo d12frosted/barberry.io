@@ -11,11 +11,13 @@
 - Alcohol :: 12.5
 - Sugar :: NA
 - Price :: 15300 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-08-09 - ☆ 8.50
+
+Although it's not my style, I genuinely enjoyed Dom Pérignon Rosé 2006. Wafting with scents of a sweet pipe tobacco smoke (Virginia-based blend?), it's pompous and exploding. Caramel, canned peach, sugar strawberry, blood orange, bay leaf and mushroom-flavoured Mivina. With lovely acidity and volume, it leaves a long and flavourful aftertaste. For this price, there are far better choices, but I am happy about this experience.
 
 ** Related
 
@@ -31,6 +33,36 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762@512.webp"></img>
     <section class="h">Moët & Chandon</section>
     <section class="h text-bolder">Impérial Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+    <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
+    <section class="h">G.H.Mumm</section>
+    <section class="h text-bolder">Grand Cordon Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3cbe90fc-b88d-4d93-8581-c471753af852.html">
+    <img class="flex-bottle" src="/images/3c/be90fc-b88d-4d93-8581-c471753af852/2023-08-10-10-47-05-IMG-8758@512.webp"></img>
+    <section class="h">Louis Roederer</section>
+    <section class="h text-bolder">Cristal - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
+    <img class="flex-bottle" src="/images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768@512.webp"></img>
+    <section class="h">Krug</section>
+    <section class="h text-bolder">Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1.html">
+    <img class="flex-bottle" src="/images/8d/ea852e-f5bb-437a-bfb9-13a98e4841f1/2023-08-10-11-43-41-IMG-8765@512.webp"></img>
+    <section class="h">Veuve Clicquot</section>
+    <section class="h text-bolder">Brut Yellow Label - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d.html">
+    <img class="flex-bottle" src="/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2023-08-10-11-35-32-IMG-8772@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">Special Cuvée - NV</section>
   </a>
 
 </div>

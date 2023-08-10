@@ -11,7 +11,7 @@
 - Alcohol :: 12
 - Sugar :: NA
 - Price :: 1860 UAH, 2550 UAH
-- Cellar :: 2 bottles
+- Cellar :: N/A
 
 ** Ratings
 
@@ -20,6 +20,12 @@
 Tasted blind. Didn't guess (that's actually my first Moët & Chandon), but it's funny to read my drunken notes. Highly typical traditional sparkling (probably Champagne) made to please the crowd. I would drink it while playing FFXIV (even during raids). Objectively it's well made (hence the score).
 
 On a more serious note, I understand now why people drink this wine. It's friendly (both in the nose and on the palate), not demanding, and you have CHAMPAGNE on the label.
+
+*** 2023-08-09 - ☆ 7.40
+
+Haha, we had to open two bottles because the first was one tired from short ageing (hopefully, not in someone's car). Wafting with scents of honey made by zombees (hehe) and red apple, it was not sexy at all. The red lipstick is there, but the wicked boggy body is a turn-off. With the second bottle, we travelled 80 years to the past. And it was as you would expect it to be. A crowd-pleasing and tasty. If only the price was better haha.
+
+P.S. The rate represents the arithmetic mean of the two bottles.
 
 ** Related
 
@@ -37,16 +43,40 @@ On a more serious note, I understand now why people drink this wine. It's friend
     <section class="h text-bolder">Dom Pérignon Rosé Brut - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
+  <a class="flex-item flex-item-left" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+    <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
+    <section class="h">G.H.Mumm</section>
+    <section class="h text-bolder">Grand Cordon Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/3cbe90fc-b88d-4d93-8581-c471753af852.html">
+    <img class="flex-bottle" src="/images/3c/be90fc-b88d-4d93-8581-c471753af852/2023-08-10-10-47-05-IMG-8758@512.webp"></img>
+    <section class="h">Louis Roederer</section>
+    <section class="h text-bolder">Cristal - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
+    <img class="flex-bottle" src="/images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768@512.webp"></img>
+    <section class="h">Krug</section>
+    <section class="h text-bolder">Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
     <img class="flex-bottle" src="/images/62/64c897-809f-4aaf-b765-6db6bb266b1b/2023-02-04-11-50-12-00E745CB-AD13-4323-BE75-20307A2F55B7-1-105-c@512.webp"></img>
     <section class="h">Canti</section>
     <section class="h text-bolder">Liberty Asti - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
+  <a class="flex-item flex-item-left" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
     <img class="flex-bottle" src="/images/62/c52d66-b179-4545-9912-76a701e39534/2023-02-04-11-40-45-AC7529AB-298F-4548-BC14-21F5D80DA1A6-1-105-c@512.webp"></img>
     <section class="h">Silvano Follador</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Superiore Extra Brut - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1.html">
+    <img class="flex-bottle" src="/images/8d/ea852e-f5bb-437a-bfb9-13a98e4841f1/2023-08-10-11-43-41-IMG-8765@512.webp"></img>
+    <section class="h">Veuve Clicquot</section>
+    <section class="h text-bolder">Brut Yellow Label - NV</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b482a809-5815-4136-b68a-4049faa0a736.html">
@@ -71,6 +101,12 @@ On a more serious note, I understand now why people drink this wine. It's friend
     <img class="flex-bottle" src="/images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c@512.webp"></img>
     <section class="h">46 Parallel</section>
     <section class="h text-bolder">Apostrophe Brut Classic Dry - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d.html">
+    <img class="flex-bottle" src="/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2023-08-10-11-35-32-IMG-8772@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">Special Cuvée - NV</section>
   </a>
 
 </div>

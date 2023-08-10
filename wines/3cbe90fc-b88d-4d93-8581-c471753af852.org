@@ -11,7 +11,7 @@
 - Alcohol :: 12
 - Sugar :: 7
 - Price :: 12700 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 A 60/40 blend of Pinot Noir and Chardonnay sourced equally from La Rivière, La Montagne and La Côte vineyards. The main crus (see the map) are Verzenay, Verzy, Beaumont-sur-Vesle, Ay, Avize, Mesnil-sur-Oger and Cramant. None of the wine went through malolactic. Around one-third was vinified in wood.
 
@@ -20,5 +20,64 @@ A 60/40 blend of Pinot Noir and Chardonnay sourced equally from La Rivière, La 
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-08-09 - ☆ 9.20
 
+#+begin_verse
+               He spills the champagne from his glass onto the floor.
+
+                                     CHESTER
+                         It's fuckin' flat, Norman, that's
+                         what's wrong. The champagne -- the
+                         fuckin' Cristal's fuckin' flat.
+
+--- Four Rooms
+#+end_verse
+
+I tried my best not to quote the Four Rooms movie. A single sniff cleared my mind and I fell in love with this 'beverage'.
+
+Estragon in Champagne? Incredible! Combine it with shells, chalk, crème brûlée, tilia honey, hay, raw yeasty dough, citrus, peach and white flowers. Ultra complex yet approachable, expressive and alluring nose. On the palate, it's medium to full-bodied, vinous, delicate and multilayered. Racy and wonderfully balanced. The aftertaste is eternal and blissful. It's already delicious today yet I can't help but wonder about its future.
+
+To close the circle, I let it breathe for 30 minutes only to find it flat. So I did what Chester did in that scene.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+    <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
+    <section class="h">G.H.Mumm</section>
+    <section class="h text-bolder">Grand Cordon Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
+    <img class="flex-bottle" src="/images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768@512.webp"></img>
+    <section class="h">Krug</section>
+    <section class="h text-bolder">Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/63fa302c-4073-49b1-99ed-3228df8edac1.html">
+    <img class="flex-bottle" src="/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Impérial Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1.html">
+    <img class="flex-bottle" src="/images/8d/ea852e-f5bb-437a-bfb9-13a98e4841f1/2023-08-10-11-43-41-IMG-8765@512.webp"></img>
+    <section class="h">Veuve Clicquot</section>
+    <section class="h text-bolder">Brut Yellow Label - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e3b6939f-46d3-47ee-9858-f92631091fa6.html">
+    <img class="flex-bottle" src="/images/e3/b6939f-46d3-47ee-9858-f92631091fa6/2023-08-10-11-46-47-IMG-8778@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Dom Pérignon Rosé Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d.html">
+    <img class="flex-bottle" src="/images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2023-08-10-11-35-32-IMG-8772@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">Special Cuvée - NV</section>
+  </a>
+
+</div>
+#+end_export
