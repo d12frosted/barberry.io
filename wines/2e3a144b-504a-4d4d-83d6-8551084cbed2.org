@@ -40,127 +40,133 @@ It's always a pleasure to open a bottle by the late Jacky Blot. A sophisticated 
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
+  <a class="flex-item flex-item-left" href="/wines/21cd6343-31d5-4740-aecd-292df1af8bb4.html">
+    <img class="flex-bottle" src="/images/21/cd6343-31d5-4740-aecd-292df1af8bb4/2023-08-10-11-56-37-IMG-8787@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
     <img class="flex-bottle" src="/images/38/f3bf0d-21eb-4214-a52a-259ffa5b8b7b/2022-08-07-11-25-47-BA97EBD2-6F39-431B-8A91-0169F6889932-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos Michet - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
+  <a class="flex-item flex-item-left" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
     <img class="flex-bottle" src="/images/52/b83646-0cd4-49be-8356-f6d6ec7c7559/2021-08-25-23-27-35-0018144C-557E-41BB-A48E-2F567CAFAA21-1-102-o@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos Michet - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+  <a class="flex-item flex-item-right" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
     <img class="flex-bottle" src="/images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/77878044-246d-4fb2-9475-6d8044a24f46.html">
+  <a class="flex-item flex-item-left" href="/wines/77878044-246d-4fb2-9475-6d8044a24f46.html">
     <img class="flex-bottle" src="/images/77/878044-246d-4fb2-9475-6d8044a24f46/2023-05-19-16-42-58-IMG-7031@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis Sur Loire Clos de Mosny Monopole - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+  <a class="flex-item flex-item-left" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
     <img class="flex-bottle" src="/images/83/d90838-5e63-43af-abc5-f5fb482bc36f/2021-11-26-07-56-58-413ECF5C-A714-4E30-9173-CC549B874B94-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/97e16400-52f3-4223-b49b-f3aa8db37411.html">
+  <a class="flex-item flex-item-right" href="/wines/97e16400-52f3-4223-b49b-f3aa8db37411.html">
     <img class="flex-bottle" src="/images/97/e16400-52f3-4223-b49b-f3aa8db37411/2023-05-19-16-44-27-IMG-7033@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis Sur Loire Clos de Mosny Monopole - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
+  <a class="flex-item flex-item-left" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
     <img class="flex-bottle" src="/images/c8/127ca1-e35d-4483-8ef1-b91a974e8829/2023-04-07-20-41-51-D2263A1D-B27E-4DFD-93E3-B06E30E07E0B-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Remus - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/01025fcf-ae2c-4a42-8d0e-1b6d9c5207cf.html">
+  <a class="flex-item flex-item-right" href="/wines/01025fcf-ae2c-4a42-8d0e-1b6d9c5207cf.html">
     <img class="flex-bottle" src="/images/01/025fcf-ae2c-4a42-8d0e-1b6d9c5207cf/2023-05-06-11-06-17-38ADE6D7-BFCD-4F5D-A918-FA924EC9FBAE-1-105-c@512.webp"></img>
     <section class="h">Domaine Patrick Baudouin</section>
     <section class="h text-bolder">Savennières Bellevue - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1afc0b00-b8ea-46e5-aa30-374aba9e60c8.html">
+  <a class="flex-item flex-item-left" href="/wines/1afc0b00-b8ea-46e5-aa30-374aba9e60c8.html">
     <img class="flex-bottle" src="/images/1a/fc0b00-b8ea-46e5-aa30-374aba9e60c8/2023-04-27-09-33-22-1FF181A0-999B-49E8-AB63-7D691A6BC95B-1-105-c@512.webp"></img>
     <section class="h">Johnson Estate</section>
     <section class="h text-bolder">Sauvignon Blanc - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/256ef92e-de3a-4f87-b669-041175420aa6.html">
+  <a class="flex-item flex-item-right" href="/wines/256ef92e-de3a-4f87-b669-041175420aa6.html">
     <img class="flex-bottle" src="/images/25/6ef92e-de3a-4f87-b669-041175420aa6/2023-05-06-11-17-40-IMG-6784@512.webp"></img>
     <section class="h">Coulée de Serrant</section>
     <section class="h text-bolder">Clos de la Coulée de Serrant - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/30e2bafe-08f1-45a1-b7f4-91d93b5e1488.html">
+  <a class="flex-item flex-item-left" href="/wines/30e2bafe-08f1-45a1-b7f4-91d93b5e1488.html">
     <img class="flex-bottle" src="/images/30/e2bafe-08f1-45a1-b7f4-91d93b5e1488/2023-05-06-11-13-42-IMG-6781@512.webp"></img>
     <section class="h">Domaine Breton</section>
     <section class="h text-bolder">La Dilettante - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
+  <a class="flex-item flex-item-right" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
     <img class="flex-bottle" src="/images/33/f9dc8f-32e1-4960-90e1-ad2807edc2a3/2023-07-02-14-47-13-IMG-8141@512.webp"></img>
     <section class="h">Eugenio Rosi</section>
     <section class="h text-bolder">Riflesso Rosi Rosato - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/37112ddf-9b53-4c56-8e36-c71002ea06ab.html">
+  <a class="flex-item flex-item-left" href="/wines/37112ddf-9b53-4c56-8e36-c71002ea06ab.html">
     <img class="flex-bottle" src="/images/37/112ddf-9b53-4c56-8e36-c71002ea06ab/2023-05-06-11-54-20-IMG-6748@512.webp"></img>
     <section class="h">Stephane Bernaudeau</section>
     <section class="h text-bolder">Les Coqueries - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5cc200a2-74dc-4d09-915f-bc4240a5c15f.html">
+  <a class="flex-item flex-item-right" href="/wines/5cc200a2-74dc-4d09-915f-bc4240a5c15f.html">
     <img class="flex-bottle" src="/images/5c/c200a2-74dc-4d09-915f-bc4240a5c15f/2023-05-06-11-48-19-IMG-6799@512.webp"></img>
     <section class="h">Domaine Huet</section>
     <section class="h text-bolder">Clos du Bourg Demi-Sec - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/69b6a7f9-4741-49e1-9804-2a90b3f177cc.html">
+  <a class="flex-item flex-item-left" href="/wines/69b6a7f9-4741-49e1-9804-2a90b3f177cc.html">
     <img class="flex-bottle" src="/images/69/b6a7f9-4741-49e1-9804-2a90b3f177cc/2023-05-06-11-38-17-IMG-6792@512.webp"></img>
     <section class="h">Domaine Le Briseau</section>
     <section class="h text-bolder">Kharakter - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/6b86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2.html">
+  <a class="flex-item flex-item-right" href="/wines/6b86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2.html">
     <img class="flex-bottle" src="/images/6b/86dd6e-8d5c-4bba-9ef3-d86a42cd0fe2/2023-05-06-11-53-01-IMG-6750@512.webp"></img>
     <section class="h">Stephane Bernaudeau</section>
     <section class="h text-bolder">Les Onglés - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ae9964d3-35ea-41d6-ba06-cebdc91f52fc.html">
+  <a class="flex-item flex-item-left" href="/wines/ae9964d3-35ea-41d6-ba06-cebdc91f52fc.html">
     <img class="flex-bottle" src="/images/ae/9964d3-35ea-41d6-ba06-cebdc91f52fc/2023-05-06-11-31-00-IMG-6789@512.webp"></img>
     <section class="h">Rene Mosse</section>
     <section class="h text-bolder">Savennières Arena - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
+  <a class="flex-item flex-item-right" href="/wines/b5c99371-b78e-464e-a3b4-6ed56440c830.html">
     <img class="flex-bottle" src="/images/b5/c99371-b78e-464e-a3b4-6ed56440c830/2023-05-06-12-00-11-IMG-6809@512.webp"></img>
     <section class="h">Benoît Lahaye</section>
     <section class="h text-bolder">Le Jardin de la Grosse Pierre - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
+  <a class="flex-item flex-item-left" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
     <img class="flex-bottle" src="/images/cb/e859e6-edcd-41a3-9d72-3a4bfb4be7bc/2023-05-06-11-36-38-IMG-6791@512.webp"></img>
     <section class="h">Jean-Pierre Robinot</section>
     <section class="h text-bolder">l'Ange Vin L'iris - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da4e356a-f465-4ba5-996c-2f97a9dab5f7.html">
+  <a class="flex-item flex-item-right" href="/wines/da4e356a-f465-4ba5-996c-2f97a9dab5f7.html">
     <img class="flex-bottle" src="/images/da/4e356a-f465-4ba5-996c-2f97a9dab5f7/2023-05-06-11-01-49-D218EB70-0C33-4201-92A3-ECB1F344098B-1-105-c@512.webp"></img>
     <section class="h">Denavolo</section>
     <section class="h text-bolder">Mansano - 2021</section>

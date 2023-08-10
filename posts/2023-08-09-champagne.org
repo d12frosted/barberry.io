@@ -1,0 +1,215 @@
+[[file:/images/2023-08-09-champagne/2023-08-10-10-43-36-IMG-8784.webp]]
+
+When wine from your wishlist turns out to be exceptional, you receive a flood of dopamine and endorphins. Krug and Cristal had been on my list for a long time. Thanks to Elena and Roman, we finally got to taste them. The final scoreboard speaks volumes. Krug and Cristal are by far the highest-scoring wines we tried this year.
+
+As you can see, not every wine was equally interesting. In my opinion, it would be better to gather in a smaller group and taste 3-4 bottles to appreciate and enjoy these delightful drops. Nevertheless, we had a lot of fun. We tasted the first four wines in parallel and blindly to avoid being biased. Were they tasty? Not so much. However, they clearly demonstrated the vast difference between artisan Champagne and mass-market products.
+
+1. [[barberry:/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d][Bollinger Special Cuvée NV]]
+2. [[barberry:/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0][G.H.Mumm Grand Cordon Brut NV]]
+3. [[barberry:/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1][Veuve Clicquot Brut Yellow Label NV]]
+4. [[barberry:/wines/63fa302c-4073-49b1-99ed-3228df8edac1][Moët & Chandon Impérial Brut NV]]
+5. [[barberry:/wines/e3b6939f-46d3-47ee-9858-f92631091fa6][Moët & Chandon Dom Pérignon Rosé Brut 2006]]
+6. [[barberry:/wines/3cbe90fc-b88d-4d93-8581-c471753af852][Louis Roederer Cristal 2014]]
+7. [[barberry:/wines/429ced3e-5562-41bf-be16-ea97086b244a][Krug Brut 2006]]
+
+Do you want to know the ratings of all the wines from this year's tasting events? Don't worry! I will post them closer to the end of the year.
+
+By the way, I deliberately decided to gather only 10 people instead of 12 for the next wine tasting dedicated to Arianna Occhipinti. And afterwards, I plan to experiment with even smaller groups (up to 7 people). I understand the need to taste more and more, but I feel the urge to slow down.
+
+* Scores
+:PROPERTIES:
+:ID:                     378df313-1a53-418a-a849-df90936d39fe
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite | outcast |    price |      QPR |
+|---------+----------+--------+-----------+---------+----------+----------|
+| Wine #1 |   3.9728 | 0.0221 |      0.00 |    0.00 |  3140.00 |   0.7306 |
+| Wine #2 |   3.8411 | 0.0084 |      0.00 |    3.00 |  2170.00 | *0.8716* |
+| Wine #3 |   3.9124 | 0.0189 |      0.00 |    0.00 |  3300.00 |   0.6357 |
+| Wine #4 |   3.7363 | 0.0222 |      0.00 |  +5.00+ |  1860.00 |   0.8705 |
+| Wine #5 |   4.1918 | 0.0149 |      0.00 |    0.00 | 15300.00 |   0.2097 |
+| Wine #6 |   4.4948 | 0.0429 |      4.00 |    0.00 | 12700.00 |   0.4056 |
+| Wine #7 | *4.5020* | 0.0180 |    *5.00* |    0.00 | 18500.00 |   0.2829 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =favourite= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Bollinger Special Cuvée NV
+:PROPERTIES:
+:ID:                     7c1b3607-5996-4171-a80b-684ffe8186d9
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-35-32-IMG-8772.webp]]
+
+- producer: [[barberry:/producers/d66375d3-e0e3-4d7f-8787-55b74ac8fee3][Bollinger]]
+- name: [[barberry:/wines/e73363c3-7522-43f3-9641-fb0cb78a5a6d][Special Cuvée]]
+- vintage: NV
+- base: N/A
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Pinot Noir, Chardonnay, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 8
+- price: 3140 UAH
+
+* G.H.Mumm Grand Cordon Brut NV
+:PROPERTIES:
+:ID:                     1e66c3a4-45cd-4ab4-856b-7c638507b991
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-40-13-IMG-8775.webp]]
+
+- producer: [[barberry:/producers/c82d7db0-1895-4e3a-a1e6-bbfac2c04bb1][G.H.Mumm]]
+- name: [[barberry:/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0][Grand Cordon Brut]]
+- vintage: NV
+- base: N/A
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Pinot Noir, Chardonnay, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: N/A
+- price: 2170 UAH
+
+* Veuve Clicquot Brut Yellow Label NV
+:PROPERTIES:
+:ID:                     90b5db63-9918-42a6-824c-2dbafb0ead5f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-43-41-IMG-8765.webp]]
+
+- producer: [[barberry:/producers/1f4fcfc7-73df-4a57-a447-65d5e4040c8e][Veuve Clicquot]]
+- name: [[barberry:/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1][Brut Yellow Label]]
+- vintage: NV
+- base: N/A
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Pinot Noir, Chardonnay, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: N/A
+- price: 3300 UAH
+
+* Moët & Chandon Impérial Brut NV
+:PROPERTIES:
+:ID:                     1f44f7b5-168d-4640-8429-81ba46927c82
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-44-11-IMG-8762.webp]]
+
+- producer: [[barberry:/producers/4adf3d90-04a2-4b8a-a0c9-07533dfc759f][Moët & Chandon]]
+- name: [[barberry:/wines/63fa302c-4073-49b1-99ed-3228df8edac1][Impérial Brut]]
+- vintage: NV
+- base: N/A
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Pinot Noir, Pinot Meunier, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: N/A
+- price: 1860 UAH
+
+* Moët & Chandon Dom Pérignon Rosé Brut 2006
+:PROPERTIES:
+:ID:                     5aa1c274-087c-49ba-a9c3-802fd07ebcbd
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-46-47-IMG-8778.webp]]
+
+- producer: [[barberry:/producers/4adf3d90-04a2-4b8a-a0c9-07533dfc759f][Moët & Chandon]]
+- name: [[barberry:/wines/e3b6939f-46d3-47ee-9858-f92631091fa6][Dom Pérignon Rosé Brut]]
+- vintage: 2006
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 15300 UAH
+
+* Louis Roederer Cristal 2014
+:PROPERTIES:
+:ID:                     7405549e-b7ad-4d29-a9a4-f6df19db8ed7
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-10-47-05-IMG-8758.webp]]
+
+- producer: [[barberry:/producers/c4629817-d1d1-4a80-a9aa-e7dcb9fedeb1][Louis Roederer]]
+- name: [[barberry:/wines/3cbe90fc-b88d-4d93-8581-c471753af852][Cristal]]
+- vintage: 2014
+- disgorged: June 2021
+- sur lie: 78 months
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 7
+- price: 12700 UAH
+
+A 60/40 blend of Pinot Noir and Chardonnay sourced equally from La Rivière, La Montagne and La Côte vineyards. The main crus (see the map) are Verzenay, Verzy, Beaumont-sur-Vesle, Ay, Avize, Mesnil-sur-Oger and Cramant. None of the wine went through malolactic. Around one-third was vinified in wood.
+
+#+caption: https://thefinestbubble.com/
+[[file:/images/2023-08-09-champagne/2023-08-10-10-52-48-louis-roederer-cristal-map.webp]]
+
+* Krug Brut 2006
+:PROPERTIES:
+:ID:                     2ee1fd0e-fb9e-40e8-a4e6-3d43fbf903d1
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-09-champagne/2023-08-10-11-54-08-IMG-8768.webp]]
+
+- producer: [[barberry:/producers/be79da7b-02fd-4950-94ef-51ab0d27d84d][Krug]]
+- name: [[barberry:/wines/429ced3e-5562-41bf-be16-ea97086b244a][Brut]]
+- vintage: 2006
+- disgorged: N/A
+- sur lie: ~144 months
+- grapes: Pinot Noir, Chardonnay, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 18500 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     b39adbe5-781d-436e-b2a0-a7c6e2547d6d
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Roman R     |    4.00 |    3.90 |    4.00 |     +-+ |    4.30 |    4.50 | *4.60*  |
+| Mykola T    |    3.90 |    3.80 |    3.70 |  +3.60+ |    4.20 |    4.50 | 4.40    |
+| Anya I      |    3.90 |    3.90 |    4.00 |  +3.60+ |    4.20 |    4.00 | *4.30*  |
+| Ivan M      |    4.10 |  +3.80+ |    3.90 |    3.90 |    4.40 |  *4.80* | 4.60    |
+| Ekaterina P |    4.30 |  +3.90+ |    4.20 |    4.00 |    4.00 |  *4.50* | 4.30    |
+| Mykola Ch   |    3.80 |    3.90 |    4.00 |  +3.60+ |    4.10 |    4.30 | *4.50*  |
+| Elvira K    |    4.10 |    4.00 |    3.90 |    3.90 |    4.20 |    4.50 | *4.60*  |
+| Vova U      |    3.80 |    3.70 |    3.80 |    3.60 |    4.00 |  *4.50* | 4.40    |
+| Elena M     |    3.90 |  +3.70+ |    3.80 |    3.70 |    4.30 |  *4.70* | 4.60    |
+| Boris B     |    3.90 |    3.80 |    3.80 |  +3.70+ |    4.20 |    4.60 | *4.70*  |
+

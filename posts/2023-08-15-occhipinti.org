@@ -1,0 +1,96 @@
+Wines:
+
+1. [[barberry:/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4][Arianna Occhipinti SP68 Bianco 2020]]
+1. [[barberry:/wines/e9577901-8db7-4178-bc60-462ccdee35c3][Arianna Occhipinti Vino di Contrada SM 2020]]
+2. [[barberry:/wines/004fb7af-4256-490e-b511-b860c0dc5f78][Arianna Occhipinti Bombolieri BB 2017]]
+3. [[barberry:/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e][Arianna Occhipinti Fossa di Lupo FL 2017]]
+4. [[barberry:/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378][Arianna Occhipinti Pettineo PT 2017]]
+5. [[barberry:/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99][Arianna Occhipinti Il Frappato 2018]]
+6. [[barberry:/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a][Arianna Occhipinti Siccagno 2017]]
+
+* Scores
+:PROPERTIES:
+:ID:                     c14c6479-2503-4714-bb7c-fe33da5f515f
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms | sdev | favourite |   price | QPR |
+|---------+-----+------+-----------+---------+-----|
+| Wine #1 | -   | -    | *0.00*    |    0.00 | -   |
+| Wine #2 | -   | -    | *0.00*    | 2271.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 2290.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 2989.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 2989.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 2989.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 1358.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     a9dec66c-fe96-4c7a-9b83-576dbd0f52da
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|---------+---------+---------+---------+---------+---------+---------+---------|
+| Boris B | -       | -       | -       | -       | -       | -       | -       |
+
+* Preparation
+:PROPERTIES:
+:ID:                     5cd49117-f3e3-4bec-a667-ee6e69d16b2a
+:END:
+
+Participants:
+
+1. Boris Buliga
+2. [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]
+3. [[barberry:/convives/97fa9d91-37d5-4a6d-8b91-ef813ba17281][Elena Menshikova]]
+4. [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]
+5. Ivan Mashkantsev
+6. [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]
+7. [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]
+8. Yaryna Tokar
+9. [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]]
+10. [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]
+
+Waiting list:
+
+1. [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]
+2. Yuliia Yaroshenko
+3. Kateryna Syrotynska
+4. Olena Makedonska
+
+#+name: data
+#+attr_latex: :environment longtable
+|         |            | Wine #1 | Wine #2 |  Wine #3 | Wine #4 | Wine #5 | Wine #6 |  Wine #7 |
+|         | price      |       0 |    2271 |     2290 |    2989 |    2989 |    2989 |     1358 |
+|         | price real |       0 |    1577 |     2290 |       0 |    2570 |    2570 |     1150 |
+|         | name       |    SP68 |      SM | Frappato |      BB |      FL |      PT | Siccagno |
+|---------+------------+---------+---------+----------+---------+---------+---------+----------|
+| Boris B |            |         |         |          |         |         |         |          |
+|         | rating     |         |         |          |         |         |         |          |
+|         | extremum   |         |         |          |         |         |         |          |
+|---------+------------+---------+---------+----------+---------+---------+---------+----------|
+
+#+name: scores
+#+begin_src elisp :exports results :var tbl=data
+  (require 'lib-brb)
+  (brb-raw-scores-to-people tbl)
+#+end_src
+
+#+name: summary
+#+begin_src elisp :exports results :var tbl=data
+  (require 'lib-brb)
+  (brb-raw-scores-to-summary tbl :columns '("rms" "sdev" "favourite" "price" "QPR"))
+#+end_src

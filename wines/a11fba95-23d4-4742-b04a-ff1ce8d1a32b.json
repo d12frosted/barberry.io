@@ -1,0 +1,42 @@
+{
+  "id": "a11fba95-23d4-4742-b04a-ff1ce8d1a32b",
+  "name": "Cordon Rouge Brut",
+  "full-name": "G.H.Mumm Cordon Rouge Brut NV",
+  "producer": {
+    "id": "c82d7db0-1895-4e3a-a1e6-bbfac2c04bb1",
+    "name": "G.H.Mumm"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "8",
+  "prices": [
+    "2200 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a1/1fba95-23d4-4742-b04a-ff1ce8d1a32b/2021-08-14-09-34-10-64D9F31A-6659-4326-BB75-7A48162210AE-1-105-c.webp",
+  "rating": "7.25"
+}

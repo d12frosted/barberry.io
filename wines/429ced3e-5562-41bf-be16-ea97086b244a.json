@@ -1,0 +1,42 @@
+{
+  "id": "429ced3e-5562-41bf-be16-ea97086b244a",
+  "name": "Brut",
+  "full-name": "Krug Brut 2006",
+  "producer": {
+    "id": "be79da7b-02fd-4950-94ef-51ab0d27d84d",
+    "name": "Krug"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": "N/A",
+  "sur-lie": "~144 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "18500 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768.webp",
+  "rating": "NA"
+}

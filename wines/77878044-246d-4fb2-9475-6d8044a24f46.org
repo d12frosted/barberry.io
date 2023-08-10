@@ -38,109 +38,115 @@ Nothing new here. It's just a wonderful wine made by the late Jacky Blot. Multil
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/2e3a144b-504a-4d4d-83d6-8551084cbed2.html">
+  <a class="flex-item flex-item-left" href="/wines/21cd6343-31d5-4740-aecd-292df1af8bb4.html">
+    <img class="flex-bottle" src="/images/21/cd6343-31d5-4740-aecd-292df1af8bb4/2023-08-10-11-56-37-IMG-8787@512.webp"></img>
+    <section class="h">Domaine de la Taille Aux Loups</section>
+    <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2e3a144b-504a-4d4d-83d6-8551084cbed2.html">
     <img class="flex-bottle" src="/images/2e/3a144b-504a-4d4d-83d6-8551084cbed2/2023-04-07-20-31-47-A4464F80-783C-451D-A611-28C7BE060FA3-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
+  <a class="flex-item flex-item-left" href="/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b.html">
     <img class="flex-bottle" src="/images/38/f3bf0d-21eb-4214-a52a-259ffa5b8b7b/2022-08-07-11-25-47-BA97EBD2-6F39-431B-8A91-0169F6889932-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos Michet - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
+  <a class="flex-item flex-item-right" href="/wines/52b83646-0cd4-49be-8356-f6d6ec7c7559.html">
     <img class="flex-bottle" src="/images/52/b83646-0cd4-49be-8356-f6d6ec7c7559/2021-08-25-23-27-35-0018144C-557E-41BB-A48E-2F567CAFAA21-1-102-o@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos Michet - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
+  <a class="flex-item flex-item-left" href="/wines/6ed306ab-8b06-4f38-a6a3-66c9181e9cb0.html">
     <img class="flex-bottle" src="/images/6e/d306ab-8b06-4f38-a6a3-66c9181e9cb0/2021-08-25-23-30-12-C64561F7-6264-4B20-A3D4-78C280634059-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Clos de Mosny Monopole - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
+  <a class="flex-item flex-item-right" href="/wines/83757777-1f8c-4921-8206-45d45eee4fae.html">
     <img class="flex-bottle" src="/images/83/757777-1f8c-4921-8206-45d45eee4fae/2023-04-01-10-15-30-4095103B-7CF7-406F-875D-3B5EA553E27D-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Les Hauts de Husseau - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
+  <a class="flex-item flex-item-left" href="/wines/83d90838-5e63-43af-abc5-f5fb482bc36f.html">
     <img class="flex-bottle" src="/images/83/d90838-5e63-43af-abc5-f5fb482bc36f/2021-11-26-07-56-58-413ECF5C-A714-4E30-9173-CC549B874B94-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Bretonniere Cuvée Parcellaire Monopole - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/97e16400-52f3-4223-b49b-f3aa8db37411.html">
+  <a class="flex-item flex-item-right" href="/wines/97e16400-52f3-4223-b49b-f3aa8db37411.html">
     <img class="flex-bottle" src="/images/97/e16400-52f3-4223-b49b-f3aa8db37411/2023-05-19-16-44-27-IMG-7033@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis Sur Loire Clos de Mosny Monopole - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
+  <a class="flex-item flex-item-left" href="/wines/c8127ca1-e35d-4483-8ef1-b91a974e8829.html">
     <img class="flex-bottle" src="/images/c8/127ca1-e35d-4483-8ef1-b91a974e8829/2023-04-07-20-41-51-D2263A1D-B27E-4DFD-93E3-B06E30E07E0B-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Taille Aux Loups</section>
     <section class="h text-bolder">Montlouis sur Loire Remus - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1fb06bfe-a982-43e3-b317-e67713664f58.html">
+  <a class="flex-item flex-item-right" href="/wines/1fb06bfe-a982-43e3-b317-e67713664f58.html">
     <img class="flex-bottle" src="/images/1f/b06bfe-a982-43e3-b317-e67713664f58/2023-07-05-21-43-58-7F02CA23-67B5-459C-832A-D4EDD1D5A44F-1-105-c@512.webp"></img>
     <section class="h">Vino di Anna</section>
     <section class="h text-bolder">Jeudi 15 Bianco - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded.html">
+  <a class="flex-item flex-item-left" href="/wines/419d4870-6c3b-4bdc-9005-4b99b36e2ded.html">
     <img class="flex-bottle" src="/images/41/9d4870-6c3b-4bdc-9005-4b99b36e2ded/2023-02-09-17-03-00-IMG-4864@512.webp"></img>
     <section class="h">Errazuriz</section>
     <section class="h text-bolder">Aconcagua Costa Chardonnay - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b.html">
+  <a class="flex-item flex-item-right" href="/wines/54aaa7a2-2d02-4d12-9892-e2154b42339b.html">
     <img class="flex-bottle" src="/images/54/aaa7a2-2d02-4d12-9892-e2154b42339b/2023-07-02-14-57-04-IMG-8152@512.webp"></img>
     <section class="h">Aphros</section>
     <section class="h text-bolder">Phaunus Pet Nat Brut - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5cb54c3d-b813-4ffd-b813-5961e3273f40.html">
+  <a class="flex-item flex-item-left" href="/wines/5cb54c3d-b813-4ffd-b813-5961e3273f40.html">
     <img class="flex-bottle" src="/images/5c/b54c3d-b813-4ffd-b813-5961e3273f40/2023-07-04-23-41-00-IMG-8202@512.webp"></img>
     <section class="h">Santo Wines</section>
     <section class="h text-bolder">Santorini Nykteri - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5da4035d-8384-49f4-baec-5b98fec5bfd5.html">
+  <a class="flex-item flex-item-right" href="/wines/5da4035d-8384-49f4-baec-5b98fec5bfd5.html">
     <img class="flex-bottle" src="/images/5d/a4035d-8384-49f4-baec-5b98fec5bfd5/2023-07-05-13-48-49-74DCE5B5-45E0-483A-B711-28E1BE7A1270-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Jouvence - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
+  <a class="flex-item flex-item-left" href="/wines/6bc9fea8-41bf-4e23-a34a-c0f80a5017e6.html">
     <img class="flex-bottle" src="/images/6b/c9fea8-41bf-4e23-a34a-c0f80a5017e6/2022-09-03-15-50-57-81043613-7D41-4E73-AD13-763977C31E4F-1-105-c@512.webp"></img>
     <section class="h">Bott Frigyes</section>
     <section class="h text-bolder">Juhfark - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f.html">
+  <a class="flex-item flex-item-right" href="/wines/b60ee6cd-c27f-498d-98f2-d3c984d9e00f.html">
     <img class="flex-bottle" src="/images/b6/0ee6cd-c27f-498d-98f2-d3c984d9e00f/2023-07-04-23-48-31-IMG-8173@512.webp"></img>
     <section class="h">Pierre Frick</section>
     <section class="h text-bolder">Crémant d'Alsace - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab.html">
+  <a class="flex-item flex-item-left" href="/wines/b9208a9f-b71d-4e49-a3f4-f2cc720a74ab.html">
     <img class="flex-bottle" src="/images/b9/208a9f-b71d-4e49-a3f4-f2cc720a74ab/2023-04-15-14-35-17-DFCFB6F2-5FD0-42F6-80AD-332028E058B6-1-105-c@512.webp"></img>
     <section class="h">Weinbau Wenzel</section>
     <section class="h text-bolder">Furmint Ried Vogelsang - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d85e8c99-c857-4754-bda0-5640e29e96be.html">
+  <a class="flex-item flex-item-right" href="/wines/d85e8c99-c857-4754-bda0-5640e29e96be.html">
     <img class="flex-bottle" src="/images/d8/5e8c99-c857-4754-bda0-5640e29e96be/2023-04-07-20-25-21-342FDA56-ED9C-4026-A91D-035CB863C78A-1-105-c@512.webp"></img>
     <section class="h">Pierre-Yves Colin-Morey</section>
     <section class="h text-bolder">Saint-Aubin Premier Cru La Chateniére - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32.html">
+  <a class="flex-item flex-item-left" href="/wines/e505c724-2b49-4a9d-ae1e-837602b3dd32.html">
     <img class="flex-bottle" src="/images/e5/05c724-2b49-4a9d-ae1e-837602b3dd32/2023-07-04-23-36-35-photo-2023-07-04 23.34.19@512.webp"></img>
     <section class="h">Bret Brothers</section>
     <section class="h text-bolder">Macon-Villages Terroirs du Maconnais - 2021</section>

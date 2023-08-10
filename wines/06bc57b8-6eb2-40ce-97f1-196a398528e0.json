@@ -1,0 +1,42 @@
+{
+  "id": "06bc57b8-6eb2-40ce-97f1-196a398528e0",
+  "name": "Grand Cordon Brut",
+  "full-name": "G.H.Mumm Grand Cordon Brut NV",
+  "producer": {
+    "id": "c82d7db0-1895-4e3a-a1e6-bbfac2c04bb1",
+    "name": "G.H.Mumm"
+  },
+  "vintage": "NV",
+  "base-vintage": "N/A",
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "2170 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775.webp",
+  "rating": "NA"
+}

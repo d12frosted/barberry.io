@@ -1,17 +1,17 @@
 #+attr_html: :class wine-main-image
-[[file:/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-02-04-11-54-58-6EA973FD-7F8E-47EC-B721-3FABC3F617B0-1-105-c@512.webp]]
+[[file:/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762@512.webp]]
 
 - Type :: White Sparkling, Brut
 - Producer :: [[barberry:/producers/4adf3d90-04a2-4b8a-a0c9-07533dfc759f][Moët & Chandon]]
-- Base vintage :: ???
-- Disgorged in :: ???
-- Spent on lees :: ?? months
+- Base vintage :: N/A
+- Disgorged in :: N/A
+- Spent on lees :: N/A
 - Location :: France, Champagne AOC
 - Grapes :: Pinot Noir, Pinot Meunier, Chardonnay
 - Alcohol :: 12
 - Sugar :: NA
-- Price :: 2550 UAH
-- Cellar :: N/A
+- Price :: 1860 UAH, 2550 UAH
+- Cellar :: 2 bottles
 
 ** Ratings
 
@@ -31,37 +31,43 @@ On a more serious note, I understand now why people drink this wine. It's friend
     <section class="h text-bolder">Dom Pérignon Brut - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
+  <a class="flex-item flex-item-right" href="/wines/e3b6939f-46d3-47ee-9858-f92631091fa6.html">
+    <img class="flex-bottle" src="/images/e3/b6939f-46d3-47ee-9858-f92631091fa6/2023-08-10-11-46-47-IMG-8778@512.webp"></img>
+    <section class="h">Moët & Chandon</section>
+    <section class="h text-bolder">Dom Pérignon Rosé Brut - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/6264c897-809f-4aaf-b765-6db6bb266b1b.html">
     <img class="flex-bottle" src="/images/62/64c897-809f-4aaf-b765-6db6bb266b1b/2023-02-04-11-50-12-00E745CB-AD13-4323-BE75-20307A2F55B7-1-105-c@512.webp"></img>
     <section class="h">Canti</section>
     <section class="h text-bolder">Liberty Asti - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
+  <a class="flex-item flex-item-right" href="/wines/62c52d66-b179-4545-9912-76a701e39534.html">
     <img class="flex-bottle" src="/images/62/c52d66-b179-4545-9912-76a701e39534/2023-02-04-11-40-45-AC7529AB-298F-4548-BC14-21F5D80DA1A6-1-105-c@512.webp"></img>
     <section class="h">Silvano Follador</section>
     <section class="h text-bolder">Valdobbiaddene Prosecco Superiore Extra Brut - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b482a809-5815-4136-b68a-4049faa0a736.html">
+  <a class="flex-item flex-item-left" href="/wines/b482a809-5815-4136-b68a-4049faa0a736.html">
     <img class="flex-bottle" src="/images/b4/82a809-5815-4136-b68a-4049faa0a736/2023-02-04-11-52-33-04611971-7C7B-4F73-A776-793C257AE39B-1-105-c@512.webp"></img>
     <section class="h">Bruno Paillard</section>
     <section class="h text-bolder">Dosage Zéro (d2021) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bf77c1a9-c3da-424d-8306-f94769b95a65.html">
+  <a class="flex-item flex-item-right" href="/wines/bf77c1a9-c3da-424d-8306-f94769b95a65.html">
     <img class="flex-bottle" src="/images/bf/77c1a9-c3da-424d-8306-f94769b95a65/2021-12-27-18-44-25-B467424A-B015-4E87-ABE2-6A26CB7C9065-1-105-c@512.webp"></img>
     <section class="h">Cà del Vént</section>
     <section class="h text-bolder">Sospiri Brut Riserva Pas Operé - 2011</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c10c218e-6358-4d6b-a09e-8c8a7131ecc7.html">
+  <a class="flex-item flex-item-left" href="/wines/c10c218e-6358-4d6b-a09e-8c8a7131ecc7.html">
     <img class="flex-bottle" src="/images/c1/0c218e-6358-4d6b-a09e-8c8a7131ecc7/2023-01-10-07-03-41-490B2539-9E40-40F7-B882-8CAB12DD538E-1-102-o@512.webp"></img>
     <section class="h">Tarlant</section>
     <section class="h text-bolder">Prestige Millésime la Lutétienne - 2005</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
+  <a class="flex-item flex-item-right" href="/wines/e69c2217-fba4-4c5c-927f-c4d7049745b3.html">
     <img class="flex-bottle" src="/images/e6/9c2217-fba4-4c5c-927f-c4d7049745b3/2023-02-04-11-47-31-CE5440A7-0774-4C10-BEE3-43EEDB5936A0-1-105-c@512.webp"></img>
     <section class="h">46 Parallel</section>
     <section class="h text-bolder">Apostrophe Brut Classic Dry - NV</section>

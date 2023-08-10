@@ -1,0 +1,42 @@
+{
+  "id": "8dea852e-f5bb-437a-bfb9-13a98e4841f1",
+  "name": "Brut Yellow Label",
+  "full-name": "Veuve Clicquot Brut Yellow Label NV",
+  "producer": {
+    "id": "1f4fcfc7-73df-4a57-a447-65d5e4040c8e",
+    "name": "Veuve Clicquot"
+  },
+  "vintage": "NV",
+  "base-vintage": "N/A",
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "3300 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/8d/ea852e-f5bb-437a-bfb9-13a98e4841f1/2023-08-10-11-43-41-IMG-8765.webp",
+  "rating": "NA"
+}

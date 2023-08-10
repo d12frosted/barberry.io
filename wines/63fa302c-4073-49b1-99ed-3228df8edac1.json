@@ -7,9 +7,9 @@
     "name": "Moët & Chandon"
   },
   "vintage": "NV",
-  "base-vintage": "???",
-  "degorgee": "???",
-  "sur-lie": "?? months",
+  "base-vintage": "N/A",
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -34,9 +34,10 @@
   "alcohol": "12",
   "sugar": "NA",
   "prices": [
+    "1860 UAH",
     "2550 UAH"
   ],
-  "available": 0.0,
-  "image": "images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-02-04-11-54-58-6EA973FD-7F8E-47EC-B721-3FABC3F617B0-1-105-c.webp",
+  "available": 2.0,
+  "image": "images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762.webp",
   "rating": "7.5"
 }

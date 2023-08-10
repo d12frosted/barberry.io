@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/a11fba95-23d4-4742-b04a-ff1ce8d1a32b.html">
+    <img class="flex-bottle" src="/images/a1/1fba95-23d4-4742-b04a-ff1ce8d1a32b/2021-08-14-09-34-10-64D9F31A-6659-4326-BB75-7A48162210AE-1-105-c@512.webp"></img>
+    <section class="h">★ 7.25</section>
+    <section class="h text-bolder">Cordon Rouge Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+    <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Grand Cordon Brut - NV</section>
+  </a>
+
+</div>
+#+end_export

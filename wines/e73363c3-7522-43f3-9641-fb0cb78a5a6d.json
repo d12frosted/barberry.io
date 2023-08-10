@@ -7,9 +7,9 @@
     "name": "Bollinger"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "N/A",
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -34,9 +34,10 @@
   "alcohol": "12",
   "sugar": "8",
   "prices": [
+    "3140 UAH",
     "1950 UAH"
   ],
-  "available": 0,
-  "image": "images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2021-06-23-07-53-15-603B5ACC-5A21-44A8-BD30-EEC15D124D8F-1-201-a.webp",
+  "available": 1.0,
+  "image": "images/e7/3363c3-7522-43f3-9641-fb0cb78a5a6d/2023-08-10-11-35-32-IMG-8772.webp",
   "rating": "8.0"
 }

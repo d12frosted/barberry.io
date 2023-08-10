@@ -1,0 +1,38 @@
+{
+  "id": "e3b6939f-46d3-47ee-9858-f92631091fa6",
+  "name": "Dom Pérignon Rosé Brut",
+  "full-name": "Moët & Chandon Dom Pérignon Rosé Brut 2006",
+  "producer": {
+    "id": "4adf3d90-04a2-4b8a-a0c9-07533dfc759f",
+    "name": "Moët & Chandon"
+  },
+  "vintage": "2006",
+  "base-vintage": null,
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "15300 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e3/b6939f-46d3-47ee-9858-f92631091fa6/2023-08-10-11-46-47-IMG-8778.webp",
+  "rating": "NA"
+}
