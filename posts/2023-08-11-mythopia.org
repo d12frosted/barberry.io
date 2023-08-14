@@ -1,0 +1,210 @@
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-59-36-IMG-8830.webp]]
+
+Wines:
+
+1. [[barberry:/wines/a1841892-ab47-4703-961c-34c8f52eb524][Mythopia π-no 2016]]
+2. [[barberry:/wines/aca0b4aa-9571-481c-ae37-8be89f762092][Frédéric Cossard Mercurey Les Vignes Blanches 2018]]
+3. [[barberry:/wines/6f1adf24-4822-4073-92be-654bfa3eee1e][Mythopia π-no 2017]]
+4. [[barberry:/wines/89de0ed9-f5e8-4f6e-93a4-d06690f5bf37][Wasenhaus Möhlin 2020]]
+5. [[barberry:/wines/c48a7552-ede9-4edf-a0b3-165c79e215e9][Matej Skerlj Vitovska 2016]]
+6. [[barberry:/wines/c9a7e412-ac75-485f-a47d-3f0dc8d4dd2a][Mythopia disobedience 2015]]
+7. [[barberry:/wines/0da122cb-5e6d-4bdf-9f12-4c9b3c086830][Mythopia wild geboren 2012]]
+8. [[barberry:/wines/8b0394fe-ab75-4cb0-a94e-7f33a8f2f2df][Franz Strohmeier Trauben, Liebe und Zeit - Wein de Stille №9 2016]]
+9. [[barberry:/wines/47dd7758-7c6c-424b-81cc-b76f4168d202][Mythopia blue velvet 2018]] (bonus)
+
+* Scores
+:PROPERTIES:
+:ID:                     c578bcc4-4f48-4c6d-869d-705f04187f5c
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite | outcast |   price |      QPR |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 |   4.1490 | 0.0240 |    *4.00* |    0.00 | 2590.00 |   1.1575 |
+| Wine #2 |   4.1030 | 0.0246 |      3.00 |    0.00 | 2390.00 |   1.1687 |
+| Wine #3 |   3.8547 | 0.3013 |      0.00 |  +5.00+ | 2390.00 |   0.7633 |
+| Wine #4 |   4.0941 | 0.0146 |      2.00 |    1.00 | 2990.00 |   0.9233 |
+| Wine #5 |   4.0167 | 0.0105 |      0.00 |    1.00 | 1303.00 | *1.8851* |
+| Wine #6 |   3.9642 | 0.0208 |      0.00 |    1.00 | 2490.00 |   0.9098 |
+| Wine #7 | *4.1648* | 0.0270 |    *4.00* |    1.00 | 2250.00 |   1.3644 |
+| Wine #8 |   3.8965 | 0.0330 |      0.00 |    4.00 | 2066.00 |   0.9890 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Mythopia π-no 2016
+:PROPERTIES:
+:ID:                     81cb8036-e654-4d68-a32c-09ecd8e8bdba
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-24-51-E15F908B-5EA5-4347-8418-791B60D5E4F4-1-105-c.webp]]
+
+- producer: [[barberry:/producers/12ceca42-bce4-45fa-a286-4ae86093b1b4][Mythopia]]
+- name: [[barberry:/wines/a1841892-ab47-4703-961c-34c8f52eb524][π-no]]
+- vintage: 2016
+- grapes: Pinot Noir
+- region: Valais
+- location: Switzerland
+- alcohol: 12
+- sugar: 1.7
+- price: 2590 UAH
+
+* Frédéric Cossard Mercurey Les Vignes Blanches 2018
+:PROPERTIES:
+:ID:                     096d00e0-b08c-490f-87d0-e2ba9b27cb3c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-28-52-B368C5CE-D64A-4BB9-A3CA-5EA9D7FA217B-1-105-c.webp]]
+
+- producer: [[barberry:/producers/3fe6e72f-cabd-4020-8635-0b830f106fda][Frédéric Cossard]]
+- name: [[barberry:/wines/aca0b4aa-9571-481c-ae37-8be89f762092][Mercurey Les Vignes Blanches]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Mercurey AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 0.3
+- price: 2390 UAH
+
+* Mythopia π-no 2017
+:PROPERTIES:
+:ID:                     c3142ddf-02c7-403f-84c3-da36575dc31b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-27-21-0718D194-563C-44DE-89BC-55B0791D4681-1-105-c.webp]]
+
+- producer: [[barberry:/producers/12ceca42-bce4-45fa-a286-4ae86093b1b4][Mythopia]]
+- name: [[barberry:/wines/6f1adf24-4822-4073-92be-654bfa3eee1e][π-no]]
+- vintage: 2017
+- grapes: Pinot Noir
+- region: Valais
+- location: Switzerland
+- alcohol: 12
+- sugar: 1.7
+- price: 2390 UAH
+
+* Wasenhaus Möhlin 2020
+:PROPERTIES:
+:ID:                     1de66f2c-5da7-40bc-aa42-50011d6535fb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-25-56-6F4EE96F-3666-47E4-AA59-A05A07D70A84-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e463ddb4-d593-4913-80e1-b841330d4cf6][Wasenhaus]]
+- name: [[barberry:/wines/89de0ed9-f5e8-4f6e-93a4-d06690f5bf37][Möhlin]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Badischer Landwein
+- location: Germany
+- alcohol: 12.5
+- sugar: 0
+- price: 2990 UAH
+
+* Matej Skerlj Vitovska 2016
+:PROPERTIES:
+:ID:                     144a9204-41bc-42fb-86c7-15cb998e1270
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-22-14-69ED5AC2-1521-46CE-A46B-749C2B5EE4A2-1-105-c.webp]]
+
+- producer: [[barberry:/producers/7007dcb1-3154-4ea3-b250-6275b655d9a7][Matej Skerlj]]
+- name: [[barberry:/wines/c48a7552-ede9-4edf-a0b3-165c79e215e9][Vitovska]]
+- vintage: 2016
+- grapes: Vitovska
+- appellation: IGP Venezia Giulia
+- location: Friuli-Venezia Giulia, Italy
+- alcohol: 12
+- sugar: N/A
+- price: 1303 UAH
+
+* Mythopia disobedience 2015
+:PROPERTIES:
+:ID:                     60067ac3-d404-4c9c-b35f-9680f1ca481d
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-20-55-018D509B-3376-4C99-A4C9-96D6E93FC8DF-1-105-c.webp]]
+
+- producer: [[barberry:/producers/12ceca42-bce4-45fa-a286-4ae86093b1b4][Mythopia]]
+- name: [[barberry:/wines/c9a7e412-ac75-485f-a47d-3f0dc8d4dd2a][disobedience]]
+- vintage: 2015
+- grapes: Chasselas
+- region: Valais
+- location: Switzerland
+- alcohol: 12
+- sugar: 0.89
+- price: 2490 UAH
+
+* Mythopia wild geboren 2012
+:PROPERTIES:
+:ID:                     0c2f061a-bb05-4f1d-9399-90ad20887db4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-29-39-646854AA-6C30-4E72-BE15-DBF5AFF5803C-1-105-c.webp]]
+
+- producer: [[barberry:/producers/12ceca42-bce4-45fa-a286-4ae86093b1b4][Mythopia]]
+- name: [[barberry:/wines/0da122cb-5e6d-4bdf-9f12-4c9b3c086830][wild geboren]]
+- vintage: 2012
+- grapes: Chasselas
+- region: Valais
+- location: Switzerland
+- alcohol: 12
+- sugar: 1.1
+- price: 2250 UAH
+
+* Franz Strohmeier Trauben, Liebe und Zeit - Wein de Stille №9 2016
+:PROPERTIES:
+:ID:                     03f46482-c726-4f71-af64-0ec90b8364cd
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-11-mythopia/2023-08-14-16-19-18-978A2F49-4C56-4CFF-A77C-B972CE201409-1-105-c.webp]]
+
+- producer: [[barberry:/producers/11098691-7b90-4c23-b496-130eae785846][Franz Strohmeier]]
+- name: [[barberry:/wines/8b0394fe-ab75-4cb0-a94e-7f33a8f2f2df][Trauben, Liebe und Zeit - Wein de Stille №9]]
+- vintage: 2016
+- grapes: Sauvignon Blanc
+- appellation: Landwein aus Österreich
+- location: Austria
+- alcohol: 12
+- sugar: N/A
+- price: 2066 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     fc8ffe48-3df9-428f-9a58-df75db5a9337
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|           | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-----------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Vova U    |    4.20 |    4.10 |  +3.50+ |    3.90 |    4.10 |    4.00 |  *4.40* |    3.70 |
+| Diana M   |    4.00 |    3.70 |    3.90 |  *4.10* |    4.20 |    3.80 |    4.00 |  +3.70+ |
+| Mykola Ch |  *4.40* |    4.10 |  +3.90+ |    4.10 |    4.00 |    4.10 |    4.20 |    4.10 |
+| Mykola T  |  *4.30* |    4.20 |  +4.10+ |    4.10 |    4.00 |    4.10 |    4.20 |    3.90 |
+| Anya I    |  *4.30* |    4.20 |  +4.10+ |    4.20 |    4.10 |    4.20 |    4.30 |    4.10 |
+| Anna P    |    4.20 |    4.20 |    4.10 |    4.20 |    4.00 |  +4.00+ |  *4.30* |    4.20 |
+| David H   |  *4.40* |    4.30 |    3.90 |    4.20 |  +3.80+ |    3.80 |    4.30 |    4.00 |
+| Vitalii M |    4.00 |  *4.10* |    4.00 |    4.00 |    4.00 |    3.90 |    4.10 |  +3.80+ |
+| Anna Z    |    4.00 |  *4.10* |    4.00 |    4.00 |    4.00 |    3.90 |    4.00 |  +3.80+ |
+| Kristina  |    4.00 |    3.90 |    3.90 |  *4.30* |    3.90 |    3.90 |    4.00 |  +3.60+ |
+| Ivan M    |    4.10 |    4.10 |    4.20 |  +3.90+ |    4.10 |    4.20 |  *4.30* |    4.00 |
+| Serhii H  |    4.00 |  *4.30* |    4.00 |    4.20 |    4.10 |    3.80 |  +3.80+ |    4.00 |
+| Boris B   |    4.00 |    4.00 |  +2.00+ |    4.00 |    3.90 |    3.80 |  *4.20* |    3.70 |
+

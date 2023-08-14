@@ -1,0 +1,34 @@
+{
+  "id": "8b0394fe-ab75-4cb0-a94e-7f33a8f2f2df",
+  "name": "Trauben, Liebe und Zeit - Wein de Stille №9",
+  "full-name": "Franz Strohmeier Trauben, Liebe und Zeit - Wein de Stille №9 2016",
+  "producer": {
+    "id": "11098691-7b90-4c23-b496-130eae785846",
+    "name": "Franz Strohmeier"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "75753ed0-7943-49e3-bf2f-6a2906ddd035",
+    "name": "Austria"
+  },
+  "grapes": [
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "2066 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/8b/0394fe-ab75-4cb0-a94e-7f33a8f2f2df/2023-08-14-16-19-18-978A2F49-4C56-4CFF-A77C-B972CE201409-1-105-c.webp",
+  "rating": "7.4"
+}

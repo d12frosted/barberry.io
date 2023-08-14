@@ -1,0 +1,34 @@
+{
+  "id": "0da122cb-5e6d-4bdf-9f12-4c9b3c086830",
+  "name": "wild geboren",
+  "full-name": "Mythopia wild geboren 2012",
+  "producer": {
+    "id": "12ceca42-bce4-45fa-a286-4ae86093b1b4",
+    "name": "Mythopia"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "aa638cff-5281-49ca-8299-201ac18905cd",
+    "name": "Switzerland"
+  },
+  "grapes": [
+    {
+      "id": "c2c7ab2c-f778-4f63-9452-56f1693444ef",
+      "name": "Chasselas"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1.1",
+  "prices": [
+    "2250 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/0d/a122cb-5e6d-4bdf-9f12-4c9b3c086830/2023-08-14-16-29-39-646854AA-6C30-4E72-BE15-DBF5AFF5803C-1-105-c.webp",
+  "rating": "8.5"
+}

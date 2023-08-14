@@ -1,0 +1,34 @@
+{
+  "id": "c9a7e412-ac75-485f-a47d-3f0dc8d4dd2a",
+  "name": "disobedience",
+  "full-name": "Mythopia disobedience 2015",
+  "producer": {
+    "id": "12ceca42-bce4-45fa-a286-4ae86093b1b4",
+    "name": "Mythopia"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "aa638cff-5281-49ca-8299-201ac18905cd",
+    "name": "Switzerland"
+  },
+  "grapes": [
+    {
+      "id": "c2c7ab2c-f778-4f63-9452-56f1693444ef",
+      "name": "Chasselas"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.89",
+  "prices": [
+    "2490 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/c9/a7e412-ac75-485f-a47d-3f0dc8d4dd2a/2023-08-14-16-20-55-018D509B-3376-4C99-A4C9-96D6E93FC8DF-1-105-c.webp",
+  "rating": "7.5"
+}

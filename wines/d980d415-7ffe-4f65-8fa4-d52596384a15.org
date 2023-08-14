@@ -1,0 +1,51 @@
+#+attr_html: :class wine-main-image
+[[file:/images/d9/80d415-7ffe-4f65-8fa4-d52596384a15/2023-08-14-16-12-04-CDA1491D-F5FA-432C-A02A-E8BC58AB4C7A-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/b846340e-a055-4a86-b743-ee48c1192baa][Laherte Fréres]]
+- Vintage :: NV
+- Disgorged in :: May 2021
+- Spent on lees :: N/A
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-08-12 - ☆ 8.00
+
+Good value! Lemon tart with meringue, shells, gingerbread, chalk and pear candies. Not overly complex, young yet delicious and persistent.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/986760d6-6a3f-4c57-a7ce-7fb782c99dea.html">
+    <img class="flex-bottle" src="/images/98/6760d6-6a3f-4c57-a7ce-7fb782c99dea/2022-12-03-09-14-24-A28D5C54-6249-40CA-8461-CE9436C9627E-1-105-c@512.webp"></img>
+    <section class="h">Laherte Fréres</section>
+    <section class="h text-bolder">Empreintes - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/583eb932-4216-4d50-a6bd-045e60831635.html">
+    <img class="flex-bottle" src="/images/58/3eb932-4216-4d50-a6bd-045e60831635/2023-08-14-16-07-53-0863FFC4-0F5E-419E-8F2D-2C376092153F-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">50 Gradi all'Ombra - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/66832d2b-3525-4c0e-ba25-b0269b0779a1.html">
+    <img class="flex-bottle" src="/images/66/832d2b-3525-4c0e-ba25-b0269b0779a1/2023-08-14-16-10-28-B1396452-9DA5-4974-8496-6D185768966E-1-105-c@512.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Bourgogne Les Riaux - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d11e70d5-622e-4d3a-b39a-382d2069fbea.html">
+    <img class="flex-bottle" src="/images/d1/1e70d5-622e-4d3a-b39a-382d2069fbea/2023-08-14-16-08-57-64CEAEC0-D0E0-498B-AEE4-C545AC63E28A-1-105-c@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Pithos Bianco - 2019</section>
+  </a>
+
+</div>
+#+end_export

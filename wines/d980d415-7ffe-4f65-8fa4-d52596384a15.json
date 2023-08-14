@@ -1,0 +1,34 @@
+{
+  "id": "d980d415-7ffe-4f65-8fa4-d52596384a15",
+  "name": "Blanc de Blancs Brut Nature",
+  "full-name": "Laherte Fréres Blanc de Blancs Brut Nature NV",
+  "producer": {
+    "id": "b846340e-a055-4a86-b743-ee48c1192baa",
+    "name": "Laherte Fréres"
+  },
+  "vintage": "NV",
+  "base-vintage": null,
+  "degorgee": "May 2021",
+  "sur-lie": "N/A",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/d9/80d415-7ffe-4f65-8fa4-d52596384a15/2023-08-14-16-12-04-CDA1491D-F5FA-432C-A02A-E8BC58AB4C7A-1-105-c.webp",
+  "rating": "8.0"
+}

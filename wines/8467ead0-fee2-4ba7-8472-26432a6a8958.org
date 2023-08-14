@@ -39,43 +39,49 @@ Maybe I am too generous here, but I really enjoyed this Spätburgunder. It shows
     <section class="h text-bolder">Spätburgunder - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ccc7fb99-5ce1-4e87-9815-074ee3f02c79.html">
+  <a class="flex-item flex-item-right" href="/wines/89de0ed9-f5e8-4f6e-93a4-d06690f5bf37.html">
+    <img class="flex-bottle" src="/images/89/de0ed9-f5e8-4f6e-93a4-d06690f5bf37/2023-08-14-16-25-56-6F4EE96F-3666-47E4-AA59-A05A07D70A84-1-105-c@512.webp"></img>
+    <section class="h">Wasenhaus</section>
+    <section class="h text-bolder">Möhlin - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ccc7fb99-5ce1-4e87-9815-074ee3f02c79.html">
     <img class="flex-bottle" src="/images/cc/c7fb99-5ce1-4e87-9815-074ee3f02c79/2021-10-08-10-59-59-4B82BAA7-CBC8-469D-BB09-3F59A32B9069-1-105-c@512.webp"></img>
     <section class="h">Wasenhaus</section>
     <section class="h text-bolder">Vulkan - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eeb4d4b9-5df4-4893-9a90-e7d063c1c324.html">
+  <a class="flex-item flex-item-right" href="/wines/eeb4d4b9-5df4-4893-9a90-e7d063c1c324.html">
     <img class="flex-bottle" src="/images/ee/b4d4b9-5df4-4893-9a90-e7d063c1c324/2022-08-20-10-40-12-9E9831A2-7675-407D-9E89-4E6436AE266E-1-105-c@512.webp"></img>
     <section class="h">Wasenhaus</section>
     <section class="h text-bolder">Filzen - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">
+  <a class="flex-item flex-item-left" href="/wines/f50846a9-7384-4585-93e9-9a764ff76e2a.html">
     <img class="flex-bottle" src="/images/f5/0846a9-7384-4585-93e9-9a764ff76e2a/2022-07-30-10-48-32-51C8D344-3930-4C6B-99F0-E9CC849B61F2-1-102-o@512.webp"></img>
     <section class="h">Wasenhaus</section>
     <section class="h text-bolder">Spätburgunder - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/600a50e9-e2db-47b4-805d-acf0cfa9b018.html">
+  <a class="flex-item flex-item-right" href="/wines/600a50e9-e2db-47b4-805d-acf0cfa9b018.html">
     <img class="flex-bottle" src="/images/60/0a50e9-e2db-47b4-805d-acf0cfa9b018/2022-07-28-07-07-43-CFD59EFE-4F88-4287-9CA5-F4F5CA152C12-1-105-c@512.webp"></img>
     <section class="h">Oremus</section>
     <section class="h text-bolder">Mandolás - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">
+  <a class="flex-item flex-item-left" href="/wines/6019c3fc-f761-4f54-8e39-ab1fadecaa97.html">
     <img class="flex-bottle" src="/images/60/19c3fc-f761-4f54-8e39-ab1fadecaa97/2022-07-28-07-04-22-665F5858-0629-42FD-AAD9-20E7F8CD5E60-1-105-c@512.webp"></img>
     <section class="h">De Fermo</section>
     <section class="h text-bolder">Don Carlino Pecorino Colline Pescaresi - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
+  <a class="flex-item flex-item-right" href="/wines/c765bf10-f52c-4c91-bf86-c80c1027c587.html">
     <img class="flex-bottle" src="/images/c7/65bf10-f52c-4c91-bf86-c80c1027c587/2022-11-19-09-27-03-7AF7C3C8-9559-42E2-92A5-C32091763D9E-1-105-c@512.webp"></img>
     <section class="h">Victoria E. Torres Pecis</section>
     <section class="h text-bolder">Vino de Solera de Listán Blanco - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">
+  <a class="flex-item flex-item-left" href="/wines/d4ae10ce-c086-4592-bd4e-37e41322918c.html">
     <img class="flex-bottle" src="/images/d4/ae10ce-c086-4592-bd4e-37e41322918c/2022-07-08-09-31-06-1CD70F52-E6A6-485F-91F7-CA8F377070D6-1-105-c@512.webp"></img>
     <section class="h">Piera Martellozzo</section>
     <section class="h text-bolder">Terre Magre Ribolla Gialla - NV</section>

@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/986760d6-6a3f-4c57-a7ce-7fb782c99dea.html">
+  <a class="flex-item flex-item-left" href="/wines/d980d415-7ffe-4f65-8fa4-d52596384a15.html">
+    <img class="flex-bottle" src="/images/d9/80d415-7ffe-4f65-8fa4-d52596384a15/2023-08-14-16-12-04-CDA1491D-F5FA-432C-A02A-E8BC58AB4C7A-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Blanc de Blancs Brut Nature - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/986760d6-6a3f-4c57-a7ce-7fb782c99dea.html">
     <img class="flex-bottle" src="/images/98/6760d6-6a3f-4c57-a7ce-7fb782c99dea/2022-12-03-09-14-24-A28D5C54-6249-40CA-8461-CE9436C9627E-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Empreintes - 2015</section>

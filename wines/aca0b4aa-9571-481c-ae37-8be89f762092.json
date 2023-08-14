@@ -1,0 +1,34 @@
+{
+  "id": "aca0b4aa-9571-481c-ae37-8be89f762092",
+  "name": "Mercurey Les Vignes Blanches",
+  "full-name": "Frédéric Cossard Mercurey Les Vignes Blanches 2018",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.3",
+  "prices": [
+    "2390 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/ac/a0b4aa-9571-481c-ae37-8be89f762092/2023-08-14-16-28-52-B368C5CE-D64A-4BB9-A3CA-5EA9D7FA217B-1-105-c.webp",
+  "rating": "8.0"
+}

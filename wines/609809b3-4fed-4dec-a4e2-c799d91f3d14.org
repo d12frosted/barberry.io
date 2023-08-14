@@ -37,73 +37,79 @@ For some reason, I completely forgot how beautiful this wine is. It's not preten
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+  <a class="flex-item flex-item-left" href="/wines/583eb932-4216-4d50-a6bd-045e60831635.html">
+    <img class="flex-bottle" src="/images/58/3eb932-4216-4d50-a6bd-045e60831635/2023-08-14-16-07-53-0863FFC4-0F5E-419E-8F2D-2C376092153F-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">50 Gradi all'Ombra - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
     <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2020) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
+  <a class="flex-item flex-item-left" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
     <img class="flex-bottle" src="/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-27-13-26-50-89485321-BEF5-4A75-A874-701410C0870B-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1c2dbd99-720b-4c12-8222-1c2f42644946.html">
+  <a class="flex-item flex-item-right" href="/wines/1c2dbd99-720b-4c12-8222-1c2f42644946.html">
     <img class="flex-bottle" src="/images/1c/2dbd99-720b-4c12-8222-1c2f42644946/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c@512.webp"></img>
     <section class="h">Serragghia</section>
     <section class="h text-bolder">Heritage Zibibbo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/23ee479b-88c6-4213-b2d7-099d16da7181.html">
+  <a class="flex-item flex-item-left" href="/wines/23ee479b-88c6-4213-b2d7-099d16da7181.html">
     <img class="flex-bottle" src="/images/23/ee479b-88c6-4213-b2d7-099d16da7181/2022-12-27-07-20-28-74366740-6816-40D4-88F8-A7AA8709C519-1-105-c@512.webp"></img>
     <section class="h">Clos Lentiscus</section>
     <section class="h text-bolder">Perill Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2feb39b3-9f38-4074-a53e-db8ea7a8f890.html">
+  <a class="flex-item flex-item-right" href="/wines/2feb39b3-9f38-4074-a53e-db8ea7a8f890.html">
     <img class="flex-bottle" src="/images/2f/eb39b3-9f38-4074-a53e-db8ea7a8f890/2022-08-17-10-30-53-F89666D3-4854-4F22-A74B-9EDA20D2F502-1-105-c@512.webp"></img>
     <section class="h">Alberto Oggero</section>
     <section class="h text-bolder">Roero Nebbiolo - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
+  <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2023-06-16-15-59-13-IMG-7756@512.webp"></img>
     <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
+  <a class="flex-item flex-item-right" href="/wines/791efcc0-b9f6-4de7-b4ec-81721d7e417e.html">
     <img class="flex-bottle" src="/images/79/1efcc0-b9f6-4de7-b4ec-81721d7e417e/2022-06-09-21-43-21-IMG-0369@512.webp"></img>
     <section class="h">Anne et J.F. Ganevat</section>
     <section class="h text-bolder">Les Miracules - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8208a078-db47-44da-9bbb-054b44d6c5d9.html">
+  <a class="flex-item flex-item-left" href="/wines/8208a078-db47-44da-9bbb-054b44d6c5d9.html">
     <img class="flex-bottle" src="/images/82/08a078-db47-44da-9bbb-054b44d6c5d9/2022-12-27-07-18-13-26541173-0FA5-4A77-B6B6-F6872813BFD9-1-105-c@512.webp"></img>
     <section class="h">Fleury</section>
     <section class="h text-bolder">Fleur de L'Europe Brut Nature (2014) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+  <a class="flex-item flex-item-right" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
     <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c@512.webp"></img>
     <section class="h">Sadie Family</section>
     <section class="h text-bolder">Skerpioen - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c931a809-fe62-41f4-9f5b-75f4fc3bafcc.html">
+  <a class="flex-item flex-item-left" href="/wines/c931a809-fe62-41f4-9f5b-75f4fc3bafcc.html">
     <img class="flex-bottle" src="/images/c9/31a809-fe62-41f4-9f5b-75f4fc3bafcc/2022-12-23-13-25-50-IMG-3982@512.webp"></img>
     <section class="h">Domaine Ganevat</section>
     <section class="h text-bolder">Les Dévoilés - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
+  <a class="flex-item flex-item-right" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
     <img class="flex-bottle" src="/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c@512.webp"></img>
     <section class="h">Chandon de Briailles</section>
     <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
+  <a class="flex-item flex-item-left" href="/wines/fd039a96-5a17-4b9a-8ee8-1337c3e99fba.html">
     <img class="flex-bottle" src="/images/fd/039a96-5a17-4b9a-8ee8-1337c3e99fba/2020-08-29-18-40-29-A9ABA1BA-0D52-42AE-91A9-FE8B3DB8B554-1-105-c@512.webp"></img>
     <section class="h">Francoise Bedel</section>
     <section class="h text-bolder">Entre Ciel & Terre (2013) - NV</section>

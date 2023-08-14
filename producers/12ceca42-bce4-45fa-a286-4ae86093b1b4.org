@@ -3,9 +3,33 @@
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/47dd7758-7c6c-424b-81cc-b76f4168d202.html">
+    <img class="flex-bottle" src="/images/47/dd7758-7c6c-424b-81cc-b76f4168d202/2023-08-14-16-30-51-98B39C45-6DA8-4FF0-A341-F1DA8459A929-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">blue velvet - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c9a7e412-ac75-485f-a47d-3f0dc8d4dd2a.html">
+    <img class="flex-bottle" src="/images/c9/a7e412-ac75-485f-a47d-3f0dc8d4dd2a/2023-08-14-16-20-55-018D509B-3376-4C99-A4C9-96D6E93FC8DF-1-105-c@512.webp"></img>
+    <section class="h">★ 7.50</section>
+    <section class="h text-bolder">disobedience - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/0da122cb-5e6d-4bdf-9f12-4c9b3c086830.html">
+    <img class="flex-bottle" src="/images/0d/a122cb-5e6d-4bdf-9f12-4c9b3c086830/2023-08-14-16-29-39-646854AA-6C30-4E72-BE15-DBF5AFF5803C-1-105-c@512.webp"></img>
+    <section class="h">★ 8.50</section>
+    <section class="h text-bolder">wild geboren - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a1841892-ab47-4703-961c-34c8f52eb524.html">
+    <img class="flex-bottle" src="/images/a1/841892-ab47-4703-961c-34c8f52eb524/2023-08-14-16-24-51-E15F908B-5EA5-4347-8418-791B60D5E4F4-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">π-no - 2016</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/6f1adf24-4822-4073-92be-654bfa3eee1e.html">
-    <img class="flex-bottle" src="/images/6f/1adf24-4822-4073-92be-654bfa3eee1e/2022-12-03-09-45-14-photo-2022-12-03 09.14.46@512.webp"></img>
-    <section class="h">★ 7.00</section>
+    <img class="flex-bottle" src="/images/6f/1adf24-4822-4073-92be-654bfa3eee1e/2023-08-14-16-27-21-0718D194-563C-44DE-89BC-55B0791D4681-1-105-c@512.webp"></img>
+    <section class="h">★ 5.50</section>
     <section class="h text-bolder">π-no - 2017</section>
   </a>
 

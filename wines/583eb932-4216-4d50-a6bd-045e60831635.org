@@ -1,0 +1,65 @@
+#+attr_html: :class wine-main-image
+[[file:/images/58/3eb932-4216-4d50-a6bd-045e60831635/2023-08-14-16-07-53-0863FFC4-0F5E-419E-8F2D-2C376092153F-1-105-c@512.webp]]
+
+- Type :: White Still, Sweet
+- Producer :: [[barberry:/producers/f25fbb5a-7339-433c-8a73-17c6157afc1e][Alessandro Viola]]
+- Vintage :: 2021
+- Location :: Italy, IGP Terre Siciliane
+- Grapes :: Grillo
+- Alcohol :: 14
+- Sugar :: 100
+- Price :: 1190 UAH
+- Cellar :: N/A
+
+** Producer
+
+Alessandro Viola is a small winery owning 7 hectares of vineyard planted with grapes Grillo, Nero d'Avola, Nerello Mascalese and Catarratto. It is located in Trapani province, near Alcamo city in Pietra district and just on the rest of Mount Bonifitato.
+
+** Ratings
+
+*** 2023-08-12 - ☆ 8.25
+
+Oh my, what a delicious treatment. A complex bouquet of apricot jam (you can feel the strings of the falling fruit), persimmon, canned peach, caramel and a bit of VA. Acidity nicely balances the sweetness level. Multilayered and persistent. Nice.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/609809b3-4fed-4dec-a4e2-c799d91f3d14.html">
+    <img class="flex-bottle" src="/images/60/9809b3-4fed-4dec-a4e2-c799d91f3d14/2020-11-03-21-57-17-53BFA6B1-9388-4EF0-888D-2FAD82BC1FE8-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Le mie Origini - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+    <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2020) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c44832eb-c5eb-44e8-891b-7d0dde919a61.html">
+    <img class="flex-bottle" src="/images/c4/4832eb-c5eb-44e8-891b-7d0dde919a61/2023-05-27-13-26-50-89485321-BEF5-4A75-A874-701410C0870B-1-105-c@512.webp"></img>
+    <section class="h">Alessandro Viola</section>
+    <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2022) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/66832d2b-3525-4c0e-ba25-b0269b0779a1.html">
+    <img class="flex-bottle" src="/images/66/832d2b-3525-4c0e-ba25-b0269b0779a1/2023-08-14-16-10-28-B1396452-9DA5-4974-8496-6D185768966E-1-105-c@512.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Bourgogne Les Riaux - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d11e70d5-622e-4d3a-b39a-382d2069fbea.html">
+    <img class="flex-bottle" src="/images/d1/1e70d5-622e-4d3a-b39a-382d2069fbea/2023-08-14-16-08-57-64CEAEC0-D0E0-498B-AEE4-C545AC63E28A-1-105-c@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Pithos Bianco - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d980d415-7ffe-4f65-8fa4-d52596384a15.html">
+    <img class="flex-bottle" src="/images/d9/80d415-7ffe-4f65-8fa4-d52596384a15/2023-08-14-16-12-04-CDA1491D-F5FA-432C-A02A-E8BC58AB4C7A-1-105-c@512.webp"></img>
+    <section class="h">Laherte Fréres</section>
+    <section class="h text-bolder">Blanc de Blancs Brut Nature - NV</section>
+  </a>
+
+</div>
+#+end_export

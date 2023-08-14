@@ -4,13 +4,19 @@ Created by [[barberry:/producers/4191c986-fc88-4e47-a038-cc1dd4c8fa31][Dominique
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/5f88de32-8150-4607-af07-3848c0d6c41c.html">
+  <a class="flex-item flex-item-left" href="/wines/66832d2b-3525-4c0e-ba25-b0269b0779a1.html">
+    <img class="flex-bottle" src="/images/66/832d2b-3525-4c0e-ba25-b0269b0779a1/2023-08-14-16-10-28-B1396452-9DA5-4974-8496-6D185768966E-1-105-c@512.webp"></img>
+    <section class="h">★ 8.00</section>
+    <section class="h text-bolder">Bourgogne Les Riaux - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5f88de32-8150-4607-af07-3848c0d6c41c.html">
     <img class="flex-bottle" src="/images/5f/88de32-8150-4607-af07-3848c0d6c41c/2023-05-20-10-43-57-2AE66899-61B5-461A-B2E7-DEC9F2C0B0AA-1-105-c@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Pommard Les Petits Noizons - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
     <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c@512.webp"></img>
     <section class="h">★ 7.75</section>
     <section class="h text-bolder">Saint-Aubin - 2018</section>

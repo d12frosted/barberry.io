@@ -1,0 +1,34 @@
+{
+  "id": "47dd7758-7c6c-424b-81cc-b76f4168d202",
+  "name": "blue velvet",
+  "full-name": "Mythopia blue velvet 2018",
+  "producer": {
+    "id": "12ceca42-bce4-45fa-a286-4ae86093b1b4",
+    "name": "Mythopia"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "aa638cff-5281-49ca-8299-201ac18905cd",
+    "name": "Switzerland"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2.2",
+  "prices": [
+    "3141 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/47/dd7758-7c6c-424b-81cc-b76f4168d202/2023-08-14-16-30-51-98B39C45-6DA8-4FF0-A341-F1DA8459A929-1-105-c.webp",
+  "rating": "8.5"
+}

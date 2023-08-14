@@ -11,8 +11,8 @@
   "degorgee": null,
   "sur-lie": null,
   "colour": "white",
-  "carbonation": "brut-nature",
-  "sweetness": "sparkling",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
   "country": {
     "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
     "name": "Italy"

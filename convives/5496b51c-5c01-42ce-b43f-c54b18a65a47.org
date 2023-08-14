@@ -1,10 +1,19 @@
-Hello, fellow convive! This page contains a list of wines (108 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (112 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Saturday, 12 August 2023
+
+*** @Dachka
+
+- &nbsp; &emptyscore; [[barberry:/wines/d980d415-7ffe-4f65-8fa4-d52596384a15][Laherte Fréres Blanc de Blancs Brut Nature NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/66832d2b-3525-4c0e-ba25-b0269b0779a1][Domaine Derain Bourgogne Les Riaux 2020]]
+- &nbsp; &emptyscore; [[barberry:/wines/583eb932-4216-4d50-a6bd-045e60831635][Alessandro Viola 50 Gradi all'Ombra 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/d11e70d5-622e-4d3a-b39a-382d2069fbea][COS Pithos Bianco 2019]]
 
 ** Tuesday,  4 July 2023
 
