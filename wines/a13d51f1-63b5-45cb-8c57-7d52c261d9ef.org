@@ -56,7 +56,7 @@ Wine #5 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">
-    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2020-07-29-21-42-06-E4D9B4F6-249A-432D-AA7F-11FBBE3ABE5B-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2023-08-15-11-56-16-IMG-8949@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Bombolieri BB - 2017</section>
   </a>
@@ -68,7 +68,7 @@ Wine #5 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">
-    <img class="flex-bottle" src="/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2020-07-29-21-39-39-11068010-DB19-4DF2-91C8-4DD6BB9CB651-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2023-08-15-11-57-00-IMG-8953@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Fossa di Lupo FL - 2017</section>
   </a>
@@ -97,103 +97,109 @@ Wine #5 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
-    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/7ace9823-ef14-4d81-8627-cd045a596bab.html">
+    <img class="flex-bottle" src="/images/7a/ce9823-ef14-4d81-8627-cd045a596bab/2023-08-15-11-59-24-IMG-8956@512.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-08-15-11-55-33-IMG-8946@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
-    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-02-04-12-00-46-14E8164B-1FA3-49A7-9A1E-96F1ED76F8E3-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-08-15-11-57-21-IMG-8955@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
+  <a class="flex-item flex-item-right" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
-    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2023-08-15-11-56-40-IMG-8950@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Pettineo PT - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+  <a class="flex-item flex-item-right" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
     <img class="flex-bottle" src="/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
-    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-01-16-16-51-04-IMG-4382@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-08-15-11-55-01-IMG-8944@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Vino di Contrada SM - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
-    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2023-08-15-11-54-24-IMG-8942@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/0bf73b38-a422-4482-9ed0-8ce6ea74981e.html">
+  <a class="flex-item flex-item-left" href="/wines/0bf73b38-a422-4482-9ed0-8ce6ea74981e.html">
     <img class="flex-bottle" src="/images/0b/f73b38-a422-4482-9ed0-8ce6ea74981e/2023-03-09-11-33-05-IMG-5395@512.webp"></img>
     <section class="h">Loxarel</section>
     <section class="h text-bolder">Clàssic Penedès Brut Nature Reserva - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
+  <a class="flex-item flex-item-right" href="/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7.html">
     <img class="flex-bottle" src="/images/38/11fe0e-abd2-43f1-b405-4133d488b8e7/2022-11-29-10-39-32-IMG-3488@512.webp"></img>
     <section class="h">Marco De Bartoli</section>
     <section class="h text-bolder">Terzavia - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
+  <a class="flex-item flex-item-left" href="/wines/85cd7ff2-5bd7-4964-ac75-d942c480bf92.html">
     <img class="flex-bottle" src="/images/85/cd7ff2-5bd7-4964-ac75-d942c480bf92/2022-11-22-11-36-48-11465561-A32F-4CED-9178-2B7621F8CBB7-1-105-c@512.webp"></img>
     <section class="h">Ca' del Bosco</section>
     <section class="h text-bolder">Franciacorta 44a Edizione Cuvée Prestige - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
     <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2023-01-20-14-40-02-IMG-4490@512.webp"></img>
     <section class="h">Tenuta di Castellaro</section>
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
     <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Ramí - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
+  <a class="flex-item flex-item-right" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
     <img class="flex-bottle" src="/images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317@512.webp"></img>
     <section class="h">Planeta</section>
     <section class="h text-bolder">Cometa - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
+  <a class="flex-item flex-item-left" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
     <img class="flex-bottle" src="/images/c5/38c72e-5d57-45a3-ad1f-26c80ad2d32a/2022-12-01-07-36-15-A7C005B4-0823-46DE-A5E5-F447E657C9C1-1-105-c@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Nerojbleo - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
+  <a class="flex-item flex-item-right" href="/wines/e6963fbd-e081-4322-9113-81f73d7110fe.html">
     <img class="flex-bottle" src="/images/e6/963fbd-e081-4322-9113-81f73d7110fe/2021-04-25-14-32-32-74E70A0B-5B3A-4CD5-893B-4762CEF1024E-1-105-c@512.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvee 743 Grand Vin (2015) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
     <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>

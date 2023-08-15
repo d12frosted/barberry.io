@@ -1,12 +1,22 @@
-Wines:
+Provincial road SP68, wine, vineyards and dry-stone walls: this is the land of Arianna. The sun rises, early in the morning, in the Iblei Mountains, while the sky blushes in layers and the warm light spreads among the rows of Fossa di Lupo. On this panorama grow the 25 hectares of vineyards of Frappato, Nero d'Avola, Albanello and Zibibbo, but also secular olive groves and wheat. The wines are the transpositions of Arianna's love for the place and its past and future.
+
+#+begin_quote
+Sicily is a thousand faces land, but there is a Sicily that I consider mine. It's made of roads, colors and smells that waft in the air. My Sicily is made up by countryside and rock, the one of the Iblei [...]
+
+--- Arianna Occhipinti
+#+end_quote
+
+And today, we have an opportunity to witness the harmonious and unequal being of these wines. Without further ado, meet the protagonists.
 
 1. [[barberry:/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4][Arianna Occhipinti SP68 Bianco 2020]]
-1. [[barberry:/wines/e9577901-8db7-4178-bc60-462ccdee35c3][Arianna Occhipinti Vino di Contrada SM 2020]]
-2. [[barberry:/wines/004fb7af-4256-490e-b511-b860c0dc5f78][Arianna Occhipinti Bombolieri BB 2017]]
-3. [[barberry:/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e][Arianna Occhipinti Fossa di Lupo FL 2017]]
-4. [[barberry:/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378][Arianna Occhipinti Pettineo PT 2017]]
-5. [[barberry:/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99][Arianna Occhipinti Il Frappato 2018]]
-6. [[barberry:/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a][Arianna Occhipinti Siccagno 2017]]
+2. [[barberry:/wines/e9577901-8db7-4178-bc60-462ccdee35c3][Arianna Occhipinti Vino di Contrada SM 2020]]
+3. [[barberry:/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a][Arianna Occhipinti Siccagno 2017]]
+4. [[barberry:/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99][Arianna Occhipinti Il Frappato 2018]]
+5. [[barberry:/wines/004fb7af-4256-490e-b511-b860c0dc5f78][Arianna Occhipinti Bombolieri BB 2017]]
+6. [[barberry:/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378][Arianna Occhipinti Pettineo PT 2017]]
+7. [[barberry:/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e][Arianna Occhipinti Fossa di Lupo FL 2017]]
+
+[[file:/images/2023-08-15-occhipinti/2023-08-15-12-34-28-IMG-8958.webp]]
 
 * Scores
 :PROPERTIES:
@@ -18,13 +28,13 @@ Wines:
 #+results: summary
 |         | rms | sdev | favourite |   price | QPR |
 |---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    |    0.00 | -   |
+| Wine #1 | -   | -    | *0.00*    | 1064.00 | -   |
 | Wine #2 | -   | -    | *0.00*    | 2271.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 2290.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 2989.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1510.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 2290.00 | -   |
 | Wine #5 | -   | -    | *0.00*    | 2989.00 | -   |
 | Wine #6 | -   | -    | *0.00*    | 2989.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 1358.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 2989.00 | -   |
 
 How to read this table:
 
@@ -34,6 +44,191 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
+* About Arianna Occhipinti
+:PROPERTIES:
+:ID:                     c51ea571-f798-4f52-9ea2-fe4ea63a216a
+:END:
+
+[[file:/images/2023-08-15-occhipinti/2023-08-15-13-56-21-Capture-2023-08-14-212402.webp]]
+
+Arianna Occhipinti takes extreme pride in her character and expresses it through an inseparable relationship with her land. Arianna is a Natural Woman, both in how she is defined and how she defines herself. And this definition results in elegant and clean wines depicting her vision of the Sicilian spirit.
+
+Although Arianna is rooted in Vittoria, she was born on the west coast of Sicily. Her parents moved to the East when she was just 3 years old. Her grandmother stayed in Trapani province, so Arianna often visited her during summer breaks. And according to Arianna, this is where she got drunk for the first time.
+
+At the age of 16 years, Arianna joined her uncle, Giusto Occhipinti of the famous COS winery, to help him at the Vinitaly fair in Verona. It was a brilliant opportunity to miss four days of school. This experience has drawn her to the decision to learn more about agricultural and oenological practices, ultimately leading Arianna to focus on winemaking.
+
+In 2004, after completing her studies in Viticulture and Oenology in Milan, she decided to return to Sicily and cultivate a hectare of vineyard in Vittoria at the foot of the Iblei Mountains. She started with just a single hectare she rented from her family. It was an abandoned vineyard attached to the house her parents bought while she was still at the university. And the fact that the vineyard was deserted played well as the vines saw no chemicals, and Arianna had to work hard to restore the plants, which taught her a lot.
+
+Over time that single hectare grew to 25 hectares. Some are family-owned, and some are rented.
+
+* Arianna Occhipinti SP68 Bianco 2020
+:PROPERTIES:
+:ID:                     260f718f-b0cf-4144-8e34-abfb1100d503
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-54-24-IMG-8942.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4][SP68 Bianco]]
+- vintage: 2020
+- grapes: Zibibbo, Albanello
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 12
+- sugar: 1.6
+- price: 1064 UAH
+
+SP68 is the name of the road that cuts through Arianna's original vineyard in Vittoria. This road has existed for hundreds of years already. And the wine acquired this name because Arianna sees wine as a journey.
+
+It's a 60/40 blend of Zibibbo and Albanello. The 15 years old vines grow on medium-density red sands and chalk from sub-Apennine limestone rocks at 280 meters above sea level. The fruit is destemmed and co-fermented with native yeasts in concrete vats and with 15-day-long skin maceration. Then the wine is aged in concrete vats for six months and bottled unfiltered.
+
+* Arianna Occhipinti Vino di Contrada SM 2020
+:PROPERTIES:
+:ID:                     319d6377-61c3-49e2-bf9a-6e705dcbc9cb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-55-01-IMG-8944.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/e9577901-8db7-4178-bc60-462ccdee35c3][Vino di Contrada SM]]
+- vintage: 2020
+- grapes: Grillo
+- appellation: Sicilia DOC
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: 0.3
+- price: 2271 UAH
+
+One of the newest additions to Arianna's portfolio. A 100% Grillo from a 2 ha plot in Santa Margherita contrada (district). The vines are young (around 5 years old) and grow on whitish calcareous-sandy marl alternating with yellowish-white sands and calcarenites. Destemming, maceration on the skins for 48 hours and spontaneous fermentation in concrete vats and Austrian oak barrels. Racking, end of fermentation and ageing in the same containers for 12 months.
+
+It is not permitted to place contrada (district) names on Sicilian wine labels, so Arianna figured a clever way around the rules. Each contrada is represented by a two-letter abbreviation cheekily struck through with a line to emphasize their illicitness. SM stands for Santa Margherita,  BB - for Bomboliere, PT - for Pettineo and FL - for Fossa di Lupo.
+
+* Arianna Occhipinti Siccagno 2017
+:PROPERTIES:
+:ID:                     965ba998-872e-4a5e-add4-a3daebc8b4ab
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-57-21-IMG-8955.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a][Siccagno]]
+- vintage: 2017
+- grapes: Nero d'Avola
+- appellation: Sicilia DOC
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: 2
+- price: 1510 UAH
+
+Siccagno is 100% Nero d'Avola, born from those concentrated grapes called 'Siccagna' by locals (it literally means concentrated fruits without irrigation). The grapes come from a 3-ha vineyard on medium-density soils composed of red sands and chalk from sub-Apennine limestone rocks. The average age of vines is 35 years. Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in 25 hl Slavonian oak barrels for 22 months.
+
+* Arianna Occhipinti Il Frappato 2018
+:PROPERTIES:
+:ID:                     4f57c91d-9514-4588-bf91-5fdfb425d635
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-55-33-IMG-8946.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99][Il Frappato]]
+- vintage: 2018
+- grapes: Frappato
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 2290 UAH
+
+Il Frappato is one of the first wines Arianna started to make from older vineyards. 40 years on average, they grow on medium-density soils composed of red sands and chalk from sub-Apennine limestone rocks. Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in the same containers for 6 months and in Austrian oak barrels for 12 months.
+
+* Arianna Occhipinti Bombolieri BB 2017
+:PROPERTIES:
+:ID:                     683f3e18-a9c8-42d8-9299-24bfcdccebbb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-56-16-IMG-8949.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/004fb7af-4256-490e-b511-b860c0dc5f78][Bombolieri BB]]
+- vintage: 2017
+- grapes: Frappato
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: 1
+- price: 2989 UAH
+
+Bombolieri (BB) is adjacent to the winery and the last of the three Frappato parcels to be harvested. It consists of a few rows of 40-year-old, bush-trained (aka albarello) vines on a scant 25 centimetres of sandy white topsoil over pure limestone rock with almost no clay. The limestone holds water, slows down ripening and contributes a firm acidity and structure. Arianna finds it to be the most austere of the trio.
+
+#+begin_quote
+Arianna Occhipinti's Frappato BB is a red wine of great substance: juicy, sour and sanguine, an extraordinarily lively drink. Expression of the frappato in the Bombolieri district, the most structured between sharp acidity and dense tannic texture.
+
+-- Tripple A
+#+end_quote
+
+Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in the same containers for 6 months and in Austrian oak barrels for 12 months.
+
+* Arianna Occhipinti Pettineo PT 2017
+:PROPERTIES:
+:ID:                     2c9beb2a-285d-4924-8d0c-dd68d4c6bf9b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-56-40-IMG-8950.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378][Pettineo PT]]
+- vintage: 2017
+- grapes: Frappato
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: 1
+- price: 2989 UAH
+
+Pettineo (PT) is a few kilometers from Bombolieri and Fossa di Lupo. This 0.9-hectare plot features the oldest Frappato vines (60+ years) in all of Vittoria. They grow on 70 cm of fine orange sand over tufa (a porous limestone) and are a mix of albarello and guyot training. This site is the first of the three to be harvested. According to Arianna, The wines of the Pettineo are usually fruit-driven with a more silky tannin yet possessing quite lively acidity.
+
+#+begin_quote
+Arianna Occhipinti's Frappato PT is a red wine of great substance: a red wine of great substance: juicy, sour and sanguine, a drink of extraordinary vivacity. Expression of the frappato in the Pettineo district, the finest, between exhilarating fruit and great elegance.
+
+--- Tripple A
+#+end_quote
+
+Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in the same containers for 6 months and in Austrian oak barrels for 12 months.
+
+* Arianna Occhipinti Fossa di Lupo FL 2017
+:PROPERTIES:
+:ID:                     de140082-db85-43f4-90cb-4bbcfcd54251
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-15-occhipinti/2023-08-15-11-57-00-IMG-8953.webp]]
+
+- producer: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
+- name: [[barberry:/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e][Fossa di Lupo FL]]
+- vintage: 2017
+- grapes: Frappato
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 13
+- sugar: 1
+- price: 2989 UAH
+
+Fossa di Lupo (FL) is a few kilometers down the SP68 from the winery. It is Arianna's original 6-hectare vineyard. These vines are relatively young at about 15 years, albarello-trained and planted on a thin 40 centimeters of sand over limestone rock. According to Arianna, wines from Fossa di Lupo typically originate as fruity but also austere, presenting great acidity.
+
+#+begin_quote
+Arianna Occhipinti's Frappato FL is a red wine of great substance: juicy, tart and sanguine, an extraordinarily lively drink. Expression of the frappato in the Fossa di Lupo district, the most energetic, between biting acidity and austerity.
+
+--- Tripple A
+#+end_quote
+
+Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in the same containers for 6 months and in Austrian oak barrels for 12 months.
+
 * Raw scores
 :PROPERTIES:
 :ID:                     a9dec66c-fe96-4c7a-9b83-576dbd0f52da
@@ -42,55 +237,31 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
-|---------+---------+---------+---------+---------+---------+---------+---------|
-| Boris B | -       | -       | -       | -       | -       | -       | -       |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|--------------+---------+---------+---------+---------+---------+---------+---------|
+| Vova U       | -       | -       | -       | -       | -       | -       | -       |
+| Elena M      | -       | -       | -       | -       | -       | -       | -       |
+| Elvira K     | -       | -       | -       | -       | -       | -       | -       |
+| Ivan M       | -       | -       | -       | -       | -       | -       | -       |
+| Dmytro D     | -       | -       | -       | -       | -       | -       | -       |
+| Ivietta K    | -       | -       | -       | -       | -       | -       | -       |
+| Yaryna T     | -       | -       | -       | -       | -       | -       | -       |
+| Viktoriya Zh | -       | -       | -       | -       | -       | -       | -       |
+| Andrii S     | -       | -       | -       | -       | -       | -       | -       |
+| Boris B      | -       | -       | -       | -       | -       | -       | -       |
 
-* Preparation
+* Resources
 :PROPERTIES:
-:ID:                     5cd49117-f3e3-4bec-a667-ee6e69d16b2a
+:ID:                     75e769fd-e9d8-40c1-b1a3-695bedb160b3
 :END:
 
-Participants:
+- [[https://www.agricolaocchipinti.it/][Agricola Occhipinti]]
+- [[https://louisdressner.com/producers/arianna%20occhipinti][Arianna Occhipinti | Louis/Dressner Selections]]
+- [[https://www.bowlerwine.com/producer/occhipinti][Occhipinti | Bowler Wine]]
+- [[https://www.illdrinktothatpod.com/episode/idtt-wine-75-arianna-occhipinti][IDTT Wine 75: Arianna Occhipinti]]
+- [[https://uncorkedinitaly.com/natural-woman-by-arianna-occhipinti/][Natural Woman by Eleanor Shannon]]
+- [[https://www.repubblica.it/sapori/2016/10/21/news/arianna_occipinti_vino_siciliano-150288087/][Arianna Occhipinti: "In un vigneto ho trovato la felicità" di Fabio Rizzari]]
+- [[https://www.triplea.it/it/produttori-vino/arianna-occhipinti/][Tripple A]]
 
-1. Boris Buliga
-2. [[barberry:/convives/f41d2538-a1cc-4293-abd9-9382eb585ae6][Vova Ulianov]]
-3. [[barberry:/convives/97fa9d91-37d5-4a6d-8b91-ef813ba17281][Elena Menshikova]]
-4. [[barberry:/convives/174fdf94-97c8-4baa-adc9-d026a1fc190c][Elvira Kantiieva]]
-5. Ivan Mashkantsev
-6. [[barberry:/convives/aaca970f-8c5c-4831-b324-0af02dfe66c2][Dmytro Dranko]]
-7. [[barberry:/convives/5d6aa922-f6ff-4054-a7a7-8dc8d29f503c][Ivietta Kamienieva]]
-8. Yaryna Tokar
-9. [[barberry:/convives/a972f32c-175a-454e-9de6-b24915037c41][Viktoriya Zhukova]]
-10. [[barberry:/convives/eba14a2a-889c-4793-ab0b-c2e69ea0a719][Andrii Sierkov]]
+[fn:1] [[https://www.amazon.com/Natural-Woman-Sicilia-passione-Italian/dp/8860443075?qid=1692094238&s=books&sr=1-2][Occhipinti, A. (2013). Natural woman. La mia Sicilia, il mio vino, la mia passione.]]
 
-Waiting list:
-
-1. [[barberry:/convives/1ea07dc0-5829-4d50-b50b-99edc1bf9368][Julie Bereza]]
-2. Yuliia Yaroshenko
-3. Kateryna Syrotynska
-4. Olena Makedonska
-
-#+name: data
-#+attr_latex: :environment longtable
-|         |            | Wine #1 | Wine #2 |  Wine #3 | Wine #4 | Wine #5 | Wine #6 |  Wine #7 |
-|         | price      |       0 |    2271 |     2290 |    2989 |    2989 |    2989 |     1358 |
-|         | price real |       0 |    1577 |     2290 |       0 |    2570 |    2570 |     1150 |
-|         | name       |    SP68 |      SM | Frappato |      BB |      FL |      PT | Siccagno |
-|---------+------------+---------+---------+----------+---------+---------+---------+----------|
-| Boris B |            |         |         |          |         |         |         |          |
-|         | rating     |         |         |          |         |         |         |          |
-|         | extremum   |         |         |          |         |         |         |          |
-|---------+------------+---------+---------+----------+---------+---------+---------+----------|
-
-#+name: scores
-#+begin_src elisp :exports results :var tbl=data
-  (require 'lib-brb)
-  (brb-raw-scores-to-people tbl)
-#+end_src
-
-#+name: summary
-#+begin_src elisp :exports results :var tbl=data
-  (require 'lib-brb)
-  (brb-raw-scores-to-summary tbl :columns '("rms" "sdev" "favourite" "price" "QPR"))
-#+end_src

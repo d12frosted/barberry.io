@@ -23,12 +23,14 @@
       "name": "Frappato"
     }
   ],
-  "alcohol": "13",
+  "alcohol": "12.5",
   "sugar": "1",
   "prices": [
+    "2570 UAH",
+    "2989 UAH",
     "1510 UAH"
   ],
-  "available": 0.0,
-  "image": "images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c.webp",
+  "available": 1.0,
+  "image": "images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2023-08-15-11-56-40-IMG-8950.webp",
   "rating": "8.75"
 }

@@ -44,13 +44,13 @@ The problem with SP68 bianco is that you always drink it young, just few months 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">
-    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2020-07-29-21-42-06-E4D9B4F6-249A-432D-AA7F-11FBBE3ABE5B-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2023-08-15-11-56-16-IMG-8949@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Bombolieri BB - 2017</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">
-    <img class="flex-bottle" src="/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2020-07-29-21-39-39-11068010-DB19-4DF2-91C8-4DD6BB9CB651-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2023-08-15-11-57-00-IMG-8953@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Fossa di Lupo FL - 2017</section>
   </a>
@@ -79,56 +79,62 @@ The problem with SP68 bianco is that you always drink it young, just few months 
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
-    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/7ace9823-ef14-4d81-8627-cd045a596bab.html">
+    <img class="flex-bottle" src="/images/7a/ce9823-ef14-4d81-8627-cd045a596bab/2023-08-15-11-59-24-IMG-8956@512.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-08-15-11-55-33-IMG-8946@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
-    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-02-04-12-00-46-14E8164B-1FA3-49A7-9A1E-96F1ED76F8E3-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-08-15-11-57-21-IMG-8955@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
     <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
+  <a class="flex-item flex-item-right" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
-    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2023-08-15-11-56-40-IMG-8950@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Pettineo PT - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+  <a class="flex-item flex-item-right" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
     <img class="flex-bottle" src="/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
-    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-01-16-16-51-04-IMG-4382@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-08-15-11-55-01-IMG-8944@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Vino di Contrada SM - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
-    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2023-08-15-11-54-24-IMG-8942@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>

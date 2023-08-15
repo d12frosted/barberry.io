@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2020-07-29-21-39-39-11068010-DB19-4DF2-91C8-4DD6BB9CB651-1-105-c@512.webp]]
+[[file:/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2023-08-15-11-57-00-IMG-8953@512.webp]]
 
 - Type :: Red Still, Dry
 - Producer :: [[barberry:/producers/8f62b3bd-2a36-4227-a0d3-4107cd8dac19][Arianna Occhipinti]]
@@ -8,8 +8,20 @@
 - Grapes :: Frappato
 - Alcohol :: 13
 - Sugar :: 1
-- Price :: 1510 UAH
-- Cellar :: N/A
+- Price :: 2570 UAH, 2989 UAH, 1510 UAH
+- Cellar :: 1 bottle
+
+It is not permitted to place contrada (district) names on Sicilian wine labels, so Arianna figured a clever way around the rules. Each contrada is represented by a two-letter abbreviation cheekily struck through with a line to emphasize their illicitness. SM stands for Santa Margherita,  BB - for Bomboliere, PT - for Pettineo and FL - for Fossa di Lupo.
+
+Fossa di Lupo (FL) is a few kilometers down the SP68 from the winery. It is Arianna's original 6-hectare vineyard. These vines are relatively young at about 15 years, albarello-trained and planted on a thin 40 centimeters of sand over limestone rock. According to Arianna, wines from Fossa di Lupo typically originate as fruity but also austere, presenting great acidity.
+
+#+begin_quote
+Arianna Occhipinti's Frappato FL is a red wine of great substance: juicy, tart and sanguine, an extraordinarily lively drink. Expression of the frappato in the Fossa di Lupo district, the most energetic, between biting acidity and austerity.
+
+--- Tripple A
+#+end_quote
+
+Destemming, maceration on the skins and spontaneous fermentation in 85 hl concrete vats for 25 days with daily pumping over and punching down. Racking and ageing in the same containers for 6 months and in Austrian oak barrels for 12 months.
 
 ** Producer
 
@@ -48,7 +60,7 @@ What a beautiful development of Frappato from Fossa di Lupo contrada. It's aroma
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/004fb7af-4256-490e-b511-b860c0dc5f78.html">
-    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2020-07-29-21-42-06-E4D9B4F6-249A-432D-AA7F-11FBBE3ABE5B-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/00/4fb7af-4256-490e-b511-b860c0dc5f78/2023-08-15-11-56-16-IMG-8949@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Bombolieri BB - 2017</section>
   </a>
@@ -83,121 +95,127 @@ What a beautiful development of Frappato from Fossa di Lupo contrada. It's aroma
     <section class="h text-bolder">SP68 Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
-    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-01-16-21-21-07-IMG-4403@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/7ace9823-ef14-4d81-8627-cd045a596bab.html">
+    <img class="flex-bottle" src="/images/7a/ce9823-ef14-4d81-8627-cd045a596bab/2023-08-15-11-59-24-IMG-8956@512.webp"></img>
+    <section class="h">Arianna Occhipinti</section>
+    <section class="h text-bolder">SP68 Rosso - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+    <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-08-15-11-55-33-IMG-8946@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
-    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-02-04-12-00-46-14E8164B-1FA3-49A7-9A1E-96F1ED76F8E3-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/958808fe-25a7-402e-84f6-4fd05aa9d23a.html">
+    <img class="flex-bottle" src="/images/95/8808fe-25a7-402e-84f6-4fd05aa9d23a/2023-08-15-11-57-21-IMG-8955@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
+  <a class="flex-item flex-item-right" href="/wines/9fa2fcd7-07c0-40ac-b824-37a885885ad6.html">
     <img class="flex-bottle" src="/images/9f/a2fcd7-07c0-40ac-b824-37a885885ad6/2022-07-21-07-37-46-EF5B38F9-5318-480D-B07A-DAD80E7E122A-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
     <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
+  <a class="flex-item flex-item-right" href="/wines/b6956647-cca8-45cd-a4f3-890f5360d94f.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Rosso - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
-    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2020-07-29-21-44-59-2C22513E-4C24-4D5B-85F8-07F8C804E758-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+    <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2023-08-15-11-56-40-IMG-8950@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Pettineo PT - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
+  <a class="flex-item flex-item-right" href="/wines/da9ba7c7-b796-48bc-88e5-3904846a03a8.html">
     <img class="flex-bottle" src="/images/da/9ba7c7-b796-48bc-88e5-3904846a03a8/2020-03-06-08-32-20-FB421832-3F20-414B-9C6A-9181C91CD942-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Siccagno - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
-    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-01-16-16-51-04-IMG-4382@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/e9577901-8db7-4178-bc60-462ccdee35c3.html">
+    <img class="flex-bottle" src="/images/e9/577901-8db7-4178-bc60-462ccdee35c3/2023-08-15-11-55-01-IMG-8944@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Vino di Contrada SM - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
-    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2022-07-21-07-42-01-85447BF6-0736-41C3-AE61-09CB525DB46D-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/fe7baaab-b6e1-43c7-b475-2fbacc3e84d4.html">
+    <img class="flex-bottle" src="/images/fe/7baaab-b6e1-43c7-b475-2fbacc3e84d4/2023-08-15-11-54-24-IMG-8942@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/53079401-633d-49af-b4df-621f50852007.html">
+  <a class="flex-item flex-item-left" href="/wines/53079401-633d-49af-b4df-621f50852007.html">
     <img class="flex-bottle" src="/images/53/079401-633d-49af-b4df-621f50852007/2023-06-16-15-56-13-IMG-7746@512.webp"></img>
     <section class="h">Domaine de Saint Pierre</section>
     <section class="h text-bolder">Les Gaudrettes - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
+  <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2023-06-16-15-59-13-IMG-7756@512.webp"></img>
     <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+  <a class="flex-item flex-item-left" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
     <img class="flex-bottle" src="/images/70/d061f4-9ef9-4c2e-835f-154c08d37a54/2023-06-16-15-51-42-IMG-7737@512.webp"></img>
     <section class="h">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f.html">
+  <a class="flex-item flex-item-right" href="/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f.html">
     <img class="flex-bottle" src="/images/90/889309-ef90-4e61-ba6d-49c3ca3f1c2f/2023-06-16-15-54-51-IMG-7741@512.webp"></img>
     <section class="h">Domaine de Saint Pierre</section>
     <section class="h text-bolder">Le Rouge - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6.html">
+  <a class="flex-item flex-item-left" href="/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6.html">
     <img class="flex-bottle" src="/images/a7/426870-7f6d-41c1-bb8b-fa00a3a344f6/2023-06-16-15-57-56-IMG-7750@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">La Pépée - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
+  <a class="flex-item flex-item-right" href="/wines/b34b4714-7bf8-4a52-b0e5-1774e035a4ae.html">
     <img class="flex-bottle" src="/images/b3/4b4714-7bf8-4a52-b0e5-1774e035a4ae/2022-06-09-22-12-14-IMG-0400@512.webp"></img>
     <section class="h">Patrick Sullivan</section>
     <section class="h text-bolder">Rain Field Blend - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ce308c98-42d1-46a8-bb8d-7e47a71b288d.html">
+  <a class="flex-item flex-item-left" href="/wines/ce308c98-42d1-46a8-bb8d-7e47a71b288d.html">
     <img class="flex-bottle" src="/images/ce/308c98-42d1-46a8-bb8d-7e47a71b288d/2023-06-19-10-20-35-IMG-7805@512.webp"></img>
     <section class="h">Domaine des Cavarodes</section>
     <section class="h text-bolder">Vin de Pays de Franche-Comté Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
+  <a class="flex-item flex-item-right" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
     <img class="flex-bottle" src="/images/dc/4e8325-8cb6-4d9a-a68a-3695a56388ad/2023-06-18-11-19-58-A56D7DDF-E601-4265-8EDC-0C4D657ECEE1-1-105-c@512.webp"></img>
     <section class="h">Fazenda Agricola Augalevada</section>
     <section class="h text-bolder">Mercenario branco - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
+  <a class="flex-item flex-item-left" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
     <img class="flex-bottle" src="/images/e4/351bcf-6fd6-4b71-b3ac-acf63e9c45e1/2023-06-16-16-06-04-IMG-7764@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Pupillin Savagnin - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
+  <a class="flex-item flex-item-right" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
     <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-06-16-15-58-24-IMG-7754@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">face b - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
+  <a class="flex-item flex-item-left" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
     <img class="flex-bottle" src="/images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-06-16-16-05-27-IMG-7759@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Les Nouvelles Chardonnay - 2016</section>
