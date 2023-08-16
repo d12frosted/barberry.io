@@ -1,4 +1,4 @@
-Provincial road SP68, wine, vineyards and dry-stone walls: this is the land of Arianna. The sun rises, early in the morning, in the Iblei Mountains, while the sky blushes in layers and the warm light spreads among the rows of Fossa di Lupo. On this panorama grow the 25 hectares of vineyards of Frappato, Nero d'Avola, Albanello and Zibibbo, but also secular olive groves and wheat. The wines are the transpositions of Arianna's love for the place and its past and future.
+Provincial road SP68, wine, vineyards and dry-stone walls: this is the land of Arianna. The sun rises early in the morning over the Iblei Mountains, casting a warm light on the vineyards of Frappato, Nero d’Avola, Albanello, and Zibibbo, as well as the olive groves and wheat fields. In this scenery Arianna’s love for the past and future of the region is reflected in her wines.
 
 #+begin_quote
 Sicily is a thousand faces land, but there is a Sicily that I consider mine. It's made of roads, colors and smells that waft in the air. My Sicily is made up by countryside and rock, the one of the Iblei [...]
@@ -26,15 +26,15 @@ And today, we have an opportunity to witness the harmonious and unequal being of
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms | sdev | favourite |   price | QPR |
-|---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    | 1064.00 | -   |
-| Wine #2 | -   | -    | *0.00*    | 2271.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1510.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 2290.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 2989.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 2989.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 2989.00 | -   |
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0002 | 0.0020 |      0.00 | 1064.00 |   2.0000 |
+| Wine #2 |   4.0615 | 0.0124 |      1.00 | 2271.00 |   1.1572 |
+| Wine #3 |   4.1603 | 0.0024 |    *4.00* | 1510.00 | *2.0282* |
+| Wine #4 |   4.0918 | 0.0149 |      1.00 | 2290.00 |   1.2012 |
+| Wine #5 |   4.1214 | 0.0116 |      0.00 | 2989.00 |   0.9635 |
+| Wine #6 | *4.2617* | 0.0144 |      3.00 | 2989.00 |   1.1966 |
+| Wine #7 |   4.1133 | 0.0269 |      1.00 | 2989.00 |   0.9489 |
 
 How to read this table:
 
@@ -239,16 +239,16 @@ Destemming, maceration on the skins and spontaneous fermentation in 85 hl concre
 #+results: scores
 |              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
 |--------------+---------+---------+---------+---------+---------+---------+---------|
-| Vova U       | -       | -       | -       | -       | -       | -       | -       |
-| Elena M      | -       | -       | -       | -       | -       | -       | -       |
-| Elvira K     | -       | -       | -       | -       | -       | -       | -       |
-| Ivan M       | -       | -       | -       | -       | -       | -       | -       |
-| Dmytro D     | -       | -       | -       | -       | -       | -       | -       |
-| Ivietta K    | -       | -       | -       | -       | -       | -       | -       |
-| Yaryna T     | -       | -       | -       | -       | -       | -       | -       |
-| Viktoriya Zh | -       | -       | -       | -       | -       | -       | -       |
-| Andrii S     | -       | -       | -       | -       | -       | -       | -       |
-| Boris B      | -       | -       | -       | -       | -       | -       | -       |
+| Vova U       |    4.00 |    3.90 |    4.20 |    4.10 |    4.10 |  *4.30* |    3.90 |
+| Elena M      |    4.00 |  *4.20* |    4.10 |    4.00 |    4.00 |    4.10 |    4.00 |
+| Elvira K     |    4.00 |    4.10 |  *4.10* |    4.00 |    4.10 |    4.20 |    4.00 |
+| Ivan M       |    4.00 |    3.90 |    4.20 |    4.00 |    4.00 |  *4.30* |    3.90 |
+| Dmytro D     |    4.00 |    4.00 |  *4.20* |    4.10 |    4.00 |    4.00 |    4.00 |
+| Ivietta K    |    4.00 |    4.10 |    4.20 |  *4.40* |    4.30 |    4.40 |    4.40 |
+| Yaryna T     |    3.90 |    4.00 |    4.10 |    4.10 |    4.10 |  *4.30* |    4.20 |
+| Viktoriya Zh |    4.10 |    4.20 |    4.20 |    4.20 |    4.20 |    4.40 |  *4.30* |
+| Andrii S     |    4.00 |    4.20 |  *4.10* |    4.00 |    4.10 |    4.30 |    4.20 |
+| Boris B      |    4.00 |    4.00 |  *4.20* |    4.00 |    4.30 |    4.30 |    4.20 |
 
 * Resources
 :PROPERTIES:
