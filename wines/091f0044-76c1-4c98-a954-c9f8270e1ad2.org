@@ -73,19 +73,25 @@ Very appealing nose, full of wild berries with hints of fried nuts. But then you
     <section class="h text-bolder">Palmento Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8fa6520f-2b1f-4a73-b80d-c9e5a2b99aa6.html">
+  <a class="flex-item flex-item-left" href="/wines/7ec06cdb-acb1-475d-ab6e-1b35196fc785.html">
+    <img class="flex-bottle" src="/images/7e/c06cdb-acb1-475d-ab6e-1b35196fc785/2023-08-17-22-01-24-4D3AAE95-2C5C-4205-A39A-175E96F99A53-1-105-c@512.webp"></img>
+    <section class="h">Vino di Anna</section>
+    <section class="h text-bolder">Qvevri R - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/8fa6520f-2b1f-4a73-b80d-c9e5a2b99aa6.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Vino di Anna</section>
     <section class="h text-bolder">Bianco - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b2d7527d-eec9-4dca-b166-956d077a7caa.html">
+  <a class="flex-item flex-item-left" href="/wines/b2d7527d-eec9-4dca-b166-956d077a7caa.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Vino di Anna</section>
     <section class="h text-bolder">Palmento Bianco - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/eaa798d5-3964-483f-bdbe-2beba1f73540.html">
+  <a class="flex-item flex-item-right" href="/wines/eaa798d5-3964-483f-bdbe-2beba1f73540.html">
     <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
     <section class="h">Vino di Anna</section>
     <section class="h text-bolder">Rosso CR - 2017</section>

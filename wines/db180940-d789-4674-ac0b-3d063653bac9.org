@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/db/180940-d789-4674-ac0b-3d063653bac9/2023-08-17-21-59-31-922F2C94-8724-4F69-BA96-CC3CE63F1F0D-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/4f806b48-cd9d-4648-8d9c-9ec59a0131ce][Dr. Loosen]]
+- Vintage :: 2018
+- Location :: Germany, Mosel
+- Grapes :: Riesling
+- Alcohol :: 12.5
+- Sugar :: 8.4
+- Price :: 1184 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+    <img class="flex-bottle" src="/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c@512.webp"></img>
+    <section class="h">Dr. Loosen</section>
+    <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
+  </a>
+
+</div>
+#+end_export

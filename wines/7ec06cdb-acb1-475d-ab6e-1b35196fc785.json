@@ -1,0 +1,34 @@
+{
+  "id": "7ec06cdb-acb1-475d-ab6e-1b35196fc785",
+  "name": "Qvevri R",
+  "full-name": "Vino di Anna Qvevri R 2019",
+  "producer": {
+    "id": "c7fe1c8a-71a3-4679-bb32-6f20dfc2a1be",
+    "name": "Vino di Anna"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7e/c06cdb-acb1-475d-ab6e-1b35196fc785/2023-08-17-22-01-24-4D3AAE95-2C5C-4205-A39A-175E96F99A53-1-105-c.webp",
+  "rating": "NA"
+}

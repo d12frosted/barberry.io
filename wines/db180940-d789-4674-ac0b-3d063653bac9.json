@@ -1,0 +1,34 @@
+{
+  "id": "db180940-d789-4674-ac0b-3d063653bac9",
+  "name": "Erdener Treppchen Riesling Alte Reben",
+  "full-name": "Dr. Loosen Erdener Treppchen Riesling Alte Reben 2018",
+  "producer": {
+    "id": "4f806b48-cd9d-4648-8d9c-9ec59a0131ce",
+    "name": "Dr. Loosen"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "021856eb-51a4-49e2-8a03-029adae7688d",
+    "name": "Germany"
+  },
+  "grapes": [
+    {
+      "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
+      "name": "Riesling"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "8.4",
+  "prices": [
+    "1184 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/db/180940-d789-4674-ac0b-3d063653bac9/2023-08-17-21-59-31-922F2C94-8724-4F69-BA96-CC3CE63F1F0D-1-105-c.webp",
+  "rating": "NA"
+}

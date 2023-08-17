@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
+  <a class="flex-item flex-item-left" href="/wines/db180940-d789-4674-ac0b-3d063653bac9.html">
+    <img class="flex-bottle" src="/images/db/180940-d789-4674-ac0b-3d063653bac9/2023-08-17-21-59-31-922F2C94-8724-4F69-BA96-CC3CE63F1F0D-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Erdener Treppchen Riesling Alte Reben - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1556c739-e540-4a37-8395-fe88259d2eba.html">
     <img class="flex-bottle" src="/images/15/56c739-e540-4a37-8395-fe88259d2eba/2021-07-20-09-20-34-C91A0688-793A-40A0-9E47-FCF405063EDF-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Wehlener Sonnenuhr Riesling Auslese Prädikatswein - 2007</section>
