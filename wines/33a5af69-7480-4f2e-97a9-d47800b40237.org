@@ -9,9 +9,41 @@
 - Alcohol :: 13.5
 - Sugar :: NA
 - Price :: 8740 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-08-25 - ☆ 8.60
 
+A fistful of red fruits forgotten under the sun, sunflower seeds combined into a necklace, your everyday canned tuna, mushrooms, black tea and my old hiking leather boots (I really should get rid of them as they are falling apart). Delicate palate (unlike the aforementioned boots), elegant and stylish. Easy-going and quite complex at the same time. A pure bliss. Especially thanks to notes of dried fig covered in milk chocolate and Cognac notes (duh).
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/96250da7-a202-475f-a80d-f6876c7b8c71.html">
+    <img class="flex-bottle" src="/images/96/250da7-a202-475f-a80d-f6876c7b8c71/2023-08-28-20-39-04-2BB59D7F-9962-4540-B8D1-4A58AC79D197-1-105-c@512.webp"></img>
+    <section class="h">Le Grappin</section>
+    <section class="h text-bolder">Savigny-lès-Beaune - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ca3e91bb-2f99-495d-8559-599df1f3098c.html">
+    <img class="flex-bottle" src="/images/ca/3e91bb-2f99-495d-8559-599df1f3098c/2023-08-28-20-38-49-24B3BCC7-30A0-4368-BCE3-BCDA37765925-1-105-c@512.webp"></img>
+    <section class="h">Domaine des Monts Luisants</section>
+    <section class="h text-bolder">Morey-Saint-Denis 1er Cru Les Genavrières - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d6b279bf-47ed-4b37-b3a7-b042cfb53eca.html">
+    <img class="flex-bottle" src="/images/d6/b279bf-47ed-4b37-b3a7-b042cfb53eca/2023-08-28-20-44-42-E64C2D0B-8578-4A35-ABB2-8A684FB7DA1A-1-105-c@512.webp"></img>
+    <section class="h">Sylvain Pataille</section>
+    <section class="h text-bolder">Bourgogne Rouge - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2.html">
+    <img class="flex-bottle" src="/images/e8/807132-9a6c-4d45-b55c-72c6bbf7a5f2/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c@512.webp"></img>
+    <section class="h">Frédéric Cossard</section>
+    <section class="h text-bolder">Morey-Saint-Denis Les Champs de la Vigne Qvevris - 2018</section>
+  </a>
+
+</div>
+#+end_export
