@@ -1,0 +1,34 @@
+{
+  "id": "e8807132-9a6c-4d45-b55c-72c6bbf7a5f2",
+  "name": "Morey-Saint-Denis Les Champs de la Vigne Qvevris",
+  "full-name": "Frédéric Cossard Morey-Saint-Denis Les Champs de la Vigne Qvevris 2018",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "5700 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e8/807132-9a6c-4d45-b55c-72c6bbf7a5f2/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c.webp",
+  "rating": "NA"
+}

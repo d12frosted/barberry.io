@@ -1,0 +1,34 @@
+{
+  "id": "33a5af69-7480-4f2e-97a9-d47800b40237",
+  "name": "Mazys-Chambertin Grand Cru Vieilles Vignes",
+  "full-name": "Pierre Naigeon Mazys-Chambertin Grand Cru Vieilles Vignes 2012",
+  "producer": {
+    "id": "ef9eabd3-54fa-49c5-b370-680bd821f794",
+    "name": "Pierre Naigeon"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "8740 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/33/a5af69-7480-4f2e-97a9-d47800b40237/2023-08-28-20-41-54-654EC838-3F2E-4583-B84D-0F2B1BAF23A6-1-105-c.webp",
+  "rating": "NA"
+}

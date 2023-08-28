@@ -1,0 +1,206 @@
+[[file:/images/2023-08-25-bourgogne/2023-08-10-10-43-36-IMG-8784.webp]]
+
+1. [[barberry:/wines/ca3e91bb-2f99-495d-8559-599df1f3098c][Domaine des Monts Luisants Morey-Saint-Denis 1er Cru Les Genavrières 2017]]
+2. [[barberry:/wines/96250da7-a202-475f-a80d-f6876c7b8c71][Le Grappin Savigny-lès-Beaune 2020]]
+3. [[barberry:/wines/33a5af69-7480-4f2e-97a9-d47800b40237][Pierre Naigeon Mazys-Chambertin Grand Cru Vieilles Vignes 2012]]
+4. [[barberry:/wines/d6b279bf-47ed-4b37-b3a7-b042cfb53eca][Sylvain Pataille Bourgogne Rouge 2021]]
+5. [[barberry:/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2][Frédéric Cossard Morey-Saint-Denis Les Champs de la Vigne Qvevris 2018]]
+6. [[barberry:/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0][Domaine Derain Saint-Aubin 2018]]
+7. [[barberry:/wines/acfcf3d1-ebba-46c7-8265-06bb6aee4791][Philippe Pacalet Chassagne-Montrachet 2015]]
+8. [[barberry:/wines/c4370dd3-fe5e-4b75-89f4-6eb7592a889d][Château de Béru Chablis Clos Béru Monopole 2017]]
+
+* Scores
+:PROPERTIES:
+:ID:                     5a9e1015-d153-4b46-8707-4775e50ed49b
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite | outcast |   price |      QPR |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 |   4.0359 | 0.0206 |      0.00 |  +4.00+ | 3701.00 |   0.6819 |
+| Wine #2 |   3.9848 | 0.0114 |      0.00 |    2.00 | 1790.00 |   1.3076 |
+| Wine #3 |   4.2214 | 0.0397 |      1.00 |    0.00 | 8740.00 |   0.3825 |
+| Wine #4 |   4.2268 | 0.0152 |    *3.00* |    0.00 | 1340.00 | *2.5274* |
+| Wine #5 |   4.0513 | 0.0108 |      1.00 |    0.00 | 5700.00 |   0.4541 |
+| Wine #6 |   4.0938 | 0.0174 |      1.00 |    0.00 | 1650.00 |   1.6714 |
+| Wine #7 |   4.1127 | 0.0358 |      1.00 |    2.00 | 3000.00 |   0.9430 |
+| Wine #8 | *4.2274* | 0.0202 |      1.00 |    1.00 | 3900.00 |   0.8684 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Domaine des Monts Luisants Morey-Saint-Denis 1er Cru Les Genavrières 2017
+:PROPERTIES:
+:ID:                     52f52087-6580-460d-8b07-ed5d01e53ec4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-38-49-24B3BCC7-30A0-4368-BCE3-BCDA37765925-1-105-c.webp]]
+
+- producer: [[barberry:/producers/c39f9c67-c5cf-4b8f-8f7d-9d424f410a7e][Domaine des Monts Luisants]]
+- name: [[barberry:/wines/ca3e91bb-2f99-495d-8559-599df1f3098c][Morey-Saint-Denis 1er Cru Les Genavrières]]
+- vintage: 2017
+- grapes: Pinot Noir
+- appellation: Morey-Saint-Denis AOC
+- location: Burgundy, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 3701 UAH
+
+* Le Grappin Savigny-lès-Beaune 2020
+:PROPERTIES:
+:ID:                     e90f7699-88bb-4845-a987-9a75517ba081
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-39-04-2BB59D7F-9962-4540-B8D1-4A58AC79D197-1-105-c.webp]]
+
+- producer: [[barberry:/producers/4668ff75-e9b6-4362-bf07-ec1e4a9485e7][Le Grappin]]
+- name: [[barberry:/wines/96250da7-a202-475f-a80d-f6876c7b8c71][Savigny-lès-Beaune]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Savigny-les-Beaune AOC
+- location: Côte de Beaune, Côte d'Or, Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 1790 UAH
+
+* Pierre Naigeon Mazys-Chambertin Grand Cru Vieilles Vignes 2012
+:PROPERTIES:
+:ID:                     91c3c0aa-437d-4458-bd93-03ce27ca3c9a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-41-54-654EC838-3F2E-4583-B84D-0F2B1BAF23A6-1-105-c.webp]]
+
+- producer: [[barberry:/producers/ef9eabd3-54fa-49c5-b370-680bd821f794][Pierre Naigeon]]
+- name: [[barberry:/wines/33a5af69-7480-4f2e-97a9-d47800b40237][Mazys-Chambertin Grand Cru Vieilles Vignes]]
+- vintage: 2012
+- grapes: Pinot Noir
+- appellation: Mazys-Chambertin AOC
+- location: Gevrey-Chambertin AOC, Burgundy, France
+- alcohol: 13.5
+- sugar: N/A
+- price: 8740 UAH
+
+* Sylvain Pataille Bourgogne Rouge 2021
+:PROPERTIES:
+:ID:                     b6db8382-d0c7-4e12-b3ef-00a9fa2abb24
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-44-42-E64C2D0B-8578-4A35-ABB2-8A684FB7DA1A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/6bbdc278-2ace-4362-bc06-ab16c1ca5ed7][Sylvain Pataille]]
+- name: [[barberry:/wines/d6b279bf-47ed-4b37-b3a7-b042cfb53eca][Bourgogne Rouge]]
+- vintage: 2021
+- grapes: Pinot Noir
+- appellation: Bourgogne AOC
+- location: Burgundy, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 1340 UAH
+
+* Frédéric Cossard Morey-Saint-Denis Les Champs de la Vigne Qvevris 2018
+:PROPERTIES:
+:ID:                     4ede518f-90b1-4929-8d1b-364543e0b5b5
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/3fe6e72f-cabd-4020-8635-0b830f106fda][Frédéric Cossard]]
+- name: [[barberry:/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2][Morey-Saint-Denis Les Champs de la Vigne Qvevris]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Morey-Saint-Denis AOC
+- location: Burgundy, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 5700 UAH
+
+* Domaine Derain Saint-Aubin 2018
+:PROPERTIES:
+:ID:                     e3a17ebb-0803-4c90-9629-4a864079304a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c.webp]]
+
+- producer: [[barberry:/producers/67b094dd-f7b3-4e46-8d7d-cf56339a7cf6][Domaine Derain]]
+- name: [[barberry:/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0][Saint-Aubin]]
+- vintage: 2018
+- grapes: Chardonnay
+- appellation: Saint-Aubin AOC
+- location: Burgundy, France
+- alcohol: 13.5
+- sugar: 2.1
+- price: 1650 UAH
+
+* Philippe Pacalet Chassagne-Montrachet 2015
+:PROPERTIES:
+:ID:                     eabe9291-caeb-4843-ab99-491266b6b888
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-50-52-3CE07A20-1B57-4EDF-BE25-E9A352169302-1-105-c.webp]]
+
+- producer: [[barberry:/producers/17e5f004-4286-4762-861a-8c029331e982][Philippe Pacalet]]
+- name: [[barberry:/wines/acfcf3d1-ebba-46c7-8265-06bb6aee4791][Chassagne-Montrachet]]
+- vintage: 2015
+- grapes: Chardonnay
+- appellation: Chassagne-Montrachet AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 3000 UAH
+
+* Château de Béru Chablis Clos Béru Monopole 2017
+:PROPERTIES:
+:ID:                     41a77252-0cdb-4bf4-b958-c69b47883a21
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-08-25-bourgogne/2023-08-28-20-52-08-D1EA876A-8D48-45BA-8168-E84972056E02-1-105-c.webp]]
+
+- producer: [[barberry:/producers/4d30cbc8-c930-4d1c-b7e6-884e381a0202][Château de Béru]]
+- name: [[barberry:/wines/c4370dd3-fe5e-4b75-89f4-6eb7592a889d][Chablis Clos Béru Monopole]]
+- vintage: 2017
+- grapes: Chardonnay
+- appellation: Chablis AOC
+- location: Burgundy, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 3900 UAH
+
+* Raw scores
+:PROPERTIES:
+:ID:                     eb985952-2035-4f52-a61a-7f194d76fae2
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch   |    4.10 |    4.00 |    4.40 |    4.30 |  *4.20* |    4.10 |  +3.90+ |    4.30 |
+| Mykola T    |  +4.00+ |    4.10 |  *4.40* |    4.20 |    4.10 |    4.00 |    4.00 |    4.30 |
+| Anya I      |  +3.90+ |    4.20 |    3.90 |    4.20 |    4.00 |    4.10 |    4.20 |  *4.40* |
+| Daria B     |    4.10 |    3.90 |    4.10 |    4.30 |    4.00 |    3.90 |    4.10 |    4.00 |
+| Anna Z      |    4.00 |    4.00 |    4.30 |    4.20 |    4.10 |    4.10 |  *4.40* |  +4.00+ |
+| Vitalii M   |  +4.00+ |    4.10 |    4.30 |  *4.30* |    4.10 |    4.20 |    4.40 |    4.10 |
+| Yevgeniya T |  +3.80+ |    3.90 |    4.10 |    4.20 |    4.10 |  *4.20* |    4.30 |    4.30 |
+| David H     |    4.10 |    4.00 |    4.50 |  *4.40* |    4.00 |    4.40 |  +3.80+ |    4.10 |
+| Anna P      |    3.80 |  +4.00+ |    4.20 |  *4.30* |    4.00 |    4.10 |    4.00 |    4.20 |
+| Vova U      |    4.30 |    3.90 |    4.30 |    4.30 |    4.20 |    4.10 |    4.10 |    4.40 |
+| Diana M     |    4.10 |  +3.80+ |    3.80 |    3.90 |    3.80 |    4.00 |    4.20 |    4.40 |
+| Boris B     |    4.20 |    3.90 |    4.30 |    4.10 |    4.00 |    3.90 |    3.90 |    4.20 |
+

@@ -1,0 +1,34 @@
+{
+  "id": "acfcf3d1-ebba-46c7-8265-06bb6aee4791",
+  "name": "Chassagne-Montrachet",
+  "full-name": "Philippe Pacalet Chassagne-Montrachet 2015",
+  "producer": {
+    "id": "17e5f004-4286-4762-861a-8c029331e982",
+    "name": "Philippe Pacalet"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "3000 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ac/fcf3d1-ebba-46c7-8265-06bb6aee4791/2023-08-28-20-50-52-3CE07A20-1B57-4EDF-BE25-E9A352169302-1-105-c.webp",
+  "rating": "NA"
+}

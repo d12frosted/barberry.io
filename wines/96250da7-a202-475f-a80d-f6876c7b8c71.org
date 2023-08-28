@@ -1,0 +1,35 @@
+#+attr_html: :class wine-main-image
+[[file:/images/96/250da7-a202-475f-a80d-f6876c7b8c71/2023-08-28-20-39-04-2BB59D7F-9962-4540-B8D1-4A58AC79D197-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/4668ff75-e9b6-4362-bf07-ec1e4a9485e7][Le Grappin]]
+- Vintage :: 2020
+- Location :: France, Savigny-les-Beaune AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 13
+- Sugar :: NA
+- Price :: 1790 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/944529fb-e85a-418e-ae20-43df4675c822.html">
+    <img class="flex-bottle" src="/images/94/4529fb-e85a-418e-ae20-43df4675c822/2022-09-26-18-57-19-858B7AAC-54BC-4AD5-A2A3-97E2D5469E4B-1-102-o@512.webp"></img>
+    <section class="h">Le Grappin</section>
+    <section class="h text-bolder">Fleurie-Poncié - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b94d081f-a83f-422f-84be-250038aac53b.html">
+    <img class="flex-bottle" src="/images/b9/4d081f-a83f-422f-84be-250038aac53b/2022-10-20-10-48-44-2F30799B-1704-41B5-A48F-5989D2324FDF-1-105-c@512.webp"></img>
+    <section class="h">Le Grappin</section>
+    <section class="h text-bolder">Saint-Amour - 2020</section>
+  </a>
+
+</div>
+#+end_export

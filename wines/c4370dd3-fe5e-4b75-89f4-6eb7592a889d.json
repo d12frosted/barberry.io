@@ -1,0 +1,34 @@
+{
+  "id": "c4370dd3-fe5e-4b75-89f4-6eb7592a889d",
+  "name": "Chablis Clos Béru Monopole",
+  "full-name": "Château de Béru Chablis Clos Béru Monopole 2017",
+  "producer": {
+    "id": "4d30cbc8-c930-4d1c-b7e6-884e381a0202",
+    "name": "Château de Béru"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "3900 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/c4/370dd3-fe5e-4b75-89f4-6eb7592a889d/2023-08-28-20-52-08-D1EA876A-8D48-45BA-8168-E84972056E02-1-105-c.webp",
+  "rating": "NA"
+}
