@@ -9,7 +9,7 @@
 - Alcohol :: 13.5
 - Sugar :: 2.1
 - Price :: 1650 UAH, 1278 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -22,6 +22,10 @@ Created by [[barberry:/producers/4191c986-fc88-4e47-a038-cc1dd4c8fa31][Dominique
 Tasted blind and my guess was Sextant, tuned out to be his 'teacher', thought basically it's made by Altaber. Anyways, obvious lees-based bouquet with fruits, butter, yeast, salt and silicon. Well structured, fresh with nice lemon touch in the end. Delicious, well balanced. Although my style, it's too much on the surface.
 
 Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880e4b721465][Vasyl Kalinichenko]].
+
+*** 2023-08-25 - ☆ 7.75
+
+A mix of spoiled fruits, stones covered in seawater (salty, you know), butter and shells. Definitely, the bouquet wins over the palate. Delicious yet somehow it felt heavy and not fascinating. Even simple? It focuses on the exterior leaving little inside. And it's jumpy like headcrabs.
 
 ** Related
 
@@ -51,6 +55,18 @@ Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880
     <section class="h text-bolder">Les Bruyeres Vin Jaune - 2012</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/33a5af69-7480-4f2e-97a9-d47800b40237.html">
+    <img class="flex-bottle" src="/images/33/a5af69-7480-4f2e-97a9-d47800b40237/2023-08-28-20-41-54-654EC838-3F2E-4583-B84D-0F2B1BAF23A6-1-105-c@512.webp"></img>
+    <section class="h">Pierre Naigeon</section>
+    <section class="h text-bolder">Mazys-Chambertin Grand Cru Vieilles Vignes - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+    <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Lomba dos Ares - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/5ca2fbaf-43a6-4973-9533-20f55ee2594f.html">
     <img class="flex-bottle" src="/images/5c/a2fbaf-43a6-4973-9533-20f55ee2594f/2021-09-11-10-26-26-A9AD0995-1146-4353-A0C6-9EFAE063B0DC-1-105-c@512.webp"></img>
     <section class="h">Storm</section>
@@ -63,10 +79,46 @@ Tasted on an event organised by [[barberry:/convives/d904e107-409a-4f5b-959b-880
     <section class="h text-bolder">Saint-Aubin Le Banc - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/96250da7-a202-475f-a80d-f6876c7b8c71.html">
+    <img class="flex-bottle" src="/images/96/250da7-a202-475f-a80d-f6876c7b8c71/2023-08-28-20-39-04-2BB59D7F-9962-4540-B8D1-4A58AC79D197-1-105-c@512.webp"></img>
+    <section class="h">Le Grappin</section>
+    <section class="h text-bolder">Savigny-lès-Beaune - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/acfcf3d1-ebba-46c7-8265-06bb6aee4791.html">
+    <img class="flex-bottle" src="/images/ac/fcf3d1-ebba-46c7-8265-06bb6aee4791/2023-08-28-20-50-52-3CE07A20-1B57-4EDF-BE25-E9A352169302-1-105-c@512.webp"></img>
+    <section class="h">Philippe Pacalet</section>
+    <section class="h text-bolder">Chassagne-Montrachet - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c4370dd3-fe5e-4b75-89f4-6eb7592a889d.html">
+    <img class="flex-bottle" src="/images/c4/370dd3-fe5e-4b75-89f4-6eb7592a889d/2023-08-28-20-52-08-D1EA876A-8D48-45BA-8168-E84972056E02-1-105-c@512.webp"></img>
+    <section class="h">Château de Béru</section>
+    <section class="h text-bolder">Chablis Clos Béru Monopole - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ca3e91bb-2f99-495d-8559-599df1f3098c.html">
+    <img class="flex-bottle" src="/images/ca/3e91bb-2f99-495d-8559-599df1f3098c/2023-08-28-20-38-49-24B3BCC7-30A0-4368-BCE3-BCDA37765925-1-105-c@512.webp"></img>
+    <section class="h">Domaine des Monts Luisants</section>
+    <section class="h text-bolder">Morey-Saint-Denis 1er Cru Les Genavrières - 2017</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/cf113251-3124-4a63-8959-020e90600405.html">
     <img class="flex-bottle" src="/images/cf/113251-3124-4a63-8959-020e90600405/2021-12-09-08-52-53-4C5E8D92-6B44-4175-8299-8705FAE83FA8-1-105-c@512.webp"></img>
     <section class="h">Domaine Michel Gaunoux</section>
     <section class="h text-bolder">Beaune - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d6b279bf-47ed-4b37-b3a7-b042cfb53eca.html">
+    <img class="flex-bottle" src="/images/d6/b279bf-47ed-4b37-b3a7-b042cfb53eca/2023-08-28-20-44-42-E64C2D0B-8578-4A35-ABB2-8A684FB7DA1A-1-105-c@512.webp"></img>
+    <section class="h">Sylvain Pataille</section>
+    <section class="h text-bolder">Bourgogne Rouge - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2.html">
+    <img class="flex-bottle" src="/images/e8/807132-9a6c-4d45-b55c-72c6bbf7a5f2/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c@512.webp"></img>
+    <section class="h">Frédéric Cossard</section>
+    <section class="h text-bolder">Morey-Saint-Denis Les Champs de la Vigne Qvevris - 2018</section>
   </a>
 
 </div>

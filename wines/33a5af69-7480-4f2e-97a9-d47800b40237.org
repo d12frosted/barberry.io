@@ -21,10 +21,34 @@ A fistful of red fruits forgotten under the sun, sunflower seeds combined into a
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/96250da7-a202-475f-a80d-f6876c7b8c71.html">
+  <a class="flex-item flex-item-left" href="/wines/5599b29d-ec02-4869-8d18-1e2eff71636e.html">
+    <img class="flex-bottle" src="/images/55/99b29d-ec02-4869-8d18-1e2eff71636e/2022-05-08-16-12-51-3379D08C-7C18-46C8-A74E-42DFA735DA67-1-102-o@512.webp"></img>
+    <section class="h">Fedellos do Couto</section>
+    <section class="h text-bolder">Lomba dos Ares - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/96250da7-a202-475f-a80d-f6876c7b8c71.html">
     <img class="flex-bottle" src="/images/96/250da7-a202-475f-a80d-f6876c7b8c71/2023-08-28-20-39-04-2BB59D7F-9962-4540-B8D1-4A58AC79D197-1-105-c@512.webp"></img>
     <section class="h">Le Grappin</section>
     <section class="h text-bolder">Savigny-lès-Beaune - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/acfcf3d1-ebba-46c7-8265-06bb6aee4791.html">
+    <img class="flex-bottle" src="/images/ac/fcf3d1-ebba-46c7-8265-06bb6aee4791/2023-08-28-20-50-52-3CE07A20-1B57-4EDF-BE25-E9A352169302-1-105-c@512.webp"></img>
+    <section class="h">Philippe Pacalet</section>
+    <section class="h text-bolder">Chassagne-Montrachet - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/c4370dd3-fe5e-4b75-89f4-6eb7592a889d.html">
+    <img class="flex-bottle" src="/images/c4/370dd3-fe5e-4b75-89f4-6eb7592a889d/2023-08-28-20-52-08-D1EA876A-8D48-45BA-8168-E84972056E02-1-105-c@512.webp"></img>
+    <section class="h">Château de Béru</section>
+    <section class="h text-bolder">Chablis Clos Béru Monopole - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c9dfb99d-b579-4437-bf84-cc2e9987c7c0.html">
+    <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c@512.webp"></img>
+    <section class="h">Domaine Derain</section>
+    <section class="h text-bolder">Saint-Aubin - 2018</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/ca3e91bb-2f99-495d-8559-599df1f3098c.html">
