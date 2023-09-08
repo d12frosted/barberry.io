@@ -9,5 +9,11 @@
     <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/7e5da588-065f-413e-b9e2-a6540a082a8e.html">
+    <img class="flex-bottle" src="/images/7e/5da588-065f-413e-b9e2-a6540a082a8e/2023-09-08-10-38-54-814DF0F1-61AD-4429-B4E5-FEE78A3DC145-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pianta - 2016</section>
+  </a>
+
 </div>
 #+end_export

@@ -1,10 +1,16 @@
-Hello, fellow convive! This page contains a list of wines (117 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (118 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Thursday,  7 September 2023
+
+*** @Garage / [[barberry:/posts/2023-09-07-sicily][Sicily by Vova and Mykola]]
+
+- ★ 4.10 [[barberry:/wines/7255156f-7c94-489d-99c3-8ad58578a1df][I Vigneri Aurora 2019]]
 
 ** Friday, 25 August 2023
 

@@ -21,6 +21,10 @@
     {
       "id": "146116e4-398d-442c-b7bb-35703552457a",
       "name": "Carricante"
+    },
+    {
+      "id": "90fa2880-a977-41ff-ad4e-a560f316dddb",
+      "name": "Minnella Bianca"
     }
   ],
   "alcohol": "11",
@@ -29,6 +33,6 @@
     "1190 UAH"
   ],
   "available": 0.0,
-  "image": "images/72/55156f-7c94-489d-99c3-8ad58578a1df/2022-08-20-10-36-31-DAE6B32E-0E7E-4E49-B8C1-F64966B230D2-1-105-c.webp",
-  "rating": "7.25"
+  "image": "images/72/55156f-7c94-489d-99c3-8ad58578a1df/2023-09-08-10-35-54-6F0D6232-C08B-47F3-A863-46B70C204FF4-1-105-c.webp",
+  "rating": "7.5"
 }

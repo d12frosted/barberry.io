@@ -1,0 +1,226 @@
+Sicily is a strange wine-making region with an inconsistent reputation among drinkers. Some are happy with a barrel of knocking Nero d'Avola, while others are drawn by Etna volcano with its intense reds and mineral whites. Yet the isle (with a few small buddies scattered around) is vast and diverse in styles. Sicily is a land where antiquity meets modern confusion, where the South doesn't mean heaviness and higher altitude doesn't necessarily mean elegance. And this is why every journey here is unique.
+
+Some would say that my obsession with Sicily is troubling and calls for a medical examination. Maybe you are right. Meanwhile, just step aside and let me enjoy this journey organised by [[https://instagram.com/imulianov][Vova Ulianov]] and [[https://t.me/MykolaWhat][Mykola Chobanu]] in one of the best places for wine tastings in Kyiv (yup, [[https://www.instagram.com/garage.kyiv/][Garage]]!).
+
+#+caption: Photo by Vova Ulianov. The order represents his personal artistic vision and has no relation to the serving order.
+[[file:/images/2023-09-07-sicily/2023-09-08-10-56-26-IMG-8745.webp]]
+
+1. [[barberry:/wines/7255156f-7c94-489d-99c3-8ad58578a1df][I Vigneri Aurora 2019]]
+2. [[barberry:/wines/7e5da588-065f-413e-b9e2-a6540a082a8e][Biondi Pianta 2016]]
+3. [[barberry:/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719][Tenuta di Fessina A'Puddara Etna Bianco 2010]]
+4. [[barberry:/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8][COS Pithos Bianco 2012]]
+5. [[barberry:/wines/31191255-35aa-4eca-bac3-0f330492bc41][Girolamo Russo 'a Rina 2020]]
+6. [[barberry:/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84][Benanti Etna Rosso Contrada Monte Serra 2016]]
+7. [[barberry:/wines/bdee0912-7a56-49ed-a1e0-b0c4b7ede659][Frank Cornelissen Magma 2017]]
+
+* Scores
+:PROPERTIES:
+:ID:                     f03365af-8b39-4ea7-ab7d-9170230a83c4
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite | outcast |    price |      QPR |
+|---------+----------+--------+-----------+---------+----------+----------|
+| Wine #1 |   3.9634 | 0.0698 |      1.00 |    1.00 |  1190.00 |   1.8838 |
+| Wine #2 |   3.8165 | 0.1255 |      1.00 |    1.00 |  1571.00 |   1.1354 |
+| Wine #3 |   3.9034 | 0.0972 |      1.00 |  +5.00+ |  2190.00 |   0.9311 |
+| Wine #4 |   3.9493 | 0.1023 |      1.00 |    1.00 |  2489.00 |   0.8765 |
+| Wine #5 |   3.9578 | 0.0261 |    *4.00* |    1.00 |  1085.00 | *2.0661* |
+| Wine #6 |   3.8931 | 0.0172 |      1.00 |    0.00 |  1772.00 |   1.1507 |
+| Wine #7 | *4.1114* | 0.0190 |      1.00 |    1.00 | 11000.00 |   0.2575 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* I Vigneri Aurora 2019
+:PROPERTIES:
+:ID:                     511fcc69-6eb8-4416-bb81-5114c15f5ef8
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-35-54-6F0D6232-C08B-47F3-A863-46B70C204FF4-1-105-c.webp]]
+
+- producer: [[barberry:/producers/6de83519-f55b-4fd9-b5dc-50889e6e16dc][I Vigneri]]
+- name: [[barberry:/wines/7255156f-7c94-489d-99c3-8ad58578a1df][Aurora]]
+- vintage: 2019
+- grapes: Carricante, Minnella Bianca
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 11
+- sugar: N/A
+- price: 1190 UAH
+
+Each label tells a story. Some of these stories are straightforward. And there is nothing sinister about it. Look, Aurora (means dawn) is also the Italian name of the Eastern Orange Tip butterfly (Anthocharis damone, if you even care), whose survival is at risk due to the changes in its natural habitat. Its geographical range is curious. In Europe, it is distributed only in Türkiye, Greece, Macedonia and southern Italy (Mount Etna in Sicily and Aspromonte in Calabria). For this reason, the species represent a real symbol of Mount Etna's biodiversity.
+
+So what do we have here? A nature-caring winemaker, doomed butterfly species, and you in attempt to focus on the wine - not on these magnificent beasts. See? The narrative is ready.
+
+#+caption: https://www.casadellefarfallemonteserra.it/en/la-farfalla-delletna/#!
+[[file:/images/2023-09-07-sicily/41.webp]]
+
+#+caption: https://en.wikipedia.org/wiki/Anthocharis_damone
+[[file:/images/2023-09-07-sicily/2023-09-08-22-29-24-aurora.webp]]
+
+On the other hand, Aurora is just a 90/10 blend of Carricante and Minnella Bianca from Contrada Caselle in the municipality of Milo, at 750 meters above sea level. The vines are young - planted in 2010 and 2015. Direct pressing of whole grapes with static and natural settling of the must for about 30 hours. After alcoholic fermentation, the wine rests for around 6 months in stainless steel tanks.
+
+* Biondi Pianta 2016
+:PROPERTIES:
+:ID:                     ec6d7f88-2411-4204-b1bf-4d30cf6d59ef
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-38-54-814DF0F1-61AD-4429-B4E5-FEE78A3DC145-1-105-c.webp]]
+
+- producer: [[barberry:/producers/e0e7730b-1060-4fe0-a872-c16f783ad574][Biondi]]
+- name: [[barberry:/wines/7e5da588-065f-413e-b9e2-a6540a082a8e][Pianta]]
+- vintage: 2016
+- grapes: Carricante, Catarratto, Minnella Bianca
+- appellation: Etna DOC
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 1571 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Tenuta di Fessina A'Puddara Etna Bianco 2010
+:PROPERTIES:
+:ID:                     d97c35a7-8369-4352-80a9-3a35a80f4909
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-35-33-AC5181AC-852B-4E7A-A997-36E55DCBEB87-1-105-c.webp]]
+
+- producer: [[barberry:/producers/0d49980e-7654-4abb-a5e4-fe210d0d0c5d][Tenuta di Fessina]]
+- name: [[barberry:/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719][A'Puddara Etna Bianco]]
+- vintage: 2010
+- grapes: Carricante
+- appellation: Etna DOC
+- location: Sicily, Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 2190 UAH
+
+After visiting Sicily in 2006, Silvia Maestrelli decided to start a new phase in her life. And after lengthy negotiations with numerous landowners, she started Tenuta di Fessina on the slopes of Etna mountain. Since its start in 2007, Silvia Maestrelli was trying to combine the sensitivity of a "feminine" oenological vision with the unquestioned technical skills of consultants and collaborators.
+
+A'puddara (a pole star) is an ode to Carricante, a guiding star of Mount Etna. The 2 ha vineyard was planted in 1950 at 900 meters above sea level. It is located in the Biancavilla production area (southern parts of the volcano), Contrada Manzudda. This area is composed of small volcanoes and crates from remote eras. They led to the formation of limestone caves and a terroir composed mainly of clayey particles, lapilli leftovers, sand and volcanic ash. There are tiny fractions of potassium, basaltic lavas and ancient tuffs. Combined with thermic excursion and the high rates of the genotypic acidity of the indigenous grapes (including Carricante), it is believed that the terroir produces wines with great ageing potential. Well, we have an opportunity to check it.
+
+The fruits are crushed without de-stemming and softly pressed with separation of the musts. After cold static decantation, the wine is fermented in 3500-litre French oak barrels. Refined on lees for 6-8 months. Total production is relatively small - 6000 regular and 150 magnum bottles.
+
+* COS Pithos Bianco 2012
+:PROPERTIES:
+:ID:                     bc158cec-8835-4923-8342-4a6a0669707c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-44-15-C6C64281-768C-4752-BD01-C6E3F8350251-1-105-c.webp]]
+
+- producer: [[barberry:/producers/512e0678-4812-4cee-b090-911416bcc0e2][COS]]
+- name: [[barberry:/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8][Pithos Bianco]]
+- vintage: 2012
+- grapes: Grecanico
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 10.5
+- sugar: 1
+- price: 2489 UAH
+
+After spending some time with Arianna Occhipinti, let’s give a visit to her uncle, Guisto Occhipinti. Azienda Agricola COS was founded in 1980 by three friends: Giambattista Cilia, Giusto Occhipinti, and Cirino Strano. The name is just an acronym of their family names (in case you didn't notice).
+
+COS started its adventure with biodynamic farming and neutral terracotta vases. In 2007 (after moving to a new location), they decided to get rid of all their oak barrels in favour of 150 huge amphoras.
+
+Pithos Bianco is 100% Grecanico growing at 230 meters above sea level on red soils of limestone-siliceous nature. The average age of vines is 12 years. The fruits were fermented spontaneously in terracotta amphorae (as the name suggests) on the skins with indigenous yeasts. Aged for an undefined amount of time in amphora.
+
+* Girolamo Russo 'a Rina 2020
+:PROPERTIES:
+:ID:                     a61c6dee-9cf5-4833-9dda-220411bbaad6
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c.webp]]
+
+- producer: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
+- name: [[barberry:/wines/31191255-35aa-4eca-bac3-0f330492bc41]['a Rina]]
+- vintage: 2020
+- grapes: Nerello Mascalese
+- appellation: Etna DOC
+- location: Sicily, Italy
+- alcohol: 14
+- sugar: 0.5
+- price: 1085 UAH
+
+#+begin_quote
+Making wine on the slopes of Mount Etna is an intensely personal, profound and ongoing act of love.
+#+end_quote
+
+A friend of mine once said that all people divide into two categories: those who live in Valais and those who want to live there. I have never been there, but I understand this appreciation of the land you live in. And I think the same applies to Etna, at least to some extent. Unlike Silvia Maestrelli, Giuseppe Russo is affiliated with Etna by the right of birth. A graduate of the Humanities with a Diploma in piano, he re-established the family winery in 2005 and dedicated it to the memory of the late father, Girolamo. Their vineyards cover 18 hectares, surrounded by hazelnut and olive groves.
+
+* Benanti Etna Rosso Contrada Monte Serra 2016
+:PROPERTIES:
+:ID:                     228decee-2ea2-4bf5-b789-b701224251aa
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-43-42-B44CE3CA-69B3-4AFD-8F7F-E9789639A4D0-1-105-c.webp]]
+
+- producer: [[barberry:/producers/67b9a0dc-6746-4fba-9e0d-2eaa92eaa0cb][Benanti]]
+- name: [[barberry:/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84][Etna Rosso Contrada Monte Serra]]
+- vintage: 2016
+- grapes: Nerello Mascalese
+- appellation: Etna DOC
+- location: Sicily, Italy
+- alcohol: 13.5
+- sugar: N/A
+- price: 1772 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Frank Cornelissen Magma 2017
+:PROPERTIES:
+:ID:                     5041c215-5395-41cd-a28e-c4d484cb0cd4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-07-sicily/2023-09-08-10-35-02-DFA4AEA0-FCBB-4486-AB5C-E3631FAE6060-1-105-c.webp]]
+
+- producer: [[barberry:/producers/1dcb5f50-069b-4f63-9810-3b1c2b0a8ed8][Frank Cornelissen]]
+- name: [[barberry:/wines/bdee0912-7a56-49ed-a1e0-b0c4b7ede659][Magma]]
+- vintage: 2017
+- grapes: Nerello Mascalese
+- appellation: IGP Terre Siciliane
+- location: Sicily, Italy
+- alcohol: 15
+- sugar: 1
+- price: 11000 UAH
+
+I am yet to provide information about this wine. And while it's a work in progress, I need some Lorem Ipsum kind of text to occupy screen space here. Why? I want this section to look better on wide screens (e.g. my laptop). Deal with it.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     fbca3d72-bcdf-4beb-bea5-65b431d7235a
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-------------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch   |    4.10 |    4.00 |  +3.90+ |    4.10 |    4.00 |  *4.20* |    4.20 |
+| Mykola T    |    4.10 |  *4.20* |  +3.90+ |    4.10 |    3.90 |    4.00 |    4.30 |
+| Anya I      |    4.10 |    4.10 |  +3.80+ |    4.10 |    3.90 |    3.90 |  *4.40* |
+| Anna P      |    4.00 |    3.90 |    3.80 |  +3.80+ |  *4.10* |    4.00 |    4.00 |
+| Mykyta      |    4.50 |    3.80 |  *4.80* |    4.00 |  +3.50+ |    3.80 |    4.00 |
+| Ekaterina P |    3.50 |  +2.80+ |    3.60 |    3.00 |  *4.10* |    3.80 |    4.10 |
+| David H     |  +3.60+ |    3.70 |    3.80 |    4.00 |  *4.10* |    3.80 |    4.20 |
+| Serhii H    |    3.80 |    3.70 |  +3.60+ |  *4.10* |    3.90 |    3.80 |    4.00 |
+| Diana M     |    3.80 |    3.70 |  +3.70+ |    3.80 |  *4.00* |    3.70 |    4.00 |
+| Vova U      |  *4.10* |    4.00 |    3.90 |    4.10 |    4.00 |    3.90 |  +4.00+ |
+| Boris B     |    3.90 |    3.90 |    4.00 |    4.20 |    4.00 |    3.90 |    4.00 |
+

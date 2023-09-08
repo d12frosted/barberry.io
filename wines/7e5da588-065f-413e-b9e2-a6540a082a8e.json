@@ -1,0 +1,42 @@
+{
+  "id": "7e5da588-065f-413e-b9e2-a6540a082a8e",
+  "name": "Pianta",
+  "full-name": "Biondi Pianta 2016",
+  "producer": {
+    "id": "e0e7730b-1060-4fe0-a872-c16f783ad574",
+    "name": "Biondi"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "146116e4-398d-442c-b7bb-35703552457a",
+      "name": "Carricante"
+    },
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    },
+    {
+      "id": "90fa2880-a977-41ff-ad4e-a560f316dddb",
+      "name": "Minnella Bianca"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1571 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7e/5da588-065f-413e-b9e2-a6540a082a8e/2023-09-08-10-38-54-814DF0F1-61AD-4429-B4E5-FEE78A3DC145-1-105-c.webp",
+  "rating": "NA"
+}

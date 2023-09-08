@@ -1,0 +1,34 @@
+{
+  "id": "31191255-35aa-4eca-bac3-0f330492bc41",
+  "name": "'a Rina",
+  "full-name": "Girolamo Russo 'a Rina 2020",
+  "producer": {
+    "id": "b2257d8d-489c-4d2f-8a44-c080cbbae65e",
+    "name": "Girolamo Russo"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
+      "name": "Nerello Mascalese"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.5",
+  "prices": [
+    "1085 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/31/191255-35aa-4eca-bac3-0f330492bc41/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c.webp",
+  "rating": "NA"
+}

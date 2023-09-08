@@ -1,0 +1,63 @@
+#+attr_html: :class wine-main-image
+[[file:/images/31/191255-35aa-4eca-bac3-0f330492bc41/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/b2257d8d-489c-4d2f-8a44-c080cbbae65e][Girolamo Russo]]
+- Vintage :: 2020
+- Location :: Italy, Etna DOC
+- Grapes :: Nerello Mascalese
+- Alcohol :: 14
+- Sugar :: 0.5
+- Price :: 1085 UAH
+- Cellar :: 1 bottle
+
+** Producer
+
+#+begin_quote
+Making wine on the slopes of Mount Etna is an intensely personal, profound and ongoing act of love.
+#+end_quote
+
+Some are just 'lucky' to be affiliated with Etna by the right of birth. Giuseppe Russo, a graduate of Humanities with a Diploma in piano, re-established the family winery in 2005 and dedicated it to the memory of the late father, Girolamo. Their vineyards cover 18 hectares, surrounded by hazelnut and olive groves.
+
+Giuseppe Russo owns around 26 ha of vineyards, half is sold, half is turned into wine. 1 white, 1 rosé and 4 red wines.
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82.html">
+    <img class="flex-bottle" src="/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso San Lorenzo - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso 'a Rina - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443.html">
+    <img class="flex-bottle" src="/images/ed/73cfa5-b2a1-4237-9eb7-e40202f66443/2021-07-22-09-11-31-DEAEC421-4396-4C5A-965F-568E22558612-1-105-c@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Nerina - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+    <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosato - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+    <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
+  </a>
+
+</div>
+#+end_export

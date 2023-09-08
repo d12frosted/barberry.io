@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/7e/5da588-065f-413e-b9e2-a6540a082a8e/2023-09-08-10-38-54-814DF0F1-61AD-4429-B4E5-FEE78A3DC145-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/e0e7730b-1060-4fe0-a872-c16f783ad574][Biondi]]
+- Vintage :: 2016
+- Location :: Italy, Etna DOC
+- Grapes :: Carricante, Catarratto, Minnella Bianca
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 1571 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
+    <img class="flex-bottle" src="/images/ac/c8bba0-3544-4983-b6d5-e2cfeb7405e7/2022-11-18-09-11-49-21A2348B-EDF5-491B-BCD0-212EBB3D4A74-1-105-c@512.webp"></img>
+    <section class="h">Biondi</section>
+    <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
+  </a>
+
+</div>
+#+end_export

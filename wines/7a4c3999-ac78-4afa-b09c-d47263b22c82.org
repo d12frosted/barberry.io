@@ -37,67 +37,73 @@ Wine #7 on [[barberry:/posts/2023-01-24-il-pirata][Il Pirata Vol. 3]].
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
-    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/31191255-35aa-4eca-bac3-0f330492bc41.html">
+    <img class="flex-bottle" src="/images/31/191255-35aa-4eca-bac3-0f330492bc41/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
-    <section class="h text-bolder">Etna Rosso A Rina - 2017</section>
+    <section class="h text-bolder">'a Rina - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443.html">
+  <a class="flex-item flex-item-right" href="/wines/7adad9b0-6809-47f7-b34a-2ef50761479d.html">
+    <img class="flex-bottle" src="/images/7a/dad9b0-6809-47f7-b34a-2ef50761479d/2022-08-02-08-50-58-IMG-1179@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Etna Rosso 'a Rina - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443.html">
     <img class="flex-bottle" src="/images/ed/73cfa5-b2a1-4237-9eb7-e40202f66443/2021-07-22-09-11-31-DEAEC421-4396-4C5A-965F-568E22558612-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Nerina - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
+  <a class="flex-item flex-item-right" href="/wines/ee17a380-0039-4cf6-acbb-c0d0a2875936.html">
     <img class="flex-bottle" src="/images/ee/17a380-0039-4cf6-acbb-c0d0a2875936/2021-09-01-22-33-13-FE084A4E-412B-4FD6-96ED-05B32ADBD50C-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosato - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/15b2277b-e7a8-4d4c-ae7f-ad61db9f898c.html">
+  <a class="flex-item flex-item-right" href="/wines/15b2277b-e7a8-4d4c-ae7f-ad61db9f898c.html">
     <img class="flex-bottle" src="/images/15/b2277b-e7a8-4d4c-ae7f-ad61db9f898c/2022-12-01-07-40-22-IMG-3518@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">SP68 Bianco - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
+  <a class="flex-item flex-item-left" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
     <img class="flex-bottle" src="/images/7a/3f478e-ab77-465c-9ef5-80b8e7804817/2023-01-18-21-02-59-IMG-4452@512.webp"></img>
     <section class="h">Graffetta</section>
     <section class="h text-bolder">Grillo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
+  <a class="flex-item flex-item-right" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
     <img class="flex-bottle" src="/images/7f/805a08-23ec-44bb-8542-316c2c0b861a/2023-01-16-16-39-36-IMG-4362@512.webp"></img>
     <section class="h">Celler Credo</section>
     <section class="h text-bolder">Miranius - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
+  <a class="flex-item flex-item-left" href="/wines/aba30227-d546-4ce1-94ac-75fa356f7b19.html">
     <img class="flex-bottle" src="/images/ab/a30227-d546-4ce1-94ac-75fa356f7b19/2023-01-20-14-40-02-IMG-4490@512.webp"></img>
     <section class="h">Tenuta di Castellaro</section>
     <section class="h text-bolder">Corinto - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
+  <a class="flex-item flex-item-right" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
     <img class="flex-bottle" src="/images/b7/01a9ea-9bea-4b05-a9f7-de9f41256240/2023-01-16-16-52-45-IMG-4387@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
-    <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-01-07-11-30-32-ED5B33E2-850E-4867-829C-C52DE5076062-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+    <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-09-08-10-35-33-AC5181AC-852B-4E7A-A997-36E55DCBEB87-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+  <a class="flex-item flex-item-right" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
     <img class="flex-bottle" src="/images/f7/795b1b-bbbf-42d4-888f-19ae004bb5e8/2023-01-20-14-38-54-IMG-4487@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Pithos Bianco - 2012</section>
