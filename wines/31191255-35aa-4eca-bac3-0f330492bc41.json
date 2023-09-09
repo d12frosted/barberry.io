@@ -21,6 +21,10 @@
     {
       "id": "9c1a5bec-9390-429e-bea9-4f1cce05f79c",
       "name": "Nerello Mascalese"
+    },
+    {
+      "id": "54408509-e212-4d1c-a7e5-d87c6c9ee6df",
+      "name": "Nerello Cappuccio"
     }
   ],
   "alcohol": "14",
@@ -28,7 +32,7 @@
   "prices": [
     "1085 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/31/191255-35aa-4eca-bac3-0f330492bc41/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.0"
 }

@@ -29,10 +29,40 @@ A punchy bouquet of musk, crushed apple seeds, fried almonds, hay, peach, smoked
     <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7255156f-7c94-489d-99c3-8ad58578a1df.html">
+  <a class="flex-item flex-item-right" href="/wines/31191255-35aa-4eca-bac3-0f330492bc41.html">
+    <img class="flex-bottle" src="/images/31/191255-35aa-4eca-bac3-0f330492bc41/2023-09-08-10-41-32-DDD1FFAC-7E4C-4D8C-A049-7B23F0018EE3-1-105-c@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">'a Rina - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/7255156f-7c94-489d-99c3-8ad58578a1df.html">
     <img class="flex-bottle" src="/images/72/55156f-7c94-489d-99c3-8ad58578a1df/2023-09-08-10-35-54-6F0D6232-C08B-47F3-A863-46B70C204FF4-1-105-c@512.webp"></img>
     <section class="h">I Vigneri</section>
     <section class="h text-bolder">Aurora - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84.html">
+    <img class="flex-bottle" src="/images/b8/803c15-f4ac-4fe4-9b7d-0c1c02cedc84/2023-09-08-10-43-42-B44CE3CA-69B3-4AFD-8F7F-E9789639A4D0-1-105-c@512.webp"></img>
+    <section class="h">Benanti</section>
+    <section class="h text-bolder">Etna Rosso Contrada Monte Serra - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/bdee0912-7a56-49ed-a1e0-b0c4b7ede659.html">
+    <img class="flex-bottle" src="/images/bd/ee0912-7a56-49ed-a1e0-b0c4b7ede659/2023-09-08-10-35-02-DFA4AEA0-FCBB-4486-AB5C-E3631FAE6060-1-105-c@512.webp"></img>
+    <section class="h">Frank Cornelissen</section>
+    <section class="h text-bolder">Magma - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+    <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-09-08-10-35-33-AC5181AC-852B-4E7A-A997-36E55DCBEB87-1-105-c@512.webp"></img>
+    <section class="h">Tenuta di Fessina</section>
+    <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+    <img class="flex-bottle" src="/images/f7/795b1b-bbbf-42d4-888f-19ae004bb5e8/2023-01-20-14-38-54-IMG-4487@512.webp"></img>
+    <section class="h">COS</section>
+    <section class="h text-bolder">Pithos Bianco - 2012</section>
   </a>
 
 </div>
