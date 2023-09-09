@@ -103,13 +103,19 @@ Remembering my previous experience with Contrada Monte Serra, I was curious to t
     <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+  <a class="flex-item flex-item-right" href="/wines/ed73cfa5-b2a1-4237-9eb7-e40202f66443.html">
+    <img class="flex-bottle" src="/images/ed/73cfa5-b2a1-4237-9eb7-e40202f66443/2021-07-22-09-11-31-DEAEC421-4396-4C5A-965F-568E22558612-1-105-c@512.webp"></img>
+    <section class="h">Girolamo Russo</section>
+    <section class="h text-bolder">Nerina - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
     <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-09-08-10-35-33-AC5181AC-852B-4E7A-A997-36E55DCBEB87-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+  <a class="flex-item flex-item-right" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
     <img class="flex-bottle" src="/images/f7/795b1b-bbbf-42d4-888f-19ae004bb5e8/2023-01-20-14-38-54-IMG-4487@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Pithos Bianco - 2012</section>
