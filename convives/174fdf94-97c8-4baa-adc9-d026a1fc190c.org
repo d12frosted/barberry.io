@@ -1,10 +1,20 @@
-Hello, fellow convive! This page contains a list of wines (440 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (445 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Wednesday, 13 September 2023
+
+*** @Garage
+
+- &nbsp; &emptyscore; [[barberry:/wines/9d6514e5-c610-4f57-892e-96d0fbb37765][Les Vignes Herbel L'enchanteur 2016-2017 NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/fc7a0196-0453-4b31-acf9-23306701f7cb][Emidio Pepe Trebbiano d'Abruzzo 2015]]
+- &nbsp; &emptyscore; [[barberry:/wines/90fb4150-2f34-4998-b967-0b5a8f0c8205][Jean-Pierre Robinot Opéra des vins Concerto di Venezia 2019]]
+- &nbsp; &emptyscore; [[barberry:/wines/c96865d9-7cab-447c-943d-d7c274f46af7][Jean-Pierre Robinot Lumière des Sens 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f][Domaine du Pélican Savagnin Ouillé 2016]]
 
 ** Tuesday, 15 August 2023
 

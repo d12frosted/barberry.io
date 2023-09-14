@@ -5,11 +5,17 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/c96865d9-7cab-447c-943d-d7c274f46af7.html">
     <img class="flex-bottle" src="/images/c9/6865d9-7cab-447c-943d-d7c274f46af7/2023-07-19-21-06-07-IMG-8554@512.webp"></img>
-    <section class="h">★ -</section>
+    <section class="h">★ 8.50</section>
     <section class="h text-bolder">Lumière des Sens - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
+  <a class="flex-item flex-item-right" href="/wines/90fb4150-2f34-4998-b967-0b5a8f0c8205.html">
+    <img class="flex-bottle" src="/images/90/fb4150-2f34-4998-b967-0b5a8f0c8205/2023-09-14-13-08-52-D6AD06DB-D095-45FB-A6B6-227732252642-1-105-c@512.webp"></img>
+    <section class="h">★ 7.75</section>
+    <section class="h text-bolder">Opéra des vins Concerto di Venezia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
     <img class="flex-bottle" src="/images/cb/e859e6-edcd-41a3-9d72-3a4bfb4be7bc/2023-05-06-11-36-38-IMG-6791@512.webp"></img>
     <section class="h">★ 7.80</section>
     <section class="h text-bolder">l'Ange Vin L'iris - 2019</section>

@@ -9,20 +9,52 @@
 - Alcohol :: 11
 - Sugar :: NA
 - Price :: 46 EUR
-- Cellar :: 1 bottle
+- Cellar :: N/A
+
+100% Pineau d'Aunis comes from a 40-year-old parcel. Fruit is fermented on skins in whole bunches for two weeks before being pressed into old barrels to rest for fifteen months.
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-09-13 - ☆ 8.50
+
+Blimey! Such a young and seductive Pineau d'Aunis.
+
+At first, it bursts with notes of red apples, Nordic berries and blood. Over the evening, it slowly reveals cookies with red apples, a fistful of red flowers, and crushed peperoncini. Juicy, medium-light, quaffable and sophisticated. The aftertaste is long and leaves a pleasant trace of red fruits and spices.
+
+We tasted this wine slowly, so it was interesting to witness development. If you don't have enough wine and time - decant it. Here we come. Generic advices! Tee-hee.
 
 ** Related
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
+  <a class="flex-item flex-item-left" href="/wines/90fb4150-2f34-4998-b967-0b5a8f0c8205.html">
+    <img class="flex-bottle" src="/images/90/fb4150-2f34-4998-b967-0b5a8f0c8205/2023-09-14-13-08-52-D6AD06DB-D095-45FB-A6B6-227732252642-1-105-c@512.webp"></img>
+    <section class="h">Jean-Pierre Robinot</section>
+    <section class="h text-bolder">Opéra des vins Concerto di Venezia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc.html">
     <img class="flex-bottle" src="/images/cb/e859e6-edcd-41a3-9d72-3a4bfb4be7bc/2023-05-06-11-36-38-IMG-6791@512.webp"></img>
     <section class="h">Jean-Pierre Robinot</section>
     <section class="h text-bolder">l'Ange Vin L'iris - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">
+    <img class="flex-bottle" src="/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c@512.webp"></img>
+    <section class="h">Domaine du Pélican</section>
+    <section class="h text-bolder">Savagnin Ouillé - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9d6514e5-c610-4f57-892e-96d0fbb37765.html">
+    <img class="flex-bottle" src="/images/9d/6514e5-c610-4f57-892e-96d0fbb37765/2023-09-14-20-05-49-08378C35-B71D-4FB4-AF5B-B08F6A7F7D39-1-105-c@512.webp"></img>
+    <section class="h">Les Vignes Herbel</section>
+    <section class="h text-bolder">L'enchanteur 2016-2017 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fc7a0196-0453-4b31-acf9-23306701f7cb.html">
+    <img class="flex-bottle" src="/images/fc/7a0196-0453-4b31-acf9-23306701f7cb/2023-09-14-13-00-04-30617F02-422D-43DD-B4C4-818686A277E0-1-105-c@512.webp"></img>
+    <section class="h">Emidio Pepe</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2015</section>
   </a>
 
 </div>

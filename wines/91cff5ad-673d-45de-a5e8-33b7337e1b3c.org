@@ -25,5 +25,11 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Trebbiano d'Abruzzo - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/fc7a0196-0453-4b31-acf9-23306701f7cb.html">
+    <img class="flex-bottle" src="/images/fc/7a0196-0453-4b31-acf9-23306701f7cb/2023-09-14-13-00-04-30617F02-422D-43DD-B4C4-818686A277E0-1-105-c@512.webp"></img>
+    <section class="h">Emidio Pepe</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2015</section>
+  </a>
+
 </div>
 #+end_export

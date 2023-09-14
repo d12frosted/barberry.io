@@ -1,0 +1,51 @@
+#+attr_html: :class wine-main-image
+[[file:/images/9d/6514e5-c610-4f57-892e-96d0fbb37765/2023-09-14-20-05-49-08378C35-B71D-4FB4-AF5B-B08F6A7F7D39-1-105-c@512.webp]]
+
+- Type :: White Still, Dry
+- Producer :: [[barberry:/producers/99eb8b29-85e8-4919-83e9-53d30a16b2b3][Les Vignes Herbel]]
+- Vintage :: NV
+- Location :: France, Vin de Table
+- Grapes :: Chenin Blanc
+- Alcohol :: 12
+- Sugar :: 9
+- Price :: 1690 UAH
+- Cellar :: N/A
+
+A blend of two vintages (2016 and 2017).
+
+** Ratings
+
+*** 2023-09-13 - ☆ 8.50
+
+Wow, what a delicious and curious wine. An expressive shape-shifter, over the evening, it kept revealing more and more beauty and complexity. A rolling bouquet of tarragon, medicinal notes, quince, white bread (thanks, Vova), lemon peel and honey. It offers a wonderful balance with good acidity (despite 9g/L of RS). The aftertaste is long.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/4c7ebcd8-9f6a-4158-aff7-ac66179a984f.html">
+    <img class="flex-bottle" src="/images/4c/7ebcd8-9f6a-4158-aff7-ac66179a984f/2022-07-02-09-00-27-4E0E7277-94A0-46A4-B136-D0075892FB24-1-105-c@512.webp"></img>
+    <section class="h">Domaine du Pélican</section>
+    <section class="h text-bolder">Savagnin Ouillé - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/90fb4150-2f34-4998-b967-0b5a8f0c8205.html">
+    <img class="flex-bottle" src="/images/90/fb4150-2f34-4998-b967-0b5a8f0c8205/2023-09-14-13-08-52-D6AD06DB-D095-45FB-A6B6-227732252642-1-105-c@512.webp"></img>
+    <section class="h">Jean-Pierre Robinot</section>
+    <section class="h text-bolder">Opéra des vins Concerto di Venezia - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/c96865d9-7cab-447c-943d-d7c274f46af7.html">
+    <img class="flex-bottle" src="/images/c9/6865d9-7cab-447c-943d-d7c274f46af7/2023-07-19-21-06-07-IMG-8554@512.webp"></img>
+    <section class="h">Jean-Pierre Robinot</section>
+    <section class="h text-bolder">Lumière des Sens - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/fc7a0196-0453-4b31-acf9-23306701f7cb.html">
+    <img class="flex-bottle" src="/images/fc/7a0196-0453-4b31-acf9-23306701f7cb/2023-09-14-13-00-04-30617F02-422D-43DD-B4C4-818686A277E0-1-105-c@512.webp"></img>
+    <section class="h">Emidio Pepe</section>
+    <section class="h text-bolder">Trebbiano d'Abruzzo - 2015</section>
+  </a>
+
+</div>
+#+end_export
