@@ -1,4 +1,12 @@
-Wines:
+[[file:/images/2023-09-21-champagne/2023-09-22-17-39-32-IMG-9243.webp]]
+
+You can't buy happiness, but a few bottles of outstanding Champagne wines in warm company definitely bring you closer to the heavens. Elena Menshikova is our messiah. Her quest to taste all popular Champagne labels is alluring[fn:1]. And thus we, her humble followers, bath in the eternal light of sparkling delight. And for the sake of all that is Holy, do not imagine the previous sentence.
+
+Most wine-tasting events are reminiscent of roller coasters if you look at the ratings. Sometimes, the graph contains several spikes. Sometimes, there is a single lonely peak. But monotonic growth of the average score? That's a rare bird in my book.
+
+Of course, in terms of personal preferences (as opposed to the average score), the real battle was between Cristal Rosé 2012 and Krug Rosé 26ème Édition. It's also nice to see that some participants picked other bottles as their favourite of the night.
+
+Without further ado, meet the protagonists (and antagonists).
 
 1. [[barberry:/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6][Taittinger Brut Reserve NV]]
 2. [[barberry:/wines/8b577415-87ab-4024-b4fc-dd82699e3ba2][Billecart Salmon Brut Nature (d2021Q4) NV]]
@@ -7,7 +15,7 @@ Wines:
 5. [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Vilmart & Cie Emotion 2012]]
 6. [[barberry:/wines/02f78aef-712a-499d-ac5d-5205f536267b][Louis Roederer Cristal Rosé 2012]]
 7. [[barberry:/wines/374a465e-ab21-4903-9d93-349c211bea83][Krug Rosé 26ème Édition Brut NV]]
-8. [[barberry:/wines/35276b18-215f-4070-93a2-059f72908314][Bruno Paillard N.P.U. 1996]] (bonus)
+8. [[barberry:/wines/35276b18-215f-4070-93a2-059f72908314][Bruno Paillard N.P.U. 1996]] - bonus; our ever-hungry souls desired more
 
 * Scores
 :PROPERTIES:
@@ -37,6 +45,76 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
+* Taittinger Brut Reserve NV
+:PROPERTIES:
+:ID:                     c6dd54e6-4fa8-4068-b30d-01816369c1db
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-03-08-13-34-26-7F31251F-CB24-46A9-9E55-9F8A3AB1B492-1-102-o.webp]]
+
+- producer: [[barberry:/producers/5c099613-14a4-4dd3-8c29-f331efa52474][Taittinger]]
+- name: [[barberry:/wines/303d09ba-ded9-49b8-a09b-4f89b6607da6][Brut Réserve]]
+- vintage: NV
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 9.8
+- price: 2200 UAH
+
+* Billecart Salmon Brut Nature (d2021Q4) NV
+:PROPERTIES:
+:ID:                     ae2433f5-e37d-463b-aed6-0b160df78860
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-16-31-757BE43F-AEE2-42A5-907B-0EB02AB04186-1-105-c.webp]]
+
+- producer: [[barberry:/producers/2885d4d0-203d-428f-b915-93f64018b112][Billecart Salmon]]
+- name: [[barberry:/wines/8b577415-87ab-4024-b4fc-dd82699e3ba2][Brut Nature (d2021Q4)]]
+- vintage: NV
+- base: 2016
+- disgorged: 2021Q4
+- sur lie: ~55 months
+- grapes: Chardonnay, Pinot Noir, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: N/A
+- price: 3200 UAH
+
+Thanks to Anton T, I discovered that loads of information about each Billecart-Salmon wine is accessible by the 6-digit number printed on the counter label. It's not unique, so here is [[https://myorigin.billecart.fr/myorigin/161062][the link]] to the bottle we tasted.
+
+For the lazy people and for the sake of the "completeness" of this site, I decided to steal a small portion of the information.
+
+Brut Nature is a blend of Pinot Noir (28%), Chardonnay (28%) and Pinot Meunier (44%), sourced from 40 crus scattered around the Champagne region. This specific bottle consists of 36% base wines from the harvest of 2016. Everything else is reserve wines spanning to 2006. The majority of wine (96%) is vinified in stainless steel tanks. MLF is partial.
+
+0 dosage. Disgorged in the 4th quarter of 2021 (hence the identifier on this site).
+
+* Lamiable Phéérie 2016
+:PROPERTIES:
+:ID:                     13cb90d3-5a67-47f3-af3a-f1a3dda89496
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-23-53-3C3DF1A7-53BF-4388-B454-99100FB244B7-1-105-c.webp]]
+
+- producer: [[barberry:/producers/d6df0bde-0385-452c-8ec9-43cd9341e5ec][Lamiable]]
+- name: [[barberry:/wines/ac0dd982-a094-4007-86ec-920104063d88][Phéérie]]
+- vintage: 2016
+- bottled: [2017-03-15 Wed]
+- disgorged: December 2022
+- sur lie: 68 months
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 2.3
+- price: 2200 UAH
+
+A Champagne house you are unlikely to mention in a list of the most popular producers. Yet we, consumers, should be happy as Phéérie is about value. At least, on the Ukranian market. And it's Grand Cru (Tours sur Mame)!
+
 * Raw scores
 :PROPERTIES:
 :ID:                     d426e3da-e55d-457f-993d-4ad9ec56017b
@@ -58,4 +136,6 @@ How to read this table:
 | Vitalii M   |  +4.00+ |    4.10 |    4.10 |    4.10 |    4.50 |    4.60 |  *4.80* |   4.70 |
 | Anna Z      |  +4.00+ |    4.10 |    4.10 |    4.10 |    4.50 |    4.60 |  *4.80* |   4.70 |
 | Boris B     |  +3.80+ |    3.90 |    4.00 |    4.20 |    4.30 |    4.50 |  *4.50* |   4.50 |
+
+[fn:1] Sometimes questionable, of course. But luckily, there are not that many bottles like Taittinger.
 
