@@ -8,8 +8,8 @@
   },
   "vintage": "2015",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "???",
+  "sur-lie": "???",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -28,7 +28,7 @@
   "prices": [
     "4500 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/b0/1eebbd-319b-4aac-b752-5e29dda6e7e5/2023-09-22-11-14-28-3FF12DC6-68E4-41DC-8FA8-9648C9E3A77C-1-105-c.webp",
-  "rating": "NA"
+  "rating": "8.5"
 }

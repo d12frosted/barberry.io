@@ -33,7 +33,7 @@ Without further ado, meet the protagonists (and antagonists).
 | Wine #4 |   4.2381 | 0.0150 |      1.00 |    0.00 |  4500.00 |   0.7660 |
 | Wine #5 |   4.4328 | 0.0083 |      2.00 |    0.00 |  5800.00 |   0.8090 |
 | Wine #6 |   4.6008 | 0.0073 |      2.00 |    0.00 | 35000.00 |   0.1759 |
-| Wine #7 |   4.6473 | 0.0170 |    *5.00* |    0.00 | 27900.00 |   0.2376 |
+| Wine #7 |   4.6562 | 0.0152 |    *5.00* |    0.00 | 27900.00 |   0.2412 |
 | N.P.U.  | *4.7422* | 0.0122 |      0.00 |    0.00 | 15900.00 |   0.4881 |
 
 How to read this table:
@@ -62,6 +62,12 @@ How to read this table:
 - alcohol: 12.5
 - sugar: 9.8
 - price: 2200 UAH
+
+It's not bad. Aye, it's straightforward, single-layered and ridiculously overpriced. There are plenty of sparkling wines delivering the same quality and pleasure for a much better price.
+
+Anyways. Some pears on the yeasty canvas with notes of white flowers and lemon curd. Quite fresh, round and buttery. The aftertaste is empty. Yes, there is acidity and sweetness, but all the flavours fade quickly.
+
+After reading my own notes, I am puzzled by such a high score.
 
 * Billecart Salmon Brut Nature (d2021Q4) NV
 :PROPERTIES:
@@ -92,6 +98,8 @@ Brut Nature is a blend of Pinot Noir (28%), Chardonnay (28%) and Pinot Meunier (
 
 0 dosage. Disgorged in the 4th quarter of 2021 (hence the identifier on this site).
 
+Quite delicate (or even restrained) bouquet of a single and (lonely) mushroom, baked apples, buttered croissant, tarragon and candied lemon. The wine offers a nice combination of fruits and ageing hints. Fresh, tense and delicious. It's relatively complex with a long and delicate aftertaste.
+
 * Lamiable Phéérie 2016
 :PROPERTIES:
 :ID:                     13cb90d3-5a67-47f3-af3a-f1a3dda89496
@@ -115,6 +123,141 @@ Brut Nature is a blend of Pinot Noir (28%), Chardonnay (28%) and Pinot Meunier (
 
 A Champagne house you are unlikely to mention in a list of the most popular producers. Yet we, consumers, should be happy as Phéérie is about value. At least, on the Ukranian market. And it's Grand Cru (Tours sur Mame)!
 
+A wine that doesn't steal your attention, but makes everything better. It's great to drink it now; solo or with food; while reading, playing or talking to friends. Not a very expressive bouquet of baked apples, chalk and honey. Hard to extract descriptors, but it's a pleasant and relatively sophisticated wine. A round, salty and delicious palate with a long and flavourful aftertaste - mushrooms and seabreeze.
+
+* Deutz Brut Blanc de Noir Parcelle d'Aÿ Meurtet William Deutz 2015
+:PROPERTIES:
+:ID:                     0317ca24-b199-4118-915d-aac2ce540e0c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-14-28-3FF12DC6-68E4-41DC-8FA8-9648C9E3A77C-1-105-c.webp]]
+
+- producer: [[barberry:/producers/2fc1a555-ee6a-4b30-9ad6-a4ad6a702a5e][Deutz]]
+- name: [[barberry:/wines/b01eebbd-319b-4aac-b752-5e29dda6e7e5][Brut Blanc de Noir Parcelle d'Aÿ Meurtet William Deutz]]
+- vintage: 2015
+- disgorged: ???
+- sur lie: ???
+- grapes: Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 9.6
+- price: 4500 UAH
+
+My Google-fu is reaching the near-zero mark, so all bits of information stopped moving in my direction. From what I could gather, it seems that there are two parcels used for Hommage a William Deutz (one of the house founders) series production - Meurtet (2.42) and Côte Glaciere (1.92 ha). Both are adjacent to the house itself. Blanc de Noir is 100% Pinot Noir from Meurtet. Some sources (no links, cause not trustworthy) say that the wine spent 84 months on lees (fine lees, of course). If you have any extra information to share, don't hesitate to contact me.
+
+The wine offers a delicate bouquet of tarragon, ripe yellow apples, tangerine (or mandarin, but not the language), fresh brioche, crushed apple seeds and a fistful of white flowers. Relatively good acidity, nice volume and length of the aftertaste with flavours of wet cellar. Great to drink.  Bubbles are quick to fade, but the wine is vinous and complex.
+
+* Vilmart & Cie Emotion 2012
+:PROPERTIES:
+:ID:                     860c3d64-6b36-4f30-9980-c1d6d4c292c5
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-24-55-299D9A57-BA51-40DB-8D67-B511061C496F-1-105-c.webp]]
+
+- producer: [[barberry:/producers/26588b1e-d8a4-4f63-ad55-08c1dbb36149][Vilmart & Cie]]
+- name: [[barberry:/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0][Emotion]]
+- vintage: 2012
+- disgorged: May 2018
+- sur lie: 60 months
+- grapes: Pinot Noir, Chardonnay
+- region: Champagne
+- location: France
+- alcohol: 12.5
+- sugar: 8
+- price: 5764 UAH
+
+A 60/40 blend of Saignée Pinot Noir and Chardonnay from 45-year-old vines in Rilly-la-Montagne, vinified in barrels for 10 months without malolactic fermentation.
+
+Emotion was one of those wines I wouldn't mind not being present in the final lineup. On the one hand, we already tasted it a few weeks before. On the other hand, it was kind of spoiled and showed some promise (although I liked it nevertheless). So I was emo-curious, but not too much. If it turns into an outstanding wine, I'll be happy. That's the motto of a person who just loves to drink (wine). The result?
+
+Emotion is an intense, generous, quaffable and sophisticated wine. It bursts with notes of orange oil, grapefruit (Sicilian orange?), strawberries, cream, bruised red apples, mould, smelly seawater and dark bread crust. The aftertaste is almost eternal (I had to make the second sip thus prolonging this already-lasting sensation) with flavours of grapefruit and Jerez. Despite the age, Emotion offers great acidity, which attacks you but with love and care as the palate is well-balanced.
+
+* Louis Roederer Cristal Rosé 2012
+:PROPERTIES:
+:ID:                     7198a5d2-2c14-44dd-952a-c97323cf2846
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-30-03-D1DC1CC1-0390-4061-9A5F-78DA73543CB7-1-105-c.webp]]
+
+- producer: [[barberry:/producers/c4629817-d1d1-4a80-a9aa-e7dcb9fedeb1][Louis Roederer]]
+- name: [[barberry:/wines/02f78aef-712a-499d-ac5d-5205f536267b][Cristal Rosé]]
+- vintage: 2012
+- disgorged: ???
+- sur lie: ???
+- grapes: Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 8
+- price: 35000 UAH
+
+The 2012 Cristal Rosé is a 56/44 blend of Pinot Noir and Chardonnay. No malolactic (not really) fermentation. 15% is vinified in oak casks. The rosé part is created using the 'infusion' method.
+
+With windows wide by my side, I would drink the 2012 Cristal Rosé till the end of this chapter. It is generous as an inexperienced but very enthusiastic person. Tarragon, raw dough, nuts, white flowers, tangerine, peach, raspberry, bergamot and cocoa powder. It takes time and patience to reveal all these features, and I reckon it could be even deeper if I had time to wait. It is complex and multilayered. The aftertaste is evolving and persistent, it creates images of incredible curves (mathematically speaking) in my mind. Young, delicious, inexperienced and charming.
+
+* Krug Rosé 26ème Édition Brut NV
+:PROPERTIES:
+:ID:                     dccf52a2-b5c4-4736-a162-b4b9bbaf3323
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-39-39-909BB0CE-EBA2-49DD-BD0D-1DE1DA6927B6-1-105-c.webp]]
+
+- producer: [[barberry:/producers/be79da7b-02fd-4950-94ef-51ab0d27d84d][Krug]]
+- name: [[barberry:/wines/374a465e-ab21-4903-9d93-349c211bea83][Rosé 26ème Édition Brut]]
+- vintage: NV
+- base: 2014
+- disgorged: ???
+- sur lie: ???
+- grapes: Pinot Noir, Chardonnay, Pinot Meunier
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: N/A
+- price: 27900 UAH
+
+The story repeats. Just like Brut 2006, this wine needs time to open up. Frankly speaking, my tasting skills are lacking and I need at least half of the bottle and at least an hour to figure out everything (I can figure out).
+
+Initially, it's restrained but the taste blows me away to the blessed land. With time it reveals notes of orange oil, tarragon, smoke, red berries, red apples, wet wood, caramel and barberry candies. It's so silky that it reminds me of nitrogen-infused beverages. It's delicate, detailed and multilayered. But it's also intense and almost full-bodied. The aftertaste is long, evolving and flavourful. Grapefruit, oil and wet cellar. It's just so great that I want to repeat it.
+
+P.S. This is the only score that I changed (from 4.5 to 4.6).
+
+* Bruno Paillard N.P.U. 1996
+:PROPERTIES:
+:ID:                     a0c15950-c8b2-4262-9702-c2ea01705882
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-09-21-champagne/2023-09-22-11-41-01-CFBD6C01-4A1B-4CA5-881D-E17880BB0802-1-105-c.webp]]
+
+- producer: [[barberry:/producers/11da3d83-ca4a-4e23-a8f1-e8d1cf395b58][Bruno Paillard]]
+- name: [[barberry:/wines/35276b18-215f-4070-93a2-059f72908314][N.P.U.]]
+- vintage: 1996
+- disgorged: January 2009
+- sur lie: 144 months
+- grapes: Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 5.1
+- price: 15900 UAH
+
+#+begin_quote
+It's not intended to be the best wine, but a cuvée that we push to the extreme.
+
+[...] liveliness is more the focus here than complexity and richness.
+
+--- Alice Paillard
+#+end_quote
+
+A 50/50 blend of Pinot Noir and Chardonnay from 7 of the most sought-after Grands Crus of the Champagne terroir: Oger, Le Mesnil-sur-Oger, Chouilly, Cramant, Verzenay, Mailly-Champagne, and Bouzy. Grapes are vinified and matured in small, old oak barrels for 10 months. Then the wine spends 12 years on lees followed by two years of post-disgorgement rest before release.
+
+The 1996 Nec Plus Ultra is where the empty space is a saving grace. Aye, it talks in the language of baked cheese, beeswax, boiled eggs (in a very good sense, trust me), miso and tarragon (it follows me everywhere even when I close my eyes shut). But its freshness creates a vacuum that is filled with complexity, elegance and longevity. I was already tired, so maybe next time I would rate it higher. In any case, it's a remarkable wine and the age only makes it better.
+
 * Raw scores
 :PROPERTIES:
 :ID:                     d426e3da-e55d-457f-993d-4ad9ec56017b
@@ -135,7 +278,7 @@ A Champagne house you are unlikely to mention in a list of the most popular prod
 | Yurii M     |  +3.50+ |    4.00 |  *4.20* |    4.50 |    4.30 |    4.40 |    4.50 |   4.70 |
 | Vitalii M   |  +4.00+ |    4.10 |    4.10 |    4.10 |    4.50 |    4.60 |  *4.80* |   4.70 |
 | Anna Z      |  +4.00+ |    4.10 |    4.10 |    4.10 |    4.50 |    4.60 |  *4.80* |   4.70 |
-| Boris B     |  +3.80+ |    3.90 |    4.00 |    4.20 |    4.30 |    4.50 |  *4.50* |   4.50 |
+| Boris B     |  +3.80+ |    3.90 |    4.00 |    4.20 |    4.30 |    4.50 |  *4.60* |   4.50 |
 
 [fn:1] Sometimes questionable, of course. But luckily, there are not that many bottles like Taittinger.
 

@@ -37,16 +37,40 @@ After reading my own notes, I am puzzled by such a high score.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">
+  <a class="flex-item flex-item-left" href="/wines/02f78aef-712a-499d-ac5d-5205f536267b.html">
+    <img class="flex-bottle" src="/images/02/f78aef-712a-499d-ac5d-5205f536267b/2023-09-22-11-30-03-D1DC1CC1-0390-4061-9A5F-78DA73543CB7-1-105-c@512.webp"></img>
+    <section class="h">Louis Roederer</section>
+    <section class="h text-bolder">Cristal Rosé - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/198bd5e1-40d9-4046-b3c8-45b22a3afb34.html">
     <img class="flex-bottle" src="/images/19/8bd5e1-40d9-4046-b3c8-45b22a3afb34/2023-04-20-09-06-55-41CD8DE2-5509-4654-A1F9-67BE31476DCA-1-105-c@512.webp"></img>
     <section class="h">Bach</section>
     <section class="h text-bolder">Extrísimo Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
+  <a class="flex-item flex-item-left" href="/wines/1eec03f6-8164-427a-90e6-d5c1e87c4652.html">
     <img class="flex-bottle" src="/images/1e/ec03f6-8164-427a-90e6-d5c1e87c4652/2023-02-04-12-03-12-65AF214D-D352-4839-BCDE-7952E04B9F1A-1-105-c@512.webp"></img>
     <section class="h">Lyme Bay</section>
     <section class="h text-bolder">Classic Cuvée Brut - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/35276b18-215f-4070-93a2-059f72908314.html">
+    <img class="flex-bottle" src="/images/35/276b18-215f-4070-93a2-059f72908314/2023-09-22-11-41-01-CFBD6C01-4A1B-4CA5-881D-E17880BB0802-1-105-c@512.webp"></img>
+    <section class="h">Bruno Paillard</section>
+    <section class="h text-bolder">N.P.U. - 1996</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/374a465e-ab21-4903-9d93-349c211bea83.html">
+    <img class="flex-bottle" src="/images/37/4a465e-ab21-4903-9d93-349c211bea83/2023-09-22-11-39-39-909BB0CE-EBA2-49DD-BD0D-1DE1DA6927B6-1-105-c@512.webp"></img>
+    <section class="h">Krug</section>
+    <section class="h text-bolder">Rosé 26ème Édition Brut - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0.html">
+    <img class="flex-bottle" src="/images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-09-22-11-24-55-299D9A57-BA51-40DB-8D67-B511061C496F-1-105-c@512.webp"></img>
+    <section class="h">Vilmart & Cie</section>
+    <section class="h text-bolder">Emotion - 2012</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/56c0a3e4-61ed-4e62-b5e3-fff032af4943.html">
@@ -83,6 +107,18 @@ After reading my own notes, I am puzzled by such a high score.
     <img class="flex-bottle" src="/images/a8/368368-f075-4ed0-ae7c-3b881cb2c402/2021-06-26-10-48-15-AF884B91-C697-4C72-8ED2-38C2E93BBC37-1-105-c@512.webp"></img>
     <section class="h">La Cave Apicole</section>
     <section class="h text-bolder">Carbo Culte - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ac0dd982-a094-4007-86ec-920104063d88.html">
+    <img class="flex-bottle" src="/images/ac/0dd982-a094-4007-86ec-920104063d88/2023-09-22-11-23-53-3C3DF1A7-53BF-4388-B454-99100FB244B7-1-105-c@512.webp"></img>
+    <section class="h">Lamiable</section>
+    <section class="h text-bolder">Phéérie - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b01eebbd-319b-4aac-b752-5e29dda6e7e5.html">
+    <img class="flex-bottle" src="/images/b0/1eebbd-319b-4aac-b752-5e29dda6e7e5/2023-09-22-11-14-28-3FF12DC6-68E4-41DC-8FA8-9648C9E3A77C-1-105-c@512.webp"></img>
+    <section class="h">Deutz</section>
+    <section class="h text-bolder">Brut Blanc de Noir Parcelle d'Aÿ Meurtet William Deutz - 2015</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/b098e753-dc4a-4d0e-957f-3affd5968e9a.html">
