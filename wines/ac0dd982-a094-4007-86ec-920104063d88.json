@@ -1,0 +1,34 @@
+{
+  "id": "ac0dd982-a094-4007-86ec-920104063d88",
+  "name": "Phéérie",
+  "full-name": "Lamiable Phéérie 2016",
+  "producer": {
+    "id": "d6df0bde-0385-452c-8ec9-43cd9341e5ec",
+    "name": "Lamiable"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": "December 2022",
+  "sur-lie": "68 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2.3",
+  "prices": [
+    "2200 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/ac/0dd982-a094-4007-86ec-920104063d88/2023-09-22-11-23-53-3C3DF1A7-53BF-4388-B454-99100FB244B7-1-105-c.webp",
+  "rating": "NA"
+}

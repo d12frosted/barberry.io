@@ -29,37 +29,43 @@ Haha, I tasted it blind but didn't guess Champagne here. I thought it was some t
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
+  <a class="flex-item flex-item-left" href="/wines/ac0dd982-a094-4007-86ec-920104063d88.html">
+    <img class="flex-bottle" src="/images/ac/0dd982-a094-4007-86ec-920104063d88/2023-09-22-11-23-53-3C3DF1A7-53BF-4388-B454-99100FB244B7-1-105-c@512.webp"></img>
+    <section class="h">Lamiable</section>
+    <section class="h text-bolder">Phéérie - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d42317ae-b258-4c87-9fe0-5d94ad9bfaf6.html">
     <img class="flex-bottle" src="/images/d4/2317ae-b258-4c87-9fe0-5d94ad9bfaf6/2021-12-17-18-29-40-4EE43126-146C-4C5A-A507-F4DB70F5A1C0-1-105-c@512.webp"></img>
     <section class="h">Lamiable</section>
     <section class="h text-bolder">Cuvee Pheerie - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
+  <a class="flex-item flex-item-left" href="/wines/149668d8-4c02-44c0-8955-8d6028e35c92.html">
     <img class="flex-bottle" src="/images/14/9668d8-4c02-44c0-8955-8d6028e35c92/2023-05-03-21-10-46-6C56FF35-3CFA-4F1B-B967-CD31D7BCE010-1-105-c@512.webp"></img>
     <section class="h">Mtsvane Estate</section>
     <section class="h text-bolder">Pet-Nat Brut Tsolikauri-Tsitska - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
+  <a class="flex-item flex-item-right" href="/wines/8f825abb-5543-40ac-a42d-44fd1edf1a7d.html">
     <img class="flex-bottle" src="/images/8f/825abb-5543-40ac-a42d-44fd1edf1a7d/2023-06-20-17-54-33-IMG-7877@512.webp"></img>
     <section class="h">Testalonga</section>
     <section class="h text-bolder">El Bandito I am the Ninja - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/aa0380c9-822f-444c-a638-9b9dceb102a7.html">
+  <a class="flex-item flex-item-left" href="/wines/aa0380c9-822f-444c-a638-9b9dceb102a7.html">
     <img class="flex-bottle" src="/images/aa/0380c9-822f-444c-a638-9b9dceb102a7/2023-05-03-20-10-55-8C1FC947-8713-45B6-97BB-F126CEECFB60-1-105-c@512.webp"></img>
     <section class="h">Alanna Lagamba</section>
     <section class="h text-bolder">Frauen Power Rosé - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
+  <a class="flex-item flex-item-right" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
     <img class="flex-bottle" src="/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-04-08-19-18-19-D64CCE8B-3E4B-4F67-9C21-A45B9FAE4F6F-1-105-c@512.webp"></img>
     <section class="h">Weingut Bründlmayer</section>
     <section class="h text-bolder">Brut Rosé Reserve (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f3e7725c-2b10-4dab-8358-eeddd9330371.html">
+  <a class="flex-item flex-item-left" href="/wines/f3e7725c-2b10-4dab-8358-eeddd9330371.html">
     <img class="flex-bottle" src="/images/f3/e7725c-2b10-4dab-8358-eeddd9330371/2023-05-03-21-14-10-9A868160-A1DF-426E-AC96-D54942FD73AF-1-105-c@512.webp"></img>
     <section class="h">Agrapart</section>
     <section class="h text-bolder">Terroirs (d2023) - NV</section>

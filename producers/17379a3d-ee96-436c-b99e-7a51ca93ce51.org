@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e11dc2c6-3772-488c-8c36-5925712da3a0.html">
+    <img class="flex-bottle" src="/images/e1/1dc2c6-3772-488c-8c36-5925712da3a0/2023-09-22-10-46-31-87B9BEB4-D70C-45E8-B751-39864F370AE3-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Upper Galilee White - 2021</section>
+  </a>
+
+</div>
+#+end_export

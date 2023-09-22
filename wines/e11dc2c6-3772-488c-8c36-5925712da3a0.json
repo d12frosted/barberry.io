@@ -1,0 +1,38 @@
+{
+  "id": "e11dc2c6-3772-488c-8c36-5925712da3a0",
+  "name": "Upper Galilee White",
+  "full-name": "Lahat Lavan Upper Galilee White 2021",
+  "producer": {
+    "id": "17379a3d-ee96-436c-b99e-7a51ca93ce51",
+    "name": "Lahat Lavan"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "88c84102-40e4-4870-9905-1b3c8c4652f9",
+    "name": "Israel"
+  },
+  "grapes": [
+    {
+      "id": "c48f1029-3d31-48fa-960b-5c4690ca9b9f",
+      "name": "Roussanne"
+    },
+    {
+      "id": "a4c5d0b7-cac6-43ce-837b-f03c9de19d5a",
+      "name": "Viognier"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX ILS"
+  ],
+  "available": 1.0,
+  "image": "images/e1/1dc2c6-3772-488c-8c36-5925712da3a0/2023-09-22-10-46-31-87B9BEB4-D70C-45E8-B751-39864F370AE3-1-105-c.webp",
+  "rating": "NA"
+}

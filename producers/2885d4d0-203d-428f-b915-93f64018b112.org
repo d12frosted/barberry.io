@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
+  <a class="flex-item flex-item-left" href="/wines/8b577415-87ab-4024-b4fc-dd82699e3ba2.html">
+    <img class="flex-bottle" src="/images/8b/577415-87ab-4024-b4fc-dd82699e3ba2/2023-09-22-11-16-31-757BE43F-AEE2-42A5-907B-0EB02AB04186-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Brut Nature (d2021Q4) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0.html">
     <img class="flex-bottle" src="/images/12/c59914-f654-4202-bf19-1eb27dcbd4f0/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Brut Reserve - NV</section>

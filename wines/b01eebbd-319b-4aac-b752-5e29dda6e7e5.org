@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/b0/1eebbd-319b-4aac-b752-5e29dda6e7e5/2023-09-22-11-14-28-3FF12DC6-68E4-41DC-8FA8-9648C9E3A77C-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/2fc1a555-ee6a-4b30-9ad6-a4ad6a702a5e][Deutz]]
+- Vintage :: 2015
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: 9.6
+- Price :: 4500 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
+    <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c@512.webp"></img>
+    <section class="h">Deutz</section>
+    <section class="h text-bolder">Amour de Deutz - 2009</section>
+  </a>
+
+</div>
+#+end_export

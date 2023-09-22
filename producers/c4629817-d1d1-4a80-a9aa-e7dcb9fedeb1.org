@@ -9,5 +9,11 @@
     <section class="h text-bolder">Cristal - 2014</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/02f78aef-712a-499d-ac5d-5205f536267b.html">
+    <img class="flex-bottle" src="/images/02/f78aef-712a-499d-ac5d-5205f536267b/2023-09-22-11-30-03-D1DC1CC1-0390-4061-9A5F-78DA73543CB7-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Cristal Rosé - 2012</section>
+  </a>
+
 </div>
 #+end_export

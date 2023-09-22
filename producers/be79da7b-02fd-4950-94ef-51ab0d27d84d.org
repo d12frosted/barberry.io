@@ -9,5 +9,11 @@
     <section class="h text-bolder">Brut - 2006</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/374a465e-ab21-4903-9d93-349c211bea83.html">
+    <img class="flex-bottle" src="/images/37/4a465e-ab21-4903-9d93-349c211bea83/2023-09-22-11-39-39-909BB0CE-EBA2-49DD-BD0D-1DE1DA6927B6-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Rosé 26ème Édition Brut - NV</section>
+  </a>
+
 </div>
 #+end_export
