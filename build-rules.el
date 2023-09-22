@@ -532,9 +532,13 @@ Bookmark this page and use it for your own good.\n\n")
       (if wines
           (--each (-group-by (lambda (rating) (vulpea-note-meta-get rating "date")) ratings)
             (insert "** " (format-time-string "%A, %e %B %Y" (date-to-time (car it))) "\n\n")
-            (--each (-group-by (lambda (rating) (list (vulpea-note-meta-get rating "location" 'note)
-                                                      (vulpea-note-meta-get rating "event" 'note)))
-                               (cdr it))
+            (--each (-group-by
+                     (lambda (rating)
+                       (let ((location (vulpea-note-meta-get rating "location" 'note)))
+                         (unless location
+                           (user-error "'%s' doesn't have location" (vulpea-note-title rating)))
+                         (list location (vulpea-note-meta-get rating "event" 'note))))
+                     (cdr it))
               (insert "*** @" (vulpea-note-title (nth 0 (car it))))
               (when-let ((event (nth 1 (car it))))
                 (insert " / " (vulpea-utils-link-make-string event)))
