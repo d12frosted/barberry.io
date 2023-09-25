@@ -1,10 +1,18 @@
-Hello, fellow convive! This page contains a list of wines (20 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (23 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Sunday, 24 September 2023
+
+*** @Anton Tlustyy
+
+- &nbsp; &emptyscore; [[barberry:/wines/006a99b6-4043-4375-ae97-e223e8547e30][Chavost Blanc de Meuinier Brut Nature (d2023) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/ed9565f3-3d99-4067-8dcf-bfe14e0b1abb][Dhondt-Grellet Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/e17acc75-9fca-4f6e-b9fc-df2f5b045dc2][J. Lassalle Brut 1er Cru Special Club 2013]]
 
 ** Thursday, 21 September 2023
 

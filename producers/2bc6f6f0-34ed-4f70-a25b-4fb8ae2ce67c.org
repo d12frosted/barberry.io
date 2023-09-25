@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e17acc75-9fca-4f6e-b9fc-df2f5b045dc2.html">
+    <img class="flex-bottle" src="/images/e1/7acc75-9fca-4f6e-b9fc-df2f5b045dc2/2023-09-25-09-15-46-AE1CE3B6-1FB2-4D90-B2FE-2CEEF8E10BB2-1-105-c@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Brut 1er Cru Special Club - 2013</section>
+  </a>
+
+</div>
+#+end_export

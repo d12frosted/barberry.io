@@ -1,7 +1,7 @@
 {
   "id": "ed9565f3-3d99-4067-8dcf-bfe14e0b1abb",
-  "name": "Extra-Brut Blanc de Blancs Grand Cru Cramant",
-  "full-name": "Dhondt-Grellet Extra-Brut Blanc de Blancs Grand Cru Cramant",
+  "name": "Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021)",
+  "full-name": "Dhondt-Grellet Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021) NV",
   "producer": {
     "id": "190dc584-4d62-4720-939c-e292ee754782",
     "name": "Dhondt-Grellet"
@@ -28,7 +28,7 @@
   "prices": [
     "3500 UAH"
   ],
-  "available": 1.0,
+  "available": 0.0,
   "image": "images/ed/9565f3-3d99-4067-8dcf-bfe14e0b1abb/2023-03-02-11-16-21-IMG-5294.webp",
-  "rating": "NA"
+  "rating": "9.0"
 }

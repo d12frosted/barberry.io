@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/e1/7acc75-9fca-4f6e-b9fc-df2f5b045dc2/2023-09-25-09-15-46-AE1CE3B6-1FB2-4D90-B2FE-2CEEF8E10BB2-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/2bc6f6f0-34ed-4f70-a25b-4fb8ae2ce67c][J. Lassalle]]
+- Vintage :: 2013
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir, Chardonnay
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: XXX UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-09-24 - ☆ 8.25
+
+Stylish, delicate and overly young. Luckily, no one is going to jail us for opening this bottle. An inviting bouquet of tarragon, cream, yellow apples, brioche, chalk and delicate Jerez notes. Elegant (even thin) and sharp palate with flavours of green apricot, green apple and tarragon. Interesting wine, quite complex although needs time in the cellar.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/006a99b6-4043-4375-ae97-e223e8547e30.html">
+    <img class="flex-bottle" src="/images/00/6a99b6-4043-4375-ae97-e223e8547e30/2023-09-25-09-12-33-2D1768AB-A58E-4D39-806B-4B75B77837B7-1-105-c@512.webp"></img>
+    <section class="h">Chavost</section>
+    <section class="h text-bolder">Blanc de Meuinier Brut Nature (d2023) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed9565f3-3d99-4067-8dcf-bfe14e0b1abb.html">
+    <img class="flex-bottle" src="/images/ed/9565f3-3d99-4067-8dcf-bfe14e0b1abb/2023-03-02-11-16-21-IMG-5294@512.webp"></img>
+    <section class="h">Dhondt-Grellet</section>
+    <section class="h text-bolder">Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021) - NV</section>
+  </a>
+
+</div>
+#+end_export

@@ -1,0 +1,39 @@
+#+attr_html: :class wine-main-image
+[[file:/images/00/6a99b6-4043-4375-ae97-e223e8547e30/2023-09-25-09-12-33-2D1768AB-A58E-4D39-806B-4B75B77837B7-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/5862b7e2-4f91-4ba1-9b49-1c273b94b45a][Chavost]]
+- Vintage :: NV
+- Disgorged in :: February 2023
+- Spent on lees :: ???
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Meunier
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 2090 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2023-09-24 - ☆ 8.25
+
+Lovely and intense bouquet of baked apples, honey, chalk, and bread with some Isla whisky. Fresh and citrusy palate with good volume and intensity. Vinous and a good value for money.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/e17acc75-9fca-4f6e-b9fc-df2f5b045dc2.html">
+    <img class="flex-bottle" src="/images/e1/7acc75-9fca-4f6e-b9fc-df2f5b045dc2/2023-09-25-09-15-46-AE1CE3B6-1FB2-4D90-B2FE-2CEEF8E10BB2-1-105-c@512.webp"></img>
+    <section class="h">J. Lassalle</section>
+    <section class="h text-bolder">Brut 1er Cru Special Club - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed9565f3-3d99-4067-8dcf-bfe14e0b1abb.html">
+    <img class="flex-bottle" src="/images/ed/9565f3-3d99-4067-8dcf-bfe14e0b1abb/2023-03-02-11-16-21-IMG-5294@512.webp"></img>
+    <section class="h">Dhondt-Grellet</section>
+    <section class="h text-bolder">Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021) - NV</section>
+  </a>
+
+</div>
+#+end_export

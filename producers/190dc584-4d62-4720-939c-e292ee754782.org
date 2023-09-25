@@ -5,8 +5,8 @@
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/ed9565f3-3d99-4067-8dcf-bfe14e0b1abb.html">
     <img class="flex-bottle" src="/images/ed/9565f3-3d99-4067-8dcf-bfe14e0b1abb/2023-03-02-11-16-21-IMG-5294@512.webp"></img>
-    <section class="h">★ -</section>
-    <section class="h text-bolder">Extra-Brut Blanc de Blancs Grand Cru Cramant - NV</section>
+    <section class="h">★ 9.00</section>
+    <section class="h text-bolder">Extra-Brut Blanc de Blancs Grand Cru Cramant (d2021) - NV</section>
   </a>
 
 </div>

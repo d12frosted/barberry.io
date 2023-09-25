@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/006a99b6-4043-4375-ae97-e223e8547e30.html">
+    <img class="flex-bottle" src="/images/00/6a99b6-4043-4375-ae97-e223e8547e30/2023-09-25-09-12-33-2D1768AB-A58E-4D39-806B-4B75B77837B7-1-105-c@512.webp"></img>
+    <section class="h">★ 8.25</section>
+    <section class="h text-bolder">Blanc de Meuinier Brut Nature (d2023) - NV</section>
+  </a>
+
+</div>
+#+end_export

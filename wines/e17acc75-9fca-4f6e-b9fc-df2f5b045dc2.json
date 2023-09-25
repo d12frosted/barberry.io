@@ -1,0 +1,38 @@
+{
+  "id": "e17acc75-9fca-4f6e-b9fc-df2f5b045dc2",
+  "name": "Brut 1er Cru Special Club",
+  "full-name": "J. Lassalle Brut 1er Cru Special Club 2013",
+  "producer": {
+    "id": "2bc6f6f0-34ed-4f70-a25b-4fb8ae2ce67c",
+    "name": "J. Lassalle"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 0.0,
+  "image": "images/e1/7acc75-9fca-4f6e-b9fc-df2f5b045dc2/2023-09-25-09-15-46-AE1CE3B6-1FB2-4D90-B2FE-2CEEF8E10BB2-1-105-c.webp",
+  "rating": "8.25"
+}
