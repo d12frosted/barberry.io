@@ -1,0 +1,19 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/40e09e76-396a-4d74-8197-960aa8761076.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Artífice Llanito Perera - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/1f0aa011-b4d7-44ae-85c4-8eef61943ec8.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Marmajuelo - 2017</section>
+  </a>
+
+</div>
+#+end_export

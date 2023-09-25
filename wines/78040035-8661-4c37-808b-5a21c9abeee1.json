@@ -1,0 +1,35 @@
+{
+  "id": "78040035-8661-4c37-808b-5a21c9abeee1",
+  "name": "NeroMaccarj",
+  "full-name": "Gulfi NeroMaccarj 2016",
+  "producer": {
+    "id": "7bec814a-5334-4712-9ffb-46c8cc42ca8b",
+    "name": "Gulfi"
+  },
+  "vintage": "2016",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c9731b65-61f8-4007-9dbf-d54056f55cc4",
+      "name": "Nero d'Avola"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "3.2",
+  "prices": [
+    "1092 UAH",
+    "892 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/78/040035-8661-4c37-808b-5a21c9abeee1/2021-10-26-09-58-12-59ECB6DD-8DA0-4A46-83C4-116D5D6D625C-1-105-c.webp",
+  "rating": "8.75"
+}

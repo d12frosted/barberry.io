@@ -1,0 +1,54 @@
+Wines:
+
+1. [[barberry:/wines/40e09e76-396a-4d74-8197-960aa8761076][Borja Perez Artífice Llanito Perera 2017]] - 802
+2. [[barberry:/wines/ca6689dc-9a11-4587-a57c-09edf6f94008][Envínate Palo Blanco 2019]] - 1250
+3. [[barberry:/wines/fd250255-cdf3-4684-8d51-41772b680241][Puro Rofe Tilama 2019]] - 1600
+4. [[barberry:/wines/1f0aa011-b4d7-44ae-85c4-8eef61943ec8][Borja Perez Marmajuelo 2017]] - 900
+5. [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]] - 1100
+6. [[barberry:/wines/c765bf10-f52c-4c91-bf86-c80c1027c587][Victoria E. Torres Pecis Vino de Solera de Listán Blanco 2013]] - 1750
+7. [[barberry:/wines/4dcc5d88-f386-4471-9b63-c46e9a8c56cb][Bimbache Vinicola Tinto El Hierro 2018]] - 1400
+
+* Scores
+:PROPERTIES:
+:ID:                     8111acf2-7cfe-4184-ad9e-5f3465ccab86
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|            | rms | sdev | favourite |   price | QPR |
+|------------+-----+------+-----------+---------+-----|
+| Artífice   | -   | -    | *0.00*    |  802.00 | -   |
+| Palo       | -   | -    | *0.00*    | 1250.00 | -   |
+| Tilama     | -   | -    | *0.00*    | 1576.00 | -   |
+| Marmajuelo | -   | -    | *0.00*    |  909.00 | -   |
+| Sin Titulo | -   | -    | *0.00*    | 1102.00 | -   |
+| Solera     | -   | -    | *0.00*    | 1750.00 | -   |
+| Bimbache   | -   | -    | *0.00*    | 1398.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Resources
+:PROPERTIES:
+:ID:                     2a7f4496-8b7b-48aa-a093-9b23742a0340
+:END:
+
+* Raw scores
+:PROPERTIES:
+:ID:                     b27125e2-d2e9-4180-be0c-d0167c12f523
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|         | Artífice | Palo | Tilama | Marmajuelo | Sin Titulo | Solera | Bimbache |
+|---------+----------+------+--------+------------+------------+--------+----------|
+| Boris B | -        | -    | -      | -          | -          | -      | -        |
+

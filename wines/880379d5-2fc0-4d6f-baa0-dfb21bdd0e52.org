@@ -1,0 +1,37 @@
+#+attr_html: :class wine-main-image
+[[file:/images/88/0379d5-2fc0-4d6f-baa0-dfb21bdd0e52/2021-11-14-12-04-33-A435F8B6-DE9B-49D7-B76D-AC6926C0CB14-1-105-c@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/0beaef9f-ff9d-4f6b-995e-79fe9e164114][Chapoutier]]
+- Vintage :: 2019
+- Location :: France, Crozes-Hermitage AOC
+- Grapes :: Syrah
+- Alcohol :: 14
+- Sugar :: 0.8
+- Price :: 621 UAH
+- Cellar :: N/A
+
+** Ratings
+
+*** 2021-12-16 - ☆ 7.75
+
+Restrained bouquet of dark plum and other black fruits, spices like white pepper and bay leaf. Almost full-bodied, but well balanced with almost silky tannin. Long slightly bitter aftertaste with flavours of black fruits and licorice root. So it's not something extraordinary, just a good and approachable Syrah that has interesting bits in it.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/9f227696-5fb2-4427-b93e-700794fdc5f2.html">
+    <img class="flex-bottle" src="/images/9f/227696-5fb2-4427-b93e-700794fdc5f2/2023-05-11-22-11-42-IMG-6879@512.webp"></img>
+    <section class="h">Chapoutier</section>
+    <section class="h text-bolder">Les Arènes Cornas - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">
+    <img class="flex-bottle" src="/images/a9/ce10b3-c64a-4a32-9490-b7e3ffb0d0ac/2022-01-13-09-59-05-383B22A4-9F2E-4CB3-B703-F2BABEDEF9E9-1-105-c@512.webp"></img>
+    <section class="h">Descendientes de Jose Palacios</section>
+    <section class="h text-bolder">Louro - 2020</section>
+  </a>
+
+</div>
+#+end_export

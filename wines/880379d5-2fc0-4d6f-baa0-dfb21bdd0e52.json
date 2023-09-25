@@ -1,0 +1,34 @@
+{
+  "id": "880379d5-2fc0-4d6f-baa0-dfb21bdd0e52",
+  "name": "Crozes-Hermitage Les Meysonniers Rouge",
+  "full-name": "Chapoutier Crozes-Hermitage Les Meysonniers Rouge 2019",
+  "producer": {
+    "id": "0beaef9f-ff9d-4f6b-995e-79fe9e164114",
+    "name": "Chapoutier"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "0.8",
+  "prices": [
+    "621 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/88/0379d5-2fc0-4d6f-baa0-dfb21bdd0e52/2021-11-14-12-04-33-A435F8B6-DE9B-49D7-B76D-AC6926C0CB14-1-105-c.webp",
+  "rating": "7.75"
+}

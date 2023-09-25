@@ -1,0 +1,34 @@
+{
+  "id": "a112031a-d13f-4835-a05d-398ebd348760",
+  "name": "Raisins gaulois",
+  "full-name": "Marcel Lapierre Raisins gaulois 2019",
+  "producer": {
+    "id": "c38d17a7-3261-417e-b531-a4db14fcc66d",
+    "name": "Marcel Lapierre"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1.3",
+  "prices": [
+    "369 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/a1/12031a-d13f-4835-a05d-398ebd348760/2020-12-13-14-20-06-2254BF5C-20DA-4BA4-8D5B-80F9D82A2DF8-1-105-c.webp",
+  "rating": "7.5"
+}

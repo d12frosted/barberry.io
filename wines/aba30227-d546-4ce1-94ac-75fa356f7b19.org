@@ -79,121 +79,127 @@ Wine #6 on [[barberry:/posts/2023-01-24-il-pirata][Il Pirata Vol. 3]].
     <section class="h text-bolder">Etna Rosso Calderara Sottana - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
+  <a class="flex-item flex-item-right" href="/wines/78040035-8661-4c37-808b-5a21c9abeee1.html">
+    <img class="flex-bottle" src="/images/78/040035-8661-4c37-808b-5a21c9abeee1/2021-10-26-09-58-12-59ECB6DD-8DA0-4A46-83C4-116D5D6D625C-1-105-c@512.webp"></img>
+    <section class="h">Gulfi</section>
+    <section class="h text-bolder">NeroMaccarj - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/7a3f478e-ab77-465c-9ef5-80b8e7804817.html">
     <img class="flex-bottle" src="/images/7a/3f478e-ab77-465c-9ef5-80b8e7804817/2023-01-18-21-02-59-IMG-4452@512.webp"></img>
     <section class="h">Graffetta</section>
     <section class="h text-bolder">Grillo - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82.html">
+  <a class="flex-item flex-item-right" href="/wines/7a4c3999-ac78-4afa-b09c-d47263b22c82.html">
     <img class="flex-bottle" src="/images/7a/4c3999-ac78-4afa-b09c-d47263b22c82/2022-11-25-16-47-20-IMG-3379@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso San Lorenzo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
+  <a class="flex-item flex-item-left" href="/wines/7f805a08-23ec-44bb-8542-316c2c0b861a.html">
     <img class="flex-bottle" src="/images/7f/805a08-23ec-44bb-8542-316c2c0b861a/2023-01-16-16-39-36-IMG-4362@512.webp"></img>
     <section class="h">Celler Credo</section>
     <section class="h text-bolder">Miranius - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
+  <a class="flex-item flex-item-right" href="/wines/9368685a-9c95-4099-a7a3-0662a2a8ce99.html">
     <img class="flex-bottle" src="/images/93/68685a-9c95-4099-a7a3-0662a2a8ce99/2023-08-15-11-55-33-IMG-8946@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
+  <a class="flex-item flex-item-left" href="/wines/9e5616d2-6821-43f3-a2a0-93a514879635.html">
     <img class="flex-bottle" src="/images/9e/5616d2-6821-43f3-a2a0-93a514879635/2022-11-18-09-01-14-DD588B82-6B49-41DF-8A28-5F11A808305B-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Bianco Montalto - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
+  <a class="flex-item flex-item-right" href="/wines/a13d51f1-63b5-45cb-8c57-7d52c261d9ef.html">
     <img class="flex-bottle" src="/images/a1/3d51f1-63b5-45cb-8c57-7d52c261d9ef/2023-01-07-11-24-01-EECEA365-15C6-4160-BCA2-EE451053E2C0-1-105-c@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Il Frappato - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
+  <a class="flex-item flex-item-left" href="/wines/acc8bba0-3544-4983-b6d5-e2cfeb7405e7.html">
     <img class="flex-bottle" src="/images/ac/c8bba0-3544-4983-b6d5-e2cfeb7405e7/2022-11-18-09-11-49-21A2348B-EDF5-491B-BCD0-212EBB3D4A74-1-105-c@512.webp"></img>
     <section class="h">Biondi</section>
     <section class="h text-bolder">Etna Rosso Outis Nessuno - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
+  <a class="flex-item flex-item-right" href="/wines/b701a9ea-9bea-4b05-a9f7-de9f41256240.html">
     <img class="flex-bottle" src="/images/b7/01a9ea-9bea-4b05-a9f7-de9f41256240/2023-01-16-16-52-45-IMG-4387@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84.html">
+  <a class="flex-item flex-item-left" href="/wines/b8803c15-f4ac-4fe4-9b7d-0c1c02cedc84.html">
     <img class="flex-bottle" src="/images/b8/803c15-f4ac-4fe4-9b7d-0c1c02cedc84/2023-09-08-10-43-42-B44CE3CA-69B3-4AFD-8F7F-E9789639A4D0-1-105-c@512.webp"></img>
     <section class="h">Benanti</section>
     <section class="h text-bolder">Etna Rosso Contrada Monte Serra - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
+  <a class="flex-item flex-item-right" href="/wines/bb907d04-20ee-4ba6-b628-f766ac981a3c.html">
     <img class="flex-bottle" src="/images/bb/907d04-20ee-4ba6-b628-f766ac981a3c/2020-11-01-16-33-37-C6668F6E-A10D-42AD-A3D8-EBC97AED2353-1-105-c@512.webp"></img>
     <section class="h">Alessandro Viola</section>
     <section class="h text-bolder">Blanc de Blancs Metodo Classico Pas dosé (d2020) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
+  <a class="flex-item flex-item-left" href="/wines/bce1234e-d6c3-49f0-8ef3-804ada6a56ec.html">
     <img class="flex-bottle" src="/images/bc/e1234e-d6c3-49f0-8ef3-804ada6a56ec/2023-01-16-21-17-31-IMG-4395@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Ramí - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
+  <a class="flex-item flex-item-right" href="/wines/bdf1fe84-b9b4-4d39-a4d2-78d6fdefad17.html">
     <img class="flex-bottle" src="/images/bd/f1fe84-b9b4-4d39-a4d2-78d6fdefad17/2023-01-16-16-04-55-IMG-4317@512.webp"></img>
     <section class="h">Planeta</section>
     <section class="h text-bolder">Cometa - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
+  <a class="flex-item flex-item-left" href="/wines/c538c72e-5d57-45a3-ad1f-26c80ad2d32a.html">
     <img class="flex-bottle" src="/images/c5/38c72e-5d57-45a3-ad1f-26c80ad2d32a/2022-12-01-07-36-15-A7C005B4-0823-46DE-A5E5-F447E657C9C1-1-105-c@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Nerojbleo - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
+  <a class="flex-item flex-item-right" href="/wines/c6e93c22-1347-4a00-b532-346948f9b6e8.html">
     <img class="flex-bottle" src="/images/c6/e93c22-1347-4a00-b532-346948f9b6e8/2021-10-26-09-58-22-B0E83DA9-7081-46A3-B5FA-9DC94B1B7D10-1-105-c@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Cerasuolo di Vittoria Classico - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d1b437fb-d654-400b-a6b6-8698a5f94673.html">
+  <a class="flex-item flex-item-left" href="/wines/d1b437fb-d654-400b-a6b6-8698a5f94673.html">
     <img class="flex-bottle" src="/images/d1/b437fb-d654-400b-a6b6-8698a5f94673/2021-11-06-11-04-59-6973E7C1-3BDE-4C96-847A-19D56D849AF7-1-105-c@512.webp"></img>
     <section class="h">Paolo Bea</section>
     <section class="h text-bolder">Sanvalentino Rosso - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
+  <a class="flex-item flex-item-right" href="/wines/dde72608-99b9-4475-8b02-5e2275e3f064.html">
     <img class="flex-bottle" src="/images/dd/e72608-99b9-4475-8b02-5e2275e3f064/2022-11-18-09-07-31-12B7D7F2-575D-49D9-996D-F86F12CA2172-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosso San Lorenzo - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
+  <a class="flex-item flex-item-left" href="/wines/e39daa48-d67c-406e-a0e9-5d0006070999.html">
     <img class="flex-bottle" src="/images/e3/9daa48-d67c-406e-a0e9-5d0006070999/2022-11-18-09-06-22-A4693DA3-4050-4F55-B79C-62AB9CFD16CD-1-105-c@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosso Feudo di Mezzo Il Quadro delle Rose - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
+  <a class="flex-item flex-item-right" href="/wines/f29ce812-d84b-48fb-b0bb-c8e85e092719.html">
     <img class="flex-bottle" src="/images/f2/9ce812-d84b-48fb-b0bb-c8e85e092719/2023-09-08-10-35-33-AC5181AC-852B-4E7A-A997-36E55DCBEB87-1-105-c@512.webp"></img>
     <section class="h">Tenuta di Fessina</section>
     <section class="h text-bolder">A'Puddara Etna Bianco - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
+  <a class="flex-item flex-item-left" href="/wines/f7795b1b-bbbf-42d4-888f-19ae004bb5e8.html">
     <img class="flex-bottle" src="/images/f7/795b1b-bbbf-42d4-888f-19ae004bb5e8/2023-01-20-14-38-54-IMG-4487@512.webp"></img>
     <section class="h">COS</section>
     <section class="h text-bolder">Pithos Bianco - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
+  <a class="flex-item flex-item-right" href="/wines/fb6d7f14-8ffd-48b2-9dee-e53afe3575e8.html">
     <img class="flex-bottle" src="/images/fb/6d7f14-8ffd-48b2-9dee-e53afe3575e8/2021-10-26-09-58-00-209F0EBC-90CC-490C-9120-0F745E427B67-1-105-c@512.webp"></img>
     <section class="h">Girolamo Russo</section>
     <section class="h text-bolder">Etna Rosso Feudo - 2016</section>

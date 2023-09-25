@@ -39,7 +39,13 @@ Elegant and perfectly balanced wine that I would simply describe with a single w
     <section class="h text-bolder">Le Beaujolais - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f9da1720-8759-4190-a364-17bea8ad743e.html">
+  <a class="flex-item flex-item-right" href="/wines/a112031a-d13f-4835-a05d-398ebd348760.html">
+    <img class="flex-bottle" src="/images/a1/12031a-d13f-4835-a05d-398ebd348760/2020-12-13-14-20-06-2254BF5C-20DA-4BA4-8D5B-80F9D82A2DF8-1-105-c@512.webp"></img>
+    <section class="h">Marcel Lapierre</section>
+    <section class="h text-bolder">Raisins gaulois - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f9da1720-8759-4190-a364-17bea8ad743e.html">
     <img class="flex-bottle" src="/images/f9/da1720-8759-4190-a364-17bea8ad743e/2023-07-22-18-03-42-IMG-8587@512.webp"></img>
     <section class="h">Marcel Lapierre</section>
     <section class="h text-bolder">Roche du Py Camille - 2019</section>

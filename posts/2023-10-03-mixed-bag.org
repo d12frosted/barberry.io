@@ -1,0 +1,57 @@
+Wines:
+
+1. [[barberry:/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7][Bencze Virgo 2020]]
+2. [[barberry:/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad][Fazenda Agricola Augalevada Mercenario branco 2021]]
+3. [[barberry:/wines/016ce5e6-e958-4cc8-8773-5d87068164e6][R. López de Heredia Viña Gravonia Blanco Crianza 2015]]
+4. CHAMPAGNE, what about Pierre Peters Cuvée de Reserve ?
+5. [[barberry:/wines/a4f4d1df-31af-4970-822b-e6e295ae52cf][Matassa Brutal Rouge 2022]] or [[barberry:/wines/1cf8eb27-13b4-4622-847e-21a39f11dcf9][Matassa Tattouine Rouge 2022]]
+6. [[barberry:/wines/b73292c6-4d48-4337-bbeb-d164b0f9a4c6][Momento Mori Rosso 2020]]
+7. [[barberry:/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653][Domaine du Castel Petit Castel 2020]]
+
+Bonus:
+
+1. [[barberry:/wines/e11dc2c6-3772-488c-8c36-5925712da3a0][Lahat Lavan Upper Galilee White 2021]]
+
+* Scores
+:PROPERTIES:
+:ID:                     7bb3d6ed-cc42-4fe0-9552-b01671b8fe8a
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms | sdev | favourite |   price | QPR |
+|---------+-----+------+-----------+---------+-----|
+| Wine #1 | -   | -    | *0.00*    |  760.00 | -   |
+| Wine #2 | -   | -    | *0.00*    |  590.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1184.00 | -   |
+| Wine #4 | -   | -    | *0.00*    |  740.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 1450.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 1793.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Resources
+:PROPERTIES:
+:ID:                     2de99e54-f0c2-40aa-82f8-b4b49c10b56a
+:END:
+
+* Raw scores
+:PROPERTIES:
+:ID:                     b32c6cd3-e606-4d25-9b7d-c46bae45608e
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
+|---------+---------+---------+---------+---------+---------+---------|
+| Boris B | -       | -       | -       | -       | -       | -       |
+

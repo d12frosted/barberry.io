@@ -1,0 +1,56 @@
+Wines:
+
+1. [[barberry:/wines/4dc30343-1f2d-47ba-8f9a-97d04e429608][Gulfi Carjcanti 2019]]
+2. [[barberry:/wines/73d1046d-a137-4ae4-93c9-79f744d5b04e][Gulfi Reseca 2017]]
+3. [[barberry:/wines/4fda715a-3ba7-4093-b3d8-1a3105045db9][Gulfi NeroMaccarj 2018]]
+4. [[barberry:/wines/a6477140-e119-4a67-99ac-cc9f58c3349c][Gulfi Pinò 2016]]
+5. [[barberry:/wines/4801cd2d-a50c-4f4d-9a41-3dc4f8149bb8][Gulfi NeroSanloré 2011]]
+6. [[barberry:/wines/73b86971-da35-4584-ac60-43146a69d9c6][Gulfi Nerojbleo 1999]]
+7. [[barberry:/wines/b429ae62-d4b0-46a4-b7c5-b5b78b9d5418][Gulfi NeroBaronj 2017]]
+8. [[barberry:/wines/b0cfc4da-35cc-4647-b45f-0969fab4d529][Gulfi NeroBaronj 2004]]
+
+* Scores
+:PROPERTIES:
+:ID:                     361c1195-4b3b-4127-93c8-16dfe5ebd4ac
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|             | rms | sdev | favourite |   price | QPR |
+|-------------+-----+------+-----------+---------+-----|
+| Carjcanti   | -   | -    | *0.00*    | 1100.00 | -   |
+| Reseca      | -   | -    | *0.00*    | 1300.00 | -   |
+| Maccarj     | -   | -    | *0.00*    | 1500.00 | -   |
+| Pinò        | -   | -    | *0.00*    | 3000.00 | -   |
+| Sanloré     | -   | -    | *0.00*    | 2300.00 | -   |
+| Nerojbleo   | -   | -    | *0.00*    | 2000.00 | -   |
+| Bartonj '17 | -   | -    | *0.00*    | 1200.00 | -   |
+| Baronj '04  | -   | -    | *0.00*    | 2400.00 | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Resources
+:PROPERTIES:
+:ID:                     04540590-52ed-4907-ba83-5f757414deba
+:END:
+
+* Raw scores
+:PROPERTIES:
+:ID:                     60bbf7f8-262e-4b27-9ef2-e763b1d1defe
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|         | Carjcanti | Reseca | Maccarj | Pinò | Sanloré | Nerojbleo | Bartonj '17 | Baronj '04 |
+|---------+-----------+--------+---------+------+---------+-----------+-------------+------------|
+| Boris B | -         | -      | -       | -    | -       | -         | -           | -          |
+

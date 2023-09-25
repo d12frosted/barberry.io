@@ -1,0 +1,38 @@
+{
+  "id": "b73292c6-4d48-4337-bbeb-d164b0f9a4c6",
+  "name": "Rosso",
+  "full-name": "Momento Mori Rosso 2020",
+  "producer": {
+    "id": "7ad98ad5-fc54-45ee-ad48-26f2fab01cbc",
+    "name": "Momento Mori"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "c31bf603-11bf-4460-9cc1-e12e952dada0",
+      "name": "Schioppettino"
+    },
+    {
+      "id": "8bfad5bf-0da6-4e66-97ac-d263bad2fb8a",
+      "name": "Syrah"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "NA",
+  "prices": [
+    "1085 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}
