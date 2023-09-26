@@ -709,6 +709,84 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
 
 
 
+(cl-defun brb-publish-data-grapes (target items _items-all _cache)
+  "Generate grapes data from ITEMS in TARGET file.
+
+Ratings are being queried from ITEMS.
+
+ITEMS-ALL is input table as returned by `porg-build-input'."
+  (let ((json-encoding-pretty-print t))
+    (with-current-buffer (find-file-noselect target)
+      (delete-region (point-min) (point-max))
+      (insert
+       (json-encode-array
+        (->> items
+             (hash-table-values)
+             (--filter (string-equal (porg-item-type it) "$$void$$"))
+             (-map #'porg-item-item)
+             (--map `((id . ,(vulpea-note-id it))
+                      (name . ,(vulpea-note-title it))
+                      (synonyms . ,(vulpea-note-aliases it))
+                      (vivc-id . ,(vulpea-note-meta-get it "vivc-id"))
+                      (origin . ,(when-let ((country (vulpea-note-meta-get it "origin" 'note)))
+                                  (list
+                                   :id (vulpea-note-id country)
+                                   :name (vulpea-note-title country))))
+                      (parent1 . ,(vulpea-note-meta-get it "parent 1"))
+                      (parent2 . ,(vulpea-note-meta-get it "parent 2"))
+                      (colour . ,(vulpea-note-meta-get it "colour of skin"))))
+             (--map (--filter (not (null (cdr it))) it)))))
+      (save-buffer))))
+
+
+
+(cl-defun brb-publish-data-regions (target items _items-all _cache)
+  "Generate region data from ITEMS in TARGET file.
+
+Ratings are being queried from ITEMS.
+
+ITEMS-ALL is input table as returned by `porg-build-input'."
+  (let ((json-encoding-pretty-print t))
+    (with-current-buffer (find-file-noselect target)
+      (delete-region (point-min) (point-max))
+      (insert
+       (json-encode-array
+        (->> items
+             (hash-table-values)
+             (--filter (string-equal (porg-item-type it) "$$void$$"))
+             (-map #'porg-item-item)
+             (--map `((id . ,(vulpea-note-id it))
+                      (name . ,(vulpea-note-title it))
+                      (established . ,(vulpea-note-meta-get it "established" 'number))
+                      (country . ,(when-let ((n (vulpea-note-meta-get it "country" 'note)))
+                                   (list
+                                    :id (vulpea-note-id n)
+                                    :name (vulpea-note-title n))))
+                      (region . ,(when-let ((n (vulpea-note-meta-get it "region" 'note)))
+                                  (list
+                                   :id (vulpea-note-id n)
+                                   :name (vulpea-note-title n))))
+                      (province . ,(when-let ((n (vulpea-note-meta-get it "province" 'note)))
+                                    (list
+                                     :id (vulpea-note-id n)
+                                    :name (vulpea-note-title n))))
+                      (comune . ,(when-let ((n (vulpea-note-meta-get it "comune" 'note)))
+                                  (list
+                                   :id (vulpea-note-id n)
+                                   :name (vulpea-note-title n))))
+                      (community . ,(when-let ((n (vulpea-note-meta-get it "community" 'note)))
+                                     (list
+                                      :id (vulpea-note-id n)
+                                      :name (vulpea-note-title n))))
+                      (state . ,(when-let ((n (vulpea-note-meta-get it "state" 'note)))
+                                     (list
+                                      :id (vulpea-note-id n)
+                                      :name (vulpea-note-title n))))))
+             (--map (--filter (not (null (cdr it))) it)))))
+      (save-buffer))))
+
+
+
 (cl-defun brb-sanitize-id-link (link items)
   "Sanitize ID LINK according to ITEMS."
   (if-let* ((id (org-ml-get-property :path link))
@@ -905,7 +983,17 @@ init file."
   (porg-rule
    :name "grapes"
    :match (-rpartial #'vulpea-note-tagged-all-p "wine" "grape")
-   :outputs nil)
+   :outputs (lambda (note) (list (porg-void-output note))))
+
+  (porg-rule
+   :name "appellations"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "appellation")
+   :outputs (lambda (note) (list (porg-void-output note))))
+
+  (porg-rule
+   :name "regions"
+   :match (-rpartial #'vulpea-note-tagged-all-p "wine" "region")
+   :outputs (lambda (note) (list (porg-void-output note))))
 
   (porg-rule
    :name "posts"
@@ -964,7 +1052,23 @@ init file."
    :filter (-rpartial #'porg-item-that :type "note"
                       :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "cellar"))
    :target "pages/cellar.org"
-   :publish #'brb-publish-cellar))
+   :publish #'brb-publish-cellar)
+
+  (porg-batch-rule
+   :name "data/grapes"
+   :filter (-rpartial #'porg-item-that :type "$$void$$"
+                      :predicate (-rpartial #'vulpea-note-tagged-all-p "wine" "grape"))
+   :target "assets/data/grapes.json"
+   :publish #'brb-publish-data-grapes)
+
+  (porg-batch-rule
+   :name "data/regions"
+   :filter (-rpartial #'porg-item-that :type "$$void$$"
+                      :predicate (lambda (note)
+                                   (and (vulpea-note-tagged-all-p note "wine")
+                                        (vulpea-note-tagged-any-p note "region" "appellation"))))
+   :target "assets/data/regions.json"
+   :publish #'brb-publish-data-regions))
 
  :compilers
  (list

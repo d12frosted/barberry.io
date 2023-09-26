@@ -116,6 +116,10 @@ main = hakyll $ do
     route idRoute
     compile copyFileCompiler
 
+  match "assets/data/*.json" $ do
+    route $ gsubRoute "assets/" (const "")
+    compile copyFileCompiler
+
   create ["wines.html"] $ do
     route idRoute
     compile $ do
