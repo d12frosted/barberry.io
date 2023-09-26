@@ -732,8 +732,12 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
                                   (list
                                    :id (vulpea-note-id country)
                                    :name (vulpea-note-title country))))
-                      (parent1 . ,(vulpea-note-meta-get it "parent 1"))
-                      (parent2 . ,(vulpea-note-meta-get it "parent 2"))
+                      (parent1 . ,(or
+                                   (ignore-errors (vulpea-note-title (vulpea-note-meta-get it "parent 1" 'note)))
+                                   (vulpea-note-meta-get it "parent 1")))
+                      (parent2 . ,(or
+                                   (ignore-errors (vulpea-note-title (vulpea-note-meta-get it "parent 2" 'note)))
+                                   (vulpea-note-meta-get it "parent 2")))
                       (colour . ,(vulpea-note-meta-get it "colour of skin"))))
              (--map (--filter (not (null (cdr it))) it)))))
       (save-buffer))))
@@ -758,6 +762,9 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
              (--map `((id . ,(vulpea-note-id it))
                       (name . ,(vulpea-note-title it))
                       (established . ,(vulpea-note-meta-get it "established" 'number))
+                      (type . ,(if (vulpea-note-tagged-any-p it "appellation")
+                                   "appellation"
+                                 "region"))
                       (country . ,(when-let ((n (vulpea-note-meta-get it "country" 'note)))
                                    (list
                                     :id (vulpea-note-id n)
@@ -769,7 +776,7 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
                       (province . ,(when-let ((n (vulpea-note-meta-get it "province" 'note)))
                                     (list
                                      :id (vulpea-note-id n)
-                                    :name (vulpea-note-title n))))
+                                     :name (vulpea-note-title n))))
                       (comune . ,(when-let ((n (vulpea-note-meta-get it "comune" 'note)))
                                   (list
                                    :id (vulpea-note-id n)
@@ -779,9 +786,9 @@ ITEMS-ALL is input table as returned by `porg-build-input'."
                                       :id (vulpea-note-id n)
                                       :name (vulpea-note-title n))))
                       (state . ,(when-let ((n (vulpea-note-meta-get it "state" 'note)))
-                                     (list
-                                      :id (vulpea-note-id n)
-                                      :name (vulpea-note-title n))))))
+                                 (list
+                                  :id (vulpea-note-id n)
+                                  :name (vulpea-note-title n))))))
              (--map (--filter (not (null (cdr it))) it)))))
       (save-buffer))))
 

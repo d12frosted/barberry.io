@@ -276,7 +276,7 @@
       "name": "Argentina"
     },
     "parent1": "Listan Prieto",
-    "parent2": "[[id:ab59e210-e7ed-4362-832c-4c4daa2b9e05][Muscat of Alexandria]]",
+    "parent2": "Zibibbo",
     "colour": "noir"
   },
   {
@@ -432,7 +432,7 @@
       "name": "Germany"
     },
     "parent1": "Portugieser Blau",
-    "parent2": "[[id:af01f8a9-3e01-4aa8-b00f-17e3103bf914][Pinot Noir]]",
+    "parent2": "Pinot Noir",
     "colour": "noir"
   },
   {
@@ -479,7 +479,7 @@
       "name": "Germany"
     },
     "parent1": "Diana",
-    "parent2": "[[id:cf7b6ab5-8720-4e68-8fba-423bd5627eb8][Chambourcin]]",
+    "parent2": "Chambourcin",
     "colour": "noir"
   },
   {
@@ -683,8 +683,8 @@
       "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
       "name": "France"
     },
-    "parent1": "[[id:185e5cc2-2afd-4d4b-8bb4-f7d6f9187558][Magdeleine Noire des Charentes]]",
-    "parent2": "[[id:dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133][Cabernet Franc]]",
+    "parent1": "Magdeleine Noire des Charentes",
+    "parent2": "Cabernet Franc",
     "colour": "noir"
   },
   {
@@ -1060,7 +1060,7 @@
       "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
       "name": "Spain"
     },
-    "parent1": "[[id:784ae244-2884-4ace-8c39-d412b6e8d283][Albillo Mayor]]",
+    "parent1": "Albillo Mayor",
     "parent2": "Benedicto",
     "colour": "noir"
   },
@@ -1116,7 +1116,7 @@
       "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
       "name": "Italy"
     },
-    "parent1": "[[id:851e10a2-e672-4c9f-8506-ccbe31887b02][Sangiovese]]",
+    "parent1": "Sangiovese",
     "parent2": "Mantonico Bianco",
     "colour": "noir"
   },
@@ -1139,7 +1139,7 @@
       "name": "Spain"
     },
     "parent1": "Heben",
-    "parent2": "[[id:abe7a255-d91f-4edd-91df-d80e766b5642][Graciano]]",
+    "parent2": "Graciano",
     "colour": "noir"
   },
   {
@@ -1419,8 +1419,8 @@
       "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
       "name": "Spain"
     },
-    "parent1": "[[id:71d8db65-4936-4f9d-8819-a8e8f8cfa8af][Mollar Cano]]",
-    "parent2": "[[id:08941298-3f06-440f-b8a8-c4fdd3079a20][Palomino Fino]]",
+    "parent1": "Mollar Cano",
+    "parent2": "Palomino Fino",
     "colour": "noir"
   },
   {
@@ -1568,8 +1568,8 @@
       "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
       "name": "France"
     },
-    "parent1": "[[id:dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133][Cabernet Franc]]",
-    "parent2": "[[id:b9a99a20-9192-47be-859b-a9a695533344][Sauvignon Blanc]]",
+    "parent1": "Cabernet Franc",
+    "parent2": "Sauvignon Blanc",
     "colour": "noir"
   },
   {
@@ -1615,7 +1615,7 @@
       "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
       "name": "Italy"
     },
-    "parent1": "[[id:851e10a2-e672-4c9f-8506-ccbe31887b02][Sangiovese]]",
+    "parent1": "Sangiovese",
     "parent2": "Mantonico Bianco",
     "colour": "noir"
   },
