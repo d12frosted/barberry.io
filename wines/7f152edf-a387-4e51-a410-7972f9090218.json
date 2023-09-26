@@ -1,0 +1,46 @@
+{
+  "id": "7f152edf-a387-4e51-a410-7972f9090218",
+  "name": "Love Song",
+  "full-name": "Patrick Bouju Love Song 2022",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "0a946fb7-be39-4a05-989f-e7e40e3f43da",
+      "name": "Gamay"
+    },
+    {
+      "id": "5ca2cf65-ae9c-424a-8be5-20c30bde540c",
+      "name": "Merlot"
+    },
+    {
+      "id": "05534ee0-e07a-43f2-9a5f-c2f832e772bd",
+      "name": "Monastrell"
+    },
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0.2",
+  "prices": [
+    "860 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/7f/152edf-a387-4e51-a410-7972f9090218/2023-09-26-20-40-31-IMG-9182.webp",
+  "rating": "NA"
+}

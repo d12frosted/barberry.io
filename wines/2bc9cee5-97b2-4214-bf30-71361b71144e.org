@@ -51,16 +51,28 @@ The first sniff promises bliss in the form of smoke. But promises don't hold eve
     <section class="h text-bolder">Mercurey Les Vignes Blanches - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/dcc66383-0e9e-467c-9736-32e5fef74fb2.html">
+  <a class="flex-item flex-item-right" href="/wines/aff74834-8faf-4b2c-b827-30a30e6bf4a3.html">
+    <img class="flex-bottle" src="/images/af/f74834-8faf-4b2c-b827-30a30e6bf4a3/2023-09-26-20-42-38-IMG-9188@512.webp"></img>
+    <section class="h">Frédéric Cossard</section>
+    <section class="h text-bolder">Version Sud - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/dcc66383-0e9e-467c-9736-32e5fef74fb2.html">
     <img class="flex-bottle" src="/images/dc/c66383-0e9e-467c-9736-32e5fef74fb2/2023-07-02-14-24-41-IMG-8083@512.webp"></img>
     <section class="h">Frédéric Cossard</section>
     <section class="h text-bolder">Morey-Saint-Denis 1er cru Les Monts Luisants - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2.html">
+  <a class="flex-item flex-item-right" href="/wines/e8807132-9a6c-4d45-b55c-72c6bbf7a5f2.html">
     <img class="flex-bottle" src="/images/e8/807132-9a6c-4d45-b55c-72c6bbf7a5f2/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c@512.webp"></img>
     <section class="h">Frédéric Cossard</section>
     <section class="h text-bolder">Morey-Saint-Denis Les Champs de la Vigne Qvevris - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f3f2488a-c6be-4eb7-9214-1163430aa43e.html">
+    <img class="flex-bottle" src="/images/f3/f2488a-c6be-4eb7-9214-1163430aa43e/2023-09-26-20-39-31-IMG-9179@512.webp"></img>
+    <section class="h">Frédéric Cossard</section>
+    <section class="h text-bolder">Super Pink - 2021</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/20f7f848-0da6-4ac8-8769-4d64e4603219.html">

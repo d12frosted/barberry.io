@@ -45,10 +45,22 @@ Tasted blind and (obviously) didn't guess. My bet was on some Morgon wine and my
     <section class="h text-bolder">J - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
+  <a class="flex-item flex-item-left" href="/wines/7f152edf-a387-4e51-a410-7972f9090218.html">
+    <img class="flex-bottle" src="/images/7f/152edf-a387-4e51-a410-7972f9090218/2023-09-26-20-40-31-IMG-9182@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Love Song - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
     <img class="flex-bottle" src="/images/80/d58398-afa8-4233-bf27-49bd161cfc3e/2023-07-08-14-58-22-IMG-8285@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a853ed44-8f8c-418b-ba8b-0cce2a2aff93.html">
+    <img class="flex-bottle" src="/images/a8/53ed44-8f8c-418b-ba8b-0cce2a2aff93/2023-09-26-20-41-21-IMG-9184@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">P - 2022</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/aeb134d4-d015-4e2d-a926-c76b94730538.html">
@@ -69,13 +81,19 @@ Tasted blind and (obviously) didn't guess. My bet was on some Morgon wine and my
     <section class="h text-bolder">Festejar! Rosé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/904ab06e-a6fa-4b0b-8c55-36a48d6d2668.html">
+  <a class="flex-item flex-item-left" href="/wines/ebe327d5-b6a1-4b61-85b9-b8c32f111d19.html">
+    <img class="flex-bottle" src="/images/eb/e327d5-b6a1-4b61-85b9-b8c32f111d19/2023-09-26-20-37-07-IMG-9174@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">G&M - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/904ab06e-a6fa-4b0b-8c55-36a48d6d2668.html">
     <img class="flex-bottle" src="/images/90/4ab06e-a6fa-4b0b-8c55-36a48d6d2668/2021-07-22-09-23-11-5952B1C1-D600-45ED-A079-14B753C772AF-1-105-c@512.webp"></img>
     <section class="h">Jacquesson</section>
     <section class="h text-bolder">Cuvée 739 DT Grand Vin (2011) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
+  <a class="flex-item flex-item-left" href="/wines/d84a421b-e4f0-4c9b-a2d3-0735f7d1f378.html">
     <img class="flex-bottle" src="/images/d8/4a421b-e4f0-4c9b-a2d3-0735f7d1f378/2023-08-15-11-56-40-IMG-8950@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Pettineo PT - 2017</section>

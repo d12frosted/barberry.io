@@ -1,0 +1,34 @@
+{
+  "id": "aff74834-8faf-4b2c-b827-30a30e6bf4a3",
+  "name": "Version Sud",
+  "full-name": "Frédéric Cossard Version Sud 2021",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "8fd08912-1337-4cd0-8422-7d37de2992d6",
+      "name": "Grenache"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "8",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/af/f74834-8faf-4b2c-b827-30a30e6bf4a3/2023-09-26-20-42-38-IMG-9188.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f3f2488a-c6be-4eb7-9214-1163430aa43e",
+  "name": "Super Pink",
+  "full-name": "Frédéric Cossard Super Pink 2021",
+  "producer": {
+    "id": "3fe6e72f-cabd-4020-8635-0b830f106fda",
+    "name": "Frédéric Cossard"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "8",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f3/f2488a-c6be-4eb7-9214-1163430aa43e/2023-09-26-20-39-31-IMG-9179.webp",
+  "rating": "NA"
+}

@@ -45,10 +45,22 @@ What a lovely blend of Grenache Gris, Riesling and Muscat Blanc! Relatively comp
     <section class="h text-bolder">Touski - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
+  <a class="flex-item flex-item-left" href="/wines/7f152edf-a387-4e51-a410-7972f9090218.html">
+    <img class="flex-bottle" src="/images/7f/152edf-a387-4e51-a410-7972f9090218/2023-09-26-20-40-31-IMG-9182@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Love Song - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/80d58398-afa8-4233-bf27-49bd161cfc3e.html">
     <img class="flex-bottle" src="/images/80/d58398-afa8-4233-bf27-49bd161cfc3e/2023-07-08-14-58-22-IMG-8285@512.webp"></img>
     <section class="h">Patrick Bouju</section>
     <section class="h text-bolder">Festejar! Rosé - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a853ed44-8f8c-418b-ba8b-0cce2a2aff93.html">
+    <img class="flex-bottle" src="/images/a8/53ed44-8f8c-418b-ba8b-0cce2a2aff93/2023-09-26-20-41-21-IMG-9184@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">P - 2022</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/aeb134d4-d015-4e2d-a926-c76b94730538.html">
@@ -69,7 +81,13 @@ What a lovely blend of Grenache Gris, Riesling and Muscat Blanc! Relatively comp
     <section class="h text-bolder">Festejar! Rosé - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2dde7f0e-d881-48b3-97a6-b039c2926f27.html">
+  <a class="flex-item flex-item-left" href="/wines/ebe327d5-b6a1-4b61-85b9-b8c32f111d19.html">
+    <img class="flex-bottle" src="/images/eb/e327d5-b6a1-4b61-85b9-b8c32f111d19/2023-09-26-20-37-07-IMG-9174@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">G&M - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/2dde7f0e-d881-48b3-97a6-b039c2926f27.html">
     <img class="flex-bottle" src="/images/2d/de7f0e-d881-48b3-97a6-b039c2926f27/2022-12-01-07-50-34-15F52355-3C05-44B3-B74F-9208E7966C9B-1-105-c@512.webp"></img>
     <section class="h">Donnafugata</section>
     <section class="h text-bolder">Fragore - 2018</section>

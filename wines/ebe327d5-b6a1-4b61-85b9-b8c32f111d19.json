@@ -1,0 +1,50 @@
+{
+  "id": "ebe327d5-b6a1-4b61-85b9-b8c32f111d19",
+  "name": "G&M",
+  "full-name": "Patrick Bouju G&M 2022",
+  "producer": {
+    "id": "a693b9c2-b4f7-4f79-ab0a-85b4fd91af0f",
+    "name": "Patrick Bouju"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "c38578ac-7817-40f5-8bf0-ffccb74598c6",
+      "name": "Muscat Blanc"
+    },
+    {
+      "id": "cc12506c-075a-4f65-b3cc-0d7a07f6c305",
+      "name": "Garnacha Blanca"
+    },
+    {
+      "id": "a4c5d0b7-cac6-43ce-837b-f03c9de19d5a",
+      "name": "Viognier"
+    },
+    {
+      "id": "c6e1fd3f-d02f-4700-8156-0f81ffd71b89",
+      "name": "Garnacha Roja"
+    },
+    {
+      "id": "ca6c81ce-5689-464f-8502-8d122d81ddf4",
+      "name": "Trebbiano"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "0.2",
+  "prices": [
+    "1050 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/eb/e327d5-b6a1-4b61-85b9-b8c32f111d19/2023-09-26-20-37-07-IMG-9174.webp",
+  "rating": "NA"
+}
