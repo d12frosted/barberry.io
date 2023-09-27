@@ -1254,6 +1254,9 @@ init file."
                                                    (s-chop-prefix "attachment:" image)
                                                    "jpeg"))
                                           items)))
+                 (unless image-item
+                   (user-error "%s is using %s as an image, but it does not exist"
+                               (funcall #'porg-describe item) image))
                  (unless (file-exists-p (porg-item-target-abs image-item))
                    (user-error "Image %s does not exist" (funcall #'porg-describe image-item)))
                  (list "image" (porg-item-target-rel image-item)
