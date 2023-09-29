@@ -330,7 +330,7 @@ article div.line-block {
   border-left-color: var(--foreground);
   border-left-width: thick;
   padding-left: 1.2rem;
-  margin: 0;
+  margin: 0.6rem 0 0 0;
 }
 
 article table {
