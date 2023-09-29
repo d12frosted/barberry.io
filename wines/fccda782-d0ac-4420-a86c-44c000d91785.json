@@ -1,0 +1,34 @@
+{
+  "id": "fccda782-d0ac-4420-a86c-44c000d91785",
+  "name": "Diapason Grand Cru Le Mesnil Sur Oger (2014)",
+  "full-name": "Pascal Doquet Diapason Grand Cru Le Mesnil Sur Oger (2014) NV",
+  "producer": {
+    "id": "f70da363-caf7-4573-92d9-872505df49ef",
+    "name": "Pascal Doquet"
+  },
+  "vintage": "NV",
+  "base-vintage": "2014",
+  "degorgee": "[2021-01-20 Wed]",
+  "sur-lie": "~78 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "2799 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/fc/cda782-d0ac-4420-a86c-44c000d91785/2023-09-28-18-14-37-28F14D25-53DB-4C9F-8A66-2C7AD91B3CD9-1-105-c.webp",
+  "rating": "NA"
+}

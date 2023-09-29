@@ -395,7 +395,6 @@
     "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
     "name": "Chardonnay",
     "synonyms": [
-      "XXX",
       "Morillon"
     ]
   },
@@ -1170,6 +1169,10 @@
     "name": "Romorantin"
   },
   {
+    "id": "a1dca9b1-0537-4cad-ada4-ba7f1e32363c",
+    "name": "Plavina"
+  },
+  {
     "id": "a24c3d7a-6803-4892-a181-4bff6a6cd433",
     "name": "Vespolina"
   },
@@ -1424,6 +1427,14 @@
     "colour": "noir"
   },
   {
+    "id": "c10867fc-367b-4fc7-b6da-58abf46c5ccb",
+    "name": "Debit"
+  },
+  {
+    "id": "c18d18a2-37fd-455a-b245-ac0a943de3cd",
+    "name": "Lasina"
+  },
+  {
     "id": "c23b3773-85d2-433f-9c27-3173cb442f80",
     "name": "Trepat"
   },
@@ -1551,6 +1562,10 @@
     "synonyms": [
       "Ugni Blanc"
     ]
+  },
+  {
+    "id": "cb0d835b-8bf1-4135-b185-bf9e3c20ad78",
+    "name": "Maraština"
   },
   {
     "id": "cb0f5334-adaf-40ed-b035-8b1ed7e54549",
@@ -1885,6 +1900,7 @@
     "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
     "name": "Malvasia di Candia Aromatica",
     "synonyms": [
+      "Malvasia Istriana ",
       "Malvasia Bianca",
       "Malvasia di Alessandria",
       "Malvasia Bianca Aromatica"
@@ -1941,6 +1957,10 @@
   {
     "id": "f7af7e0d-9c09-42b5-baa8-2ccd45cadc85",
     "name": "Riesling"
+  },
+  {
+    "id": "f923b95a-35d4-4a87-89aa-e3f36a0f5649",
+    "name": "Babić"
   },
   {
     "id": "fa2e46fa-ab1c-4250-885b-b3395f0b078c",

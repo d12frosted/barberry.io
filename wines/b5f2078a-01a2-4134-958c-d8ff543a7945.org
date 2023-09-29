@@ -25,22 +25,34 @@ Greco di Tufo from Australia! Every time I open a bottle of Give Up the Ghost, I
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+  <a class="flex-item flex-item-left" href="/wines/12323b84-84ba-40eb-ab77-f960dbd47939.html">
+    <img class="flex-bottle" src="/images/12/323b84-84ba-40eb-ab77-f960dbd47939/2023-09-29-13-03-20-IMG-9457@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Bag of Bones - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
     <img class="flex-bottle" src="/images/26/122f9f-12ba-42ba-8d22-4f96de40fbd9/2021-07-14-08-45-53-83D900BD-3859-46A3-A629-FC5BCEEB7D6F-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
+  <a class="flex-item flex-item-left" href="/wines/64ece0f6-c9fd-4116-8ff7-ea78634293e2.html">
     <img class="flex-bottle" src="/images/64/ece0f6-c9fd-4116-8ff7-ea78634293e2/2022-07-23-10-20-00-06DAC062-8159-4CEA-8D5B-BF83129DF248-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Bianco - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+  <a class="flex-item flex-item-right" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
     <img class="flex-bottle" src="/images/7d/23e9f5-b78b-4892-9dd6-9f42b43c6817/2022-07-12-21-12-34-IMG-0738@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Fistful of Flowers - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9183a551-a33f-497d-861c-8949d97507cb.html">
+    <img class="flex-bottle" src="/images/91/83a551-a33f-497d-861c-8949d97507cb/2023-09-29-13-02-14-IMG-9454@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Rosso - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943.html">
@@ -49,79 +61,73 @@ Greco di Tufo from Australia! Every time I open a bottle of Give Up the Ghost, I
     <section class="h text-bolder">The Incline - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/b73292c6-4d48-4337-bbeb-d164b0f9a4c6.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
-    <section class="h">Momento Mori</section>
-    <section class="h text-bolder">Rosso - 2020</section>
-  </a>
-
-  <a class="flex-item flex-item-right" href="/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">
+  <a class="flex-item flex-item-left" href="/wines/bac7d8e2-273b-4d07-a747-4e8f437eebc7.html">
     <img class="flex-bottle" src="/images/ba/c7d8e2-273b-4d07-a747-4e8f437eebc7/2020-07-08-15-10-24-C03D8998-3AA6-4CDA-B1F8-6538AE60A3C4-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Bianco - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">
+  <a class="flex-item flex-item-right" href="/wines/e64ca4d6-24b2-4ef0-87f0-91e312785276.html">
     <img class="flex-bottle" src="/images/e6/4ca4d6-24b2-4ef0-87f0-91e312785276/2020-08-15-09-35-51-3F2ED9B4-A482-4167-82E1-BCB10F82A4DE-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Give up the Ghost - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
+  <a class="flex-item flex-item-left" href="/wines/e6ba9439-49db-4adc-ac90-aa17c75056cc.html">
     <img class="flex-bottle" src="/images/e6/ba9439-49db-4adc-ac90-aa17c75056cc/2021-01-20-21-49-29-0D06F122-FB4B-46C0-B43D-F39FB7D40E11-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Staring at the Sun - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1eae0c4e-1d0e-4471-9425-3421f8ff77dc.html">
+  <a class="flex-item flex-item-right" href="/wines/1eae0c4e-1d0e-4471-9425-3421f8ff77dc.html">
     <img class="flex-bottle" src="/images/1e/ae0c4e-1d0e-4471-9425-3421f8ff77dc/2021-12-17-15-44-07-F8DC4A27-DA1A-458A-88F9-6ABF51F0DBCC-1-105-c@512.webp"></img>
     <section class="h">Brand Bros</section>
     <section class="h text-bolder">Pet Nat Rosé - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5288d4c7-99a8-4cb7-bfbc-0d24b001dffc.html">
+  <a class="flex-item flex-item-left" href="/wines/5288d4c7-99a8-4cb7-bfbc-0d24b001dffc.html">
     <img class="flex-bottle" src="/images/52/88d4c7-99a8-4cb7-bfbc-0d24b001dffc/2023-04-01-09-49-53-37F22836-2A2C-4800-B34C-AC56EAE3EE92-1-102-o@512.webp"></img>
     <section class="h">Tenuta delle Terre Nere</section>
     <section class="h text-bolder">Etna Rosato - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
+  <a class="flex-item flex-item-right" href="/wines/5c2c2225-14c9-45cb-94b8-a40f8ad3b5f7.html">
     <img class="flex-bottle" src="/images/5c/2c2225-14c9-45cb-94b8-a40f8ad3b5f7/2021-12-17-15-36-13-503889A5-17D0-431E-9230-6D6F02F0396D-1-105-c@512.webp"></img>
     <section class="h">Weinert</section>
     <section class="h text-bolder">Cabernet Sauvignon - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/666b87bb-6a15-437c-b269-e0100141b614.html">
+  <a class="flex-item flex-item-left" href="/wines/666b87bb-6a15-437c-b269-e0100141b614.html">
     <img class="flex-bottle" src="/images/66/6b87bb-6a15-437c-b269-e0100141b614/2022-10-13-14-59-36-IMG-2733@512.webp"></img>
     <section class="h">Wild Rock</section>
     <section class="h text-bolder">Sauvignon Blanc - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60.html">
+  <a class="flex-item flex-item-right" href="/wines/90439d2b-d7b6-454d-9cb2-4ca980207b60.html">
     <img class="flex-bottle" src="/images/90/439d2b-d7b6-454d-9cb2-4ca980207b60/2023-03-29-19-27-37-B573B12D-A133-4A83-BCDE-93A76C502A33-1-105-c@512.webp"></img>
     <section class="h">René-Jean Dard et François Ribo</section>
     <section class="h text-bolder">Crozes-Hermitage Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/a4ac2588-8257-4add-af94-520a41aa8702.html">
+  <a class="flex-item flex-item-left" href="/wines/a4ac2588-8257-4add-af94-520a41aa8702.html">
     <img class="flex-bottle" src="/images/a4/ac2588-8257-4add-af94-520a41aa8702/2023-01-10-07-16-43-A08A8A8D-54E7-4A97-BEB4-DEB54A600265-1-105-c@512.webp"></img>
     <section class="h">Jorge Ordoñez</section>
     <section class="h text-bolder">№2 Victoria - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
+  <a class="flex-item flex-item-right" href="/wines/e9124b43-5978-4720-8e8c-c16b5c4bf330.html">
     <img class="flex-bottle" src="/images/e9/124b43-5978-4720-8e8c-c16b5c4bf330/2021-12-17-15-40-27-C8AB28FE-EFBE-4E68-A5B0-22C11B3E0E9B-1-102-o@512.webp"></img>
     <section class="h">Gentle Folk</section>
     <section class="h text-bolder">Piccadilly Chardonnay - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/edaf36b4-74ae-4bb0-8724-514037582de0.html">
+  <a class="flex-item flex-item-left" href="/wines/edaf36b4-74ae-4bb0-8724-514037582de0.html">
     <img class="flex-bottle" src="/images/ed/af36b4-74ae-4bb0-8724-514037582de0/2023-01-24-07-06-47-IMG-4550@512.webp"></img>
     <section class="h">Enderle&Moll</section>
     <section class="h text-bolder">Pinot Noir - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f617f9f0-8472-4f81-b334-aff85c2ae294.html">
+  <a class="flex-item flex-item-right" href="/wines/f617f9f0-8472-4f81-b334-aff85c2ae294.html">
     <img class="flex-bottle" src="/images/f6/17f9f0-8472-4f81-b334-aff85c2ae294/2023-02-20-22-18-25-IMG-5099@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Ace of Spades Les Myrs - 2021</section>

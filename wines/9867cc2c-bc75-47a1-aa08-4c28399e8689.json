@@ -1,15 +1,15 @@
 {
   "id": "9867cc2c-bc75-47a1-aa08-4c28399e8689",
-  "name": "Vozémieux",
-  "full-name": "Robert Moncuit Vozémieux 2011",
+  "name": "Vozémieux Blanc de Blancs Grand Cru",
+  "full-name": "Robert Moncuit Vozémieux Blanc de Blancs Grand Cru 2011",
   "producer": {
     "id": "7e19d0e5-c26c-4a0e-84be-5261974e6e83",
     "name": "Robert Moncuit"
   },
   "vintage": "2011",
   "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "degorgee": "[2017-12-20 Wed]",
+  "sur-lie": "~66 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -24,7 +24,7 @@
     }
   ],
   "alcohol": "12",
-  "sugar": "3",
+  "sugar": "4",
   "prices": [
     "2950 UAH"
   ],

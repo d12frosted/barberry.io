@@ -5,7 +5,7 @@ Wines:
 3. [[barberry:/wines/016ce5e6-e958-4cc8-8773-5d87068164e6][R. López de Heredia Viña Gravonia Blanco Crianza 2015]]
 4. [[barberry:/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34][Pierre Péters Brut Blanc de Blancs Cuvée de Réserve NV]]
 5. [[barberry:/wines/1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61][Paraschos not special vintage 2012]]
-6. [[barberry:/wines/b73292c6-4d48-4337-bbeb-d164b0f9a4c6][Momento Mori Rosso 2020]]
+6. [[barberry:/wines/9183a551-a33f-497d-861c-8949d97507cb][Momento Mori Rosso 2020]]
 7. [[barberry:/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653][Domaine du Castel Petit Castel 2020]]
 
 * Scores
@@ -16,15 +16,15 @@ Wines:
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms | sdev | favourite |   price | QPR |
-|---------+-----+------+-----------+---------+-----|
-| Wine #1 | -   | -    | *0.00*    |  760.00 | -   |
-| Wine #2 | -   | -    | *0.00*    |  740.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1450.00 | -   |
-| Wine #4 | -   | -    | *0.00*    | 2230.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 2806.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 1085.00 | -   |
-| Wine #7 | -   | -    | *0.00*    | 1793.00 | -   |
+|         | rms      |   sdev | favourite |   price | QPR      |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  960.00 | *0.0000* |
+| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  740.00 | *0.0000* |
+| Wine #3 | *1.0000* | 0.0000 | *0.00*    | 1450.00 | *0.0000* |
+| Wine #4 | *1.0000* | 0.0000 | *0.00*    | 3040.00 | *0.0000* |
+| Wine #5 | *1.0000* | 0.0000 | *0.00*    | 2806.00 | *0.0000* |
+| Wine #6 | *1.0000* | 0.0000 | *0.00*    | 1085.00 | *0.0000* |
+| Wine #7 | *1.0000* | 0.0000 | *0.00*    | 1793.00 | *0.0000* |
 
 How to read this table:
 
@@ -50,5 +50,5 @@ How to read this table:
 #+results: scores
 |         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
 |---------+---------+---------+---------+---------+---------+---------+---------|
-| Boris B | -       | -       | -       | -       | -       | -       | -       |
+| Boris B |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
 

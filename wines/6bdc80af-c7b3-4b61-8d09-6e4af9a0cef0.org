@@ -1,0 +1,73 @@
+#+attr_html: :class wine-main-image
+[[file:/images/6b/dc80af-c7b3-4b61-8d09-6e4af9a0cef0/2023-09-29-12-11-11-IMG-9364@512.webp]]
+
+- Type :: Rose Sparkling, Brut
+- Producer :: [[barberry:/producers/e63e9781-9e3f-43ae-b0b0-1366d808ab3e][Weingut Bründlmayer]]
+- Base vintage :: 2019
+- Disgorged in :: October 2022
+- Spent on lees :: N/A
+- Location :: Austria, Niederösterreich
+- Grapes :: Pinot Noir, Saint-Laurent, Zweigelt
+- Alcohol :: 11.5
+- Sugar :: 9.4
+- Price :: 1293 UAH, 1510 UAH
+- Cellar :: 4 bottles
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/021dfa5a-0340-4f00-bccd-50f5659f688d.html">
+    <img class="flex-bottle" src="/images/02/1dfa5a-0340-4f00-bccd-50f5659f688d/2021-07-20-09-00-48-F1276577-0D94-4463-9535-1F184D94D686-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Riesling Heiligenstein Lyra - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/128c692e-8948-454f-bd6a-c03b1f29880d.html">
+    <img class="flex-bottle" src="/images/12/8c692e-8948-454f-bd6a-c03b1f29880d/2022-06-28-07-01-52-1766C041-8346-4B4B-BFEF-9F62FBF31B52-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Hauswein Grüner Veltliner - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/30642e90-0ee3-4826-8ded-2f6f420e709a.html">
+    <img class="flex-bottle" src="/images/30/642e90-0ee3-4826-8ded-2f6f420e709a/2022-11-20-20-36-08-AED12F07-5C2A-4404-9AF7-D788BDAE7A1D-1-102-o@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Reserve L11556/04/18 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6e9d1d22-6802-4fb7-a928-325b7f6ebf0e.html">
+    <img class="flex-bottle" src="/images/6e/9d1d22-6802-4fb7-a928-325b7f6ebf0e/2021-08-14-10-46-59-82273708-1D6B-4994-9A84-77A739C376AA-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Grüner Veltliner Kamptaler Terrassen - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9e046e12-6366-4d23-8657-ee421ad00794.html">
+    <img class="flex-bottle" src="/images/9e/046e12-6366-4d23-8657-ee421ad00794/2021-09-03-08-37-02-5A2530A4-2F64-4C55-B5BA-4676ECE25E98-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé Reserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/b3b1970d-4176-4ff3-9f9c-d07325b9d092.html">
+    <img class="flex-bottle" src="/images/b3/b1970d-4176-4ff3-9f9c-d07325b9d092/2023-04-08-19-18-19-D64CCE8B-3E4B-4F67-9C21-A45B9FAE4F6F-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Brut Rosé Reserve L11808/04/19 (d2022/04) - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ba3c3b85-b979-461f-9fe0-8c81b281eec4.html">
+    <img class="flex-bottle" src="/images/ba/3c3b85-b979-461f-9fe0-8c81b281eec4/2022-11-29-10-40-07-IMG-3491@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Blanc de Blancs Extra Brut Reserve L11778/08/15 - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cdd63749-d893-457a-b852-06a407e52c84.html">
+    <img class="flex-bottle" src="/images/cd/d63749-d893-457a-b852-06a407e52c84/2022-06-16-07-13-05-3D4129EC-7C9D-440A-9C8D-43B7474C4789-1-105-c@512.webp"></img>
+    <section class="h">Weingut Bründlmayer</section>
+    <section class="h text-bolder">Zweigelt - 2015</section>
+  </a>
+
+</div>
+#+end_export

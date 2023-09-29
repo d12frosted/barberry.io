@@ -114,19 +114,25 @@ There are basically 3 ranges of wines made by Radikon:
     <section class="h text-bolder">Ribolla - 2013</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">
+  <a class="flex-item flex-item-left" href="/wines/63683195-5011-4586-9b6a-e893d584b312.html">
+    <img class="flex-bottle" src="/images/63/683195-5011-4586-9b6a-e893d584b312/2023-09-29-09-37-10-B97A2E71-3D98-4E6F-BD11-DDE4ECEAF76E-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Sivi - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e5c2e4c9-4027-410f-8a20-e14079d83416.html">
     <img class="flex-bottle" src="/images/e5/c2e4c9-4027-410f-8a20-e14079d83416/2020-08-13-08-57-34-ADE4EDAE-70E0-445D-A462-FB72F489EFBA-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Slatnik - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
+  <a class="flex-item flex-item-left" href="/wines/e9365c42-85f2-472a-b2cb-c16985f36a4e.html">
     <img class="flex-bottle" src="/images/e9/365c42-85f2-472a-b2cb-c16985f36a4e/2021-03-20-09-18-16-549E62EC-36E7-4CC8-9A27-6839AFB2B85D-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Slatnik - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/446df39e-ea08-4dd7-a420-e5c57cef377d.html">
+  <a class="flex-item flex-item-right" href="/wines/446df39e-ea08-4dd7-a420-e5c57cef377d.html">
     <img class="flex-bottle" src="/images/44/6df39e-ea08-4dd7-a420-e5c57cef377d/2023-04-15-13-54-18-C956A8D1-55B5-4865-A8D2-1029EFB8A69C-1-105-c@512.webp"></img>
     <section class="h">★ 8.50</section>
     <section class="h text-bolder">Slatnik - 2021</section>

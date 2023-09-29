@@ -3,10 +3,40 @@
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/2556c689-2387-4e50-8ee7-1f5dca951d3a.html">
+    <img class="flex-bottle" src="/images/25/56c689-2387-4e50-8ee7-1f5dca951d3a/2023-09-29-12-58-48-IMG-9443@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ferrum Chardonnay - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/02b6c5a9-e7ab-48d2-85bc-3d3fecf093a9.html">
+    <img class="flex-bottle" src="/images/02/b6c5a9-e7ab-48d2-85bc-3d3fecf093a9/2023-09-29-14-14-24-IMG-9500@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ferrum Chardonnay - 2022</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e.html">
-    <img class="flex-bottle" src="/images/bf/9ca0ae-be5a-4d12-aefd-278699e1118e/2021-11-14-12-37-30-272C5C47-4959-49A3-9D76-7CAD0C04A24D-1-105-c@512.webp"></img>
+    <img class="flex-bottle" src="/images/bf/9ca0ae-be5a-4d12-aefd-278699e1118e/2023-09-29-14-13-03-IMG-9493@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Peter Max Pinot Noir - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/6d2d459e-58db-4ea9-86f3-84904e25a98d.html">
+    <img class="flex-bottle" src="/images/6d/2d459e-58db-4ea9-86f3-84904e25a98d/2023-09-29-13-10-58-IMG-9464@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Peter Max Pinot Noir - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/81b78110-da6e-41e4-bd77-15a167a19406.html">
+    <img class="flex-bottle" src="/images/81/b78110-da6e-41e4-bd77-15a167a19406/2023-09-29-14-12-34-IMG-9485@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Peter Max Pinot Noir - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9a1f5ee4-41cf-4e39-a47b-943cf047d4d0.html">
+    <img class="flex-bottle" src="/images/9a/1f5ee4-41cf-4e39-a47b-943cf047d4d0/2023-09-29-14-10-51-IMG-9481@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">The Agnes Chardonnay - 2022</section>
   </a>
 
 </div>

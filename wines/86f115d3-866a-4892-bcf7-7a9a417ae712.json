@@ -1,0 +1,35 @@
+{
+  "id": "86f115d3-866a-4892-bcf7-7a9a417ae712",
+  "name": "kaamen II",
+  "full-name": "Vinas Mora kaamen II 2021",
+  "producer": {
+    "id": "266a8eb8-b26b-4c46-9978-ba0f9ed5e8ba",
+    "name": "Vinas Mora"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b1d64d06-a9b2-4686-96fc-92ead72d80ce",
+    "name": "Croatia"
+  },
+  "grapes": [
+    {
+      "id": "f923b95a-35d4-4a87-89aa-e3f36a0f5649",
+      "name": "Babić"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "3.6",
+  "prices": [
+    "1099 UAH",
+    "1390 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/86/f115d3-866a-4892-bcf7-7a9a417ae712/2023-09-28-18-08-56-B3115DCC-2F78-4A01-966F-8B6D8537D232-1-105-c.webp",
+  "rating": "NA"
+}

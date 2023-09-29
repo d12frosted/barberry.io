@@ -1,0 +1,36 @@
+{
+  "id": "eb90e4fa-8716-4076-83de-f4275668a64e",
+  "name": "Pinot Noir Kawarau Cru",
+  "full-name": "Smith & Sneth Pinot Noir Kawarau Cru 2019",
+  "producer": {
+    "id": "06146fa3-89ec-4d1e-b8c2-48e9fdb7a854",
+    "name": "Smith & Sneth"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "d66fda8a-7b51-431d-8e85-704859703711",
+    "name": "New Zealand"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "3.6",
+  "prices": [
+    "1292 UAH",
+    "1390 UAH",
+    "1510 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/eb/90e4fa-8716-4076-83de-f4275668a64e/2023-09-29-12-57-28-IMG-9439.webp",
+  "rating": "NA"
+}

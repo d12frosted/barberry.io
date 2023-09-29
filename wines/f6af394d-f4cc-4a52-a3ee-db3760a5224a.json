@@ -1,0 +1,34 @@
+{
+  "id": "f6af394d-f4cc-4a52-a3ee-db3760a5224a",
+  "name": "Les Vignes de Vrigny 1er Cru (d2022)",
+  "full-name": "Egly-Ouriet Les Vignes de Vrigny 1er Cru (d2022) NV",
+  "producer": {
+    "id": "c889ae32-a1bc-444e-8aef-16826b33a2e4",
+    "name": "Egly-Ouriet"
+  },
+  "vintage": "NV",
+  "base-vintage": "2018",
+  "degorgee": "July 2022",
+  "sur-lie": "36 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "2",
+  "prices": [
+    "3250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f6/af394d-f4cc-4a52-a3ee-db3760a5224a/2023-09-29-12-05-24-20A09475-20F8-4244-9C09-2C23C4DCC065-1-105-c.webp",
+  "rating": "NA"
+}

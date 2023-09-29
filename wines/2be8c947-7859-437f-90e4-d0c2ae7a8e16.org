@@ -1,0 +1,41 @@
+#+attr_html: :class wine-main-image
+[[file:/images/2b/e8c947-7859-437f-90e4-d0c2ae7a8e16/2023-09-29-12-39-21-IMG-9402@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/3b1ca8ee-2c1c-4767-a40c-3f57fa88df23][Els Vinyerons]]
+- Vintage :: 2021
+- Location :: Spain, Cava DO
+- Grapes :: Xarel-lo
+- Alcohol :: 11.5
+- Sugar :: 1
+- Price :: 419 UAH, 450 UAH, 490 UAH
+- Cellar :: 3 bottles
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/06e00ed7-1657-47c4-b7c8-33c9c1dcfbcb.html">
+    <img class="flex-bottle" src="/images/06/e00ed7-1657-47c4-b7c8-33c9c1dcfbcb/2022-07-23-10-52-19-BE0C08BE-6374-4944-B546-D9E32160DCFA-1-105-c@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Saltamartí - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/0fe467a2-56b8-434c-bcb8-c7369bd1167c.html">
+    <img class="flex-bottle" src="/images/0f/e467a2-56b8-434c-bcb8-c7369bd1167c/2022-07-21-07-41-37-03BA8C9A-4B64-4218-8079-508EA546149D-1-105-c@512.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Lluerna - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5eb74aa5-d845-4c05-b8ce-e3a26d02dd60.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Els Vinyerons</section>
+    <section class="h text-bolder">Pregadéu - 2020</section>
+  </a>
+
+</div>
+#+end_export

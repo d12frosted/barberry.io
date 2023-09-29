@@ -7,9 +7,9 @@
     "name": "Pierre Péters"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "N/A",
+  "degorgee": "N/A",
+  "sur-lie": "N/A",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "brut",
@@ -24,11 +24,13 @@
     }
   ],
   "alcohol": "12",
-  "sugar": "NA",
+  "sugar": "6",
   "prices": [
-    "2230 UAH"
+    "2222 UAH",
+    "2390 UAH",
+    "3040 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/5d/e82ca7-aabf-4b38-8b78-1e5b5258de34/2023-09-29-12-16-56-IMG-9372.webp",
   "rating": "NA"
 }

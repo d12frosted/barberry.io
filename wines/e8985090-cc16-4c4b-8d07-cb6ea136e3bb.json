@@ -1,0 +1,48 @@
+{
+  "id": "e8985090-cc16-4c4b-8d07-cb6ea136e3bb",
+  "name": "Barbba",
+  "full-name": "Vinas Mora Barbba 2021",
+  "producer": {
+    "id": "266a8eb8-b26b-4c46-9978-ba0f9ed5e8ba",
+    "name": "Vinas Mora"
+  },
+  "vintage": "2021",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b1d64d06-a9b2-4686-96fc-92ead72d80ce",
+    "name": "Croatia"
+  },
+  "grapes": [
+    {
+      "id": "a1dca9b1-0537-4cad-ada4-ba7f1e32363c",
+      "name": "Plavina"
+    },
+    {
+      "id": "c18d18a2-37fd-455a-b245-ac0a943de3cd",
+      "name": "Lasina"
+    },
+    {
+      "id": "c10867fc-367b-4fc7-b6da-58abf46c5ccb",
+      "name": "Debit"
+    },
+    {
+      "id": "cb0d835b-8bf1-4135-b185-bf9e3c20ad78",
+      "name": "Maraština"
+    }
+  ],
+  "alcohol": "11.5",
+  "sugar": "3.3",
+  "prices": [
+    "642 UAH",
+    "690 UAH",
+    "750 UAH"
+  ],
+  "available": 4.0,
+  "image": "images/e8/985090-cc16-4c4b-8d07-cb6ea136e3bb/2023-09-29-12-17-28-IMG-9376.webp",
+  "rating": "NA"
+}

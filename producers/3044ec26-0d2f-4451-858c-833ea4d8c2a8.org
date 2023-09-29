@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39.html">
+    <img class="flex-bottle" src="/images/d6/9fb26b-4c53-4caf-a03d-c6b515252e39/2023-09-28-18-23-00-73C76357-CA62-4BCF-B685-EB645292CCF5-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Vitovska - 2014</section>
+  </a>
+
+</div>
+#+end_export

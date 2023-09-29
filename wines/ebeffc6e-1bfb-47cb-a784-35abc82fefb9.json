@@ -31,12 +31,12 @@
       "name": "Chardonnay"
     }
   ],
-  "alcohol": "100",
+  "alcohol": "14",
   "sugar": "NA",
   "prices": [
     "1714 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/eb/effc6e-1bfb-47cb-a784-35abc82fefb9/2023-09-29-09-34-12-B4969C91-CB42-4F9B-9869-FEE27D404162-1-105-c.webp",
   "rating": "NA"
 }

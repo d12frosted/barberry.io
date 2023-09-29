@@ -1,0 +1,35 @@
+{
+  "id": "02329960-3897-4820-98a8-bc35dd74033a",
+  "name": "Austral",
+  "full-name": "Clandestin Austral 2019",
+  "producer": {
+    "id": "cf76a82b-17f8-426b-9c68-6ed77f25004a",
+    "name": "Clandestin"
+  },
+  "vintage": "2019",
+  "base-vintage": null,
+  "degorgee": "July 2022",
+  "sur-lie": ">24 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "2750 UAH",
+    "2990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/02/329960-3897-4820-98a8-bc35dd74033a/2023-09-29-13-06-19-IMG-9461.webp",
+  "rating": "NA"
+}

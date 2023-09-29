@@ -48,9 +48,9 @@ Country-wise, this month was more fruitful than the previous, because 13 countri
 #+results: countries-data
 | country      | count | p avg        | r rms |      qpr |
 |--------------+-------+--------------+-------+----------|
-| France       |    17 | 989.70 UAH   |  7.73 |  87.4050 |
+| France       |    17 | 1 002.09 UAH |  7.73 |  82.0235 |
 | Spain        |     9 | 656.55 UAH   |  7.46 | 216.0546 |
-| South Africa |     8 | 972.88 UAH   |  7.90 |  44.1533 |
+| South Africa |     8 | 983.49 UAH   |  7.90 |  43.8626 |
 | Italy        |     8 | 605.45 UAH   |  7.46 |  40.0543 |
 | Australia    |     4 | 638.75 UAH   |  7.02 |   1.8249 |
 | New Zealand  |     3 | 547.26 UAH   |  6.99 |   0.5004 |
@@ -87,14 +87,14 @@ On the other hand, I've tasted several older bottles. The oldest of them is [[ba
 |    2021 |     5 | 389.00 UAH   |  6.99 |   1.4816 |
 |    2020 |    11 | 783.57 UAH   |  7.55 |  27.7116 |
 |    2019 |    14 | 700.90 UAH   |  7.59 |  36.6879 |
-|    2018 |     5 | 776.34 UAH   |  7.75 |  15.5922 |
+|    2018 |     5 | 793.31 UAH   |  7.75 |  14.2189 |
 |    2017 |     7 | 815.48 UAH   |  7.48 |  28.6321 |
 |    2016 |     3 | 763.00 UAH   |  7.04 |   1.0090 |
 |    2015 |     1 | 496.84 UAH   |  7.50 |   2.3382 |
 |    2013 |     1 | 890.00 UAH   |  8.00 |  10.6485 |
 |    2011 |     1 | 1 000.00 UAH |  8.00 |   9.4772 |
 |    2009 |     1 | 1 649.24 UAH |  9.00 | 648.0658 |
-|    2006 |     1 | 3 039.81 UAH |  9.00 | 351.6069 |
+|    2006 |     1 | 3 250.39 UAH |  9.00 | 328.8270 |
 |      NV |     9 | 672.15 UAH   |  7.30 |   7.2137 |
 
 #+name: vintages-data
@@ -117,9 +117,9 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 #+results: grapes-data
 | grape                        | count | p avg        | r rms |      qpr |
 |------------------------------+-------+--------------+-------+----------|
-| Chardonnay                   |    13 | 842.96 UAH   |  7.53 |  97.7157 |
+| Chardonnay                   |    13 | 859.16 UAH   |  7.53 |  91.4114 |
 | Sauvignon Blanc              |     9 | 546.49 UAH   |  7.37 |   2.5526 |
-| Pinot Noir                   |     9 | 1 201.46 UAH |  7.94 | 120.7828 |
+| Pinot Noir                   |     9 | 1 234.29 UAH |  7.94 | 113.3292 |
 | Chenin Blanc                 |     8 | 782.58 UAH   |  7.53 |  36.8173 |
 | Macabeo                      |     7 | 661.57 UAH   |  7.58 | 244.9818 |
 | Cabernet Sauvignon           |     4 | 741.00 UAH   |  7.09 |   0.9312 |
@@ -141,7 +141,7 @@ In total, I rated wines made of 40 distinct grapes. I am happy that this list in
 | Welschriesling               |     1 | 455.00 UAH   |  7.00 |   0.3732 |
 | Malagousia                   |     1 | 360.00 UAH   |  7.25 |   1.2069 |
 | Garganega                    |     1 | 600.00 UAH   |  7.00 |   0.2830 |
-| Pinot Meunier                |     1 | 3 039.81 UAH |  9.00 | 351.6069 |
+| Pinot Meunier                |     1 | 3 250.39 UAH |  9.00 | 328.8270 |
 | Manzoni Bianco               |     1 | 442.27 UAH   |  7.50 |   2.6267 |
 | Torrontés                    |     1 | 598.00 UAH   |  7.50 |   1.9427 |
 | Lado                         |     1 | 598.00 UAH   |  7.50 |   1.9427 |
@@ -190,7 +190,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 |       date | country      | producer                       | name                                                                       | vintage | rate |      QPR |
 |------------+--------------+--------------------------------+----------------------------------------------------------------------------+---------+------+----------|
 | 2022-06-30 | France       | [[barberry:/producers/97bee62d-6e14-4f79-a95d-37893c50a84e][Marc Hebrart]]                   | [[barberry:/wines/49d883c7-bd45-4447-8500-8ed807cc8afe][Marc Hebrart Premier Cru Blanc de Blancs Brut L539/2021.03.16 NV]]           |      NV | 8.00 |   7.1797 |
-| 2022-06-29 | South Africa | [[barberry:/producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53][Crystallum]]                     | [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Crystallum Peter Max Pinot Noir 2018]]                                       |    2018 | 8.25 |  34.2593 |
+| 2022-06-29 | South Africa | [[barberry:/producers/6eacd899-d7a5-4ee2-a135-b8a48e4a3d53][Crystallum]]                     | [[barberry:/wines/bf9ca0ae-be5a-4d12-aefd-278699e1118e][Crystallum Peter Max Pinot Noir 2018]]                                       |    2018 | 8.25 |  31.1287 |
 | 2022-06-29 | Italy        | [[barberry:/producers/0f85ea24-dde5-4bfa-abf4-ec940895a2e2][Borgo Conventi]]                 | [[barberry:/wines/b24c31f5-afdf-4ff6-9adc-d10716f59f51][Borgo Conventi Refosco dal Peduncolo Rosso 2019]]                            |    2019 | 7.50 |   2.1452 |
 | 2022-06-28 | Australia    | [[barberry:/producers/e73a711d-d8ce-41e7-8f6e-58728a674bb2][Jacob's Creek]]                  | [[barberry:/wines/20d59f9a-394a-4b90-840e-bf7ab45a833b][Jacob's Creek Classic Cabernet Sauvignon 2016]]                              |    2016 | 6.00 |   0.0154 |
 | 2022-06-28 | Italy        | [[barberry:/producers/0ff20e4a-b84c-48dc-b592-5d7619ba7f28][Illuminati]]                     | [[barberry:/wines/6a0691b6-3827-41fd-8bc8-91393b12503d][Illuminati Costalupo 2021]]                                                  |    2021 | 6.50 |   0.1333 |
@@ -225,7 +225,7 @@ The outcasts of this month are those that disappointed me. I mean, there are win
 | 2022-06-11 | Italy        | [[barberry:/producers/a763ca4c-b855-42cb-9efb-ec6f1aca93c5][Zeni]]                           | [[barberry:/wines/03170f33-3d42-4f60-b861-dd4fa7c24c8b][Zeni Garganega Veronesse Vigne Alte 2020]]                                   |    2020 | 7.00 |   0.2830 |
 | 2022-06-10 | New Zealand  | [[barberry:/producers/bbf317e6-cd8f-46cf-8b2b-dd8a45b8518c][Spy Valley]]                     | [[barberry:/wines/7652700d-3edc-46fa-8e74-624826b23830][Spy Valley Satellite Sauvignon Blanc 2021]]                                  |    2021 | 6.50 |   0.0940 |
 | 2022-06-10 | Spain        | [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]            | [[barberry:/wines/d80bf3be-6a53-45ae-97d9-11bb03df727b][R. López de Heredia Viña Gravonia Blanco Crianza 2013]]                      |    2013 | 8.00 |  10.6485 |
-| 2022-06-10 | France       | [[barberry:/producers/95f34fc8-044c-453a-bca7-62e7128ff998][Francoise Bedel]]                | [[barberry:/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e][Francoise Bedel L'Âme de la Terre Millésime 2006]]                           |    2006 | 9.00 | 351.6069 |
+| 2022-06-10 | France       | [[barberry:/producers/95f34fc8-044c-453a-bca7-62e7128ff998][Francoise Bedel]]                | [[barberry:/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e][Francoise Bedel L'Âme de la Terre Millésime 2006]]                           |    2006 | 9.00 | 328.8270 |
 | 2022-06-10 | Australia    | [[barberry:/producers/7d56e606-ec79-40e4-a24a-9542ff08f1c3][Lucy Margaux]]                   | [[barberry:/wines/25826ae6-7e73-42f5-b2d3-5ce86b81b56b][Lucy Margaux Le Sauvignon Sensuel 2020]]                                     |    2020 | 7.75 |   3.5320 |
 | 2022-06-10 | Israel       | [[barberry:/producers/6af33cac-4d40-4a63-9799-597578b5cb1c][Golan Heights Winery]]           | [[barberry:/wines/558ec6f4-6d6c-4099-ad54-d55ad3099682][Golan Heights Winery Mount Hermon White 2019]]                               |    2019 | 7.50 |   2.7560 |
 | 2022-06-08 | Italy        | [[barberry:/producers/4e3f26f8-df0f-4164-bfcc-6a83bb1a9bae][Foradori]]                       | [[barberry:/wines/11a8ed67-b0a6-46fb-a449-835d782e6a0e][Foradori Fontanasanta Manzoni Bianco 2019]]                                  |    2019 | 7.50 |   2.6267 |

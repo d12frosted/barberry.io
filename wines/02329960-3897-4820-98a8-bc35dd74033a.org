@@ -1,0 +1,43 @@
+#+attr_html: :class wine-main-image
+[[file:/images/02/329960-3897-4820-98a8-bc35dd74033a/2023-09-29-13-06-19-IMG-9461@512.webp]]
+
+- Type :: White Sparkling, Brut nature
+- Producer :: [[barberry:/producers/cf76a82b-17f8-426b-9c68-6ed77f25004a][Clandestin]]
+- Vintage :: 2019
+- Disgorged in :: July 2022
+- Spent on lees :: >24 months
+- Location :: France, Champagne AOC
+- Grapes :: Pinot Noir
+- Alcohol :: 12
+- Sugar :: 0
+- Price :: 2750 UAH, 2990 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/428256b6-c8fd-4f24-8826-2bf5578e0a31.html">
+    <img class="flex-bottle" src="/images/42/8256b6-c8fd-4f24-8826-2bf5578e0a31/2023-09-29-12-41-23-IMG-9408@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Boréal - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/5f4dd717-3618-41ad-9c68-ba702f2a4701.html">
+    <img class="flex-bottle" src="/images/5f/4dd717-3618-41ad-9c68-ba702f2a4701/2023-07-10-08-37-47-43F9B065-F543-4F16-919F-778B76DAA988-1-105-c@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Les Revers - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d7513051-c24a-4ea7-a163-1946bb321402.html">
+    <img class="flex-bottle" src="/images/d7/513051-c24a-4ea7-a163-1946bb321402/2023-06-19-15-33-56-IMG-7830@512.webp"></img>
+    <section class="h">Clandestin</section>
+    <section class="h text-bolder">Les Semblables Austral - 2019</section>
+  </a>
+
+</div>
+#+end_export

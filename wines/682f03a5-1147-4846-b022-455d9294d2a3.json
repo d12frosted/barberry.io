@@ -1,0 +1,42 @@
+{
+  "id": "682f03a5-1147-4846-b022-455d9294d2a3",
+  "name": "Collio",
+  "full-name": "Edi Keber Collio 2018",
+  "producer": {
+    "id": "6ff156b5-1d72-4b78-95a0-8ff81ad089ef",
+    "name": "Edi Keber"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "b2b018bb-997c-4dbb-a125-9fc4d87872c4",
+      "name": "Tocai Friulano"
+    },
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    },
+    {
+      "id": "ec01c3c8-f3cf-467c-a612-e15b9098a132",
+      "name": "Malvasia di Candia Aromatica"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "1.7",
+  "prices": [
+    "1890 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/68/2f03a5-1147-4846-b022-455d9294d2a3/2023-09-29-09-33-37-AA3DE025-7998-445A-8734-2F9BC84D7DC1-1-105-c.webp",
+  "rating": "NA"
+}

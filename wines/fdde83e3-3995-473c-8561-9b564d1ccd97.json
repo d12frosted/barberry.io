@@ -1,0 +1,36 @@
+{
+  "id": "fdde83e3-3995-473c-8561-9b564d1ccd97",
+  "name": "Ondarre Valdebarón Blanco",
+  "full-name": "Bodegas Olarra Ondarre Valdebarón Blanco 2022",
+  "producer": {
+    "id": "898c51d1-e204-4395-89d9-be79c134a593",
+    "name": "Bodegas Olarra"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "b85ebb3c-4a6e-4f58-9594-f5f2a987fc98",
+    "name": "Spain"
+  },
+  "grapes": [
+    {
+      "id": "a4f3cde6-c5cc-4237-823c-40b23a541ada",
+      "name": "Tempranillo Blanco"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "4",
+  "prices": [
+    "275 UAH",
+    "295 UAH",
+    "320 UAH"
+  ],
+  "available": 3.0,
+  "image": "images/fd/de83e3-3995-473c-8561-9b564d1ccd97/2023-09-29-12-45-04-IMG-9418.webp",
+  "rating": "NA"
+}

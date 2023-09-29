@@ -1,0 +1,36 @@
+{
+  "id": "12323b84-84ba-40eb-ab77-f960dbd47939",
+  "name": "Bag of Bones",
+  "full-name": "Momento Mori Bag of Bones 2022",
+  "producer": {
+    "id": "7ad98ad5-fc54-45ee-ad48-26f2fab01cbc",
+    "name": "Momento Mori"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "28c02d55-066f-46e9-a6f3-1b80eac5fa49",
+    "name": "Australia"
+  },
+  "grapes": [
+    {
+      "id": "65b8a8fc-42fd-4515-9a4f-361bef2e2d68",
+      "name": "Field Blend"
+    }
+  ],
+  "alcohol": "4.7",
+  "sugar": "0",
+  "prices": [
+    "929 UAH",
+    "999 UAH",
+    "1085 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/12/323b84-84ba-40eb-ab77-f960dbd47939/2023-09-29-13-03-20-IMG-9457.webp",
+  "rating": "NA"
+}

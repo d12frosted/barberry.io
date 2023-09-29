@@ -1,0 +1,35 @@
+{
+  "id": "f395e0fd-89ea-47bb-9470-3ee79fdc4524",
+  "name": "not",
+  "full-name": "Paraschos not 2017",
+  "producer": {
+    "id": "4990cbce-1f44-4948-a8c0-4796e332da93",
+    "name": "Paraschos"
+  },
+  "vintage": "2017",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "1172 UAH",
+    "1288 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f3/95e0fd-89ea-47bb-9470-3ee79fdc4524/2023-09-28-18-31-01-CE5E0994-EBC9-49CA-93B3-D38BB2FB82A3-1-105-c.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/7345626e-553d-4d66-9a9d-20531fdfff56.html">
+    <img class="flex-bottle" src="/images/73/45626e-553d-4d66-9a9d-20531fdfff56/2023-09-29-09-35-53-C9290352-05FA-41DD-A413-9B345A934344-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Ribolla Gialla - 2012</section>
+  </a>
+
+</div>
+#+end_export

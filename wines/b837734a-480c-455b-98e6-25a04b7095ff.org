@@ -53,25 +53,31 @@ Opened too soon. Yet beautiful bouquet of red flowers, strawberries turning into
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
+  <a class="flex-item flex-item-left" href="/wines/6cab31ae-3668-43ed-a678-4581bedfb23b.html">
+    <img class="flex-bottle" src="/images/6c/ab31ae-3668-43ed-a678-4581bedfb23b/2023-09-29-12-51-50-IMG-9422@512.webp"></img>
+    <section class="h">Storm</section>
+    <section class="h text-bolder">Ridge Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
     <img class="flex-bottle" src="/images/81/7f34e2-6083-474d-8458-452569fdbf8a/2023-06-20-17-53-28-IMG-7880@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Ridge Chardonnay - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+  <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2023-06-20-17-53-07-IMG-7881@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
+  <a class="flex-item flex-item-right" href="/wines/2b454e2e-09a0-4b48-88d9-36a8f4d759eb.html">
     <img class="flex-bottle" src="/images/2b/454e2e-09a0-4b48-88d9-36a8f4d759eb/2022-06-12-08-55-47-65958D78-F69B-4B4A-9FBF-C19B39AFFE42-1-105-c@512.webp"></img>
     <section class="h">Clos du Tue-Boeuf</section>
     <section class="h text-bolder">Vin Blanc - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
+  <a class="flex-item flex-item-left" href="/wines/fd6559f6-41c5-4a3e-9de1-c88144358ccd.html">
     <img class="flex-bottle" src="/images/fd/6559f6-41c5-4a3e-9de1-c88144358ccd/2021-12-17-18-41-04-8EF13DCB-AFE5-495C-A22E-D65495A07EE8-1-105-c@512.webp"></img>
     <section class="h">Chateau Laffitte Carcasset</section>
     <section class="h text-bolder">Saint-Estephe Cru Bourgeois - 2016</section>

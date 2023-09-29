@@ -45,19 +45,25 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <section class="h text-bolder">Vrede Pinot Noir - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
+  <a class="flex-item flex-item-right" href="/wines/6cab31ae-3668-43ed-a678-4581bedfb23b.html">
+    <img class="flex-bottle" src="/images/6c/ab31ae-3668-43ed-a678-4581bedfb23b/2023-09-29-12-51-50-IMG-9422@512.webp"></img>
+    <section class="h">Storm</section>
+    <section class="h text-bolder">Ridge Pinot Noir - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/817f34e2-6083-474d-8458-452569fdbf8a.html">
     <img class="flex-bottle" src="/images/81/7f34e2-6083-474d-8458-452569fdbf8a/2023-06-20-17-53-28-IMG-7880@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Ridge Chardonnay - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
+  <a class="flex-item flex-item-right" href="/wines/967d2311-5188-4cdb-ac6a-6ec94c6e40e0.html">
     <img class="flex-bottle" src="/images/96/7d2311-5188-4cdb-ac6a-6ec94c6e40e0/2023-06-20-17-53-07-IMG-7881@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Ridge Pinot Noir - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
+  <a class="flex-item flex-item-left" href="/wines/b837734a-480c-455b-98e6-25a04b7095ff.html">
     <img class="flex-bottle" src="/images/b8/37734a-480c-455b-98e6-25a04b7095ff/2022-01-16-15-31-31-3BB66076-9580-4D30-A39F-471A3678D196-1-105-c@512.webp"></img>
     <section class="h">Storm</section>
     <section class="h text-bolder">Vrede Pinot Noir - 2019</section>

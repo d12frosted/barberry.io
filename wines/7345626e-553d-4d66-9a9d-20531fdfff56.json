@@ -1,0 +1,34 @@
+{
+  "id": "7345626e-553d-4d66-9a9d-20531fdfff56",
+  "name": "Ribolla Gialla",
+  "full-name": "Terpin Ribolla Gialla 2012",
+  "producer": {
+    "id": "28ad9e2d-b0c4-4f1b-b23c-a0065c654111",
+    "name": "Terpin"
+  },
+  "vintage": "2012",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "c7bcb473-8d27-4402-8fcc-ef78a8086f60",
+      "name": "Ribolla Gialla"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/73/45626e-553d-4d66-9a9d-20531fdfff56/2023-09-29-09-35-53-C9290352-05FA-41DD-A413-9B345A934344-1-105-c.webp",
+  "rating": "NA"
+}

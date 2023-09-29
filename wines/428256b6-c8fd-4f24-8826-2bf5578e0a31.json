@@ -1,0 +1,36 @@
+{
+  "id": "428256b6-c8fd-4f24-8826-2bf5578e0a31",
+  "name": "Boréal",
+  "full-name": "Clandestin Boréal 2020",
+  "producer": {
+    "id": "cf76a82b-17f8-426b-9c68-6ed77f25004a",
+    "name": "Clandestin"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": "July 2022",
+  "sur-lie": "~18 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut-nature",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "0",
+  "prices": [
+    "2387 UAH",
+    "2566 UAH",
+    "2790 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/42/8256b6-c8fd-4f24-8826-2bf5578e0a31/2023-09-29-12-41-23-IMG-9408.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d69fb26b-4c53-4caf-a03d-c6b515252e39",
+  "name": "Vitovska",
+  "full-name": "Vodopivec Vitovska 2014",
+  "producer": {
+    "id": "3044ec26-0d2f-4451-858c-833ea4d8c2a8",
+    "name": "Vodopivec"
+  },
+  "vintage": "2014",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "947f03f5-d565-4af9-8a99-8adbaa2897b2",
+      "name": "Vitovska"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.4",
+  "prices": [
+    "3300 UAH",
+    "1359 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/d6/9fb26b-4c53-4caf-a03d-c6b515252e39/2023-09-28-18-23-00-73C76357-CA62-4BCF-B685-EB645292CCF5-1-105-c.webp",
+  "rating": "NA"
+}

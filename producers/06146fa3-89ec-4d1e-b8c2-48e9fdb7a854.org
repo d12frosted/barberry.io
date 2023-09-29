@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/eb90e4fa-8716-4076-83de-f4275668a64e.html">
+    <img class="flex-bottle" src="/images/eb/90e4fa-8716-4076-83de-f4275668a64e/2023-09-29-12-57-28-IMG-9439@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pinot Noir Kawarau Cru - 2019</section>
+  </a>
+
+</div>
+#+end_export

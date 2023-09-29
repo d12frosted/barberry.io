@@ -1,0 +1,36 @@
+{
+  "id": "2556c689-2387-4e50-8ee7-1f5dca951d3a",
+  "name": "Ferrum Chardonnay",
+  "full-name": "Crystallum Ferrum Chardonnay 2020",
+  "producer": {
+    "id": "6eacd899-d7a5-4ee2-a135-b8a48e4a3d53",
+    "name": "Crystallum"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "2.3",
+  "prices": [
+    "1120 UAH",
+    "1290 UAH",
+    "1390 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/25/56c689-2387-4e50-8ee7-1f5dca951d3a/2023-09-29-12-58-48-IMG-9443.webp",
+  "rating": "NA"
+}

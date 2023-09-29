@@ -4,10 +4,12 @@
 - Type :: White Sparkling, Extra brut
 - Producer :: [[barberry:/producers/7e19d0e5-c26c-4a0e-84be-5261974e6e83][Robert Moncuit]]
 - Vintage :: 2011
+- Disgorged in :: [2017-12-20 Wed]
+- Spent on lees :: ~66 months
 - Location :: France, Champagne AOC
 - Grapes :: Chardonnay
 - Alcohol :: 12
-- Sugar :: 3
+- Sugar :: 4
 - Price :: 2950 UAH
 - Cellar :: N/A
 
@@ -23,31 +25,37 @@ P.S. We paired this wine with duck! Now you have to live with this information.
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/ea15e397-8149-405d-992d-63878cb0cebf.html">
+  <a class="flex-item flex-item-left" href="/wines/1a076db2-f68b-4a81-a539-35ec493ec32d.html">
+    <img class="flex-bottle" src="/images/1a/076db2-f68b-4a81-a539-35ec493ec32d/2023-09-29-12-15-20-IMG-9368@512.webp"></img>
+    <section class="h">Robert Moncuit</section>
+    <section class="h text-bolder">Les Vozémieux Blanc de Blancs Grand Cru - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ea15e397-8149-405d-992d-63878cb0cebf.html">
     <img class="flex-bottle" src="/images/ea/15e397-8149-405d-992d-63878cb0cebf/2020-07-15-20-11-42-02DD7173-A487-4EB4-8D05-83FAD82D0BC7-1-105-c@512.webp"></img>
     <section class="h">Robert Moncuit</section>
     <section class="h text-bolder">Les Grands Blancs Grand Cru - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
+  <a class="flex-item flex-item-left" href="/wines/070e8a7b-c212-458b-a737-c9ba893150dc.html">
     <img class="flex-bottle" src="/images/07/0e8a7b-c212-458b-a737-c9ba893150dc/2022-11-25-16-44-23-IMG-3388@512.webp"></img>
     <section class="h">Gulfi</section>
     <section class="h text-bolder">Carjcanti - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
+  <a class="flex-item flex-item-right" href="/wines/18b25558-fb0a-4c3f-9f8b-965d99cc608d.html">
     <img class="flex-bottle" src="/images/18/b25558-fb0a-4c3f-9f8b-965d99cc608d/2021-07-13-06-56-10-15F958D7-31A7-4F43-A025-629FC982D16E-1-105-c@512.webp"></img>
     <section class="h">Deutz</section>
     <section class="h text-bolder">Amour de Deutz - 2009</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
+  <a class="flex-item flex-item-left" href="/wines/5bbe113e-ee67-4763-b930-e4755c56d439.html">
     <img class="flex-bottle" src="/images/5b/be113e-ee67-4763-b930-e4755c56d439/2021-07-13-07-13-46-29BFDBED-1E31-482A-A1E4-4F5098A56F13-1-105-c@512.webp"></img>
     <section class="h">Pierre Gimonnet & Fils</section>
     <section class="h text-bolder">Brut Nature 1er Cru Blanc de Blancs Oenophile Non Dosé - 2010</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
+  <a class="flex-item flex-item-right" href="/wines/bef62097-f916-4554-a591-42c380412d7b.html">
     <img class="flex-bottle" src="/images/be/f62097-f916-4554-a591-42c380412d7b/2022-06-12-17-26-17-DB344229-734B-4E76-802C-8DF449990F0C@512.webp"></img>
     <section class="h">Marc Hebrart</section>
     <section class="h text-bolder">Premier Cru Blanc de Blancs Brut L539/2020.09.15 - NV</section>

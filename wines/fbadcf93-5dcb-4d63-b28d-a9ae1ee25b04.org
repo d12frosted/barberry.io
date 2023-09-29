@@ -45,5 +45,11 @@ Consistently good with every vintage I tasted so far. Friendly nose, a mixture o
     <section class="h text-bolder">Ondarre Valdebarón Blanco - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/fdde83e3-3995-473c-8561-9b564d1ccd97.html">
+    <img class="flex-bottle" src="/images/fd/de83e3-3995-473c-8561-9b564d1ccd97/2023-09-29-12-45-04-IMG-9418@512.webp"></img>
+    <section class="h">Bodegas Olarra</section>
+    <section class="h text-bolder">Ondarre Valdebarón Blanco - 2022</section>
+  </a>
+
 </div>
 #+end_export

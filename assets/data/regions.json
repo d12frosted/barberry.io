@@ -960,6 +960,15 @@
     }
   },
   {
+    "id": "17553ef1-eced-4493-8064-fa256a44c149",
+    "name": "WO Hemel-en-Aarde Ridge",
+    "type": "appellation",
+    "country": {
+      "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+      "name": "South Africa"
+    }
+  },
+  {
     "id": "176d0675-1af4-4141-a1ac-e5ce37ef1e89",
     "name": "Barrancas",
     "type": "region",
@@ -1470,6 +1479,15 @@
     "country": {
       "id": "97bdfb8f-f2e1-4999-a342-8915755f37f8",
       "name": "Greece"
+    }
+  },
+  {
+    "id": "23b81f36-b382-4834-8a65-8317bdfa03c1",
+    "name": "Primošten",
+    "type": "region",
+    "country": {
+      "id": "b1d64d06-a9b2-4686-96fc-92ead72d80ce",
+      "name": "Croatia"
     }
   },
   {
@@ -4746,6 +4764,15 @@
     "region": {
       "id": "57706daf-335f-4fa6-b08a-7834b4a4355b",
       "name": "Molise"
+    }
+  },
+  {
+    "id": "83c39cee-bd64-40c4-84b4-c47ad21f90ad",
+    "name": "WO Upper Hemel-en-Aarde Valley",
+    "type": "appellation",
+    "country": {
+      "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+      "name": "South Africa"
     }
   },
   {

@@ -23,16 +23,28 @@ Less skin contact than in the previous vintage. Is it good? Is it bad? It's a ma
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
+  <a class="flex-item flex-item-left" href="/wines/12323b84-84ba-40eb-ab77-f960dbd47939.html">
+    <img class="flex-bottle" src="/images/12/323b84-84ba-40eb-ab77-f960dbd47939/2023-09-29-13-03-20-IMG-9457@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Bag of Bones - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/26122f9f-12ba-42ba-8d22-4f96de40fbd9.html">
     <img class="flex-bottle" src="/images/26/122f9f-12ba-42ba-8d22-4f96de40fbd9/2021-07-14-08-45-53-83D900BD-3859-46A3-A629-FC5BCEEB7D6F-1-105-c@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Cardinia Rangers Rosé - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
+  <a class="flex-item flex-item-left" href="/wines/7d23e9f5-b78b-4892-9dd6-9f42b43c6817.html">
     <img class="flex-bottle" src="/images/7d/23e9f5-b78b-4892-9dd6-9f42b43c6817/2022-07-12-21-12-34-IMG-0738@512.webp"></img>
     <section class="h">Momento Mori</section>
     <section class="h text-bolder">Fistful of Flowers - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9183a551-a33f-497d-861c-8949d97507cb.html">
+    <img class="flex-bottle" src="/images/91/83a551-a33f-497d-861c-8949d97507cb/2023-09-29-13-02-14-IMG-9454@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Rosso - 2020</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/9c98f1c3-0866-4cd9-9c0d-7a43fd269943.html">

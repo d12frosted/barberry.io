@@ -47,19 +47,25 @@ Tasted as part of Na Uzbičči event.
     <section class="h text-bolder">Savigny-lès-Beaune - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9a397c29-f2e6-484f-a732-457c18f5280c.html">
+  <a class="flex-item flex-item-left" href="/wines/72cb856c-35c8-4954-84c0-de5cacbf0b72.html">
+    <img class="flex-bottle" src="/images/72/cb856c-35c8-4954-84c0-de5cacbf0b72/2023-09-29-12-43-54-IMG-9411@512.webp"></img>
+    <section class="h">Chandon de Briailles</section>
+    <section class="h text-bolder">Savigny les Beaune Aux Fournaux - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9a397c29-f2e6-484f-a732-457c18f5280c.html">
     <img class="flex-bottle" src="/images/9a/397c29-f2e6-484f-a732-457c18f5280c/2023-07-02-14-14-04-IMG-8069@512.webp"></img>
     <section class="h">Chandon de Briailles</section>
     <section class="h text-bolder">Savigny-lès-Beaune 1er cru Les Lavières - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
+  <a class="flex-item flex-item-left" href="/wines/f293f011-ada9-4499-9164-39ee7d749628.html">
     <img class="flex-bottle" src="/images/f2/93f011-ada9-4499-9164-39ee7d749628/2022-11-19-11-04-12-8BF90943-3964-46D7-A152-544CB24C74B3-1-105-c@512.webp"></img>
     <section class="h">Chandon de Briailles</section>
     <section class="h text-bolder">Pernand-Vergelesses 1er Cru Les Vergelesses - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
+  <a class="flex-item flex-item-right" href="/wines/edc0e148-49bc-463f-bbfe-bc4e7eaa708d.html">
     <img class="flex-bottle" src="/images/ed/c0e148-49bc-463f-bbfe-bc4e7eaa708d/2022-12-10-12-02-45-IMG-3697@512.webp"></img>
     <section class="h">Domaine de La Borde</section>
     <section class="h text-bolder">Pinostradamus Pinot Noir - 2018</section>

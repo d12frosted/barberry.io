@@ -8,8 +8,8 @@
 - Grapes :: Pinot Gris
 - Alcohol :: 14
 - Sugar :: NA
-- Price :: 2806 UAH
-- Cellar :: N/A
+- Price :: 2552 UAH, 2806 UAH
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -24,7 +24,7 @@ Shock and excitement aside. This wine is delicious. Not very complex but a charm
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/739a8111-5c22-4b81-a3d6-b833be6a0219.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/73/9a8111-5c22-4b81-a3d6-b833be6a0219/2023-09-29-09-30-17-CE5E0994-EBC9-49CA-93B3-D38BB2FB82A3-1-105-c@512.webp"></img>
     <section class="h">Paraschos</section>
     <section class="h text-bolder">not - 2017</section>
   </a>
@@ -41,50 +41,56 @@ Shock and excitement aside. This wine is delicious. Not very complex but a charm
     <section class="h text-bolder">ponka - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
+  <a class="flex-item flex-item-right" href="/wines/f395e0fd-89ea-47bb-9470-3ee79fdc4524.html">
+    <img class="flex-bottle" src="/images/f3/95e0fd-89ea-47bb-9470-3ee79fdc4524/2023-09-28-18-31-01-CE5E0994-EBC9-49CA-93B3-D38BB2FB82A3-1-105-c@512.webp"></img>
+    <section class="h">Paraschos</section>
+    <section class="h text-bolder">not - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/178219e6-ed16-4c47-8a79-5a02a72cabea.html">
     <img class="flex-bottle" src="/images/17/8219e6-ed16-4c47-8a79-5a02a72cabea/2023-05-24-16-47-40-IMG-7177@512.webp"></img>
     <section class="h">Andre et Mireille Tissot</section>
     <section class="h text-bolder">Traminer - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/4404c132-25a8-4b7c-b625-4dd7a6ef7919.html">
+  <a class="flex-item flex-item-right" href="/wines/4404c132-25a8-4b7c-b625-4dd7a6ef7919.html">
     <img class="flex-bottle" src="/images/44/04c132-25a8-4b7c-b625-4dd7a6ef7919/2023-07-15-12-14-05-IMG-8476@512.webp"></img>
     <section class="h">Matassa</section>
     <section class="h text-bolder">Cuvée Alexandria - 2022</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/52815cf9-18ad-4ea9-b7c4-d84930e152c8.html">
+  <a class="flex-item flex-item-left" href="/wines/52815cf9-18ad-4ea9-b7c4-d84930e152c8.html">
     <img class="flex-bottle" src="/images/52/815cf9-18ad-4ea9-b7c4-d84930e152c8/2023-07-13-11-03-15-597820FD-C72D-44E8-B547-94A19744F544-1-105-c@512.webp"></img>
     <section class="h">Fontanassa</section>
     <section class="h text-bolder">Testematte - 2001</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/807634e1-5872-48b4-8409-8c84f34a5465.html">
+  <a class="flex-item flex-item-right" href="/wines/807634e1-5872-48b4-8409-8c84f34a5465.html">
     <img class="flex-bottle" src="/images/80/7634e1-5872-48b4-8409-8c84f34a5465/2023-07-13-10-58-05-C280D9B5-2E42-4602-BBDA-D209D4035EB2-1-105-c@512.webp"></img>
     <section class="h">Bressan</section>
     <section class="h text-bolder">Schioppettino - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/8465606a-a93d-4081-924d-1c8f424c34db.html">
+  <a class="flex-item flex-item-left" href="/wines/8465606a-a93d-4081-924d-1c8f424c34db.html">
     <img class="flex-bottle" src="/images/84/65606a-a93d-4081-924d-1c8f424c34db/2023-07-13-10-59-23-F082ED66-9C17-4179-A3DF-082B7E527A65-1-105-c@512.webp"></img>
     <section class="h">Bressan</section>
     <section class="h text-bolder">Ego Rosso - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/c895dd93-47f0-4f68-b56d-fc72b474cdf6.html">
+  <a class="flex-item flex-item-right" href="/wines/c895dd93-47f0-4f68-b56d-fc72b474cdf6.html">
     <img class="flex-bottle" src="/images/c8/95dd93-47f0-4f68-b56d-fc72b474cdf6/2023-07-13-10-57-02-1E84BEA6-CDB1-4E57-A180-414D20E7026F-1-105-c@512.webp"></img>
     <section class="h">Bressan</section>
     <section class="h text-bolder">Pinot Nero - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
+  <a class="flex-item flex-item-left" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
     <img class="flex-bottle" src="/images/cd/f40888-c2da-4f03-8017-7b0bb23b2aac/2023-07-13-08-52-30-B1E23EFB-10CE-4AE9-8919-46D21DB7AD9B-1-105-c@512.webp"></img>
     <section class="h">Bressan</section>
     <section class="h text-bolder">Grigio in Grigio - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
-    <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-07-13-11-00-21-C302CBF7-77DA-49E2-A446-70F1846F6D14-1-105-c@512.webp"></img>
+  <a class="flex-item flex-item-right" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
+    <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-09-29-09-34-40-F1D49D3B-1DB9-42ED-BC3F-BF0D4FA3C59C-1-105-c@512.webp"></img>
     <section class="h">Dario Prinčič</section>
     <section class="h text-bolder">Merlot - 2007</section>
   </a>
