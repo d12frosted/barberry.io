@@ -107,22 +107,34 @@ This is going to be more opinionated than I'd love to admit, but I enjoy this wi
     <section class="h text-bolder">not - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2023-09-29-12-31-49-IMG-9397@512.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39.html">
     <img class="flex-bottle" src="/images/d6/9fb26b-4c53-4caf-a03d-c6b515252e39/2023-09-28-18-23-00-73C76357-CA62-4BCF-B685-EB645292CCF5-1-105-c@512.webp"></img>
     <section class="h">Vodopivec</section>
     <section class="h text-bolder">Vitovska - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ebeffc6e-1bfb-47cb-a784-35abc82fefb9.html">
+  <a class="flex-item flex-item-left" href="/wines/ebeffc6e-1bfb-47cb-a784-35abc82fefb9.html">
     <img class="flex-bottle" src="/images/eb/effc6e-1bfb-47cb-a784-35abc82fefb9/2023-09-29-09-34-12-B4969C91-CB42-4F9B-9869-FEE27D404162-1-105-c@512.webp"></img>
     <section class="h">Dario Prinčič</section>
     <section class="h text-bolder">Bianco Trebež - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824.html">
+  <a class="flex-item flex-item-right" href="/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824.html">
     <img class="flex-bottle" src="/images/ed/7ca409-72db-4153-a0f4-8a01dbbc7824/2023-09-29-10-22-16-9C87CA5D-A308-4A5C-8CEE-08135F30BB79-1-105-c@512.webp"></img>
     <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f6af394d-f4cc-4a52-a3ee-db3760a5224a.html">
+    <img class="flex-bottle" src="/images/f6/af394d-f4cc-4a52-a3ee-db3760a5224a/2023-09-29-12-05-24-20A09475-20F8-4244-9C09-2C23C4DCC065-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Les Vignes de Vrigny 1er Cru (d2022) - NV</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">

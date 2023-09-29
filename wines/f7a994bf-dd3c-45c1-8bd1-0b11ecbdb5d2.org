@@ -119,28 +119,40 @@ Lovely Merlot at a great age. A developed and charming bouquet of chocolate, cof
     <section class="h text-bolder">Pinot Nero - 2015</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/cae4a524-5ede-478f-8444-319c156db522.html">
+  <a class="flex-item flex-item-left" href="/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e.html">
+    <img class="flex-bottle" src="/images/ca/7dc126-0ea4-4245-93db-f07a87301a7e/2023-09-29-12-31-49-IMG-9397@512.webp"></img>
+    <section class="h">Francoise Bedel</section>
+    <section class="h text-bolder">L'Âme de la Terre Millésime - 2006</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/cae4a524-5ede-478f-8444-319c156db522.html">
     <img class="flex-bottle" src="/images/ca/e4a524-5ede-478f-8444-319c156db522/2023-07-13-08-50-45-0F0A10A1-FC22-4577-9205-6CCA0F4DD028-1-105-c@512.webp"></img>
     <section class="h">Paraschos</section>
     <section class="h text-bolder">ponka - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
+  <a class="flex-item flex-item-left" href="/wines/cdf40888-c2da-4f03-8017-7b0bb23b2aac.html">
     <img class="flex-bottle" src="/images/cd/f40888-c2da-4f03-8017-7b0bb23b2aac/2023-07-13-08-52-30-B1E23EFB-10CE-4AE9-8919-46D21DB7AD9B-1-105-c@512.webp"></img>
     <section class="h">Bressan</section>
     <section class="h text-bolder">Grigio in Grigio - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39.html">
+  <a class="flex-item flex-item-right" href="/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39.html">
     <img class="flex-bottle" src="/images/d6/9fb26b-4c53-4caf-a03d-c6b515252e39/2023-09-28-18-23-00-73C76357-CA62-4BCF-B685-EB645292CCF5-1-105-c@512.webp"></img>
     <section class="h">Vodopivec</section>
     <section class="h text-bolder">Vitovska - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824.html">
+  <a class="flex-item flex-item-left" href="/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824.html">
     <img class="flex-bottle" src="/images/ed/7ca409-72db-4153-a0f4-8a01dbbc7824/2023-09-29-10-22-16-9C87CA5D-A308-4A5C-8CEE-08135F30BB79-1-105-c@512.webp"></img>
     <section class="h">Gravner</section>
     <section class="h text-bolder">Ribolla - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f6af394d-f4cc-4a52-a3ee-db3760a5224a.html">
+    <img class="flex-bottle" src="/images/f6/af394d-f4cc-4a52-a3ee-db3760a5224a/2023-09-29-12-05-24-20A09475-20F8-4244-9C09-2C23C4DCC065-1-105-c@512.webp"></img>
+    <section class="h">Egly-Ouriet</section>
+    <section class="h text-bolder">Les Vignes de Vrigny 1er Cru (d2022) - NV</section>
   </a>
 
 </div>
