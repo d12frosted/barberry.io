@@ -1,10 +1,23 @@
-Hello, fellow convive! This page contains a list of wines (61 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (69 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Thursday, 28 September 2023
+
+*** @Garage / [[barberry:/posts/2023-09-28-friuli][Notorious Friuli by Vova and Mykola]]
+
+- ★ 3.70 [[barberry:/wines/682f03a5-1147-4846-b022-455d9294d2a3][Edi Keber Collio 2018]]
+- ★ 3.90 [[barberry:/wines/d69fb26b-4c53-4caf-a03d-c6b515252e39][Vodopivec Vitovska 2014]]
+- 💔 3.80 [[barberry:/wines/ebeffc6e-1bfb-47cb-a784-35abc82fefb9][Dario Prinčič Bianco Trebež 2015]]
+- ★ 4.10 [[barberry:/wines/739a8111-5c22-4b81-a3d6-b833be6a0219][Paraschos not 2017]]
+- ★ 4.00 [[barberry:/wines/63683195-5011-4586-9b6a-e893d584b312][Radikon Sivi 2021]]
+- ★ 4.00 [[barberry:/wines/7345626e-553d-4d66-9a9d-20531fdfff56][Terpin Ribolla Gialla 2012]]
+- ❤️ 4.30 [[barberry:/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824][Gravner Ribolla 2014]]
+- ★ 3.90 [[barberry:/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2][Dario Prinčič Merlot 2007]]
 
 ** Thursday,  7 September 2023
 

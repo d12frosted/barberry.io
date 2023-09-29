@@ -9,7 +9,7 @@
 - Alcohol :: 12.5
 - Sugar :: 0.4
 - Price :: 3300 UAH, 1359 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 Grapes for the 2014 Vitovska come from 20-year-old vines. The juice is fermented with the skins for up to twelve months with further ageing in 30-hectoliter Slavonian botti for 18 months.
 
@@ -21,5 +21,57 @@ Today, Vodopivec produces up to three distinct bottlings annually. The "Origine"
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-09-28 - ☆ 7.75
 
+Wine #2 on the [[barberry:/posts/2023-09-28-friuli][Notorious Friuli]] event by Vova and Mykola.
+
+It's delicate and ethereal at the beginning. The 2014 Vitovska offers notes of mushrooms, cheese, sardines, caramel and peach. Interesting palate where everything is in balance. The acidity and tannin are nice and balanced and a bit pointy at the same time. Flavourful, evolving and persistent. It's definitely sophisticated but somehow muted and silent.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/63683195-5011-4586-9b6a-e893d584b312.html">
+    <img class="flex-bottle" src="/images/63/683195-5011-4586-9b6a-e893d584b312/2023-09-29-09-37-10-B97A2E71-3D98-4E6F-BD11-DDE4ECEAF76E-1-105-c@512.webp"></img>
+    <section class="h">Radikon</section>
+    <section class="h text-bolder">Sivi - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/682f03a5-1147-4846-b022-455d9294d2a3.html">
+    <img class="flex-bottle" src="/images/68/2f03a5-1147-4846-b022-455d9294d2a3/2023-09-29-09-33-37-AA3DE025-7998-445A-8734-2F9BC84D7DC1-1-105-c@512.webp"></img>
+    <section class="h">Edi Keber</section>
+    <section class="h text-bolder">Collio - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/7345626e-553d-4d66-9a9d-20531fdfff56.html">
+    <img class="flex-bottle" src="/images/73/45626e-553d-4d66-9a9d-20531fdfff56/2023-09-29-09-35-53-C9290352-05FA-41DD-A413-9B345A934344-1-105-c@512.webp"></img>
+    <section class="h">Terpin</section>
+    <section class="h text-bolder">Ribolla Gialla - 2012</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/739a8111-5c22-4b81-a3d6-b833be6a0219.html">
+    <img class="flex-bottle" src="/images/73/9a8111-5c22-4b81-a3d6-b833be6a0219/2023-09-29-09-30-17-CE5E0994-EBC9-49CA-93B3-D38BB2FB82A3-1-105-c@512.webp"></img>
+    <section class="h">Paraschos</section>
+    <section class="h text-bolder">not - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/ebeffc6e-1bfb-47cb-a784-35abc82fefb9.html">
+    <img class="flex-bottle" src="/images/eb/effc6e-1bfb-47cb-a784-35abc82fefb9/2023-09-29-09-34-12-B4969C91-CB42-4F9B-9869-FEE27D404162-1-105-c@512.webp"></img>
+    <section class="h">Dario Prinčič</section>
+    <section class="h text-bolder">Bianco Trebež - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ed7ca409-72db-4153-a0f4-8a01dbbc7824.html">
+    <img class="flex-bottle" src="/images/ed/7ca409-72db-4153-a0f4-8a01dbbc7824/2023-09-29-10-22-16-9C87CA5D-A308-4A5C-8CEE-08135F30BB79-1-105-c@512.webp"></img>
+    <section class="h">Gravner</section>
+    <section class="h text-bolder">Ribolla - 2014</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
+    <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-09-29-09-34-40-F1D49D3B-1DB9-42ED-BC3F-BF0D4FA3C59C-1-105-c@512.webp"></img>
+    <section class="h">Dario Prinčič</section>
+    <section class="h text-bolder">Merlot - 2007</section>
+  </a>
+
+</div>
+#+end_export
