@@ -3,14 +3,10 @@ Wines:
 1. [[barberry:/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7][Bencze Virgo 2020]]
 2. [[barberry:/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad][Fazenda Agricola Augalevada Mercenario branco 2021]]
 3. [[barberry:/wines/016ce5e6-e958-4cc8-8773-5d87068164e6][R. López de Heredia Viña Gravonia Blanco Crianza 2015]]
-4. CHAMPAGNE, what about Pierre Peters Cuvée de Reserve ?
-5. [[barberry:/wines/a4f4d1df-31af-4970-822b-e6e295ae52cf][Matassa Brutal Rouge 2022]] or [[barberry:/wines/1cf8eb27-13b4-4622-847e-21a39f11dcf9][Matassa Tattouine Rouge 2022]]
+4. [[barberry:/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34][Pierre Péters Brut Blanc de Blancs Cuvée de Réserve NV]]
+5. [[barberry:/wines/1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61][Paraschos not special vintage 2012]]
 6. [[barberry:/wines/b73292c6-4d48-4337-bbeb-d164b0f9a4c6][Momento Mori Rosso 2020]]
 7. [[barberry:/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653][Domaine du Castel Petit Castel 2020]]
-
-Bonus:
-
-1. [[barberry:/wines/e11dc2c6-3772-488c-8c36-5925712da3a0][Lahat Lavan Upper Galilee White 2021]]
 
 * Scores
 :PROPERTIES:
@@ -23,11 +19,12 @@ Bonus:
 |         | rms | sdev | favourite |   price | QPR |
 |---------+-----+------+-----------+---------+-----|
 | Wine #1 | -   | -    | *0.00*    |  760.00 | -   |
-| Wine #2 | -   | -    | *0.00*    |  590.00 | -   |
-| Wine #3 | -   | -    | *0.00*    | 1184.00 | -   |
-| Wine #4 | -   | -    | *0.00*    |  740.00 | -   |
-| Wine #5 | -   | -    | *0.00*    | 1450.00 | -   |
-| Wine #6 | -   | -    | *0.00*    | 1793.00 | -   |
+| Wine #2 | -   | -    | *0.00*    |  740.00 | -   |
+| Wine #3 | -   | -    | *0.00*    | 1450.00 | -   |
+| Wine #4 | -   | -    | *0.00*    | 2230.00 | -   |
+| Wine #5 | -   | -    | *0.00*    | 2806.00 | -   |
+| Wine #6 | -   | -    | *0.00*    | 1085.00 | -   |
+| Wine #7 | -   | -    | *0.00*    | 1793.00 | -   |
 
 How to read this table:
 
@@ -51,7 +48,7 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 |
-|---------+---------+---------+---------+---------+---------+---------|
-| Boris B | -       | -       | -       | -       | -       | -       |
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|---------+---------+---------+---------+---------+---------+---------+---------|
+| Boris B | -       | -       | -       | -       | -       | -       | -       |
 

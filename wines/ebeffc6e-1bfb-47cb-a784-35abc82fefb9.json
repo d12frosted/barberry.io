@@ -1,0 +1,42 @@
+{
+  "id": "ebeffc6e-1bfb-47cb-a784-35abc82fefb9",
+  "name": "Bianco Trebež",
+  "full-name": "Dario Prinčič Bianco Trebež 2015",
+  "producer": {
+    "id": "29fcea4d-4a8a-417e-bcdb-282c2d6f6360",
+    "name": "Dario Prinčič"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "ef0c3d82-791d-4d2a-a4ce-e79302b70ab3",
+      "name": "Pinot Gris"
+    },
+    {
+      "id": "b9a99a20-9192-47be-859b-a9a695533344",
+      "name": "Sauvignon Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "100",
+  "sugar": "NA",
+  "prices": [
+    "1714 UAH"
+  ],
+  "available": 0,
+  "image": "images/unknown-wine.webp",
+  "rating": "NA"
+}

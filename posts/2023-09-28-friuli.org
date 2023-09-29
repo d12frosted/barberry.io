@@ -1,0 +1,74 @@
+#+begin_verse
+*notorious*
+/(adjective)/
+
+1. generally known and talked of
+2. widely and unfavorably known
+#+end_verse
+
+Nestled in the northeastern corner of Italy, Friuli is a wine lover's paradise, where vineyards flourish in a unique microclimate shaped by the Adriatic Sea, the Alps, and the Julian Pre-Alps. The region's winemakers are custodians of ancient traditions, committed to sustainable practices that honour the land and its terroir. Friuli's wines encapsulate the spirit of the land, where history, terroir, and craftsmanship converge to create unforgettable tasting experiences.
+
+#+begin_verse
+Boris: Пане Володимире, а чого ви вирішили попити саме ці вина?
+Vova: Та якось так захотілося.
+
+--- An imaginary and comprehensive conversation explaining the fundamental philosophy behind the 'Notorious Friuli' event.
+#+end_verse
+
+This time, Vova has chosen to spotlight Friuli through the following bottles:
+
+1. Edi Keber Collio 2018
+2. [[barberry:/wines/ebeffc6e-1bfb-47cb-a784-35abc82fefb9][Dario Prinčič Bianco Trebež 2015]]
+3. [[barberry:/wines/739a8111-5c22-4b81-a3d6-b833be6a0219][Paraschos not 2017]]
+4. Terpin Ribolla Gialla 2012
+5. Vodopivec Vitovska 2014
+6. Radikon Sivi 2021
+7. Gravner Ribola Gialla 2014
+8. [[barberry:/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2][Dario Prinčič Merlot 2007]]
+
+* Scores
+:PROPERTIES:
+:ID:                     547e6d67-f0a4-4807-a7e1-72ced4789128
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         | rms | sdev | favourite | outcast | price | QPR |
+|---------+-----+------+-----------+---------+-------+-----|
+| Wine #1 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #2 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #3 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #4 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #5 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #6 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+| Wine #7 | -   | -    | *0.00*    |  +0.00+ | -     | -   |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Resources
+:PROPERTIES:
+:ID:                     5bde5e97-b628-46d5-be23-110af9c735b8
+:END:
+
+* Raw scores
+:PROPERTIES:
+:ID:                     54669490-3d78-409c-847d-aba031a19e95
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|           | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|-----------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch | -       | -       | -       | -       | -       | -       | -       |
+| Vova U    | -       | -       | -       | -       | -       | -       | -       |
+| Boris B   | -       | -       | -       | -       | -       | -       | -       |
+
