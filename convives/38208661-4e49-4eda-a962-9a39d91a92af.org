@@ -1,10 +1,21 @@
-Hello, fellow convive! This page contains a list of wines (41 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (47 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Wednesday, 27 September 2023
+
+*** @Lo Kyiv
+
+- &nbsp; &emptyscore; [[barberry:/wines/ebe327d5-b6a1-4b61-85b9-b8c32f111d19][Patrick Bouju G&M 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/a853ed44-8f8c-418b-ba8b-0cce2a2aff93][Patrick Bouju P 2022]]
+- &nbsp; &emptyscore; [[barberry:/wines/aff74834-8faf-4b2c-b827-30a30e6bf4a3][Frédéric Cossard Version Sud 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/e6a445bd-d76e-422a-93f2-2a119ab95492][L'Octavin Le Roi 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/f3f2488a-c6be-4eb7-9214-1163430aa43e][Frédéric Cossard Super Pink 2021]]
+- &nbsp; &emptyscore; [[barberry:/wines/7f152edf-a387-4e51-a410-7972f9090218][Patrick Bouju Love Song 2022]]
 
 ** Tuesday, 15 August 2023
 

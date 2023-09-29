@@ -9,7 +9,7 @@
 - Alcohol :: 12
 - Sugar :: 8
 - Price :: 1050 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -25,7 +25,9 @@ Recently, Cossard has started experimenting with qvevri as an alternative to oak
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-09-27 - ☆ 7.40
+
+This one is a simple and calm rosé. Not sure what purpose it serves for such a hefty price. At least, I am happy that it's made of 100% Cinsault. Aromas of peach, smoked cheese, cranberry and diluted strawberry stew. Flavourful, easy and nice.
 
 ** Related
 
@@ -71,6 +73,42 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/e8/807132-9a6c-4d45-b55c-72c6bbf7a5f2/2023-08-28-20-48-42-BB4A6826-0020-46B4-89BD-94EB0DE5454F-1-105-c@512.webp"></img>
     <section class="h">Frédéric Cossard</section>
     <section class="h text-bolder">Morey-Saint-Denis Les Champs de la Vigne Qvevris - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/7f152edf-a387-4e51-a410-7972f9090218.html">
+    <img class="flex-bottle" src="/images/7f/152edf-a387-4e51-a410-7972f9090218/2023-09-26-20-40-31-IMG-9182@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">Love Song - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/86f115d3-866a-4892-bcf7-7a9a417ae712.html">
+    <img class="flex-bottle" src="/images/86/f115d3-866a-4892-bcf7-7a9a417ae712/2023-09-28-18-08-56-B3115DCC-2F78-4A01-966F-8B6D8537D232-1-105-c@512.webp"></img>
+    <section class="h">Vinas Mora</section>
+    <section class="h text-bolder">kaamen II - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a853ed44-8f8c-418b-ba8b-0cce2a2aff93.html">
+    <img class="flex-bottle" src="/images/a8/53ed44-8f8c-418b-ba8b-0cce2a2aff93/2023-09-26-20-41-21-IMG-9184@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">P - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/e6a445bd-d76e-422a-93f2-2a119ab95492.html">
+    <img class="flex-bottle" src="/images/e6/a445bd-d76e-422a-93f2-2a119ab95492/2023-09-26-20-38-15-IMG-9176@512.webp"></img>
+    <section class="h">L'Octavin</section>
+    <section class="h text-bolder">Le Roi - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ebe327d5-b6a1-4b61-85b9-b8c32f111d19.html">
+    <img class="flex-bottle" src="/images/eb/e327d5-b6a1-4b61-85b9-b8c32f111d19/2023-09-26-20-37-07-IMG-9174@512.webp"></img>
+    <section class="h">Patrick Bouju</section>
+    <section class="h text-bolder">G&M - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/fccda782-d0ac-4420-a86c-44c000d91785.html">
+    <img class="flex-bottle" src="/images/fc/cda782-d0ac-4420-a86c-44c000d91785/2023-09-28-18-14-37-28F14D25-53DB-4C9F-8A66-2C7AD91B3CD9-1-105-c@512.webp"></img>
+    <section class="h">Pascal Doquet</section>
+    <section class="h text-bolder">Diapason Grand Cru Le Mesnil Sur Oger (2014) - NV</section>
   </a>
 
 </div>
