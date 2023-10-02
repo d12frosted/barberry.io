@@ -1,11 +1,17 @@
-Wines:
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-23-13-IMG-9597.webp]]
+
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-23-38-IMG-9604.webp]]
+
+A month and a half has passed since our last Barberry Garden event. And if you think I used this time to reflect on the past and plan the future, you are absolutely wrong. I played FFXIV and visited a bunch of wine-tasting events organised by Vova, Mykola, Roman and Elena (for example, [[barberry:/posts/2023-08-25-bourgogne][Bourgogne Party]], [[barberry:/posts/2023-09-07-sicily][Sicily]], [[barberry:/posts/2023-09-21-champagne][Champagne Party]] and [[barberry:/posts/2023-09-28-friuli][Notorious Friuli]]). Now that I decided to leave the cave I'd been sitting in, I asked chat GPT - 'what would be the best topic for our 21st event?'. After some delay (v3.5 is darn slow), it concluded that Mixed Bag is the best choice. 'Should I bring a bottle of Champagne?' - I continued. 'Of course, Champaign is always a great choice', Chat GPT persuaded me.
+
+So hear me out. Between two evenings dedicated to Sicily focused on specific producers ([[barberry:/posts/2023-08-15-occhipinti][Arianna Occhipinti]] and Gulfi), let's unpack the Pandora box (my backpack) and learn the joy of the unknown.
 
 1. [[barberry:/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7][Bencze Virgo 2020]]
 2. [[barberry:/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad][Fazenda Agricola Augalevada Mercenario branco 2021]]
 3. [[barberry:/wines/016ce5e6-e958-4cc8-8773-5d87068164e6][R. López de Heredia Viña Gravonia Blanco Crianza 2015]]
 4. [[barberry:/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34][Pierre Péters Brut Blanc de Blancs Cuvée de Réserve NV]]
-5. [[barberry:/wines/1b3c3cb3-8ec6-448d-bdef-bc90c0b3aa61][Paraschos not special vintage 2012]]
-6. [[barberry:/wines/9183a551-a33f-497d-861c-8949d97507cb][Momento Mori Rosso 2020]]
+5. [[barberry:/wines/9183a551-a33f-497d-861c-8949d97507cb][Momento Mori Rosso 2020]]
+6. [[barberry:/wines/a52d80dc-df32-4f09-aab8-a282a7db1b40][Clos du Tue-Boeuf Cheverny Rouillon 2022]]
 7. [[barberry:/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653][Domaine du Castel Petit Castel 2020]]
 
 * Scores
@@ -16,15 +22,15 @@ Wines:
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|         | rms      |   sdev | favourite |   price | QPR      |
-|---------+----------+--------+-----------+---------+----------|
-| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  960.00 | *0.0000* |
-| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  740.00 | *0.0000* |
-| Wine #3 | *1.0000* | 0.0000 | *0.00*    | 1450.00 | *0.0000* |
-| Wine #4 | *1.0000* | 0.0000 | *0.00*    | 3040.00 | *0.0000* |
-| Wine #5 | *1.0000* | 0.0000 | *0.00*    | 2806.00 | *0.0000* |
-| Wine #6 | *1.0000* | 0.0000 | *0.00*    | 1085.00 | *0.0000* |
-| Wine #7 | *1.0000* | 0.0000 | *0.00*    | 1793.00 | *0.0000* |
+|         | rms      |   sdev | favourite | outcast |   price | QPR      |
+|---------+----------+--------+-----------+---------+---------+----------|
+| Wine #1 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  960.00 | *0.0000* |
+| Wine #2 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  740.00 | *0.0000* |
+| Wine #3 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1450.00 | *0.0000* |
+| Wine #4 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 2596.00 | *0.0000* |
+| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1085.00 | *0.0000* |
+| Wine #6 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ |  810.00 | *0.0000* |
+| Wine #7 | *1.0000* | 0.0000 | *0.00*    |  +0.00+ | 1793.00 | *0.0000* |
 
 How to read this table:
 
@@ -34,6 +40,135 @@ How to read this table:
 - =outcast= is amount of people who marked this wine as outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Bencze Virgo 2020
+:PROPERTIES:
+:ID:                     5ac7286d-7a15-4fc7-bec0-1b52d271ebd8
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-24-40-IMG-9590.webp]]
+
+- producer: [[barberry:/producers/e0c47a3e-e4ac-4cf5-8e27-dd98d88e9fee][Bencze]]
+- name: [[barberry:/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7][Virgo]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Balatonfelvidék OFJ
+- location: Hungary
+- alcohol: 11.5
+- sugar: N/A
+- price: 960 UAH
+
+* Fazenda Agricola Augalevada Mercenario branco 2021
+:PROPERTIES:
+:ID:                     dd067321-8060-4838-b111-ceda6eaa6e12
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-27-34-IMG-9591.webp]]
+
+- producer: [[barberry:/producers/b6ed9644-894d-45c8-a56e-e15ed5ba7d45][Fazenda Agricola Augalevada]]
+- name: [[barberry:/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad][Mercenario branco]]
+- vintage: 2021
+- grapes: Treixadura, Albariño, Torrontés, Palomino Fino
+- appellation: Vino de Mesa
+- location: Spain
+- alcohol: 11
+- sugar: 0.3
+- price: 740 UAH
+
+* R. López de Heredia Viña Gravonia Blanco Crianza 2015
+:PROPERTIES:
+:ID:                     53ffae58-9d0b-41c2-be18-c8d3969b4c28
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-27-50-IMG-9592.webp]]
+
+- producer: [[barberry:/producers/d048b1cd-89b4-413e-a5f7-50ace090907c][R. López de Heredia]]
+- name: [[barberry:/wines/016ce5e6-e958-4cc8-8773-5d87068164e6][Viña Gravonia Blanco Crianza]]
+- vintage: 2015
+- grapes: Macabeo
+- appellation: Rioja DOC
+- location: La Rioja, Spain
+- alcohol: 12.5
+- sugar: 2.5
+- price: 1450 UAH
+
+* Pierre Péters Brut Blanc de Blancs Cuvée de Réserve NV
+:PROPERTIES:
+:ID:                     c12b078b-5ffe-4147-a59f-6b486e522d2c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-28-06-IMG-9593.webp]]
+
+- producer: [[barberry:/producers/f833fc52-2608-487e-988d-e70d404ab528][Pierre Péters]]
+- name: [[barberry:/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34][Brut Blanc de Blancs Cuvée de Réserve]]
+- vintage: NV
+- base: N/A
+- disgorged: N/A
+- sur lie: N/A
+- grapes: Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 6
+- price: 2596 UAH
+
+* Momento Mori Rosso 2020
+:PROPERTIES:
+:ID:                     0dc2911e-0249-41d4-8cd2-4b2f66f8e90a
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-28-30-IMG-9594.webp]]
+
+- producer: [[barberry:/producers/7ad98ad5-fc54-45ee-ad48-26f2fab01cbc][Momento Mori]]
+- name: [[barberry:/wines/9183a551-a33f-497d-861c-8949d97507cb][Rosso]]
+- vintage: 2020
+- grapes: Schioppettino, Syrah
+- region: Gippsland
+- location: Victoria, Australia
+- alcohol: 12
+- sugar: 0
+- price: 1085 UAH
+
+* Clos du Tue-Boeuf Cheverny Rouillon 2022
+:PROPERTIES:
+:ID:                     13d530f3-e14a-46ea-8230-37404cb3a4eb
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-28-49-IMG-9595.webp]]
+
+- producer: [[barberry:/producers/a738ad3a-78a7-4dce-80b3-d8000dbf805a][Clos du Tue-Boeuf]]
+- name: [[barberry:/wines/a52d80dc-df32-4f09-aab8-a282a7db1b40][Cheverny Rouillon]]
+- vintage: 2022
+- grapes: Gamay, Pinot Noir
+- appellation: Cheverny AOC
+- location: Loire, France
+- alcohol: 12.72
+- sugar: 0.36
+- price: 810 UAH
+
+* Domaine du Castel Petit Castel 2020
+:PROPERTIES:
+:ID:                     abeede5c-d2c7-4768-9a68-cd0682211384
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-03-mixed-bag/2023-10-02-13-29-03-IMG-9596.webp]]
+
+- producer: [[barberry:/producers/ec6ae43c-fa47-482a-890c-860e8ce3f25f][Domaine du Castel]]
+- name: [[barberry:/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653][Petit Castel]]
+- vintage: 2020
+- grapes: Cabernet Sauvignon, Merlot, Petit Verdot
+- region: Jerusalem
+- location: Israel
+- alcohol: 14
+- sugar: 3
+- price: 1793 UAH
 
 * Resources
 :PROPERTIES:
@@ -48,7 +183,7 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
+|         | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #6 | Wine #6 | Wine #7 |
 |---------+---------+---------+---------+---------+---------+---------+---------|
 | Boris B |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |    1.00 |
 

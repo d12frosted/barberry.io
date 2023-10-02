@@ -1,10 +1,16 @@
-Hello, fellow convive! This page contains a list of wines (247 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (249 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Friday, 29 September 2023
+
+*** @Favourite Uncle
+
+- &nbsp; &emptyscore; [[barberry:/wines/e11dc2c6-3772-488c-8c36-5925712da3a0][Lahat Lavan Upper Galilee White 2021]]
 
 ** Thursday, 28 September 2023
 
@@ -23,6 +29,7 @@ Bookmark this page and use it for your own good.
 
 - &nbsp; &emptyscore; [[barberry:/wines/ca7dc126-0ea4-4245-93db-f07a87301a7e][Francoise Bedel L'Âme de la Terre Millésime 2006]]
 - &nbsp; &emptyscore; [[barberry:/wines/f6af394d-f4cc-4a52-a3ee-db3760a5224a][Egly-Ouriet Les Vignes de Vrigny 1er Cru (d2022) NV]]
+- &nbsp; &emptyscore; [[barberry:/wines/f3f51b4a-d436-4fe9-b867-18527c0c724a][Bollinger La Grande Année Rosé 2004]]
 
 ** Wednesday, 27 September 2023
 

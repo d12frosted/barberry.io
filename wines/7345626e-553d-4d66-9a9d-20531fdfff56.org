@@ -77,13 +77,19 @@ Maybe another time.
     <section class="h text-bolder">Ribolla - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f6af394d-f4cc-4a52-a3ee-db3760a5224a.html">
+  <a class="flex-item flex-item-right" href="/wines/f3f51b4a-d436-4fe9-b867-18527c0c724a.html">
+    <img class="flex-bottle" src="/images/f3/f51b4a-d436-4fe9-b867-18527c0c724a/2023-10-02-09-38-41-photo-2023-10-02 09.37.26@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">La Grande Année Rosé - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/f6af394d-f4cc-4a52-a3ee-db3760a5224a.html">
     <img class="flex-bottle" src="/images/f6/af394d-f4cc-4a52-a3ee-db3760a5224a/2023-09-29-12-05-24-20A09475-20F8-4244-9C09-2C23C4DCC065-1-105-c@512.webp"></img>
     <section class="h">Egly-Ouriet</section>
     <section class="h text-bolder">Les Vignes de Vrigny 1er Cru (d2022) - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
+  <a class="flex-item flex-item-right" href="/wines/f7a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2.html">
     <img class="flex-bottle" src="/images/f7/a994bf-dd3c-45c1-8bd1-0b11ecbdb5d2/2023-09-29-09-34-40-F1D49D3B-1DB9-42ED-BC3F-BF0D4FA3C59C-1-105-c@512.webp"></img>
     <section class="h">Dario Prinčič</section>
     <section class="h text-bolder">Merlot - 2007</section>

@@ -51,37 +51,43 @@ Special Cuvée greets me with a simple and rather restrained bouquet. It whisper
     <section class="h text-bolder">La Grande Année Rosé - 2012</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
+  <a class="flex-item flex-item-left" href="/wines/f3f51b4a-d436-4fe9-b867-18527c0c724a.html">
+    <img class="flex-bottle" src="/images/f3/f51b4a-d436-4fe9-b867-18527c0c724a/2023-10-02-09-38-41-photo-2023-10-02 09.37.26@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">La Grande Année Rosé - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/06bc57b8-6eb2-40ce-97f1-196a398528e0.html">
     <img class="flex-bottle" src="/images/06/bc57b8-6eb2-40ce-97f1-196a398528e0/2023-08-10-11-40-13-IMG-8775@512.webp"></img>
     <section class="h">G.H.Mumm</section>
     <section class="h text-bolder">Grand Cordon Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/3cbe90fc-b88d-4d93-8581-c471753af852.html">
+  <a class="flex-item flex-item-left" href="/wines/3cbe90fc-b88d-4d93-8581-c471753af852.html">
     <img class="flex-bottle" src="/images/3c/be90fc-b88d-4d93-8581-c471753af852/2023-08-10-10-47-05-IMG-8758@512.webp"></img>
     <section class="h">Louis Roederer</section>
     <section class="h text-bolder">Cristal - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
+  <a class="flex-item flex-item-right" href="/wines/429ced3e-5562-41bf-be16-ea97086b244a.html">
     <img class="flex-bottle" src="/images/42/9ced3e-5562-41bf-be16-ea97086b244a/2023-08-10-11-54-08-IMG-8768@512.webp"></img>
     <section class="h">Krug</section>
     <section class="h text-bolder">Brut - 2006</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/63fa302c-4073-49b1-99ed-3228df8edac1.html">
+  <a class="flex-item flex-item-left" href="/wines/63fa302c-4073-49b1-99ed-3228df8edac1.html">
     <img class="flex-bottle" src="/images/63/fa302c-4073-49b1-99ed-3228df8edac1/2023-08-10-11-44-11-IMG-8762@512.webp"></img>
     <section class="h">Moët & Chandon</section>
     <section class="h text-bolder">Impérial Brut - NV</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1.html">
+  <a class="flex-item flex-item-right" href="/wines/8dea852e-f5bb-437a-bfb9-13a98e4841f1.html">
     <img class="flex-bottle" src="/images/8d/ea852e-f5bb-437a-bfb9-13a98e4841f1/2023-08-10-11-43-41-IMG-8765@512.webp"></img>
     <section class="h">Veuve Clicquot</section>
     <section class="h text-bolder">Brut Yellow Label - NV</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e3b6939f-46d3-47ee-9858-f92631091fa6.html">
+  <a class="flex-item flex-item-left" href="/wines/e3b6939f-46d3-47ee-9858-f92631091fa6.html">
     <img class="flex-bottle" src="/images/e3/b6939f-46d3-47ee-9858-f92631091fa6/2023-08-10-11-46-47-IMG-8778@512.webp"></img>
     <section class="h">Moët & Chandon</section>
     <section class="h text-bolder">Dom Pérignon Rosé Brut - 2006</section>

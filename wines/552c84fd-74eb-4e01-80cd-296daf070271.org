@@ -65,5 +65,11 @@ Bollinger Dinner #5. One more beauty by Bollinger. Elegant and sophisticated win
     <section class="h text-bolder">Special Cuvée - NV</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/f3f51b4a-d436-4fe9-b867-18527c0c724a.html">
+    <img class="flex-bottle" src="/images/f3/f51b4a-d436-4fe9-b867-18527c0c724a/2023-10-02-09-38-41-photo-2023-10-02 09.37.26@512.webp"></img>
+    <section class="h">Bollinger</section>
+    <section class="h text-bolder">La Grande Année Rosé - 2004</section>
+  </a>
+
 </div>
 #+end_export
