@@ -6,6 +6,18 @@ Today Planeta owns 6 wineries across Sicily: Ulmo and Dispensa in Menfi, Dorilli
 
 #+begin_export html
 <div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/85d9d0ab-da33-4a34-a4e1-7fe65d41f03d.html">
+    <img class="flex-bottle" src="/images/85/d9d0ab-da33-4a34-a4e1-7fe65d41f03d/2023-10-04-07-54-14-AC8A6E12-F003-44AD-8F1E-5768A4986A61-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Burdese - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a5d74e27-137a-4d8f-af7b-4c3946cb5f5c.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">★ 7.38</section>
+    <section class="h text-bolder">Burdese - 2015</section>
+  </a>
+
   <a class="flex-item flex-item-left" href="/wines/75ff8822-53d4-4e4a-ba0d-75c9096cea59.html">
     <img class="flex-bottle" src="/images/75/ff8822-53d4-4e4a-ba0d-75c9096cea59/2023-02-15-08-52-26-AC006626-6C93-4B1D-BC09-4A2FCD488810-1-105-c@512.webp"></img>
     <section class="h">★ 6.50</section>

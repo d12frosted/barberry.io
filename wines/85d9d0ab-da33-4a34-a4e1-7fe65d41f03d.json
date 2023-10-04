@@ -1,0 +1,38 @@
+{
+  "id": "85d9d0ab-da33-4a34-a4e1-7fe65d41f03d",
+  "name": "Burdese",
+  "full-name": "Planeta Burdese 2004",
+  "producer": {
+    "id": "e6b1b575-a7bd-429e-8873-1a44944edb05",
+    "name": "Planeta"
+  },
+  "vintage": "2004",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    },
+    {
+      "id": "dcbdf8f5-5f45-42e1-a30d-ece9f7eb8133",
+      "name": "Cabernet Franc"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/85/d9d0ab-da33-4a34-a4e1-7fe65d41f03d/2023-10-04-07-54-14-AC8A6E12-F003-44AD-8F1E-5768A4986A61-1-105-c.webp",
+  "rating": "NA"
+}

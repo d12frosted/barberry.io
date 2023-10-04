@@ -37,6 +37,18 @@ Wine #4 on [[barberry:/posts/2023-01-17-il-pirata][Il Pirata Vol. 2]].
     <section class="h text-bolder">Cerasuolo di Vittoria - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/85d9d0ab-da33-4a34-a4e1-7fe65d41f03d.html">
+    <img class="flex-bottle" src="/images/85/d9d0ab-da33-4a34-a4e1-7fe65d41f03d/2023-10-04-07-54-14-AC8A6E12-F003-44AD-8F1E-5768A4986A61-1-105-c@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Burdese - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a5d74e27-137a-4d8f-af7b-4c3946cb5f5c.html">
+    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Burdese - 2015</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/a9209b03-ecbd-44f9-a5dd-b13fae5e9f99.html">
     <img class="flex-bottle" src="/images/a9/209b03-ecbd-44f9-a5dd-b13fae5e9f99/2022-06-12-17-14-24-1D3CEF49-435B-4B6D-884C-033139F49069@512.webp"></img>
     <section class="h">Planeta</section>

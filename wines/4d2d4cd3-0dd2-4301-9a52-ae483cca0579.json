@@ -1,0 +1,34 @@
+{
+  "id": "4d2d4cd3-0dd2-4301-9a52-ae483cca0579",
+  "name": "Riserva Foscari Cabernet",
+  "full-name": "La Grassa Riserva Foscari Cabernet 1962",
+  "producer": {
+    "id": "e67b68ed-90bb-4ecb-a3bc-72aeed40b970",
+    "name": "La Grassa"
+  },
+  "vintage": "1962",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "cb2ab535-5515-4321-8a67-aaa989931cca",
+      "name": "Cabernet Sauvignon"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "XXX UAH"
+  ],
+  "available": 1.0,
+  "image": "images/4d/2d4cd3-0dd2-4301-9a52-ae483cca0579/2023-10-04-07-51-42-284C0205-5E16-4D6A-90C8-91B659A66B92-1-105-c.webp",
+  "rating": "NA"
+}
