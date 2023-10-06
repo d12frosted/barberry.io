@@ -1,0 +1,31 @@
+#+attr_html: :class wine-main-image
+[[file:/images/37/6aa8c0-7d6c-44e9-b586-66b86d0b650c/2023-10-06-18-05-35-IMG-9688@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/f833fc52-2608-487e-988d-e70d404ab528][Pierre Péters]]
+- Vintage :: 2018
+- Disgorged in :: [2022-11-14 Mon]
+- Spent on lees :: ~40 months
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay
+- Alcohol :: 12
+- Sugar :: 4.45
+- Price :: 3440 UAH, 3700 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34.html">
+    <img class="flex-bottle" src="/images/5d/e82ca7-aabf-4b38-8b78-1e5b5258de34/2023-10-02-13-28-06-IMG-9593@512.webp"></img>
+    <section class="h">Pierre Péters</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuvée de Réserve - NV</section>
+  </a>
+
+</div>
+#+end_export

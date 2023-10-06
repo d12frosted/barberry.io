@@ -1,5 +1,5 @@
 #+attr_html: :class wine-main-image
-[[file:/images/unknown-wine.webp]]
+[[file:/images/40/e09e76-396a-4d74-8197-960aa8761076/2023-10-06-18-22-18-IMG-9739@512.webp]]
 
 - Type :: White Still, Dry
 - Producer :: [[barberry:/producers/8a4425ed-e189-499e-a825-e51daa6f62c6][Borja Perez]]
@@ -8,8 +8,8 @@
 - Grapes :: Palomino Fino
 - Alcohol :: 12.5
 - Sugar :: NA
-- Price :: 802 UAH
-- Cellar :: N/A
+- Price :: 722 UAH, 802 UAH
+- Cellar :: 1 bottle
 
 ** Ratings
 
@@ -20,7 +20,7 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/1f0aa011-b4d7-44ae-85c4-8eef61943ec8.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/1f/0aa011-b4d7-44ae-85c4-8eef61943ec8/2023-10-06-18-23-05-IMG-9745@512.webp"></img>
     <section class="h">Borja Perez</section>
     <section class="h text-bolder">Marmajuelo - 2017</section>
   </a>

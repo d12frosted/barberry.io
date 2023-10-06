@@ -1,0 +1,50 @@
+Wines:
+
+1. [[barberry:/wines/87c5510a-a8d4-4d16-b78a-a42004a17e2b][Mtsvane Estate Pet-Nat Brut Chinuri - Goruli Mtsvane 2022]]
+2. [[barberry:/wines/149668d8-4c02-44c0-8955-8d6028e35c92][Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021]]
+3. [[barberry:/wines/1b1ed1d6-55b3-4034-b55c-20b5fc1270eb][Mtsvane Estate Pet-Nat Brut Mtsvane - Rkatsiteli 2022]]
+4. [[barberry:/wines/dd9f39ac-04e4-42f3-8d2a-4f2c278baec4][Mtsvane Estate Pet-Nat Brut Rosé Saperavi 2022]]
+5. [[barberry:/wines/2e7801b5-d9e7-4c51-88de-df87c98a0f9d][Mtsvane Estate Amber 2022]]
+
+* Scores
+:PROPERTIES:
+:ID:                     03088d3d-c07d-413a-aeae-14fe3368d0cf
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   3.8358 | 0.0189 |    *1.00* | 1147.00 | *1.6330* |
+| Wine #2 |   3.8031 | 0.0233 |      0.00 | 1147.00 |   1.5552 |
+| Wine #3 | *3.8367* | 0.0256 |      0.00 | 1147.00 | *1.6330* |
+| Wine #4 |   3.6192 | 0.0181 |      0.00 | 1147.00 |   1.1945 |
+| Wine #5 |   3.5684 | 0.0122 |      0.00 |  987.00 |   1.2935 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine as outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     558b6eda-2eb1-47b9-b630-cce409861cb5
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 |
+|--------------+---------+---------+---------+---------+---------|
+| Oleksandr R  |  *4.10* |    3.90 |    3.70 |    3.60 |    3.60 |
+| Andrii S     |    3.90 |    3.80 |    4.00 |    3.80 |    3.50 |
+| Daria B      |    3.70 |    3.60 |    3.80 |    3.70 |    3.50 |
+| Mariia S     |    3.80 |    3.90 |    4.10 |    3.70 |    3.80 |
+| Viktoriya Zh |    3.80 |    4.00 |    3.70 |    3.50 |    3.50 |
+| Boris B      |    3.70 |    3.60 |    3.70 |    3.40 |    3.50 |
+

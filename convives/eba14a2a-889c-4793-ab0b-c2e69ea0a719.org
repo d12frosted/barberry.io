@@ -1,10 +1,20 @@
-Hello, fellow convive! This page contains a list of wines (270 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (272 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Tuesday,  3 October 2023
+
+*** @Wix Kyiv Office / [[barberry:/posts/2023-10-03-mixed-bag][Mixed Bag Vol. 9]]
+
+- &nbsp; &emptyscore; [[barberry:/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad][Fazenda Agricola Augalevada Mercenario branco 2021]]
+
+*** @Wix Kyiv Office
+
+- &nbsp; &emptyscore; [[barberry:/wines/4d2d4cd3-0dd2-4301-9a52-ae483cca0579][La Grassa Riserva Foscari Cabernet 1962]]
 
 ** Thursday, 28 September 2023
 
@@ -509,7 +519,7 @@ Bookmark this page and use it for your own good.
 - ★ 4.10 [[barberry:/wines/9b57e144-d3e1-45b1-974b-a16a415962cf][Bruno Paillard Première Cuvée (d2020) NV]]
 - ★ 3.20 [[barberry:/wines/108c69b0-4506-4e05-9da4-c73ccd053992][Shabo Grand Reserve Extra Brut NV]]
 - ★ 3.70 [[barberry:/wines/1c498873-9026-4a72-b993-0c51235b0883][Cà del Vént Memoria Brut Pas Operé VSQ 2014]]
-- ★ 4.20 [[barberry:/wines/03c58432-e29b-470c-985b-a1fa44ac3df7][Bérêche & Fils Brut Réserve (d2020) NV]]
+- ★ 4.20 [[barberry:/wines/03c58432-e29b-470c-985b-a1fa44ac3df7][Bérêche & Fils Brut Réserve (d2020.10) NV]]
 - ★ 4.20 [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Marco De Bartoli Terzavia 2018]]
 
 ** Tuesday, 23 November 2021

@@ -4,7 +4,7 @@
 #+begin_export html
 <div class="flex-container">
   <a class="flex-item flex-item-left" href="/wines/fd250255-cdf3-4684-8d51-41772b680241.html">
-    <img class="flex-bottle" src="/images/unknown-wine.webp"></img>
+    <img class="flex-bottle" src="/images/fd/250255-cdf3-4684-8d51-41772b680241/2023-10-06-18-23-52-IMG-9748@512.webp"></img>
     <section class="h">★ -</section>
     <section class="h text-bolder">Tilama - 2019</section>
   </a>

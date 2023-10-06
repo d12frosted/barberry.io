@@ -29,7 +29,7 @@ So hear me out. Between two evenings dedicated to Sicily focused on specific pro
 | Wine #2 |   4.0735 | 0.0556 |      2.00 |  740.00 | *3.5876* |
 | Wine #3 | *4.1817* | 0.0328 |      2.00 | 1450.00 |   2.1708 |
 | Wine #4 |   4.1696 | 0.0244 |    *3.00* | 2596.00 |   1.1919 |
-| Wine #6 |   4.1242 | 0.1077 |      2.00 | 1085.00 |   2.6185 |
+| Wine #5 |   4.1242 | 0.1077 |      2.00 | 1085.00 |   2.6185 |
 | Wine #6 |   4.0702 | 0.0289 |      0.00 |  810.00 |   3.2775 |
 | Wine #7 |   4.0646 | 0.0736 |      0.00 | 1793.00 |   1.4559 |
 
@@ -153,9 +153,9 @@ Viña Gravonia Crianza 2015 spent four years in barrels. In total, 27,000 bottle
 - producer: [[barberry:/producers/f833fc52-2608-487e-988d-e70d404ab528][Pierre Péters]]
 - name: [[barberry:/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34][Brut Blanc de Blancs Cuvée de Réserve]]
 - vintage: NV
-- base: N/A
-- disgorged: N/A
-- sur lie: >24 months
+- base: 2020
+- disgorged: March 2023
+- sur lie: ~24 months
 - grapes: Chardonnay
 - appellation: Champagne AOC
 - location: Champagne, France
@@ -285,7 +285,7 @@ The Petit Castel is a blend of Cabernet Sauvignon, Merlot and Petit Verdot. The 
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #6 | Wine #6 | Wine #7 |
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 |
 |-------------+---------+---------+---------+---------+---------+---------+---------|
 | Daria B     |    3.80 |    4.00 |    4.20 |  *4.00* |    3.80 |    3.80 |    3.70 |
 | Oleksandr R |    4.00 |  *4.00* |    3.80 |    4.20 |    4.10 |    4.10 |    4.30 |

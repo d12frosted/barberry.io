@@ -1,0 +1,38 @@
+{
+  "id": "87c5510a-a8d4-4d16-b78a-a42004a17e2b",
+  "name": "Pet-Nat Brut Chinuri - Goruli Mtsvane",
+  "full-name": "Mtsvane Estate Pet-Nat Brut Chinuri - Goruli Mtsvane 2022",
+  "producer": {
+    "id": "30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7",
+    "name": "Mtsvane Estate"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "b67af09d-bfbc-4ea7-9c38-3ae7c4dbfe9c",
+      "name": "Chinuri"
+    },
+    {
+      "id": "0e25df39-e5e4-4328-9780-e302510ab935",
+      "name": "Goruli Mtsvane"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "1147 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/87/c5510a-a8d4-4d16-b78a-a42004a17e2b/2023-10-06-08-21-10-E000950B-8D26-4E08-B42E-09C05A92556B-1-105-c.webp",
+  "rating": "NA"
+}

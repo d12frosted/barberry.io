@@ -1,0 +1,79 @@
+#+attr_html: :class wine-main-image
+[[file:/images/f3/e1000f-7d7b-4aa1-b45d-31d9d9948a8f/2023-10-05-10-25-13-392E76FD-3260-403C-96ED-6BE5800D218C-1-102-o@512.webp]]
+
+- Type :: Red Still, Dry
+- Producer :: [[barberry:/producers/c7f2173e-1b32-4e44-8da0-bd36f04b3ae0][Sadie Family]]
+- Vintage :: 2022
+- Location :: South Africa, WO Swartland
+- Grapes :: Cinsault
+- Alcohol :: 13.5
+- Sugar :: 1.5
+- Price :: 2222 UAH
+- Cellar :: N/A
+
+** Producer
+
+Eben Sadie from The Sadie Family Wines is a true legend in the world of winemaking. He has a fascinating story that has taken him all over the world, honing his craft and learning from the best. Eben graduated from Elsenburg College in 1994 and began his journey throughout Germany, Austria, Italy, France, Spain, the United States, and South Africa, always seeking to learn and improve his skills.
+
+Re-evaluation of Swartland began in the late 1990s when Charles Back of Fairview set up the Spice Route. In 1998, Eben joined Spice Route as head winemaker. During his time there, he gained valuable experience and developed his style. Eben was quick to realise Swartland's potential and, in 2000, produced his groundbreaking Syrah-based blend, Columnela.
+
+Over the years, Eben has built a reputation for crafting exceptional wines that truly showcase the unique terroir of the Swartland. His passion for winemaking and dedication to quality has earned him numerous accolades, including being named Winemakers' Winemaker in 2017.
+
+#+begin_quote
+If you look at old wines from the Swartland you'll realise that we don't really have to reinvent anything, we should just go and harvest the good, old things that were already there. The Swartland really is one of those places where you can say what we have is fantastic, what we have is enough – there is nothing better out there. Our soil is remarkable and while our climate is a bit tough at present due to the drought, this place is thoroughly amazing.
+
+--- Eben Sadie
+#+end_quote
+
+In addition to his stellar Columella and Palladius blends, Eben is renowned for his Old Vine Series, which he started working on in the second decade of the winery's life. The Old Vine Series consists of eight distinct wines - Skurfberg, 'T Voetpad, Pofadder, Kokerboom, Mev. Kirsten, Soldaat, Treinspoor, and Skerpioen. The grapes are sourced from some of the oldest vineyards in South Africa, located throughout the Swartland, with one or two falling outside the region's official borders.
+
+** Ratings
+
+*** 2023-10-04 - ☆ 8.50
+
+In my opinion, Pofadder is a benchmark Cinsault. It shows how complex, delicate and freaking delicious it can be. The 2022 Pofadder is too young but so attractive even today.
+
+An attractive, delicate and mineral bouquet of barberry candy, blood and red flowers with some animalistic hints. Juicy, sophisticated, evolving and almost perfectly balanced. A wine you can enjoy over a full evening without switching your focus to anything else.
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/42dc355d-a934-4cb0-9592-cf1d474bec57.html">
+    <img class="flex-bottle" src="/images/42/dc355d-a934-4cb0-9592-cf1d474bec57/2022-06-08-09-23-47-0AF5D3A0-84A5-40C3-8786-2A427AB3C799-1-105-c@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9513b9da-ac70-472c-953a-7cd9e5946b47.html">
+    <img class="flex-bottle" src="/images/95/13b9da-ac70-472c-953a-7cd9e5946b47/2022-01-16-11-33-02-F6419DC4-FF8B-4859-8032-237271A372EA-1-105-c@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Skurfberg - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9df849b5-9f50-4268-8cdd-2376380960fe.html">
+    <img class="flex-bottle" src="/images/9d/f849b5-9f50-4268-8cdd-2376380960fe/2020-11-25-10-37-59-8B0A2B72-13EC-44F7-B6A5-9A29CD585976-1-105-c@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Skerpioen - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ce63f4af-0443-440e-b997-3602ebee4d80.html">
+    <img class="flex-bottle" src="/images/ce/63f4af-0443-440e-b997-3602ebee4d80/2020-09-20-10-16-38-A53DA59D-B5CB-4E4C-B3F8-69F419ACAACD-1-105-c@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Pofadder - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/d71fb0cc-4414-437e-8870-a4ef45c8abd8.html">
+    <img class="flex-bottle" src="/images/d7/1fb0cc-4414-437e-8870-a4ef45c8abd8/2023-06-20-17-53-52-IMG-7879@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Skerpioen - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f9b6ea46-f032-45c3-b18f-951508064989.html">
+    <img class="flex-bottle" src="/images/f9/b6ea46-f032-45c3-b18f-951508064989/2023-06-20-17-52-46-IMG-7882@512.webp"></img>
+    <section class="h">Sadie Family</section>
+    <section class="h text-bolder">Columella - 2016</section>
+  </a>
+
+</div>
+#+end_export

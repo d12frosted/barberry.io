@@ -1,0 +1,38 @@
+{
+  "id": "764af813-76cf-43ba-b00d-4fc3234098a2",
+  "name": "Assemblage Sans Année Autre Cru",
+  "full-name": "Domaine Nowack Assemblage Sans Année Autre Cru NV",
+  "producer": {
+    "id": "024909ba-e99b-485b-8d28-7c9f25e20a89",
+    "name": "Domaine Nowack"
+  },
+  "vintage": "NV",
+  "base-vintage": "2020",
+  "degorgee": "May 2023",
+  "sur-lie": "~24 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "extra-brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "4b4d53d0-3aa3-4fef-b89d-8b1466fbdab7",
+      "name": "Pinot Meunier"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "1",
+  "prices": [
+    "2290 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/76/4af813-76cf-43ba-b00d-4fc3234098a2/2023-10-05-10-52-45-BFFDE1AF-A8CB-4856-BF1D-D43DF173F67A-1-102-o.webp",
+  "rating": "NA"
+}

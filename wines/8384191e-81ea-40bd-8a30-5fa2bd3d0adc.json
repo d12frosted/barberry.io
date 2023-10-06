@@ -1,0 +1,35 @@
+{
+  "id": "8384191e-81ea-40bd-8a30-5fa2bd3d0adc",
+  "name": "Crozes-Hermitage Les Meysonniers Blanc",
+  "full-name": "Chapoutier Crozes-Hermitage Les Meysonniers Blanc 2022",
+  "producer": {
+    "id": "0beaef9f-ff9d-4f6b-995e-79fe9e164114",
+    "name": "Chapoutier"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "1eebb197-5ab1-4d1f-a3d2-b99e1e176b1a",
+      "name": "Marsanne"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "1",
+  "prices": [
+    "920 UAH",
+    "1075 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/83/84191e-81ea-40bd-8a30-5fa2bd3d0adc/2023-10-06-18-09-01-IMG-9719.webp",
+  "rating": "NA"
+}

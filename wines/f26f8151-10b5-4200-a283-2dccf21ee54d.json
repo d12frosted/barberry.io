@@ -7,9 +7,9 @@
     "name": "Jacquesson"
   },
   "vintage": "NV",
-  "base-vintage": null,
-  "degorgee": null,
-  "sur-lie": null,
+  "base-vintage": "2013",
+  "degorgee": "April 2022",
+  "sur-lie": "94 months",
   "colour": "white",
   "carbonation": "sparkling",
   "sweetness": "extra-brut",
@@ -33,7 +33,7 @@
     "4280 UAH",
     "4600 UAH"
   ],
-  "available": 0,
-  "image": "images/unknown-wine.webp",
+  "available": 1.0,
+  "image": "images/f2/6f8151-10b5-4200-a283-2dccf21ee54d/2023-10-06-18-16-48-IMG-9694.webp",
   "rating": "NA"
 }

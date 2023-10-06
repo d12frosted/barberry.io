@@ -1,0 +1,34 @@
+{
+  "id": "dd9f39ac-04e4-42f3-8d2a-4f2c278baec4",
+  "name": "Pet-Nat Brut Rosé Saperavi",
+  "full-name": "Mtsvane Estate Pet-Nat Brut Rosé Saperavi 2022",
+  "producer": {
+    "id": "30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7",
+    "name": "Mtsvane Estate"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "rose",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "05d63250-fea9-4680-8ffe-10ea95f0535b",
+      "name": "Saperavi"
+    }
+  ],
+  "alcohol": "11",
+  "sugar": "NA",
+  "prices": [
+    "1147 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/dd/9f39ac-04e4-42f3-8d2a-4f2c278baec4/2023-10-06-09-16-06-D8C8A325-59A1-4318-9766-EBA63D225525-1-105-c.webp",
+  "rating": "NA"
+}

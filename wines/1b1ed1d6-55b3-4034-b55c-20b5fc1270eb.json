@@ -1,0 +1,38 @@
+{
+  "id": "1b1ed1d6-55b3-4034-b55c-20b5fc1270eb",
+  "name": "Pet-Nat Brut Mtsvane - Rkatsiteli",
+  "full-name": "Mtsvane Estate Pet-Nat Brut Mtsvane - Rkatsiteli 2022",
+  "producer": {
+    "id": "30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7",
+    "name": "Mtsvane Estate"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "416450dc-c009-4f30-b631-3e7e606276ea",
+    "name": "Georgia"
+  },
+  "grapes": [
+    {
+      "id": "50618c67-59a1-4219-b8f8-a9b207a7a92d",
+      "name": "Mtsvane"
+    },
+    {
+      "id": "afb94792-cd0f-43a3-889f-cc4abfa36ff5",
+      "name": "Rkatsiteli"
+    }
+  ],
+  "alcohol": "11.7",
+  "sugar": "NA",
+  "prices": [
+    "1147 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/1b/1ed1d6-55b3-4034-b55c-20b5fc1270eb/2023-10-06-08-24-14-92A7C183-6EB4-4136-B736-13BA15F442C9-1-105-c.webp",
+  "rating": "NA"
+}

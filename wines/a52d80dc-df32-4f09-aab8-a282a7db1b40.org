@@ -9,7 +9,7 @@
 - Alcohol :: 12.72
 - Sugar :: 0.36
 - Price :: 693 UAH, 745 UAH, 810 UAH
-- Cellar :: 2 bottles
+- Cellar :: 1 bottle
 
 ** Producer
 
@@ -22,6 +22,10 @@ Run by Jean-Marie and Thierry Puzelat.
 Red flowers, hibiscus, blood, plum, bark, musk. Good acidity, a bit of rough tannin, requires decanting, juicy palate, good acidity, long aftertaste. Nice and beautiful stuff.
 
 Wine #8 on [[barberry:/posts/2023-06-27-clos-du-tue-boeuf][Clos du Tue-Boeuf Party]].
+
+*** 2023-10-03 - ☆ 8.00
+
+Consistently delicious Pinot Noir/Gamay blend with nice value for money. Lots of red fruits, red flowers, bark and musk. Almost perfectly balanced, juicy and seamless.
 
 ** Related
 
@@ -129,16 +133,64 @@ Wine #8 on [[barberry:/posts/2023-06-27-clos-du-tue-boeuf][Clos du Tue-Boeuf Par
     <section class="h text-bolder">Cheverny Rouillon - 2020</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/016ce5e6-e958-4cc8-8773-5d87068164e6.html">
+    <img class="flex-bottle" src="/images/01/6ce5e6-e958-4cc8-8773-5d87068164e6/2023-10-02-13-27-50-IMG-9592@512.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/12323b84-84ba-40eb-ab77-f960dbd47939.html">
+    <img class="flex-bottle" src="/images/12/323b84-84ba-40eb-ab77-f960dbd47939/2023-09-29-13-03-20-IMG-9457@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Bag of Bones - 2022</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/2e4d2e9f-a84e-403f-8e90-dc40f63ffd31.html">
     <img class="flex-bottle" src="/images/2e/4d2e9f-a84e-403f-8e90-dc40f63ffd31/2023-06-28-08-04-43-62CAFD09-AFD8-4842-9ED6-EAF451645C64-1-102-o@512.webp"></img>
     <section class="h">François de Nicolay</section>
     <section class="h text-bolder">Volnay 1er Cru Santenots - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a02196dc-8a44-4bc5-91e0-7a51816b9971.html">
+  <a class="flex-item flex-item-left" href="/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7.html">
+    <img class="flex-bottle" src="/images/47/cb3e57-2e4d-4f25-91e2-b24c322c00b7/2023-10-02-13-24-40-IMG-9590@512.webp"></img>
+    <section class="h">Bencze</section>
+    <section class="h text-bolder">Virgo - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/4d2d4cd3-0dd2-4301-9a52-ae483cca0579.html">
+    <img class="flex-bottle" src="/images/4d/2d4cd3-0dd2-4301-9a52-ae483cca0579/2023-10-04-07-51-42-284C0205-5E16-4D6A-90C8-91B659A66B92-1-105-c@512.webp"></img>
+    <section class="h">La Grassa</section>
+    <section class="h text-bolder">Riserva Foscari Cabernet - 1962</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34.html">
+    <img class="flex-bottle" src="/images/5d/e82ca7-aabf-4b38-8b78-1e5b5258de34/2023-10-02-13-28-06-IMG-9593@512.webp"></img>
+    <section class="h">Pierre Péters</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuvée de Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85d9d0ab-da33-4a34-a4e1-7fe65d41f03d.html">
+    <img class="flex-bottle" src="/images/85/d9d0ab-da33-4a34-a4e1-7fe65d41f03d/2023-10-04-07-54-14-AC8A6E12-F003-44AD-8F1E-5768A4986A61-1-105-c@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Burdese - 2004</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9183a551-a33f-497d-861c-8949d97507cb.html">
+    <img class="flex-bottle" src="/images/91/83a551-a33f-497d-861c-8949d97507cb/2023-10-02-13-28-30-IMG-9594@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/a02196dc-8a44-4bc5-91e0-7a51816b9971.html">
     <img class="flex-bottle" src="/images/a0/2196dc-8a44-4bc5-91e0-7a51816b9971/2023-06-28-08-09-12-147AFA86-0C74-4304-A8B6-9001DBB3230A-1-102-o@512.webp"></img>
     <section class="h">Les Cailloux du Paradis</section>
     <section class="h text-bolder">Le Pinot Noir - 2016</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653.html">
+    <img class="flex-bottle" src="/images/a9/7f4e35-4a99-449d-b25a-6a2b72a7f653/2023-10-02-13-29-03-IMG-9596@512.webp"></img>
+    <section class="h">Domaine du Castel</section>
+    <section class="h text-bolder">Petit Castel - 2020</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/c5974f33-5917-4a82-b4b7-c130a686a175.html">
@@ -147,7 +199,13 @@ Wine #8 on [[barberry:/posts/2023-06-27-clos-du-tue-boeuf][Clos du Tue-Boeuf Par
     <section class="h text-bolder">Pinot Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/f039200b-4c3e-4e54-a208-25b05a70957a.html">
+  <a class="flex-item flex-item-left" href="/wines/dc4e8325-8cb6-4d9a-a68a-3695a56388ad.html">
+    <img class="flex-bottle" src="/images/dc/4e8325-8cb6-4d9a-a68a-3695a56388ad/2023-10-02-13-27-34-IMG-9591@512.webp"></img>
+    <section class="h">Fazenda Agricola Augalevada</section>
+    <section class="h text-bolder">Mercenario branco - 2021</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f039200b-4c3e-4e54-a208-25b05a70957a.html">
     <img class="flex-bottle" src="/images/f0/39200b-4c3e-4e54-a208-25b05a70957a/2023-06-28-08-03-31-D748C6D1-9EAC-4073-9675-1BA6B295B404-1-105-c@512.webp"></img>
     <section class="h">Domaine de la Cras</section>
     <section class="h text-bolder">Bourgogne Coteaux de Dijon Rouge - 2020</section>

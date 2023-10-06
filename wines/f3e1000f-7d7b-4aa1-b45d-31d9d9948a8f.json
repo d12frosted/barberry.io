@@ -1,0 +1,34 @@
+{
+  "id": "f3e1000f-7d7b-4aa1-b45d-31d9d9948a8f",
+  "name": "Pofadder",
+  "full-name": "Sadie Family Pofadder 2022",
+  "producer": {
+    "id": "c7f2173e-1b32-4e44-8da0-bd36f04b3ae0",
+    "name": "Sadie Family"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "108ea3bf-17c7-4ba1-9f34-c739b22422ef",
+    "name": "South Africa"
+  },
+  "grapes": [
+    {
+      "id": "d7c69116-1a1d-4d22-b51a-bfb92c9e7adf",
+      "name": "Cinsault"
+    }
+  ],
+  "alcohol": "13.5",
+  "sugar": "1.5",
+  "prices": [
+    "2222 UAH"
+  ],
+  "available": 0.0,
+  "image": "images/f3/e1000f-7d7b-4aa1-b45d-31d9d9948a8f/2023-10-05-10-25-13-392E76FD-3260-403C-96ED-6BE5800D218C-1-102-o.webp",
+  "rating": "8.5"
+}

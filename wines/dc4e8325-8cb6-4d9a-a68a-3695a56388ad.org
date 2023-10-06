@@ -9,7 +9,7 @@
 - Alcohol :: 11
 - Sugar :: 0.3
 - Price :: 740 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 Mercenario Blanco is crafted by blending four grape varieties: Treixadura, Albariño, Torrontés, and Palomino. The primary source of grapes for this wine is the Manolo de Traveso vineyard, known for its clay-rich soil and granite bedrock, situated among some of the highest vineyards in the Miño River Valley. Additionally, a portion of the Treixadura grapes is sourced from the decomposed granite vineyard in the Arnoia Valley, while the Albariño grapes hail from the lower Miño area in Filgueira. Smaller vineyard parcels can also be found scattered across the three valleys: Arnoia, Avia, and Miño.
 
@@ -32,6 +32,10 @@ The Mercenario range of wines is made from fruit that has been purchased or sour
 *** 2023-06-16 - ☆ 7.75
 
 Mercenario has a youthful and aromatic bouquet dominated by pear candy and a sea breeze with a touch of honey. Not easy to extract descriptors from this wine, but it's definitely pleasant. Medium-full bodied with oily structure, fresh and well-balanced. I love the salty profile with notes of baked pear and honey. Need to taste again in few months.
+
+*** 2023-10-03 - ☆ 8.00
+
+The time has passed and the 2021 Mercenario branco is ready. It is generous, open and delicious. A charming mix of marzipan, yellow apple, lemon, sea breeze, propolis and pear candy. Salty, voluminous and well-balanced. Easy to confuse with slightly oxidated Savagnin. Great value.
 
 ** Related
 
@@ -61,10 +65,34 @@ Mercenario has a youthful and aromatic bouquet dominated by pear candy and a sea
     <section class="h text-bolder">Mercenario branco - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">
+  <a class="flex-item flex-item-left" href="/wines/016ce5e6-e958-4cc8-8773-5d87068164e6.html">
+    <img class="flex-bottle" src="/images/01/6ce5e6-e958-4cc8-8773-5d87068164e6/2023-10-02-13-27-50-IMG-9592@512.webp"></img>
+    <section class="h">R. López de Heredia</section>
+    <section class="h text-bolder">Viña Gravonia Blanco Crianza - 2015</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/116b633c-dc12-45bf-a6b4-2e7c4a9dfd9e.html">
     <img class="flex-bottle" src="/images/11/6b633c-dc12-45bf-a6b4-2e7c4a9dfd9e/2023-08-15-11-57-00-IMG-8953@512.webp"></img>
     <section class="h">Arianna Occhipinti</section>
     <section class="h text-bolder">Fossa di Lupo FL - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/12323b84-84ba-40eb-ab77-f960dbd47939.html">
+    <img class="flex-bottle" src="/images/12/323b84-84ba-40eb-ab77-f960dbd47939/2023-09-29-13-03-20-IMG-9457@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Bag of Bones - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/47cb3e57-2e4d-4f25-91e2-b24c322c00b7.html">
+    <img class="flex-bottle" src="/images/47/cb3e57-2e4d-4f25-91e2-b24c322c00b7/2023-10-02-13-24-40-IMG-9590@512.webp"></img>
+    <section class="h">Bencze</section>
+    <section class="h text-bolder">Virgo - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4d2d4cd3-0dd2-4301-9a52-ae483cca0579.html">
+    <img class="flex-bottle" src="/images/4d/2d4cd3-0dd2-4301-9a52-ae483cca0579/2023-10-04-07-51-42-284C0205-5E16-4D6A-90C8-91B659A66B92-1-105-c@512.webp"></img>
+    <section class="h">La Grassa</section>
+    <section class="h text-bolder">Riserva Foscari Cabernet - 1962</section>
   </a>
 
   <a class="flex-item flex-item-right" href="/wines/53079401-633d-49af-b4df-621f50852007.html">
@@ -73,16 +101,28 @@ Mercenario has a youthful and aromatic bouquet dominated by pear candy and a sea
     <section class="h text-bolder">Les Gaudrettes - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
+  <a class="flex-item flex-item-left" href="/wines/5de82ca7-aabf-4b38-8b78-1e5b5258de34.html">
+    <img class="flex-bottle" src="/images/5d/e82ca7-aabf-4b38-8b78-1e5b5258de34/2023-10-02-13-28-06-IMG-9593@512.webp"></img>
+    <section class="h">Pierre Péters</section>
+    <section class="h text-bolder">Brut Blanc de Blancs Cuvée de Réserve - NV</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/63bdc2e5-da6f-4871-861a-57ba37a4c3f5.html">
     <img class="flex-bottle" src="/images/63/bdc2e5-da6f-4871-861a-57ba37a4c3f5/2023-06-16-15-59-13-IMG-7756@512.webp"></img>
     <section class="h">Domaine de la Touraize</section>
     <section class="h text-bolder">Savagnin oxydatif - 2016</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
+  <a class="flex-item flex-item-left" href="/wines/70d061f4-9ef9-4c2e-835f-154c08d37a54.html">
     <img class="flex-bottle" src="/images/70/d061f4-9ef9-4c2e-835f-154c08d37a54/2023-06-16-15-51-42-IMG-7737@512.webp"></img>
     <section class="h">Patrice Beguet</section>
     <section class="h text-bolder">Silk Blue - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/85d9d0ab-da33-4a34-a4e1-7fe65d41f03d.html">
+    <img class="flex-bottle" src="/images/85/d9d0ab-da33-4a34-a4e1-7fe65d41f03d/2023-10-04-07-54-14-AC8A6E12-F003-44AD-8F1E-5768A4986A61-1-105-c@512.webp"></img>
+    <section class="h">Planeta</section>
+    <section class="h text-bolder">Burdese - 2004</section>
   </a>
 
   <a class="flex-item flex-item-left" href="/wines/90889309-ef90-4e61-ba6d-49c3ca3f1c2f.html">
@@ -91,31 +131,49 @@ Mercenario has a youthful and aromatic bouquet dominated by pear candy and a sea
     <section class="h text-bolder">Le Rouge - 2019</section>
   </a>
 
+  <a class="flex-item flex-item-right" href="/wines/9183a551-a33f-497d-861c-8949d97507cb.html">
+    <img class="flex-bottle" src="/images/91/83a551-a33f-497d-861c-8949d97507cb/2023-10-02-13-28-30-IMG-9594@512.webp"></img>
+    <section class="h">Momento Mori</section>
+    <section class="h text-bolder">Rosso - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/a52d80dc-df32-4f09-aab8-a282a7db1b40.html">
+    <img class="flex-bottle" src="/images/a5/2d80dc-df32-4f09-aab8-a282a7db1b40/2023-10-02-13-28-49-IMG-9595@512.webp"></img>
+    <section class="h">Clos du Tue-Boeuf</section>
+    <section class="h text-bolder">Cheverny Rouillon - 2022</section>
+  </a>
+
   <a class="flex-item flex-item-right" href="/wines/a7426870-7f6d-41c1-bb8b-fa00a3a344f6.html">
     <img class="flex-bottle" src="/images/a7/426870-7f6d-41c1-bb8b-fa00a3a344f6/2023-06-16-15-57-56-IMG-7750@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">La Pépée - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ce308c98-42d1-46a8-bb8d-7e47a71b288d.html">
+  <a class="flex-item flex-item-left" href="/wines/a97f4e35-4a99-449d-b25a-6a2b72a7f653.html">
+    <img class="flex-bottle" src="/images/a9/7f4e35-4a99-449d-b25a-6a2b72a7f653/2023-10-02-13-29-03-IMG-9596@512.webp"></img>
+    <section class="h">Domaine du Castel</section>
+    <section class="h text-bolder">Petit Castel - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/ce308c98-42d1-46a8-bb8d-7e47a71b288d.html">
     <img class="flex-bottle" src="/images/ce/308c98-42d1-46a8-bb8d-7e47a71b288d/2023-06-19-10-20-35-IMG-7805@512.webp"></img>
     <section class="h">Domaine des Cavarodes</section>
     <section class="h text-bolder">Vin de Pays de Franche-Comté Blanc - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
+  <a class="flex-item flex-item-left" href="/wines/e4351bcf-6fd6-4b71-b3ac-acf63e9c45e1.html">
     <img class="flex-bottle" src="/images/e4/351bcf-6fd6-4b71-b3ac-acf63e9c45e1/2023-06-16-16-06-04-IMG-7764@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Pupillin Savagnin - 2014</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
+  <a class="flex-item flex-item-right" href="/wines/ead0b45d-2239-4dcc-9254-5f3f4cb486cf.html">
     <img class="flex-bottle" src="/images/ea/d0b45d-2239-4dcc-9254-5f3f4cb486cf/2023-06-16-15-58-24-IMG-7754@512.webp"></img>
     <section class="h">Les Bottes Rouges</section>
     <section class="h text-bolder">face b - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
+  <a class="flex-item flex-item-left" href="/wines/f022ae6b-698b-4e7e-8aa9-a742bfc055c1.html">
     <img class="flex-bottle" src="/images/f0/22ae6b-698b-4e7e-8aa9-a742bfc055c1/2023-06-16-16-05-27-IMG-7759@512.webp"></img>
     <section class="h">Renaud Bruyère & Adeline Houillon</section>
     <section class="h text-bolder">Arbois Blanc Les Nouvelles Chardonnay - 2016</section>

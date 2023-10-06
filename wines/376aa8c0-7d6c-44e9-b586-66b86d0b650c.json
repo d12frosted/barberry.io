@@ -1,0 +1,35 @@
+{
+  "id": "376aa8c0-7d6c-44e9-b586-66b86d0b650c",
+  "name": "Brut Millésime Blanc de Blancs Grand Cru L'esprit",
+  "full-name": "Pierre Péters Brut Millésime Blanc de Blancs Grand Cru L'esprit 2018",
+  "producer": {
+    "id": "f833fc52-2608-487e-988d-e70d404ab528",
+    "name": "Pierre Péters"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": "[2022-11-14 Mon]",
+  "sur-lie": "~40 months",
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12",
+  "sugar": "4.45",
+  "prices": [
+    "3440 UAH",
+    "3700 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/37/6aa8c0-7d6c-44e9-b586-66b86d0b650c/2023-10-06-18-05-35-IMG-9688.webp",
+  "rating": "NA"
+}

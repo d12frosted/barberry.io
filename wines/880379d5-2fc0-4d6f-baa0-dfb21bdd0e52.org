@@ -21,19 +21,25 @@ Restrained bouquet of dark plum and other black fruits, spices like white pepper
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/9f227696-5fb2-4427-b93e-700794fdc5f2.html">
+  <a class="flex-item flex-item-left" href="/wines/8384191e-81ea-40bd-8a30-5fa2bd3d0adc.html">
+    <img class="flex-bottle" src="/images/83/84191e-81ea-40bd-8a30-5fa2bd3d0adc/2023-10-06-18-09-01-IMG-9719@512.webp"></img>
+    <section class="h">Chapoutier</section>
+    <section class="h text-bolder">Crozes-Hermitage Les Meysonniers Blanc - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/9f227696-5fb2-4427-b93e-700794fdc5f2.html">
     <img class="flex-bottle" src="/images/9f/227696-5fb2-4427-b93e-700794fdc5f2/2023-05-11-22-11-42-IMG-6879@512.webp"></img>
     <section class="h">Chapoutier</section>
     <section class="h text-bolder">Les Arènes Cornas - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/cafb1ac6-e2c9-4e5a-8e57-3608760ebcf7.html">
+  <a class="flex-item flex-item-left" href="/wines/cafb1ac6-e2c9-4e5a-8e57-3608760ebcf7.html">
     <img class="flex-bottle" src="/images/ca/fb1ac6-e2c9-4e5a-8e57-3608760ebcf7/2023-09-29-12-54-24-IMG-9426@512.webp"></img>
     <section class="h">Chapoutier</section>
-    <section class="h text-bolder">Crozes-Hermitage Les Meysonniers - 2021</section>
+    <section class="h text-bolder">Crozes-Hermitage Les Meysonniers Rouge - 2021</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">
+  <a class="flex-item flex-item-right" href="/wines/a9ce10b3-c64a-4a32-9490-b7e3ffb0d0ac.html">
     <img class="flex-bottle" src="/images/a9/ce10b3-c64a-4a32-9490-b7e3ffb0d0ac/2022-01-13-09-59-05-383B22A4-9F2E-4CB3-B703-F2BABEDEF9E9-1-105-c@512.webp"></img>
     <section class="h">Descendientes de Jose Palacios</section>
     <section class="h text-bolder">Louro - 2020</section>
