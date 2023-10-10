@@ -9,7 +9,13 @@
     <section class="h text-bolder">Clos du Bourg Demi-Sec - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">
+  <a class="flex-item flex-item-right" href="/wines/748bf160-f687-4640-8855-1fb78d16fc5f.html">
+    <img class="flex-bottle" src="/images/74/8bf160-f687-4640-8855-1fb78d16fc5f/2023-10-10-07-51-24-EC3327AA-517A-4927-AF76-F093D2CD86B1-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Clos du Bourg Moelleux - 2009</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/b01e1456-ec9c-4ba4-ab6e-b8f05530b1ef.html">
     <img class="flex-bottle" src="/images/b0/1e1456-ec9c-4ba4-ab6e-b8f05530b1ef/2022-07-30-10-53-36-C46E4A6F-75F3-4654-A3F5-002F8711F208-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Le Haut-Lieu Sec - 2017</section>

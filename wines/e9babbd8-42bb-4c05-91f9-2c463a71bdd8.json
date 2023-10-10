@@ -1,0 +1,38 @@
+{
+  "id": "e9babbd8-42bb-4c05-91f9-2c463a71bdd8",
+  "name": "Grand Cellier d'Or 1er Cru à Rilly la Montagne",
+  "full-name": "Vilmart & Cie Grand Cellier d'Or 1er Cru à Rilly la Montagne 2015",
+  "producer": {
+    "id": "26588b1e-d8a4-4f63-ad55-08c1dbb36149",
+    "name": "Vilmart & Cie"
+  },
+  "vintage": "2015",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "sparkling",
+  "sweetness": "brut",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    },
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "3483 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/e9/babbd8-42bb-4c05-91f9-2c463a71bdd8/2023-10-10-08-02-46-307351B9-7EB4-42DE-9030-A500471CACB6-1-105-c.webp",
+  "rating": "NA"
+}

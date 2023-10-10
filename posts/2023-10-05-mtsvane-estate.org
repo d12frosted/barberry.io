@@ -31,6 +31,78 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
+* Mtsvane Estate Pet-Nat Brut Chinuri - Goruli Mtsvane 2022
+:PROPERTIES:
+:ID:                     1b72cc79-d6cb-4a4f-9873-1b56f44281cc
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-05-mtsvane-estate/2023-10-06-08-21-10-E000950B-8D26-4E08-B42E-09C05A92556B-1-105-c.webp]]
+
+- producer: [[barberry:/producers/30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7][Mtsvane Estate]]
+- name: [[barberry:/wines/87c5510a-a8d4-4d16-b78a-a42004a17e2b][Pet-Nat Brut Chinuri - Goruli Mtsvane]]
+- vintage: 2022
+- grapes: Chinuri, Goruli Mtsvane
+- region: Kakhetia
+- location: Georgia
+- alcohol: 11
+- sugar: N/A
+- price: 1147 UAH
+
+* Mtsvane Estate Pet-Nat Brut Tsolikauri-Tsitska 2021
+:PROPERTIES:
+:ID:                     4a0d1183-a6da-4be9-9e8b-0e89653b1b61
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-05-mtsvane-estate/2023-10-06-08-22-05-D0A8AA73-67B3-488C-B45F-581826D4AA5A-1-105-c.webp]]
+
+- producer: [[barberry:/producers/30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7][Mtsvane Estate]]
+- name: [[barberry:/wines/149668d8-4c02-44c0-8955-8d6028e35c92][Pet-Nat Brut Tsolikauri-Tsitska]]
+- vintage: 2021
+- grapes: Tsolikouri, Tsitska
+- region: Kakhetia
+- location: Georgia
+- alcohol: 11.7
+- sugar: 0.86
+- price: 1147 UAH
+
+* Mtsvane Estate Pet-Nat Brut Mtsvane - Rkatsiteli 2022
+:PROPERTIES:
+:ID:                     de133907-e9b1-4509-8fce-e7651f65a4a4
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-05-mtsvane-estate/2023-10-06-08-24-14-92A7C183-6EB4-4136-B736-13BA15F442C9-1-105-c.webp]]
+
+- producer: [[barberry:/producers/30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7][Mtsvane Estate]]
+- name: [[barberry:/wines/1b1ed1d6-55b3-4034-b55c-20b5fc1270eb][Pet-Nat Brut Mtsvane - Rkatsiteli]]
+- vintage: 2022
+- grapes: Mtsvane, Rkatsiteli
+- region: Kakhetia
+- location: Georgia
+- alcohol: 11.7
+- sugar: N/A
+- price: 1147 UAH
+
+* Mtsvane Estate Amber 2022
+:PROPERTIES:
+:ID:                     903dcbb1-c67b-4c85-96ec-761f3c579bd0
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-05-mtsvane-estate/2023-10-10-08-00-35-7488CBF7-5CDB-4014-9796-9070EFC490A2-1-105-c.webp]]
+
+- producer: [[barberry:/producers/30579fbc-cb5e-4df2-8cfb-31fcfbf0dcb7][Mtsvane Estate]]
+- name: [[barberry:/wines/2e7801b5-d9e7-4c51-88de-df87c98a0f9d][Amber]]
+- vintage: 2022
+- grapes: Mtsvane
+- region: Kakhetia
+- location: Georgia
+- alcohol: 13
+- sugar: 1
+- price: 987 UAH
+
 * Raw scores
 :PROPERTIES:
 :ID:                     558b6eda-2eb1-47b9-b630-cce409861cb5

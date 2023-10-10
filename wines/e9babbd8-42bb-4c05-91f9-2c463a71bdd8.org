@@ -1,0 +1,29 @@
+#+attr_html: :class wine-main-image
+[[file:/images/e9/babbd8-42bb-4c05-91f9-2c463a71bdd8/2023-10-10-08-02-46-307351B9-7EB4-42DE-9030-A500471CACB6-1-105-c@512.webp]]
+
+- Type :: White Sparkling, Brut
+- Producer :: [[barberry:/producers/26588b1e-d8a4-4f63-ad55-08c1dbb36149][Vilmart & Cie]]
+- Vintage :: 2015
+- Location :: France, Champagne AOC
+- Grapes :: Chardonnay, Pinot Noir
+- Alcohol :: 12.5
+- Sugar :: NA
+- Price :: 3483 UAH
+- Cellar :: 1 bottle
+
+** Ratings
+
+There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+
+** Related
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/48f6d914-0ac3-4d79-a5bc-4c384f163db0.html">
+    <img class="flex-bottle" src="/images/48/f6d914-0ac3-4d79-a5bc-4c384f163db0/2023-09-22-11-24-55-299D9A57-BA51-40DB-8D67-B511061C496F-1-105-c@512.webp"></img>
+    <section class="h">Vilmart & Cie</section>
+    <section class="h text-bolder">Emotion - 2012</section>
+  </a>
+
+</div>
+#+end_export

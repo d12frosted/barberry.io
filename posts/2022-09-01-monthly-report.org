@@ -96,7 +96,7 @@ I am happy to see România and Bulgaria on this list. But having only one wine f
 |--------------+-------+--------------+-------+---------|
 | Italy        |    24 | 890.27 UAH   |  7.66 | 13.7645 |
 | France       |    20 | 1 037.48 UAH |  7.75 | 20.3187 |
-| Spain        |    10 | 845.85 UAH   |  7.71 | 41.8151 |
+| Spain        |    10 | 814.94 UAH   |  7.71 | 43.1590 |
 | Australia    |     7 | 1 097.77 UAH |  8.03 | 25.8079 |
 | Germany      |     5 | 696.20 UAH   |  7.42 |  4.5715 |
 | Austria      |     3 | 711.80 UAH   |  7.42 |  1.4606 |
@@ -139,8 +139,8 @@ According to my notes, the best vintage in terms of highest average score and QP
 |    2021 |     3 | 602.73 UAH   |  7.08 |  0.4497 |
 |    2020 |    12 | 831.91 UAH   |  7.69 |  6.8678 |
 |    2019 |    23 | 828.91 UAH   |  7.56 |  8.1998 |
-|    2018 |    14 | 1 077.22 UAH |  7.73 | 30.8307 |
-|    2017 |    14 | 1 031.22 UAH |  7.84 | 38.2463 |
+|    2018 |    14 | 1 059.69 UAH |  7.73 | 30.8311 |
+|    2017 |    14 | 1 026.68 UAH |  7.84 | 39.2978 |
 |    2016 |     3 | 885.02 UAH   |  7.76 |  6.7243 |
 |    2015 |     1 | 955.00 UAH   |  7.50 |  1.2165 |
 |    2014 |     2 | 1 592.94 UAH |  8.38 | 43.0159 |
@@ -187,8 +187,8 @@ Besides novelties, I am happy to see some other rather rare grapes. Like Ruchè,
 | Carricante                   |     2 | 967.50 UAH   |  7.38 |  1.1325 |
 | Gamay                        |     2 | 976.00 UAH   |  7.75 |  6.7764 |
 | Albanello                    |     2 | 947.34 UAH   |  7.75 |  7.1269 |
-| Mollar Cano                  |     2 | 998.27 UAH   |  8.50 | 92.3423 |
-| Listán Negro                 |     2 | 1 118.50 UAH |  7.45 |  0.8816 |
+| Mollar Cano                  |     2 | 966.45 UAH   |  8.50 | 95.3829 |
+| Listán Negro                 |     2 | 995.76 UAH   |  7.45 |  0.9695 |
 | Picpoul Noir                 |     1 | 399.00 UAH   |  7.00 |  0.4256 |
 | Ruchè                        |     1 | 795.00 UAH   |  7.40 |  0.9808 |
 | Frappato                     |     1 | 789.00 UAH   |  7.50 |  1.4724 |
@@ -236,7 +236,7 @@ Besides novelties, I am happy to see some other rather rare grapes. Like Ruchè,
 | Moristel                     |     1 | 869.00 UAH   |  7.40 |  0.8973 |
 | Mandó                        |     1 | 869.00 UAH   |  7.40 |  0.8973 |
 | Arneis                       |     1 | 853.00 UAH   |  7.40 |  0.9141 |
-| Sumoll                       |     1 | 1 398.00 UAH |  7.50 |  0.8310 |
+| Sumoll                       |     1 | 1 152.53 UAH |  7.50 |  1.0080 |
 | Cabernet Sauvignon           |     1 | 1 200.00 UAH |  8.00 |  7.8977 |
 | Nerello Mascalese            |     1 | 974.32 UAH   |  8.00 |  9.7270 |
 | Welschriesling               |     1 | 847.24 UAH   |  7.50 |  1.3712 |
@@ -275,7 +275,7 @@ Besides novelties, I am happy to see some other rather rare grapes. Like Ruchè,
 | 2022-08-23 | New Zealand  | [[barberry:/producers/9880c5f6-e77b-4171-9e0f-069b9c4fcae0][Alex Craighead]]                     | [[barberry:/wines/5d58df70-237b-49d5-b236-b91ce5c45eba][Alex Craighead Kindeli Verano 2020]] |    2020 | 7.50 |  1.4485 |
 | 2022-08-23 | Italy        | [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]                        | [[barberry:/wines/2bdf5b08-d90a-4cf9-b69d-fb3d0ffefd2e][Cà del Vént Anima Brut Rosé Pas Operé VSQ 2014]] |    2014 | 8.50 | 58.0831 |
 | 2022-08-23 | Australia    | [[barberry:/producers/a5a9432f-8e72-459e-8462-ec0a0bb1fe2a][An Approach To Relaxation]]          | [[barberry:/wines/1972ae47-ec40-46f1-82c5-f48d39a28a5a][An Approach To Relaxation Sucette 2018]] |    2018 | 8.50 | 60.2893 |
-| 2022-08-23 | Spain        | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]           | [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]] |    2017 | 8.50 | 92.3423 |
+| 2022-08-23 | Spain        | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]           | [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]] |    2017 | 8.50 | 95.3829 |
 | 2022-08-23 | France       | [[barberry:/producers/cdc80e0e-1163-4b33-916d-e6806e5073e3][Matassa]]                            | [[barberry:/wines/d6ffcdcc-661f-4e9e-bcfa-93446faf8f22][Matassa Tattouine Rouge 2020]]       |    2020 | 8.00 |  8.6788 |
 | 2022-08-23 | Italy        | [[barberry:/producers/040a275b-2e16-4d7a-a557-036bf44d85df][Villa Calicantus]]                   | [[barberry:/wines/5fb42b2f-6d7d-4a31-98b2-d157c96cf41b][Villa Calicantus Chiar'otto Bardolino Classico Chiaretto 2019]] |    2019 | 7.40 |  1.1108 |
 | 2022-08-23 | France       | [[barberry:/producers/17cb8d12-1c15-4c04-a3c7-b1e73e47b3a6][Anne et J.F. Ganevat]]               | [[barberry:/wines/7141038a-4f6b-4a49-97df-c3fc4befd6fb][Anne et J.F. Ganevat La Bubulle à Jeannot NV]] |      NV | 7.50 |  1.2165 |
@@ -326,10 +326,10 @@ Besides novelties, I am happy to see some other rather rare grapes. Like Ruchè,
 | 2022-08-08 | Spain        | [[barberry:/producers/02f16863-4e49-492a-ba27-c48e3184a954][Frontonio]]                          | [[barberry:/wines/21167da9-25a8-4236-8f35-c5f2e5dd5add][Frontonio Telescópico Garnacha 2017]] |    2017 | 7.40 |  0.9908 |
 | 2022-08-08 | Spain        | [[barberry:/producers/0e0a9f99-372a-4108-937e-c1d096263ad6][Celler del Roure]]                   | [[barberry:/wines/b861b902-fca0-455c-9e78-24c2c72f362d][Celler del Roure Parotet 2017]]      |    2017 | 7.40 |  0.8973 |
 | 2022-08-08 | Italy        | [[barberry:/producers/3fb76a4b-2a36-402b-a1da-fcf59e9b02af][Alberto Oggero]]                     | [[barberry:/wines/b393d9cb-bde1-4785-a061-4a1a9c074ad5][Alberto Oggero Roero Arneis 2018]]   |    2018 | 7.40 |  0.9141 |
-| 2022-08-08 | Spain        | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]           | [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]] |    2017 | 8.50 | 92.3423 |
+| 2022-08-08 | Spain        | [[barberry:/producers/72cdba44-ecb8-4224-97d9-f94b8bc8b6ba][Victoria E. Torres Pecis]]           | [[barberry:/wines/b869e1d7-0bc5-4eaa-ab69-a436b48ba75a][Victoria E. Torres Pecis Sin Titulo NG 2017]] |    2017 | 8.50 | 95.3829 |
 | 2022-08-08 | France       | [[barberry:/producers/3934f5e7-c53e-4c3f-ad14-eea9046b046c][Domaine Pinson]]                     | [[barberry:/wines/7283c031-a974-4259-9a2f-7816f2e120d2][Domaine Pinson Chablis Premier Cru Montmain 2018]] |    2018 | 8.25 | 16.2170 |
 | 2022-08-08 | France       | [[barberry:/producers/3934f5e7-c53e-4c3f-ad14-eea9046b046c][Domaine Pinson]]                     | [[barberry:/wines/4c766528-8c5d-4d33-83fb-270463090018][Domaine Pinson Chablis 2020]]        |    2020 | 8.00 | 10.4491 |
-| 2022-08-08 | Spain        | [[barberry:/producers/909af48f-7cab-476b-8610-e47622419ac5][Bimbache Vinicola]]                  | [[barberry:/wines/4dcc5d88-f386-4471-9b63-c46e9a8c56cb][Bimbache Vinicola Tinto El Hierro 2018]] |    2018 | 7.50 |  0.8310 |
+| 2022-08-08 | Spain        | [[barberry:/producers/909af48f-7cab-476b-8610-e47622419ac5][Bimbache Vinicola]]                  | [[barberry:/wines/4dcc5d88-f386-4471-9b63-c46e9a8c56cb][Bimbache Vinicola Tinto El Hierro 2018]] |    2018 | 7.50 |  1.0080 |
 | 2022-08-06 | France       | [[barberry:/producers/461a005a-3007-46a9-8ab4-f716429379fa][Domaine de la Taille Aux Loups]]     | [[barberry:/wines/38f3bf0d-21eb-4214-a52a-259ffa5b8b7b][Domaine de la Taille Aux Loups Montlouis sur Loire Clos Michet 2019]] |    2019 | 8.00 |  7.5818 |
 | 2022-08-06 | Italy        | [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]                        | [[barberry:/wines/1c498873-9026-4a72-b993-0c51235b0883][Cà del Vént Memoria Brut Pas Operé VSQ 2014]] |    2014 | 8.25 | 18.0853 |
 | 2022-08-06 | Italy        | [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]                   | [[barberry:/wines/cd47aa9b-d3ca-4039-8b24-212abb20e97d][Marco De Bartoli Integer Zibibbo 2019]] |    2019 | 8.00 |  7.9253 |

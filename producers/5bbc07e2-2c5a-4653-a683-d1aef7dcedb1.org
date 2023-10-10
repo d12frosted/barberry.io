@@ -3,7 +3,13 @@
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
+  <a class="flex-item flex-item-left" href="/wines/73517407-e727-4a49-ae59-bdac92fe97b0.html">
+    <img class="flex-bottle" src="/images/73/517407-e727-4a49-ae59-bdac92fe97b0/2023-10-10-07-55-19-A13B50AB-E331-4807-B58C-998C95DF0EE1-1-105-c@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Anisos - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/33f9dc8f-32e1-4960-90e1-ad2807edc2a3.html">
     <img class="flex-bottle" src="/images/33/f9dc8f-32e1-4960-90e1-ad2807edc2a3/2023-07-02-14-47-13-IMG-8141@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Riflesso Rosi Rosato - 2020</section>

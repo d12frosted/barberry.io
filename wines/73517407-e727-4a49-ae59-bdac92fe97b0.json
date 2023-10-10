@@ -1,0 +1,42 @@
+{
+  "id": "73517407-e727-4a49-ae59-bdac92fe97b0",
+  "name": "Anisos",
+  "full-name": "Eugenio Rosi Anisos 2018",
+  "producer": {
+    "id": "5bbc07e2-2c5a-4653-a683-d1aef7dcedb1",
+    "name": "Eugenio Rosi"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "bff84eeb-83d4-4053-a24c-db8571920533",
+      "name": "Nosiola"
+    },
+    {
+      "id": "c9566c34-3ffa-4f7c-b9cb-70c0f849a56f",
+      "name": "Pinot Blanc"
+    },
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "NA",
+  "prices": [
+    "1119 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/73/517407-e727-4a49-ae59-bdac92fe97b0/2023-10-10-07-55-19-A13B50AB-E331-4807-B58C-998C95DF0EE1-1-105-c.webp",
+  "rating": "NA"
+}
