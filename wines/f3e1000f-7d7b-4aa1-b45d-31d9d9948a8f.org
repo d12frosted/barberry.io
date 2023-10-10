@@ -75,5 +75,11 @@ An attractive, delicate and mineral bouquet of barberry candy, blood and red flo
     <section class="h text-bolder">Columella - 2016</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/764af813-76cf-43ba-b00d-4fc3234098a2.html">
+    <img class="flex-bottle" src="/images/76/4af813-76cf-43ba-b00d-4fc3234098a2/2023-10-05-10-52-45-BFFDE1AF-A8CB-4856-BF1D-D43DF173F67A-1-102-o@512.webp"></img>
+    <section class="h">Domaine Nowack</section>
+    <section class="h text-bolder">Assemblage Sans Année Autre Cru - NV</section>
+  </a>
+
 </div>
 #+end_export
