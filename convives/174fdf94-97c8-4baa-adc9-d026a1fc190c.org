@@ -1,10 +1,23 @@
-Hello, fellow convive! This page contains a list of wines (446 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (454 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Thursday, 12 October 2023
+
+*** @Garage / [[barberry:/posts/2023-10-12-bourgogne][Bourgogne Party Vol. 2 by Vova and Mykola]]
+
+- ★ 3.80 [[barberry:/wines/477160d7-d33f-4602-b41f-c27bbbd20a4b][Yann Durieux CDN 2018]]
+- ★ 3.90 [[barberry:/wines/f423cba0-4948-4c56-9e02-75f459163960][Antoine Lienhardt Emphase 2020]]
+- ❤️ 4.00 [[barberry:/wines/03e47266-8b42-40a4-8950-713f20632838][Pierre Naigeon Gevrey-Chambertin Meix-Bas 2013]]
+- ★ 3.90 [[barberry:/wines/3eeefc0c-c2cc-4f8a-80e7-e71bf1c06620][Domaine Derain Saint-Aubin 1er Cru En Remilly 2018]]
+- ★ 4.00 [[barberry:/wines/4972c06d-8ac0-488f-8d46-e96fb404ffcd][François de Nicolay Bouzeron 2020]]
+- ★ 4.10 [[barberry:/wines/164a4ecb-6863-40e3-9d5b-3beee87cad16][La Soufrandière Pouilly-Vinzelles Climat Les Quarts Cuvée Zen 2019]]
+- ❤️ 4.30 [[barberry:/wines/785e693c-e1fc-45fe-93f0-119eddb6d6c7][Philippe Pacalet Corton-Charlemagne Grand Cru 2011]]
+- ★ 4.15 [[barberry:/wines/9038017f-adc5-4695-be01-6a1935308467][Henri & Gilles Buisson Meursault Les Vignes de Marguerite 2018]]
 
 ** Wednesday, 13 September 2023
 

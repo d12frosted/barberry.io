@@ -28,7 +28,7 @@ This was not just an evening for savouring the nuanced flavours of Burgundy's fa
 | Wine #3 |   4.0373 | 0.0078 |      3.00 |    0.00 |  2990.00 |   0.8480 |
 | Wine #4 |   3.7607 | 0.3179 |      0.00 |    0.00 |  2250.00 |   0.7040 |
 | Wine #5 |   4.1441 | 0.0641 |      3.00 |    0.00 |  1090.00 | *2.7093* |
-| Wine #6 | *4.1566* | 0.0170 |      6.00 |    0.00 |  2228.00 |   1.3631 |
+| Wine #6 | *4.1657* | 0.0169 |      6.00 |    0.00 |  2228.00 |   1.3823 |
 | Wine #7 |   4.1206 | 0.0197 |      2.00 |  +1.00+ | 13500.00 |   0.2127 |
 | Wine #8 |   4.1343 | 0.0201 |      0.00 |    0.00 |  2850.00 |   1.0290 |
 
@@ -59,6 +59,10 @@ How to read this table:
 - sugar: 1.5
 - price: 3550 UAH
 
+Approaching Yann Durieux for the first time, I held some reservations, anticipating a wild, perhaps unruly experience. The wine's nose was indeed a captivating ensemble; a delicate, floral bouquet graced by pomegranate, sour cherry, and earthy undertones. As it breathed, the floral notes ebbed, making way for a more primal, animalistic profile punctuated by cranberries.
+
+The palate, however, posed a challenge. The tannins, evocative of coarse sandpaper, were uncompromisingly dry, contrasting the wine's inherent juiciness. Underneath this intense tannic structure, there were glimpses of delicacy, but they were overshadowed by the wine's youthful vigour. In conclusion, while the craftsmanship is evident, the wine feels prematurely opened, needing more time to harmonise its fierce tannins with its nuanced character.
+
 * Antoine Lienhardt Emphase 2020
 :PROPERTIES:
 :ID:                     79bdd2c8-5b52-447c-bd99-f51010a1840c
@@ -76,6 +80,10 @@ How to read this table:
 - alcohol: 13
 - sugar: N/A
 - price: 1880 UAH
+
+The 2020 Emphase offers up a delicate bouquet graced predominantly by sweet red fruits. This lively aroma is further complemented by the floral notes of peonies, painting a fragrant picture of a blossoming orchard. The palate closely follows, evoking the velvety consistency of kissel, underscored by a subtle bitterness reminiscent of dogwood or other herbaceous bitters.
+
+While the wine might lack profound complexity, it certainly captivates with its interesting character. There are a few rough edges, true, but they don't overshadow the wine's inherent pleasantness. A lingering aftertaste ensures its presence is remembered, though it might benefit from a touch more acidity. It was easy to discern the youthful vigour of this wine, making it distinguishable from the eccentricity often associated with Yann Durieux.
 
 * Pierre Naigeon Gevrey-Chambertin Meix-Bas 2013
 :PROPERTIES:
@@ -95,6 +103,8 @@ How to read this table:
 - sugar: N/A
 - price: 2990 UAH
 
+The Gevrey-Chambertin Meix-Bas 2013 by Pierre Naigeon reveals itself through a somewhat restrained bouquet. This hesitancy, however, merely piques the curiosity. Red fruits come to the forefront, followed by more elusive scents of blood and underbrush. Sipping it is a joyful affair: it bursts onto the palate with vivacity and a juiciness underpinned by delightful acidity, like indulging in a delectable candy. It's strikingly well-balanced with a velvety texture that flows seamlessly from sip to swallow. And just when you think it's done, it leaves behind a lingering aftertaste, reminding you of its depth and maturity. The wine's age is unmistakable, yet it carries its years with grace and allure.
+
 * Domaine Derain Saint-Aubin 1er Cru En Remilly 2018
 :PROPERTIES:
 :ID:                     888a9465-8d5d-426a-b4b4-8f1facd2a79b
@@ -112,6 +122,8 @@ How to read this table:
 - alcohol: 14
 - sugar: 1
 - price: 2250 UAH
+
+The 2018 Saint-Aubin 1er Cru En Remilly by Domaine Derain carries with it the gentle touch of canned peach, complemented by a zesty hint reminiscent of a lemon tart with meringue. Yeasty undertones add a subtle richness to its aromatic profile. On the palate, it swathes the senses with a velvety texture, coming across as round and indulgently buttery. Its balance is commendable, walking that fine line with grace. While it doesn't boast a great complexity, there's a soft, approachable character to it. A bit on the delicate side, perhaps, but nonetheless a pleasant pour.
 
 * François de Nicolay Bouzeron 2020
 :PROPERTIES:
@@ -131,6 +143,8 @@ How to read this table:
 - sugar: 1
 - price: 1090 UAH
 
+The 2020 Bouzeron by François de Nicolay unfurls with an immediate punch, one that's vividly reminiscent of salted peanuts. This saltiness melds seamlessly with the mellow sweetness of yellow fruits, juxtaposed against the slightly tart backdrop of green apricots. A presumption arises: the absence of malolactic fermentation. There's a perceptible green edge to it, manifested not just in its taste, but also in its undercurrent of zesty citrus notes. All of this is underpinned by an assertive acidity. This is not a wine that seeks to play it safe, but its risks are calculated, revealing a creation that's been expertly crafted.
+
 * La Soufrandière Pouilly-Vinzelles Climat Les Quarts Cuvée Zen 2019
 :PROPERTIES:
 :ID:                     7a9273f6-7454-49c3-88c1-d1c990a14aee
@@ -148,6 +162,8 @@ How to read this table:
 - alcohol: 13.5
 - sugar: 1.5
 - price: 2228 UAH
+
+The La Soufrandière Pouilly-Vinzelles Cuvée Zen 2019 sweeps in with an evocative seaside aroma: seafood and shells intertwined with ripe yellow fruits. This maritime ambiance is complemented by the striking presence of flint and gunpowder, adding depth to its olfactory profile. On the palate, the wine presents itself as beautifully balanced and structurally sound. A hint of malolactic fermentation lends it a buttery character, enriched with nuanced notes of tarragon. As for the finish, it's not just long – it's eternal, continually evolving and beckoning for another sip.
 
 * Philippe Pacalet Corton-Charlemagne Grand Cru 2011
 :PROPERTIES:
@@ -167,6 +183,8 @@ How to read this table:
 - sugar: N/A
 - price: 13500 UAH
 
+The nose kicks off with the earthy blend of beeswax and walnut, before throwing in a curveball with hints of seafood. Taking a sip, there's buttery richness, a bit of green apricot's tartness, and the subtle char of toast. Its mineral backbone is a steady hand guiding you through these flavour twists and turns, ending on a sesame afternote. The balance? Almost spot on – and for a 2011, that's no small feat. It wraps up with a tropical nod of canned pineapple. And yes, I'm kicking myself for blindly rating such a posh wine so high. My wallet might not forgive me!
+
 * Henri & Gilles Buisson Meursault Les Vignes de Marguerite 2018
 :PROPERTIES:
 :ID:                     4cb3b1fd-aa61-413e-8221-8dc9b091a953
@@ -185,6 +203,8 @@ How to read this table:
 - sugar: 2
 - price: 2850 UAH
 
+Upon first sip, this Meursault greets you with a promising trace of apple seeds and chalk, reminiscent of an orchard on a crisp morning. There's an undeniable charm to its acidity – it's vibrant and sharp. While the wine has a certain sophistication, it doesn't overdo it, maintaining an approachable and straightforward character. The palate unfolds with citrus, stone fruit, and an unexpected touch of tropical guava, all layered beneath undertones of cream and chamomile. It wraps up with a lingering aftertaste where quince and chalk take the limelight. Simple, yet effective. Just like the best of life's pleasures, isn't it?
+
 * Raw scores
 :PROPERTIES:
 :ID:                     53eb586b-9c22-4756-aad6-3b45f382e28f
@@ -193,17 +213,17 @@ How to read this table:
 #+attr_html: :class tasting-scores
 #+caption: Scores
 #+results: scores
-|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Mykola Ch   |  +3.90+ | 4.10    |  *4.20* |    3.90 |    4.00 | *4.40*  |  +4.00+ |    4.10 |
-| Yevgeniya T |    3.90 | *4.10*  |    4.00 |    4.10 |    4.10 | *4.30*  |    4.00 |    4.20 |
-| Anna P      |    3.70 | *4.00*  |    3.90 |    3.80 |    4.00 | *4.00*  |    3.90 |    3.90 |
-| Anya I      |    4.00 | *4.20*  |    4.00 |    4.10 |    4.00 | *4.20*  |    4.00 |    4.10 |
-| Mykola T    |    3.90 | *4.10*  |    4.20 |    3.90 |    4.10 | *4.10*  |    4.10 |    4.10 |
-| Anastasiia  |    4.00 | 4.00    |  *4.00* |    3.90 |  *4.20* | 4.20    |    4.20 |    4.10 |
-| Natalia     |    2.00 | *4.50*  |    4.00 |    2.00 |  *4.90* | 4.00    |    4.00 |    4.50 |
-| Dominika    |    3.70 | *4.20*  |    4.00 |    3.50 |  *4.20* | 4.00    |    4.20 |    4.20 |
-| Elvira K    |    3.80 | 3.90    |  *4.00* |    3.90 |    4.00 | 4.10    |  *4.30* |    4.15 |
-| Vova U      |    3.90 | *4.20*  |    4.10 |    3.90 |    4.00 | *4.30*  |    4.30 |    4.10 |
-| Boris B     |    3.90 | *4.00*  |    4.00 |    3.90 |    4.00 | 4.10    |  *4.30* |    4.00 |
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch    |  +3.90+ | 4.10    |  *4.20* |    3.90 |    4.00 | *4.40*  |  +4.00+ |    4.10 |
+| Yevgeniya T  |    3.90 | *4.10*  |    4.00 |    4.10 |    4.10 | *4.30*  |    4.00 |    4.20 |
+| Anna P       |    3.70 | *4.00*  |    3.90 |    3.80 |    4.00 | *4.00*  |    3.90 |    3.90 |
+| Anya I       |    4.00 | *4.20*  |    4.00 |    4.10 |    4.00 | *4.20*  |    4.00 |    4.10 |
+| Mykola T     |    3.90 | *4.10*  |    4.20 |    3.90 |    4.10 | *4.10*  |    4.10 |    4.10 |
+| Anastasia Yu |    4.00 | 4.00    |  *4.00* |    3.90 |  *4.20* | 4.20    |    4.20 |    4.10 |
+| Natalia      |    2.00 | *4.50*  |    4.00 |    2.00 |  *4.90* | 4.00    |    4.00 |    4.50 |
+| Dominika     |    3.70 | *4.20*  |    4.00 |    3.50 |  *4.20* | 4.00    |    4.20 |    4.20 |
+| Elvira K     |    3.80 | 3.90    |  *4.00* |    3.90 |    4.00 | 4.10    |  *4.30* |    4.15 |
+| Vova U       |    3.90 | *4.20*  |    4.10 |    3.90 |    4.00 | *4.30*  |    4.30 |    4.10 |
+| Boris B      |    3.90 | *4.00*  |    4.00 |    3.90 |    4.00 | 4.20    |  *4.30* |    4.00 |
 

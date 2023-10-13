@@ -9,7 +9,7 @@
 - Alcohol :: 14
 - Sugar :: 1
 - Price :: 2250 UAH
-- Cellar :: 1 bottle
+- Cellar :: N/A
 
 ** Producer
 
@@ -17,7 +17,9 @@ Created by [[barberry:/producers/4191c986-fc88-4e47-a038-cc1dd4c8fa31][Dominique
 
 ** Ratings
 
-There are no ratings of this wine yet. It's waiting for the right moment, which could be today, tomorrow or even in a year. Or maybe, I am drinking it at this moment... So stay tuned!
+*** 2023-10-12 - ☆ 8.00
+
+The 2018 Saint-Aubin 1er Cru En Remilly by Domaine Derain carries with it the gentle touch of canned peach, complemented by a zesty hint reminiscent of a lemon tart with meringue. Yeasty undertones add a subtle richness to its aromatic profile. On the palate, it swathes the senses with a velvety texture, coming across as round and indulgently buttery. Its balance is commendable, walking that fine line with grace. While it doesn't boast a great complexity, there's a soft, approachable character to it. A bit on the delicate side, perhaps, but nonetheless a pleasant pour.
 
 ** Related
 
@@ -39,6 +41,48 @@ There are no ratings of this wine yet. It's waiting for the right moment, which 
     <img class="flex-bottle" src="/images/c9/dfb99d-b579-4437-bf84-cc2e9987c7c0/2021-12-09-08-47-58-67526C55-711B-4D8B-8936-627DAC8B0469-1-105-c@512.webp"></img>
     <section class="h">Domaine Derain</section>
     <section class="h text-bolder">Saint-Aubin - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/03e47266-8b42-40a4-8950-713f20632838.html">
+    <img class="flex-bottle" src="/images/03/e47266-8b42-40a4-8950-713f20632838/2023-10-13-08-53-36-IMG-9818@512.webp"></img>
+    <section class="h">Pierre Naigeon</section>
+    <section class="h text-bolder">Gevrey-Chambertin Meix-Bas - 2013</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/164a4ecb-6863-40e3-9d5b-3beee87cad16.html">
+    <img class="flex-bottle" src="/images/16/4a4ecb-6863-40e3-9d5b-3beee87cad16/2023-10-13-08-47-10-IMG-9804@512.webp"></img>
+    <section class="h">La Soufrandière</section>
+    <section class="h text-bolder">Pouilly-Vinzelles Climat Les Quarts Cuvée Zen - 2019</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/477160d7-d33f-4602-b41f-c27bbbd20a4b.html">
+    <img class="flex-bottle" src="/images/47/7160d7-d33f-4602-b41f-c27bbbd20a4b/2023-10-13-08-52-14-IMG-9816@512.webp"></img>
+    <section class="h">Yann Durieux</section>
+    <section class="h text-bolder">CDN - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/4972c06d-8ac0-488f-8d46-e96fb404ffcd.html">
+    <img class="flex-bottle" src="/images/49/72c06d-8ac0-488f-8d46-e96fb404ffcd/2023-10-13-08-49-28-IMG-9810@512.webp"></img>
+    <section class="h">François de Nicolay</section>
+    <section class="h text-bolder">Bouzeron - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/785e693c-e1fc-45fe-93f0-119eddb6d6c7.html">
+    <img class="flex-bottle" src="/images/78/5e693c-e1fc-45fe-93f0-119eddb6d6c7/2023-10-13-08-48-22-IMG-9808@512.webp"></img>
+    <section class="h">Philippe Pacalet</section>
+    <section class="h text-bolder">Corton-Charlemagne Grand Cru - 2011</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/9038017f-adc5-4695-be01-6a1935308467.html">
+    <img class="flex-bottle" src="/images/90/38017f-adc5-4695-be01-6a1935308467/2023-10-13-08-42-15-IMG-9797@512.webp"></img>
+    <section class="h">Henri & Gilles Buisson</section>
+    <section class="h text-bolder">Meursault Les Vignes de Marguerite - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/f423cba0-4948-4c56-9e02-75f459163960.html">
+    <img class="flex-bottle" src="/images/f4/23cba0-4948-4c56-9e02-75f459163960/2023-10-13-08-51-07-IMG-9813@512.webp"></img>
+    <section class="h">Antoine Lienhardt</section>
+    <section class="h text-bolder">Emphase - 2020</section>
   </a>
 
 </div>
