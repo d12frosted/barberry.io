@@ -1,0 +1,38 @@
+{
+  "id": "a0ad8711-010f-4a1b-84d2-efb943411a88",
+  "name": "Fanino Catarratto e Pignatello",
+  "full-name": "Serragghia Fanino Catarratto e Pignatello 2022",
+  "producer": {
+    "id": "5e56d359-076e-42fd-be45-e8d85e10f8b0",
+    "name": "Serragghia"
+  },
+  "vintage": "2022",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "8ed2094b-c526-458c-9d76-e437c6d216ba",
+      "name": "Perricone"
+    },
+    {
+      "id": "02dd91cb-667e-47da-8310-a3097598e7a6",
+      "name": "Catarratto"
+    }
+  ],
+  "alcohol": "12.5",
+  "sugar": "0.5",
+  "prices": [
+    "2990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/a0/ad8711-010f-4a1b-84d2-efb943411a88/2023-10-13-08-55-23-IMG-9845.webp",
+  "rating": "NA"
+}

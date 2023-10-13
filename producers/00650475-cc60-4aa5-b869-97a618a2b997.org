@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/477160d7-d33f-4602-b41f-c27bbbd20a4b.html">
+    <img class="flex-bottle" src="/images/47/7160d7-d33f-4602-b41f-c27bbbd20a4b/2023-10-13-08-52-14-IMG-9816@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">CDN - 2018</section>
+  </a>
+
+</div>
+#+end_export

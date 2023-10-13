@@ -6,25 +6,31 @@ Vinification and élevage take place in his ancient cellar-cave in Savigny-lès-
 
 #+begin_export html
 <div class="flex-container">
-  <a class="flex-item flex-item-left" href="/wines/abd73c13-3df1-4a21-82de-3091f02ba70b.html">
+  <a class="flex-item flex-item-left" href="/wines/4972c06d-8ac0-488f-8d46-e96fb404ffcd.html">
+    <img class="flex-bottle" src="/images/49/72c06d-8ac0-488f-8d46-e96fb404ffcd/2023-10-13-08-49-28-IMG-9810@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Bouzeron - 2020</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/abd73c13-3df1-4a21-82de-3091f02ba70b.html">
     <img class="flex-bottle" src="/images/ab/d73c13-3df1-4a21-82de-3091f02ba70b/2023-07-08-14-36-18-IMG-8265@512.webp"></img>
     <section class="h">★ 7.50</section>
     <section class="h text-bolder">Coteaux de Champlitte Chardonnay - 2020</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
+  <a class="flex-item flex-item-left" href="/wines/d61583ca-8331-43ca-8e5e-74361b45b0d1.html">
     <img class="flex-bottle" src="/images/d6/1583ca-8331-43ca-8e5e-74361b45b0d1/2021-09-11-10-19-52-8E9ECD21-CBA6-4523-8B72-E9CA6A087768-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Ladoix Les Briquottes - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
+  <a class="flex-item flex-item-right" href="/wines/9b2bfb0e-b377-4f9f-bf70-5e126943c6ef.html">
     <img class="flex-bottle" src="/images/9b/2bfb0e-b377-4f9f-bf70-5e126943c6ef/2022-11-12-12-36-03-CAF16975-6000-4D05-B6C8-AD20A2C99209-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Savigny-les-Beaune Premier Cru - 2019</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/2e4d2e9f-a84e-403f-8e90-dc40f63ffd31.html">
+  <a class="flex-item flex-item-left" href="/wines/2e4d2e9f-a84e-403f-8e90-dc40f63ffd31.html">
     <img class="flex-bottle" src="/images/2e/4d2e9f-a84e-403f-8e90-dc40f63ffd31/2023-06-28-08-04-43-62CAFD09-AFD8-4842-9ED6-EAF451645C64-1-102-o@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Volnay 1er Cru Santenots - 2020</section>

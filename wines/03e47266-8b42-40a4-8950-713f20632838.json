@@ -1,0 +1,34 @@
+{
+  "id": "03e47266-8b42-40a4-8950-713f20632838",
+  "name": "Gevrey-Chambertin Meix-Bas",
+  "full-name": "Pierre Naigeon Gevrey-Chambertin Meix-Bas 2013",
+  "producer": {
+    "id": "ef9eabd3-54fa-49c5-b370-680bd821f794",
+    "name": "Pierre Naigeon"
+  },
+  "vintage": "2013",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "2990 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/03/e47266-8b42-40a4-8950-713f20632838/2023-10-13-08-53-36-IMG-9818.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3eeefc0c-c2cc-4f8a-80e7-e71bf1c06620",
+  "name": "Saint-Aubin 1er Cru En Remilly",
+  "full-name": "Domaine Derain Saint-Aubin 1er Cru En Remilly 2018",
+  "producer": {
+    "id": "67b094dd-f7b3-4e46-8d7d-cf56339a7cf6",
+    "name": "Domaine Derain"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "14",
+  "sugar": "1",
+  "prices": [
+    "2250 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/3e/eefc0c-c2cc-4f8a-80e7-e71bf1c06620/2023-10-13-08-44-05-IMG-9800.webp",
+  "rating": "NA"
+}

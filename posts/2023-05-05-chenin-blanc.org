@@ -32,6 +32,8 @@ Wines:
 - sugar: N/A
 - price: 1499 UAH
 
+A charming bouquet of quince, fennel, bruised apple, bakery, chalk and citrus. Good acidity, structure and balance. Delicious and easygoing despite 14% abv. All my guesses were wrong - vintage, appellation, and producer.
+
 * Coulée de Serrant Clos de la Coulée de Serrant 2017
 :PROPERTIES:
 :ID:                     1829d67f-0e3d-47df-ab48-d163a7416ec7
@@ -49,6 +51,8 @@ Wines:
 - alcohol: 15
 - sugar: N/A
 - price: 3700 UAH
+
+A bit tired and mature bouquet of crushed apple seeds (boy, how many apples had to suffer to produce this wine?), an old sweaty sweater and rubber. The flavours are more pleasant - jerez and mushrooms. Yet overall, the mouthfeel is flabby. The aftertaste is long and super hot. That's why my guess was Nicolas Joly (bingo!). A shameful experience. All the merits are overshadowed by issues.
 
 * Domaine de la Taille Aux Loups Bretonniere Cuvée Parcellaire Monopole 2021
 :PROPERTIES:
@@ -68,6 +72,8 @@ Wines:
 - sugar: 1.5
 - price: 1728 UAH
 
+Simply gorgeous. Such a multilayered and nuanced bouquet of apple vinegar, a wet shirt (that was wet for a long time, hehe), honey, chalk, gunpowder and apple. Then it reveals some creamy notes like dried cheddar. High acidity, but so well balanced and integrated (?). Delicious and evolving. The aftertaste is long and persistent. Dangerously quaffable, it's so hard to stop. Guessed Jacky Blot. IMO the best value of the evening.
+
 * Stephane Bernaudeau Les Coqueries 2019
 :PROPERTIES:
 :ID:                     f8fa4cd5-cd2d-4946-9b4f-8a37505c9b5d
@@ -85,6 +91,8 @@ Wines:
 - alcohol: 13
 - sugar: 2
 - price: 7500 UAH
+
+What a beautiful continuation. A bit of apple vinegar (again, in a good way), pastilla, white flowers, and cheese-flavoured popcorn. And while it's shy in the bouquet, the mouthfeel is gorgeous. A perfectly balanced and delicious wine with a never-ending aftertaste. Quaffable, multilayered, mineral and complex. Guessed producer.
 
 * Domaine Le Briseau Kharakter 2018
 :PROPERTIES:
@@ -104,6 +112,10 @@ Wines:
 - sugar: 2
 - price: 1490 UAH
 
+Ooof, a wine with a sociopathic character. It's full of disturbances. Lots of wood, Mivina spices and bread. Add some bog, smelly fish (Unhygienix would be proud), curry and a blossoming lake. I am too tender to deal with this character (literally, these are my blind notes).
+
+Imagine my surprise when I learned the name of this wine and that it was made by the same person behind Patapon. The facial expression on the Patapon label tells it all. It's not a mistake. It's not a fault. It's KHARAKTER.
+
 * Stephane Bernaudeau Les Onglés 2019
 :PROPERTIES:
 :ID:                     d5b43d92-9963-472e-a7ed-5bea0b673a31
@@ -121,6 +133,8 @@ Wines:
 - alcohol: 13.5
 - sugar: 2
 - price: 7500 UAH
+
+The bogging atrocity still haunted me and my senses. Luckily, this bottle guided me to the blessed light. Shells, wet stones, boxwood, apples, fruit trees blossoms, Jerez and meringue on a lemon tart. Fresh, crunchy and well-structured. Such a delicious remedy. I guessed the producer, yet I fear it underperformed due to the previous bottle.
 
 * Domaine Huet Clos du Bourg Demi-Sec 2017
 :PROPERTIES:
@@ -140,6 +154,8 @@ Wines:
 - sugar: N/A
 - price: 1590 UAH
 
+Lovely. Since we knew the list of wines it was easy to guess this wine. As Treebeard said, I feel it in the water, [...], and I smell it in the air. Roasted nuts, honey, seawater, earth and jam. Good acidity and structure. I wanted to give it a higher score, but the aftertaste is not long enough.
+
 * Jean-Pierre Robinot l'Ange Vin L'iris 2019
 :PROPERTIES:
 :ID:                     14936b7f-cbac-45e4-b97d-a1cf198f6263
@@ -157,6 +173,10 @@ Wines:
 - alcohol: 13
 - sugar: N/A
 - price: 3300 UAH
+
+Green was the colour of its dress. No seriously, green apricot, flowers and seawater. It's attractive, but nothing overly fascinating. This wine feels like waking up after a very long dream and going outside to be greeted by ideal weather. You appreciate that, but your mind is clouded.
+
+At least, l'Ange Vin L'iris is delicious and fresh. It has a long aftertaste with a nice metallic touch.
 
 * Domaine Breton La Dilettante 2018
 :PROPERTIES:
@@ -176,6 +196,8 @@ Wines:
 - sugar: 1
 - price: 810 UAH
 
+It's hard to guess Chenin Blanc here. Fino Jerez, mushroom soup, nuts, wet cellar with a few ripe apricots. Good acidity and a round palate. Yet the aftertaste is rather short with some disturbing bitterness. Nice, wanted to taste this wine for a long time.
+
 * Rene Mosse Savennières Arena 2019
 :PROPERTIES:
 :ID:                     2daa9142-0f77-48a2-bd2b-bbfdedc8ecd8
@@ -193,6 +215,15 @@ Wines:
 - alcohol: 13.5
 - sugar: 2
 - price: 1690 UAH
+
+#+begin_verse
+I looked at you
+You looked me
+I smiled at you
+You smiled at me
+#+end_verse
+
+Yet we parted ways. A bit crazy, a bit hazy, a bit empty. A tower made of wet pebbles, decored with bread crumbs soaked in yeast-infused water. All that to guard a fading jasmine flower. Fresh, yes. But nothing special.
 
 * Scores
 :PROPERTIES:
@@ -212,25 +243,6 @@ Wines:
 8. [[barberry:/wines/cbe859e6-edcd-41a3-9d72-3a4bfb4be7bc][Jean-Pierre Robinot l'Ange Vin L'iris 2019]]
 9. [[barberry:/wines/30e2bafe-08f1-45a1-b7f4-91d93b5e1488][Domaine Breton La Dilettante 2018]]
 10. [[barberry:/wines/ae9964d3-35ea-41d6-ba06-cebdc91f52fc][Rene Mosse Savennières Arena 2019]]
-
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 | Wine #9 | Wine #10 |
-|-------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+----------|
-| Yevgeniya T |    4.00 |    4.00 |    4.40 | 4.30    | 3.10    |    4.00 |       - |    4.10 |       - |   *4.50* |
-| Mykola T    |    4.30 |    4.00 |    4.20 | *4.40*  | -       |    4.00 |    4.10 |    4.10 |    4.20 |     4.20 |
-| Vova U      |    4.00 |    4.00 |    4.50 | *4.60*  | 3.00    |    4.30 |    4.20 |    4.10 |    3.80 |     4.20 |
-| Diana M     |       - |       - |       - | -       | -       |       - |       - |       - |       - |      *-* |
-| Ivan O      |       - |       - |       - | -       | -       |       - |       - |       - |       - |      *-* |
-| Anna P      |    3.50 |    2.20 |    3.50 | 4.00    | 3.50    |  *4.50* |    3.50 |    4.00 |    3.50 |     3.50 |
-| Serhii H    |       - |       - |       - | -       | -       |     *-* |       - |       - |       - |        - |
-| Mykola Ch   |    3.80 |    3.90 |    4.00 | *4.30*  | -       |    4.10 |    3.80 |    4.20 |    4.10 |     4.10 |
-| David H     |    4.00 |    4.20 |    4.10 | *4.40*  | -       |    4.20 |    4.00 |    4.10 |    3.90 |     3.80 |
-| Roman R     |       - |       - |     *-* | -       | -       |       - |       - |       - |       - |        - |
-| Anya I      |    4.20 |    4.00 |  *4.30* | 4.30    | -       |    4.10 |    4.20 |    4.10 |    4.10 |     4.30 |
-| Daria B     |    4.00 |    3.80 |    4.40 | *4.40*  | 3.00    |    4.20 |    4.00 |    4.00 |    3.90 |     4.00 |
-| Boris B     |    4.00 |    3.80 |  *4.40* | 4.50    | 2.80    |    4.20 |    3.90 |    3.90 |    3.80 |     3.70 |
 
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
@@ -255,4 +267,28 @@ How to read this table:
 - =favourite= is amount of people who marked this wine as favourite of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     d727ff52-c802-4236-98cc-1f929b0b6dda
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 | Wine #9 | Wine #10 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+----------|
+| Yevgeniya T |    4.00 |    4.00 |    4.40 | 4.30    | 3.10    |    4.00 |       - |    4.10 |       - |   *4.50* |
+| Mykola T    |    4.30 |    4.00 |    4.20 | *4.40*  | -       |    4.00 |    4.10 |    4.10 |    4.20 |     4.20 |
+| Vova U      |    4.00 |    4.00 |    4.50 | *4.60*  | 3.00    |    4.30 |    4.20 |    4.10 |    3.80 |     4.20 |
+| Diana M     |       - |       - |       - | -       | -       |       - |       - |       - |       - |      *-* |
+| Ivan O      |       - |       - |       - | -       | -       |       - |       - |       - |       - |      *-* |
+| Anna P      |    3.50 |    2.20 |    3.50 | 4.00    | 3.50    |  *4.50* |    3.50 |    4.00 |    3.50 |     3.50 |
+| Serhii H    |       - |       - |       - | -       | -       |     *-* |       - |       - |       - |        - |
+| Mykola Ch   |    3.80 |    3.90 |    4.00 | *4.30*  | -       |    4.10 |    3.80 |    4.20 |    4.10 |     4.10 |
+| David H     |    4.00 |    4.20 |    4.10 | *4.40*  | -       |    4.20 |    4.00 |    4.10 |    3.90 |     3.80 |
+| Roman R     |       - |       - |     *-* | -       | -       |       - |       - |       - |       - |        - |
+| Anya I      |    4.20 |    4.00 |  *4.30* | 4.30    | -       |    4.10 |    4.20 |    4.10 |    4.10 |     4.30 |
+| Daria B     |    4.00 |    3.80 |    4.40 | *4.40*  | 3.00    |    4.20 |    4.00 |    4.00 |    3.90 |     4.00 |
+| Boris B     |    4.00 |    3.80 |  *4.40* | 4.50    | 2.80    |    4.20 |    3.90 |    3.90 |    3.80 |     3.70 |
 

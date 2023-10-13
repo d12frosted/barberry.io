@@ -12,6 +12,32 @@ Wines:
 6. [[barberry:/wines/7664a382-e23b-477f-ab93-b4d99433f2ac][Benoît Lahaye Rosé de Macération a Bouzy (d2022) NV]]
 7. [[barberry:/wines/9131e391-2342-4084-9624-5979b708238d][Bruno Paillard Rosé Première Cuvée (d2019) NV]]
 
+* Scores
+:PROPERTIES:
+:ID:                     185c21d5-c50e-4fdc-953d-9008a296a3d8
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite |   price |      QPR |
+|---------+----------+--------+-----------+---------+----------|
+| Wine #1 |   4.0173 | 0.0663 |      1.00 | 1090.00 | *2.2322* |
+| Wine #2 |   3.9063 | 0.0491 |      0.00 |  977.00 |   2.1154 |
+| Wine #3 |   4.0783 | 0.0456 |      2.00 | 1684.00 |   1.5911 |
+| Wine #4 |   3.9978 | 0.0554 |      0.00 | 1946.00 |   1.2165 |
+| Wine #5 |   4.0771 | 0.1096 |      3.00 | 1570.00 |   1.6832 |
+| Wine #6 |   4.1152 | 0.0499 |      1.00 | 2815.00 |   1.0061 |
+| Wine #7 | *4.2420* | 0.0478 |    *4.00* | 3350.00 |   1.0290 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
 * Rosé winemaking
 :PROPERTIES:
 :ID:                     0d903f53-a90d-407d-845c-e0a3067631f3
@@ -215,9 +241,9 @@ Part of the Pinot Noir is vinified as white wine, while the other is made as red
 
 Luckily, I've got my hands on a bottle that was disgorged in December 2019. The freshest release you can find on the shelves was disgorged in 2022.
 
-* Scores
+* Raw scores
 :PROPERTIES:
-:ID:                     185c21d5-c50e-4fdc-953d-9008a296a3d8
+:ID:                     fb0a7e3f-2384-4191-8cf4-40ba4b948795
 :END:
 
 #+attr_html: :class tasting-scores
@@ -236,27 +262,6 @@ Luckily, I've got my hands on a bottle that was disgorged in December 2019. The 
 | Mykola T    |    3.80 |    3.70 |    4.10 |    4.10 |    4.20 |    4.00 |  *4.30* |
 | Artem O     |    3.90 |    4.00 |    4.40 |    4.00 |    3.60 |    4.30 |  *4.50* |
 | Boris B     |    3.80 |    3.70 |    4.20 |    4.20 |    4.30 |  *4.10* |    4.20 |
-
-#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
-#+caption: Results
-#+results: summary
-|         |      rms |   sdev | favourite |   price |      QPR |
-|---------+----------+--------+-----------+---------+----------|
-| Wine #1 |   4.0173 | 0.0663 |      1.00 | 1090.00 | *2.2322* |
-| Wine #2 |   3.9063 | 0.0491 |      0.00 |  977.00 |   2.1154 |
-| Wine #3 |   4.0783 | 0.0456 |      2.00 | 1684.00 |   1.5911 |
-| Wine #4 |   3.9978 | 0.0554 |      0.00 | 1946.00 |   1.2165 |
-| Wine #5 |   4.0771 | 0.1096 |      3.00 | 1570.00 |   1.6832 |
-| Wine #6 |   4.1152 | 0.0499 |      1.00 | 2815.00 |   1.0061 |
-| Wine #7 | *4.2420* | 0.0478 |    *4.00* | 3350.00 |   1.0290 |
-
-How to read this table:
-
-- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
-- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
-- =favourite= is amount of people who marked this wine as favourite of the event.
-- =price= is wine price in UAH.
-- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
 * Resources
 :PROPERTIES:

@@ -9,19 +9,25 @@
     <section class="h text-bolder">Cicala - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/1c2dbd99-720b-4c12-8222-1c2f42644946.html">
+  <a class="flex-item flex-item-right" href="/wines/a0ad8711-010f-4a1b-84d2-efb943411a88.html">
+    <img class="flex-bottle" src="/images/a0/ad8711-010f-4a1b-84d2-efb943411a88/2023-10-13-08-55-23-IMG-9845@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Fanino Catarratto e Pignatello - 2022</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/1c2dbd99-720b-4c12-8222-1c2f42644946.html">
     <img class="flex-bottle" src="/images/1c/2dbd99-720b-4c12-8222-1c2f42644946/2022-12-27-07-23-51-5091C483-C710-47E1-9D8A-495DCABC9F38-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Heritage Zibibbo - 2017</section>
   </a>
 
-  <a class="flex-item flex-item-left" href="/wines/1636ea07-d668-427c-bbec-2a136f583cef.html">
+  <a class="flex-item flex-item-right" href="/wines/1636ea07-d668-427c-bbec-2a136f583cef.html">
     <img class="flex-bottle" src="/images/16/36ea07-d668-427c-bbec-2a136f583cef/2023-07-07-15-40-00-D8804D08-7518-4565-8E76-4C52B4C0A175-1-105-c@512.webp"></img>
     <section class="h">★ 8.25</section>
     <section class="h text-bolder">Riserva Genevieve - 2018</section>
   </a>
 
-  <a class="flex-item flex-item-right" href="/wines/d65fe110-38b2-4a83-902e-880baba38319.html">
+  <a class="flex-item flex-item-left" href="/wines/d65fe110-38b2-4a83-902e-880baba38319.html">
     <img class="flex-bottle" src="/images/d6/5fe110-38b2-4a83-902e-880baba38319/2021-05-26-09-55-45-F0D6D48A-26D6-4839-96E4-19C97FF9481E-1-105-c@512.webp"></img>
     <section class="h">★ 8.00</section>
     <section class="h text-bolder">Zibibbo - 2019</section>

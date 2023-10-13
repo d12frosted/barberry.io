@@ -1,0 +1,34 @@
+{
+  "id": "f423cba0-4948-4c56-9e02-75f459163960",
+  "name": "Emphase",
+  "full-name": "Antoine Lienhardt Emphase 2020",
+  "producer": {
+    "id": "9f1b1924-7ee3-4343-b76c-8b63fe5ccd18",
+    "name": "Antoine Lienhardt"
+  },
+  "vintage": "2020",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "red",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "af01f8a9-3e01-4aa8-b00f-17e3103bf914",
+      "name": "Pinot Noir"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "NA",
+  "prices": [
+    "1880 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/f4/23cba0-4948-4c56-9e02-75f459163960/2023-10-13-08-51-07-IMG-9813.webp",
+  "rating": "NA"
+}

@@ -1,0 +1,13 @@
+
+** Wines
+
+#+begin_export html
+<div class="flex-container">
+  <a class="flex-item flex-item-left" href="/wines/164a4ecb-6863-40e3-9d5b-3beee87cad16.html">
+    <img class="flex-bottle" src="/images/16/4a4ecb-6863-40e3-9d5b-3beee87cad16/2023-10-13-08-47-10-IMG-9804@512.webp"></img>
+    <section class="h">★ -</section>
+    <section class="h text-bolder">Pouilly-Vinzelles Climat Les Quarts Cuvée Zen - 2019</section>
+  </a>
+
+</div>
+#+end_export

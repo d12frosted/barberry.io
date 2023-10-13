@@ -1,0 +1,34 @@
+{
+  "id": "9038017f-adc5-4695-be01-6a1935308467",
+  "name": "Meursault Les Vignes de Marguerite",
+  "full-name": "Henri & Gilles Buisson Meursault Les Vignes de Marguerite 2018",
+  "producer": {
+    "id": "fefbff78-bb6b-494e-9a4e-e0632bb9d208",
+    "name": "Henri & Gilles Buisson"
+  },
+  "vintage": "2018",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "dry",
+  "country": {
+    "id": "c6c8738e-3780-44b1-9e8c-d2fff16ed206",
+    "name": "France"
+  },
+  "grapes": [
+    {
+      "id": "347c3f7d-0c6c-469d-a2d1-a96b45d03d93",
+      "name": "Chardonnay"
+    }
+  ],
+  "alcohol": "13",
+  "sugar": "2",
+  "prices": [
+    "2850 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/90/38017f-adc5-4695-be01-6a1935308467/2023-10-13-08-42-15-IMG-9797.webp",
+  "rating": "NA"
+}

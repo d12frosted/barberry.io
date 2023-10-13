@@ -24,24 +24,6 @@ Anyway, here is the list of wines in the order they were served.
 #+attr_html: :class img-half
 [[file:/images/2023-05-19-bourgogne/2023-05-20-11-13-24-IMG-6215.webp]]
 
-#+attr_html: :class tasting-scores
-#+caption: Scores
-#+results: scores
-|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
-|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
-| Vova U       |    4.20 |    4.30 |    3.90 |    4.00 |  *4.30* |    4.00 |    4.20 |    4.40 |
-| Diana M      |    3.90 |    4.00 |    3.80 |    4.10 |  *4.40* |    3.80 |    3.70 |    4.00 |
-| Serhii H     |    4.00 |    4.20 |    4.20 |    4.10 |    4.10 |    4.00 |  *4.30* |    4.00 |
-| Andrii S     |    4.10 |    4.30 |    4.10 |    4.00 |  *4.40* |    3.90 |    4.10 |    4.10 |
-| Viktoriya Zh |    4.10 |    4.00 |    4.20 |    4.00 |    4.30 |    3.70 |    4.00 |  *4.20* |
-| Roman R      |    4.10 |  *4.20* |    4.00 |    4.30 |    4.20 |    4.10 |    4.00 |    4.20 |
-| Mykola T     |    4.30 |    4.10 |    4.00 |    4.30 |    4.20 |    4.10 |    4.00 |  *4.30* |
-| Anya I       |    4.10 |    4.20 |    3.90 |    4.20 |    4.30 |    4.10 |    4.10 |  *4.30* |
-| Max D        |    4.15 |    4.28 |    3.95 |    4.20 |  *4.55* |    4.44 |    4.50 |    4.25 |
-| David H      |  *4.30* |    4.20 |    3.70 |    4.00 |    4.10 |    4.30 |    4.00 |    4.30 |
-| Anastasia Yu |    4.20 |    4.20 |    4.00 |  *4.30* |    4.10 |    4.00 |    4.00 |    4.10 |
-| Boris B      |  *4.20* |    4.00 |    3.80 |    4.00 |    4.40 |    4.10 |    4.30 |    4.20 |
-
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
@@ -82,6 +64,8 @@ How to read this table:
 - sugar: N/A
 - price: 5490 UAH
 
+What a beautiful and delicate bouquet! Red flowers, dried cherry and underbrush. The oak is well integrated, and the age starts to kick in. Almost perfectly balanced medium body with a long and flavourful aftertaste. It also has a pleasant finish of rotting bark. Quaffable. Guessed the bottle.
+
 * Chandon de Briailles Pernand-Vergelesses 1er Cru Les Vergelesses 2019
 :PROPERTIES:
 :ID:                     5357c5c7-4491-4448-b868-65c54ddc638e
@@ -99,6 +83,8 @@ How to read this table:
 - alcohol: 13.5
 - sugar: 1
 - price: 1790 UAH
+
+My bet was on Chandon de Briailles based on age perception alone. It's fruitier with a heavier oak influence. Briar, marigold, strawberry and dill. Maybe I wasn't in the mood, but the funkiness was overwhelming. Still, it's complex, elegant and vibrant. Great producer.
 
 * Domaine Derain Pommard Les Petits Noizons 2018
 :PROPERTIES:
@@ -118,6 +104,8 @@ How to read this table:
 - sugar: 1
 - price: 2450 UAH
 
+Ooof, a sniff and a sip is all we needed to guess the wine. Funky bouquet and mouthfeel. It's as spiky as the morning star. VA, cranberry, forest floor and rusty iron. High acidity, a bit fizzy and mineral on the palate.
+
 * Sylvain Pataille Marsannay Chardonnay rose 2020
 :PROPERTIES:
 :ID:                     17b5816e-5e47-4c95-a550-36b7507144e3
@@ -135,6 +123,8 @@ How to read this table:
 - alcohol: 13.5
 - sugar: N/A
 - price: 1950 UAH
+
+This wine confused me a lot. On the one hand, it has all the qualities to be called a 'pussy crusher' (citation needed). Fried sunflower seeds, pompous stone fruits mixed with tropical fruits, and unmistakable MLF traces. On the other hand, it's complex and well-structured. Me? I didn't guess.
 
 * Frédéric Cossard Puligny-Montrachet 1er Cru Les Folatières 2018
 :PROPERTIES:
@@ -154,6 +144,8 @@ How to read this table:
 - sugar: 2
 - price: 10500 UAH
 
+What a beautiful bouquet of pinecone jam, hop, juniper, sesame, pastry and white peach. An incredible concentration that still remains delicate. Almost perfectly balanced, round and persistent. It has a lovely bitter finish. It's all about balance. I guessed the producer but not the wine.
+
 * Leroy Bourgogne Blanc 2017
 :PROPERTIES:
 :ID:                     15d03a02-715b-492d-9283-73132dc9fcce
@@ -171,6 +163,8 @@ How to read this table:
 - alcohol: 12.5
 - sugar: 0
 - price: 5900 UAH
+
+Beautiful and classical Chardonnay. Deep and sophisticated bouquet with well-integrated oak (same can be said about mouthfeel). Pear, sunflower seeds, honey and pineapple. A bit vulgar in a good sense. Almost perfectly balanced. Citrusy-mineral finish. I guessed the wine.
 
 * Domaine de Chassorney Saint-Romain Combe Bazin 2018
 :PROPERTIES:
@@ -190,6 +184,8 @@ How to read this table:
 - sugar: 1
 - price: 1890 UAH
 
+This bottle confused me a lot. It reminded me of Puligny or Chablis yet with a twist. Since it didn't remind the style of De Moor, I guessed the producer yet not the wine. Complex and intriguing wine. Fizzy and a bit funky. Bruised apples, cider, lemon and yeast (hey, autolysis). Vibrant, mineral, balanced and persistent. A beautiful bottle.
+
 * Alice et Olivier De Moor Chablis 1er Cru Vau de Vey 2018
 :PROPERTIES:
 :ID:                     a0aa23aa-5f6c-4736-a0b7-1e52b81fbed0
@@ -207,4 +203,29 @@ How to read this table:
 - alcohol: 13
 - sugar: 2.2
 - price: 2271 UAH
+
+I haven't tasted this particular wine but guessed it based on my other experience with Alice et Olivier De Moor wines. Precise and complex bouquet with baked apples, lemon candy, flowers, wet stone and honey. Intense, mineral, sophisticated and persistent. Would love to taste it again in a less rushy format.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     33c0bc02-0b6e-46a1-b17d-26faf0ce1430
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|              | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|--------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Vova U       |    4.20 |    4.30 |    3.90 |    4.00 |  *4.30* |    4.00 |    4.20 |    4.40 |
+| Diana M      |    3.90 |    4.00 |    3.80 |    4.10 |  *4.40* |    3.80 |    3.70 |    4.00 |
+| Serhii H     |    4.00 |    4.20 |    4.20 |    4.10 |    4.10 |    4.00 |  *4.30* |    4.00 |
+| Andrii S     |    4.10 |    4.30 |    4.10 |    4.00 |  *4.40* |    3.90 |    4.10 |    4.10 |
+| Viktoriya Zh |    4.10 |    4.00 |    4.20 |    4.00 |    4.30 |    3.70 |    4.00 |  *4.20* |
+| Roman R      |    4.10 |  *4.20* |    4.00 |    4.30 |    4.20 |    4.10 |    4.00 |    4.20 |
+| Mykola T     |    4.30 |    4.10 |    4.00 |    4.30 |    4.20 |    4.10 |    4.00 |  *4.30* |
+| Anya I       |    4.10 |    4.20 |    3.90 |    4.20 |    4.30 |    4.10 |    4.10 |  *4.30* |
+| Max D        |    4.15 |    4.28 |    3.95 |    4.20 |  *4.55* |    4.44 |    4.50 |    4.25 |
+| David H      |  *4.30* |    4.20 |    3.70 |    4.00 |    4.10 |    4.30 |    4.00 |    4.30 |
+| Anastasia Yu |    4.20 |    4.20 |    4.00 |  *4.30* |    4.10 |    4.00 |    4.00 |    4.10 |
+| Boris B      |  *4.20* |    4.00 |    3.80 |    4.00 |    4.40 |    4.10 |    4.30 |    4.20 |
 

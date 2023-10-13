@@ -1,0 +1,52 @@
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-38-06-IMG-9825.webp]]
+
+* Scores
+:PROPERTIES:
+:ID:                     a8d2d9c8-7156-4c75-8b9c-a83e70b18371
+:END:
+
+#+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
+#+caption: Results
+#+results: summary
+|         |      rms |   sdev | favourite | outcast |    price |      QPR |
+|---------+----------+--------+-----------+---------+----------+----------|
+| Wine #1 |   3.7401 | 0.2982 |      0.00 |  +1.00+ |  3550.00 |   0.4347 |
+| Wine #2 |   4.1210 | 0.0233 |    *8.00* |    0.00 |  1880.00 |   1.5276 |
+| Wine #3 |   4.0373 | 0.0078 |      3.00 |    0.00 |  2990.00 |   0.8480 |
+| Wine #4 |   3.7607 | 0.3179 |      0.00 |    0.00 |  2250.00 |   0.7040 |
+| Wine #5 |   4.1441 | 0.0641 |      3.00 |    0.00 |  1090.00 | *2.7093* |
+| Wine #6 | *4.1566* | 0.0170 |      6.00 |    0.00 |  2228.00 |   1.3631 |
+| Wine #7 |   4.1206 | 0.0197 |      2.00 |  +1.00+ | 13500.00 |   0.2127 |
+| Wine #8 |   4.1343 | 0.0201 |      0.00 |    0.00 |  2850.00 |   1.0290 |
+
+How to read this table:
+
+- =rms= is root mean square or quadratic mean. The problem with arithmetic mean is that it is very sensitive to deviations and extreme values in data sets, meaning that even single 5 or 1 might 'drastically' affect the score.
+- =sdev= is standard deviation. The bigger this value the more controversial the wine is, meaning that people have different opinions on this one.
+- =favourite= is amount of people who marked this wine as favourite of the event.
+- =outcast= is amount of people who marked this wine outcast of the event.
+- =price= is wine price in UAH.
+- =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Raw scores
+:PROPERTIES:
+:ID:                     53eb586b-9c22-4756-aad6-3b45f382e28f
+:END:
+
+#+attr_html: :class tasting-scores
+#+caption: Scores
+#+results: scores
+|             | Wine #1 | Wine #2 | Wine #3 | Wine #4 | Wine #5 | Wine #6 | Wine #7 | Wine #8 |
+|-------------+---------+---------+---------+---------+---------+---------+---------+---------|
+| Mykola Ch   |  +3.90+ | 4.10    |  *4.20* |    3.90 |    4.00 | *4.40*  |  +4.00+ |    4.10 |
+| Yevgeniya T |    3.90 | *4.10*  |    4.00 |    4.10 |    4.10 | *4.30*  |    4.00 |    4.20 |
+| Anna P      |    3.70 | *4.00*  |    3.90 |    3.80 |    4.00 | *4.00*  |    3.90 |    3.90 |
+| Anya I      |    4.00 | *4.20*  |    4.00 |    4.10 |    4.00 | *4.20*  |    4.00 |    4.10 |
+| Mykola T    |    3.90 | *4.10*  |    4.20 |    3.90 |    4.10 | *4.10*  |    4.10 |    4.10 |
+| Anastasiia  |    4.00 | 4.00    |  *4.00* |    3.90 |  *4.20* | 4.20    |    4.20 |    4.10 |
+| Natalia     |    2.00 | *4.50*  |    4.00 |    2.00 |  *4.90* | 4.00    |    4.00 |    4.50 |
+| Dominika    |    3.70 | *4.20*  |    4.00 |    3.50 |  *4.20* | 4.00    |    4.20 |    4.20 |
+| Elvira K    |    3.80 | 3.90    |  *4.00* |    3.90 |    4.00 | 4.10    |  *4.30* |    4.15 |
+| Vova U      |    3.90 | *4.20*  |    4.10 |    3.90 |    4.00 | *4.30*  |    4.30 |    4.10 |
+| Boris B     |    3.90 | *4.00*  |    4.00 |    3.90 |    4.00 | 4.10    |  *4.30* |    4.00 |
+

@@ -1,0 +1,34 @@
+{
+  "id": "57af1925-3592-42d2-a522-0654bd33f1f8",
+  "name": "Marsala Superiore Oro Riserva",
+  "full-name": "Marco De Bartoli Marsala Superiore Oro Riserva 1988",
+  "producer": {
+    "id": "8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45",
+    "name": "Marco De Bartoli"
+  },
+  "vintage": "1988",
+  "base-vintage": null,
+  "degorgee": null,
+  "sur-lie": null,
+  "colour": "white",
+  "carbonation": "still",
+  "sweetness": "semi-dry",
+  "country": {
+    "id": "008a0a41-731d-4b6f-9701-df0d1f523fbb",
+    "name": "Italy"
+  },
+  "grapes": [
+    {
+      "id": "62b91539-8cbf-4fd7-847e-949f6d39c339",
+      "name": "Grillo"
+    }
+  ],
+  "alcohol": "19",
+  "sugar": "60",
+  "prices": [
+    "4800 UAH"
+  ],
+  "available": 1.0,
+  "image": "images/57/af1925-3592-42d2-a522-0654bd33f1f8/2023-10-13-08-57-23-IMG-9854.webp",
+  "rating": "NA"
+}
