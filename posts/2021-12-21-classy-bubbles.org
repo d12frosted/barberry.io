@@ -1,7 +1,7 @@
 #+begin_quote
 Everything needs to change for everything to stay the same.
 
-/Alice Paillard/
+--- Alice Paillard
 #+end_quote
 
 What is the best way to celebrate winter holidays? Someone's birthday? LotR anniversary? A mere existence? Morning? Of course, the answer is sparkling wine! So we need no reason to gather for a blind tasting of 7 traditional sparkling wines!
@@ -22,15 +22,15 @@ What is the best way to celebrate winter holidays? Someone's birthday? LotR anni
 #+attr_html: :class tasting-scores :rules groups :cellspacing 0 :cellpadding 6
 #+caption: Results
 #+results: summary
-|   |    amean |      rms |   sdev |   price |      QPR |
-|---+----------+----------+--------+---------+----------|
-| 1 |   3.6143 |   3.6371 | 0.1655 |  961.00 |   1.4209 |
-| 2 |   3.4786 |   3.5556 | 0.5417 | 2050.00 |   0.5508 |
-| 3 |   3.5143 |   3.5930 | 0.5598 | 1825.00 |   0.6501 |
-| 4 |   3.1615 |   3.2279 | 0.4239 |  516.00 | *1.4296* |
-| 5 | *3.8714* | *3.9051* | 0.2620 | 1650.00 |   1.2007 |
-| 6 |   3.7000 |   3.7569 | 0.4240 | 1837.00 |   0.8400 |
-| 7 |   3.6357 |   3.6933 | 0.4223 | 1085.00 |   1.2974 |
+|         |    amean |      rms |   sdev |   price |      QPR |
+|---------+----------+----------+--------+---------+----------|
+| Wine #1 |   3.6143 |   3.6371 | 0.1655 |  961.00 |   1.4209 |
+| Wine #2 |   3.4786 |   3.5556 | 0.5417 | 2050.00 |   0.5508 |
+| Wine #3 |   3.5143 |   3.5930 | 0.5598 | 1825.00 |   0.6501 |
+| Wine #4 |   3.1615 |   3.2279 | 0.4239 |  516.00 | *1.4296* |
+| Wine #5 | *3.8714* | *3.9051* | 0.2620 | 1650.00 |   1.2007 |
+| Wine #6 |   3.7000 |   3.7569 | 0.4240 | 1837.00 |   0.8400 |
+| Wine #7 |   3.6357 |   3.6933 | 0.4223 | 1085.00 |   1.2974 |
 
 How to read this table:
 
@@ -40,183 +40,146 @@ How to read this table:
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
 
-#+LATEX: \newpage
-
-* Wine
+* Domaine de la Touraize Crémant du Jura Millésimé 2018
 :PROPERTIES:
-:ID:                     a91a9a18-fd40-40fe-8797-08e81cd47cec
+:ID:                     456aa6cc-a253-450a-ab3f-cd707836be38
 :END:
 
-** Domaine de la Touraize Crémant du Jura Millésimé 2018
-:PROPERTIES:
-:ID:                     94805414-be6f-4ec2-867b-0d18ff431d71
-:END:
-
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-16-59-54-jura.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2021-06-23-08-54-25-332875C3-FF53-44C9-85F4-9E8C032D741F-1-105-c.webp]]
 
-- producer :: Domaine de la Touraize
-- name :: Crémant du Jura Millésimé
-- dosage :: Extra Brut
-- vintage :: 2018
-- degorgee :: 05/09/2020
-- sur lie :: 18 months
-- grapes :: Chardonnay
-- appellation :: Crémant du Jura AOC
-- alcohol :: 12.5%
-- sugar :: 0.0g
-- price :: 961 UAH
-- buy :: [[https://goodwine.com.ua/cremant-du-jura-q1683.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/1798690d-483b-4f80-a136-93eb9552e48b][Domaine de la Touraize]]
+- name: [[barberry:/wines/949e9fb7-b079-491d-9700-3af4e8545c97][Crémant du Jura Millésimé]]
+- vintage: 2018
+- disgorged: 2020-09-05
+- sur lie: 12+ months
+- grapes: Chardonnay
+- appellation: Crémant du Jura AOC
+- location: Bourgogne-Franche-Comté, France
+- alcohol: 12.5
+- sugar: 0
+- price: 960 UAH
 
-#+LATEX: \newpage
-
-** Billecart Salmon Brut Reserve NV
+* Billecart Salmon Brut Reserve NV
 :PROPERTIES:
-:ID:                     ae2da503-0066-4e35-a404-2ebd30b8232f
+:ID:                     4dbcfeca-89e0-4b47-a042-468fc6589499
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-02-40-salmon.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2021-12-23-07-55-31-8A63302E-BF65-408A-9A74-68D1FAF6A015-1-105-c.webp]]
 
-- producer :: Billecart Salmon
-- name :: Brut Reserve
-- dosage :: Brut
-- vintage :: NV
-- degorgee :: ???
-- sur lie :: ???
-- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
-- appellation :: Champagne AOC
-- alcohol :: 12.0%
-- sugar :: 6.0g
-- price :: 4100 UAH (2050 UAH) - NA
-- buy :: [[https://goodwine.com.ua/brut-reserve-86036.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/2885d4d0-203d-428f-b915-93f64018b112][Billecart Salmon]]
+- name: [[barberry:/wines/12c59914-f654-4202-bf19-1eb27dcbd4f0][Brut Reserve]]
+- vintage: NV
+- base: ???
+- disgorged: ???
+- sur lie: ???
+- grapes: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 6
+- price: 2050 UAH
 
-#+LATEX: \newpage
-
-** Bruno Paillard Première Cuvée NV
+* Bruno Paillard Première Cuvée (d2020) NV
 :PROPERTIES:
-:ID:                     a0d05af5-04c4-4d90-9d25-f4ba39d91583
+:ID:                     14dedced-e308-4a1c-9ec7-5380a4b3aeaf
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-04-37-paillard.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2021-12-23-08-03-30-D7078530-BCDC-4F37-949F-0E8E7165D963-1-105-c.webp]]
 
-- producer :: Bruno Paillard
-- name :: Première Cuvée
-- dosage :: Extra Brut
-- vintage :: NV
-- degorgee :: November 2020
-- sur lie :: 36 months
-- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
-- appellation :: Champagne AOC
-- alcohol :: 12.0%
-- sugar :: 7.6g
-- price :: 3650 UAH (1825 UAH) - NA
-- buy :: [[https://goodwine.com.ua/premiere-cuvee-q7914.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/11da3d83-ca4a-4e23-a8f1-e8d1cf395b58][Bruno Paillard]]
+- name: [[barberry:/wines/9b57e144-d3e1-45b1-974b-a16a415962cf][Première Cuvée (d2020)]]
+- vintage: NV
+- disgorged: November 2020
+- sur lie: 36 months
+- grapes: Pinot Meunier, Chardonnay, Pinot Noir
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12
+- sugar: 7.6
+- price: 1825 UAH
 
-#+LATEX: \newpage
-
-** Shabo Grand Reserve Extra Brut NV
+* Shabo Grand Reserve Extra Brut NV
 :PROPERTIES:
-:ID:                     c05ae931-a206-4603-900d-c17bac79e4a0
+:ID:                     a6b5578c-3d54-454e-973a-8858ba6c23f0
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-01-shabo.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2021-12-23-08-07-59-8265F524-03EC-4095-98D6-B56BEA6FD3CC-1-105-c.webp]]
 
-- producer :: Shabo
-- name :: Grand Reserve Extra Brut
-- dosage :: Extra Brut
-- vintage :: NV
-- degorgee :: ???
-- sur lie :: 36 months
-- grapes :: Chardonnay, Pinot Noir
-- region :: Odesa
-- alcohol :: 12.0%
-- sugar :: ???
-- price :: 516 UAH
-- buy :: [[https://goodwine.com.ua/shabo-grand-reserve-extra-brut-82070.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/0032e65d-003c-41e8-8e5c-116397e9efbf][Shabo]]
+- name: [[barberry:/wines/108c69b0-4506-4e05-9da4-c73ccd053992][Grand Reserve Extra Brut]]
+- vintage: NV
+- disgorged: ???
+- sur lie: 36 months
+- grapes: Chardonnay, Pinot Noir
+- region: Odesa Region
+- location: Ukraine
+- alcohol: 12.0
+- sugar: N/A
+- price: 516 UAH
 
-https://goodwine.com.ua/shabo-grand-reserve-extra-brut-82070.html
-
-#+LATEX: \newpage
-
-** Ca Del Vent Memoria Brut Pas Opere 2014
+* Cà del Vént Memoria Brut Pas Operé VSQ 2014
 :PROPERTIES:
-:ID:                     923b6af0-6ec1-4fad-8661-a475c56430cc
+:ID:                     5c1ff6dd-1169-4052-96b7-a7bc2930c6ea
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/memoria.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2021-08-18-10-41-35-FCC587D7-11D7-4626-85A5-E63C05DC0170-1-105-c.webp]]
 
-- producer :: Ca Del Vent
-- name :: Memoria Brut Pas Opere
-- dosage :: Brut
-- vintage :: 2014
-- degorgee :: ~2018-2019
-- sur lie :: 44 months
-- grapes :: Chardonnay, Pinot Noir
-- appellation :: Vino
-- region :: Lombardia
-- alcohol :: 12.5%
-- sugar :: 3
-- price :: 1650 UAH
-- buy :: [[https://goodwine.com.ua/memoria-brut-pas-opere-q0228.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/10c5a427-ee4a-4962-a855-a9bbfd135d39][Cà del Vént]]
+- name: [[barberry:/wines/1c498873-9026-4a72-b993-0c51235b0883][Memoria Brut Pas Operé VSQ]]
+- vintage: 2014
+- disgorged: ~2018-2019
+- sur lie: 44 months
+- grapes: Chardonnay, Pinot Noir
+- appellation: Vino (IT)
+- location: Italy
+- alcohol: 12.5
+- sugar: N/A
+- price: 1650 UAH
 
-#+LATEX: \newpage
-
-** Bereche et Fils Brut Reserve NV
+* Bérêche & Fils Brut Réserve NV
 :PROPERTIES:
-:ID:                     a3b542f0-2144-44f2-8c10-295c0eff1cf8
+:ID:                     36d3122e-cdfa-4543-8a62-483459abeff3
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-42-bereche.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2020-12-21-10-51-59-A5F14ECD-AE5D-4213-B9F3-A0B3001FF240-1-105-c.webp]]
 
-- producer :: Bereche et Fils
-- name :: Brut Reserve
-- dosage :: Extra Brut
-- vintage :: NV
-- degorgee :: 06/2021
-- sur lie :: 24 months
-- grapes :: Pinot Meunier, Chardonnay, Pinot Noir
-- appellation :: Champagne
-- alcohol :: 12.5%
-- sugar :: 6.0g
-- price :: 1837 UAH - NA
-- buy :: [[https://goodwine.com.ua/brut-reserve-q0097.html][goodwine.com.ua]]
+- producer: [[barberry:/producers/18b6ff64-8c47-4ad7-8c3c-01176de9a865][Bérêche & Fils]]
+- name: [[barberry:/wines/03c58432-e29b-470c-985b-a1fa44ac3df7][Brut Réserve]]
+- vintage: NV
+- degorgee: 06/2021
+- sur lie: 24 months
+- grapes: Pinot Meunier, Pinot Noir, Chardonnay
+- appellation: Champagne AOC
+- location: Champagne, France
+- alcohol: 12.5
+- sugar: 6.0
+- price: 1837 UAH
 
-#+LATEX: \newpage
-
-** Marco De Bartoli Terzavia 2018
+* Marco De Bartoli Terzavia 2018
 :PROPERTIES:
-:ID:                     07478f01-89fb-4959-a91c-1d4cfac2f585
+:ID:                     e0145f04-524a-4d8a-9127-0fda6153b333
 :END:
 
-#+ATTR_LATEX: :height 6cm
 #+attr_html: :class bottle-right
-[[file:/images/2021-12-21-classy-bubbles/2021-12-19-17-05-56-terzavia.webp]]
+[[file:/images/2021-12-21-classy-bubbles/2022-11-29-10-39-32-IMG-3488.webp]]
 
-- producer :: Marco De Bartoli
-- name :: Terzavia
-- dosage :: Extra Brut
-- vintage :: 2018
-- degorgee :: 2021
-- sur lie :: >18 months
-- grapes :: Grillo
-- appellation :: Sicilia DOC
-- alcohol :: 11.0%
-- sugar :: 3.0g
-- price :: 1085 UAH
-- buy :: [[https://goodwine.com.ua/terzavia-metodo-classico-q7821.html][goodwine.com.ua]]
-
-#+LATEX: \newpage
+- producer: [[barberry:/producers/8d6cdbba-67bf-4a6c-a39e-48c4b5be3a45][Marco De Bartoli]]
+- name: [[barberry:/wines/3811fe0e-abd2-43f1-b405-4133d488b8e7][Terzavia]]
+- vintage: 2018
+- disgorged: 2021
+- sur lie: >18 months
+- grapes: Grillo
+- appellation: Sicilia DOC
+- location: Sicily, Italy
+- alcohol: 11.5
+- sugar: 3
+- price: 1085 UAH
 
 * Fun facts
 :PROPERTIES:

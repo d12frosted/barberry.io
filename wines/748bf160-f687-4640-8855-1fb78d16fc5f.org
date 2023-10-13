@@ -33,5 +33,29 @@ A strange wine, to be honest. Aye, it offers charming notes of mushrooms, mould,
     <section class="h text-bolder">Le Haut-Lieu Sec - 2017</section>
   </a>
 
+  <a class="flex-item flex-item-left" href="/wines/64475375-acb6-4d1b-a019-5dc61b01b1dc.html">
+    <img class="flex-bottle" src="/images/64/475375-acb6-4d1b-a019-5dc61b01b1dc/2022-09-26-18-53-19-8427D758-DF7F-4227-A6A3-648DA6AE3A0B-1-102-o@512.webp"></img>
+    <section class="h">Muchada-Léclapart</section>
+    <section class="h text-bolder">Univers - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/73517407-e727-4a49-ae59-bdac92fe97b0.html">
+    <img class="flex-bottle" src="/images/73/517407-e727-4a49-ae59-bdac92fe97b0/2023-10-10-07-55-19-A13B50AB-E331-4807-B58C-998C95DF0EE1-1-105-c@512.webp"></img>
+    <section class="h">Eugenio Rosi</section>
+    <section class="h text-bolder">Anisos - 2018</section>
+  </a>
+
+  <a class="flex-item flex-item-left" href="/wines/74875d5c-0eeb-4107-8d9a-4fc4377b15a5.html">
+    <img class="flex-bottle" src="/images/74/875d5c-0eeb-4107-8d9a-4fc4377b15a5/2023-10-13-13-35-32-9B754709-1F2C-4924-BEEB-26B02573C0CD-1-105-c@512.webp"></img>
+    <section class="h">Coulée de Serrant</section>
+    <section class="h text-bolder">Clos de la Bergerie - 2017</section>
+  </a>
+
+  <a class="flex-item flex-item-right" href="/wines/e9babbd8-42bb-4c05-91f9-2c463a71bdd8.html">
+    <img class="flex-bottle" src="/images/e9/babbd8-42bb-4c05-91f9-2c463a71bdd8/2023-10-10-08-02-46-307351B9-7EB4-42DE-9030-A500471CACB6-1-105-c@512.webp"></img>
+    <section class="h">Vilmart & Cie</section>
+    <section class="h text-bolder">Grand Cellier d'Or 1er Cru à Rilly la Montagne - 2015</section>
+  </a>
+
 </div>
 #+end_export

@@ -1,5 +1,18 @@
 [[file:/images/2023-10-12-bourgogne/2023-10-13-08-38-06-IMG-9825.webp]]
 
+Amidst the gentle curves of its rolling vineyards and the timeworn cobbles of its ancient villages, Burgundy has, for centuries, been synonymous with wine of unparalleled distinction. It was with a nod to this rich heritage that "люди люблять вино", a community of oenophiles, chose to dedicate their final event to this iconic wine region. In an atmosphere teeming with anticipation and camaraderie, [[https://instagram.com/imulianov][Vova Ulianov]] and [[https://t.me/MykolaWhat][Mykola Chobanu]], organizers behind the event, challenged attendees with a blind tasting, allowing the true essence of Burgundy to shine, unfettered by labels or preconceptions.
+
+This was not just an evening for savouring the nuanced flavours of Burgundy's famed varietals. Throughout the event, attendees had the privilege of tasting eight handpicked wines: three robust Pinot Noirs, four delicate Chardonnays, and a singular, refreshing Aligoté. Each pour was an exploration, each aroma a revelation, with every bottle standing as a testament to the land and hands that crafted it. As glasses clinked and notes were fervently jotted down, it became evident that the true essence of "люди люблять вино" was not just in the appreciation of the drink, but in the shared experience of discovery and passion.
+
+1. [[barberry:/wines/477160d7-d33f-4602-b41f-c27bbbd20a4b][Yann Durieux CDN 2018]]
+2. [[barberry:/wines/f423cba0-4948-4c56-9e02-75f459163960][Antoine Lienhardt Emphase 2020]]
+3. [[barberry:/wines/03e47266-8b42-40a4-8950-713f20632838][Pierre Naigeon Gevrey-Chambertin Meix-Bas 2013]]
+4. [[barberry:/wines/3eeefc0c-c2cc-4f8a-80e7-e71bf1c06620][Domaine Derain Saint-Aubin 1er Cru En Remilly 2018]]
+5. [[barberry:/wines/4972c06d-8ac0-488f-8d46-e96fb404ffcd][François de Nicolay Bouzeron 2020]]
+6. [[barberry:/wines/164a4ecb-6863-40e3-9d5b-3beee87cad16][La Soufrandière Pouilly-Vinzelles Climat Les Quarts Cuvée Zen 2019]]
+7. [[barberry:/wines/785e693c-e1fc-45fe-93f0-119eddb6d6c7][Philippe Pacalet Corton-Charlemagne Grand Cru 2011]]
+8. [[barberry:/wines/9038017f-adc5-4695-be01-6a1935308467][Henri & Gilles Buisson Meursault Les Vignes de Marguerite 2018]]
+
 * Scores
 :PROPERTIES:
 :ID:                     a8d2d9c8-7156-4c75-8b9c-a83e70b18371
@@ -27,6 +40,150 @@ How to read this table:
 - =outcast= is amount of people who marked this wine outcast of the event.
 - =price= is wine price in UAH.
 - =QPR= is quality price ratio, calculated in as =100 * factorial(rms)/price=. The reason behind this totally unprofessional formula is simple. At some point you have to pay more and more to get a little fraction of satisfaction. Factorial used in this formula rewards scores close to the upper bound 120 times more than scores close to the lower bound.
+
+* Yann Durieux CDN 2018
+:PROPERTIES:
+:ID:                     86b55dfe-404d-4766-a005-172aa81ebb0e
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-52-14-IMG-9816.webp]]
+
+- producer: [[barberry:/producers/00650475-cc60-4aa5-b869-97a618a2b997][Yann Durieux]]
+- name: [[barberry:/wines/477160d7-d33f-4602-b41f-c27bbbd20a4b][CDN]]
+- vintage: 2018
+- grapes: Pinot Noir
+- appellation: Vin de Table
+- location: France
+- alcohol: 13
+- sugar: 1.5
+- price: 3550 UAH
+
+* Antoine Lienhardt Emphase 2020
+:PROPERTIES:
+:ID:                     79bdd2c8-5b52-447c-bd99-f51010a1840c
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-51-07-IMG-9813.webp]]
+
+- producer: [[barberry:/producers/9f1b1924-7ee3-4343-b76c-8b63fe5ccd18][Antoine Lienhardt]]
+- name: [[barberry:/wines/f423cba0-4948-4c56-9e02-75f459163960][Emphase]]
+- vintage: 2020
+- grapes: Pinot Noir
+- appellation: Côte de Nuits-villages AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 1880 UAH
+
+* Pierre Naigeon Gevrey-Chambertin Meix-Bas 2013
+:PROPERTIES:
+:ID:                     6473be9c-647e-45e9-bcb0-dedf306b3b33
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-53-36-IMG-9818.webp]]
+
+- producer: [[barberry:/producers/ef9eabd3-54fa-49c5-b370-680bd821f794][Pierre Naigeon]]
+- name: [[barberry:/wines/03e47266-8b42-40a4-8950-713f20632838][Gevrey-Chambertin Meix-Bas]]
+- vintage: 2013
+- grapes: Pinot Noir
+- appellation: Gevrey-Chambertin AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 2990 UAH
+
+* Domaine Derain Saint-Aubin 1er Cru En Remilly 2018
+:PROPERTIES:
+:ID:                     888a9465-8d5d-426a-b4b4-8f1facd2a79b
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-44-05-IMG-9800.webp]]
+
+- producer: [[barberry:/producers/67b094dd-f7b3-4e46-8d7d-cf56339a7cf6][Domaine Derain]]
+- name: [[barberry:/wines/3eeefc0c-c2cc-4f8a-80e7-e71bf1c06620][Saint-Aubin 1er Cru En Remilly]]
+- vintage: 2018
+- grapes: Chardonnay
+- appellation: Saint-Aubin AOC
+- location: Burgundy, France
+- alcohol: 14
+- sugar: 1
+- price: 2250 UAH
+
+* François de Nicolay Bouzeron 2020
+:PROPERTIES:
+:ID:                     e7fd39e3-3423-42bd-9210-a3070ec2fd9f
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-49-28-IMG-9810.webp]]
+
+- producer: [[barberry:/producers/163248a9-c9bc-498a-9107-0ab002f2ea9f][François de Nicolay]]
+- name: [[barberry:/wines/4972c06d-8ac0-488f-8d46-e96fb404ffcd][Bouzeron]]
+- vintage: 2020
+- grapes: Aligoté
+- appellation: Bouzeron AOC
+- location: Burgundy, France
+- alcohol: 11.5
+- sugar: 1
+- price: 1090 UAH
+
+* La Soufrandière Pouilly-Vinzelles Climat Les Quarts Cuvée Zen 2019
+:PROPERTIES:
+:ID:                     7a9273f6-7454-49c3-88c1-d1c990a14aee
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-47-10-IMG-9804.webp]]
+
+- producer: [[barberry:/producers/a5befa9a-875c-405d-ae48-c5c9d114dfad][La Soufrandière]]
+- name: [[barberry:/wines/164a4ecb-6863-40e3-9d5b-3beee87cad16][Pouilly-Vinzelles Climat Les Quarts Cuvée Zen]]
+- vintage: 2019
+- grapes: Chardonnay
+- appellation: Pouilly-Vinzelles AOC
+- location: Burgundy, France
+- alcohol: 13.5
+- sugar: 1.5
+- price: 2228 UAH
+
+* Philippe Pacalet Corton-Charlemagne Grand Cru 2011
+:PROPERTIES:
+:ID:                     0484d50d-409d-4ade-8bfe-c8cf977f18c8
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-48-22-IMG-9808.webp]]
+
+- producer: [[barberry:/producers/17e5f004-4286-4762-861a-8c029331e982][Philippe Pacalet]]
+- name: [[barberry:/wines/785e693c-e1fc-45fe-93f0-119eddb6d6c7][Corton-Charlemagne Grand Cru]]
+- vintage: 2011
+- grapes: Chardonnay
+- appellation: Corton-Charlemagne AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: N/A
+- price: 13500 UAH
+
+* Henri & Gilles Buisson Meursault Les Vignes de Marguerite 2018
+:PROPERTIES:
+:ID:                     4cb3b1fd-aa61-413e-8221-8dc9b091a953
+:END:
+
+#+attr_html: :class bottle-right
+[[file:/images/2023-10-12-bourgogne/2023-10-13-08-42-15-IMG-9797.webp]]
+
+- producer: [[barberry:/producers/fefbff78-bb6b-494e-9a4e-e0632bb9d208][Henri & Gilles Buisson]]
+- name: [[barberry:/wines/9038017f-adc5-4695-be01-6a1935308467][Meursault Les Vignes de Marguerite]]
+- vintage: 2018
+- grapes: Chardonnay
+- appellation: Meursault AOC
+- location: Burgundy, France
+- alcohol: 13
+- sugar: 2
+- price: 2850 UAH
 
 * Raw scores
 :PROPERTIES:

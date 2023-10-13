@@ -1,10 +1,19 @@
-Hello, fellow convive! This page contains a list of wines (249 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
+Hello, fellow convive! This page contains a list of wines (253 total) we tasted together, grouped by date. Some wines that we tasted together are not listed yet, because I haven't published them. Stay tuned!
 
 Bookmark this page and use it for your own good.
 
 #+begin_export html
 <div class="rating-list">
 #+end_export
+
+** Monday,  9 October 2023
+
+*** @Lo Kyiv
+
+- &nbsp; &emptyscore; [[barberry:/wines/e9babbd8-42bb-4c05-91f9-2c463a71bdd8][Vilmart & Cie Grand Cellier d'Or 1er Cru à Rilly la Montagne 2015]]
+- &nbsp; &emptyscore; [[barberry:/wines/74875d5c-0eeb-4107-8d9a-4fc4377b15a5][Coulée de Serrant Clos de la Bergerie 2017]]
+- &nbsp; &emptyscore; [[barberry:/wines/73517407-e727-4a49-ae59-bdac92fe97b0][Eugenio Rosi Anisos 2018]]
+- &nbsp; &emptyscore; [[barberry:/wines/64475375-acb6-4d1b-a019-5dc61b01b1dc][Muchada-Léclapart Univers 2017]]
 
 ** Friday, 29 September 2023
 
